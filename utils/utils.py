@@ -10,4 +10,3 @@ client_memory_path = "./client/embodied_memory/ori_data"
 
 model_name = "gpt-4o" 
 api_url="https://api.openai.com/v1/"
-api_key = ""
