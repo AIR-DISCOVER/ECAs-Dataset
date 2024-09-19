@@ -2,7 +2,7 @@
 [![Paper PDF](https://img.shields.io/badge/Paper-PDF-red.svg)]() [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97-Data-yellow)]() [![Python 3.8+](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3109/)
 
 <div style="width: 100%;">
-  <img src="./fig/memory_framwork.png" style="width: 100%;" alt="memory_framwork"></img>
+  <img src="../fig/memory_framwork.png" style="width: 100%;" alt="memory_framwork"></img>
 </div>
 
 ## 📌 Table of Contents
@@ -63,7 +63,7 @@ To init clients, remove dulplicates and assign names to candidates, the related 
 
 By using our generated embodied memory, you can select one of 100 clients's profile and memory to chat.
 
-1. You need set the api_key in `./utils/utils.py` (we use the OpenAI models).
+1. You need set the `api_key` in `./utils/utils.py` (we use the OpenAI models).
 
 2. You can use the `--cn` setting to select a client agent in the `/client/embodied_memory/ori_data` path for answering, for example (`--cn` parameter defaults to `test0`)
 
