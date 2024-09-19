@@ -115,7 +115,7 @@ class GenerativeAgent(BaseModel):
         self, observation: str, consult_turns: int, loop_reason: str, counselor_name: str, action:str, now: Optional[datetime] = None
     ) -> Tuple[bool, str]:
         """React to a given observation.""" 
-        # 连接memory数据库
+        # connect memory dataset
         self.collector.conn = sqlite3.connect(GlobalConfig.memory_database_path)
         self.collector.cursor = self.collector.conn.cursor()
 

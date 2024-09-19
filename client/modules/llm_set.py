@@ -43,27 +43,27 @@ def clean_JSON(ai_output):
         data = json.loads(ai_output)
         return data
     except json.JSONDecodeError:
-        pass  # 如果解析失败，继续尝试通过正则表达式提取 JSON
+        pass  
     
-    # 使用正则表达式查找 JSON 块
+    # Finding JSON blocks using regular expressions
     json_match = re.search(r'```json(.*?)```', ai_output, re.DOTALL)
     
     if not json_match:
-        return ""  # 如果没有找到 JSON 块，返回 None
+        return "" 
 
-    # 提取并清理 JSON 字符串
+    # Extract and clean the JSON string
     cleaned_json_str = json_match.group(1).strip()
     cleaned_json_str = cleaned_json_str.replace("True", "true").replace("False", "false")
     
     if not cleaned_json_str:
-        return ""  # 如果清理后的 JSON 字符串为空，返回 None
+        return "" 
 
     try:
         data = json.loads(cleaned_json_str)
         return data
     except json.JSONDecodeError as e:
         print(f"JSONDecodeError: {e.msg} at line {e.lineno} column {e.colno}")
-        return ""  # 如果解析失败，返回 None
+        return ""
 
 
 def chain_with_error_deal(prompt_template: PromptTemplate, vars, if_json):

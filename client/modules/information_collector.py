@@ -8,12 +8,9 @@ from client.modules.llm_set import GlobalConfig
 class InformationCollector:
     def __init__(self):
         self.whether_to_use_DB = False
-        # 设定文件夹的相对路径
         self.client_data_directory = os.path.join(GlobalConfig.client_storage_path, GlobalConfig.client_name)
         self.client_consulting_data_directory = os.path.join(GlobalConfig.client_storage_path, GlobalConfig.client_name, "consulting")
         self.client_character_directory = os.path.join(GlobalConfig.client_character_path, GlobalConfig.client_name + '.json')
-        # self.counselor_data_directory = os.path.join(GlobalConfig.counselor_storage_path, GlobalConfig.counselor_name)
-        # 初始化sql对象
         self.conn = sqlite3.connect(GlobalConfig.memory_database_path)
         self.cursor = self.conn.cursor()
 
@@ -95,19 +92,13 @@ class InformationCollector:
         return intermediate_beliefs_dict
     
     def read_txt_file(self, file_name):
-        # 构建文件完整路径
         file_path = os.path.join(self.client_consulting_data_directory, file_name)
-        # 打印尝试访问的文件路径（调试用）
-        # print(f"Attempting to read from: {file_path}")
         try:
             if not os.path.exists(file_path):
                 with open(file_path, 'w', encoding='utf-8') as f:
                     f.write('')
             with open(file_path, 'r', encoding='utf-8') as file:
                 content = file.read()
-                # print(f"File: {file_name}")
-                # print("Content:")
-                # print(content)
                 return content
         except FileNotFoundError:
             print(f"Error: File '{file_name}' not found in directory '{self.client_consulting_data_directory}'.")
@@ -115,13 +106,9 @@ class InformationCollector:
             print(f"An error occurred: {e}")
 
     def append_txt_file(self, file_name, content):
-        # 构建文件完整路径
         file_path = os.path.join(self.client_consulting_data_directory, file_name)
-        # 打印尝试访问的文件路径（调试用）
-        # print(f"Attempting to append to: {file_path}")
         try:
             with open(file_path, 'a', encoding='utf-8') as file:
-                # content加入换行符
                 content += "\n"
                 file.write(content)
                 print(f"Content appended to file '{file_name}'.")
@@ -129,9 +116,7 @@ class InformationCollector:
             print(f"An error occurred: {e}")
 
     def delect_txt_content(self, file_name):
-        # 构建文件完整路径
         file_path = os.path.join(self.client_consulting_data_directory, file_name)
-        # 打印尝试访问的文件路径（调试用）
         print(f"Attempting to delect content from: {file_path}")
         try:
             with open(file_path, 'w', encoding='utf-8') as file:

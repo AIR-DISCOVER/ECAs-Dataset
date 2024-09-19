@@ -188,7 +188,7 @@ class Client:
         if not os.path.exists(os.path.dirname(memory_path)):
             os.makedirs(os.path.dirname(memory_path))
 
-        # 初始化memory
+        # init memory
         if not os.path.exists(memory_path):
             with open(memory_path, 'w', encoding='utf-8') as f:
                 f.write('')

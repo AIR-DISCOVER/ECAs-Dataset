@@ -45,18 +45,18 @@ pip install -r requirements.txt
 
 To init clients, remove dulplicates and assign names to candidates, the related three Python scripts: `client_init.py`, `init_method.py` and `names.py` are used for processing candidate data from D4 dataset.
 
-1. You first need get D4 dataset from [D4 dataset website](https://x-lance.github.io/D4/), and and put them in the `./utils/D4` folder.
+1. Due to the privacy of real patient data, you need get REAL data from [D4 dataset website](https://x-lance.github.io/D4/), and and put them in the `./utils/D4` folder.
 
 2. Client initialization and duplicate removal.
-- Initializes candidate data by generating folders and saving dialogue and profile information from D4 dataset.
-- Removes duplicate candidate entries and moves non-duplicates to a new folder.
-- Assign Chinese and English names to the non duplicate candidates.
-- Copy the D4 raw data to `full_portrait.json` in each folder in `./client/proofiles`,
-- To get the processed data, You just need run:
+    - Initializes candidate data by generating folders and saving dialogue and profile information from D4 dataset.
+    - Removes duplicate candidate entries and moves non-duplicates to a new folder.
+    - Assign Chinese and English names to the non duplicate candidates.
+    - Copy the D4 raw data to `full_portrait.json` in each folder in `./client/proofiles`,
+    - To get the processed data, You just need run:
 
-  ```
-  python client_init.py
-  ```
+    ```
+    python client_init.py
+    ```
 
 
 ## Quickly Start Chatting with Client Agent
