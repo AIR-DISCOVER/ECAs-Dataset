@@ -2,7 +2,7 @@
 [![Paper PDF](https://img.shields.io/badge/Paper-PDF-red.svg)]() [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97-Data-yellow)]() [![Python 3.8+](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3109/)
 
 <div style="width: 100%;">
-  <img src="../fig/memory_framwork.png" style="width: 100%;" alt="memory_framwork"></img>
+  <img src="./fig/memory_framwork.png" style="width: 100%;" alt="memory_framwork"></img>
 </div>
 
 ## 📌 Table of Contents
