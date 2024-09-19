@@ -1,0 +1,326 @@
+{
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能完全独立，需要依赖他人。",
+                "others": "他人会在我需要时提供帮助。",
+                "world": "世界是互助的，大家彼此依赖。"
+            },
+            "rules": "我应该建立并维护良好的人际关系。",
+            "positive_assumption": "如果我与他人保持良好关系，我会获得更多的支持。",
+            "negative_assumption": "如果我不与他人保持良好关系，我会失去支持和帮助。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要他人的支持来完成任务。",
+                "others": "他人愿意帮助我，并希望我成功。",
+                "world": "世界充满合作的机会。"
+            },
+            "rules": "我应该主动寻求他人的帮助和建议。",
+            "positive_assumption": "如果我寻求帮助，我会更快地解决问题。",
+            "negative_assumption": "如果我不寻求帮助，我可能会陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够有效地管理时间和资源。",
+                "others": "他人会认可我的努力和成果。",
+                "world": "世界是公平的，努力会有回报。"
+            },
+            "rules": "我应该制定详细的计划并严格执行。",
+            "positive_assumption": "如果我有效地管理时间和资源，我会取得成功。",
+            "negative_assumption": "如果我不能有效地管理时间和资源，我会失败。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对并解决问题。",
+                "others": "他人可能会帮我，但我主要依靠自己。",
+                "world": "世界充满挑战，但我有能力应对。"
+            },
+            "rules": "当遇到困难时，我应该主动寻找解决方案。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须尽全力达到预期目标。",
+                "others": "他人对我有很高的期望，我必须满足这些期望。",
+                "world": "这个世界对每个人都有很高的要求。"
+            },
+            "rules": "我需要设定高目标并努力实现这些目标。",
+            "positive_assumption": "如果我达到预期目标，我会感到自豪并得到认可。",
+            "negative_assumption": "如果我未能达到预期目标，我会感到失望并被他人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能表现得很好，就说明我不够优秀。",
+                "others": "他人只会认可那些表现出色的人。",
+                "world": "这个世界是竞争激烈的，只有表现得很好才会被认可。"
+            },
+            "rules": "我必须在学业和生活中不断努力，不能有任何失误。",
+            "positive_assumption": "如果我表现得很好，我会得到他人的认可和赞赏。",
+            "negative_assumption": "如果我不能表现得很好，我会被他人忽视或看不起。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能完全独立，需要依赖他人。",
+                "others": "他人会在我需要时提供帮助。",
+                "world": "世界是互助的，大家彼此依赖。"
+            },
+            "rules": "我应该建立并维护良好的人际关系。",
+            "positive_assumption": "如果我与他人保持良好关系，我会获得更多的支持。",
+            "negative_assumption": "如果我不与他人保持良好关系，我会失去支持和帮助。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要他人的支持来完成任务。",
+                "others": "他人愿意帮助我，并希望我成功。",
+                "world": "世界充满合作的机会。"
+            },
+            "rules": "我应该主动寻求他人的帮助和建议。",
+            "positive_assumption": "如果我寻求帮助，我会更快地解决问题。",
+            "negative_assumption": "如果我不寻求帮助，我可能会陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够有效地管理时间和资源。",
+                "others": "他人会认可我的努力和成果。",
+                "world": "世界是公平的，努力会有回报。"
+            },
+            "rules": "我应该制定详细的计划并严格执行。",
+            "positive_assumption": "如果我有效地管理时间和资源，我会取得成功。",
+            "negative_assumption": "如果我不能有效地管理时间和资源，我会失败。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对并解决问题。",
+                "others": "他人可能会帮我，但我主要依靠自己。",
+                "world": "世界充满挑战，但我有能力应对。"
+            },
+            "rules": "当遇到困难时，我应该主动寻找解决方案。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须尽全力达到预期目标。",
+                "others": "他人对我有很高的期望，我必须满足这些期望。",
+                "world": "这个世界对每个人都有很高的要求。"
+            },
+            "rules": "我需要设定高目标并努力实现这些目标。",
+            "positive_assumption": "如果我达到预期目标，我会感到自豪并得到认可。",
+            "negative_assumption": "如果我未能达到预期目标，我会感到失望并被他人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能表现得很好，就说明我不够优秀。",
+                "others": "他人只会认可那些表现出色的人。",
+                "world": "这个世界是竞争激烈的，只有表现得很好才会被认可。"
+            },
+            "rules": "我必须在学业中不断努力，不能有任何失误。",
+            "positive_assumption": "如果我表现得很好，我会得到他人的认可和赞赏。",
+            "negative_assumption": "如果我不能表现得很好，我会被他人忽视或看不起。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能完全独立，需要依赖他人。",
+                "others": "他人会在我需要时提供帮助。",
+                "world": "世界是互助的，大家彼此依赖。"
+            },
+            "rules": "我应该建立并维护良好的人际关系。",
+            "positive_assumption": "如果我与他人保持良好关系，我会获得更多的支持。",
+            "negative_assumption": "如果我不与他人保持良好关系，我会失去支持和帮助。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要他人的支持来完成任务。",
+                "others": "他人愿意帮助我，并希望我成功。",
+                "world": "世界充满合作的机会。"
+            },
+            "rules": "我应该主动寻求他人的帮助和建议。",
+            "positive_assumption": "如果我寻求帮助，我会更快地解决问题。",
+            "negative_assumption": "如果我不寻求帮助，我可能会陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够有效地管理时间和资源。",
+                "others": "他人会认可我的努力和成果。",
+                "world": "世界是公平的，努力会有回报。"
+            },
+            "rules": "我应该制定详细的计划并严格执行。",
+            "positive_assumption": "如果我有效地管理时间和资源，我会取得成功。",
+            "negative_assumption": "如果我不能有效地管理时间和资源，我会失败。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对并解决问题。",
+                "others": "他人可能会帮我，但我主要依靠自己。",
+                "world": "世界充满挑战，但我有能力应对。"
+            },
+            "rules": "当遇到困难时，我应该主动寻找解决方案。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须尽全力达到预期目标。",
+                "others": "他人对我有很高的期望，我必须满足这些期望。",
+                "world": "这个世界对每个人都有很高的要求。"
+            },
+            "rules": "我需要设定高目标并努力实现这些目标。",
+            "positive_assumption": "如果我达到预期目标，我会感到自豪并得到认可。",
+            "negative_assumption": "如果我未能达到预期目标，我会感到失望并被他人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能表现得很好，就说明我不够优秀。",
+                "others": "他人只会认可那些表现出色的人。",
+                "world": "这个世界是竞争激烈的，只有表现得很好才会被认可。"
+            },
+            "rules": "我必须在学业和生活中不断努力，不能有任何失误。",
+            "positive_assumption": "如果我表现得很好，我会得到他人的认可和赞赏。",
+            "negative_assumption": "如果我不能表现得很好，我会被他人忽视或看不起。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

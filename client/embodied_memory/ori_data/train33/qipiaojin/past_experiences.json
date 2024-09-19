@@ -1,0 +1,566 @@
+{
+    "childhood": {
+        "name": "戚飘锦",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我记得有一次，我的数学成绩特别好，得了满分。父母非常高兴，爸爸还给我买了我最喜欢的玩具作为奖励。那一刻，我感到无比的开心和满足。",
+                "location": "南京家中的客厅",
+                "happen_time": "1993年11月",
+                "participants": "父亲，母亲",
+                "impact": "这个事件强化了我在学习上取得成功的重要性，形成了'我需要在学习上取得成功'的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "有一次，我没有完成作业，被老师批评了，回家后父母也很生气，爸爸甚至没跟我说话。那天晚上，我一个人在房间里偷偷哭了很久。",
+                "location": "南京家中的卧室",
+                "happen_time": "1994年5月",
+                "participants": "父亲，母亲",
+                "impact": "这个事件让我认识到如果我不努力学习，会失去父母的认可和表扬，形成了'如果我不努力学习，我会失去认可和表扬'的负面假设。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我坐在房间里，听见客厅里爸爸和妈妈又开始吵架了。那天他们吵得特别凶，妈妈声音都哑了。我透过门缝偷偷看见，爸爸摔了杯子，玻璃碎了一地。",
+                "location": "南京家中的客厅",
+                "happen_time": "1995年3月",
+                "participants": "父亲，母亲",
+                "impact": "这个事件让我对家庭和谐的责任感更加强烈，形成了'家庭和谐是我的责任'的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "有一天，妈妈告诉我她要去外地学习一个月，我感到非常难过，不想她离开，但她告诉我她会回来，并让我好好学习。",
+                "location": "南京家中的厨房",
+                "happen_time": "1996年7月",
+                "participants": "母亲",
+                "impact": "这个事件让我意识到我需要独立并且为未来努力，形成了'我必须为自己的未来努力'的核心信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "有一次，我和朋友们在学校一起玩耍，有个同学说我成绩好是因为我父母是老师和工人，这让我感到很自豪。",
+                "location": "南京小学的操场",
+                "happen_time": "1997年9月",
+                "participants": "三个好朋友",
+                "impact": "这个事件增强了我对自己能力的自信，形成了'我有能力在学习上取得好成绩'的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到妈妈在学校里批改作业时非常认真，甚至熬夜。我意识到她对工作的热爱和责任感。",
+                "location": "母亲的学校办公室",
+                "happen_time": "1998年5月",
+                "participants": "母亲",
+                "impact": "这个事件让我明白努力工作的重要性，形成了'我应该为未来打下坚实的基础'的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在一次期中考试中，我的成绩不理想，回家后感到非常沮丧。妈妈安慰我说，只要继续努力，成绩一定会提高。",
+                "location": "南京家中的卧室",
+                "happen_time": "1995年11月",
+                "participants": "母亲",
+                "impact": "这个事件缓解了我对成绩的焦虑，形成了'如果我积极主动地学习，我会取得好成绩'的正面假设。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校里因为帮同学而迟到了，老师表扬了我，父母也为我感到骄傲。这让我觉得帮助别人是对的。",
+                "location": "南京小学的教室",
+                "happen_time": "1996年4月",
+                "participants": "老师，父亲，母亲",
+                "impact": "这个事件让我形成了帮助他人的积极态度，增强了'父母会因为我的表现而感到满意'的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "有一次，我在家中主动帮妈妈做家务，她夸我是个好孩子，并说家庭和谐需要每个人的努力。",
+                "location": "南京家中的厨房",
+                "happen_time": "1997年1月",
+                "participants": "母亲",
+                "impact": "这个事件强化了我对家庭责任的认知，形成了'家庭和谐是每个成员的责任'的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到爸爸在工厂里工作时非常辛苦，但他从不抱怨。我意识到他对家庭的付出。",
+                "location": "父亲工作的工厂",
+                "happen_time": "1994年10月",
+                "participants": "父亲",
+                "impact": "这个事件让我对家庭责任感到更加深刻，形成了'一个和谐的家庭需要每个成员的努力'的中间信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在一次暑假里，妈妈带我去图书馆看书，并告诉我知识是非常重要的。这让我对读书产生了浓厚的兴趣。",
+                "location": "南京市图书馆",
+                "happen_time": "1997年7月",
+                "participants": "母亲",
+                "impact": "这个事件让我形成了对学习的热爱，增强了'我应该尽力学习并取得好成绩'的中间信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的孩子因为成绩不好被父母责骂，感到十分害怕。我暗自下决心一定不能让自己有这样的经历。",
+                "location": "南京家的邻居家",
+                "happen_time": "1992年5月",
+                "participants": "邻居家的孩子",
+                "impact": "这个事件让我更加重视学习成绩，形成了'学习成绩是评价一个孩子的重要标准'的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校里参加了一个演讲比赛并获得了第一名，父母为我感到非常骄傲。",
+                "location": "南京小学的礼堂",
+                "happen_time": "1996年10月",
+                "participants": "父亲，母亲，老师，同学",
+                "impact": "这个事件增强了我对自己能力的信心，形成了'我有能力在学习上取得好成绩'的中间信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到爸爸妈妈在讨论家庭开销，他们都在尽力计算如何省钱。这让我意识到家庭和谐需要每个人的努力。",
+                "location": "南京家中的客厅",
+                "happen_time": "1993年6月",
+                "participants": "父亲，母亲",
+                "impact": "这个事件让我认识到家庭和谐的责任，形成了'家庭和谐是每个成员的责任'的中间信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "有一次，我和朋友们在一起玩耍，有个朋友因为家庭问题哭了。我安慰她，并告诉她一切都会好起来的。",
+                "location": "南京小学的操场",
+                "happen_time": "1997年3月",
+                "participants": "三个好朋友",
+                "impact": "这个事件让我意识到情感支持的重要性，形成了'我必须乖巧懂事'的中间信念。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "戚飘锦",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "作为班级的学习委员，我组织了一次班级学术讨论会。在讨论会上，我带领同学们分享学习心得，解答他们的疑问。许多同学在会后表示受益匪浅，这让我感到成就感和责任感。",
+                "location": "学校教室",
+                "happen_time": "2000年4月",
+                "participants": "同学们",
+                "impact": "这次经历增强了我对帮助他人的信念，并坚定了我在教育和事业上取得成功的重要性。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次月考中，我的成绩没有达到预期，感到非常失落。父母在得知后，并没有责备我，而是鼓励我继续努力，并表示无论结果如何，他们都会支持我。",
+                "location": "家中",
+                "happen_time": "2001年5月",
+                "participants": "父母",
+                "impact": "这次事件让我感受到家庭的温暖和支持，强化了我对家庭和谐的责任感。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班主任在办公室里安慰一位成绩不理想的同学，老师耐心倾听并给予鼓励。",
+                "location": "学校办公室",
+                "happen_time": "2002年9月",
+                "participants": "班主任、同学",
+                "impact": "这一幕让我意识到老师的关怀和支持的重要性，同时也让我更加坚定了要在学习和生活中帮助他人的信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "作为学校舞蹈队的一员，我在一次校庆演出中担任了领舞。演出顺利进行，得到了老师和同学们的好评。",
+                "location": "学校礼堂",
+                "happen_time": "2003年11月",
+                "participants": "舞蹈队成员、老师、同学们",
+                "impact": "这次演出不仅提升了我的自信心，也让我意识到团队合作的重要性。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会上，我听到父母谈论他们对我未来的期望，希望我能在事业上取得成功。",
+                "location": "家中",
+                "happen_time": "2001年春节",
+                "participants": "父母",
+                "impact": "父母的期望加深了我在学术和事业上取得成就的决心。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在高考前的最后一次模拟考试中，我取得了年级第一名的好成绩。老师在班会上表扬了我，并鼓励我继续努力。",
+                "location": "学校教室",
+                "happen_time": "2004年5月",
+                "participants": "老师、同学们",
+                "impact": "这次成功经历增强了我的自信心，并让我更加坚定了努力学习的重要性。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "在一次班级活动中，我看到一位同学因为家庭问题而情绪低落，其他同学纷纷上前安慰和帮助他。",
+                "location": "学校操场",
+                "happen_time": "2002年10月",
+                "participants": "同学们",
+                "impact": "这一场景让我更加认识到朋友之间的支持和关怀的重要性。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在一次家庭会议上，我提出了关于家庭财务管理的建议，得到了父母的认可和采纳。",
+                "location": "家中",
+                "happen_time": "2003年8月",
+                "participants": "父母",
+                "impact": "这一事件增强了我在家庭事务中的自信心和责任感。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家中听到父母讨论如何平衡工作与家庭生活，他们互相支持共同解决问题。",
+                "location": "家中",
+                "happen_time": "2000年11月",
+                "participants": "父母",
+                "impact": "父母的言行让我意识到家庭和谐需要每个成员的努力，并强化了我对家庭责任的认知。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在一次课外活动中，我和朋友们一起完成了一项研究项目，得到了老师的高度评价。",
+                "location": "学校实验室",
+                "happen_time": "2003年4月",
+                "participants": "朋友们、老师",
+                "impact": "这次合作经历增强了我的团队协作能力和学术自信心。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "在一次家长会上，我看到父母与我的班主任深入交流，讨论我的学习情况。",
+                "location": "学校会议室",
+                "happen_time": "2001年12月",
+                "participants": "父母、班主任",
+                "impact": "父母的关注和支持让我感受到家庭的温暖，同时也激励我更加努力学习。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚餐中，父母与我分享了他们年轻时的奋斗经历，鼓励我坚持自己的梦想。",
+                "location": "家中",
+                "happen_time": "2002年春节",
+                "participants": "父母",
+                "impact": "父母的经历和鼓励激发了我在学术和职业上的追求，增强了我的毅力和信心。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "在一次学术讲座上，我看到一位优秀的校友分享了他在金融行业的成功经验。",
+                "location": "学校礼堂",
+                "happen_time": "2004年3月",
+                "participants": "校友、同学们",
+                "impact": "校友的成功经历成为我的榜样，进一步坚定了我在金融行业取得成就的决心。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在高三最后一次模拟考试前，我和同学们一起制定了详细的复习计划，并互相督促学习。",
+                "location": "学校教室",
+                "happen_time": "2004年4月",
+                "participants": "同学们",
+                "impact": "这次集体学习经历让我感受到集体力量的重要性，并增强了我的组织和协调能力。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一位同学因为家庭问题而影响了学习，老师和同学们纷纷提供帮助和支持。",
+                "location": "学校教室",
+                "happen_time": "2003年5月",
+                "participants": "老师、同学们",
+                "impact": "这一事件让我认识到家庭环境对学习的重要影响，并进一步强化了我对家庭和谐的责任感。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "戚飘锦",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我在大学里第一次参加了金融学术竞赛，当时我非常紧张，手心都出汗了。但我的教授鼓励我说：'你已经准备得很充分了，尽管放轻松，你一定可以的。' 结果我取得了第一名，这让我对自己的专业能力有了很大信心。",
+                "location": "北京大学校园",
+                "happen_time": "2005年10月",
+                "participants": "教授和同学",
+                "impact": "这次成功增强了我对自己在金融领域的信心，进一步坚定了我在事业上取得成功的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "我在毕业后的第一份工作中，遇到了一个非常严格的上司。一次他在办公室里大声批评我没有按时完成任务，当时全办公室的人都看着我，我感到非常羞愧和压力。之后，我加班加点，终于把任务完成，并得到了上司的认可。",
+                "location": "南京某知名金融公司",
+                "happen_time": "2009年3月",
+                "participants": "上司和同事",
+                "impact": "这件事让我意识到在职场中必须表现出色，努力工作才能获得认可，进一步加强了我对自己未来负有重要责任的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在公司里目睹了一位同事因为家庭问题而导致工作失误，被上司严厉批评。那天他情绪低落，看起来非常失落。之后，他告诉我家庭和工作的平衡有多么重要。",
+                "location": "南京某知名金融公司",
+                "happen_time": "2011年6月",
+                "participants": "同事和上司",
+                "impact": "这件事让我更加重视家庭和谐的重要性，并且认识到平衡家庭和事业是一个巨大的挑战，这加强了我必须尽全力维持家庭和谐与幸福的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我的母亲对我说：'家庭的和谐和幸福离不开你的付出，我们都很依赖你。' 当时我感到很大的压力，但也感受到家人的信任和依赖。",
+                "location": "南京家中",
+                "happen_time": "2013年春节",
+                "participants": "母亲和其他家庭成员",
+                "impact": "母亲的话加强了我必须维持家庭和谐的责任感，同时也让我感受到家庭对我的依赖，这强化了我在家庭事务上表现得井井有条的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在参加一个重要的金融会议时，我有机会与行业内的知名专家交流。他们对我的专业知识和工作表现给予了高度评价，并鼓励我继续努力。这次经历让我感到自己在行业内有很大的发展潜力。",
+                "location": "上海国际金融会议中心",
+                "happen_time": "2015年9月",
+                "participants": "行业专家和同事",
+                "impact": "这次经历进一步增强了我对在金融行业取得成功的信心，强化了我有能力在金融行业中取得成功的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在公司看到一位同事因为没有抓住一个重要的职业机会而被裁员。当时他的表情非常沮丧，整个人看起来都垮了。",
+                "location": "南京某知名金融公司",
+                "happen_time": "2017年4月",
+                "participants": "同事和上司",
+                "impact": "这件事让我认识到抓住职业机会的重要性，进一步加强了我应该抓住每一个学习和职业发展的机会的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在孩子升入小学的第一天，我和丈夫一起送他去学校。看到孩子高兴地跑进教室，我感到无比欣慰，同时也意识到自己的责任更重了。",
+                "location": "南京某小学",
+                "happen_time": "2018年9月",
+                "participants": "丈夫和孩子",
+                "impact": "这次经历让我更加重视家庭和孩子的教育，强化了我必须尽全力维持家庭和谐与幸福的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "我在舞蹈班上认识了一位非常优秀的舞者，她告诉我她每天练习舞蹈的时间和努力的过程。她的故事让我深受启发。",
+                "location": "南京某舞蹈班",
+                "happen_time": "2019年5月",
+                "participants": "舞蹈班老师和同学",
+                "impact": "这件事让我意识到无论是在工作还是生活中，都需要不断努力和坚持，这进一步增强了我对自己未来负有重要责任的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "一次我在股票市场上经历了巨大波动，几乎失去了大部分投资。当时我感到非常沮丧，但经过深入分析和总结经验，我重新调整了投资策略，最终成功挽回了部分损失。",
+                "location": "南京家中",
+                "happen_time": "2020年10月",
+                "participants": "丈夫",
+                "impact": "这次经历让我认识到风险管理和持续学习的重要性，进一步强化了我在事业上取得成功的核心信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "一次在公司年会上，我听到一位资深前辈分享他的职业发展经历，他提到了职业规划和目标设定的重要性，这让我深受启发。",
+                "location": "南京某知名金融公司",
+                "happen_time": "2021年1月",
+                "participants": "公司前辈和同事",
+                "impact": "这件事让我意识到职业规划的重要性，并且进一步坚定了我必须为未来的职业生涯做好准备的中间信念。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "戚飘锦",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我发现孩子最近的成绩下滑，老师在家长会上特别提到他需要更多的辅导和关注。",
+                "location": "孩子的学校",
+                "happen_time": "2021年10月",
+                "participants": "戚飘锦, 孩子的老师",
+                "impact": "增加了戚飘锦的压力，强化了她对孩子教育的责任感，进一步加深了焦虑。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次重要的工作项目中遇到困难，感觉自己的职业发展遭遇瓶颈。",
+                "location": "公司办公室",
+                "happen_time": "2021年12月",
+                "participants": "戚飘锦, 同事, 上司",
+                "impact": "使戚飘锦感到职业上的压力和不安，质疑自己的职业能力和未来发展。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到朋友因为压力太大而辞职回家，心里产生了很多共鸣和思考。",
+                "location": "朋友的家",
+                "happen_time": "2022年1月",
+                "participants": "戚飘锦, 朋友",
+                "impact": "让戚飘锦思考自己的生活和职业选择，增加了她对未来的不确定感和焦虑。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我发现孩子在家里的时间越来越少，常常有课外补习和活动，感觉我们之间的距离在拉大。",
+                "location": "家庭环境",
+                "happen_time": "2022年4月",
+                "participants": "戚飘锦, 孩子",
+                "impact": "增加了戚飘锦的孤独感和对家庭和谐的担忧，感到自己的努力没有得到回报。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我在电视新闻中看到一则关于家庭和谐的重要性的节目，心里产生了很多感触。",
+                "location": "家中的客厅",
+                "happen_time": "2022年6月",
+                "participants": "戚飘锦",
+                "impact": "强化了她对家庭和谐的责任感和压力，进一步加深对家庭事务的关注。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭旅行中，我和丈夫发生了争吵，感觉我们的关系出现了裂痕。",
+                "location": "旅行景点",
+                "happen_time": "2022年8月",
+                "participants": "戚飘锦, 丈夫",
+                "impact": "加深了戚飘锦对家庭关系的焦虑，担心家庭和谐的破裂。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次跳舞活动中结识了一些新朋友，感觉心情有所放松。",
+                "location": "舞蹈班",
+                "happen_time": "2022年10月",
+                "participants": "戚飘锦, 新朋友",
+                "impact": "暂时缓解了她的压力和焦虑，提供了一些情感支持。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到同事因为工作表现优异而被提拔，心里既羡慕又感到压力。",
+                "location": "公司办公室",
+                "happen_time": "2023年1月",
+                "participants": "戚飘锦, 同事",
+                "impact": "增加了她对自己职业发展的焦虑，强化了对事业成功的渴望。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在炒股中亏损了一笔资金，感到非常沮丧和失落。",
+                "location": "家中的书房",
+                "happen_time": "2023年3月",
+                "participants": "戚飘锦",
+                "impact": "加深了她对财务状况的担忧，影响了她的情绪和自信心。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我和丈夫一起参加了一次婚姻咨询，感觉我们的关系有所改善。",
+                "location": "婚姻咨询室",
+                "happen_time": "2023年5月",
+                "participants": "戚飘锦, 丈夫, 咨询师",
+                "impact": "缓解了她对家庭关系的担忧，增加了对未来的希望。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我听到孩子抱怨学习压力大，心里非常担心他的心理状态。",
+                "location": "家庭环境",
+                "happen_time": "2023年7月",
+                "participants": "戚飘锦, 孩子",
+                "impact": "增加了她对孩子教育的关注和焦虑，感到自己的责任更加重大。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次跳舞比赛中获得了第一名，感觉非常自豪和开心。",
+                "location": "舞蹈比赛会场",
+                "happen_time": "2023年9月",
+                "participants": "戚飘锦, 舞蹈班朋友",
+                "impact": "提升了她的自信心，暂时缓解了压力和焦虑。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次家庭聚会上与父母讨论孩子的教育问题，感到他们的期望和压力。",
+                "location": "父母家",
+                "happen_time": "2023年11月",
+                "participants": "戚飘锦, 父母",
+                "impact": "增加了她对孩子教育的责任感和焦虑，感到家庭期望的压力。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到丈夫在工作中遇到挫折，感到我们的家庭压力在增加。",
+                "location": "家庭环境",
+                "happen_time": "2024年1月",
+                "participants": "戚飘锦, 丈夫",
+                "impact": "增加了她对家庭财务和和谐的担忧，感到压力和不安。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在孩子的期末考试中发现他成绩有显著提高，感到非常欣慰和自豪。",
+                "location": "家庭环境",
+                "happen_time": "2024年3月",
+                "participants": "戚飘锦, 孩子",
+                "impact": "缓解了她对孩子教育的焦虑，增加了对未来的希望。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在工作中获得了一个重要的项目，感到非常有成就感和动力。",
+                "location": "公司办公室",
+                "happen_time": "2024年5月",
+                "participants": "戚飘锦, 同事, 上司",
+                "impact": "提升了她的职业自信心，增加了对事业成功的信心。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到朋友因为孩子的教育问题而感到焦虑，心里感同身受。",
+                "location": "朋友的家",
+                "happen_time": "2024年7月",
+                "participants": "戚飘锦, 朋友",
+                "impact": "进一步加深了她对孩子教育的焦虑，强化了对家庭责任感的认知。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次家庭聚会上与丈夫讨论未来的职业发展和孩子的教育问题，达成了一些共识。",
+                "location": "家庭环境",
+                "happen_time": "2024年8月",
+                "participants": "戚飘锦, 丈夫",
+                "impact": "缓解了一部分家庭和职业的压力，增强了对未来的信心和希望。"
+            }
+        ]
+    }
+}

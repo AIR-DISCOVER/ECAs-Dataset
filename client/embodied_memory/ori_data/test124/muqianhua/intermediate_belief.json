@@ -1,0 +1,362 @@
+{
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须保护自己。",
+                "others": "他人可能会伤害我。",
+                "world": "这个世界对我充满了潜在的威胁。"
+            },
+            "rules": "我应该尽量避免与人接触。",
+            "positive_assumption": "如果我保持距离，我会减少被伤害的风险。",
+            "negative_assumption": "如果我开放自己，我会被他人伤害。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我处于敌对的环境中。",
+                "others": "他人潜在的威胁存在。",
+                "world": "这个世界对我不友善。"
+            },
+            "rules": "我应该保持警惕。",
+            "positive_assumption": "如果我保持警惕，我会避免更多的伤害。",
+            "negative_assumption": "如果我放松警惕，我会遭到更多的伤害。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能表现出脆弱的一面。",
+                "others": "他人不会真正理解我的脆弱。",
+                "world": "这个世界对脆弱的人不友好。"
+            },
+            "rules": "我应该始终表现得坚强。",
+            "positive_assumption": "如果我表现得坚强，我会减少被伤害的可能。",
+            "negative_assumption": "如果我表现出脆弱，我会被他人轻视。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须独自解决所有问题。",
+                "others": "他人不会真正帮我。",
+                "world": "这个世界是冷漠的。"
+            },
+            "rules": "我应该避免依赖他人。",
+            "positive_assumption": "如果我独自解决问题，我会显得更强大。",
+            "negative_assumption": "如果我依赖他人，我会显得脆弱。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力实现梦想。",
+                "others": "他人会阻碍我的梦想。",
+                "world": "这个世界不会支持我的梦想。"
+            },
+            "rules": "我不应该有太多梦想。",
+            "positive_assumption": "如果我不追求梦想，我会更加现实。",
+            "negative_assumption": "如果我追求梦想，我会遭遇更多的挫折。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法实现自己的目标。",
+                "others": "他人会嘲笑我的努力。",
+                "world": "这个世界不会给我实现目标的机会。"
+            },
+            "rules": "我应该避免设立高目标。",
+            "positive_assumption": "如果我设立小目标，我会减少失败的风险。",
+            "negative_assumption": "如果我设立高目标，我会经历更大的失败。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得被认可。",
+                "others": "他人不会认可我的努力。",
+                "world": "这个世界不会给我认可。"
+            },
+            "rules": "我不应该期望得到认可。",
+            "positive_assumption": "如果我不期望认可，我就不会失望。",
+            "negative_assumption": "如果我期望认可，我就会被忽视和遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力完成任务。",
+                "others": "他人会看不起我。",
+                "world": "这个世界对我没有任何帮助。"
+            },
+            "rules": "我应该避免承担重要任务。",
+            "positive_assumption": "如果我避免承担任务，我就不会失败。",
+            "negative_assumption": "如果我承担任务，我就会暴露我的无能。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得拥有幸福。",
+                "others": "他人不会真心希望我幸福。",
+                "world": "幸福对我来说是遥不可及的。"
+            },
+            "rules": "我应该降低对幸福的期望。",
+            "positive_assumption": "如果我不期待幸福，我就不会失望。",
+            "negative_assumption": "如果我期待幸福，我就会被现实打击。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得被关心。",
+                "others": "他人不会真心爱我。",
+                "world": "在这个世界上，没人会真正关心我。"
+            },
+            "rules": "我应该尽量避免依赖他人。",
+            "positive_assumption": "如果我独立，我就不会被伤害。",
+            "negative_assumption": "如果我依赖他人，我就会遭到拒绝和伤害。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须保护自己。",
+                "others": "他人可能会伤害我。",
+                "world": "这个世界对我充满了潜在的威胁。"
+            },
+            "rules": "我应该尽量避免与人接触。",
+            "positive_assumption": "如果我保持距离，我会减少被伤害的风险。",
+            "negative_assumption": "如果我开放自己，我会被他人伤害。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我处于敌对的环境中。",
+                "others": "他人潜在的威胁存在。",
+                "world": "这个世界对我不友善。"
+            },
+            "rules": "我应该保持警惕。",
+            "positive_assumption": "如果我保持警惕，我会避免更多的伤害。",
+            "negative_assumption": "如果我放松警惕，我会遭到更多的伤害。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能表现出脆弱的一面。",
+                "others": "他人不会真正理解我的脆弱。",
+                "world": "这个世界对脆弱的人不友好。"
+            },
+            "rules": "我应该始终表现得坚强。",
+            "positive_assumption": "如果我表现得坚强，我会减少被伤害的可能。",
+            "negative_assumption": "如果我表现出脆弱，我会被他人轻视。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须独自解决所有问题。",
+                "others": "他人不会真正帮我。",
+                "world": "这个世界是冷漠的。"
+            },
+            "rules": "我应该避免依赖他人。",
+            "positive_assumption": "如果我独自解决问题，我会显得更强大。",
+            "negative_assumption": "如果我依赖他人，我会显得脆弱。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力实现梦想。",
+                "others": "他人会阻碍我的梦想。",
+                "world": "这个世界不会支持我的梦想。"
+            },
+            "rules": "我不应该有太多梦想。",
+            "positive_assumption": "如果我不追求梦想，我会更加现实。",
+            "negative_assumption": "如果我追求梦想，我会遭遇更多的挫折。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法实现自己的目标。",
+                "others": "他人会嘲笑我的努力。",
+                "world": "这个世界不会给我实现目标的机会。"
+            },
+            "rules": "我应该避免设立高目标。",
+            "positive_assumption": "如果我设立小目标，我会减少失败的风险。",
+            "negative_assumption": "如果我设立高目标，我会经历更大的失败。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得被认可。",
+                "others": "他人不会认可我的努力。",
+                "world": "这个世界不会给我认可。"
+            },
+            "rules": "我不应该期望得到认可。",
+            "positive_assumption": "如果我不期望认可，我就不会失望。",
+            "negative_assumption": "如果我期望认可，我就会被忽视和遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力完成任务。",
+                "others": "他人会看不起我。",
+                "world": "这个世界对我没有任何帮助。"
+            },
+            "rules": "我应该避免承担重要任务。",
+            "positive_assumption": "如果我避免承担任务，我就不会失败。",
+            "negative_assumption": "如果我承担任务，我就会暴露我的无能。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得拥有幸福。",
+                "others": "他人不会真心希望我幸福。",
+                "world": "幸福对我来说是遥不可及的。"
+            },
+            "rules": "我应该降低对幸福的期望。",
+            "positive_assumption": "如果我不期待幸福，我就不会失望。",
+            "negative_assumption": "如果我期待幸福，我就会被现实打击。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得被关心。",
+                "others": "他人不会真心爱我。",
+                "world": "在这个世界上，没人会真正关心我。"
+            },
+            "rules": "我应该尽量避免依赖他人。",
+            "positive_assumption": "如果我独立，我就不会被伤害。",
+            "negative_assumption": "如果我依赖他人，我就会遭到拒绝和伤害。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

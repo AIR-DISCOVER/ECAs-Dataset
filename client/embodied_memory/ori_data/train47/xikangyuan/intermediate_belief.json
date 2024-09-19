@@ -1,0 +1,272 @@
+{
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要满足他人的期望。",
+                "others": "他人对我的期望非常高。",
+                "world": "人际关系中他人的期望是至关重要的。"
+            },
+            "rules": "我必须尽全力满足他人的期望。",
+            "positive_assumption": "如果我满足了他人的期望，我会得到认可和支持。",
+            "negative_assumption": "如果我无法满足他人的期望，我会让他们失望。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法有效应对压力。",
+                "others": "他人可能会认为我不够坚强。",
+                "world": "压力是无法避免的，而我无力应对。"
+            },
+            "rules": "我应该避免压力大的情境。",
+            "positive_assumption": "如果我能避开压力，我会感觉更轻松。",
+            "negative_assumption": "如果我面对压力，我会崩溃。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我的努力会得到回报。",
+                "others": "他人会尊重我的成就。",
+                "world": "世界是公平的，我的价值会被认可。"
+            },
+            "rules": "我应该坚持努力工作，实现我的目标。",
+            "positive_assumption": "如果我努力工作，我会取得成功并被尊重。",
+            "negative_assumption": "如果我不努力，我就会失去价值和认可。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在每个方面都表现得完美。",
+                "others": "他人会因为我的错误而看低我。",
+                "world": "世界对我的要求非常高。"
+            },
+            "rules": "我不能容忍自己的错误。",
+            "positive_assumption": "如果我表现得完美，我会被认可和尊重。",
+            "negative_assumption": "如果我有缺陷或犯错，我就会被他人看低。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要满足父母和老师的期望。",
+                "others": "父母和老师对我的期望非常高。",
+                "world": "在学业上，他人的期望是至关重要的。"
+            },
+            "rules": "我必须尽全力满足父母和老师的期望。",
+            "positive_assumption": "如果我满足了父母和老师的期望，我会得到认可和支持。",
+            "negative_assumption": "如果我无法满足父母和老师的期望，我会让他们失望。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法有效应对学业压力。",
+                "others": "同学和老师可能会认为我不够坚强。",
+                "world": "学业压力是无法避免的，而我无力应对。"
+            },
+            "rules": "我应该避免学业压力大的情境。",
+            "positive_assumption": "如果我能避开学业压力，我会感觉更轻松。",
+            "negative_assumption": "如果我面对学业压力，我会崩溃。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我的努力会在考试成绩上得到回报。",
+                "others": "老师和家长会尊重我的学业成就。",
+                "world": "学业上的努力会被世界认可。"
+            },
+            "rules": "我应该坚持努力学习，实现优异的成绩。",
+            "positive_assumption": "如果我努力学习，我会取得好成绩并被尊重。",
+            "negative_assumption": "如果我不努力学习，我就会失去价值和认可。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在学习上表现得完美。",
+                "others": "同学和老师会因为我的错误而看低我。",
+                "world": "学校对我的要求非常高。"
+            },
+            "rules": "我不能容忍自己的学业错误。",
+            "positive_assumption": "如果我在学业上表现得完美，我会被认可和尊重。",
+            "negative_assumption": "如果我在学业上有缺陷或犯错，我就会被他人看低。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "他人的认可对我很重要。",
+                "others": "他人会对我有严格的评判标准。",
+                "world": "社会对表现平庸者不宽容。"
+            },
+            "rules": "我应该尽量避免让他人失望。",
+            "positive_assumption": "如果我得到他人的认可，我会感到满意。",
+            "negative_assumption": "如果我让他人失望，我会感到不安。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要满足他人的期望。",
+                "others": "他人对我的期望非常高。",
+                "world": "人际关系中他人的期望是至关重要的。"
+            },
+            "rules": "我必须尽全力满足他人的期望。",
+            "positive_assumption": "如果我满足了他人的期望，我会得到认可和支持。",
+            "negative_assumption": "如果我无法满足他人的期望，我会让他们失望。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "遇到困难时，我常常感到无助。",
+                "others": "他人不会理解我的压力。",
+                "world": "这个世界对弱者不友好。"
+            },
+            "rules": "我应尽量避免让自己陷入困境。",
+            "positive_assumption": "如果我避免困境，我会减少痛苦。",
+            "negative_assumption": "如果我面对困境，我会被击垮。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法有效应对压力。",
+                "others": "他人可能会认为我不够坚强。",
+                "world": "压力是无法避免的，而我无力应对。"
+            },
+            "rules": "我应该避免压力大的情境。",
+            "positive_assumption": "如果我能避开压力，我会感觉更轻松。",
+            "negative_assumption": "如果我面对压力，我会崩溃。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我的努力会得到回报。",
+                "others": "他人会尊重我的成就。",
+                "world": "世界是公平的，我的价值会被认可。"
+            },
+            "rules": "我应该坚持努力工作，实现我的目标。",
+            "positive_assumption": "如果我努力工作，我会取得成功并被尊重。",
+            "negative_assumption": "如果我不努力，我就会失去价值和认可。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要努力让每个人满意。",
+                "others": "他人会不断挑剔我的表现。",
+                "world": "世界上没有容错的余地。"
+            },
+            "rules": "我必须尽全力避免犯错。",
+            "positive_assumption": "如果我没有犯错，我会赢得大家的认可。",
+            "negative_assumption": "如果我犯了错，我会被批评和否定。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在每个方面都表现得完美。",
+                "others": "他人会因为我的错误而看低我。",
+                "world": "世界对我的要求非常高。"
+            },
+            "rules": "我不能容忍自己的错误。",
+            "positive_assumption": "如果我表现得完美，我会被认可和尊重。",
+            "negative_assumption": "如果我有缺陷或犯错，我就会被他人看低。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

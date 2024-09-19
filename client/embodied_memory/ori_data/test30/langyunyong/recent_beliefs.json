@@ -1,0 +1,99 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不如别人。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我需要他人的认可。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有能力面对挑战。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是感觉自己不够好。",
+                "others": "他人比我更优秀，更值得成功。",
+                "world": "这个世界对我不公平，总是让别人更成功。"
+            },
+            "rules": "我应该避免与他人竞争，以免显得自己不如他们。",
+            "positive_assumption": "如果我避免竞争，我就不会感到自卑。",
+            "negative_assumption": "如果我尝试竞争，我会失败并证明自己不如别人。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得拥有成功。",
+                "others": "他人会发现我的不足之处并批评我。",
+                "world": "成功只属于那些比我更优秀的人。"
+            },
+            "rules": "我应该避免追求高目标，以免失败。",
+            "positive_assumption": "如果我设定低目标，我就不会感到挫败。",
+            "negative_assumption": "如果我设定高目标，我会失败并感到更加自卑。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要别人的认可才能感觉到自己的价值。",
+                "others": "他人的意见对我非常重要。",
+                "world": "这个世界上的人都在评判我。"
+            },
+            "rules": "我必须努力让别人满意，以获得认可。",
+            "positive_assumption": "如果我能让别人满意，我就会被认可和接受。",
+            "negative_assumption": "如果我不能让别人满意，我将失去他们的认可和支持。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要不断地证明自己。",
+                "others": "他人对我的评价决定了我的价值。",
+                "world": "这个世界总是在评判和比较。"
+            },
+            "rules": "我应该不断努力，以赢得他人的认可。",
+            "positive_assumption": "如果我努力工作并表现出色，我会得到认可。",
+            "negative_assumption": "如果我表现不好，我会被忽视和批评。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力应对生活中的挑战。",
+                "others": "他人可以提供帮助，但我能独立解决问题。",
+                "world": "世界充满了挑战和机遇。"
+            },
+            "rules": "我应该主动面对挑战并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我可以从困境中恢复过来。",
+                "others": "他人会尊重我的努力和成就。",
+                "world": "这个世界是一个我可以战胜的地方。"
+            },
+            "rules": "我应该坚持不懈地追求我的目标。",
+            "positive_assumption": "如果我坚持不懈，我会最终成功。",
+            "negative_assumption": "如果我放弃，我将永远不会知道自己的潜力。"
+        }
+    ]
+}

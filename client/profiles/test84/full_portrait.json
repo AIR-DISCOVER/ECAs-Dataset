@@ -1,0 +1,150 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "懂事",
+            "缺乏自信",
+            "犹豫不决"
+        ],
+        "appearance": [
+            "瘦弱",
+            "皮肤白皙",
+            "眼神有些黯淡",
+            "头发乌黑"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "乒乓球（曾经）"
+            ],
+            "activity": [
+                "独自待在房间",
+                "发呆"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "能够顺利完成学业，不再被老师批评",
+            "long_term_goals": "找到自己的兴趣和目标，拥有一个稳定的家庭"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后去上学，放学后回家做作业，晚上和奶奶一起吃饭，之后独自待在房间直到睡觉",
+            "weekends": "周末大部分时间待在家里，有时会帮奶奶做些家务，但大多数时间都在发呆或看书"
+        },
+        "past_experiences": {
+            "childhood": "小时候父母关系不和，经常吵架，母亲被拐卖的事情对她造成了很大的心理阴影",
+            "recent_events": "一个月前父母离婚，母亲被警察带走，父亲因买卖妇女入狱，自己被丢给奶奶抚养"
+        },
+        "environment": "出生在一个偏远的山村，家庭环境复杂，父母关系不和，母亲被拐卖，父亲因违法行为入狱，现与奶奶一起生活",
+        "persona_summary": "金苑荔，16岁学生，性格内向敏感，缺乏自信且犹豫不决。近一个月思维迟缓，社交退缩，表现出抑郁症状。家庭环境复杂，父母离异且均因违法行为入狱，现与奶奶同住，自小受到母亲被拐卖的心理阴影。她兴趣低下，生活单调，主要活动是独自待在房间发呆。短期目标是顺利完成学业，长期目标是找到自己的兴趣和目标并拥有稳定的家庭。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "父亲在她小时候经常对她和母亲发脾气，虽然有时会表现出关心，但更多的是冷漠和暴力。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲虽然被拐卖，但对她一直很温柔，尽力保护她。母亲的离开对她造成了巨大的心理阴影。"
+                    ]
+                },
+                {
+                    "relationship": "奶奶",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "奶奶是她最亲近的人，从小到大一直照顾她，给她无尽的爱和支持。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        1
+                    ],
+                    "description": [
+                        "父亲因违法行为入狱，对她的态度更加冷漠，甚至想把她过继给别人。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲被警察带走后再也没有联系过她，这让她感到被抛弃和孤独。"
+                    ]
+                },
+                {
+                    "relationship": "奶奶",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "奶奶依然是她最亲近的人，尽管年迈，但依然尽力照顾她，给她温暖和支持。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "同学们知道她家庭的情况后，有些人对她阴阳怪气，这让她感到更加孤立和不自信。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "老师对她的学习情况表示关心，但也因为她的作业拖延而批评她。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "金苑荔的社交能力和意愿在最近一个月内发生了显著变化。她从一个曾经喜欢打乒乓球、与朋友互动的女孩，变成了一个回避社交、对任何事情都提不起兴趣的人。家庭的破裂和父母的离开让她感到孤独和无助，导致她对人际关系产生了不信任和恐惧。她的自信心受到了严重打击，变得更加内向和犹豫不决。尽管奶奶的关爱给了她一些安慰，但她依然难以摆脱内心的阴影。"
+    }
+}

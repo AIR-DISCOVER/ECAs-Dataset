@@ -1,0 +1,167 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "善良",
+            "缺乏自信",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "纤细",
+            "皮肤白皙",
+            "长发",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "打球",
+                "游泳",
+                "跑步",
+                "阅读"
+            ],
+            "activity": [
+                "和朋友一起打球",
+                "在图书馆安静地阅读",
+                "独自散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复对以前爱好的兴趣，提升学习效率",
+            "long_term_goals": "找到自己真正的兴趣和方向，建立稳定的人际关系"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到校上课。中午在学校食堂吃饭，下午继续上课。放学后回宿舍，偶尔去图书馆。晚上10点左右睡觉。",
+            "weekends": "周末大部分时间在宿舍休息，偶尔会去图书馆或者和朋友出去吃饭。最近因为情绪低落，更多时间选择独自在宿舍待着。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母关系和睦。小时候性格活泼，喜欢和小伙伴们一起玩耍。",
+            "adolescence": "初中时成绩优异，但进入高中后压力增大，开始感到焦虑和不安。高考后进入大学，适应新环境的过程中遇到了一些困难。",
+            "recent_events": "最近一个月因为学业压力和人际关系问题，情绪低落，对以前的爱好失去了兴趣，学习效率下降。"
+        },
+        "environment": "出生在一个南方的小城市，家庭环境温馨。高中毕业后考入省会城市的一所大学，目前住在学校宿舍。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "殷园涵的父母关系和睦，对她非常关爱。她小时候经常和父母一起度过愉快的家庭时光，父母是她最亲近的人。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "殷园涵小时候有几个非常要好的朋友，他们经常一起玩耍，分享彼此的秘密和快乐。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "进入青春期后，殷园涵和父母的关系依然亲密，但由于学业压力和青春期的叛逆心理，有时会产生一些小摩擦。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "初中时，殷园涵结交了一些新朋友，但由于学业压力和性格的变化，她和朋友们的关系变得不如小时候那么亲密。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "殷园涵在初中和高中的老师对她的学业给予了很多帮助，但她对老师的亲近感有限。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "进入大学后，殷园涵和父母的联系减少了，虽然依然关心彼此，但距离感逐渐增加。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "大学期间，殷园涵结交了一些新朋友，但由于情绪低落和学业压力，她逐渐疏远了这些朋友。"
+                    ]
+                },
+                {
+                    "relationship": "室友",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "殷园涵的室友们对她很友好，但她因为情绪问题，和室友的互动也变得减少。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "殷园涵的社交能力和意愿在不同阶段发生了显著变化。小时候，她性格活泼，社交能力强，朋友众多。进入青春期后，学业压力和性格变化使她的社交圈子缩小，关系变得不如从前亲密。进入大学后，情绪低落和学业压力进一步影响了她的社交意愿，她逐渐回避社交，和朋友、室友的关系变得疏远。"
+    }
+}

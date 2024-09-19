@@ -1,0 +1,163 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "诚实",
+            "有责任感",
+            "内向"
+        ],
+        "appearance": [
+            "普通",
+            "中等身高",
+            "稍微有些发福",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "游戏",
+                "电影",
+                "综艺"
+            ],
+            "activity": [
+                "和老婆一起看综艺",
+                "偶尔尝试新的游戏"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "尽快调整好自己的状态，恢复对生活的兴趣",
+            "long_term_goals": "和老婆一起去旅游，过上更加稳定和幸福的生活"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到公司上班，工作到下午5点。下班后回家和老婆一起吃晚饭，晚上会看一会儿电视或综艺节目，10点左右上床准备睡觉。",
+            "weekends": "周末通常会和老婆一起在家休息，有时会去附近的公园散步，偶尔会和朋友聚会，但最近因为疫情减少了外出活动。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他要求严格，从小成绩优异。",
+            "adolescence": "高中时期成绩依然优秀，但性格较为内向，朋友不多。",
+            "recent_events": "最近因为疫情影响，原本计划的旅游被取消，导致心情低落，出现了抑郁症状。"
+        },
+        "environment": "出生在江苏省南京市，大学在本地读的财务专业，毕业后一直在南京工作和生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "苏和哲的父亲是一名工厂工人，工作繁忙，但对苏和哲的教育非常重视。父亲性格严厉，经常督促苏和哲学习，虽然父子之间的交流不多，但苏和哲一直对父亲怀有敬畏之情。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "苏和哲的母亲是一名小学教师，性格温和，对苏和哲的关心无微不至。母亲在苏和哲的成长过程中扮演了重要的角色，给予了他很多情感上的支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "苏和哲在小学时有两个要好的朋友，他们经常一起玩耍，但由于苏和哲性格内向，朋友之间的关系并不算特别亲密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入高中后，苏和哲与父亲的关系变得更加疏远，父亲对他的期望更高，压力也随之增加。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是苏和哲情感上的支柱，但由于学业压力，苏和哲与母亲的交流也减少了。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "高中时期，苏和哲的朋友不多，只有一位同学与他关系较好，但由于性格内向，苏和哲并没有太多的社交活动。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "妻子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "苏和哲与妻子的关系非常亲密，妻子是他生活中的重要支柱。两人经常一起看综艺节目，妻子也在苏和哲情绪低落时给予了很多支持和安慰。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "苏和哲在公司有几位关系较好的同事，虽然平时交流不多，但在工作上互相支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "苏和哲有两位大学时期的朋友，虽然平时联系不多，但偶尔会聚会聊天。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "苏和哲的社交能力和意愿在不同阶段有明显变化。童年时期，他的社交圈主要集中在家庭和少数朋友之间。进入青春期后，由于学业压力和性格内向，他的社交活动减少，朋友也变得更少。最近，由于疫情和抑郁症状的影响，苏和哲的社交活动进一步减少，但他与妻子的关系依然紧密，妻子成为他情感上的主要支持。"
+    }
+}

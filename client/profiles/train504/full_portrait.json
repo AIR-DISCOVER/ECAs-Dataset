@@ -1,0 +1,161 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "责任感强"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "皮肤白皙",
+            "长发",
+            "眼神忧郁"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "听音乐",
+                "绘画"
+            ],
+            "activity": [
+                "独自去图书馆",
+                "在宿舍里听音乐",
+                "写日记"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "通过当前的专业课程，避免被退学",
+            "long_term_goals": "找到自己真正热爱的领域，能够在文科方面有所发展"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后感到特别悲伤，勉强去上课，课后回到宿舍继续学习，但常常感到疲倦和无力。晚上情绪再次低落，难以集中注意力。",
+            "weekends": "周末大部分时间待在宿舍，偶尔去图书馆阅读或写作，但很少与人交流。"
+        },
+        "past_experiences": {
+            "childhood": "小时候成绩优异，父母对她寄予厚望，但她一直觉得自己不够好。",
+            "adolescence": "中学时期开始对理科产生厌倦，但为了不辜负父母的期望，依然选择了理科专业。",
+            "recent_events": "最近一个半月来，因成绩不佳面临退学压力，情绪持续低落，感到自责和无望。"
+        },
+        "environment": "出生在一个小城市，父母都是普通工薪阶层，家庭经济条件一般。大学在大城市就读，远离家乡，感到孤独和压力。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "唐芳莉的父亲是一名工薪阶层，工作繁忙，但对女儿的学习非常关心。小时候，父亲常常在她做作业时陪伴在旁，给予她鼓励和支持。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "唐芳莉的母亲是一名家庭主妇，温柔体贴。母亲在她的成长过程中扮演了重要角色，照顾她的生活起居，并在她遇到困难时给予安慰。"
+                    ]
+                },
+                {
+                    "relationship": "小学同学",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "唐芳莉在小学时有几个要好的朋友，她们常常一起玩耍和学习。虽然现在联系不多，但这些朋友在她的童年记忆中占据了重要位置。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "中学同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "中学时期，唐芳莉的社交圈子有所扩大，但她对理科的厌倦使她与一些同学的关系变得疏远。她有几个比较亲近的朋友，但大多数时间还是独自学习。"
+                    ]
+                },
+                {
+                    "relationship": "班主任",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "唐芳莉的班主任是一位严厉但关心学生的老师。班主任对她的学习成绩非常关注，常常给予她额外的辅导和鼓励。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "大学同学",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        3
+                    ],
+                    "description": [
+                        "在大学里，唐芳莉的社交圈子变得更加狭窄。她有两个比较熟悉的同学，但由于专业课的压力和情绪低落，她很少与他们交流。"
+                    ]
+                },
+                {
+                    "relationship": "宿舍室友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "唐芳莉的宿舍室友们对她的情况有所了解，但由于她的内向和敏感，她们之间的互动并不多。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "唐芳莉最近开始定期看心理咨询师，虽然时间不长，但她觉得咨询师是一个可以倾诉和依赖的对象。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "唐芳莉的社交能力和意愿在不同阶段有明显变化。童年时期，她有较多的朋友和亲密的家庭关系。进入中学后，由于对理科的厌倦和学习压力，她的社交圈子开始缩小。到了大学，远离家乡的她感到孤独和压力，社交意愿进一步降低。最近一个半月来，情绪低落和自卑感使她更加回避社交，导致人际关系不稳定。"
+    }
+}

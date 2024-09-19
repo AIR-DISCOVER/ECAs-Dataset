@@ -1,0 +1,169 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "责任感强"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "黑发",
+            "眼神疲惫",
+            "肤色苍白"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "编程",
+                "阅读科幻小说",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "独自散步",
+                "在家写代码",
+                "偶尔和妻子一起看电影"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复健康，重新找回对工作的信心",
+            "long_term_goals": "成为一名优秀的程序员，能够独立完成复杂项目"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单洗漱后去公司上班。工作时间从9点到晚上6点。下班后回家，吃晚饭，偶尔会加班到深夜。晚上11点左右上床，但常常失眠。",
+            "weekends": "周末大部分时间在家休息，偶尔会和妻子出去散步或看电影。更多时候会在家里写代码或看书。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但性格内向，不善于交际。高考后考入一所知名大学的计算机专业。",
+            "recent_events": "最近工作压力大，频繁加班，导致身体和心理状态急剧恶化。被确诊为双相情感障碍后，开始接受心理咨询。"
+        },
+        "environment": "出生在一个南方的小城市，大学毕业后在一线城市工作和生活。结婚后与妻子共同租住在市区的一间小公寓里。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "酆博心的父亲是一名工厂工人，工作繁忙，但对儿子的教育非常重视。父亲常常在工作之余辅导酆博心的功课，虽然严厉，但也充满关爱。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "酆博心的母亲是一名小学教师，性格温和，对儿子充满耐心。母亲在酆博心的成长过程中扮演了重要的角色，尤其在情感支持方面。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "酆博心在小学时有两个要好的朋友，他们常常一起玩耍和学习。虽然酆博心性格内向，但这两个朋友让他的童年多了一些欢乐。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入中学后，酆博心与父亲的关系变得有些紧张。父亲对他的期望很高，常常因为成绩问题对他施加压力。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是酆博心的重要支持者，但随着学业压力的增加，母亲也显得有些力不从心。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "酆博心在中学时有几个同学关系较好，但由于性格内向，他并没有太多深交的朋友。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "妻子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "酆博心的妻子是他最亲密的伴侣和支持者。虽然酆博心的情感障碍给他们的婚姻带来了挑战，但妻子一直在他身边，给予他无条件的支持。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "酆博心在公司有几个关系较好的同事，他们常常一起讨论工作问题，但由于酆博心的自卑和敏感，他并不常与同事分享个人问题。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "酆博心的心理咨询师是他最近开始接触的一个重要人物，帮助他理解和应对自己的情感问题。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "酆博心的社交能力和意愿在不同阶段有明显变化。童年时，他有几个要好的朋友，但随着年龄增长和学业压力增加，他变得更加内向和孤僻。进入职场后，虽然有几个关系较好的同事，但他依然难以建立深厚的社交关系。最近，由于情感障碍的影响，他的社交圈进一步缩小，主要依赖妻子和心理咨询师的支持。"
+    }
+}

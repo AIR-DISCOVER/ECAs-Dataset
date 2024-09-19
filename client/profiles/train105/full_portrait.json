@@ -1,0 +1,197 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "温柔",
+            "关心",
+            "犹豫不决",
+            "有责任心"
+        ],
+        "appearance": [
+            "普通",
+            "中等身材",
+            "黑发",
+            "温和的面容"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "打麻将",
+                "陪伴女儿",
+                "看电视剧"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "帮助女儿选择合适的兴趣班，提升自己的记忆力",
+            "long_term_goals": "成为一个更好的母亲，确保家庭幸福和谐"
+        },
+        "daily_life": {
+            "routine": "早上起床为女儿准备早餐，送女儿上学后去茶馆打麻将，下午接女儿放学，晚上做晚饭，陪女儿做作业，睡前看电视剧",
+            "weekends": "周末带女儿去公园散步，和家人一起做饭，偶尔和朋友聚会"
+        },
+        "past_experiences": {
+            "childhood": "在一个普通的家庭中长大，父母对她的期望很高",
+            "adolescence": "中学时期成绩一般，但在班级中有很多朋友",
+            "youth": "大学毕业后结婚生子，成为全职妈妈",
+            "recent_events": "最近一个月内开始出现记忆力下降和决断困难的情况"
+        },
+        "environment": "出生在一个小城市，结婚后搬到大城市生活，家庭环境温馨和谐",
+        "persona_summary": "余莹育，41岁，已婚，全职妈妈。她温柔、关心他人，但犹豫不决且有责任心。外表普通，中等身材，黑发，面容温和。爱好打麻将、陪伴女儿和看电视剧，喜欢和家人一起做饭、周末去公园散步。她的短期目标是帮助女儿选择兴趣班和提升记忆力，长期目标是成为更好的母亲，确保家庭幸福和谐。最近一个月出现记忆力下降和决断困难，但精神检查未见异常，需进一步心理测试和疏导。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工人，母亲是一名教师。父母对她的期望很高，希望她能在学业上有所成就。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "童年的朋友们大多是邻居家的孩子，他们经常一起玩耍，关系亲密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "中学时期，父母对她的期望依然很高，但她的成绩一般，导致她与父母之间有些紧张。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 5,
+                    "familiarity": [
+                        5,
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学时期，她在班级中有很多朋友，大家经常一起学习和玩耍。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "她的老师们对她的期望也很高，但她的成绩并不突出，导致她有些压力。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "大学毕业后，她结婚生子，丈夫是她的大学同学，两人感情深厚。"
+                    ]
+                },
+                {
+                    "relationship": "女儿",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "她的女儿是她生活的重心，她对女儿的教育非常重视，亲力亲为。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "结婚后，她与大学时期的朋友们依然保持联系，偶尔会聚会。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "最近一个月，她与丈夫的关系依然很好，但她犹豫是否要与丈夫商量女儿的兴趣班问题。"
+                    ]
+                },
+                {
+                    "relationship": "女儿",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "她依然非常关心女儿的成长，最近在为女儿选择兴趣班而烦恼。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "她与朋友们的关系依然亲密，偶尔会一起打麻将。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "余莹育在不同阶段的社会关系有明显变化。童年时期，她与父母和邻居家的孩子关系亲密。中学时期，她的朋友圈子扩大，但与父母和老师的关系有些紧张。大学毕业后，她结婚生子，家庭成为她的重心，与丈夫和女儿的关系非常亲密。最近一个月，她的记忆力下降和决断困难让她感到困扰，但她依然保持着与家人和朋友的良好关系。"
+    }
+}

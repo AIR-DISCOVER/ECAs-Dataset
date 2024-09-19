@@ -1,0 +1,445 @@
+{
+    "childhood": {
+        "name": "陶竹露",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我五岁的时候，有一天放学回家，发现家里只有我一个人。妈妈留了一张纸条，说她和爸爸加班，让我自己热饭吃。我坐在空荡荡的客厅里感觉很孤独，心里想着：是不是我不够好，爸爸妈妈才不愿意陪我。",
+                "location": "家里",
+                "happen_time": "2008年10月",
+                "participants": "陶竹露",
+                "impact": "这次经历让陶竹露形成了“我不够好”的核心信念，觉得自己不值得父母的陪伴与关注。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在小学二年级的一次绘画比赛中，我得了第二名。爷爷奶奶很高兴，但我却觉得自己不够好，为什么没拿第一名。爷爷奶奶鼓励我说：“竹露，你已经画得很棒了。”可我心里还是觉得自己必须更完美。",
+                "location": "学校和家里",
+                "happen_time": "2010年5月",
+                "participants": "陶竹露、爷爷、奶奶",
+                "impact": "这次经历强化了陶竹露“我必须完美才能被接受”的核心信念，增强了她对自我要求的苛刻。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校里因为一件小事被老师批评了，我当时心里特别难过，觉得自己没有价值。放学回家后，奶奶问我怎么了，我哭着说：“老师批评我了，因为我没有把作业写完。”奶奶安慰我说：“每个人都会有犯错的时候，没关系，不要放在心上。”",
+                "location": "学校和家里",
+                "happen_time": "2011年3月",
+                "participants": "陶竹露、奶奶",
+                "impact": "这次经历让陶竹露形成了“我没有价值”的核心信念，觉得自己即使很努力，也无法满足别人的期望。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里吃饭，听见妈妈和爸爸在客厅里吵架。妈妈说：“你总是加班，竹露都快不认识你了。”爸爸回应：“我还不是为了这个家！”我偷偷听着，心里觉得自己是个负担，爸妈为了我才这么辛苦。",
+                "location": "家里",
+                "happen_time": "2012年6月",
+                "participants": "陶竹露、妈妈、爸爸",
+                "impact": "这次经历让陶竹露形成了“我是一个负担”的核心信念，觉得自己拖累了父母，增加了他们的压力。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，我有一次考试成绩不理想，回家后妈妈很生气地说：“你怎么这么不争气！”我觉得很愧疚，心里想着：如果我不够好，就会被忽视和批评。",
+                "location": "家里",
+                "happen_time": "2013年12月",
+                "participants": "陶竹露、妈妈",
+                "impact": "这次经历强化了陶竹露的中间信念“如果我不够好，我会被忽视。”让她更加自卑和缺乏自信。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "有一次，爷爷带我去公园玩，我在玩滑梯的时候摔倒了，腿擦伤了。爷爷赶紧过来抱起我，说：“没事的，竹露，摔倒了再站起来就好。”这让我觉得即使遇到困难，我也有能力面对。",
+                "location": "公园",
+                "happen_time": "2014年4月",
+                "participants": "陶竹露、爷爷",
+                "impact": "这次经历让陶竹露建立了“我有能力面对挑战”的核心信念，增强了她的自我效能感。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到同班同学小明因为成绩不好被父母责骂，小明哭得很伤心。我心里很难过，觉得自己也有可能会因为不完美而被拒绝和责备。",
+                "location": "学校",
+                "happen_time": "2014年9月",
+                "participants": "陶竹露、同学小明、他的父母",
+                "impact": "这次观察让陶竹露对“如果我不完美，我会被拒绝”的中间信念更加深信不疑，同时也增加了她对犯错的恐惧。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在小学五年级时，我的好朋友小玲搬家了。我们在离别时都哭了，小玲说：“竹露，我们以后还是好朋友。”但我心里觉得，朋友离开是因为我不够好，不值得被长久珍视。",
+                "location": "学校和家里",
+                "happen_time": "2014年11月",
+                "participants": "陶竹露、好朋友小玲",
+                "impact": "这次经历让陶竹露强化了“我没有价值”的核心信念，觉得自己不值得被长时间的友谊和关注。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "六年级时，我参加了学校的演讲比赛，尽管我做了充足的准备，但在比赛当天还是因为紧张而表现不佳。事后我感到非常内疚，觉得自己不应该依赖他人，否则就会被看不起。",
+                "location": "学校",
+                "happen_time": "2015年5月",
+                "participants": "陶竹露、老师、同学",
+                "impact": "这次经历强化了“我不应该依赖他人”的中间信念，让陶竹露更加倾向于独立解决问题，避免依赖别人。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班里的一个同学因为帮助别人而被老师表扬。我心里很羡慕，觉得如果我也能独立解决问题并帮助别人，我也会被尊重。",
+                "location": "学校",
+                "happen_time": "2015年9月",
+                "participants": "陶竹露、同学、老师",
+                "impact": "这次观察让陶竹露对“如果我独立，我会被尊重”的中间信念更加坚定，增加了她对独立解决问题的渴望。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "陶竹露",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中入学的第一天，我站在教室门口，环顾四周，感觉自己完全不属于这里。老师让我们自我介绍，我的声音因为紧张而发抖，班上的同学窃窃私语，我觉得自己被孤立了。",
+                "location": "初中教室",
+                "happen_time": "2016年9月",
+                "participants": "新同学和班主任",
+                "impact": "这次经历强化了我的核心信念'我不够好'和中间信念'别人会发现我的不足'，让我更加内向和缺乏自信。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "初中二年级的一次考试中，我成绩没有达到预期。回到家后，父母非常失望地看着我，说我没有努力。我感到自己是个负担，拖累了家人。",
+                "location": "家中客厅",
+                "happen_time": "2017年5月",
+                "participants": "父母",
+                "impact": "这一事件加深了我的核心信念'我没有价值'和'我是一个负担'，并且形成了中间信念'我必须完美才能被接受'。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "在初中三年级的一次美术比赛中，我的作品获得了二等奖。美术老师在全班同学面前表扬了我，那一刻我感到既开心又害怕，担心自己不能再有这样的表现。",
+                "location": "初中教室",
+                "happen_time": "2018年4月",
+                "participants": "美术老师和同学",
+                "impact": "这次表扬让我暂时增强了自信心，但也加深了对完美的追求，形成了中间信念'如果我不完美，我会被拒绝'。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "一次放学回家，我看到邻居家的孩子因为考试成绩不好被父母责骂。我感到非常害怕，担心自己也会因为成绩不好而被父母责备。",
+                "location": "小区楼道",
+                "happen_time": "2018年6月",
+                "participants": "邻居家的孩子和其父母",
+                "impact": "这个场景强化了我的中间信念'如果我不完美，我会被拒绝'，加剧了对失败的恐惧。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "高一时，我在一次绘画班的展示会上结识了几位志同道合的朋友。我们一起讨论艺术和未来的梦想，我感到一阵温暖和被接受。",
+                "location": "绘画班教室",
+                "happen_time": "2019年10月",
+                "participants": "绘画班的朋友",
+                "impact": "这次经历增强了我对自己绘画才能的信心，并且形成了新的核心信念'我有能力面对挑战'和'我值得被爱和尊重'。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高二的一次期末考试，我因为压力太大而发挥失常。回到家后，我把自己关在房间里哭泣，觉得自己永远无法达到父母的期望。",
+                "location": "家中卧室",
+                "happen_time": "2020年1月",
+                "participants": "父母",
+                "impact": "这次失常考试再次强化了我的核心信念'我不够好'和'我没有价值'，让我更加焦虑和自卑。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "某天，我无意中听到班主任在办公室里与其他老师讨论我的进步和努力，虽然成绩不理想，但他们表示欣赏我的勤奋。",
+                "location": "学校办公室",
+                "happen_time": "2020年3月",
+                "participants": "班主任和其他老师",
+                "impact": "这次偷听到的对话让我感到了一些安慰，稍微缓解了我的自卑感，形成了中间信念'别人可能会帮助我，但我有能力自我解决'。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在高三的一次模拟考试中，我取得了不错的成绩。班主任在班会上表扬了我，这次我感到了一丝自豪和成就感。",
+                "location": "高三教室",
+                "happen_time": "2021年5月",
+                "participants": "班主任和同学",
+                "impact": "这次的成功经历增强了我的核心信念'我有能力面对挑战'，让我对未来更加充满希望。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "高三的一次家长会后，我看到一个同学的父母对他鼓励和支持，而我的父母则显得冷淡和忙碌。我感到自己缺乏家庭的支持。",
+                "location": "学校礼堂",
+                "happen_time": "2021年6月",
+                "participants": "同学和其父母",
+                "impact": "这个场景加深了我的核心信念'我不够好'和'我没有价值'，让我更加渴望被理解和爱护。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "高考结束后，我和几个朋友一起去旅行。这次旅行中，我们彼此分享了很多心事，我感到自己被接纳和理解。",
+                "location": "旅行地点",
+                "happen_time": "2021年8月",
+                "participants": "朋友",
+                "impact": "这次旅行增强了我的核心信念'我值得被爱和尊重'，让我对人际关系有了更多的信心。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到美术老师在指导一个同学时非常耐心，并且不断鼓励他。这让我想到，或许我也可以多给自己一些鼓励。",
+                "location": "美术教室",
+                "happen_time": "2019年11月",
+                "participants": "美术老师和其他同学",
+                "impact": "这个场景让我开始思考自己对自我评价的苛刻，形成了中间信念'我值得被尊重'。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在一次学校的绘画比赛中，我的作品获得了一等奖。这个结果让我感到极大的喜悦和成就感，觉得自己的努力终于得到了认可。",
+                "location": "学校礼堂",
+                "happen_time": "2020年12月",
+                "participants": "学校领导和同学",
+                "impact": "这次成功经历增强了我的核心信念'我有能力面对挑战'，并且稍微缓解了对完美的执念。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "一次在学校图书馆，我看到一位同学因为借书超过期限而被管理员训斥，她非常难过。我意识到，自己也有可能犯错，但不应该因此否定自己。",
+                "location": "学校图书馆",
+                "happen_time": "2021年4月",
+                "participants": "同学和图书馆管理员",
+                "impact": "这个场景让我反思了自己对错误和失败的过度恐惧，形成了中间信念'如果我面对挑战，我会变得更强大'。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在高三毕业典礼上，班主任对我说他一直很欣赏我的努力和毅力，这让我感到非常温暖和被认可。",
+                "location": "学校礼堂",
+                "happen_time": "2021年7月",
+                "participants": "班主任和毕业生",
+                "impact": "这次的言语鼓励增强了我的核心信念'我值得被爱和尊重'，让我对未来充满了希望和信心。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "在一次班会上，我看到一个同学勇敢地分享了自己在学习上的困难，并得到了大家的鼓励和支持。我意识到自己也可以尝试表达自己的感受和需求。",
+                "location": "高三教室",
+                "happen_time": "2021年5月",
+                "participants": "班主任和同学",
+                "impact": "这个场景让我开始思考自己表达自我的重要性，形成了中间信念'我应该积极与人交往，建立健康的关系'。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "陶竹露",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在大学期末考试前，我感到巨大的压力，总觉得自己无法通过考试。一天晚上，室友们在讨论复习计划时，我突然崩溃大哭，觉得自己完全没有希望。",
+                "location": "大学宿舍",
+                "happen_time": "2022年12月",
+                "participants": "室友",
+                "impact": "这次崩溃进一步加深了我对自己的负面评价 '我不够好' 和 '我无法完成任务'，导致自信心严重下降。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次课堂展示中，我因为紧张而口误，老师当场指出我的错误。虽然老师并没有责备我，但我在全班同学面前感到羞耻和无地自容。",
+                "location": "大学教室",
+                "happen_time": "2023年3月",
+                "participants": "老师、同学",
+                "impact": "这次事件强化了我的核心信念 '我没有价值' 和 '我必须完美才能被接受'，让我更加害怕公开展示。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一个同学因为成绩优异而被老师表扬，心里感到非常自卑，觉得自己永远无法达到那样的高度。",
+                "location": "大学教室",
+                "happen_time": "2023年5月",
+                "participants": "同学、老师",
+                "impact": "这次观察让我更加坚定了 '我不够好' 和 '我没有特别的才能' 的信念，进一步降低了自我价值感。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一个周末，我决定去参加一次学校组织的绘画比赛，但在比赛现场看到其他选手的作品后，感到自卑和绝望，最终我没有提交我的作品。",
+                "location": "学校活动现场",
+                "happen_time": "2023年8月",
+                "participants": "其他参赛选手",
+                "impact": "这次经历进一步加深了我的信念 '我无法完成任务' 和 '我没有价值'，让我更加害怕尝试新事物。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一个室友因为感情问题而自残，我感到非常恐惧，同时觉得自己也有可能走到那一步。",
+                "location": "大学宿舍",
+                "happen_time": "2023年11月",
+                "participants": "室友",
+                "impact": "这次观察让我对自己的情绪控制能力产生了怀疑，增加了我对自我伤害的恐惧，同时感到更加压抑。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次家庭聚会中，发现亲戚们对我的学业表现并不满意，感到非常失望和无力。",
+                "location": "家庭聚会",
+                "happen_time": "2024年1月",
+                "participants": "亲戚",
+                "impact": "这次经历进一步强化了 '我没有价值' 和 '我必须完美才能被接受' 的信念，导致自我评价进一步下降。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2024年2月的一次心理咨询中，我向心理咨询师倾诉了自己对未来的迷茫和无助，咨询师鼓励我尝试设立小目标。",
+                "location": "心理咨询师办公室",
+                "happen_time": "2024年2月",
+                "participants": "心理咨询师",
+                "impact": "这次咨询让我开始反思自己的核心信念，并尝试用小目标来重建自信心。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与朋友的聚会中，我发现自己无法融入他们的谈话，感到非常孤独和被排斥。",
+                "location": "朋友聚会",
+                "happen_time": "2024年3月",
+                "participants": "朋友",
+                "impact": "这次事件进一步加深了 '我是一个负担' 和 '我没有价值' 的信念，让我更加封闭自己。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2024年4月的一次课堂测试中，我因为过度紧张而无法正常发挥，成绩非常不理想。",
+                "location": "大学教室",
+                "happen_time": "2024年4月",
+                "participants": "同学、老师",
+                "impact": "这次失败进一步验证了 '我不够好' 和 '我必须完美才能被接受' 的信念，导致我对未来更加悲观。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一个同学因为违反学校规定而被处分，心里感到非常恐惧，觉得自己也有可能因为某些小错误而遭受惩罚。",
+                "location": "大学校园",
+                "happen_time": "2024年5月",
+                "participants": "同学、老师",
+                "impact": "这次观察让我对自己的行为更加谨慎，进一步加深了 '我必须完美才能被接受' 的信念，增加了心理负担。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2024年6月的一次家长电话中，母亲对我的未来表示担忧，问我是否考虑过退学。我感到非常失望和无助。",
+                "location": "电话通话",
+                "happen_time": "2024年6月",
+                "participants": "母亲",
+                "impact": "这次通话进一步强化了 '我没有价值' 和 '我是一个负担' 的信念，让我对未来更加迷茫。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2024年7月的一次课外活动中，我尝试与一个新同学建立友谊，但对方似乎并不感兴趣。我感到非常沮丧和被拒绝。",
+                "location": "大学校园",
+                "happen_time": "2024年7月",
+                "participants": "新同学",
+                "impact": "这次经历进一步加深了 '我没有价值' 和 '我是一个负担' 的信念，让我更不愿意尝试建立人际关系。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2024年8月的一次心理咨询中，我向心理咨询师表达了自己对生活的绝望和无助，咨询师建议我考虑接受更系统的心理治疗。",
+                "location": "心理咨询师办公室",
+                "happen_time": "2024年8月",
+                "participants": "心理咨询师",
+                "impact": "这次咨询让我认识到自己需要更多的帮助，同时也感到一些希望，开始考虑接受更系统的心理治疗。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一个同学因为参加社团活动而获得很多朋友和认可，心里感到非常羡慕，但同时觉得自己永远无法达到那样的高度。",
+                "location": "大学校园",
+                "happen_time": "2024年8月",
+                "participants": "同学、社团成员",
+                "impact": "这次观察让我对自己的社交能力更加怀疑，进一步加深了 '我没有价值' 和 '我必须完美才能被接受' 的信念。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2024年8月的一次考试中，我因为过度紧张而未能发挥正常水平，成绩非常不理想。",
+                "location": "大学教室",
+                "happen_time": "2024年8月",
+                "participants": "同学、老师",
+                "impact": "这次失败进一步验证了 '我不够好' 和 '我必须完美才能被接受' 的信念，导致我对未来更加悲观。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一个朋友因为和家人关系缓和而感到非常开心，我心里感到非常羡慕，但同时觉得自己永远无法达到那样的家庭关系。",
+                "location": "朋友家",
+                "happen_time": "2024年8月",
+                "participants": "朋友、朋友的家人",
+                "impact": "这次观察让我对自己的家庭关系更加失望，进一步加深了 '我没有价值' 和 '我是一个负担' 的信念。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次绘画练习中，我发现自己无法集中注意力，总是想着学业和未来的压力，最终放弃了练习。",
+                "location": "大学宿舍",
+                "happen_time": "2024年8月",
+                "participants": "无",
+                "impact": "这次经历让我更加感到无助和绝望，进一步加深了 '我不够好' 和 '我没有价值' 的信念。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一个同学因为学业压力过大而选择休学，心里感到非常恐惧，觉得自己也有可能走到那一步。",
+                "location": "大学校园",
+                "happen_time": "2024年8月",
+                "participants": "同学",
+                "impact": "这次观察让我对自己的学业压力感到更加恐惧，进一步加深了 '我无法完成任务' 和 '我没有价值' 的信念。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2024年8月的一次与心理咨询师的电话中，我向他倾诉了自己最近的抑郁情绪和自杀念头，咨询师建议我立即接受更紧急的心理干预。",
+                "location": "电话通话",
+                "happen_time": "2024年8月",
+                "participants": "心理咨询师",
+                "impact": "这次通话让我意识到问题的严重性，同时也感到一些希望，开始考虑接受更紧急的心理干预。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一个同学因为积极参与志愿活动而感到非常充实和快乐，心里感到非常羡慕，但同时觉得自己永远无法达到那样的状态。",
+                "location": "大学校园",
+                "happen_time": "2024年8月",
+                "participants": "同学、志愿者",
+                "impact": "这次观察让我对自己的生活状态更加失望，进一步加深了 '我没有价值' 和 '我无法完成任务' 的信念。"
+            }
+        ]
+    }
+}

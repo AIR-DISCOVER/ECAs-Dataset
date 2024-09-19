@@ -1,0 +1,187 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "自信",
+            "乐观",
+            "善于社交",
+            "坚韧",
+            "有责任心"
+        ],
+        "appearance": [
+            "中等身材",
+            "健康",
+            "干练",
+            "端庄"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "打游戏",
+                "看剧",
+                "健身",
+                "聊天"
+            ],
+            "activity": [
+                "和朋友一起打游戏",
+                "周末看剧放松",
+                "定期去健身房锻炼",
+                "与同事和朋友聊天"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "减轻工作压力，改善决断困难的问题",
+            "long_term_goals": "在公务员职业生涯中取得更高的成就，保持身心健康"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点上班，工作中处理各种公务，晚上6点下班后去健身房锻炼，回家后打游戏或看剧放松。",
+            "weekends": "周末通常会与家人和朋友聚会，打游戏，看剧，偶尔会去公园散步或参加一些社交活动。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母对她的教育非常重视，从小成绩优异。",
+            "adolescence": "中学时期是班级的班长，积极参加各种课外活动，培养了良好的社交能力。",
+            "youth": "大学期间选择了公共管理专业，毕业后通过公务员考试进入政府部门工作。",
+            "recent_events": "最近工作压力较大，导致决断困难，但通过兴趣爱好和健身来缓解压力。"
+        },
+        "environment": "出生在一个中等城市，从小生活在一个稳定的家庭环境中。大学毕业后在省会城市工作和生活，家庭和工作环境都比较稳定。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "陶佳眉的父母对她的教育非常重视，从小成绩优异。父母的关爱和支持为她的成长提供了坚实的基础。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "陶佳眉在童年时期有几个亲密的朋友，他们一起玩耍、学习，建立了深厚的友谊。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "作为班级的班长，陶佳眉与同学们关系融洽，积极参加各种课外活动，培养了良好的社交能力。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "陶佳眉的老师们对她的表现非常满意，给予了她很多指导和支持。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "在大学期间，陶佳眉与同学们一起学习、生活，建立了深厚的友谊。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "陶佳眉的导师对她的学术表现非常满意，给予了她很多指导和支持。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 6,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "陶佳眉在工作中与同事们关系融洽，大家互相支持，共同应对工作中的挑战。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        5,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "陶佳眉与朋友们经常聚会、聊天，通过这些社交活动缓解工作压力。"
+                    ]
+                },
+                {
+                    "relationship": "家人",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        5,
+                        4
+                    ],
+                    "description": [
+                        "陶佳眉的家人对她的工作和生活非常支持，家庭环境和谐稳定。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "陶佳眉在不同阶段的社交能力和意愿都有所变化。童年时期，她在父母的关爱下建立了良好的社交基础。青少年时期，她通过担任班长和参加课外活动，进一步提升了社交能力。大学期间，她与同学和导师建立了深厚的友谊和学术关系。进入职场后，她与同事和朋友保持良好的关系，通过社交活动缓解工作压力。总体而言，陶佳眉的社交能力和意愿在各个阶段都表现出色，社交网络也逐渐扩大和深化。"
+    }
+}

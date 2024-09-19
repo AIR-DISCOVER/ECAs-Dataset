@@ -1,0 +1,299 @@
+{
+    "childhood": {
+        "name": "穆倩华",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "记得有一次，我在学校里因为没完成作业被老师批评了。我感到非常羞愧和无助，回家后告诉妈妈。妈妈不是安慰我，而是责骂我没有用，说我不争气。从那以后，我对自己的能力越来越怀疑。",
+                "location": "家里",
+                "happen_time": "2013年3月",
+                "participants": "穆倩华, 母亲",
+                "impact": "这个事件强化了我‘我没有能力完成任务’的核心信念，并让我对自己失去信心，进一步导致了自卑感。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "有一次，我想参加学校的演讲比赛，鼓起勇气告诉爸爸。但爸爸冷冷地说：‘你行吗？别到时候丢人现眼。’我当时就放弃了这个想法，从此再也不敢尝试新的挑战。",
+                "location": "家里",
+                "happen_time": "2015年5月",
+                "participants": "穆倩华, 父亲",
+                "impact": "这个事件让我更加相信‘我无法实现自己的目标’，害怕尝试新的事情，因为深怕失败。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我坐在房间里，听见客厅里爸爸和妈妈又开始吵架了。那天他们吵得特别凶，妈妈声音都哑了。我透过门缝偷偷看见，爸爸摔了杯子，玻璃碎了一地。",
+                "location": "家里",
+                "happen_time": "2012年11月",
+                "participants": "穆倩华, 父亲, 母亲",
+                "impact": "这个事件让我越来越感到家庭不安全，并对家庭关系失去了信心，强化了‘世界对我是充满敌意的’的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "有一次，我和同学们在玩游戏，但他们不太愿意和我一起玩。我感到自己被排斥，觉得自己不值得被关注和爱护。回家后，我试图告诉妈妈我的感受，但她只是冷冷地说：‘你自己想办法解决。’",
+                "location": "学校",
+                "happen_time": "2014年6月",
+                "participants": "穆倩华, 同学们, 母亲",
+                "impact": "这个事件强化了‘我是不值得被爱的’核心信念，并让我更加孤立自己，不敢依赖他人。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到爸爸因为工作上的事情发火，把家里的东西摔了一地。妈妈躲在一旁哭泣，但也不敢说什么。",
+                "location": "家里",
+                "happen_time": "2011年9月",
+                "participants": "穆倩华, 父亲, 母亲",
+                "impact": "这个事件让我更加相信‘我必须独自面对所有困难’，因为我觉得成年人也无法解决问题，更别提我了。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校里因为表现好而被表扬，但回家后告诉妈妈，她只是冷淡地说：‘这有什么好高兴的？小孩子不要骄傲。’",
+                "location": "学校",
+                "happen_time": "2016年4月",
+                "participants": "穆倩华, 母亲",
+                "impact": "这个事件让我觉得‘我不值得被认可’，即使我努力了也得不到期望的回应。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "有一次，我病了，但妈妈因为工作忙没有时间照顾我。我躺在床上感到非常孤单和无助，觉得自己是不被爱的。",
+                "location": "家里",
+                "happen_time": "2010年2月",
+                "participants": "穆倩华, 母亲",
+                "impact": "这个事件强化了‘我是不值得被爱的’核心信念，并让我更加害怕依赖他人。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "我记得有一次，母亲在电话里和奶奶吵架，关于家庭的一些琐事。听到她们的争吵，我感到非常惊恐和不安。",
+                "location": "家里",
+                "happen_time": "2013年8月",
+                "participants": "穆倩华, 母亲, 奶奶",
+                "impact": "这个事件进一步强化了‘世界对我是充满敌意的’核心信念，让我对家庭和亲密关系失去了信心。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校里被欺负，回家后告诉妈妈。她不仅没有安慰我，还责骂我为什么不敢反抗。让我觉得自己很无能。",
+                "location": "学校",
+                "happen_time": "2015年10月",
+                "participants": "穆倩华, 母亲",
+                "impact": "这个事件强化了‘我是不值得被认可’和‘我没有能力完成任务’的核心信念，使我更加自卑。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的小朋友被父母温柔地安慰和抱在怀里，当时心里非常羡慕，觉得自己为什么没有这样的待遇。",
+                "location": "邻居家",
+                "happen_time": "2016年7月",
+                "participants": "穆倩华, 邻居小朋友, 邻居父母",
+                "impact": "这个事件让我更加确信‘我是不值得被爱的’，并开始对家庭关系心灰意冷。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校里参加了一个小组活动，但由于我的内向和敏感，无法融入集体，最终被排挤和忽视。",
+                "location": "学校",
+                "happen_time": "2017年9月",
+                "participants": "穆倩华, 同学们",
+                "impact": "这个事件进一步强化了‘我是不值得被关心’的核心信念，让我更加孤立和自卑。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到妈妈因为家里的琐事对爸爸大发脾气，爸爸则冷冷地回应，最后两人不欢而散。",
+                "location": "家里",
+                "happen_time": "2014年12月",
+                "participants": "穆倩华, 母亲, 父亲",
+                "impact": "这个事件让我更加失望，并强化了‘世界对我是充满敌意的’核心信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "有一次，妈妈在家里大发脾气，把我的书和玩具都丢到地上，让我觉得自己不被爱和关心。",
+                "location": "家里",
+                "happen_time": "2011年3月",
+                "participants": "穆倩华, 母亲",
+                "impact": "这个事件进一步强化了‘我是不值得被爱的’核心信念，让我更加孤独和不安。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "有一次，我想和朋友出去玩，但妈妈觉得我不应该出去，认为我会给家里丢脸，最终我被迫放弃了。",
+                "location": "家里",
+                "happen_time": "2018年5月",
+                "participants": "穆倩华, 母亲",
+                "impact": "这个事件强化了‘我不值得拥有幸福’，让我对未来和社交活动失去了信心。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到爸爸在和同事们喝酒，谈论工作上的成就，但回到家里却对我和妈妈冷言冷语。",
+                "location": "家里",
+                "happen_time": "2017年11月",
+                "participants": "穆倩华, 父亲, 同事们",
+                "impact": "这个事件让我觉得‘他人不会真心爱我’，并进一步强化了对家庭和人际关系的失望。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "穆倩华",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "穆倩华发现自己在工作中犯了一个严重错误，这让她感到极度沮丧和无助，觉得自己没有价值。",
+                "location": "公路化验室",
+                "happen_time": "2020年6月",
+                "participants": "穆倩华，同事",
+                "impact": "这次错误加重了她的自卑感，使她更加认为自己没有能力完成任务，进一步恶化了她的抑郁症状。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次工作会议上，穆倩华的意见被同事无视，这让她觉得自己不值得被认可。",
+                "location": "办公室会议室",
+                "happen_time": "2021年3月",
+                "participants": "穆倩华，同事，主管",
+                "impact": "她更加确信自己不值得被认可，导致她更加避免表达自己的意见和想法，增加了社交障碍和孤立感。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "穆倩华曾尝试与一名同事建立友谊，但被对方冷淡回应，这使她感到自己不值得被关心。",
+                "location": "公司食堂",
+                "happen_time": "2021年9月",
+                "participants": "穆倩华，同事",
+                "impact": "这次失败的尝试进一步强化了她的核心信念，即她是不值得被爱的，导致她更加回避社交。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "穆倩华在家中独自度过生日，没有任何同事或朋友记得她的生日，这让她觉得世界对她充满敌意。",
+                "location": "家中",
+                "happen_time": "2022年2月",
+                "participants": "穆倩华",
+                "impact": "这次经历加重了她的孤独感和无望感，使她更加确信自己必须独自面对所有困难。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与母亲的电话交谈中，母亲责备她没有继续上学，这让她更加觉得自己永远无法实现目标。",
+                "location": "家中",
+                "happen_time": "2022年7月",
+                "participants": "穆倩华，母亲",
+                "impact": "她更加确信自己没有能力实现梦想，导致她对未来更加悲观和绝望。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "穆倩华在一次散步中遭遇了一次小偷事件，这让她感到这个世界对她充满了潜在的威胁。",
+                "location": "公园",
+                "happen_time": "2022年10月",
+                "participants": "穆倩华，小偷",
+                "impact": "这次事件加重了她的焦虑和警惕，使她更加回避与人接触和外出活动。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "穆倩华在一篇日记中写道自己感到极度孤独和无望，甚至有了自杀的念头。",
+                "location": "家中",
+                "happen_time": "2023年1月",
+                "participants": "穆倩华",
+                "impact": "这次自我反思进一步加剧了她的抑郁症状和自杀风险，凸显了她的情感危机。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "穆倩华因失眠问题去看医生，但医生只是简单开了些药物，没有深入了解她的心理状态。",
+                "location": "医院",
+                "happen_time": "2023年4月",
+                "participants": "穆倩华，医生",
+                "impact": "这次经历让她觉得自己不被关心和理解，加重了她的孤独感和无望感。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "穆倩华在公司的一次团队建设活动中，感觉自己被排斥在外，无法融入集体。",
+                "location": "公司外出活动地点",
+                "happen_time": "2023年7月",
+                "participants": "穆倩华，同事",
+                "impact": "这次经历使她更加确信自己不值得被爱和关心，进一步恶化了她的社交障碍和抑郁症状。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "穆倩华在一次听音乐的过程中，突然感到一种深深的无望感和孤独感，甚至有了自杀的念头。",
+                "location": "家中",
+                "happen_time": "2023年10月",
+                "participants": "穆倩华",
+                "impact": "这次情感爆发进一步加剧了她的自杀风险，凸显了她的情感危机。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "穆倩华在公园散步时，看到一对情侣在争吵，男方对女方大喊大叫。",
+                "location": "公园",
+                "happen_time": "2024年1月",
+                "participants": "穆倩华，情侣",
+                "impact": "这次观察让她觉得世界对她更加充满敌意，强化了她对人际关系的不信任感。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "穆倩华在公司看到一位同事被领导公开批评，这让她感到恐惧和焦虑，担心自己也会遭遇同样的情况。",
+                "location": "办公室",
+                "happen_time": "2024年3月",
+                "participants": "穆倩华，同事，领导",
+                "impact": "这次事件加重了她的焦虑和自卑感，使她更加回避承担重要任务。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "穆倩华在家中听到邻居的争吵声，这让她回想起童年父母争吵的情景，感到极度不安和无助。",
+                "location": "家中",
+                "happen_time": "2024年5月",
+                "participants": "穆倩华，邻居",
+                "impact": "这次回忆加重了她的情感创伤，使她更加确信自己不值得被爱和关心。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次心理咨询中，穆倩华终于鼓起勇气向咨询师倾诉了自己的自杀念头。",
+                "location": "心理咨询室",
+                "happen_time": "2024年6月",
+                "participants": "穆倩华，心理咨询师",
+                "impact": "这次倾诉让她感到了一丝释放，但同时也让她更加意识到自己的情感危机。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "穆倩华在一次散步中，突然觉得自己无法再承受生活的压力，开始考虑如何结束自己的生命。",
+                "location": "公园",
+                "happen_time": "2024年8月",
+                "participants": "穆倩华",
+                "impact": "这次情感崩溃进一步加剧了她的自杀风险，凸显了她的情感危机。"
+            }
+        ]
+    }
+}

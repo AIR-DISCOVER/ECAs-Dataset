@@ -1,0 +1,171 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "耐心",
+            "缺乏自信",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "苗条",
+            "清秀",
+            "略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "画画",
+                "阅读",
+                "烹饪"
+            ],
+            "activity": [
+                "和孩子一起玩耍",
+                "晚上画画",
+                "和朋友聊天"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高自己的自信心，找到更多的个人时间",
+            "long_term_goals": "等孩子长大后，重新参加工作，实现自己的价值"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，准备早餐，照顾孩子的日常生活。白天大部分时间都在陪伴孩子，处理家务。中午和晚上孩子睡觉时，稍微有一些自己的时间。晚上10点左右哄孩子入睡后，自己也会尽量早睡。",
+            "weekends": "周末会带孩子去公园或者参加一些亲子活动，有时会和朋友聚会，聊聊天，放松心情。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母对她的期望很高，从小就被教育要努力学习。",
+            "adolescence": "中学时期成绩优异，但性格内向，不太善于表达自己。大学期间选择了艺术专业，培养了对画画的兴趣。",
+            "recent_events": "结婚后成为全职妈妈，生了两个孩子，生活重心完全转移到家庭和孩子身上。最近因为孩子吵闹和家庭琐事感到焦虑和记忆力下降。"
+        },
+        "environment": "出生在一个小城市，大学毕业后搬到大城市生活。结婚后定居在城市的一个普通社区，周围环境较为安静，邻里关系和睦。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父母对她的期望很高，从小就被教育要努力学习。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "有几个要好的朋友，但性格内向，不太善于表达自己。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "中学时期成绩优异，但父母的期望和压力让她感到有些压抑。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "大学期间选择了艺术专业，结识了一些志同道合的朋友。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "大学导师对她的艺术才华给予了很高的评价，鼓励她继续发展。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "丈夫虽然不太理解她的焦虑，但也会安慰她。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "两个孩子是她生活的重心，但也带来了很多压力和焦虑。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "平时会和朋友聊天，朋友们的支持让她感到轻松一些。"
+                    ]
+                },
+                {
+                    "relationship": "邻居",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "邻里关系和睦，有时会和邻居交流育儿经验。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "傅君枫的社会关系在不同阶段有明显变化。童年时期，她的主要社会关系集中在家庭和少数朋友身上。进入青春期后，她的社交圈逐渐扩大，结识了更多朋友和导师。结婚后，她的社会关系再次发生变化，重心转移到家庭和孩子身上。尽管她的社交圈有所缩小，但她依然保持着与朋友和邻居的联系。她的社交能力和意愿在不同阶段有所变化，但她始终努力维持和发展自己的社会关系。"
+    }
+}

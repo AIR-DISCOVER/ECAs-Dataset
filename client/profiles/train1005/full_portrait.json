@@ -1,0 +1,175 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "缺乏自信",
+            "容易焦虑",
+            "善良"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "皮肤白皙",
+            "黑色长发",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐"
+            ],
+            "activity": [
+                "独自散步",
+                "在家看电影"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能够顺利通过期末考试，恢复正常的生活作息。",
+            "long_term_goals": "希望能够找到自己真正的兴趣和方向，过上充实而有意义的生活。"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后感到特别难过，通常会在床上躺很久才起床。白天上课时注意力难以集中，课后回到宿舍也很少与室友交流。晚上会暴饮暴食，然后早早上床睡觉。",
+            "weekends": "周末大部分时间都在宿舍里度过，偶尔会出去散步，但大多数时候都在看书或听音乐。"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格活泼，但因为父母工作忙碌，常常感到孤独。",
+            "adolescence": "中学时期成绩一般，常常因为考试压力感到焦虑，逐渐变得内向。",
+            "recent_events": "最近因为期末考试压力大，情绪低落，记忆力减退，生活作息紊乱。"
+        },
+        "environment": "出生在一个小城市，父母都是普通职员。高中毕业后考入省城的一所大学，目前住在学校宿舍。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "父亲工作忙碌，虽然关心和咏枝，但很少有时间陪伴她。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲同样工作繁忙，但比父亲更关注和咏枝的情感需求，偶尔会抽时间陪她。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "和咏枝小时候有两个好朋友，一个是邻居家的小女孩，另一个是幼儿园的同学。她们常常一起玩耍，但随着时间推移，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "进入中学后，和咏枝与父亲的关系变得更加疏远，父亲的工作压力更大，交流更少。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲依然关心和咏枝，但因为和咏枝变得内向，母女之间的沟通也变得困难。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        1
+                    ],
+                    "description": [
+                        "和咏枝在中学时期有几个同学朋友，但因为成绩压力和内向性格，她与他们的关系并不深厚。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "和咏枝上大学后，父亲依然忙碌，偶尔会打电话关心她的学习和生活。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲会定期打电话给和咏枝，询问她的情况，但和咏枝常常报喜不报忧。"
+                    ]
+                },
+                {
+                    "relationship": "室友",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "和咏枝的室友们对她很友好，但因为和咏枝的社交退缩，她们之间的互动并不多。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "和咏枝最近开始定期看心理咨询师，虽然刚开始，但她觉得咨询师是一个可以信任的人。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "和咏枝的社交能力和意愿在不同阶段发生了显著变化。小时候她性格活泼，有几个好朋友，但因为父母工作忙碌，她常常感到孤独。进入中学后，成绩压力和内向性格使她逐渐与朋友疏远。上大学后，和咏枝的社交退缩更加明显，虽然有室友和同学，但她很少主动与他们交流。最近，她开始寻求心理咨询，希望能够改善自己的社交状况。"
+    }
+}

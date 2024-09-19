@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我是没有价值的。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我不值得被关心。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我无法应对生活中的挑战。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我有能力实现梦想。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不能达到高标准，那我就是失败者。",
+                "others": "他人会因为我的失败而看不起我。",
+                "world": "世界对失败者没有宽容。"
+            },
+            "rules": "我必须完美地完成任务，才能被认可。",
+            "positive_assumption": "如果我达到高标准，我会被认可和尊重。",
+            "negative_assumption": "如果我失败了，我将被看不起和忽视。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是比别人差。",
+                "others": "他人总是比我更优秀。",
+                "world": "世界对平庸的人没有机会。"
+            },
+            "rules": "我应该避免与他人比较，以免显得自己很差。",
+            "positive_assumption": "如果我避开竞争，我就不会感到自卑。",
+            "negative_assumption": "如果我参与竞争，我会暴露自己的不足。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我表达自己的需求，就会被忽视。",
+                "others": "他人不会关心我的感受。",
+                "world": "世界上没有人真正关心别人。"
+            },
+            "rules": "我不应该表达自己的需求，以免被忽视。",
+            "positive_assumption": "如果我不表达需求，我就不会感到失望。",
+            "negative_assumption": "如果我表达需求，我会被忽视和拒绝。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得被爱。",
+                "others": "他人不会真心爱我。",
+                "world": "世界对无价值的人没有爱。"
+            },
+            "rules": "我不应该期待他人爱我，以免受伤。",
+            "positive_assumption": "如果我不期待爱，我就不会受伤。",
+            "negative_assumption": "如果我期待爱，我会被伤害。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法处理压力。",
+                "others": "他人能比我更好地应对压力。",
+                "world": "世界对那些无法应对压力的人不友好。"
+            },
+            "rules": "我应该避免压力情境，以免崩溃。",
+            "positive_assumption": "如果我避开压力情境，我会感到安全。",
+            "negative_assumption": "如果我面对压力，我会崩溃。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是失败。",
+                "others": "他人总是成功。",
+                "world": "世界对失败者没有机会。"
+            },
+            "rules": "我不应该尝试新的挑战，以免失败。",
+            "positive_assumption": "如果我不尝试新的挑战，我就不会失败。",
+            "negative_assumption": "如果我尝试新的挑战，我会再次失败。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力实现我的梦想。",
+                "others": "他人也会支持我的梦想。",
+                "world": "世界充满了实现梦想的机会。"
+            },
+            "rules": "我应该积极追求自己的梦想。",
+            "positive_assumption": "如果我追求梦想，我会实现它们。",
+            "negative_assumption": "如果我放弃梦想，我会感到遗憾。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有创造力和才能。",
+                "others": "他人会欣赏我的作品。",
+                "world": "世界需要更多的创意和艺术。"
+            },
+            "rules": "我应该继续创作，展示我的才能。",
+            "positive_assumption": "如果我展示我的作品，别人会欣赏我。",
+            "negative_assumption": "如果我不展示我的作品，我会错失机会。"
+        }
+    ]
+}

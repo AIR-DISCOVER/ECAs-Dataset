@@ -1,0 +1,117 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我必须表现得很出色才能被认可。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我是有能力的。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我不值得休息。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我有责任完成所有任务。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我要避免失败，因为这会让我感到无能。",
+                "others": "他人只会看重我的成功和表现。",
+                "world": "世界是竞争激烈的，需要不断努力才能被认可。"
+            },
+            "rules": "我必须始终表现得完美，才能获得认可。",
+            "positive_assumption": "如果我表现得出色，我会被他人尊重和认可。",
+            "negative_assumption": "如果我失败了，我就会被视为无能和不值得尊重。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的价值取决于我的表现和成就。",
+                "others": "他人会根据我的成绩来评价我。",
+                "world": "世界重视成就和成功。"
+            },
+            "rules": "我必须不断努力，保持高水平的表现。",
+            "positive_assumption": "如果我一直努力，我会被视为有价值的人。",
+            "negative_assumption": "如果我放松下来，我会失去他人的尊重和认可。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力解决问题，并面对生活中的挑战。",
+                "others": "他人可以给予我帮助，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须不断工作，否则会被视为懒惰。",
+                "others": "他人期望我始终保持高效工作。",
+                "world": "世界不容许懈怠，只有勤奋才能生存。"
+            },
+            "rules": "我应该尽量避免休息，以保持高效。",
+            "positive_assumption": "如果我不休息，我会完成更多任务，获得更多认可。",
+            "negative_assumption": "如果我休息了，我会被视为不努力，失去他人的认可。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "休息是浪费时间的表现。",
+                "others": "他人会认为我在偷懒。",
+                "world": "世界是一个竞争激烈的地方，没有时间休息。"
+            },
+            "rules": "我必须避免任何形式的休息，以证明自己的勤奋。",
+            "positive_assumption": "如果我不休息，我会变得更高效，更加成功。",
+            "negative_assumption": "如果我休息了，我的效率会下降，会被他人看轻。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有责任完成所有任务，不能让别人失望。",
+                "others": "他人依赖我的工作，我不能辜负他们。",
+                "world": "世界是一个需要尽职尽责的地方。"
+            },
+            "rules": "我必须尽一切可能完成所有任务。",
+            "positive_assumption": "如果我完成了所有任务，我会被视为可靠和值得信赖的人。",
+            "negative_assumption": "如果我没有完成任务，我会让他人失望，并被视为不负责任。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不能拒绝他人的请求，否则会被视为不合作。",
+                "others": "他人需要我的帮助，我必须支持他们。",
+                "world": "世界是一个相互依赖的地方，需要互相帮助。"
+            },
+            "rules": "我必须尽量满足他人的要求，不能拒绝。",
+            "positive_assumption": "如果我帮助他人，我会被视为善良和合作的人。",
+            "negative_assumption": "如果我拒绝他人的请求，我会被视为冷漠和不合作。"
+        }
+    ]
+}

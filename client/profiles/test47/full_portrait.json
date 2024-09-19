@@ -1,0 +1,179 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "皮肤较白",
+            "头发略显凌乱"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "独自去图书馆",
+                "在公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高学习成绩，恢复自信心",
+            "long_term_goals": "成为一名成功的作家，能够用文字影响他人"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到学校上课，下午放学后在图书馆自习，晚上10点回宿舍，11点左右尝试入睡。",
+            "weekends": "周末大部分时间在宿舍或图书馆，偶尔会去公园散步或看电影。"
+        },
+        "past_experiences": {
+            "childhood": "小时候在一个小城市长大，父母对他期望很高，经常因为成绩问题受到责备。",
+            "adolescence": "中学时期成绩一直不理想，常常感到压力和自卑，逐渐变得内向。",
+            "recent_events": "最近一个月因为学习成绩不佳，情绪低落，觉得自己没有价值。"
+        },
+        "environment": "出生在一个小城市，家庭经济条件一般，父母对他的期望很高。高中毕业后考入省城的一所大学，目前住在学校宿舍。",
+        "persona_summary": "时保富，21岁男学生，未婚，内向、敏感、自卑、勤奋且有责任感。身材瘦削，戴眼镜，皮肤较白，头发略显凌乱。喜欢阅读、写作、听音乐和看电影，常独自去图书馆或公园散步。梦想成为成功作家。近期因学习成绩不佳情绪低落，自责自罪，缺乏自信，伴有躯体不适。日常生活规律，家庭经济一般，父母期望高，常因成绩问题感到压力和自卑。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲是一个严厉的人，对时保富的期望很高，经常因为成绩问题责备他。尽管如此，父亲也会在他生病时照顾他，偶尔会带他去公园散步。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲相对温和，但也对时保富的成绩有很高的期望。她会在他情绪低落时安慰他，但也会在他成绩不理想时表现出失望。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "小时候有两个好朋友，经常一起玩耍，但随着时间的推移，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入中学后，父亲对时保富的期望更高，责备也更多，导致他们的关系变得紧张。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是他情绪的主要支持者，但她的安慰有时显得无力。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期的同学关系一般，时保富因为成绩不理想而感到自卑，社交圈子较小。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "进入大学后，父亲的期望依然很高，但时保富与父亲的联系减少，关系更加疏远。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲依然关心他的生活，但由于距离的原因，联系也减少了。"
+                    ]
+                },
+                {
+                    "relationship": "室友",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "大学宿舍的室友关系一般，时保富因为内向和自卑，较少与室友交流。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "导师对他的学习有一定的指导，但时保富因为成绩不佳，感到压力很大。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "时保富的社交能力和意愿在不同阶段有明显变化。童年时期，他有几个好朋友，但随着时间的推移，联系逐渐减少。中学时期，由于成绩不理想和自卑，他的社交圈子变得更小。进入大学后，他的社交能力进一步下降，主要与室友和导师有一定的联系，但关系并不紧密。总体来说，时保富的社交意愿较低，主要原因是自卑和对自己的负面评价。"
+    }
+}

@@ -1,0 +1,440 @@
+{
+    "childhood": {
+        "name": "伍育纨",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我记得我五岁生日那天，妈妈因为工作忙碌没能回来给我庆祝生日。我在家里等了很久，最后只有爸爸回来给我简单地买了个蛋糕。那天我很失落，觉得自己不值得妈妈的关注。",
+                "location": "家里",
+                "happen_time": "2009年06月",
+                "participants": "父亲",
+                "impact": "这次事件强化了伍育纨的核心信念'我不值得被关心'，让她对母亲的关系产生了疏离感。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在小学三年级时，我在课堂上回答问题时答错了，全班同学都笑了，我感到非常尴尬和羞愧。从那以后，我变得害怕在公众场合发言，怕再被嘲笑。",
+                "location": "小学教室",
+                "happen_time": "2012年03月",
+                "participants": "同学们",
+                "impact": "这次事件加深了她的自卑感，并强化了中间信念'如果我的缺点暴露，我会被嘲笑和排斥'。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里听到父母在客厅里争吵，爸爸说妈妈总是忽视家庭，妈妈则反驳说她是为了这个家才这么辛苦工作。我透过门缝看见他们争吵的样子，感到非常害怕。",
+                "location": "家里",
+                "happen_time": "2010年09月",
+                "participants": "父母",
+                "impact": "这次事件让她感受到家庭的不和睦，进一步强化了核心信念'我不值得被关心'。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在小学五年级的时候，我参加了学校的歌唱比赛，虽然我尽力了，但最后只得了第三名。妈妈对我非常失望，说我应该更努力。那天我哭了很久，觉得自己永远达不到她的期望。",
+                "location": "学校礼堂",
+                "happen_time": "2014年05月",
+                "participants": "母亲，同学们",
+                "impact": "这次事件强化了她的核心信念'我必须表现得完美才能被认可'，并加深了她的自卑感。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校里被一个同学欺负，他把我的书包扔在地上，还嘲笑我。那天我感觉非常无助和孤独，觉得自己没有人能够依靠。",
+                "location": "学校操场",
+                "happen_time": "2013年11月",
+                "participants": "同学",
+                "impact": "这次事件强化了她的核心信念'我不值得被关心'，并加深了她对人际关系的恐惧。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到我的好朋友被老师表扬，她的父母也很高兴。我当时非常羡慕，觉得她爸妈真的很关心她。",
+                "location": "学校教室",
+                "happen_time": "2012年10月",
+                "participants": "朋友，老师，朋友的父母",
+                "impact": "这次事件让她感到自己不被重视，并强化了核心信念'我不值得被关心'。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我表现得很好，得到了亲戚们的夸奖。但妈妈在大家面前说我还有很多不足之处。那一刻我感到非常羞愧，觉得自己再怎么努力也不够好。",
+                "location": "家庭聚会",
+                "happen_time": "2015年02月",
+                "participants": "母亲，亲戚们",
+                "impact": "这次事件强化了她的核心信念'我不够好'，并加深了她对母亲的失望。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在小学六年级的时候，我因为努力学习而考了全班第一名。那天爸爸特地请假回来，带我去吃了我最喜欢的冰淇淋，我感到非常开心。",
+                "location": "冰淇淋店",
+                "happen_time": "2016年06月",
+                "participants": "父亲",
+                "impact": "这次事件强化了她的核心信念'我有能力应对挑战'，增强了她的自信心。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到妈妈深夜在电脑前工作，眼圈乌黑。我感到很心疼，但也觉得自己不能再给她添麻烦。",
+                "location": "家里",
+                "happen_time": "2015年12月",
+                "participants": "母亲",
+                "impact": "这次事件让她更加理解母亲的辛苦，但也进一步强化了核心信念'我不值得被关心'。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在一次班级活动中，我因为害怕表现不好而没有参与。后来看到同学们玩得很开心，我感到非常后悔，但又害怕他们会嘲笑我。",
+                "location": "学校操场",
+                "happen_time": "2015年04月",
+                "participants": "同学们",
+                "impact": "这次事件加深了她的自卑感，并强化了中间信念'如果我不够好，我会被孤立和忽视'。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到爸爸在电话里和同事争论工作上的事情，脸色很难看。我当时觉得爸爸的工作一定很辛苦，也感到自己不能再给他增加负担。",
+                "location": "家里",
+                "happen_time": "2011年08月",
+                "participants": "父亲",
+                "impact": "这次事件让她更加理解父亲的辛苦，但也进一步强化了核心信念'我不值得被关心'。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在小学二年级的时候，我的好朋友因为家里搬家转学了。那天我很难过，觉得自己又少了一个可以依靠的人。",
+                "location": "学校教室",
+                "happen_time": "2011年06月",
+                "participants": "好朋友",
+                "impact": "这次事件强化了她的核心信念'我不值得被关心'，并加深了她的孤独感。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "有一次我发烧了，爸爸工作忙不能带我去医院，妈妈虽然带我去了但全程都在打电话处理工作。我那时觉得自己不被重视。",
+                "location": "医院",
+                "happen_time": "2012年12月",
+                "participants": "母亲",
+                "impact": "这次事件强化了她的核心信念'我不值得被关心'，并加深了她对母亲的疏远感。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一位同学因为学习成绩差被父母责骂，感到非常同情她。当时我想，我不能让自己也有这样的经历。",
+                "location": "同学家门口",
+                "happen_time": "2014年09月",
+                "participants": "同学，同学的父母",
+                "impact": "这次事件让她更加努力追求完美，强化了核心信念'我必须表现得完美才能被认可'。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "有一次，我在比赛中获胜，得到了奖状。那天我感到很自豪，觉得自己终于能够证明自己的价值。",
+                "location": "学校礼堂",
+                "happen_time": "2016年03月",
+                "participants": "同学，老师",
+                "impact": "这次事件强化了她的核心信念'我有能力应对挑战'，增强了她的自信心。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "伍育纨",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中一次数学考试失利，我得了班级倒数。老师在班会上点名批评了我，我低着头，脸都红了，感觉全班同学的目光都在盯着我。",
+                "location": "学校教室",
+                "happen_time": "2017年5月",
+                "participants": "班主任老师，同学们",
+                "impact": "这次经历让伍育纨开始怀疑自己的能力，产生了'我不够好'的核心信念，并开始害怕失败。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "考试失利后回到家，父亲皱着眉头说：“这次怎么考得这么差？你这样怎么对得起我们的期望？”母亲也在一旁叹气：“你再这样下去，怎么能考上好高中？”",
+                "location": "家中客厅",
+                "happen_time": "2017年5月",
+                "participants": "父母",
+                "impact": "父母的高期望和责备加深了她对自己的怀疑，形成了'我必须表现得完美才能被认可'的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "一次上体育课时，伍育纨因为跑步速度慢，被同学们嘲笑。她听到有人说：“她怎么这么笨啊！”",
+                "location": "学校操场",
+                "happen_time": "2018年4月",
+                "participants": "同学们",
+                "impact": "同学们的嘲笑让她更加自卑，强化了'我不够好'和'我不值得被关心'的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "有一天，伍育纨在家中听到父母在争吵，父亲责怪母亲没有好好照顾家庭，母亲则反驳说父亲从来不关心她的感受。",
+                "location": "家中",
+                "happen_time": "2018年7月",
+                "participants": "父母",
+                "impact": "这次争吵让她觉得自己的情感需求不重要，形成了'我的情感需求不重要'的核心信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "一次跟朋友聊天时，朋友提到他们周末一起去玩，但没有邀请她。她问：“为什么不叫我？”朋友回答：“我们觉得你可能不想来。”",
+                "location": "学校走廊",
+                "happen_time": "2019年3月",
+                "participants": "朋友",
+                "impact": "朋友的言行让她感到被排斥，进一步强化了'我不值得被关心'的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "一次在图书馆，伍育纨看到一个同学因为考试成绩不好被家长责骂，那个同学哭了。",
+                "location": "学校图书馆",
+                "happen_time": "2019年6月",
+                "participants": "一个同学和其家长",
+                "impact": "她对这个场景感同身受，进一步确认了'我必须表现得完美才能被认可'的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "她曾经主动向老师寻求帮助，但老师只是简单地安慰了一下，然后说：“你需要自己努力，老师只能帮你有限。”",
+                "location": "学校办公室",
+                "happen_time": "2020年2月",
+                "participants": "老师",
+                "impact": "老师的回应让她觉得自己得不到真正的关心，强化了'我不值得被关心'的核心信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在一次班会上，老师表扬了她的一篇作文，她感到一丝自豪，但看到父母并没有特别高兴的表情，她感到失落。",
+                "location": "学校教室",
+                "happen_time": "2020年5月",
+                "participants": "老师，同学，父母",
+                "impact": "她的表现虽然得到老师的认可，但父母的冷淡态度让她感到自己的努力并不重要，进一步强化了她的不自信。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "她看到一个学长因为表现优异被全校表扬，她暗自羡慕但又觉得自己永远达不到那样的高度。",
+                "location": "学校礼堂",
+                "happen_time": "2020年10月",
+                "participants": "学长，学校师生",
+                "impact": "她对自己的能力产生怀疑，形成了'我的价值取决于我的表现'的核心信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在一次晚自习中，她因为无法集中注意力而感到焦虑，心里想着：“如果我继续这样下去，我怎么能够完成学业？”",
+                "location": "学校自习室",
+                "happen_time": "2021年3月",
+                "participants": "无",
+                "impact": "她的焦虑和自我怀疑加剧，进一步影响了她的学业和情感状态。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，亲戚们问起她的学习情况，她只好低头不语，感到非常尴尬和无助。",
+                "location": "家中",
+                "happen_time": "2021年8月",
+                "participants": "亲戚",
+                "impact": "亲戚的询问让她感到压力和不安，进一步增强了她的自卑感。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "她看到一个朋友因为一次考试成绩不好而被父母批评，朋友哭着跑了出去。",
+                "location": "学校教室",
+                "happen_time": "2021年10月",
+                "participants": "朋友，朋友的父母",
+                "impact": "这个情景让她更加害怕失败，认为自己必须避免失败才能保护自尊。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "一次学校的歌唱比赛，她鼓起勇气报名，但在上台前因为紧张而放弃，之后一直后悔。",
+                "location": "学校礼堂",
+                "happen_time": "2021年12月",
+                "participants": "同学，老师",
+                "impact": "她的放弃让她觉得自己无法应对挑战，进一步强化了'我不够好'的核心信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "高考前夕，她感到巨大的压力，夜晚常常无法入睡，开始有失眠和暴饮暴食的症状。",
+                "location": "家中",
+                "happen_time": "2022年5月",
+                "participants": "无",
+                "impact": "高考压力加剧了她的情绪问题，影响了她的心理健康和日常生活。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "高考成绩公布，她虽然考上了省会城市的一所大学，但觉得成绩不够理想，父母也对她的成绩不甚满意。",
+                "location": "家中",
+                "happen_time": "2022年7月",
+                "participants": "父母",
+                "impact": "成绩的相对不理想和父母的失望态度让她感到无力和沮丧，进一步加深了她的自卑感。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "伍育纨",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2022年12月的一次期末考试中，尽管我非常努力地复习，但考试成绩依然不理想。这让我感到非常沮丧，我开始质疑自己的能力和价值。",
+                "location": "大学教室",
+                "happen_time": "2022年12月",
+                "participants": "伍育纨",
+                "impact": "这次考试失利进一步强化了我不够好的核心信念，增加了自卑和焦虑感。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年3月，我尝试与一位同学建立更深的友谊，但她似乎对我并不感兴趣，甚至有些疏远我。这让我感到非常孤独和被忽视。",
+                "location": "学校食堂",
+                "happen_time": "2023年3月",
+                "participants": "伍育纨, 同学A",
+                "impact": "这次互动失败让我更加确信自己不值得被关心，这加重了我的抑郁症状。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一个课堂讨论中，我看到其他同学积极参与，表现得非常自信，而我却因害怕说错话而保持沉默。",
+                "location": "大学教室",
+                "happen_time": "2023年4月",
+                "participants": "伍育纨, 同学们",
+                "impact": "这种对比让我更加感到自己不够好和不值得被关注，进一步加重了情绪低落。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年5月的一天，我因为情绪低落而整天待在宿舍，没有去上课和吃饭。",
+                "location": "宿舍",
+                "happen_time": "2023年5月",
+                "participants": "伍育纨",
+                "impact": "这种行为让我感到更加无助和孤独，导致对未来的更大担忧和焦虑。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年6月，我尝试通过暴饮暴食来缓解压力，但事后感到非常后悔和自责。",
+                "location": "宿舍",
+                "happen_time": "2023年6月",
+                "participants": "伍育纨",
+                "impact": "暴饮暴食虽然暂时缓解了压力，但却让我感到更加自卑和无力。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年9月，我得知自己的学业成绩再次下滑，感到非常绝望，甚至有了放弃学业的念头。",
+                "location": "大学教务处",
+                "happen_time": "2023年9月",
+                "participants": "伍育纨",
+                "impact": "成绩下滑进一步打击了我的自信心，使我对未来感到更加迷茫和无助。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年11月，我看到室友们准备参加一个社交活动，但我没有被邀请，感到非常孤独和被排斥。",
+                "location": "宿舍",
+                "happen_time": "2023年11月",
+                "participants": "伍育纨, 室友们",
+                "impact": "这种被排斥的感觉让我更加确信自己不值得被关心，加重了抑郁症状。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年1月，我在一次心理咨询中，向心理咨询师倾诉了自己长期以来的情感困扰和抑郁情绪。",
+                "location": "心理咨询室",
+                "happen_time": "2024年1月",
+                "participants": "伍育纨, 心理咨询师",
+                "impact": "这次倾诉让我感到了一些释放，但也让我意识到问题的严重性。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年2月，我尝试参加学校组织的一次集体活动，但在活动中感到非常不自在，最终提前离开。",
+                "location": "学校活动场地",
+                "happen_time": "2024年2月",
+                "participants": "伍育纨, 学校同学",
+                "impact": "这次失败的尝试让我更加回避社交活动，进一步加重了孤独感。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年3月，我看到室友在课余时间积极参与社交活动，而我却只能独自待在宿舍。",
+                "location": "宿舍",
+                "happen_time": "2024年3月",
+                "participants": "伍育纨, 室友们",
+                "impact": "这种对比让我更加感到自己不值得被关心，情绪进一步低落。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年5月，我再次尝试通过暴饮暴食来缓解情绪，但事后感到更加自责和沮丧。",
+                "location": "宿舍",
+                "happen_time": "2024年5月",
+                "participants": "伍育纨",
+                "impact": "暴饮暴食的行为让我的情绪更加不稳定，增加了自我厌恶感。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年6月，我在一次考试中再次失利，感到彻底崩溃，甚至有了绝望的念头。",
+                "location": "大学教室",
+                "happen_time": "2024年6月",
+                "participants": "伍育纨",
+                "impact": "考试失利让我对自己的能力彻底失去信心，抑郁症状加重。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年7月，我目睹了一位同学因为学业压力而崩溃，这让我感到非常共鸣和无助。",
+                "location": "大学教室",
+                "happen_time": "2024年7月",
+                "participants": "伍育纨, 同学B",
+                "impact": "这个事件让我更加意识到自己的脆弱，加重了对未来的担忧和抑郁情绪。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年8月，我在一次心理咨询中，尝试表达自己对未来的恐惧和无助感。",
+                "location": "心理咨询室",
+                "happen_time": "2024年8月",
+                "participants": "伍育纨, 心理咨询师",
+                "impact": "这次表达让我感到一些释放，但仍然对未来充满恐惧和不确定感。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年8月，我看到同学们为毕业做准备，而我却因为情绪低落无法集中精力，也没有心情参与。",
+                "location": "大学校园",
+                "happen_time": "2024年8月",
+                "participants": "伍育纨, 同学们",
+                "impact": "这种对比让我感到自己与他人差距巨大，进一步加重了抑郁症状。"
+            }
+        ]
+    }
+}

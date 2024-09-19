@@ -1,0 +1,211 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "关心",
+            "耐心",
+            "内向",
+            "敏感",
+            "责任感强"
+        ],
+        "appearance": [
+            "中等身高",
+            "微胖",
+            "头发花白",
+            "面容憔悴",
+            "穿着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "散步",
+                "园艺",
+                "阅读",
+                "烹饪"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "帮助女儿找到工作，解决儿子的婚姻问题",
+            "long_term_goals": "希望家庭和睦，子女事业有成"
+        },
+        "daily_life": {
+            "routine": "早上起床后简单做早餐，偶尔去公园散步，回家后做些家务，下午休息或看书，晚上和家人一起吃晚饭。",
+            "weekends": "周末通常会去公园散步，或者和家人一起做饭，有时会和朋友见面，但最近减少了社交活动。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工人家庭，父母勤劳朴实。",
+            "adolescence": "中学时期成绩优异，但因家庭经济原因未能继续深造。",
+            "youth": "早早结婚生子，承担起家庭的重担，工作和家庭两头兼顾。",
+            "recent_events": "退休后本应享受生活，但因子女的问题而感到压力和疲惫。"
+        },
+        "environment": "出生在北方的一个小县城，成年后搬到城市生活，退休后在城市中安度晚年。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "滕锦茜的父母是普通的工人，勤劳朴实。她与父母关系亲密，父母对她的成长和教育非常重视。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "滕锦茜在小学和初中时期有几个要好的朋友，他们经常一起玩耍和学习。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "尽管家庭经济困难，滕锦茜的父母依然尽力支持她的学业。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "在中学时期，滕锦茜结交了一些新朋友，他们一起度过了许多美好的时光。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "滕锦茜的中学老师对她的学业给予了很大的帮助和鼓励。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "配偶",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "滕锦茜早早结婚，她的丈夫是她的坚强后盾，两人共同承担起家庭的重担。"
+                    ]
+                },
+                {
+                    "relationship": "子女",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "滕锦茜有一儿一女，她对他们的成长和教育非常关心。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "在工作中，滕锦茜与同事们关系融洽，他们一起合作完成了许多项目。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "滕锦茜在工作和生活中结交了一些朋友，他们经常一起聚会和交流。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "配偶",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "滕锦茜的丈夫依然是她的支持者，但由于子女的问题，两人也时常感到压力。"
+                    ]
+                },
+                {
+                    "relationship": "子女",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "滕锦茜的儿子和女儿目前都面临一些问题，她对此感到非常担忧。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "由于抑郁情绪，滕锦茜最近减少了与朋友的接触。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "滕锦茜在不同阶段的社会关系发生了显著变化。童年和青少年时期，她与父母和朋友关系密切。成年后，她的社会关系扩展到配偶、子女和同事。最近，由于子女的问题和抑郁情绪，她的社交活动减少，与朋友的联系变得疏远。"
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "勤奋",
+            "自我要求高",
+            "有责任心"
+        ],
+        "appearance": [
+            "中等身高",
+            "纤细",
+            "戴眼镜",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "听音乐",
+                "散步"
+            ],
+            "activity": [
+                "周末去图书馆",
+                "和朋友一起喝咖啡"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "完成博士论文并顺利毕业",
+            "long_term_goals": "成为一名大学教授，继续从事学术研究"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到实验室或图书馆，晚上10点回宿舍，期间会有固定的午餐和晚餐时间。",
+            "weekends": "周末通常会去图书馆查阅资料，偶尔和朋友一起出去放松，喜欢在咖啡馆里度过下午时光。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多，常常感到孤独。",
+            "recent_events": "最近因为博士论文的压力，感到自信心下降，时常怀疑自己的能力。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书，现在在北京读博士。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "伍影纯的父亲是一名工厂工人，工作繁忙，但对女儿的学习非常关心。虽然父亲性格严肃，但他总是尽力在工作之余陪伴女儿，帮助她解决学习上的问题。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "伍影纯的母亲是一名小学教师，性格温和，对女儿的教育非常重视。母亲常常在家里辅导伍影纯的功课，并鼓励她多读书、多思考。"
+                    ]
+                },
+                {
+                    "relationship": "小学同学",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "伍影纯在小学时有几个要好的同学，但由于性格内向，她并不常与他们一起玩耍。她更喜欢独自一人阅读和思考。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "中学同学",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "在中学时期，伍影纯有两个比较亲近的同学，她们常常一起讨论学习问题。虽然伍影纯性格内向，但她们的友谊让她感到温暖。"
+                    ]
+                },
+                {
+                    "relationship": "班主任",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "伍影纯的班主任是一位非常严格但关心学生的老师。班主任对伍影纯的学习成绩非常满意，经常鼓励她继续努力。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "伍影纯的博士导师是一位严谨的学者，对她的研究提出了很多建设性的意见。虽然导师对她的要求很高，但伍影纯知道这是为了她的学术成长。"
+                    ]
+                },
+                {
+                    "relationship": "博士同学",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "伍影纯在博士期间有几个关系不错的同学，他们常常一起讨论研究问题。虽然她不常主动交流，但同学们的支持让她感到安心。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "伍影纯有两个非常要好的朋友，她们常常在周末一起喝咖啡、聊天。这些朋友是她生活中的重要支柱，给了她很多情感上的支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "伍影纯的社交关系在不同阶段有明显的变化。童年时期，她的社交圈主要集中在家庭和少数同学之间。进入中学后，她的社交圈有所扩大，但由于性格内向，朋友依然不多。最近，她的社交关系主要集中在学术圈和少数亲密朋友之间。虽然她的社交能力有所提升，但自信心的下降让她在与人交流时依然感到压力。"
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "谨慎",
+            "责任感强",
+            "内向",
+            "有些焦虑",
+            "诚实"
+        ],
+        "appearance": [
+            "中等身材",
+            "略显疲惫",
+            "头发花白",
+            "穿着整洁"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "棋牌",
+                "散步"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "顺利退休，享受退休生活",
+            "long_term_goals": "在退休后从事一些公益事业，弥补过去的错误"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点上班，下午5点下班，晚上和家人共进晚餐，之后阅读或看电视。",
+            "weekends": "周末通常和家人一起度过，去公园散步或做一些家务。偶尔会和朋友聚会，打打棋牌。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工人家庭，父母勤劳朴实，从小受到良好的家庭教育。",
+            "adolescence": "中学时期成绩优异，积极参加学校活动，性格较为内向。",
+            "youth": "大学毕业后进入公务员系统，工作勤恳，逐步升职。",
+            "recent_events": "最近升职，但身边同事因贪污被查，感到焦虑和担忧。"
+        },
+        "environment": "出生在一个小城市，大学毕业后在省城工作，家庭和睦，妻子贤惠，子女已成家立业。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工人，勤劳朴实，教会了奚翰翰责任感和诚实。",
+                        "母亲温柔体贴，给予了奚翰翰无尽的关爱和支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "童年的玩伴，常常一起玩耍和学习。",
+                        "邻居家的孩子，关系亲密。",
+                        "学校的同学，偶尔一起做作业。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "中学时期的好友，常常一起参加学校活动。",
+                        "学习上的竞争对手，激励彼此进步。",
+                        "班级里的普通同学，关系一般。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        4
+                    ],
+                    "description": [
+                        "班主任，对奚翰翰的学习和生活给予了很多帮助。",
+                        "数学老师，奚翰翰的偶像，激发了他对数学的兴趣。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "宿舍室友，关系亲密。",
+                        "一起参加社团活动的伙伴。",
+                        "学习上的合作伙伴。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "初入职场的导师，给予了很多指导。",
+                        "工作上的搭档，合作默契。",
+                        "普通同事，关系一般。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "家人",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        5,
+                        4
+                    ],
+                    "description": [
+                        "妻子，贤惠体贴，是奚翰翰的精神支柱。",
+                        "儿子，已经成家立业，偶尔会回家探望。",
+                        "女儿，已经成家立业，常常打电话关心父母。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        1
+                    ],
+                    "description": [
+                        "工作上的合作伙伴，关系较为疏远。",
+                        "办公室里的普通同事，偶尔交流。",
+                        "因贪污被查的同事，关系紧张。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "老朋友，常常一起打棋牌。",
+                        "新认识的朋友，偶尔聚会。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "奚翰翰的社交圈在不同阶段有明显变化。童年时期，他的社交圈主要集中在家庭和邻居，关系亲密。进入中学后，他的社交圈扩大到同学和老师，关系较为紧密。大学时期，他的社交圈主要是同学和初入职场的同事，关系较为密切。进入公务员系统后，他的社交圈主要是同事和家人，关系较为疏远。最近因同事贪污事件，他的社交圈再次发生变化，变得更加谨慎和内向。"
+    }
+}

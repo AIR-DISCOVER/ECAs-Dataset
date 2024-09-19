@@ -1,0 +1,197 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "责任感强",
+            "情感细腻"
+        ],
+        "appearance": [
+            "中等身材",
+            "略显憔悴",
+            "黑发",
+            "眼神疲惫",
+            "肤色偏白"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "园艺"
+            ],
+            "activity": [
+                "和孩子一起玩耍",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复心理健康，重新找回对生活的兴趣",
+            "long_term_goals": "找到自我价值，建立一个和谐的家庭环境"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，准备孩子上学，8点上班，工作时注意力难以集中，下午5点下班回家，晚上陪孩子做作业，10点左右上床，但常常难以入睡。",
+            "weekends": "周末通常会带孩子去公园散步，偶尔会和家人一起做饭，但大部分时间感到无聊和疲惫。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母关系和睦，童年时光相对快乐。",
+            "adolescence": "中学时期成绩优异，但性格内向，不善于交际。",
+            "youth": "大学期间遇到了现在的丈夫，毕业后进入国企工作，婚后生活一度幸福，但随着时间推移，婚姻中的矛盾逐渐显现。",
+            "recent_events": "近几个月来，婚姻问题加剧，情绪低落，工作效率下降，体重明显减轻。"
+        },
+        "environment": "出生在江苏省南京市，大学期间在本地就读，毕业后留在南京工作和生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "韩聪妍的父母关系和睦，给予她一个相对快乐的童年。父亲是一名工人，母亲是一名教师，他们对韩聪妍的教育非常重视，常常鼓励她努力学习。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "韩聪妍在童年时期有几个玩伴，他们常常一起玩耍，但由于性格内向，她并没有特别亲密的朋友。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "在中学时期，韩聪妍的父母依然是她最亲近的人，他们对她的学业给予了很大的支持。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "韩聪妍在中学时期成绩优异，但性格内向，不善于交际。她有一些同学朋友，但关系并不特别亲密。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "在大学期间，韩聪妍遇到了现在的丈夫，他们相识相恋，毕业后结婚。婚后生活一度幸福，但随着时间推移，婚姻中的矛盾逐渐显现。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "韩聪妍进入国企工作后，与同事们保持着一般的工作关系。她的内向性格使她在职场上并没有太多亲密的朋友。"
+                    ]
+                },
+                {
+                    "relationship": "闺蜜",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "韩聪妍有一个大学时期的闺蜜，她们曾经无话不谈，但随着时间的推移和生活的变化，闺蜜对她的理解逐渐减少。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "近几个月来，韩聪妍的婚姻问题加剧，她与丈夫的关系变得紧张，几乎没有交流。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "韩聪妍非常爱她的孩子，尽管她的情绪低落，但她依然尽力陪伴孩子，照顾孩子的生活和学习。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "由于情绪低落和工作效率下降，韩聪妍与同事的关系变得更加疏远。"
+                    ]
+                },
+                {
+                    "relationship": "闺蜜",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "韩聪妍曾向闺蜜倾诉婚姻问题，但闺蜜并不理解她的感受，这让她感到更加孤独。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "韩聪妍的社会关系在不同阶段发生了显著变化。童年时期，她与父母关系亲密，但朋友不多。中学时期，她依然与父母关系密切，但由于性格内向，朋友关系一般。大学时期，她遇到了现在的丈夫，婚后生活一度幸福，但随着时间推移，婚姻中的矛盾逐渐显现。近几个月来，婚姻问题加剧，她与丈夫的关系变得紧张，几乎没有交流。她的情绪低落和工作效率下降，使她与同事的关系也变得疏远。尽管如此，她依然尽力陪伴孩子，照顾孩子的生活和学习。"
+    }
+}

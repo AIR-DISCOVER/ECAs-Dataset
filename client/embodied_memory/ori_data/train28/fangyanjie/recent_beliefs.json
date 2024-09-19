@@ -1,0 +1,78 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我没有能力做出正确的决定。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我需要满足他人的期望。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我是被关心和爱的。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是犯错，不能让人满意。",
+                "others": "他人对我有很高的期望，我无法达到。",
+                "world": "世界对我来说是充满挑战和压力的。"
+            },
+            "rules": "我必须避免犯错以免让他人失望。",
+            "positive_assumption": "如果我避免犯错，他人就会对我满意。",
+            "negative_assumption": "如果我犯错，我会让他人失望并被批评。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法做出正确的决定。",
+                "others": "他人总是能比我更好地做决定。",
+                "world": "世界对我而言是无法掌控的。"
+            },
+            "rules": "我应该依赖他人来做重要的决定。",
+            "positive_assumption": "如果我依赖他人做决定，我就不会犯错。",
+            "negative_assumption": "如果我自己做决定，我会犯严重的错误。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须满足他人的期望。",
+                "others": "他人对我的期望很高，我需要努力去满足。",
+                "world": "世界对我有很多要求。"
+            },
+            "rules": "我应该尽力满足他人的期望。",
+            "positive_assumption": "如果我满足他人的期望，我就会被认可。",
+            "negative_assumption": "如果我不能满足他人的期望，我就会被批评和拒绝。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我被家人和朋友关心和爱着。",
+                "others": "他人愿意支持和帮助我。",
+                "world": "世界上有很多关心和支持我的人。"
+            },
+            "rules": "我应该珍惜和依赖家人和朋友的关爱。",
+            "positive_assumption": "如果我依赖家人和朋友的支持，我会感到安全和被爱。",
+            "negative_assumption": "如果我不依赖家人和朋友的支持，我会感到孤单和不安全。"
+        }
+    ]
+}

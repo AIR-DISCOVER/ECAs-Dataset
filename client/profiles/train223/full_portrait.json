@@ -1,0 +1,169 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "诚实",
+            "内向",
+            "有责任心"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "散步",
+                "看电影"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高工作中的自信心，减少失误",
+            "long_term_goals": "成为一名优秀的医生，帮助更多的病人"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到医院上班，晚上6点下班后会去健身房锻炼一小时，回家后会看书或听音乐放松。",
+            "weekends": "周末通常会和朋友或家人一起出去吃饭，或者去公园散步，有时也会在家看电影或阅读。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他要求严格，从小就被教育要努力学习。",
+            "adolescence": "中学时期成绩优异，但性格内向，不太擅长与人交往。",
+            "recent_events": "最近在工作中出现了一些小失误，虽然及时补救，但对自信心造成了一定影响。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读的医学院，毕业后回到南京工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "冯康彬的父亲是一名工厂工人，工作繁忙但对家庭非常负责。父亲对冯康彬的教育非常严格，经常督促他学习，虽然有时显得严厉，但内心深处非常关心儿子。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "冯康彬的母亲是一名小学教师，性格温和，对冯康彬的成长起到了重要的支持作用。母亲经常在学习和生活上给予他帮助和鼓励，是他心灵的避风港。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "冯康彬在小学时有两个好朋友，他们经常一起玩耍和学习。虽然冯康彬性格内向，但这两个朋友让他的童年充满了欢乐。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "在中学时期，父亲对冯康彬的期望更高，经常督促他学习，虽然有时会产生一些冲突，但父亲的严格要求也让冯康彬在学业上取得了优异的成绩。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲在冯康彬的青春期依然是他最重要的支持者。她理解儿子的压力，经常在他感到困惑和焦虑时给予安慰和指导。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "冯康彬在中学时期有几个同学关系较好，但由于性格内向，他并不擅长与人交往，更多时候是独自一人学习和思考。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "冯康彬在医院工作期间，与几位同事关系较好，虽然他性格内向，但在工作中表现出色，得到了同事们的认可和支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "冯康彬有两个大学时期的朋友，他们经常在周末一起聚会或散步，这些朋友在他感到压力时给予了他很多支持和鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "家人",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "冯康彬的父母依然是他最重要的支持者，他们经常关心他的工作和生活，给予他无条件的爱和支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "冯康彬在不同阶段的社会关系中，逐渐从依赖家庭的支持转向建立自己的社交圈。虽然他性格内向，但通过努力，他在工作和生活中建立了一些重要的关系。这些关系在他感到自信心下降时，给予了他重要的支持和鼓励。"
+    }
+}

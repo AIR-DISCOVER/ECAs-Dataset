@@ -1,0 +1,170 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "细腻",
+            "有责任心",
+            "自我要求高"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "皮肤白皙",
+            "长发",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "和朋友一起去咖啡馆",
+                "周末去图书馆"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "顺利完成学业，保持良好的学习成绩",
+            "long_term_goals": "成为一名成功的设计师，能够独立完成大型项目"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点上课，下午有时会去图书馆自习，晚上10点左右上床休息，但入睡困难。",
+            "weekends": "周末通常会在家休息，偶尔会和朋友出去放松，或者去图书馆看书。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但也因此感到很大的压力，常常为了考试而熬夜。",
+            "recent_events": "最近两个月由于学业压力和对未来的不确定感，导致情绪低落，出现了抑郁症状。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，目前在上海读大学。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "朱冰芳的父母对她的期望很高，从小就要求她努力学习。虽然他们的关心和支持是无条件的，但也给她带来了很大的压力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "童年时期的朋友主要是邻居和同学，关系较为亲密，但随着时间的推移，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "中学时期，父母对她的期望更高，常常督促她学习，虽然他们的初衷是好的，但也让朱冰芳感到压力倍增。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学时期的老师们对她的学习成绩非常关注，给予了很多指导和帮助，但也让她感到被监视和评判。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学时期的朋友主要是同班同学，关系较为亲密，但由于学习压力大，社交时间有限。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "虽然朱冰芳现在在上海读大学，但父母依然通过电话和视频通话关心她的学习和生活。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 6,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "大学同学中有几位关系较为亲密，常常一起学习和讨论问题，但由于朱冰芳的抑郁症状，她有时会感到难以融入。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "大学期间结识的朋友，关系较为亲密，偶尔会一起去咖啡馆或图书馆，但朱冰芳有时会因为情绪低落而拒绝社交。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "朱冰芳的社交能力和意愿在不同阶段有明显变化。童年时期，她的社交圈主要是家庭和邻居，关系较为简单和亲密。中学时期，由于学习压力大，她的社交圈主要是同学和老师，关系较为紧张和复杂。进入大学后，她的社交圈扩大，但由于抑郁症状，她的社交意愿和能力有所下降，常常感到孤独和难以融入。"
+    }
+}

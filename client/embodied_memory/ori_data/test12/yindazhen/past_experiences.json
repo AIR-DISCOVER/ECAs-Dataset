@@ -1,0 +1,439 @@
+{
+    "childhood": {
+        "name": "殷达震",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "小学一年级时，我第一次考试成绩不理想，回到家后父母脸色凝重，父亲语重心长地说：‘达震，你要努力啊，只有好好学习才能有出息。’母亲则默默地叹气，让我感到自己让他们失望了。",
+                "location": "家中客厅",
+                "happen_time": "2009年10月",
+                "participants": "父亲、母亲",
+                "impact": "这次事件加深了我对‘如果我不能达到父母的期望，我就不值得被爱’的信念，促使我更加努力学习以获取父母的认可。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我参加了班级的演讲比赛，尽管准备充分，但在舞台上紧张到说不出话来，最终没有获奖。父母虽然安慰我，但我能感觉到他们的失望。",
+                "location": "小学教室",
+                "happen_time": "2011年5月",
+                "participants": "父亲、母亲、老师、同学",
+                "impact": "这次失败让我更加确信‘我的表现决定了我是否值得被爱’，进一步增加了我对父母期望的压力。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "一次在学校，我看到一个同学因为成绩不佳被老师批评，其他同学也开始疏远他。我意识到在这个环境中，成绩和表现对人际关系有多么重要。",
+                "location": "小学教室",
+                "happen_time": "2012年3月",
+                "participants": "老师、同学",
+                "impact": "这次观察加深了我对‘他人会通过我的成绩来判断我的价值’的信念，使我更加努力以避免被孤立。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我的作文被老师当作范文在班上朗读，父母知道后非常高兴，父亲还奖励了我一套书。这是我第一次感受到因为成绩出色而被父母认可和爱护。",
+                "location": "小学教室、家中书房",
+                "happen_time": "2013年11月",
+                "participants": "父亲、母亲、老师、同学",
+                "impact": "这次事件强化了‘如果我表现好，父母就会爱我’的信念，增强了我的自信心和对写作的兴趣。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我在一次数学竞赛中取得了优异成绩，父母特地请我吃了一顿大餐，庆祝我的成功。",
+                "location": "家附近的餐厅",
+                "happen_time": "2014年5月",
+                "participants": "父亲、母亲",
+                "impact": "这次事件进一步巩固了‘如果我成绩好，我会被认为有价值’的信念，使我更积极地面对学业上的挑战。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "一次，在家中我听见父母在讨论经济压力，父亲说：‘我们要努力工作，给达震创造更好的学习环境。’母亲则表示同意并表示愿意多做一些兼职。",
+                "location": "家中客厅",
+                "happen_time": "2013年7月",
+                "participants": "父亲、母亲",
+                "impact": "这次对话让我明白父母为我付出了很多，使我感到自己有责任取得好成绩以回报他们的辛劳。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我打篮球时不小心摔伤了腿，父母立刻带我去医院，母亲一直陪在病床旁，父亲则每天都来看我。",
+                "location": "学校操场、医院",
+                "happen_time": "2013年9月",
+                "participants": "父亲、母亲、医生",
+                "impact": "这次事件让我感受到父母对我的关爱，增强了‘父母虽然期望高，但他们相信我有能力’的信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "小学二年级时，班主任在家长会上公开表扬了我的学习成绩，父母在会后对我赞不绝口，甚至在回家的路上买了我一直想要的玩具。",
+                "location": "小学教室、回家路上",
+                "happen_time": "2010年6月",
+                "participants": "父亲、母亲、班主任、其他家长",
+                "impact": "这次事件强化了‘如果我足够优秀，我会被爱’的信念，使我更加努力在学业上取得优异成绩。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "一次，我在家中看到邻居家的孩子因为成绩差被父母责骂，孩子哭得很伤心，这让我感到害怕，担心自己也会有同样的遭遇。",
+                "location": "家中窗前",
+                "happen_time": "2012年11月",
+                "participants": "邻居、邻居家的孩子",
+                "impact": "这次事件加深了‘如果我不优秀，我将不被爱’的信念，增加了我对父母期望的压力。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，我在一次校外活动中遇到了一位友善的老师，他鼓励我追求自己的兴趣和梦想，这让我感到非常受鼓舞。",
+                "location": "校外活动场地",
+                "happen_time": "2012年4月",
+                "participants": "校外活动老师、同学",
+                "impact": "这次事件使我对‘我有能力面对学业上的挑战’的信念更加坚定，增强了我的自信心。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我的一篇作文被刊登在校报上，父母为此感到非常骄傲，不仅在亲友中炫耀，还特地为我做了我最喜欢的菜。",
+                "location": "家中餐厅",
+                "happen_time": "2013年12月",
+                "participants": "父亲、母亲、亲友",
+                "impact": "这次事件增强了‘如果我表现好，父母就会爱我’的信念，使我对写作更加有热情。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我在一次期末考试中取得了全班第一的好成绩，父母特意奖励了我一次家庭旅游。",
+                "location": "家庭旅游景点",
+                "happen_time": "2014年7月",
+                "participants": "父亲、母亲",
+                "impact": "这次事件进一步巩固了‘如果我成绩好，我会被认为有价值’的信念，使我更有动力在学业上取得优异成绩。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "一次在教室里，我听到几个同学在讨论一个成绩不佳的同学，他们用轻蔑的语气谈论他，这让我感到如果我成绩不好，也会被同学瞧不起。",
+                "location": "小学教室",
+                "happen_time": "2013年3月",
+                "participants": "同学",
+                "impact": "这次事件加深了‘如果我成绩不好，我就会被认为没有价值’的信念，使我更加努力学习以避免同样的情况发生在自己身上。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我在学校的运动会上获得了跑步比赛的第三名，父母为此感到非常高兴，母亲还特意做了蛋糕庆祝。",
+                "location": "家中厨房",
+                "happen_time": "2011年10月",
+                "participants": "父亲、母亲",
+                "impact": "这次事件增强了‘如果我面对挑战并努力，我会取得成功’的信念，使我对体育活动也产生了兴趣。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父母在为我的未来规划而争论，父亲希望我将来能成为一名科学家，而母亲希望我能自由选择自己的道路。",
+                "location": "家中客厅",
+                "happen_time": "2014年4月",
+                "participants": "父亲、母亲",
+                "impact": "这次争论让我感受到父母对我的期望各不相同，使我更加坚定要努力学习，不辜负他们的期望。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "殷达震",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在初三的一次期中考试中，我因为压力太大，没能发挥好，成绩掉到了班级中游。班主任刘老师单独找我谈话，鼓励我不要气馁，要相信自己的能力。",
+                "location": "南京市某中学办公室",
+                "happen_time": "2017年11月",
+                "participants": "殷达震、班主任刘老师",
+                "impact": "这次事件让我重新审视了自己的学业能力，并且在老师的鼓励下，我感到了一些安慰，但也强化了我对学业成绩的高度依赖感。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在高一的时候，我决定报名参加学校的篮球队，但在第一次训练时因为身体瘦弱和技术生疏，被队友嘲笑。虽然教练鼓励我继续努力，但我感到非常沮丧。",
+                "location": "南京市某中学篮球场",
+                "happen_time": "2018年9月",
+                "participants": "殷达震、篮球队教练、篮球队队友",
+                "impact": "这次经历加深了我对自己身体和社交能力的怀疑，进一步巩固了我‘我不值得被爱’的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "高二的一次班级活动中，我因为组织得当，得到了班主任和同学们的赞赏。这次成功让我感到了一种前所未有的满足感。",
+                "location": "南京市某中学教室",
+                "happen_time": "2019年5月",
+                "participants": "殷达震、班主任刘老师、全班同学",
+                "impact": "这次积极的经历让我短暂提升了自信心，并且开始意识到自己的组织能力，但也提醒了我对他人认可的依赖。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "在高二的一次晚自习中，我注意到一位同学因为成绩不好而被父母责骂。看到这一幕，我心中涌起了对学业成绩的极度焦虑。",
+                "location": "南京市某中学教室",
+                "happen_time": "2019年10月",
+                "participants": "殷达震、某同学及其父母",
+                "impact": "这个事件强化了我的‘我的价值取决于学业成绩和他人的认可’的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "高三时，我因为参加校际作文比赛获奖，第一次感受到了来自校外的认可。",
+                "location": "南京市某中学礼堂",
+                "happen_time": "2020年3月",
+                "participants": "殷达震、校领导、其他参赛学生",
+                "impact": "这次成功让我对写作产生了更大的兴趣，并增强了‘我有能力应对挑战’的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "高三时，班上一位成绩优异的同学因压力过大而崩溃退学，这让我开始反思学业压力对心理健康的影响。",
+                "location": "南京市某中学教室",
+                "happen_time": "2020年5月",
+                "participants": "殷达震、同班同学",
+                "impact": "这个事件让我意识到学业压力不仅影响成绩，还会对心理健康造成重创。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在高考结束后的暑假里，我决定与几个好友一起去旅行。旅行中，我逐渐感受到了友情的温暖，开始慢慢放下对学业的执着。",
+                "location": "江苏省某旅游景点",
+                "happen_time": "2021年7月",
+                "participants": "殷达震、几位中学好友",
+                "impact": "这次旅行让我重新审视了学业成绩以外的生活价值，并且增强了我对友情的信任感。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在大学开学后的第一次社团活动中，我尝试与新同学交谈，但因为不擅长社交，感到非常尴尬和不安。",
+                "location": "上海某大学校园",
+                "happen_time": "2021年9月",
+                "participants": "殷达震、大学同学",
+                "impact": "这次经历再次让我感受到自己的社交困难，并加深了‘他人不会真正理解和珍惜我’的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "在一次学校的心理健康讲座上，我听到了一些关于自我价值和自我接纳的内容，这让我开始思考自己的核心信念。",
+                "location": "上海某大学讲堂",
+                "happen_time": "2021年10月",
+                "participants": "殷达震、讲师、大学同学",
+                "impact": "这次讲座让我初步认识到自我价值不应完全依赖于外部认可，这种反思开启了我对自我探索的兴趣。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在大学的一次期末考试中，我因为长期的情绪低落，导致复习不充分，成绩不理想。面对成绩，我感到非常失落。",
+                "location": "上海某大学教室",
+                "happen_time": "2021年12月",
+                "participants": "殷达震",
+                "impact": "这次失败让我对自己的学业能力再次产生怀疑，并且强化了‘如果我成绩不好并得不到认可，我就会感觉自己毫无价值’的中间信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在大学的某次文学社团活动中，我的作品得到了社团成员的高度评价，这让我感到了一种前所未有的成就感。",
+                "location": "上海某大学文学社团",
+                "happen_time": "2021年11月",
+                "participants": "殷达震、文学社团成员",
+                "impact": "这次正面的反馈增强了我的写作信心，并且让我对‘我有能力应对挑战’的核心信念有了更深的认同。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "在宿舍里，我目睹了一位室友因失恋而情绪崩溃，整个晚上都在哭泣。这让我对情感关系有了更深的恐惧。",
+                "location": "上海某大学宿舍",
+                "happen_time": "2021年10月",
+                "participants": "殷达震、室友",
+                "impact": "这次事件让我更加害怕暴露自己的脆弱，强化了‘如果我暴露自己的脆弱，我会被忽视和排斥’的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在一次课外活动中，我鼓起勇气向一位心仪的女生表白，但被拒绝了。这次拒绝让我自信心受挫，情绪低落。",
+                "location": "上海某大学校园",
+                "happen_time": "2021年12月",
+                "participants": "殷达震、心仪的女生",
+                "impact": "这次事件让我更加坚定了‘我不值得被爱’的核心信念，并且加深了对自我价值的怀疑。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，父母对我在大学的表现表示了高度期望和信任，这让我感到了一定的压力，但也感受到了家庭的支持。",
+                "location": "南京市家中",
+                "happen_time": "2021年春节",
+                "participants": "殷达震、父母",
+                "impact": "这次谈话让我感受到了父母的期望和支持，但同时也增加了我对学业和未来的压力。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "在一次图书馆自习时，我看到一位同学因为查阅资料到深夜，最终在凌晨时分疲惫不堪地睡着了。",
+                "location": "上海某大学图书馆",
+                "happen_time": "2021年10月",
+                "participants": "殷达震、某同学",
+                "impact": "这次观察让我意识到努力和付出的重要性，但也让我开始反思过度投入对身体和心理的影响。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "殷达震",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在篮球场上对同学李明表白，但被拒绝了。他当时低声说道：'对不起，我只是把你当朋友。'我感到脸上发烫，心里非常难受，匆匆离开了场地。",
+                "location": "大学篮球场",
+                "happen_time": "2024年1月",
+                "participants": "李明",
+                "impact": "这次表白被拒绝直接导致了我的自信心严重受挫，开始怀疑自己是否值得被爱。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "表白被拒后，我开始失眠，每天晚上都在反复思考为什么会被拒绝。我越来越觉得自己不值得被爱，最后几乎无法入睡。",
+                "location": "宿舍",
+                "happen_time": "2024年2月",
+                "participants": "无",
+                "impact": "失眠加重了我的情绪低落和自我否定，影响了日常学习和生活。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次篮球比赛中，我注意到队友张辉在比赛中表现得非常自信。他在赛后说道：'不管胜负，尽力就好。'他的自信让我感到自己更加无力和自卑。",
+                "happen_time": "2024年2月",
+                "participants": "张辉",
+                "impact": "张辉的自信进一步加重了我的自卑感，觉得自己无法像他一样积极面对挫折。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在宿舍里，我听到舍友王强和其他同学谈论恋爱的话题，王强说：'有些人天生就不适合恋爱。'我默默地听着，心里感到一阵刺痛，觉得自己就是这种人。",
+                "location": "宿舍",
+                "happen_time": "2024年3月",
+                "participants": "王强和其他宿舍同学",
+                "impact": "这次对话让我更加确认了自己不值得被爱的核心信念，情绪更加低落。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次课堂讨论中，教授表扬了我的发言，但我反而感到不安，害怕同学们会觉得我在炫耀。",
+                "location": "教室",
+                "happen_time": "2024年4月",
+                "participants": "教授和同学们",
+                "impact": "这种不安感让我对自己的能力产生了怀疑，进一步削弱了我的自信心。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到同学刘伟和他女朋友在图书馆里一起学习，我不禁感到羡慕和孤独，觉得自己永远无法拥有那样的亲密关系。",
+                "location": "图书馆",
+                "happen_time": "2024年4月",
+                "participants": "刘伟和他的女朋友",
+                "impact": "这种孤独感加重了我的自我怀疑和对未来亲密关系的悲观态度。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次文学社团的活动中分享了自己的作品，但反应平平。这让我开始怀疑自己是否有能力成为一名成功的作家。",
+                "location": "文学社团活动室",
+                "happen_time": "2024年5月",
+                "participants": "文学社团成员",
+                "impact": "这次经历加深了我对自己能力的怀疑，觉得自己没有价值。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭视频通话中，父母又一次提到希望我能找到一个好女朋友，我只能敷衍应付，内心感到极大的压力和失落。",
+                "location": "宿舍",
+                "happen_time": "2024年5月",
+                "participants": "父母",
+                "impact": "父母的期望让我感到更加无力和自责，觉得自己无法满足他们的期望。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我决定开始写一本小说，希望通过写作来提升自信心，但总是因为自我怀疑而停滞不前。",
+                "location": "宿舍",
+                "happen_time": "2024年6月",
+                "participants": "无",
+                "impact": "写作的停滞让我感到更加沮丧和无助，怀疑自己是否真的有能力实现梦想。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到同学张婷获得了校级奖学金，她说道：'只要努力就会有回报。'我却觉得自己再怎么努力也得不到认可。",
+                "location": "校园公告栏",
+                "happen_time": "2024年6月",
+                "participants": "张婷",
+                "impact": "张婷的成功让我感到自己更加无力和自卑，认为自己永远无法获得他人的认可。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次篮球比赛中表现不佳，队友林峰安慰我：'下次会更好。'但我却觉得自己拖累了大家，非常自责。",
+                "location": "大学篮球场",
+                "happen_time": "2024年7月",
+                "participants": "林峰和篮球队",
+                "impact": "比赛中的失误加剧了我的自卑情绪，觉得自己没有能力应对挑战。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到学长李强在毕业典礼上发言，讲述了他大学四年的奋斗历程和收获，我感到自己在大学期间没有什么值得骄傲的成就。",
+                "location": "大学礼堂",
+                "happen_time": "2024年7月",
+                "participants": "李强",
+                "impact": "学长的成功让我感到自己非常失败，无法在大学期间取得任何值得骄傲的成就。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会中，亲戚们纷纷询问我的未来计划，我只能含糊其辞，内心感到极大的压力和迷茫。",
+                "location": "家中",
+                "happen_time": "2024年8月",
+                "participants": "亲戚们",
+                "impact": "亲戚们的询问让我感到自己无法面对未来，更加怀疑自己的能力和价值。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次心理咨询中，我向心理咨询师倾诉了自己的压力和困扰，咨询师建议我尝试一些新的社交活动，但我却感到非常抗拒和无力。",
+                "location": "心理咨询室",
+                "happen_time": "2024年8月",
+                "participants": "心理咨询师",
+                "impact": "咨询师的建议虽然有道理，但我却感到自己无法做到，进一步加重了我的无力感和自我怀疑。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到室友王强参加了一个志愿者活动，并在朋友圈中分享了他的心得体会，我感到自己在生活中缺乏意义和目标。",
+                "location": "宿舍",
+                "happen_time": "2024年8月",
+                "participants": "王强",
+                "impact": "王强的积极参与让我感到自己在生活中缺乏方向和意义，进一步加重了我的迷茫和沮丧。"
+            }
+        ]
+    }
+}

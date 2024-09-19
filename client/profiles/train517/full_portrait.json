@@ -1,0 +1,133 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "皮肤白皙",
+            "黑色长发",
+            "眼神忧郁"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐"
+            ],
+            "activity": [
+                "独自一人画画",
+                "在房间里听音乐"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "顺利通过高考，考上理想的大学",
+            "long_term_goals": "成为一名心理学家，帮助像自己一样的青少年"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，匆忙洗漱后去学校。放学后回家，做作业到深夜。周末也几乎都在学习。",
+            "weekends": "周末大部分时间都在家里学习，偶尔会在房间里画画或听音乐放松自己。"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格活泼，但因为一次在学校被同学嘲笑外貌的事件，逐渐变得内向和自卑。",
+            "recent_events": "最近因为高考压力大，情绪低落，感觉自己被孤立，经常受到同学的欺负。"
+        },
+        "environment": "出生在一个小城市，家庭关系不和睦，父母忙于工作，缺乏对她的关心和支持。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "父亲在她小时候工作繁忙，但偶尔会带她去公园玩耍。虽然关系不算亲密，但她依然记得那些美好的时光。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "母亲对她的期望很高，经常因为成绩问题责备她。她感到母亲对她的关心更多是出于对成绩的关注，而不是对她个人的关心。"
+                    ]
+                },
+                {
+                    "relationship": "小学同学",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "她在小学时有几个要好的朋友，常常一起玩耍和学习。但因为一次被嘲笑外貌的事件，她逐渐与这些朋友疏远了。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "高中同学",
+                    "count": 5,
+                    "familiarity": [
+                        1,
+                        1,
+                        2,
+                        2,
+                        1
+                    ],
+                    "description": [
+                        "她在高中几乎没有朋友，常常感到孤独。班上的同学有时会嘲笑她的外貌和成绩，这让她更加自卑和焦虑。"
+                    ]
+                },
+                {
+                    "relationship": "班主任",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "班主任对她的学业有一定的关注，但更多的是对全班同学的整体管理。她不敢向班主任倾诉自己的困扰。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "她最近开始与心理咨询师交流，虽然还在初步阶段，但她感到咨询师是唯一一个真正倾听她的人。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "平晞凝在小时候曾经有过一些亲密的朋友和家庭成员，但因为一次外貌被嘲笑的事件，她逐渐变得内向和自卑，开始疏远身边的人。进入高中后，学业压力和人际关系的困扰让她更加孤立无援。她的社交能力和意愿都受到了很大的影响，几乎没有朋友，家庭关系也不和睦。最近，她开始尝试通过心理咨询来寻求帮助，希望能够改善自己的心理状态和社交状况。"
+    }
+}

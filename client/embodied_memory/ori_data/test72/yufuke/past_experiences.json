@@ -1,0 +1,552 @@
+{
+    "childhood": {
+        "name": "俞馥可",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我第一次意识到家里的经济困境是小学一年级的时候。有一天回家，我发现妈妈在厨房里低声哭泣。我走过去问她为什么哭，她抹了一把泪，微笑着说没事，只是太累了。我心里很难受，紧紧地抱住了她。",
+                "location": "家里的厨房",
+                "happen_time": "1992年9月-1993年6月",
+                "participants": "俞馥可，母亲",
+                "impact": "这次经历让我第一次意识到家庭的经济压力，并形成了'我有责任照顾好母亲'的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在小学三年级的一个下午，我在操场上和同学们一起玩耍时，突然摔倒了，膝盖跌破了。其他孩子都跑开了，只有我一个人躺在地上哭泣。后来老师把我送到医务室，包扎伤口。",
+                "location": "学校操场",
+                "happen_time": "1994年9月-1995年6月",
+                "participants": "俞馥可，老师，其他同学",
+                "impact": "这次经历强化了'我是不够好的'的核心信念，同时让我觉得同学们比我优秀，他们不会理解我的处境。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我透过门缝看到母亲在深夜悄悄地缝补衣服。她的眼神很疲惫，但仍然专注于手中的针线。我知道这是因为我们没有钱买新衣服。",
+                "location": "家里的卧室",
+                "happen_time": "1993年10月-1994年5月",
+                "participants": "俞馥可，母亲",
+                "impact": "这种场景让我更加坚定了'我有责任照顾好母亲'的核心信念，并且开始觉得在这个家庭中，我必须承担更多责任。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学五年级的一次期末考试，我取得了全班第一名。当我把成绩单拿回家的时候，母亲抱着我，高兴地说我真是她的骄傲。",
+                "location": "家里的客厅",
+                "happen_time": "1996年6月",
+                "participants": "俞馥可，母亲",
+                "impact": "这次成功让我暂时摆脱了'我是不够好的'的核心信念，并强化了'如果我在学业上努力，我会变得更好'的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的孩子在院子里无忧无虑地玩耍，他们的父母在一旁微笑着看着他们。我羡慕地望着，但感觉自己无法像他们那样轻松。",
+                "location": "邻居家的院子",
+                "happen_time": "1994年6月-1995年6月",
+                "participants": "俞馥可，邻居家的孩子及其父母",
+                "impact": "这次观察让我更加觉得在这个世界上，我必须承担照顾母亲的责任，并且强化了'其他家庭的孩子可能比我过得更轻松'的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "小学四年级的一次家长会，母亲因为工作忙碌未能参加。老师在会上批评了我没有按时完成作业，我感到非常羞愧和无助。",
+                "location": "学校教室",
+                "happen_time": "1995年9月-1996年6月",
+                "participants": "俞馥可，老师，其他家长",
+                "impact": "这次经历强化了'我必须在学业上表现得很好，才能证明自己'的中间信念，并且让我觉得如果我在学业上失败了，那就证明我真的不够好。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我听到母亲在和邻居聊天时提到，她很担心我的未来，因为我们的经济状况不好。我在旁边听着，心里也默默地担心起来。",
+                "location": "家门口",
+                "happen_time": "1995年5月-1996年5月",
+                "participants": "俞馥可，母亲，邻居",
+                "impact": "这种对话让我更加感受到家庭的压力，并且强化了'我必须帮助母亲分担家庭的重担'的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "小学六年级的一次班级活动中，我被选为组长。虽然我很害怕自己做不好，但最终在母亲的鼓励下，我顺利完成了任务。",
+                "location": "学校教室",
+                "happen_time": "1997年9月-1998年6月",
+                "participants": "俞馥可，母亲，老师，同学",
+                "impact": "这次经历增强了'我能够克服困难'的核心信念，并且让我感觉母亲在关键时刻会支持我。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在市场上看到一个小男孩在乞讨，他的母亲在旁边默默流泪。我心里很难过，觉得自己也可能会面临同样的困境。",
+                "location": "市场",
+                "happen_time": "1996年6月-1997年6月",
+                "participants": "俞馥可，乞讨的小男孩及其母亲",
+                "impact": "这次观察让我更加坚定了'我必须尽力让母亲生活得更好'的中间信念，并且让我感到在这个世界上，只有我能让母亲过得更好。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在一次家务中，我不小心打碎了家里唯一的一只瓷碗，母亲并没有责怪我，而是安慰我说没关系。我感到很内疚，但母亲的宽容让我感到温暖。",
+                "location": "家里的厨房",
+                "happen_time": "1994年6月-1995年6月",
+                "participants": "俞馥可，母亲",
+                "impact": "这次经历让我感到母亲的爱和支持，同时也强化了'如果我无法帮助母亲，我会感到内疚和自责'的中间信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到母亲独自一人在深夜里祈祷，她的眼神充满了无助和疲惫。我感到很心疼，决定以后要更加努力帮助她。",
+                "location": "家里的卧室",
+                "happen_time": "1997年6月-1998年6月",
+                "participants": "俞馥可，母亲",
+                "impact": "这次观察让我更加坚定了'我有责任照顾好母亲'的核心信念，并且让我觉得在这个世界上，我必须承担照顾母亲的责任。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "小学五年级的一次班级运动会上，我参加了接力赛。虽然我们班没有赢，但母亲在赛后夸奖了我的努力，这让我内心感到一丝安慰。",
+                "location": "学校操场",
+                "happen_time": "1996年9月-1997年6月",
+                "participants": "俞馥可，母亲，同学",
+                "impact": "这次经历让我感觉到母亲的支持，并且强化了'我有能力面对学业和家庭的挑战'的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到母亲在与老板争论工资的问题。她的语气虽然坚决，但眼神中透着无奈。我在旁边默默地看着，心里觉得母亲真的很不容易。",
+                "location": "母亲的工作场所",
+                "happen_time": "1996年6月-1997年6月",
+                "participants": "俞馥可，母亲，母亲的老板",
+                "impact": "这次观察让我更加坚定了'我必须帮助母亲分担家庭的重担'的中间信念，并且让我觉得在这个世界上，我必须承担照顾母亲的责任。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "小学六年级的一次班级讨论中，老师提到未来的职业规划。我心里想着将来要开一家面馆，让母亲过上好日子。",
+                "location": "学校教室",
+                "happen_time": "1997年9月-1998年6月",
+                "participants": "俞馥可，老师，同学",
+                "impact": "这次经历让我开始有了未来的规划，并且强化了'我能够克服困难'的核心信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我听到母亲和邻居谈话时提到，她希望我将来能有出息，过上好日子。我在旁边听着，心里暗暗下决心要努力实现这个愿望。",
+                "location": "家门口",
+                "happen_time": "1996年6月-1997年6月",
+                "participants": "俞馥可，母亲，邻居",
+                "impact": "这次观察让我更加坚定了'我必须尽力让母亲生活得更好'的中间信念，并且让我感到在这个世界上，只有我能让母亲过得更好。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "俞馥可",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我记得有一天放学回家，看见妈妈坐在餐桌旁，脸色苍白。她告诉我她的身体越来越差，可能需要我更多的帮助。我当时感到一种巨大的压力，但我对妈妈说：‘妈妈，你放心，我会照顾好你的。’",
+                "location": "家中客厅",
+                "happen_time": "1999年10月",
+                "participants": "妈妈",
+                "impact": "这件事让我明白了家庭责任的重要性，强化了我‘我有责任照顾好家人’的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次期末考试中，我因为压力过大，成绩并没有达到预期。老师在班上表扬了那些成绩优异的同学，而我感到非常失落，心里想着：‘如果我在学业上失败了，那就证明我真的不够好。’",
+                "location": "学校教室",
+                "happen_time": "2000年6月",
+                "participants": "老师、同学",
+                "impact": "这次经历加剧了我的自我怀疑，强化了‘我是不够好的’的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里听见邻居家传来争吵声。邻居家的孩子因为没考好，被父母狠狠地责骂。我透过窗户看到那孩子哭得很伤心。这让我感到世界的冷酷，也让我更坚信‘我不能依赖他人，必须独立解决问题’。",
+                "location": "家中窗前",
+                "happen_time": "2001年3月",
+                "participants": "邻居及其孩子",
+                "impact": "这次观察到的事件让我更加觉得世界是冷漠的，每个人都得自己承担责任，强化了‘我必须独自承受一切’的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "有一次学校举办运动会，我参加了长跑比赛。尽管过程非常辛苦，但最终我拿到了第一名。老师和同学们都为我欢呼，我感觉自己能够克服困难。",
+                "location": "学校操场",
+                "happen_time": "2001年10月",
+                "participants": "老师、同学",
+                "impact": "这次成功的经历增强了我的自信，强化了‘我能够克服困难’的核心信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会上，我注意到亲戚们对我们家的经济状况表现出明显的同情和轻视。我看到妈妈低头不语，感到非常无奈和羞愧。",
+                "location": "亲戚家",
+                "happen_time": "2002年春节",
+                "participants": "妈妈、亲戚们",
+                "impact": "这次事件让我更坚定了‘他人可能会看不起我的家庭条件’的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校里因为帮助同学解决了一个数学难题，得到了老师的表扬和同学的感谢，这让我感到自己是有能力的。",
+                "location": "学校教室",
+                "happen_time": "2002年9月",
+                "participants": "老师、同学",
+                "impact": "这次经历让我更加相信‘我有能力面对生活中的挑战’，强化了‘我能够克服困难’的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "有一次，妈妈生病住院了，我必须在学校和医院之间来回奔波，照顾她的起居。这让我感到非常疲惫，但我仍然坚持下来了。",
+                "location": "医院",
+                "happen_time": "2003年4月",
+                "participants": "妈妈",
+                "impact": "这次事件让我更加坚信‘我有责任照顾好家人’，尽管这对我来说是一个巨大的负担。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "一次偶然的机会，我听到老师们在办公室里谈论我，他们对我的努力和艰辛表示了认可和赞赏，但也为我的未来担忧。",
+                "location": "学校办公室外",
+                "happen_time": "2003年11月",
+                "participants": "老师",
+                "impact": "这次听到的对话让我感到自己被理解和认可，也让我更有动力去面对生活中的挑战。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "高考前夕，我经常熬夜学习，感到非常焦虑。有一晚，我对着镜子里的自己说：‘我必须拼尽全力，在学业上取得最好成绩。’",
+                "location": "家中书桌前",
+                "happen_time": "2004年5月",
+                "participants": "无",
+                "impact": "这次自我激励让我更加坚定了‘我必须拼尽全力，在学业上取得最好成绩’的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "高考结束后，我看到很多同学都在讨论他们的志愿和未来的计划，而我却因为家庭经济困难无法继续深造，感到非常无奈和失落。",
+                "location": "学校操场",
+                "happen_time": "2004年6月",
+                "participants": "同学",
+                "impact": "这次事件让我更加觉得‘他人总是比我更有条件’，强化了‘我是不够好的’的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "有一次，我在打工时遇到了一位老客户，他对我的工作表现非常满意，并给了我额外的小费。这让我感到自己是有价值的。",
+                "location": "打工的餐馆",
+                "happen_time": "2004年9月",
+                "participants": "老客户",
+                "impact": "这次经历让我感受到自己的价值，暂时缓解了自我怀疑的情绪。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "一次，看到一个同学因为家境贫寒放弃了学业去打工，我感到非常同情，同时也感到庆幸自己还能坚持下去。",
+                "location": "学校门口",
+                "happen_time": "2004年10月",
+                "participants": "同学",
+                "impact": "这次事件让我更坚信‘在这个竞争激烈的世界，我必须不断进步’，并坚定了‘我应该保持乐观，并积极应对生活中的困难’的中间信念。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "俞馥可",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在省城的一家餐馆里，我第一次成为了一名服务员。那天，我穿上了崭新的工作制服，心里既兴奋又紧张。老板对我说：'你要努力工作，才能在这里站稳脚跟。'这句话深深印在我的脑海里。",
+                "location": "省城的一家餐馆",
+                "happen_time": "2005年7月",
+                "participants": "老板",
+                "impact": "这次经历让我深刻感受到自己需要通过努力工作来证明自己的价值，强化了'我必须不断努力，才能证明自己'的中间信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次繁忙的晚餐服务中，我因忙碌而失手打破了一只盘子。老板当即责骂：'你怎么这么不小心！'我感到非常羞愧和无助，心里想：'如果我失败了，那就证明我真的不够好。'",
+                "location": "省城的一家餐馆",
+                "happen_time": "2006年5月",
+                "participants": "老板",
+                "impact": "这次事件加深了我对失败的恐惧，强化了'如果我失败了，那就证明我真的不够好'的负面假设。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "在打工期间，我攒下了一些钱，决定开一家面馆。那天，我站在空荡荡的店铺里，心里充满了希望和担忧。我对自己说：'我能够克服困难。'",
+                "location": "省城的一家面馆",
+                "happen_time": "2008年3月",
+                "participants": "无",
+                "impact": "这次决定让我感到自己有能力面对生活的挑战，强化了'我有能力面对生活中的挑战'的态度。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "面馆开张的第一个月生意不错，我每天都很忙碌，但也非常充实。有一天，一位老顾客对我说：'你的面真好吃，我会经常来的。'我感到非常欣慰和满足。",
+                "location": "省城的一家面馆",
+                "happen_time": "2008年4月",
+                "participants": "老顾客",
+                "impact": "这次肯定让我感到自己的努力得到了认可，强化了'如果我保持努力，我会赢得他人的认可'的正面假设。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "随着母亲的健康状况恶化，我不得不花更多时间照顾她。有一次，我工作到深夜回家，看到母亲独自坐在椅子上，神情憔悴。我感到非常内疚，心里想：'我有责任照顾好母亲。'",
+                "location": "家里",
+                "happen_time": "2012年6月",
+                "participants": "母亲",
+                "impact": "这次事件让我更加坚定了自己必须承担起照顾母亲的责任，强化了'我有责任照顾好母亲'的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在面馆里看到一位年轻的母亲带着孩子来吃面。她对孩子说：'你要好好吃饭，才能长得高高的。'孩子点点头，非常乖巧。我突然想到自己的责任，觉得自己也应该像这位母亲一样，把母亲照顾好。",
+                "location": "面馆",
+                "happen_time": "2013年4月",
+                "participants": "年轻的母亲和孩子",
+                "impact": "这次观察让我更加意识到照顾母亲的重要性，强化了'我有责任照顾好母亲'的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "面馆生意开始下滑，我感到压力越来越大。有一天，一位老顾客突然不再来了。我问自己：'我是不是哪里做得不够好？'心里非常焦虑。",
+                "location": "面馆",
+                "happen_time": "2015年8月",
+                "participants": "无",
+                "impact": "这次事件加深了我的自我怀疑，强化了'我是不够好的'的核心信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "由于生意不景气，面馆最终倒闭。那天，我站在空荡荡的店铺里，心里充满了失落和无助。我对自己说：'我必须独自承受这一切。'",
+                "location": "面馆",
+                "happen_time": "2017年11月",
+                "participants": "无",
+                "impact": "这次失败让我感到自己必须独自面对所有困难，强化了'我必须独自承受一切'的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "面馆倒闭后，我在一家酒店找到了服务员的工作。老板对我说：'你要从头开始，重新适应这里的工作。'我感到非常压力，但也告诉自己：'我能够克服困难。'",
+                "location": "酒店",
+                "happen_time": "2018年1月",
+                "participants": "酒店老板",
+                "impact": "这次经历让我感到自己有能力重新开始，强化了'我能够克服困难'的核心信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "在一次酒店的宴会中，我看到一位同事因服务不周被客人责骂。同事显得非常难过，但她依然坚持完成了工作。我在旁边默默观察，心里想：'即使遇到困难，我们也必须坚持下去。'",
+                "location": "酒店宴会厅",
+                "happen_time": "2019年5月",
+                "participants": "同事和客人",
+                "impact": "这次观察让我意识到即使在困难面前也要坚持，强化了'我有能力面对生活中的挑战'的态度。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "母亲的病情进一步恶化，需要更多的照顾。有一次，我在医院陪着她，她对我说：'你辛苦了。'我感到非常心疼，心里想：'我必须承担起照顾母亲的责任。'",
+                "location": "医院",
+                "happen_time": "2020年7月",
+                "participants": "母亲",
+                "impact": "这次事件让我更加坚定了自己必须照顾好母亲的决心，强化了'我必须承担起照顾母亲的责任'的态度。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "由于长期的压力和劳累，我自己也患上了冠心病。那天，医生对我说：'你需要好好休息，不能再这么拼命了。'我感到非常无助，但也意识到自己需要调整生活方式。",
+                "location": "医院",
+                "happen_time": "2021年3月",
+                "participants": "医生",
+                "impact": "这次事件让我意识到自己的身体健康也需要关注，开始反思自己过于拼命的生活方式。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "俞馥可",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在面馆倒闭的那天，我站在门口，望着空荡荡的店内，心里充满了失落和失败感。我对自己说，这一切都是因为我不够好，没能把生意做起来。",
+                "location": "省城的面馆",
+                "happen_time": "2021年12月",
+                "participants": "无",
+                "impact": "加深了我对自己“不够好”的核心信念，增加了自我怀疑和压力。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "母亲的病情突然加重，我急忙带她去医院。医生说需要长期治疗，我感到无比的压力和责任。",
+                "location": "省城的医院",
+                "happen_time": "2022年3月",
+                "participants": "母亲，医生",
+                "impact": "强化了我“有责任照顾好母亲”的核心信念，让我感到无尽的责任和压力。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在医院里，我看到一个年轻人独自照顾病重的父亲，尽管很辛苦，他依然面带微笑。",
+                "happen_time": "2022年3月",
+                "participants": "年轻人及其父亲",
+                "impact": "让我感到自己必须更加坚强和独立，同时感到自己在照顾母亲的过程中不够好。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在工作中，因为一次失误被经理严厉批评，我感到非常沮丧和无助。",
+                "location": "省城的酒店宴会厅",
+                "happen_time": "2022年8月",
+                "participants": "经理，同事",
+                "impact": "加深了我对自己“不够好”的核心信念，增加了工作中的焦虑和压力。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次我在家里做饭时突然感到胸口剧痛，被紧急送往医院，医生诊断为冠心病。",
+                "location": "家中，省城的医院",
+                "happen_time": "2023年1月",
+                "participants": "母亲，医生",
+                "impact": "让我意识到自己的身体状况已经不允许我继续高强度工作，增加了对未来的担忧。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在医院里，我看到一位老年人在没有家人陪伴的情况下孤独地住院。",
+                "happen_time": "2023年1月",
+                "participants": "老年病人",
+                "impact": "让我更加坚信自己有责任照顾好母亲，不能让她孤独无助。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "收到银行的催款通知，感到巨大的经济压力，开始怀疑自己是否能撑下去。",
+                "location": "家中",
+                "happen_time": "2023年5月",
+                "participants": "无",
+                "impact": "加剧了我的焦虑和抑郁情绪，感到前途渺茫。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "为了省钱，我不得不换了一份工资更低但更稳定的工作，感到自尊心受挫。",
+                "location": "省城的酒店",
+                "happen_time": "2023年8月",
+                "participants": "新同事，母亲",
+                "impact": "让我感到自己在社会中的地位下降，增加了自我怀疑。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在面馆倒闭后，我的一位朋友也因为生意失败而陷入困境，他对未来感到很绝望。",
+                "happen_time": "2023年9月",
+                "participants": "朋友",
+                "impact": "加深了我的焦虑情绪，感到自己也可能会面临同样的绝望。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次家庭聚会中听到亲戚们对我面馆倒闭的议论，感到非常难堪和自责。",
+                "location": "亲戚家",
+                "happen_time": "2023年10月",
+                "participants": "亲戚们",
+                "impact": "进一步确认了我“不够好”的核心信念，增加了社交焦虑。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "母亲因病再次住院，我在医院陪伴她，感到自己必须更加坚强，但内心却难以承受。",
+                "location": "省城的医院",
+                "happen_time": "2024年1月",
+                "participants": "母亲，医生",
+                "impact": "加深了我“必须独自承受一切”的核心信念，增加了心理负担。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在医院里，我看到一位母亲因病去世，她的孩子们悲痛欲绝。",
+                "happen_time": "2024年2月",
+                "participants": "病人及其孩子们",
+                "impact": "让我更加害怕失去母亲，增加了心理压力和焦虑。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次与母亲的争吵中，我感到自己非常无力和沮丧，甚至有了放弃一切的念头。",
+                "location": "家中",
+                "happen_time": "2024年3月",
+                "participants": "母亲",
+                "impact": "加深了抑郁情绪，感到自己无法承担照顾母亲的责任。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在工作中，我看到一位同事因压力过大而崩溃，感到自己也可能会面临同样的状况。",
+                "happen_time": "2024年4月",
+                "participants": "同事",
+                "impact": "增加了对未来的担忧和焦虑，让我感到自己也可能无法应对压力。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "为母亲买药时，发现药价上涨，感到经济压力更加沉重。",
+                "location": "省城的药店",
+                "happen_time": "2024年5月",
+                "participants": "药店工作人员",
+                "impact": "加深了对经济状况的担忧，增加了焦虑情绪。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次去银行办理贷款时被拒，感到自己在经济上陷入了绝境。",
+                "location": "省城的银行",
+                "happen_time": "2024年6月",
+                "participants": "银行工作人员",
+                "impact": "加剧了经济压力和自我怀疑，增加了抑郁情绪。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在阅读自己以前喜欢的书籍时，发现自己很难集中注意力，感到非常沮丧。",
+                "location": "家中",
+                "happen_time": "2024年7月",
+                "participants": "无",
+                "impact": "加深了对自己健康状况的担忧，增加了抑郁症状。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在母亲生日那天，我为她做了一顿饭，她感动得流泪，我感到一丝满足和安慰。",
+                "location": "家中",
+                "happen_time": "2024年8月",
+                "participants": "母亲",
+                "impact": "暂时减轻了心理压力，感到自己对母亲的照顾有了回报。"
+            }
+        ]
+    }
+}

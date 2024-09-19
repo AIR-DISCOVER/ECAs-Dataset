@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须成功，否则我就是个失败者。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我不值得被爱和关心。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我能克服困难。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是做不好事情。",
+                "others": "他人会认为我很差劲。",
+                "world": "这个世界对我不公平。"
+            },
+            "rules": "我应该避免冒险和挑战，以免失败。",
+            "positive_assumption": "如果我避免冒险，我就不会失败。",
+            "negative_assumption": "如果我尝试新事物，我可能会再次失败。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我没有别人优秀。",
+                "others": "别人总是比我强。",
+                "world": "这个世界对优秀的人更友善。"
+            },
+            "rules": "我不应该与别人竞争。",
+            "positive_assumption": "如果我不与别人竞争，我会减少失败的机会。",
+            "negative_assumption": "如果我尝试与别人竞争，我会被证明不如他们。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须一直取得好成绩。",
+                "others": "别人只在乎我的成功。",
+                "world": "这个世界只认可成功者。"
+            },
+            "rules": "我应该尽一切努力取得成功。",
+            "positive_assumption": "如果我成功了，我会被认可。",
+            "negative_assumption": "如果我失败了，我就一无是处。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不能让自己有任何失误。",
+                "others": "别人不允许我犯错。",
+                "world": "这个世界对失败者非常苛刻。"
+            },
+            "rules": "我必须避免任何可能导致失败的情况。",
+            "positive_assumption": "如果我避免了所有失误，我就会成功。",
+            "negative_assumption": "如果我犯了错，我就会被视为失败者。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得别人的关心。",
+                "others": "别人不会真正关心我。",
+                "world": "这个世界对我冷漠无情。"
+            },
+            "rules": "我不应该依赖或期待别人的关心。",
+            "positive_assumption": "如果我不依赖别人，我会变得更独立。",
+            "negative_assumption": "如果我依赖别人，我会感到失望和被伤害。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得被爱。",
+                "others": "别人不会真正爱我。",
+                "world": "这个世界对我缺乏爱意。"
+            },
+            "rules": "我不应该期待被爱。",
+            "positive_assumption": "如果我不期待被爱，我就不会感到失望。",
+            "negative_assumption": "如果我期待被爱，我会被拒绝和伤害。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力应对挑战。",
+                "others": "别人会认可我的努力。",
+                "world": "这个世界充满可以克服的挑战。"
+            },
+            "rules": "我应该面对并解决我的问题。",
+            "positive_assumption": "如果我面对问题，我会变得更强大。",
+            "negative_assumption": "如果我回避问题，我会失去成长的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我能够克服困难。",
+                "others": "别人会支持我的努力。",
+                "world": "这个世界充满了可以战胜的困难。"
+            },
+            "rules": "我应该积极面对并解决困难。",
+            "positive_assumption": "如果我克服困难，我会变得更有自信。",
+            "negative_assumption": "如果我逃避困难，我会失去自信和机会。"
+        }
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力提供爱和支持，这让我值得被爱。",
+                "others": "家人和朋友会因为我的关心和付出而爱我。",
+                "world": "关爱他人是获得爱和尊重的基础。"
+            },
+            "rules": "我应该继续关心和爱护我的家人和朋友。",
+            "positive_assumption": "如果我继续关心他人，我的关系会更加紧密。",
+            "negative_assumption": "如果我不关心他人，我可能会失去他们的爱和尊重。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "失去对摄影的兴趣是我生活质量下降的标志。",
+                "others": "他们可能会觉得我变得无趣和消极。",
+                "world": "一个没有兴趣和爱好的人会失去生活的活力。"
+            },
+            "rules": "我应该努力寻找新的兴趣点，重新点燃对摄影的热情。",
+            "positive_assumption": "如果我能恢复对摄影的兴趣，我的生活将再次充满乐趣。",
+            "negative_assumption": "如果我不能恢复兴趣，我的生活将变得单调乏味。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我的记忆力下降意味着我正在变得无能。",
+                "others": "家人和同事会注意到我的记忆力问题，并对我失去信心。",
+                "world": "记忆力衰退是不可避免的老化过程。"
+            },
+            "rules": "我必须找到方法来保持我的记忆力。",
+            "positive_assumption": "如果我能采取措施改善记忆力，我就能继续有效工作。",
+            "negative_assumption": "如果我不能改善记忆力，我会变得越来越无能。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能有效工作，我就是失败的。",
+                "others": "同事们可能会认为我已经不再胜任这份工作。",
+                "world": "在现代社会中，不胜任工作的人会被淘汰。"
+            },
+            "rules": "我必须尽全力保持高水平的工作能力。",
+            "positive_assumption": "如果我继续努力工作，我将证明我的价值。",
+            "negative_assumption": "如果我表现不佳，我会失去同事和学生的尊重。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我通过关爱他人证明了自己的价值。",
+                "others": "家人和朋友会因为我的关怀而爱我。",
+                "world": "关爱他人是建立紧密关系的基础。"
+            },
+            "rules": "我应该继续关心和支持我的家人和朋友。",
+            "positive_assumption": "如果我继续关心他们，我们的关系会更加紧密。",
+            "negative_assumption": "如果我不关心他们，我可能会失去他们的爱和尊重。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "通过摄影和阅读，我能发现生活中的美好。",
+                "others": "朋友和家人会欣赏我的兴趣和爱好。",
+                "world": "拥有兴趣爱好能使生活更丰富多彩。"
+            },
+            "rules": "我应该花时间在摄影和阅读上。",
+            "positive_assumption": "如果我投入时间在兴趣爱好上，我的生活会更快乐。",
+            "negative_assumption": "如果我没有兴趣爱好，我的生活会变得单调乏味。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力记住学生的名字和他们的需求。",
+                "others": "同事和学生会尊重我的记忆力和细心。",
+                "world": "记忆力是教师工作中非常重要的一部分。"
+            },
+            "rules": "我应该保持良好的记忆力，以便更好地教学。",
+            "positive_assumption": "如果我能记住学生的需求和名字，我的教学会更有效。",
+            "negative_assumption": "如果我不能记住这些细节，我会被认为不够专业。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我努力工作，我会获得学生和同事的尊重。",
+                "others": "同事和学生会认可我的努力和成就。",
+                "world": "勤奋和责任感是获得成功的关键。"
+            },
+            "rules": "我应该尽全力在工作中表现出色。",
+            "positive_assumption": "如果我一直努力工作，我会赢得尊重和认可。",
+            "negative_assumption": "如果我不努力工作，我会失去别人的尊重。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力提供爱和支持，这让我值得被爱。",
+                "others": "家人和朋友会因为我的关心和付出而爱我。",
+                "world": "关爱他人是获得爱和尊重的基础。"
+            },
+            "rules": "我应该继续关心和爱护我的家人和朋友。",
+            "positive_assumption": "如果我继续关心他人，我的关系会更加紧密。",
+            "negative_assumption": "如果我不关心他人，我可能会失去他们的爱和尊重。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "失去兴趣爱好会让我感到无聊和不快乐。",
+                "others": "朋友们会觉得我很无趣。",
+                "world": "一个没有兴趣爱好的人生活会很单调。"
+            },
+            "rules": "我应该积极寻找新的兴趣点，保持生活的乐趣。",
+            "positive_assumption": "如果我能找到新的兴趣爱好，我会更加开心。",
+            "negative_assumption": "如果我没有兴趣爱好，我的生活会变得无聊。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我的记忆力下降会影响我的学习成绩。",
+                "others": "父母会发现我的记忆力问题，并对我失望。",
+                "world": "一个记忆力不好的人很难在学习中取得成功。"
+            },
+            "rules": "我必须找到方法来保持我的记忆力。",
+            "positive_assumption": "如果我能找到好的学习方法，我的成绩会更好。",
+            "negative_assumption": "如果我不能改善记忆力，我会被认为不够聪明。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能在学习上取得好成绩，我就是失败的。",
+                "others": "老师和父母会认为我不够努力。",
+                "world": "在这个世界上，只有优秀的学生才会被认可。"
+            },
+            "rules": "我必须始终努力学习，取得好成绩。",
+            "positive_assumption": "如果我努力学习，我将得到认可和尊重。",
+            "negative_assumption": "如果我成绩不好，我会让父母和老师失望。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

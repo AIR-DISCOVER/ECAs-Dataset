@@ -1,0 +1,434 @@
+{
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力维持良好的人际关系。",
+                "others": "他人愿意与我建立深厚的关系。",
+                "world": "世界是充满友谊和关爱的。"
+            },
+            "rules": "我应该积极与他人互动，维持良好的人际关系。",
+            "positive_assumption": "如果我与他人互动良好，我会感到被爱和支持。",
+            "negative_assumption": "如果我不与他人互动，我将感到孤独和被排斥。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被爱和关怀。",
+                "others": "他人关心和爱护我。",
+                "world": "世界上有很多关爱和温暖。"
+            },
+            "rules": "我应该保持开放心态，接受他人的爱和关怀。",
+            "positive_assumption": "如果我接受他人的关爱，我将感到幸福和满足。",
+            "negative_assumption": "如果我拒绝他人的关爱，我将感到孤独和痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力承担责任。",
+                "others": "他人会信任我的能力和责任感。",
+                "world": "世界是需要我这样有责任感的人。"
+            },
+            "rules": "我应该努力工作，并承担家庭责任。",
+            "positive_assumption": "如果我承担责任，我将获得内心的满足感。",
+            "negative_assumption": "如果我不承担责任，我将感到内疚和失败。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该为家庭和工作尽责。",
+                "others": "他人依赖我的责任感。",
+                "world": "世界需要有责任感的人。"
+            },
+            "rules": "我应该优先考虑家庭和工作的需要。",
+            "positive_assumption": "如果我尽责，我就能获得他人的尊重和信任。",
+            "negative_assumption": "如果我不尽责，我将失去他人的信任和尊重。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力取得成功。",
+                "others": "他人总是比我更有能力。",
+                "world": "成功需要超凡的能力。"
+            },
+            "rules": "我应避免挑战，以免失败。",
+            "positive_assumption": "如果我避免挑战，我就不会经历失败。",
+            "negative_assumption": "如果我接受挑战，我将会失败并感到更糟。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得获得成就。",
+                "others": "他人会认为我不配成功。",
+                "world": "成功只属于那些更优秀的人。"
+            },
+            "rules": "我不应该追求过高的目标。",
+            "positive_assumption": "如果我不追求高目标，我就不会失望。",
+            "negative_assumption": "如果我追求高目标，我会失败并感到痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须证明自己的价值。",
+                "others": "他人会因为我表现不佳而失望。",
+                "world": "世界对每个人的要求都很高。"
+            },
+            "rules": "我需要通过超越他人来证明自己的价值。",
+            "positive_assumption": "如果我超越他人，我就能被认可。",
+            "negative_assumption": "如果我不能超越他人，我将被视为无价值。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能达到高标准，那我就是失败的。",
+                "others": "别人会因为我不够好而失望。",
+                "world": "这个世界对失败者是无情的。"
+            },
+            "rules": "我必须不断努力，以避免被认为不够好。",
+            "positive_assumption": "如果我努力达到高标准，我就能被认可。",
+            "negative_assumption": "如果我达不到高标准，我将被视为失败者。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力维持良好的人际关系。",
+                "others": "同学和老师愿意与我建立深厚的关系。",
+                "world": "世界是充满友谊和关爱的。"
+            },
+            "rules": "我应该积极与同学和老师互动，维持良好的人际关系。",
+            "positive_assumption": "如果我与同学和老师互动良好，我会感到被爱和支持。",
+            "negative_assumption": "如果我不与同学和老师互动，我将感到孤独和被排斥。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被爱和关怀。",
+                "others": "家人和老师关心和爱护我。",
+                "world": "世界上有很多关爱和温暖。"
+            },
+            "rules": "我应该保持开放心态，接受家人和老师的爱和关怀。",
+            "positive_assumption": "如果我接受家人和老师的关爱，我将感到幸福和满足。",
+            "negative_assumption": "如果我拒绝家人和老师的关爱，我将感到孤独和痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力承担学业上的责任。",
+                "others": "家人和老师会信任我的能力和责任感。",
+                "world": "世界是需要我这样有责任感的人。"
+            },
+            "rules": "我应该努力学习，并承担家庭责任。",
+            "positive_assumption": "如果我承担学业责任，我将获得内心的满足感。",
+            "negative_assumption": "如果我不承担学业责任，我将感到内疚和失败。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该为家庭和学业尽责。",
+                "others": "家人和老师依赖我的责任感。",
+                "world": "世界需要有责任感的人。"
+            },
+            "rules": "我应该优先考虑家庭和学业的需要。",
+            "positive_assumption": "如果我尽责，我就能获得家人和老师的尊重和信任。",
+            "negative_assumption": "如果我不尽责，我将失去家人和老师的信任和尊重。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力取得学业上的成功。",
+                "others": "同学总是比我更有能力。",
+                "world": "学业成功需要超凡的能力。"
+            },
+            "rules": "我应避免学业上的挑战，以免失败。",
+            "positive_assumption": "如果我避免学业上的挑战，我就不会经历失败。",
+            "negative_assumption": "如果我接受学业挑战，我将会失败并感到更糟。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得获得学业上的成就。",
+                "others": "同学和老师会认为我不配成功。",
+                "world": "学业成功只属于那些更聪明的人。"
+            },
+            "rules": "我不应该追求过高的学业目标。",
+            "positive_assumption": "如果我不追求高学业目标，我就不会失望。",
+            "negative_assumption": "如果我追求高学业目标，我会失败并感到痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在学业上证明自己的价值。",
+                "others": "同学和老师会因为我表现不佳而失望。",
+                "world": "世界对每个人的学业要求都很高。"
+            },
+            "rules": "我需要通过超越同学来证明自己的价值。",
+            "positive_assumption": "如果我超越同学，我就能被认可。",
+            "negative_assumption": "如果我不能超越同学，我将被视为无价值。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不努力学习，我就是失败的。",
+                "others": "同学和老师会因为我成绩不好而失望。",
+                "world": "这个世界对那些成绩不好的人是无情的。"
+            },
+            "rules": "我必须不断努力学习，以避免被认为不够好。",
+            "positive_assumption": "如果我努力学习，我就能被认可。",
+            "negative_assumption": "如果我不努力学习，我将被视为失败者。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力维持良好的人际关系。",
+                "others": "朋友愿意与我建立深厚的关系。",
+                "world": "世界是充满友谊和关爱的。"
+            },
+            "rules": "我应该积极与朋友互动，维持良好的人际关系。",
+            "positive_assumption": "如果我与朋友互动良好，我会感到被爱和支持。",
+            "negative_assumption": "如果我不与朋友互动，我将感到孤独和被排斥。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被爱和关怀。",
+                "others": "父母关心和爱护我。",
+                "world": "世界上有很多关爱和温暖。"
+            },
+            "rules": "我应该保持开放心态，接受父母的爱和关怀。",
+            "positive_assumption": "如果我接受父母的关爱，我将感到幸福和满足。",
+            "negative_assumption": "如果我拒绝父母的关爱，我将感到孤独和痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力承担家庭责任。",
+                "others": "父母会信任我的能力和责任感。",
+                "world": "世界是需要我这样有责任感的人。"
+            },
+            "rules": "我应该努力学习，并承担家庭责任。",
+            "positive_assumption": "如果我承担责任，我将获得内心的满足感。",
+            "negative_assumption": "如果我不承担责任，我将感到内疚和失败。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该为家庭尽责。",
+                "others": "父母依赖我的责任感。",
+                "world": "世界需要有责任感的人。"
+            },
+            "rules": "我应该优先考虑家庭的需要。",
+            "positive_assumption": "如果我尽责，我就能获得父母的尊重和信任。",
+            "negative_assumption": "如果我不尽责，我将失去父母的信任和尊重。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力在学业和其他方面取得成功。",
+                "others": "他人总是比我更有能力。",
+                "world": "成功需要超凡的能力。"
+            },
+            "rules": "我应避免挑战，以免失败。",
+            "positive_assumption": "如果我避免挑战，我就不会经历失败。",
+            "negative_assumption": "如果我接受挑战，我将会失败并感到更糟。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得获得父母的认可。",
+                "others": "他人会认为我不配成功。",
+                "world": "成功只属于那些更优秀的人。"
+            },
+            "rules": "我不应该追求过高的目标。",
+            "positive_assumption": "如果我不追求高目标，我就不会失望。",
+            "negative_assumption": "如果我追求高目标，我会失败并感到痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在各方面表现出色才能证明自己的价值。",
+                "others": "他人会因为我表现不佳而失望。",
+                "world": "世界对每个人的要求都很高。"
+            },
+            "rules": "我需要通过在各方面出色表现来证明自己的价值。",
+            "positive_assumption": "如果我在各方面表现出色，我就能被认可。",
+            "negative_assumption": "如果我不能在各方面表现出色，我将被视为无价值。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能在学业上取得好成绩，那我就是失败的。",
+                "others": "父母会因为我不够好而失望。",
+                "world": "这个世界对失败者是无情的。"
+            },
+            "rules": "我必须在学业上不断努力，以避免被认为不够好。",
+            "positive_assumption": "如果我努力在学业上达到高标准，我就能被认可。",
+            "negative_assumption": "如果我达不到学业上的高标准，我将被视为失败者。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

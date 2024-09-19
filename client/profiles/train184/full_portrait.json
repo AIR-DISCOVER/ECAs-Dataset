@@ -1,0 +1,236 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "耐心",
+            "细心",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身高",
+            "微胖",
+            "短发",
+            "戴眼镜",
+            "温和的面容"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "园艺",
+                "烹饪",
+                "旅行"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步",
+                "参加社区活动"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "适应退休生活，找到新的兴趣爱好",
+            "long_term_goals": "在老年大学学习新知识，保持身心健康"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，做早操，吃早餐后阅读书籍或照顾花园。下午会做一些家务，或者和朋友一起喝茶聊天。晚上和家人一起吃晚饭，看电视或散步。",
+            "weekends": "周末通常会和家人一起外出，去公园散步或者参加社区活动，有时也会去附近的城市短途旅行。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个小城市，家境普通，父母都是工人。",
+            "adolescence": "中学时期成绩优异，喜欢阅读和写作。",
+            "youth": "大学毕业后成为一名教师，结婚生子，生活稳定。",
+            "recent_events": "即将退休，感到有些失落和不适应。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书，毕业后回到南京工作和生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "穆珊云的父母都是工人，虽然家境普通，但他们非常关心和支持她的成长。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "穆珊云在小学和中学期间有几个非常要好的朋友，他们经常一起玩耍和学习。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "老师",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "穆珊云在中学时期成绩优异，几位老师对她的学习和成长给予了很大的帮助和指导。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 10,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        2,
+                        2,
+                        2,
+                        2,
+                        1,
+                        1
+                    ],
+                    "description": [
+                        "穆珊云在中学时期有一群志同道合的同学，他们一起参加各种课外活动和学习小组。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 8,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        3,
+                        2,
+                        2,
+                        1
+                    ],
+                    "description": [
+                        "在北京读大学期间，穆珊云结识了一些来自全国各地的同学，他们一起度过了充实的大学时光。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 15,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        3,
+                        3,
+                        2,
+                        2,
+                        2,
+                        2,
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "description": [
+                        "成为教师后，穆珊云与同事们建立了良好的工作关系，他们互相支持，共同进步。"
+                    ]
+                },
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "穆珊云的丈夫是一名工程师，他们在大学期间相识，结婚后一直相互扶持，共同经营家庭。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "穆珊云有两个孩子，她非常关心他们的成长和教育，尽力为他们提供最好的生活条件。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "退休同事",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "穆珊云即将退休，她与几位即将退休的同事保持联系，互相交流退休后的生活计划。"
+                    ]
+                },
+                {
+                    "relationship": "社区朋友",
+                    "count": 7,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2,
+                        2,
+                        1
+                    ],
+                    "description": [
+                        "穆珊云积极参加社区活动，结识了一些新朋友，他们一起参加各种社区活动和兴趣小组。"
+                    ]
+                },
+                {
+                    "relationship": "家人",
+                    "count": 4,
+                    "familiarity": [
+                        5,
+                        5,
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "穆珊云的家人是她生活中最重要的支持系统，他们一起度过了许多美好的时光。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "穆珊云在不同人生阶段的社交关系发生了显著变化。童年时期，她主要依赖父母和几位亲密的朋友。进入青春期后，老师和同学成为她生活中的重要角色。成年后，她的社交圈扩大到大学同学、同事以及家庭成员。即将退休的她，开始更多地参与社区活动，结识了新的朋友。尽管她的社交圈在不断变化，但她始终保持着与家人和几位亲密朋友的紧密联系。"
+    }
+}

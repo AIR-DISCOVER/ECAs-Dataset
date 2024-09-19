@@ -1,0 +1,194 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "自责",
+            "内向",
+            "责任感强"
+        ],
+        "appearance": [
+            "中等身材",
+            "稍微发福",
+            "温和的面容",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "园艺"
+            ],
+            "activity": [
+                "和学生交流",
+                "周末去图书馆",
+                "照顾花草"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "与孩子建立更好的沟通和关系",
+            "long_term_goals": "成为一名更有影响力的教师，帮助更多的学生"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，准备早餐，7点半到学校，下午4点半下班，晚上备课和批改作业，10点左右睡觉。",
+            "weekends": "周末通常会去图书馆阅读，或者在家里照顾花草，有时会和朋友聚会。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母都是工人，从小成绩优异。",
+            "adolescence": "中学时期成绩一直名列前茅，性格内向，喜欢阅读和写作。",
+            "youth": "大学期间选择了师范专业，毕业后成为一名语文教师，结婚后育有一子。",
+            "recent_events": "最近与丈夫离婚，独自抚养孩子，感到压力和焦虑。"
+        },
+        "environment": "出生在一个小城市，大学毕业后在同一城市的中学任教，生活环境相对稳定。",
+        "persona_summary": "康瑾雪，42岁，离婚，教师。她性格善良、关心他人、内向、责任感强。生活事件导致她情绪障碍，体重增加，有自罪感和自杀想法，但不构成抑郁诊断。她爱阅读、写作和园艺，梦想成为更有影响力的教师。日常生活规律，周末去图书馆或照顾花草。最近离婚，独自抚养孩子，感到压力和焦虑。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "康瑾雪的父母都是工人，虽然工作忙碌，但对她的教育非常重视。父母的严格要求和关爱让她从小成绩优异。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "康瑾雪在小学和中学时期有几个要好的朋友，虽然性格内向，但她们的友谊一直很坚固。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "老师",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        5,
+                        4
+                    ],
+                    "description": [
+                        "康瑾雪在中学时期的老师们对她的影响很大，特别是语文老师，激发了她对阅读和写作的热爱。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 10,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "康瑾雪在中学时期的同学关系较为普通，虽然成绩优异，但因为性格内向，社交圈子不大。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 8,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "在大学期间，康瑾雪结识了一些志同道合的朋友，大家一起学习、讨论，关系非常融洽。"
+                    ]
+                },
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "康瑾雪在大学期间认识了她的前夫，两人相恋并结婚，婚后育有一子。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "康瑾雪的儿子是她生活的重心，虽然因为工作忙碌，交流不多，但她对孩子的爱是无条件的。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 6,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "康瑾雪在学校的同事们对她非常支持，大家一起工作多年，关系融洽。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "康瑾雪有几个非常要好的朋友，大家经常聚会聊天，互相支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "康瑾雪的社交关系在不同阶段有明显变化。童年时期，她主要依赖父母和少数朋友；青春期，她的社交圈子扩大，但仍然以学业为主；成年后，她的社交关系更加多样化，包括同事、朋友和家庭成员。最近的离婚事件让她的社交关系发生了一些变化，但她依然保持着与朋友和同事的紧密联系。"
+    }
+}

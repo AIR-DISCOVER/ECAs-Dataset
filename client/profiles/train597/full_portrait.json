@@ -1,0 +1,153 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "善良",
+            "有责任心",
+            "有些悲观"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "黑发",
+            "眼神有些疲惫",
+            "穿着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "摄影",
+                "散步"
+            ],
+            "activity": [
+                "独自去公园散步",
+                "听音乐放松",
+                "偶尔拍摄风景照片"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复对生活的兴趣，重新融入社交圈",
+            "long_term_goals": "找到一份更有挑战性的工作，建立稳定的家庭"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单洗漱后去上班。工作时间从9点到下午5点。下班后回家，吃晚饭，偶尔会看书或听音乐放松。晚上11点左右上床，但通常需要半小时以上才能入睡。",
+            "weekends": "周末大部分时间在家休息，偶尔会去公园散步或拍摄照片。很少与朋友聚会，更多时间是独自度过。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母关系和睦。小时候性格活泼，但随着年龄增长变得内向。",
+            "adolescence": "中学时期成绩优异，但人际关系一般。高中时曾有过一次暗恋，但未能表白。",
+            "recent_events": "大学毕业后找到了一份采购工作，工作稳定但缺乏挑战。最近因失恋导致情绪低落，出现抑郁症状。"
+        },
+        "environment": "出生在一个南方的小城市，大学毕业后留在省会城市工作。生活环境较为安静，但社交圈子较小。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "尤茂安的父母关系和睦，对他关爱有加。小时候，父母经常带他去公园玩耍，培养了他对自然的热爱。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "尤茂安小时候有几个玩伴，他们经常一起玩耍，但随着年龄增长，这些朋友逐渐疏远。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        1
+                    ],
+                    "description": [
+                        "中学时期，尤茂安成绩优异，但人际关系一般。他有几个关系较好的同学，但大多数时间还是独自学习。"
+                    ]
+                },
+                {
+                    "relationship": "暗恋对象",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "高中时，尤茂安曾暗恋过一个同班同学，但由于内向和自卑，他从未表白。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "尤茂安在采购工作中有几个关系较好的同事，但大多数时间还是独自完成工作任务。"
+                    ]
+                },
+                {
+                    "relationship": "前女友",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "尤茂安最近因失恋导致情绪低落，前女友曾是他生活中的重要部分，但现在已经分手。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "尤茂安有几个朋友，但由于失恋，他刻意远离了他们，导致关系疏远。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "尤茂安的社交能力和意愿在不同阶段有明显变化。小时候，他性格活泼，社交圈子较大。随着年龄增长，他变得内向，人际关系逐渐减少。中学时期，他专注于学习，社交圈子进一步缩小。最近因失恋，他刻意远离社交，导致朋友关系疏远。尽管如此，他仍希望通过调整心态，重新融入社交圈。"
+    }
+}

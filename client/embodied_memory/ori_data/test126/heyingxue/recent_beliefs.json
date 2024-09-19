@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不值得被爱。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我是无能的。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我必须完美才能被认可。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我孤立无援。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我表现出真实的自我，别人就会拒绝我。",
+                "others": "他人不会真正关心我。",
+                "world": "世界是一个冷漠和拒绝的地方。"
+            },
+            "rules": "我应该隐藏我的真实感受，避免被人发现。",
+            "positive_assumption": "如果我隐藏真实的自己，我就不会被拒绝。",
+            "negative_assumption": "如果我表现出真实的自我，我会被拒绝和孤立。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得被关心。",
+                "others": "他人只会在需要我的时候才会接近我。",
+                "world": "这个世界上没有人会无条件地爱我。"
+            },
+            "rules": "我应该尽量避免让他人了解我的内心世界。",
+            "positive_assumption": "如果我避免依赖他人，我就不会被伤害。",
+            "negative_assumption": "如果我依赖他人，我会受伤害和失望。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法完成任何事情。",
+                "others": "他人对我没有信心。",
+                "world": "世界充满了我无法克服的困难。"
+            },
+            "rules": "我应该避免冒险和挑战。",
+            "positive_assumption": "如果我避免挑战，我就不会失败。",
+            "negative_assumption": "如果我尝试挑战，我只会失败和证明自己的无能。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得拥有成功。",
+                "others": "他人不会认可我的努力。",
+                "world": "这个世界没有公平可言。"
+            },
+            "rules": "我不应该期待成功。",
+            "positive_assumption": "如果我不期待成功，我就不会失望。",
+            "negative_assumption": "如果我期待成功，我只会更加失望。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不完美，我就会失败。",
+                "others": "他人只会认可完美的人。",
+                "world": "世界对任何缺陷都不宽容。"
+            },
+            "rules": "我必须尽一切努力做到完美。",
+            "positive_assumption": "如果我做到完美，我就能得到认可和赞赏。",
+            "negative_assumption": "如果我不完美，我就会被批评和拒绝。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不能允许自己犯错。",
+                "others": "他人会抓住我的错误不放。",
+                "world": "世界对错误是无法容忍的。"
+            },
+            "rules": "我应该避免犯错和展示任何弱点。",
+            "positive_assumption": "如果我不犯错，我就会被认可和尊重。",
+            "negative_assumption": "如果我犯错，我就会被鄙视和拒绝。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我没有人可以依靠。",
+                "others": "他人不会真正帮助我。",
+                "world": "世界是一个孤立无援的地方。"
+            },
+            "rules": "我应该依靠自己，避免依赖他人。",
+            "positive_assumption": "如果我独立，我就不会被失望。",
+            "negative_assumption": "如果我依赖他人，我会被抛弃和失望。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法与他人建立真正的联系。",
+                "others": "他人不会理解我的感受。",
+                "world": "世界是冷漠和隔绝的。"
+            },
+            "rules": "我不应该期待与他人建立深厚的关系。",
+            "positive_assumption": "如果我不期待深厚的关系，我就不会失望。",
+            "negative_assumption": "如果我期待深厚的关系，我只会更加孤独和失望。"
+        }
+    ]
+}

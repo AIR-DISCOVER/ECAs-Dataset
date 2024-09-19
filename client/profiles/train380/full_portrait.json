@@ -1,0 +1,162 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "缺乏自信",
+            "善良",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "稍显消瘦",
+            "皮肤白皙",
+            "眼神略显疲惫",
+            "头发乌黑"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "绘画"
+            ],
+            "activity": [
+                "独自散步",
+                "在图书馆学习",
+                "听舒缓的音乐"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能够改善自己的情绪状态，重新找回学习的动力。",
+            "long_term_goals": "希望能够顺利完成学业，找到一份自己喜欢的工作，并且能够建立稳定的人际关系。"
+        },
+        "daily_life": {
+            "routine": "每天早上8点起床，虽然晚上入睡困难，但依然坚持按时起床。白天上课时常走神，学习效率低下。下午通常会去图书馆自习，但很难集中注意力。晚上11点上床，但需要很久才能入睡。",
+            "weekends": "周末大部分时间在宿舍里度过，偶尔会去校园里散步，或者在图书馆里看书。很少参加社交活动，更多时候是独自一人。"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格活泼开朗，有很多朋友。家庭环境和睦，父母关系良好。",
+            "adolescence": "进入高中后，学习压力增大，逐渐变得内向。高考后与很多高中朋友失去了联系，进入大学后感到孤单。",
+            "recent_events": "最近一个月情绪低落，感觉朋友们都疏远了自己，学习效率下降，体重有所增加。"
+        },
+        "environment": "出生在一个中等城市，家庭经济状况良好。高中毕业后考入省会城市的一所大学，目前在大学二年级就读。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "许蓓冰的父母关系和睦，对她非常关爱。小时候，父母经常带她出去玩，陪她做作业，给她讲故事。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "小时候的许蓓冰性格活泼开朗，有很多朋友。她和朋友们经常一起玩耍，分享零食，互相帮助。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "进入高中后，学习压力增大，许蓓冰与父母的交流减少，但父母依然关心她的学习和生活。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "高中时期，许蓓冰的朋友数量减少，但她依然有几位要好的朋友。她们一起学习，一起讨论未来的梦想。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "高中老师对许蓓冰的学习给予了很多帮助，特别是班主任和数学老师。她们经常鼓励许蓓冰，帮助她克服学习上的困难。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "进入大学后，许蓓冰与父母的联系减少，但父母依然关心她的生活和学习。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "大学期间，许蓓冰感到朋友们疏远了自己。她与高中朋友的联系越来越少，与大学同学的交往也不多。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "最近，许蓓冰开始寻求心理咨询师的帮助，希望能够改善自己的情绪状态。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "许蓓冰的社交关系在不同阶段发生了显著变化。小时候，她性格活泼开朗，有很多朋友。进入高中后，学习压力增大，她逐渐变得内向，朋友数量减少。进入大学后，她感到孤单，与朋友的联系越来越少，不敢也不愿意去交新朋友。她的社交能力和意愿受到了过去经历的影响，特别是最近一个月的情绪低落，使她更加回避社交。"
+    }
+}

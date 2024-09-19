@@ -1,0 +1,182 @@
+{
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力通过努力改变现状。",
+                "others": "他人可以提供帮助，但最终的改变取决于我自己。",
+                "world": "世界上有很多机会，我可以通过努力抓住这些机会。"
+            },
+            "rules": "我应该积极面对生活中的挑战，并努力改变现状。",
+            "positive_assumption": "如果我努力改变，我就能改善我的生活。",
+            "negative_assumption": "如果我不努力改变，我的生活就会一直保持现状。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在所有事情上都表现得完美。",
+                "others": "他人只会认可完美的表现。",
+                "world": "世界对不完美的人是不宽容的。"
+            },
+            "rules": "我必须在每一件事情上都尽力做到最好。",
+            "positive_assumption": "如果我表现得完美，我就会被认可和接受。",
+            "negative_assumption": "如果我不完美，我就会被否定和拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我的未来毫无希望。",
+                "others": "他人不会理解我的困境。",
+                "world": "世界对我来说是没有希望的。"
+            },
+            "rules": "我不应该对未来抱有任何期待。",
+            "positive_assumption": "如果我不对未来抱有期待，我就不会失望。",
+            "negative_assumption": "如果我对未来抱有期待，我一定会失望。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法应对生活中的挑战。",
+                "others": "他人不会理解我的困难，也不会帮助我。",
+                "world": "世界上的挑战对我来说都是不可逾越的障碍。"
+            },
+            "rules": "我应该尽量避免面对挑战。",
+            "positive_assumption": "如果我避免挑战，我就不会失败。",
+            "negative_assumption": "如果我面对挑战，我一定会失败。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不被爱，那是因为我不值得被爱。",
+                "others": "他人不会真正爱我或关心我。",
+                "world": "这个世界对我来说是冷漠和无情的。"
+            },
+            "rules": "我应该避免与他人建立深厚的关系。",
+            "positive_assumption": "如果我避免深厚的关系，我就不会受到伤害。",
+            "negative_assumption": "如果我尝试建立深厚的关系，我会被拒绝或伤害。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我通过努力可以实现我的目标。",
+                "others": "他人会支持我的努力。",
+                "world": "世界充满了机会，我可以抓住这些机会。"
+            },
+            "rules": "我应该积极面对生活中的挑战，并努力实现目标。",
+            "positive_assumption": "如果我努力，我就能实现我的梦想。",
+            "negative_assumption": "如果我不努力，我的梦想就会破灭。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在学业上表现得优秀。",
+                "others": "他人会因我的优秀表现而认可我。",
+                "world": "世界对优秀的人充满机会。"
+            },
+            "rules": "我应该在每一件事情上都尽力做到最好。",
+            "positive_assumption": "如果我表现得优秀，我会被认可和接受。",
+            "negative_assumption": "如果我不优秀，我会被忽视和否定。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我的未来是光明的。",
+                "others": "他人会支持我实现我的梦想。",
+                "world": "世界充满了希望和机会。"
+            },
+            "rules": "我应该对未来保持积极的期待。",
+            "positive_assumption": "如果我对未来充满希望，我会更有动力。",
+            "negative_assumption": "如果我对未来失去希望，我会感到沮丧。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决问题。",
+                "others": "他人会帮助我，但我也能独立完成任务。",
+                "world": "世界上的挑战是可以克服的。"
+            },
+            "rules": "我应该勇敢面对挑战。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我逃避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被父母和朋友爱。",
+                "others": "他人会关心我和爱我。",
+                "world": "世界是充满爱的地方。"
+            },
+            "rules": "我应该接受他人的爱和关心。",
+            "positive_assumption": "如果我接受他人的爱，我会感到快乐和满足。",
+            "negative_assumption": "如果我拒绝他人的爱，我会感到孤独和悲伤。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

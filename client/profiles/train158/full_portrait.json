@@ -1,0 +1,183 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "责任心强",
+            "缺乏自信",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "面容憔悴",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "旅游",
+                "阅读",
+                "听音乐"
+            ],
+            "activity": [
+                "周末去公园散步",
+                "和朋友一起看电影"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提升自信心，稳定情绪",
+            "long_term_goals": "在金融行业取得更高的成就，找到生活的平衡"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单洗漱后去上班。工作时间较长，通常晚上8点左右回家。回家后会看书或听音乐放松。",
+            "weekends": "周末通常会去公园散步，偶尔和朋友一起看电影或吃饭。喜欢在家里阅读和听音乐。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母对他期望较高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但由于父母的高期望，压力较大，曾有过短暂的抑郁情绪。",
+            "recent_events": "最近被家里催婚，同时工作上换了一个比较严格的上司，导致压力增大，情绪波动明显。"
+        },
+        "environment": "出生在一个中等城市，家庭经济状况一般。大学毕业后进入金融行业，目前在一家大型金融公司工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "俞浩健的父亲是一名中学教师，对他期望很高，从小就要求他努力学习。父亲性格严肃，但内心关心儿子。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "俞浩健的母亲是一名护士，性格温和，对儿子关爱有加。母亲在家庭中扮演着调和父子关系的角色。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "童年时期的朋友小明和小丽，常常一起玩耍，分享彼此的秘密。虽然现在联系不多，但童年的友谊依然留在心中。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        4,
+                        2,
+                        3
+                    ],
+                    "description": [
+                        "中学时期的同学们，虽然关系一般，但在学习上互相帮助。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "几位对他影响深远的老师，特别是班主任，对他的学习和生活给予了很多指导。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        5
+                    ],
+                    "description": [
+                        "中学时期的好友小张和小李，三人常常一起讨论学习和未来的梦想。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        4
+                    ],
+                    "description": [
+                        "金融公司的同事们，虽然工作繁忙，但偶尔会一起吃饭或看电影。"
+                    ]
+                },
+                {
+                    "relationship": "上司",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "新换的上司，工作要求严格，给俞浩健带来了很大的压力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        5
+                    ],
+                    "description": [
+                        "大学时期的好友小王、小刘和小陈，虽然各自忙碌，但依然保持联系，偶尔会一起聚会。"
+                    ]
+                },
+                {
+                    "relationship": "家人",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父母依然对他关心备至，但催婚的压力让他感到烦躁。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "俞浩健在不同阶段的社会关系中，逐渐从家庭和童年朋友的依赖，转向同学和老师的支持，再到现在的同事和朋友的陪伴。虽然他在各个阶段都能建立起一定的社会关系，但由于性格内向和敏感，他在面对新的社会关系时常常感到压力和不安。最近的工作和家庭压力让他的社交能力和意愿有所下降，但他依然希望通过旅游和阅读等方式来缓解压力，提升自信心。"
+    }
+}

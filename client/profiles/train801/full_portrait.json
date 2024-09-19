@@ -1,0 +1,184 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "善良",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "长发",
+            "面色苍白",
+            "眼神忧郁"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "绘画"
+            ],
+            "activity": [
+                "独自散步",
+                "在图书馆看书"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复正常的生活状态，能够重新感受到快乐。",
+            "long_term_goals": "完成大学学业，找到一份自己喜欢的工作，能够独立生活。"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后感到特别难过，通常会赖床很久。上午的课经常逃掉，中午稍微好一些，会去食堂吃饭。下午有时会去上课，但大部分时间都在宿舍里躺着。晚上情绪再次低落，常常失眠。",
+            "weekends": "周末大部分时间都在宿舍里，偶尔会去图书馆看书，但很少和朋友出去玩。"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格活泼，但由于父母工作忙碌，常常感到孤独。",
+            "adolescence": "中学时期成绩优异，但由于性格内向，朋友不多。高考压力大，曾经有过短暂的情绪低落。",
+            "recent_events": "进入大学后，适应新环境的过程中感到压力，逐渐出现情绪低落和兴趣丧失的症状。"
+        },
+        "environment": "出生在一个小城市，父母都是普通职员。高中毕业后考入省会城市的一所大学，目前住在学校宿舍。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "王婕琦的父亲是一名普通职员，工作繁忙，但在她小时候仍然尽量抽时间陪伴她。虽然父亲的陪伴时间有限，但他总是尽力在周末带她出去玩，给她讲故事。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "王婕琦的母亲同样是一名普通职员，工作繁忙。母亲在她小时候常常加班，但每次回家都会给她做她喜欢的饭菜，尽量在有限的时间里关心她的学习和生活。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "王婕琦在小学时有两个好朋友，她们经常一起玩耍、做作业。虽然她性格内向，但这两个朋友让她感到温暖和快乐。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入中学后，王婕琦的父亲工作更加繁忙，陪伴她的时间更少了。但他仍然在她需要帮助时提供支持，尤其是在她面临学业压力时。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲在她中学时期依然忙碌，但她会在晚饭时间和王婕琦聊聊学校的事情，尽量了解她的生活和情感状态。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "王婕琦的班主任老师对她非常关心，常常鼓励她，帮助她克服学习上的困难。老师的支持让她在学业上取得了优异的成绩。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "中学时期，王婕琦的朋友不多，但她有一个关系较好的同学，两人经常一起学习和讨论问题。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "进入大学后，王婕琦和父亲的联系减少了，父亲的工作依然繁忙，但他会在节假日时打电话关心她的生活。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "母亲在她进入大学后也很少有时间联系她，但每次通话时都会关心她的饮食和生活状况。"
+                    ]
+                },
+                {
+                    "relationship": "舍友",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "王婕琦的舍友们对她的情绪变化感到担忧，但由于她不愿意多说，她们也不知道如何帮助她。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 2,
+                    "familiarity": [
+                        1,
+                        1
+                    ],
+                    "description": [
+                        "大学里，王婕琦有两个同学曾经试图邀请她参加活动，但她总是拒绝，导致关系逐渐疏远。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "王婕琦在不同阶段的社会关系发生了显著变化。童年时期，她虽然孤独，但有父母和朋友的陪伴。进入中学后，学业压力增加，她的朋友减少，但老师的支持让她感到温暖。进入大学后，她的社会关系变得更加疏远，舍友和同学的关心未能有效缓解她的情绪低落。她的社交能力和意愿在逐渐下降，导致她越来越孤立。"
+    }
+}

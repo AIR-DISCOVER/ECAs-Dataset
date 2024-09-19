@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须成功才能有价值。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我值得被理解和支持。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我有能力面对挑战。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我表现不好，那就证明我不够好。",
+                "others": "他人会批评和责备我。",
+                "world": "世界是一个竞争激烈的地方，只有优秀的人才能得到认可。"
+            },
+            "rules": "我应该避免犯错，尽量表现得无懈可击。",
+            "positive_assumption": "如果我表现得很好，我就能得到认可和尊重。",
+            "negative_assumption": "如果我表现不好，我就会被批评和否定。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我很难达到别人的期望。",
+                "others": "他人对我的期望很高，我很难满足他们。",
+                "world": "世界对失败者没有宽容。"
+            },
+            "rules": "我必须不断努力，才能达到别人的期望。",
+            "positive_assumption": "如果我尽力努力，我可能会达到他们的期望。",
+            "negative_assumption": "如果我无法达到期望，我会被视为失败者。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的价值取决于我的成功。",
+                "others": "他人只会认可成功者。",
+                "world": "在这个世界上，成功是衡量一个人价值的标准。"
+            },
+            "rules": "我必须取得成功，才能证明自己的价值。",
+            "positive_assumption": "如果我成功了，我就会被认可和尊重。",
+            "negative_assumption": "如果我失败了，我的价值就会被否定。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不能接受失败。",
+                "others": "他人会因为我的失败而看轻我。",
+                "world": "世界不宽容失败者。"
+            },
+            "rules": "我必须避免失败，努力追求成功。",
+            "positive_assumption": "如果我避免失败，我就会获得更多的认可。",
+            "negative_assumption": "如果我失败了，我就会失去别人的尊重。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有被理解和支持的权利。",
+                "others": "他人能够理解和支持我。",
+                "world": "世界上有很多人愿意给予理解和支持。"
+            },
+            "rules": "我应该主动寻求帮助和理解。",
+            "positive_assumption": "如果我主动寻求帮助，我会得到支持和理解。",
+            "negative_assumption": "如果我不寻求帮助，我会感到孤独和无助。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不必总是独自承担压力。",
+                "others": "他人愿意听取我的心声并给予支持。",
+                "world": "世界上有很多人愿意伸出援手。"
+            },
+            "rules": "我应该学会分享压力，寻求别人的帮助。",
+            "positive_assumption": "如果我分享压力，我会感到更加轻松和被理解。",
+            "negative_assumption": "如果我不分享压力，我会感到更加孤独和无助。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力解决问题，并面对生活中的挑战。",
+                "others": "他人可以给予我帮助，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我能够从失败中学习和成长。",
+                "others": "他人可以给予我建议和帮助，但我有信心从失败中恢复。",
+                "world": "世界充满未知和挑战，但这些都是成长的机会。"
+            },
+            "rules": "我应该勇敢面对失败，并从中学习。",
+            "positive_assumption": "如果我从失败中学习，我会变得更加成熟和有经验。",
+            "negative_assumption": "如果我害怕失败，我就会失去成长的机会。"
+        }
+    ]
+}

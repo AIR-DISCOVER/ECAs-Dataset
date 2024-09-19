@@ -1,0 +1,383 @@
+{
+    "childhood": {
+        "name": "孔瑾舒",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我三岁时，妈妈第一次带我去幼儿园。我紧紧抓着她的衣角，不愿意放手。她蹲下来，摸着我的头说：'瑾舒，妈妈要去上班了，你要在这里乖乖的，等妈妈回来接你。' 我含着泪点了点头。",
+                "location": "幼儿园",
+                "happen_time": "2006年9月",
+                "participants": "妈妈",
+                "impact": "这次分离让我感受到孤独和不安，逐渐形成了对陌生环境的敏感和不安情绪。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "五岁时，我在家里摔碎了一个玻璃杯。妈妈发现后，责备我不小心。我哭着说：'我不是故意的。' 妈妈叹了口气，说：'瑾舒，你要小心点，不能总是犯错。'",
+                "location": "家中客厅",
+                "happen_time": "2008年4月",
+                "participants": "妈妈",
+                "impact": "这次事件加强了我'不能犯错误'的信念，增加了对自己行为的审视和自我批评。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在房间里，听见爸爸妈妈在客厅里争论。妈妈提高了声音，爸爸也不甘示弱。我透过门缝看见，妈妈满脸怒气，爸爸无奈地摇头。这让我感到家庭氛围的紧张。",
+                "location": "家中",
+                "happen_time": "2009年6月",
+                "participants": "爸爸、妈妈",
+                "impact": "这种争吵让我对家庭关系产生了不安全感，强化了我对和谐和稳定的渴望。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "七岁时，我在学校的绘画比赛中获得了第一名。老师在全班面前表扬了我，同学们也纷纷鼓掌。我感到非常自豪和开心。",
+                "location": "学校教室",
+                "happen_time": "2010年3月",
+                "participants": "老师、同学",
+                "impact": "这次成功让我体验到被认可的感觉，增强了我的自信心和成就感。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "八岁时，我在一次数学考试中只得了70分。回到家后，妈妈很严厉地问我为什么考得这么差。她说：'瑾舒，你怎么能这么粗心？你必须认真对待学习。' 我低着头，不敢回应。",
+                "location": "家中",
+                "happen_time": "2011年5月",
+                "participants": "妈妈",
+                "impact": "这次失败让我感到很大的压力，强化了'必须努力才能成功'的信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看见邻居家的孩子因为成绩不好被他的父母责骂和打骂。孩子哭得很伤心，而他的父母则显得非常生气。",
+                "location": "邻居家",
+                "happen_time": "2012年2月",
+                "participants": "邻居家的孩子及其父母",
+                "impact": "这种场景让我更加害怕犯错，感到如果自己表现不好也会遭遇同样的对待。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "十岁时，我参加了一次学校的演讲比赛。尽管准备得很充分，但在演讲时因为紧张说错了几句话。老师在点评时说：'瑾舒，下次要更加注意细节。' 我感到非常沮丧和失落。",
+                "location": "学校礼堂",
+                "happen_time": "2013年10月",
+                "participants": "老师、同学",
+                "impact": "这次经历让我更加觉得自己不够好，增强了对自己能力的怀疑。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "十一岁时，妈妈因为工作原因出差一周，我独自在家。尽管有邻居照顾，但我还是感到非常孤独，每晚都希望妈妈能早点回来。我在日记里写道：'妈妈什么时候才能回来？我好想她。'",
+                "location": "家中",
+                "happen_time": "2014年8月",
+                "participants": "妈妈",
+                "impact": "这段时间让我感受到孤独和依赖，强化了对家庭的依赖感和对独立生活的不安。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一天，我在图书馆看到一个同学因为成绩优异而被家长和老师表扬。他满脸笑容，看起来非常自信。",
+                "location": "图书馆",
+                "happen_time": "2015年3月",
+                "participants": "同学、家长、老师",
+                "impact": "这种场景让我更加渴望通过努力得到认可，强化了'只有优秀的人才会被认可'的信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "十二岁时，我在学校的期末考试中取得了全班第一名。回到家后，妈妈露出了久违的笑容，说：'瑾舒，你真棒！继续努力，妈妈为你骄傲。' 我心里充满了成就感。",
+                "location": "家中",
+                "happen_time": "2015年6月",
+                "participants": "妈妈",
+                "impact": "这次成功让我体验到了努力带来的回报，增强了自信心和对未来的期待。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "孔瑾舒",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "中学第一次期中考试成绩公布后，我看见自己的成绩在班里名列前茅，感到非常高兴，但也有些紧张。班主任在班会上当众表扬了我，说我是大家的榜样。这让我既感到自豪，又担心自己以后能否一直保持这样的成绩。",
+                "location": "中学校园",
+                "happen_time": "2016年11月",
+                "participants": "班主任，同学",
+                "impact": "这次表扬增强了我的自信心，同时也加重了我对保持优异成绩的压力，强化了'我必须努力才能成功'的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次数学竞赛中，我因为紧张而犯了几个错误，最终只得了三等奖。回到家后，我一直在反思自己的失误，感到非常沮丧。妈妈安慰我说已经很不错了，但我心里依然觉得自己不够好。",
+                "location": "家中",
+                "happen_time": "2017年3月",
+                "participants": "妈妈",
+                "impact": "这次失败让我产生了'如果我成绩下降，我就会被视为不够好'的中间信念，加剧了对自己能力的怀疑。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一天，我在操场上看到一个同学因为没完成作业被老师严厉批评，并且罚站。我看见同学低着头，眼泪在眼眶里打转。那一刻，我感到非常同情，但也更加害怕自己会犯错。",
+                "location": "学校操场",
+                "happen_time": "2017年5月",
+                "participants": "老师，同学",
+                "impact": "这次观察进一步强化了我'世界是严苛的，只有完美才能生存'的中间信念，增加了对错误和失败的恐惧感。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在高一的一次班级活动中，我被选为小组负责人，需要组织大家完成一个项目。虽然一开始很紧张，但在老师和同学的支持下，我最终成功地完成了任务，并获得了大家的称赞。",
+                "location": "学校教室",
+                "happen_time": "2018年9月",
+                "participants": "老师，同学",
+                "impact": "这次成功经历增强了我的自信心，强化了'我是有能力的'的核心信念，让我意识到通过努力可以克服挑战。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "一次，班级的一个同学因为家庭原因没能完成作业，老师了解情况后给予了理解和宽容。我看见同学感动得流泪，这让我意识到并不是所有的错误都会受到严厉的惩罚。",
+                "location": "学校教室",
+                "happen_time": "2019年2月",
+                "participants": "老师，同学",
+                "impact": "这次观察让我对世界的看法有所改变，稍微减轻了对犯错的恐惧，开始觉得世界也有温情的一面。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高二期末考试前，我因为长时间复习感到非常疲惫，但依然坚持到深夜。最终成绩出来后，我的名次有所下降，感到非常失落。妈妈告诉我应该注意身体健康，不要过度劳累。",
+                "location": "家中",
+                "happen_time": "2019年6月",
+                "participants": "妈妈",
+                "impact": "这次经历让我认识到自己的极限，但依然加深了'如果我松懈，我就会成绩下降'的中间信念，继续保持高强度的学习习惯。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在高三的一次模拟考试中，我意外地考得非常好，超过了自己预期的分数。这次成绩让我感到异常兴奋和自信，觉得自己的努力得到了回报。",
+                "location": "学校教室",
+                "happen_time": "2020年3月",
+                "participants": "同学",
+                "impact": "这次成功进一步强化了'如果我努力提升自己，我就能实现目标'的中间信念，让我更加坚定地相信自己的能力。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一天，我在图书馆看到一个同学因为考试失利而哭泣，周围的朋友都在安慰她，告诉她这不是世界末日，还可以有很多机会。这让我反思自己对失败的态度。",
+                "location": "学校图书馆",
+                "happen_time": "2020年6月",
+                "participants": "同学",
+                "impact": "这次观察让我开始思考失败的意义，稍微减轻了对失败的恐惧，但依然保持着高压的学习状态。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "高考成绩出来后，我考上了自己理想的省城大学。那天我和家人一起庆祝，感到非常幸福和自豪。这让我觉得所有的努力都是值得的。",
+                "location": "家中",
+                "happen_time": "2021年6月",
+                "participants": "家人",
+                "impact": "这次成功经历强化了'我必须努力才能成功'的核心信念，让我更加坚定地相信通过努力可以实现目标。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "进入大学后，我发现学习任务更加繁重，感到有些吃力。在第一次期中考试中，我的成绩不如预期，感到非常失望和压力。",
+                "location": "大学校园",
+                "happen_time": "2021年11月",
+                "participants": "同学",
+                "impact": "这次经历加剧了我的焦虑，进一步强化了'如果我放松下来，我的不足就会暴露'的中间信念，使我更加紧张和自我要求严格。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "大学期间，我看到一个室友因为长期高压学习而生病住院，大家都非常关心她，并劝她注意身体。这让我开始反思自己是否也需要平衡学业和健康。",
+                "location": "大学宿舍",
+                "happen_time": "2022年1月",
+                "participants": "室友",
+                "impact": "这次观察让我意识到健康的重要性，但依然难以完全放松对自己的要求，保持高强度的学习节奏。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在大学的一次公开课上，我主动发言并提出了一个问题，得到了教授的肯定和表扬。这让我感到非常自豪，增强了自信。",
+                "location": "大学教室",
+                "happen_time": "2022年4月",
+                "participants": "教授，同学",
+                "impact": "这次经历进一步强化了'我是有能力的'的核心信念，让我在学术上更加积极主动。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "大学期末考试期间，我因为过度紧张而失眠，成绩虽然及格但不理想，感到非常沮丧和失望。妈妈在电话里安慰我，说成绩不是唯一的衡量标准。",
+                "location": "大学宿舍",
+                "happen_time": "2022年7月",
+                "participants": "妈妈",
+                "impact": "这次经历加剧了我的焦虑，进一步强化了'如果我松懈，我就会成绩下降'的中间信念，使我更加紧张和自我要求严格。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "孔瑾舒",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在期中考试的时候，尽管复习了很久，但因为过度紧张而导致发挥失常，最终成绩不理想。",
+                "location": "大学教室",
+                "happen_time": "2023年4月",
+                "participants": "大学同学、老师",
+                "impact": "这次糟糕的考试成绩加剧了我的自卑情绪，使我更加相信自己不够好，导致注意力更加难以集中。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我和室友发生了一次小争吵，因为我总是占用公共区域复习，她们认为我没有顾及她们的感受。",
+                "location": "宿舍",
+                "happen_time": "2023年5月",
+                "participants": "室友",
+                "impact": "这次争吵让我感到自己不被理解和支持，增强了我对自己社会关系的怀疑，加剧了内向和敏感的性格特质。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次心理咨询中，和咨询师讨论了自己的考试焦虑问题，她鼓励我尝试放松技巧，但我依然感到难以放松。",
+                "location": "心理咨询室",
+                "happen_time": "2023年6月",
+                "participants": "心理咨询师",
+                "impact": "尽管咨询师的建议给了我一些希望，但我还是感到自己难以改变内心的紧张和焦虑，进一步强化了对自己不够好的信念。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次和朋友在图书馆复习时，我发现自己总是无法集中注意力，朋友们却表现得很轻松自如，我感到自己很差劲。",
+                "location": "图书馆",
+                "happen_time": "2023年7月",
+                "participants": "朋友",
+                "impact": "这次体验让我更加相信自己不如别人，强化了“我不够好”的核心信念，导致更多的自我怀疑和焦虑。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次绘画课上，我的作品被老师批评得很严厉，我感到非常失落和自责。",
+                "location": "绘画教室",
+                "happen_time": "2023年8月",
+                "participants": "绘画老师、同学",
+                "impact": "这次批评让我对自己的能力产生了严重的怀疑，进一步加剧了缺乏自信的状况。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位同学因为考试成绩不理想而情绪崩溃，其他同学纷纷安慰她，但我却感到自己无法表达同情。",
+                "happen_time": "2023年9月",
+                "participants": "同学",
+                "impact": "这次观察让我意识到自己在面对负面情绪时的无力感，进一步加深了对自己社交能力的怀疑。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次班级活动中，我发现大家都很活跃和自信，而我却总是躲在角落里。",
+                "happen_time": "2023年10月",
+                "participants": "同学",
+                "impact": "这次活动让我更加觉得自己与他人格格不入，强化了我内向和自卑的性格特质。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一篇日记中写下了自己的压力和无助感，觉得自己可能永远也无法达到理想中的目标。",
+                "location": "宿舍",
+                "happen_time": "2023年11月",
+                "participants": "无",
+                "impact": "写日记的过程让我清晰地意识到自己的无助和压力，进一步强化了对未来的不确定和焦虑感。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在期末考试前夕，我因为过度焦虑而失眠，第二天考试时状态很差。",
+                "location": "宿舍、考试教室",
+                "happen_time": "2024年1月",
+                "participants": "无",
+                "impact": "这次失眠和考试失常的经历让我对自己应对压力的能力产生了严重怀疑，进一步加剧了自我怀疑和焦虑。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位朋友因为获得奖学金而非常开心，我感到既羡慕又自卑。",
+                "happen_time": "2024年2月",
+                "participants": "朋友",
+                "impact": "这次观察让我感到自己不如别人，进一步加强了“我不够好”的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "与家人通话时，我表达了自己对未来的担忧，但家人却只是简单地安慰我，让我觉得不被理解。",
+                "location": "电话中",
+                "happen_time": "2024年3月",
+                "participants": "家人",
+                "impact": "这次通话让我感到家庭的支持不足，进一步加剧了我的孤独感和无助感。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次班会上，我看到其他同学积极参与讨论，而我却难以开口。",
+                "happen_time": "2024年4月",
+                "participants": "同学",
+                "impact": "这次观察让我更加怀疑自己的社交能力，进一步强化了内向和自卑的心理特质。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次课外活动中，我尝试与一位新同学交流，但对方的冷淡反应让我感到被拒绝。",
+                "location": "课外活动现场",
+                "happen_time": "2024年5月",
+                "participants": "新同学",
+                "impact": "这次被拒绝的经历让我对自己的社交能力产生了更多的怀疑，进一步加剧了自我孤立的倾向。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次考试中，我因为过度紧张而导致胃痛，无法集中精力答题。",
+                "location": "考试教室",
+                "happen_time": "2024年6月",
+                "participants": "无",
+                "impact": "这次身体不适和考试失常的经历让我对自己的身体和心理状况产生了更多的担忧，进一步加剧了焦虑感。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次朋友聚会中，我发现自己难以融入大家的聊天，感到非常孤独和无助。",
+                "location": "朋友家",
+                "happen_time": "2024年7月",
+                "participants": "朋友",
+                "impact": "这次聚会让我更加觉得自己与他人格格不入，强化了内向和自卑的心理特质。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在暑假期间，我尝试在一个教育机构实习，但因为觉得自己表现不够好而自愿退出。",
+                "location": "教育机构",
+                "happen_time": "2024年8月",
+                "participants": "实习指导老师、同事",
+                "impact": "这次实习失败的经历让我更加怀疑自己的能力，进一步加剧了自卑和焦虑。"
+            }
+        ]
+    }
+}

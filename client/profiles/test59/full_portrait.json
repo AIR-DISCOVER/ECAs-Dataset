@@ -1,0 +1,158 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "焦虑",
+            "犹豫不决"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "面容憔悴",
+            "眼神疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "独自散步",
+                "在图书馆学习"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高学习效率，改善与舍友的关系",
+            "long_term_goals": "找到一份稳定的工作，能够自立"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到教室上课，下午在图书馆自习，晚上10点回宿舍休息。",
+            "weekends": "周末通常在宿舍休息，偶尔会去图书馆或者校园内散步。"
+        },
+        "past_experiences": {
+            "childhood": "小时候在一个小城市长大，父母工作忙碌，缺乏陪伴。",
+            "adolescence": "中学时期成绩优异，但人际关系较差，经常感到孤独。",
+            "recent_events": "最近与舍友发生争吵，学习压力大，感到自己在拖后腿。"
+        },
+        "environment": "出生在一个小城市，大学在大城市就读，适应新环境有些困难。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "父亲工作忙碌，虽然在家时间不多，但在有限的时间里尽量陪伴卞志学。父亲对他的期望很高，常常督促他学习。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲同样工作繁忙，但比父亲更为温柔和体贴。她会在晚上回家后给卞志学讲故事，尽量弥补白天的缺席。"
+                    ]
+                },
+                {
+                    "relationship": "小学同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        3
+                    ],
+                    "description": [
+                        "卞志学在小学时有几个玩伴，但关系并不深厚。由于性格内向，他常常在课间独自一人。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "中学老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "中学时期的班主任对卞志学非常关心，常常鼓励他参加各种活动。另一位数学老师则对他的成绩寄予厚望。"
+                    ]
+                },
+                {
+                    "relationship": "中学同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        3,
+                        3,
+                        1
+                    ],
+                    "description": [
+                        "中学时期的同学关系较为复杂，有几个关系较好的朋友，但也有一些同学对他冷嘲热讽。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "大学舍友",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "与舍友的关系不稳定，最近因为一些琐事发生争吵。虽然有时会一起吃饭，但更多时候是各自为政。"
+                    ]
+                },
+                {
+                    "relationship": "大学教授",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "教授对卞志学的学术表现有一定的期待，但由于他最近状态不佳，教授也开始对他表示担忧。"
+                    ]
+                },
+                {
+                    "relationship": "图书馆管理员",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "卞志学常常在图书馆自习，和管理员有过几次简短的交流，关系较为表面。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "卞志学的社交能力和意愿在不同阶段有明显变化。童年时期由于父母工作忙碌，他的社交圈子较小，主要依赖家庭。中学时期虽然成绩优异，但人际关系较差，常感到孤独。进入大学后，面对新的环境和压力，他的社交能力进一步下降，尤其是最近与舍友的争吵让他更加回避社交。总体来看，他的社交意愿和能力在逐渐减弱，导致他在面对人际关系时更加焦虑和不安。"
+    }
+}

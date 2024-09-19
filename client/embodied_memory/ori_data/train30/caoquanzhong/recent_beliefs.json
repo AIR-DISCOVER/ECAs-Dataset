@@ -1,0 +1,99 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我必须非常努力才能成功。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我无法让自己和别人感到满意。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我对家人有责任，我必须为他们提供最好的生活。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不努力工作，我会失败。",
+                "others": "他人只会尊重那些成功的人。",
+                "world": "这个世界对失败者没有宽容。"
+            },
+            "rules": "我必须全力以赴，不能松懈。",
+            "positive_assumption": "如果我不断努力，我会取得成功。",
+            "negative_assumption": "如果我不够努力，我会被视为失败者。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要超越他人才能证明自己的价值。",
+                "others": "他人总是与我竞争。",
+                "world": "世界是一个竞争激烈的地方。"
+            },
+            "rules": "我必须比别人更努力、更出色。",
+            "positive_assumption": "如果我超越他人，我会得到认可。",
+            "negative_assumption": "如果我无法超越他人，我会被忽视。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "无论我怎么努力，我都达不到期望。",
+                "others": "他人总是对我不满意。",
+                "world": "世界对我的要求总是过高。"
+            },
+            "rules": "我不能放松警惕，必须不断改进。",
+            "positive_assumption": "如果我继续努力，或许有一天我会让自己和别人满意。",
+            "negative_assumption": "如果我放松自己，我会让自己和别人失望。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是缺乏自信，无法满足自己的期望。",
+                "others": "他人对我的期望始终高于我的能力。",
+                "world": "世界总是在考验我的能力。"
+            },
+            "rules": "我必须设法提高自己的能力，尽量满足别人的期望。",
+            "positive_assumption": "如果我不断提升自己，我会逐渐接近别人的期望。",
+            "negative_assumption": "如果我无法满足别人的期望，我会被批评。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我应当为家人的幸福负责。",
+                "others": "家人依赖我提供物质支持。",
+                "world": "世界充满挑战，我必须保护我的家人。"
+            },
+            "rules": "我必须努力工作，确保家人过上更好的生活。",
+            "positive_assumption": "如果我为家人提供更好的生活，他们会幸福。",
+            "negative_assumption": "如果我无法为家人提供良好的生活，我会感到愧疚。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要为家人做出牺牲。",
+                "others": "家人依靠我的支持和努力。",
+                "world": "世界充满不确定性，我必须尽力保证家人的稳定。"
+            },
+            "rules": "我必须优先考虑家人的需求，甚至牺牲自己的需求。",
+            "positive_assumption": "如果我为家人牺牲，我会感到自我价值。",
+            "negative_assumption": "如果我不能为家人做出牺牲，我会感到自责。"
+        }
+    ]
+}

@@ -1,0 +1,237 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "敏感",
+            "责任感强"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "黑发",
+            "戴眼镜",
+            "面容憔悴"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "园艺",
+                "听音乐"
+            ],
+            "activity": [
+                "周末去公园散步",
+                "和家人一起做饭",
+                "在家里种植花草"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复情绪稳定，重新找回对教学的热情",
+            "long_term_goals": "成为一名受学生喜爱的优秀教师，写一本关于教育的书"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，准备早餐，7点半到学校上课，下午4点放学后回家，晚上备课和批改作业，10点左右睡觉",
+            "weekends": "周末通常在家休息，偶尔会和家人一起去公园散步，或者在家里种植花草"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就表现出对学习的热爱",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多，常常感到孤独",
+            "youth": "大学期间选择了师范专业，毕业后成为一名中学老师，工作初期充满热情和干劲",
+            "recent_events": "最近半年由于工作压力和家庭琐事，情绪逐渐低落，半个月前开始明显感到抑郁和疲倦"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京师范大学就读，毕业后回到南京市的一所中学任教"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父母对她的期望很高，从小就表现出对学习的热爱。父母对她的关心和支持是她童年时期的重要支柱。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "虽然朋友不多，但有两个关系较好的朋友。她们常常一起玩耍和学习，给她的童年带来了不少快乐。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "中学时期，父母对她的期望更高，虽然关心依旧，但有时会让她感到压力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "由于性格内向，朋友不多，但有一个关系较好的朋友。她们常常一起讨论学习和未来的梦想。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "她的老师们对她的学习成绩非常满意，常常鼓励她继续努力。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "大学期间，她结识了几位志同道合的同学，大家一起学习和讨论教育理论。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "她的导师对她的学术能力非常认可，给予了她很多指导和帮助。"
+                    ]
+                },
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "虽然离家在外，但父母依旧关心她的生活和学习。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "丈夫对她的关心和支持是她生活中的重要支柱，但最近由于情绪低落，她们的关系有些紧张。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "她非常爱自己的孩子，但有时会因为情绪问题而感到力不从心。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "她的同事们曾经关系很好，但最近由于情绪低落，她感觉与同事们的关系变得疏远。"
+                    ]
+                },
+                {
+                    "relationship": "学生",
+                    "count": 30,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "她的学生们对她的教学有一定的认可，但最近由于情绪问题，她感觉与学生们的互动变少了。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "任瑞瑗在不同阶段的社会关系经历了显著的变化。童年时期，她与父母和少数朋友关系密切。进入中学后，虽然成绩优异，但由于性格内向，朋友不多，主要依赖父母和老师的支持。大学期间，她结识了一些志同道合的同学和导师，社会关系有所扩展。工作初期，她与同事和学生的关系良好，但最近由于情绪低落，她感觉与同事和学生的关系变得疏远。她希望通过调整情绪，重新找回与他人的良好互动。"
+    }
+}

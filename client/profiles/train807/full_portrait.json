@@ -1,0 +1,162 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "敏感",
+            "责任感强"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "黑发",
+            "戴眼镜",
+            "面容憔悴"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "听音乐",
+                "散步"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "改善自己的睡眠质量，恢复精力",
+            "long_term_goals": "成为一名优秀的教师，帮助更多的学生"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，准备早餐后去学校上课。下午放学后批改作业，晚上备课。睡觉时间不固定，但通常在晚上11点左右。",
+            "weekends": "周末会和家人一起做饭，有时会去公园散步，偶尔会阅读和写作。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，从小成绩优异，但性格内向。父母对她期望很高。",
+            "recent_events": "最近因为工作压力大，加班管学生，导致身体和精神状态不佳。"
+        },
+        "environment": "出生在一个小城市，从小在这里长大。中学毕业后考上了本地的一所师范大学，毕业后留在本地的一所中学任教。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "伍飘霄的父亲是一名工人，工作繁忙，但对女儿的教育非常重视。他总是鼓励她努力学习，成为一个有用的人。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "伍飘霄的母亲是一名家庭主妇，性格温和，对女儿非常关心。她经常在家里陪伴伍飘霄，帮助她解决学习和生活中的问题。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "伍飘霄在小学时有两个好朋友，她们经常一起玩耍和学习。虽然伍飘霄性格内向，但她们的友谊让她感到温暖和支持。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "伍飘霄的丈夫是一名医生，工作繁忙，但对家庭非常负责。他们的婚姻虽然短暂，但感情深厚。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "伍飘霄的同事们大多是教师，他们在工作中互相支持，但由于工作压力大，交流时间有限。"
+                    ]
+                },
+                {
+                    "relationship": "学生",
+                    "count": 30,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "伍飘霄的学生们对她非常尊敬，但由于她最近的状态不佳，学生们也感受到了她的疲惫和压力。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "伍飘霄在成长过程中，社交圈子逐渐扩大，但她的内向性格使得她在建立深厚关系方面存在一定困难。最近的工作压力和身体状况使得她的社交能力和意愿有所下降。她需要更多的支持和理解，来帮助她度过这段艰难的时期。"
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "有责任心",
+            "有些焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "听音乐",
+                "打篮球",
+                "看电影"
+            ],
+            "activity": [
+                "和朋友一起打篮球",
+                "周末去图书馆看书",
+                "听音乐放松"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "顺利保研，完成学业",
+            "long_term_goals": "成为一名优秀的科研人员，做出有意义的研究"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点上课，下午在图书馆自习，晚上10点左右睡觉",
+            "weekends": "周末会和朋友一起打篮球，或者去图书馆看书，有时会看电影放松"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，从小成绩优异",
+            "adolescence": "高中时成绩一直名列前茅，但也因此感到压力很大，曾经因为考试失利而感到沮丧",
+            "recent_events": "最近因为保研的事情感到焦虑，担心自己的未来"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "方兴乐的父亲是一名工厂工人，虽然工作繁忙，但他总是尽力抽出时间陪伴儿子。父亲对方兴乐的期望很高，希望他能通过学习改变家庭的命运。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "方兴乐的母亲是一名小学教师，她温柔而耐心，总是鼓励儿子追求自己的梦想。母亲在方兴乐的成长过程中扮演了重要的角色，给予了他无尽的支持和爱。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "方兴乐在小学时有几个要好的朋友，他们经常一起玩耍和学习。这些朋友在方兴乐的童年生活中带来了许多快乐和美好的回忆。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "在高中时期，方兴乐的同学们大多是竞争对手，但也有几个关系较好的朋友。他们一起学习、讨论问题，互相鼓励，共同面对学业压力。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        4
+                    ],
+                    "description": [
+                        "方兴乐的班主任和数学老师对他影响深远。班主任关心他的全面发展，而数学老师则激发了他对科学研究的兴趣。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "在大学里，方兴乐结识了一些志同道合的同学，他们一起上课、自习、打篮球，成为了彼此的支持系统。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "方兴乐的导师是一位严谨而和蔼的教授，他在学术上给予了方兴乐很多指导和帮助。导师对方兴乐的科研能力有很高的评价，并鼓励他继续深造。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "方兴乐在大学期间结交了几位亲密的朋友，他们不仅在学业上互相帮助，还在生活中互相支持，共同面对各种挑战。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "方兴乐的社交圈在不同阶段有明显的变化。童年时期，他的社交主要集中在家庭和少数朋友之间。进入高中后，随着学业压力的增加，他的社交圈逐渐扩展到同学和老师。大学期间，他的社交圈进一步扩大，结识了更多志同道合的朋友和导师。尽管方兴乐性格内向，但他在不同阶段都能找到支持和理解他的人，这使得他在面对压力和挑战时能够保持积极的心态。"
+    }
+}

@@ -1,0 +1,473 @@
+{
+    "childhood": {
+        "name": "常会朗",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "第一次考试成绩不理想，常会朗回家后，父亲严肃地问他为什么考得这么差。父亲说：“你要努力，不然将来什么都做不好。”常会朗感到羞愧和压力。",
+                "location": "家中客厅",
+                "happen_time": "2010年5月",
+                "participants": "父亲",
+                "impact": "这次事件强化了常会朗需要努力学习才能被认可的信念（core_belief_2）和避免失败的规则（intermediate_belief_1）。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，常会朗在课堂上主动回答问题，老师表扬了他。他感到非常开心，回家后告诉母亲，母亲也对他表示赞扬。",
+                "location": "学校教室",
+                "happen_time": "2011年3月",
+                "participants": "老师、母亲",
+                "impact": "这次事件增强了常会朗努力学习并得到认可（core_belief_4）的信念，以及通过努力可以成功（intermediate_belief_2）的正面假设。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，常会朗听到父母在讨论他未来的教育问题，父亲说：“他必须要考上重点中学，否则就很难有好的前途。”母亲则附和道：“是啊，他需要更努力。”",
+                "location": "家中厨房",
+                "happen_time": "2012年8月",
+                "participants": "父亲、母亲",
+                "impact": "这次事件加深了常会朗对父母期望的认识，进一步强化了他需要努力学习才能成功（core_belief_2）的信念和规则。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，常会朗在数学竞赛中获得了第一名，父母带他去吃他最喜欢的披萨庆祝。他感到非常满足和自豪。",
+                "location": "当地披萨店",
+                "happen_time": "2013年5月",
+                "participants": "父亲、母亲",
+                "impact": "这次事件增强了常会朗对自己有能力克服困难（core_belief_3）的信念，并且通过努力可以得到认可（core_belief_4）的正面假设。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，常会朗看到邻居家的孩子因为考试没考好被父母责骂，还被罚不能出去玩。他感到很同情，但也有些害怕自己会遇到同样的情境。",
+                "location": "邻居家院子",
+                "happen_time": "2011年10月",
+                "participants": "邻居家孩子及其父母",
+                "impact": "这次事件强化了常会朗对失败的恐惧（intermediate_belief_1），以及觉得世界对失败者没有宽容的态度。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，常会朗的母亲因为工作原因不能陪他做作业，他感到失望和孤独，但还是坚持完成了作业。",
+                "location": "家中书房",
+                "happen_time": "2014年3月",
+                "participants": "母亲",
+                "impact": "这次事件强化了常会朗独立面对困难的能力（core_belief_3），也让他感到需要别人认可才能证明自己的价值（core_belief_4）。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，常会朗看到同班同学因为回答错问题被老师批评，心里感到不安和紧张。",
+                "location": "学校教室",
+                "happen_time": "2012年9月",
+                "participants": "同班同学、老师",
+                "impact": "这次事件加深了常会朗对失败的恐惧（intermediate_belief_1），以及认为自己不能在学习上失败的规则。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "有一次，常会朗在篮球比赛中表现出色，队友和朋友们都为他欢呼，他感到非常开心和自信。",
+                "location": "学校篮球场",
+                "happen_time": "2013年11月",
+                "participants": "队友、朋友",
+                "impact": "这次事件增强了常会朗对自己能力的信心（core_belief_3），并感到通过努力可以成功（core_belief_2）。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，常会朗看到父亲因为工作上的问题很烦恼，甚至发脾气，他感到很害怕和无助。",
+                "location": "家中客厅",
+                "happen_time": "2012年6月",
+                "participants": "父亲",
+                "impact": "这次事件让常会朗意识到成人世界的压力，也加深了他对成功和失败的理解，认为努力工作才能避免失败（core_belief_2）。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "小学二年级时，常会朗在一次小测验中取得满分，老师在全班表扬了他，他感到非常自豪。",
+                "location": "学校教室",
+                "happen_time": "2009年12月",
+                "participants": "老师、同学",
+                "impact": "这次事件增强了常会朗对自己有能力克服困难（core_belief_3）的信念，也让他觉得通过努力可以成功（intermediate_belief_2）。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，常会朗看到父母在讨论邻居家孩子没考好被罚不能看电视，他感到压力和不安。",
+                "location": "家中客厅",
+                "happen_time": "2010年7月",
+                "participants": "父亲、母亲",
+                "impact": "这次事件加深了常会朗对失败的恐惧（intermediate_belief_1），以及认为父母对他的期望很高。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "有一次，常会朗生病了，母亲细心照顾他，让他感到温暖和安全。",
+                "location": "家中卧室",
+                "happen_time": "2010年11月",
+                "participants": "母亲",
+                "impact": "这次事件让常会朗感受到母亲的爱与支持（core_belief_4），增强了他对自己有能力克服困难的信心（core_belief_3）。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，常会朗看到同班同学因为表现不佳被老师批评，心里感到不安和紧张。",
+                "location": "学校教室",
+                "happen_time": "2011年5月",
+                "participants": "同班同学、老师",
+                "impact": "这次事件让常会朗更加害怕失败（intermediate_belief_1），并且觉得世界对失败者没有宽容。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "有一次，常会朗在作文比赛中获得了优秀奖，父母非常高兴，鼓励他继续努力。",
+                "location": "学校礼堂",
+                "happen_time": "2012年4月",
+                "participants": "父亲、母亲",
+                "impact": "这次事件增强了常会朗通过努力可以成功（core_belief_2）的信念，并且得到父母的认可（core_belief_4）。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "有一次，常会朗因为学习压力大，向母亲倾诉，母亲温和地安慰他，并告诉他不要太过于紧张。",
+                "location": "家中厨房",
+                "happen_time": "2013年9月",
+                "participants": "母亲",
+                "impact": "这次事件让常会朗感受到情感上的支持（core_belief_4），也减轻了一些学习压力，同时增强了他面对困难的信心（core_belief_3）。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "常会朗",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在初中第一次考试中取得全班第一。老师在班会上表扬了我，同学们也纷纷向我祝贺。当时我感到非常自豪，觉得自己的努力得到了回报。",
+                "location": "初中教室",
+                "happen_time": "2015年11月",
+                "participants": "班主任，班级同学",
+                "impact": "这次成功强化了我‘我必须努力才能成功’和‘他人会认可我的努力和成绩’的信念，开始更加注重学业成绩。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次数学竞赛中，尽管我努力准备，但最终未能进入前三名。我感到非常失望，甚至对自己的能力产生了怀疑。",
+                "location": "数学竞赛现场",
+                "happen_time": "2016年5月",
+                "participants": "参赛同学，数学老师",
+                "impact": "这次失败强化了‘如果我在竞争中失败，那证明我是无能的’的信念，开始对自己的能力产生疑虑，同时认为‘如果我不努力，我就会失去好成绩’。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "与同学一起参加篮球比赛，尽管我表现出色，但球队还是输了。同学们安慰我，告诉我尽力就好，这让我感到了一些宽慰。",
+                "location": "学校篮球场",
+                "happen_time": "2016年9月",
+                "participants": "篮球队队友，同班同学",
+                "impact": "这次经历让我认识到‘世界对失败者没有宽容’的信念并不完全正确，开始思考如何面对失败。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "一次在图书馆偶然听到一位同学因为考试成绩不好被父母责骂。同学当场流泪，表示自己已经很努力了。",
+                "location": "学校图书馆",
+                "happen_time": "2017年3月",
+                "participants": "同学及其父母",
+                "impact": "这次观察让我更加坚信‘我需要不断努力才能维持好成绩’的信念，同时感受到父母的期望对孩子的压力。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "初中毕业典礼上，我因为优异的成绩获得了学校的优秀学生奖。父母在台下为我鼓掌，我感到非常自豪。",
+                "location": "学校礼堂",
+                "happen_time": "2017年6月",
+                "participants": "父母，校领导，班级同学",
+                "impact": "这次经历进一步强化了‘我需要同学和老师的认可才能验证自己的价值’的信念，认为他人的认可对我很重要。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "一次在家中，看到父母因为工作上的事情发生争吵。母亲责怪父亲没有好好工作，父亲则表示自己已经尽力了。",
+                "location": "家中客厅",
+                "happen_time": "2017年12月",
+                "participants": "父母",
+                "impact": "这次观察让我认识到‘世界对失败者没有宽容’的信念，同时也意识到努力不一定总能带来成功。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "高一入学后，面对新的学科和更高的学习要求，我感到非常大的压力。在一次考试中，我因为过度紧张而表现不佳，成绩大幅下降。",
+                "location": "高中教室",
+                "happen_time": "2018年3月",
+                "participants": "班主任，同班同学",
+                "impact": "这次失败强化了‘如果我在竞争中失败，我就会被视为无能和不够好’的信念，同时也增强了对自己能力的怀疑。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在一次期中考试中，我的数学成绩得到了满分。数学老师在课上特别表扬了我，并赞许了我的努力。",
+                "location": "高中数学教室",
+                "happen_time": "2018年11月",
+                "participants": "数学老师，同班同学",
+                "impact": "这次成功强化了‘我有能力克服困难’的信念，同时也增强了‘我需要同学和老师的认可才能验证自己的价值’的信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "一次在篮球场上，看到一个同学因为失误导致球队输掉比赛，其他队友并没有责怪他，而是鼓励他继续努力。",
+                "location": "学校篮球场",
+                "happen_time": "2019年5月",
+                "participants": "篮球队队友，同学",
+                "impact": "这次观察让我重新思考‘世界对失败者没有宽容’的信念，开始意识到失败并不一定意味着无能。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在高二的期末考试中，我取得了班级第二名的好成绩，老师和同学们对我的表现给予了很高的评价。",
+                "location": "高中教室",
+                "happen_time": "2019年7月",
+                "participants": "班主任，同班同学",
+                "impact": "这次成功进一步强化了‘我需要同学和老师的认可才能验证自己的价值’的信念，同时也增强了自信心。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在高三的一次模拟考试中，我的成绩不理想，感到非常焦虑和失望，担心无法考上理想的大学。",
+                "location": "高中教室",
+                "happen_time": "2020年2月",
+                "participants": "班主任，同班同学",
+                "impact": "这次失败强化了‘如果我不努力，我就会失去好成绩’的信念，同时也增加了对未来的不确定性和焦虑感。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "在家庭聚会上，看到表弟因为没考好被父母责骂，表弟当场哭了出来。父母则劝他继续努力。",
+                "location": "家中客厅",
+                "happen_time": "2020年3月",
+                "participants": "表弟，父母",
+                "impact": "这次观察让我更加坚信‘我需要不断努力才能维持好成绩’的信念，同时感受到家庭压力对孩子的影响。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "高考前夕，老师和同学们对我给予了很大的鼓励，尤其是数学老师，他告诉我相信自己的能力。",
+                "location": "高中教室",
+                "happen_time": "2020年6月",
+                "participants": "数学老师，同班同学",
+                "impact": "这次经历增强了‘我有能力克服困难’的信念，同时也让我感受到了他人支持的重要性，减少了部分焦虑。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在高考中，我顺利发挥，考上了理想的大学。父母为我感到骄傲，家中亲戚也都向我表示祝贺。",
+                "location": "家中",
+                "happen_time": "2020年7月",
+                "participants": "父母，亲戚",
+                "impact": "这次成功强化了‘我有能力克服困难’和‘我需要同学和老师的认可才能验证自己的价值’的信念，同时增强了自信心和成就感。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "常会朗",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次重要的期中考试中，我的成绩非常不理想。我记得那天走出考场时，心情非常沉重，觉得自己辜负了父母和导师的期望。当我看到成绩单上的分数时，我感到一阵绝望和无助。",
+                "location": "大学校园",
+                "happen_time": "2024年3月",
+                "participants": "同学、导师",
+                "impact": "这次考试的失败进一步强化了我的核心信念——我是一个失败者，并且让我对自己产生了极大的怀疑。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与导师的单独谈话中，我表达了对自己成绩的不满和焦虑。导师安慰我说，成绩不是衡量一个人价值的唯一标准，但我却觉得自己辜负了他的期望。",
+                "location": "导师的办公室",
+                "happen_time": "2024年4月",
+                "participants": "导师",
+                "impact": "导师的安慰一方面给予了我短暂的安慰，但同时也让我更加渴望得到认可，强化了我需要别人的认可才能证明自己有价值的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与好朋友的聚会上，大家谈论起了未来的职业规划。我听到他们的计划后，感到自己在学业和职业规划上都远远落后，内心充满了焦虑和自卑。",
+                "location": "学校附近的咖啡馆",
+                "happen_time": "2024年5月",
+                "participants": "两位好朋友",
+                "impact": "这次聚会让我更加意识到自己的不足，进一步加重了我的焦虑感和自卑感。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在图书馆自习时，我偶然听到几位同学在讨论我成绩不好的事情，他们的评价让我感到非常难堪和羞愧。",
+                "location": "大学图书馆",
+                "happen_time": "2024年6月",
+                "participants": "几位同学",
+                "impact": "这次事件让我更加害怕失败和别人的评价，强化了如果我失败了，我就会被视为无能和糟糕的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在篮球比赛中，我的表现不佳，队友对我感到失望。我感到自己不仅在学业上失败，在其他方面也表现不如人意。",
+                "location": "学校篮球场",
+                "happen_time": "2024年7月",
+                "participants": "篮球队队友",
+                "impact": "这次失败进一步强化了我是一个失败者的核心信念，并且让我对自己的能力产生了更大的怀疑。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与父母的视频通话中，父母对我的成绩表示担忧，虽然他们没有责备我，但我感到极大的压力和内疚。",
+                "location": "宿舍",
+                "happen_time": "2024年8月",
+                "participants": "父母",
+                "impact": "父母的担忧让我更加坚定了我必须努力才能成功的核心信念，同时也加重了我的压力和焦虑。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一个成绩优异的同学因为一门课的成绩不理想而情绪崩溃，这让我意识到成绩对我们的重要性，但也让我更加担心自己的未来。",
+                "happen_time": "2024年1月",
+                "participants": "同学",
+                "impact": "这次观察让我更加担心自己的成绩不理想会对未来产生严重影响，强化了我需要不断努力才能成功的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位同学在导师的指导下取得了很大的进步，这让我感到如果我也能得到更多的指导，或许能改善自己的成绩。",
+                "happen_time": "2024年2月",
+                "participants": "同学、导师",
+                "impact": "这次观察让我感到希望，但也让我更加依赖他人的认可和指导，强化了我需要别人的认可才能证明自己有价值的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我注意到一位同学在面对失败时表现得非常乐观和积极，这让我反思自己是否也能以更积极的态度面对挑战。",
+                "happen_time": "2024年3月",
+                "participants": "同学",
+                "impact": "这次观察激发了我面对困难时应该积极应对的中间信念，但也让我感到自己在这方面有很大不足。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次学校组织的职业规划讲座上，我深感自己的职业规划不明确，内心充满了焦虑和不安。",
+                "location": "学校礼堂",
+                "happen_time": "2024年4月",
+                "participants": "讲座主讲人、同学",
+                "impact": "这次讲座让我更加意识到自己在职业规划上的不足，进一步加重了我的焦虑感和不安感。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位同学因为成绩不理想而选择休学，这让我感到非常震惊和担忧，害怕自己也会走到这一步。",
+                "happen_time": "2024年5月",
+                "participants": "同学",
+                "impact": "这次观察让我更加担心自己的学业前景，进一步加重了我的焦虑和压力。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次社团活动中，我感到自己与其他同学的差距越来越大，内心充满了自卑和无力感。",
+                "location": "学校社团活动室",
+                "happen_time": "2024年6月",
+                "participants": "社团成员",
+                "impact": "这次活动让我更加怀疑自己的能力和价值，进一步强化了我是一个失败者的核心信念。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位同学因为得到了导师的认可而感到非常自信和快乐，这让我更加渴望得到导师和他人的认可。",
+                "happen_time": "2024年7月",
+                "participants": "同学、导师",
+                "impact": "这次观察进一步强化了我需要别人的认可才能证明自己有价值的核心信念。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次学术会议上，我的发言因为准备不足而受到批评，这让我感到非常难堪和失望。",
+                "location": "学术会议现场",
+                "happen_time": "2024年8月",
+                "participants": "学术会议参与者",
+                "impact": "这次经历进一步强化了我对自己的怀疑和不信任感，加重了我的焦虑和自卑。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位学长因为在毕业论文答辩中表现出色而被导师高度评价，这让我感到非常羡慕和渴望。",
+                "happen_time": "2024年1月",
+                "participants": "学长、导师",
+                "impact": "这次观察让我更加渴望得到高评价和认可，进一步加重了我的压力和焦虑。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次小组讨论中因为表达不清而被同学误解，感到非常沮丧和无力。",
+                "location": "教室",
+                "happen_time": "2024年2月",
+                "participants": "同学",
+                "impact": "这次经历让我对自己的沟通能力产生了怀疑，进一步加重了我的自卑和无力感。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位同学因为在学术研究中取得了突破而获得了导师的赞赏，这让我感到非常羡慕和渴望。",
+                "happen_time": "2024年3月",
+                "participants": "同学、导师",
+                "impact": "这次观察让我更加渴望在学术上取得成功，进一步加重了我的压力和焦虑。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与朋友的聚会上，大家谈论起了各自的成绩和未来规划，我感到自己在这方面的差距越来越大，内心充满了焦虑和自卑。",
+                "location": "学校附近的餐馆",
+                "happen_time": "2024年4月",
+                "participants": "两位好朋友",
+                "impact": "这次聚会让我更加意识到自己的不足，进一步加重了我的焦虑和自卑感。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位同学因为在比赛中表现出色而获得了全校的认可和赞赏，这让我感到非常羡慕和渴望。",
+                "happen_time": "2024年5月",
+                "participants": "同学",
+                "impact": "这次观察让我更加渴望得到认可和赞赏，进一步加重了我的压力和焦虑。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，亲戚们纷纷询问我的成绩和未来规划，我感到非常尴尬和无力。",
+                "location": "家中",
+                "happen_time": "2024年6月",
+                "participants": "亲戚",
+                "impact": "这次聚会让我更加意识到自己的不足，进一步加重了我的焦虑和自卑感。"
+            }
+        ]
+    }
+}

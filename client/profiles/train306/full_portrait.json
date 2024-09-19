@@ -1,0 +1,181 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "诚实",
+            "有责任心",
+            "坚韧"
+        ],
+        "appearance": [
+            "中等身高",
+            "苗条",
+            "清秀",
+            "温和的眼神"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "烹饪",
+                "园艺"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步",
+                "参加线上读书会"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "在疫情期间保持稳定的收入，继续提升自己的专业技能。",
+            "long_term_goals": "希望能够开一家自己的小店，专注于自己热爱的园艺和烹饪，同时能够有更多时间陪伴家人。"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，做简单的晨练和早餐。上午处理工作事务，下午会花时间阅读和写作。晚上和家人一起做饭、吃饭，之后会看书或看电影放松。",
+            "weekends": "周末通常会和家人一起去公园散步，或者在家里进行一些园艺活动。偶尔会参加线上读书会，与朋友们交流读书心得。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的教育非常重视，从小培养她的阅读和写作兴趣。",
+            "adolescence": "中学时期成绩优异，但因为家庭经济原因，高中毕业后没有继续上大学，而是选择了自学和兼职工作。",
+            "recent_events": "最近因为疫情的反复，工作收入受到了一些影响，但她依然保持乐观，努力寻找新的工作机会和提升自己的技能。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学。高中毕业后开始在南京市内的各类公司兼职工作，后来成为自由职业者。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "喻勤华的父母对她的教育非常重视，从小培养她的阅读和写作兴趣。父母的关爱和支持让她在成长过程中感到安全和被爱。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "喻勤华在小学和中学期间有几个亲密的朋友，他们一起学习、玩耍，共同度过了许多美好的时光。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "尽管家庭经济状况不佳，喻勤华的父母依然尽力支持她的学业和兴趣爱好。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "中学时期，喻勤华的朋友圈子有所缩小，但她依然保持了几段深厚的友谊。"
+                    ]
+                },
+                {
+                    "relationship": "兼职同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "高中毕业后，喻勤华开始兼职工作，与同事们建立了较为友好的关系。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "喻勤华的丈夫是她的坚强后盾，两人感情深厚，互相支持。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "喻勤华有一个年幼的孩子，她非常关心和爱护孩子，尽力平衡工作和家庭生活。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "喻勤华依然保持着几段深厚的友谊，朋友们在她的生活中扮演着重要角色。"
+                    ]
+                },
+                {
+                    "relationship": "线上读书会成员",
+                    "count": 10,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "喻勤华参加了一个线上读书会，与成员们分享读书心得，建立了新的社交圈子。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "喻勤华的社交圈子在不同阶段有所变化。童年时期，她主要依赖父母和朋友的支持。进入青春期后，尽管家庭经济状况不佳，她依然保持了几段深厚的友谊，并通过兼职工作结识了新朋友。最近，她的社交圈子进一步扩大，除了家庭和老朋友外，她还通过线上读书会结识了新朋友。尽管疫情带来了工作上的压力，她依然保持乐观，积极寻找新的社交机会。"
+    }
+}

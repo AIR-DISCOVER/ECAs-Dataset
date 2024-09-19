@@ -1,0 +1,164 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "有责任心"
+        ],
+        "appearance": [
+            "中等身高",
+            "稍微发胖",
+            "皮肤白皙",
+            "眼神有些疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "看电影",
+                "听音乐"
+            ],
+            "activity": [
+                "周末去公园散步",
+                "和朋友一起喝咖啡"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提升自己的专业技能，找到更有前景的工作",
+            "long_term_goals": "成为一名成功的职业女性，能够独立自主，不再依赖家人"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单吃早餐后去公司上班。工作时间从9点到下午6点，期间会有午休时间。下班后回家，简单做晚饭，偶尔会看书或看电影。",
+            "weekends": "周末通常会睡个懒觉，下午可能会去公园散步，或者和朋友一起喝咖啡聊天。晚上会在家里放松，听音乐或看电影。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但性格内向，不太擅长与人交往。高考后考上了一所普通大学，选择了文科专业。",
+            "recent_events": "大学毕业后找到了一份文员的工作，工作几年后发现职业发展前景有限，开始对自己的未来感到迷茫和焦虑。"
+        },
+        "environment": "出生在一个小城市，家庭经济条件一般。大学毕业后留在大城市工作，独自租房生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "郎凡悦的父母对她期望很高，从小就要求她努力学习。虽然家庭经济条件一般，但父母尽力为她提供最好的教育资源。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "郎凡悦在小学和初中时有几个要好的朋友，但由于性格内向，她的朋友圈子并不大。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "在中学时期，父母对她的期望更高，常常督促她学习。虽然父母的关心有时让她感到压力，但她也知道这是出于爱。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期，郎凡悦成绩优异，但性格内向，不太擅长与人交往。她有几个关系较好的同学，但大多数时候她更喜欢独处。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "她的老师们对她的学业表现非常满意，经常鼓励她继续努力。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "在工作中，郎凡悦与同事们的关系还算融洽，但她并没有特别亲密的朋友。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "她有两个大学时期的朋友，虽然大家都在不同的城市工作，但偶尔会联系。"
+                    ]
+                },
+                {
+                    "relationship": "家人",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "虽然她独自在大城市工作，但与家人的联系依然紧密。父母偶尔会打电话关心她的生活和工作情况。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "郎凡悦的社交圈子在不同阶段有明显的变化。童年时期，她的社交主要集中在家庭和少数朋友之间。进入中学后，虽然她的学业表现优异，但由于性格内向，她的朋友并不多。大学时期，她结识了一些新朋友，但毕业后大家各奔东西，联系逐渐减少。工作后，她的社交圈子主要是同事和少数大学朋友。由于对职业发展的迷茫和焦虑，她的社交意愿有所下降，更多时间选择独处。"
+    }
+}

@@ -1,0 +1,218 @@
+{
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力克服生活中的困难。",
+                "others": "他人可以提供帮助，但我有信心自己解决问题。",
+                "world": "世界充满挑战，但我能够应对。"
+            },
+            "rules": "当面对困难时，我应该主动应对，不逃避。",
+            "positive_assumption": "如果我积极面对困难，我会变得更强大。",
+            "negative_assumption": "如果我逃避困难，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被他人关心和支持。",
+                "others": "他人愿意帮助和支持我。",
+                "world": "世界充满了关爱。"
+            },
+            "rules": "我可以寻求他人的帮助和支持。",
+            "positive_assumption": "如果我寻求帮助，我会得到关心和支持。",
+            "negative_assumption": "如果我不寻求帮助，我会错过获得支持的机会。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在所有事情上表现完美。",
+                "others": "他人只会关注我的缺点。",
+                "world": "世界只接受完美的人。"
+            },
+            "rules": "我应该始终追求完美，不能犯错。",
+            "positive_assumption": "如果我表现完美，我会被尊敬和爱戴。",
+            "negative_assumption": "如果我不完美，我会失去别人的尊重和爱。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是无法达到自己的标准。",
+                "others": "他人会发现我的不足。",
+                "world": "这个世界对不完美的人很苛刻。"
+            },
+            "rules": "我必须不断努力，尽量减少错误。",
+            "positive_assumption": "如果我努力变得更好，我会被认可。",
+            "negative_assumption": "如果我不够好，我会被拒绝和忽视。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力克服生活中的困难。",
+                "others": "他人可以提供帮助，但我有信心自己解决问题。",
+                "world": "世界充满挑战，但我能够应对。"
+            },
+            "rules": "当面对困难时，我应该主动应对，不逃避。",
+            "positive_assumption": "如果我积极面对困难，我会变得更强大。",
+            "negative_assumption": "如果我逃避困难，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被他人关心和支持。",
+                "others": "他人愿意帮助和支持我。",
+                "world": "世界充满了关爱。"
+            },
+            "rules": "我可以寻求他人的帮助和支持。",
+            "positive_assumption": "如果我寻求帮助，我会得到关心和支持。",
+            "negative_assumption": "如果我不寻求帮助，我会错过获得支持的机会。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在所有事情上表现完美。",
+                "others": "他人只会关注我的缺点。",
+                "world": "世界只接受完美的人。"
+            },
+            "rules": "我应该始终追求完美，不能犯错。",
+            "positive_assumption": "如果我表现完美，我会被尊敬和爱戴。",
+            "negative_assumption": "如果我不完美，我会失去别人的尊重和爱。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是无法达到自己的标准。",
+                "others": "他人会发现我的不足。",
+                "world": "世界对不完美的人很苛刻。"
+            },
+            "rules": "我必须不断努力，尽量减少错误。",
+            "positive_assumption": "如果我努力变得更好，我会被认可。",
+            "negative_assumption": "如果我不够好，我会被拒绝和忽视。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力克服生活中的困难。",
+                "others": "父母和朋友可以提供帮助，但我有信心自己解决问题。",
+                "world": "世界充满挑战，但我能够应对。"
+            },
+            "rules": "当面对困难时，我应该主动应对，不逃避。",
+            "positive_assumption": "如果我积极面对困难，我会变得更强大。",
+            "negative_assumption": "如果我逃避困难，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被父母和朋友关心和支持。",
+                "others": "父母和朋友愿意帮助和支持我。",
+                "world": "世界充满了关爱。"
+            },
+            "rules": "我可以寻求父母和朋友的帮助和支持。",
+            "positive_assumption": "如果我寻求帮助，我会得到关心和支持。",
+            "negative_assumption": "如果我不寻求帮助，我会错过获得支持的机会。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在所有事情上表现完美。",
+                "others": "他人只会关注我的缺点。",
+                "world": "世界只接受完美的小孩。"
+            },
+            "rules": "我应该始终追求完美，不能犯错。",
+            "positive_assumption": "如果我表现完美，我会被尊敬和爱戴。",
+            "negative_assumption": "如果我不完美，我会失去父母和老师的尊重和爱。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是无法达到父母的期望。",
+                "others": "别人会发现我的不足。",
+                "world": "这个世界对不完美的小孩很苛刻。"
+            },
+            "rules": "我必须非常努力，尽量减少错误。",
+            "positive_assumption": "如果我努力变得更好，我会被父母认可。",
+            "negative_assumption": "如果我不够好，我会被父母责备和忽视。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

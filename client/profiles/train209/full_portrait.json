@@ -1,0 +1,173 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "耐心",
+            "细心",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身材",
+            "微胖",
+            "头发花白",
+            "面容慈祥",
+            "穿着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "园艺",
+                "烹饪",
+                "阅读",
+                "手工艺",
+                "散步"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步",
+                "参加社区活动",
+                "和朋友喝茶聊天"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "适应退休生活，找到新的兴趣爱好",
+            "long_term_goals": "保持健康，享受晚年生活，和家人朋友共度美好时光"
+        },
+        "daily_life": {
+            "routine": "早上6点起床，做早操和简单的家务，上午在花园里打理植物，下午阅读或做手工，晚上和家人一起看电视或聊天。",
+            "weekends": "周末通常会和丈夫一起去公园散步，或者参加社区的老年活动，有时会和朋友聚会喝茶聊天。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工人家庭，父母勤劳朴实，从小受到良好的家庭教育。",
+            "adolescence": "中学时期成绩优异，积极参加学校的各种活动，结交了许多朋友。",
+            "youth": "大学毕业后在一家国企工作，结婚后辞职成为全职家庭主妇，专心照顾家庭。",
+            "recent_events": "最近刚刚退休，开始适应新的生活节奏，虽然有些不适应，但在努力寻找新的兴趣爱好。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在上海读书，毕业后回到南京工作和生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工人，勤劳朴实，母亲是一名家庭主妇，温柔体贴。余馨黛从小在父母的关爱下成长，家庭氛围和谐。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "童年的玩伴，常常一起在院子里玩耍，分享小秘密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学时期的同学，余馨黛成绩优异，常常帮助同学解答问题，结交了许多朋友。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        4
+                    ],
+                    "description": [
+                        "班主任和数学老师，对余馨黛的学习和成长给予了很大的帮助和鼓励。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "在国企工作的同事，工作中互相支持，建立了深厚的友谊。"
+                    ]
+                },
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "大学毕业后结识的丈夫，两人相互扶持，共同经营家庭。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "家人",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "丈夫和两个孩子，家庭生活和睦，余馨黛全心全意照顾家庭。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "退休后结识的社区朋友，常常一起参加活动，喝茶聊天。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "余馨黛在不同人生阶段的社交圈子有所变化。童年时期主要与父母和玩伴亲近，青春期则与同学和老师建立了深厚的关系。进入职场后，同事和丈夫成为她的主要社交对象。退休后，她的社交圈子再次发生变化，更多地与家人和社区朋友互动。尽管社交圈子在不断变化，但余馨黛始终保持着良好的社交能力和积极的社交意愿。"
+    }
+}

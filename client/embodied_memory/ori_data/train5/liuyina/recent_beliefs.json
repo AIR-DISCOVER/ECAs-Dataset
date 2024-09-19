@@ -1,0 +1,78 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我是一个有责任感的人。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须为孩子的未来负责。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我需要得到别人的认可和理解。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我必须表现得坚强。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要不断努力来证明我的责任感。",
+                "others": "别人会依赖我，期待我能负起责任。",
+                "world": "在这个世界上，责任是最重要的。"
+            },
+            "rules": "我应该尽全力履行我的责任。",
+            "positive_assumption": "如果我尽责，别人会尊重我。",
+            "negative_assumption": "如果我不尽责，我会被视为不可靠。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须确保孩子的未来是光明的。",
+                "others": "别人会认为我在乎孩子的未来。",
+                "world": "孩子的未来是由父母的努力决定的。"
+            },
+            "rules": "我应该严厉教育孩子以确保他的成功。",
+            "positive_assumption": "如果我严格要求孩子，他会有光明的未来。",
+            "negative_assumption": "如果我不严格要求孩子，他的未来会很糟糕。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要得到别人的认可来感到有价值。",
+                "others": "别人会认可和理解我的付出。",
+                "world": "在这个世界上，认可和理解是非常重要的。"
+            },
+            "rules": "我应该尽力表现出色以获得别人的认可。",
+            "positive_assumption": "如果我表现出色，别人会认可我。",
+            "negative_assumption": "如果我表现不好，别人会忽视我。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不能表现出软弱，否则会被看不起。",
+                "others": "别人会尊重一个坚强的人。",
+                "world": "在这个世界上，只有坚强的人才能生存。"
+            },
+            "rules": "我应该始终表现得坚强。",
+            "positive_assumption": "如果我表现得坚强，我会受到尊重。",
+            "negative_assumption": "如果我表现出软弱，我会被看不起。"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "勤奋",
+            "责任心强",
+            "内向",
+            "有些敏感",
+            "有时会感到焦虑"
+        ],
+        "appearance": [
+            "中等身材",
+            "黑发",
+            "戴眼镜",
+            "穿着整洁",
+            "面容略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读财经书籍",
+                "跑步",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "周末和朋友打篮球",
+                "和家人一起做饭",
+                "偶尔去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "挽回婚姻，解决家庭矛盾",
+            "long_term_goals": "在金融行业取得更高成就，提供更好的生活给家人"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到公司上班，晚上7点下班后回家。工作日晚上通常会阅读或处理一些工作上的事情。",
+            "weekends": "周末会和朋友打篮球，和家人一起做饭，偶尔去公园散步放松心情。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多。高考后考入一所知名大学的金融专业。",
+            "recent_events": "最近因为工作压力大，和妻子关系紧张，导致妻子提出离婚，情绪低落。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读的金融专业，毕业后回到南京工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "安彬龙的父亲是一名工厂工人，工作繁忙，但对儿子的教育非常重视。父亲常常在工作之余辅导安彬龙的功课，虽然严厉，但也充满关爱。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "安彬龙的母亲是一名小学教师，性格温和，对儿子充满耐心。母亲常常在家里给安彬龙讲故事，培养了他对阅读的兴趣。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "安彬龙在小学时有两个好朋友，他们常常一起玩耍，但由于安彬龙性格内向，朋友关系并不算特别亲密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入中学后，安彬龙的父亲对他的期望更高，常常督促他学习，父子关系变得有些紧张。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是安彬龙的情感支柱，虽然学习压力大，但母亲总是给予他鼓励和支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "中学时期，安彬龙因为性格内向，朋友不多，只有一个关系较好的同学，常常一起讨论学习问题。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "妻子",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "安彬龙的妻子是一名教师，两人结婚已有五年。最近因为工作压力和家庭琐事，夫妻关系变得紧张，妻子提出离婚。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "安彬龙在金融公司工作，同事关系较为和谐，但由于工作繁忙，交流不多。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "安彬龙有两个关系较好的朋友，周末常常一起打篮球，但最近因为家庭问题，见面的次数减少了。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "安彬龙的社交关系在不同阶段有明显变化。童年时期，他与父母关系亲密，但朋友不多。进入中学后，父子关系变得紧张，朋友也减少。成年后，安彬龙的社交圈主要集中在工作和家庭，但最近因为妻子提出离婚，社交关系再次受到冲击。他的社交能力和意愿在不同阶段有所波动，但总体上，他依然保持着对亲密关系的渴望和努力。"
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够强大。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我需要依赖他人。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我是不安全的。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我有能力实现梦想。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须避免冲突，因为我无法保护自己。",
+                "others": "他人比我更强大，可能会伤害我。",
+                "world": "世界是充满危险的地方。"
+            },
+            "rules": "我应该尽量保持低调，避免引起他人的注意。",
+            "positive_assumption": "如果我避免冲突，我就不会受到伤害。",
+            "negative_assumption": "如果我试图反抗，我会遭受更大的伤害。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得保护。",
+                "others": "他人不会主动保护我。",
+                "world": "世界上只有强者才能生存。"
+            },
+            "rules": "我不应该期望他人来保护我。",
+            "positive_assumption": "如果我不期望保护，我就不会失望。",
+            "negative_assumption": "如果我期望保护，我会感到更孤独和无助。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要依赖他人来感到安全。",
+                "others": "他人可以给予我支持和保护。",
+                "world": "世界是充满挑战的地方，我需要帮助才能应对。"
+            },
+            "rules": "我应该寻求他人的帮助和保护。",
+            "positive_assumption": "如果我依赖他人，我会感到更安全。",
+            "negative_assumption": "如果我不依赖他人，我会感到孤立无援。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法独自应对困难。",
+                "others": "他人有能力帮助我。",
+                "world": "世界上的事情太过复杂，我需要依赖他人才行。"
+            },
+            "rules": "我不应该尝试独自解决问题。",
+            "positive_assumption": "如果我依赖他人，我会更容易解决问题。",
+            "negative_assumption": "如果我独自解决问题，我会失败。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我随时可能受到伤害。",
+                "others": "他人可能会对我有害。",
+                "world": "世界是不安全和充满威胁的。"
+            },
+            "rules": "我应该时刻保持警惕，避免与陌生人接触。",
+            "positive_assumption": "如果我保持警惕，我可以避免伤害。",
+            "negative_assumption": "如果我放松警惕，我会被伤害。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我很脆弱，需要保护。",
+                "others": "他人可能会伤害我。",
+                "world": "世界上充满了不可预知的危险。"
+            },
+            "rules": "我不应该开放自己，应该保持谨慎。",
+            "positive_assumption": "如果我保持谨慎，我可以避免许多危险。",
+            "negative_assumption": "如果我开放自己，我会受到伤害。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有创造力和潜力。",
+                "others": "他人可能会欣赏和支持我的天赋。",
+                "world": "世界上有很多机会，我可以实现我的梦想。"
+            },
+            "rules": "我应该不断努力，追求我的梦想。",
+            "positive_assumption": "如果我努力追求梦想，我会成功。",
+            "negative_assumption": "如果我放弃追求梦想，我会错失很多机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有实现梦想的能力。",
+                "others": "他人可能会帮助我实现梦想。",
+                "world": "世界是充满可能性的，我可以找到实现梦想的途径。"
+            },
+            "rules": "我应该积极寻找机会，实现我的梦想。",
+            "positive_assumption": "如果我积极寻找机会，我会找到实现梦想的方法。",
+            "negative_assumption": "如果我不努力寻找机会，我的梦想将无法实现。"
+        }
+    ]
+}

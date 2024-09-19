@@ -1,0 +1,162 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "有责任心"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "皮肤较白",
+            "穿着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "编程",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "独自去图书馆",
+                "在宿舍里听音乐",
+                "偶尔和朋友一起看电影"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高学业成绩，找到自己的兴趣点",
+            "long_term_goals": "成为一名优秀的软件工程师，找到自信和成就感"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到教室上课，下午在图书馆自习，晚上回宿舍复习和做作业，11点左右睡觉。",
+            "weekends": "周末通常在宿舍休息，偶尔去图书馆或者和朋友一起看电影。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但由于性格内向，朋友不多。高考后进入一所不错的大学，但发现竞争激烈，逐渐感到自信心不足。",
+            "recent_events": "最近两三周由于学业压力和同学的竞争，感到兴趣减退和注意力难以集中，开始怀疑自己的能力。"
+        },
+        "environment": "出生在一个小城市，家庭经济状况一般。高中毕业后考入省会城市的一所大学，目前住在学校宿舍。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工人，母亲是一名小学教师。父母对谢世斌的期望很高，从小就要求他努力学习。父亲性格严厉，母亲则较为温柔。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "童年时有两个好朋友，一个是邻居家的孩子，另一个是小学同学。三人经常一起玩耍，但随着时间推移，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "进入中学后，父母对他的学习要求更加严格，父亲的严厉态度让他感到压力。母亲虽然依旧温柔，但也开始频繁督促他的学习。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "中学时期的班主任和两位科任老师对他影响较大。班主任关心他的学习和生活，数学老师和英语老师则在学业上给予了他很多帮助。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "中学时期由于性格内向，朋友不多。唯一的朋友是同班同学，两人经常一起讨论学习问题，但关系并不算特别亲密。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "大学期间的同学们大多竞争激烈，谢世斌感到自己难以跟上他们的步伐。虽然有几位同学关系较好，但他依旧感到自卑和压力。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "大学导师对他的学业有一定的指导，但由于谢世斌的自卑和内向，他并不常主动与导师交流。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "大学期间结识了两位朋友，偶尔会一起看电影或讨论学习问题，但谢世斌依旧感到自己与他们有一定的距离。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "谢世斌的社交能力和意愿在不同阶段有明显变化。童年时期，他有几个玩伴，但随着时间推移，联系逐渐减少。中学时期，由于学业压力和父母的高期望，他的社交圈子变得更小，朋友不多。进入大学后，面对激烈的竞争，他的自信心受到打击，社交意愿进一步降低。虽然有几位朋友和同学，但他依旧感到孤独和自卑。"
+    }
+}

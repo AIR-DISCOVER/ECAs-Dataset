@@ -1,0 +1,400 @@
+{
+    "childhood": {
+        "name": "郝晞璧",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "当我五岁时，我的父亲带我去书店，他告诉我可以选一本我喜欢的书。我选择了一本关于公主的故事书，父亲微笑着说：'你会成为一个像书里公主一样聪明和坚强的女孩。' 他的鼓励让我对阅读和写作产生了浓厚的兴趣。",
+                "location": "书店",
+                "happen_time": "1997年5月",
+                "participants": "父亲",
+                "impact": "增强了我的自信心和对阅读写作的兴趣，形成了核心信念'我有能力实现我的目标'。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在小学二年级时，我参加了一次作文比赛，但没有获奖。我感到非常沮丧，回家后对母亲说：'我写得不够好，老师不会喜欢我的作文。' 母亲温和地安慰我，并鼓励我继续努力写作。",
+                "location": "家里",
+                "happen_time": "2000年10月",
+                "participants": "母亲",
+                "impact": "形成了中间信念'如果我不能提高我的写作水平，我就不会被认可'，同时也感到需要他人的支持来度过挫折。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "在九岁时，我的班主任在全班面前表扬了我的作文，并把它贴在了教室墙上。那一刻，我感到无比自豪，同学们也纷纷称赞我的写作。",
+                "location": "学校教室",
+                "happen_time": "2001年4月",
+                "participants": "班主任、同学",
+                "impact": "强化了核心信念'我有能力实现我的目标'和中间信念'如果我提高我的写作水平，我会得到认可'。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在十岁的一次数学考试中，我没有考好，得了全班最低分。我感到非常羞耻，不敢告诉父母。最终，父亲发现了成绩单，他没有责备我，而是耐心地帮我复习功课。",
+                "location": "家里",
+                "happen_time": "2002年5月",
+                "participants": "父亲",
+                "impact": "虽然这次事件强化了核心信念'我不够好'，但也让我明白家人的支持能帮助我克服困境。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我听到母亲和邻居阿姨聊天，她们在谈论某位朋友的孩子成绩不好，未来可能会比较艰难。我在旁边听了很久，心里暗暗下决心，一定要努力学习。",
+                "location": "家里",
+                "happen_time": "2003年3月",
+                "participants": "母亲、邻居阿姨",
+                "impact": "强化了中间信念'我必须在学校表现优异，不然我就不会被认可'，感觉到社会对表现优异者的认可。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在十一岁时，我的一个好朋友因为家庭搬迁转学了。我们约定要保持联系，但随着时间的推移，我们的联系越来越少，我感到非常孤单和失落。",
+                "location": "学校",
+                "happen_time": "2003年8月",
+                "participants": "好朋友",
+                "impact": "强化了核心信念'我需要他人的支持'，感受到失去亲密关系的痛苦。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校的走廊上看见两个同学因为成绩问题争吵。争吵中，他们提到老师只关注那些成绩好的学生，这让我更加觉得必须表现优异才能被认可。",
+                "location": "学校走廊",
+                "happen_time": "2003年10月",
+                "participants": "同学们",
+                "impact": "强化了中间信念'世界只会认可那些表现优异的人'，加深了对社会竞争的认知。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在十二岁时，我的作文被学校选送去参加市级比赛，并获得了二等奖。这次成功让我对自己的写作能力有了更多信心，也得到了父母和老师的赞扬。",
+                "location": "学校",
+                "happen_time": "2004年6月",
+                "participants": "父母、老师",
+                "impact": "正面强化了核心信念'我有能力实现我的目标'，并增强了自信心。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一位同学在考试中作弊被抓。老师严厉地批评了他，还通知了他的父母。我感到非常震惊，认识到诚实的重要性。",
+                "location": "学校教室",
+                "happen_time": "2004年9月",
+                "participants": "同学、老师",
+                "impact": "强化了中间信念'诚实是非常重要的品质'，并增加了对规则和纪律的尊重。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在十二岁时，我的父母因为工作原因决定搬家到另一个城市，这意味着我要转学。我感到既兴奋又害怕，担心无法适应新的环境和结交新朋友。",
+                "location": "家里",
+                "happen_time": "2004年12月",
+                "participants": "父母",
+                "impact": "强化了核心信念'我需要他人的支持'，并感受到对新环境的恐惧和不确定性。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "郝晞璧",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中时，我参加了学校的文学社团。第一次分享自己的短篇小说时，心里紧张得要命。社团的老师和同学们认真听完后，给予了我很多鼓励和建议，这让我感到一种从未有过的满足感和认可。",
+                "location": "学校的文学社团教室",
+                "happen_time": "2005年10月",
+                "participants": "社团的老师和同学们",
+                "impact": "这次经历增强了我的自信心，让我意识到自己的写作有被认可的潜力，激发了我继续写作的动力。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次语文课上，我的作文被老师当作范文在全班朗读，并得到了老师的高度评价。班上的同学也纷纷表示喜欢我的文章。",
+                "location": "学校教室",
+                "happen_time": "2006年3月",
+                "participants": "语文老师和全班同学",
+                "impact": "这次事件进一步强化了我的核心信念‘我有能力实现我的目标’，并让我更加坚定了继续写作的决心。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到社团里一个朋友的作品被老师严厉批评，这个朋友当场就哭了。我当时在旁边，感到非常不安和同情。",
+                "location": "学校的文学社团教室",
+                "happen_time": "2006年5月",
+                "participants": "社团老师和朋友",
+                "impact": "这件事让我意识到写作带来的压力和不确定性，也让我更加警惕自己的作品可能会受到批评，从而激发了我的完美主义倾向。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "高一时，我参加了一次全市的作文比赛，结果没有获奖。虽然朋友们安慰我，但我内心深处仍然感到深深的失落和自我怀疑。",
+                "location": "比赛现场和学校",
+                "happen_time": "2007年6月",
+                "participants": "朋友们和比赛评委",
+                "impact": "这次失败强化了我的核心信念‘我不够好’，并导致我对自己的写作水平产生了严重的怀疑，影响了我的自信心。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在高二的一次家庭聚会上，家人们谈论起我的未来，我的父母表示希望我将来能够选择一份稳定的工作，而不是继续追求写作。",
+                "location": "家中",
+                "happen_time": "2008年春节",
+                "participants": "父母和其他家庭成员",
+                "impact": "这次对话让我感到压力和困惑，强化了我对写作的不确定感，但也让我更加坚定了要证明自己写作能力的决心。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在图书馆看到一个同学因为成绩不理想而被父母责骂，甚至被打，那一幕让我感到非常震惊和不安。",
+                "location": "图书馆",
+                "happen_time": "2008年10月",
+                "participants": "同学和他的父母",
+                "impact": "这件事让我更加意识到父母对孩子期望的压力，并且开始担心如果自己不够优秀，也可能会失去父母的支持。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在高三的一次模拟考试中，我的语文成绩非常出色，超过了班上的很多同学，老师在班会上特地表扬了我。",
+                "location": "学校教室",
+                "happen_time": "2009年4月",
+                "participants": "语文老师和全班同学",
+                "impact": "这次事件增强了我的自信心，让我相信自己有能力在文学领域取得成功。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "高考前夕，我在家中熬夜复习，父母担心我的身体，劝我早些休息，但我坚持要复习完。",
+                "location": "家中",
+                "happen_time": "2010年6月",
+                "participants": "父母",
+                "impact": "这次事件让我意识到对目标的坚持和努力的重要性，同时也让我感受到父母的关心。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "在高考成绩公布那天，我看到有同学因为成绩不理想而痛哭，甚至有些同学的父母也非常失望。",
+                "location": "学校",
+                "happen_time": "2010年6月",
+                "participants": "同学和他们的父母",
+                "impact": "这件事让我更加意识到成绩和成功的压力，也让我对未来的道路产生了更多的思考和不安。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "高考成绩公布后，我发现自己考上了心仪的大学文学系，这让我感到无比的激动和满足。",
+                "location": "家中",
+                "happen_time": "2010年6月",
+                "participants": "家人",
+                "impact": "这次事件极大地增强了我的自信心，让我相信自己的努力是值得的，也让我对未来充满了希望。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "郝晞璧",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2022年郝晞璧参加了一次重要的写作比赛，结果未能如愿入围。她感到非常失望，认为自己不够好。",
+                "location": "一线城市的写作比赛场所",
+                "happen_time": "2022年7月",
+                "participants": "写作圈的朋友，比赛评委",
+                "impact": "这次失败强化了她的核心信念'我不够好'，并导致她对自己的写作能力产生怀疑。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年初，郝晞璧发现自己怀孕，但因流产导致情绪低落，写作状态进一步恶化。",
+                "location": "家中和医院",
+                "happen_time": "2023年1月-2月",
+                "participants": "丈夫，医生",
+                "impact": "这种经历让她感到无力和失望，进一步影响了她的情绪和写作状态。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年中，她的好友小李出版了一本畅销书，郝晞璧觉得自己被远远落在后面。",
+                "location": "好友小李的出版庆功宴",
+                "happen_time": "2023年5月",
+                "participants": "好友小李，写作圈内的朋友",
+                "impact": "看到好友的成功，郝晞璧感到自卑和焦虑，认为自己无法达到同样的成就。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年初，她的写作状态依然不佳，精神运动性迟滞明显，甚至影响了她的生活质量。",
+                "location": "家中",
+                "happen_time": "2024年1月",
+                "participants": "丈夫",
+                "impact": "她感到沮丧和无助，开始怀疑自己是否能实现成为知名作家的长期目标。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年3月，郝晞璧决定开始看心理咨询师，希望通过专业帮助改善精神状态。",
+                "location": "心理咨询师办公室",
+                "happen_time": "2024年3月",
+                "participants": "心理咨询师",
+                "impact": "她开始意识到自己的问题，并积极寻求解决方法，这一举动对她的精神状态有一定的正面影响。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年5月，她和丈夫进行了一次深入的谈话，丈夫鼓励她继续追求写作梦想。",
+                "location": "家中",
+                "happen_time": "2024年5月",
+                "participants": "丈夫",
+                "impact": "这次谈话让她感到被支持和理解，增强了她继续努力的信心。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "她在心理咨询师的建议下，参加了一次写作圈的聚会，观察到其他作家也有类似的困境。",
+                "location": "写作圈聚会地点",
+                "happen_time": "2024年6月",
+                "participants": "写作圈内的朋友",
+                "impact": "看到他人的困境，她意识到自己并不孤单，这在一定程度上减轻了她的心理压力。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年7月，她的文章被一家知名杂志退稿，进一步打击了她的信心。",
+                "location": "家中",
+                "happen_time": "2024年7月",
+                "participants": "杂志编辑",
+                "impact": "退稿的消息让她感到失望和焦虑，认为自己的写作能力不足。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年8月，她在丈夫的陪同下进行了一次短途旅行，试图放松心情和恢复写作灵感。",
+                "location": "附近的旅游景点",
+                "happen_time": "2024年8月",
+                "participants": "丈夫",
+                "impact": "旅行让她暂时放松，但回到现实后，她的写作状态依然没有明显改善。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "她意识到自己需要更多的支持，于是再次与心理咨询师约谈，深入探讨内心的困惑。",
+                "location": "心理咨询师办公室",
+                "happen_time": "2024年8月",
+                "participants": "心理咨询师",
+                "impact": "她开始更加积极地面对自己的问题，并尝试新的方法来改善自己的精神状态。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2018年，她和丈夫结婚，步入婚姻生活。",
+                "location": "一线城市的婚礼场所",
+                "happen_time": "2018年10月",
+                "participants": "丈夫，家人，朋友",
+                "impact": "婚姻生活带来了新的责任和压力，但也为她提供了稳定的情感支持。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2019年，她父母的健康状况开始恶化，她意识到自己需要更多的时间和精力来照顾他们。",
+                "location": "父母的家",
+                "happen_time": "2019年6月",
+                "participants": "父母",
+                "impact": "她感到责任重大，增加了生活的压力，这对她的写作状态也产生了一定的负面影响。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2020年，她参加了一个写作培训班，提升了自己的写作技巧。",
+                "location": "写作培训班教室",
+                "happen_time": "2020年3月",
+                "participants": "培训班老师和同学",
+                "impact": "培训班的经历让她感到自己在不断进步，对未来充满希望。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2021年，她的文章首次在知名杂志上发表，这是她写作生涯中的一个重要里程碑。",
+                "location": "家中",
+                "happen_time": "2021年5月",
+                "participants": "杂志编辑",
+                "impact": "这次成功增强了她的自信心，认为自己有能力实现目标。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年，她在写作圈的朋友因为工作压力导致抑郁，她感到非常担心。",
+                "location": "写作圈朋友的家",
+                "happen_time": "2023年10月",
+                "participants": "写作圈的朋友",
+                "impact": "朋友的经历让她意识到精神健康的重要性，开始更加关注自己的精神状态。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2022年，她的一个写作圈朋友因家庭变故放弃写作，这让她感到非常震惊。",
+                "location": "写作圈朋友的家",
+                "happen_time": "2022年12月",
+                "participants": "写作圈的朋友",
+                "impact": "朋友的决定让她开始思考自己对写作的坚持是否值得，产生了些许动摇。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年，她的丈夫因工作调动需要频繁出差，这让她感到孤独和无助。",
+                "location": "家中",
+                "happen_time": "2023年6月-12月",
+                "participants": "丈夫",
+                "impact": "丈夫的缺席让她感到孤立无援，精神状态也逐渐恶化。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年，她决定改变写作风格，尝试新的写作方向。",
+                "location": "家中",
+                "happen_time": "2024年4月",
+                "participants": "丈夫，写作圈的朋友",
+                "impact": "这种尝试让她感到新鲜和兴奋，但也伴随着不确定性和焦虑。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2021年，她和丈夫进行了一次长途旅行，期间她写了很多灵感笔记。",
+                "location": "旅行目的地",
+                "happen_time": "2021年8月",
+                "participants": "丈夫",
+                "impact": "旅行让她感到放松和充实，增强了她对写作的热情。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2022年，她的写作获得了一个小奖项，这是对她努力的一种肯定。",
+                "location": "颁奖典礼现场",
+                "happen_time": "2022年11月",
+                "participants": "写作圈的朋友，评委",
+                "impact": "奖项的获得让她感到自信和被认可，激励她继续努力。"
+            }
+        ]
+    }
+}

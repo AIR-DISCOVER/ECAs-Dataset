@@ -1,0 +1,184 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "焦虑",
+            "易怒",
+            "缺乏自信"
+        ],
+        "appearance": [
+            "中等身高",
+            "体重增加",
+            "面色苍白",
+            "眼神疲惫",
+            "头发凌乱"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "尝试学习新技能",
+                "偶尔散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复健康，重新找到工作",
+            "long_term_goals": "成为一名成功的专业人士，拥有稳定的生活"
+        },
+        "daily_life": {
+            "routine": "每天大部分时间躺在床上，尝试学习新东西但难以集中注意力。偶尔会出门散步，但大多数时间都在家里。",
+            "weekends": "周末与平时没有太大区别，依然是躺在床上，偶尔会和家人一起吃饭，但情绪低落，难以享受家庭时光。"
+        },
+        "past_experiences": {
+            "childhood": "童年时期家庭环境较为普通，父母关系和睦，但自己性格内向，不太擅长与人交往。",
+            "adolescence": "青春期时成绩中等，但由于性格内向，朋友不多。曾经有过几次尝试融入集体但都失败了，导致自信心进一步下降。",
+            "recent_events": "一年前因腰椎间盘突出压迫坐骨神经症导致无法工作，长期的疼痛和失业状态使得情绪逐渐恶化，最终发展为抑郁症。"
+        },
+        "environment": "出生在一个小城市，家庭经济状况一般。高中毕业后曾在省城打工，但因病情回到家乡，目前待业在家。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "皮世光的父亲是一名工人，工作繁忙，但对家庭非常负责。皮世光小时候经常和父亲一起玩耍，父亲是他童年时期最亲近的人。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "皮世光的母亲是一名家庭主妇，性格温和。她对皮世光的照顾无微不至，母子关系非常亲密。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "皮世光在学校里有几个同学，但由于性格内向，他与他们的关系并不深厚。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "随着年龄的增长，皮世光与父亲的关系有所疏远，但仍然保持着一定的亲密度。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲依然是皮世光最亲近的人，她对他的关心和照顾没有减少。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "皮世光在青春期时尝试融入集体，但由于性格内向，朋友不多。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "皮世光的班主任老师对他有一定的关注，曾经鼓励他多参与集体活动。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "皮世光因病回到家乡后，父亲对他的关心增加了，但由于工作繁忙，陪伴时间有限。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲对皮世光的照顾更加细致，她是他情感上的主要支柱。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "皮世光在省城打工时结识了一位朋友，但由于回到家乡，两人的联系变少了。"
+                    ]
+                },
+                {
+                    "relationship": "医生",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "皮世光的主治医生对他的病情非常关注，定期进行检查和治疗。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "皮世光在不同阶段的社会关系发生了显著变化。童年时期，他与父母关系亲密，但与同学的关系较为疏远。青春期时，他尝试融入集体，但未能成功，导致自信心下降。最近，由于病情和失业，他的社交圈进一步缩小，主要依赖家庭和医生的支持。总体来看，皮世光的社交能力和意愿在逐渐减弱，社会功能受损严重。"
+    }
+}

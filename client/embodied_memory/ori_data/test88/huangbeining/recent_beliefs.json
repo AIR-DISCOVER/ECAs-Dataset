@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我无法应对压力。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我需要别人的认可。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我有潜力成为成功的自由职业者。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我犯错，那就是我的无能。",
+                "others": "他人会注意到我的每一个错误，并因此评价我。",
+                "world": "世界是一个竞争激烈的地方，只有最好的人才能生存。"
+            },
+            "rules": "我必须避免犯错。",
+            "positive_assumption": "如果我不犯错，我会被认为是有能力的。",
+            "negative_assumption": "如果我犯错，我会被他人看不起。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是感觉自己做得不够好。",
+                "others": "他人会发现我做得不好，并因此疏远我。",
+                "world": "这个世界对那些不优秀的人很苛刻。"
+            },
+            "rules": "我必须不断努力，尽最大可能做到最好。",
+            "positive_assumption": "如果我努力做到最好，我会被认可。",
+            "negative_assumption": "如果我做得不够好，我会被遗忘或忽视。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法应对当前的生活压力。",
+                "others": "他人可能认为我很脆弱。",
+                "world": "这个世界充满了压力，我无法逃避。"
+            },
+            "rules": "我应该尽量避免压力源。",
+            "positive_assumption": "如果我能避免压力源，我会感觉更好。",
+            "negative_assumption": "如果我无法避免压力源，我会崩溃。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要别人的帮助来应对压力。",
+                "others": "他人可能会帮助我，但他们也可能厌倦我。",
+                "world": "这个世界对那些无法应对压力的人并不友好。"
+            },
+            "rules": "我应该尽量依靠他人的帮助。",
+            "positive_assumption": "如果我能得到他人的帮助，我会感觉好一些。",
+            "negative_assumption": "如果我无法得到他人的帮助，我会陷入困境。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要别人的认可才能感到有价值。",
+                "others": "他人的认可是我自我价值的重要来源。",
+                "world": "这个世界对那些没有被认可的人来说是冷漠的。"
+            },
+            "rules": "我应该尽量获得他人的认可。",
+            "positive_assumption": "如果我能获得他人的认可，我会感到有价值。",
+            "negative_assumption": "如果我无法获得他人的认可，我会觉得自己毫无价值。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要不断证明自己。",
+                "others": "他人会根据我的表现来判断我。",
+                "world": "这个世界对那些没有证明自己的人来说是残酷的。"
+            },
+            "rules": "我必须不断努力证明自己。",
+            "positive_assumption": "如果我能证明自己，我会获得认可。",
+            "negative_assumption": "如果我无法证明自己，我会被忽视或轻视。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有潜力，但需要不断努力。",
+                "others": "他人可能不相信我的潜力，但我可以证明给他们看。",
+                "world": "这个世界充满机会，只要我抓住它们。"
+            },
+            "rules": "我应该抓住每一个机会来展示我的潜力。",
+            "positive_assumption": "如果我能抓住机会，我会成功。",
+            "negative_assumption": "如果我错过机会，我会后悔。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我可以通过努力实现我的梦想。",
+                "others": "他人可能会质疑我的梦想，但我可以向他们证明。",
+                "world": "这个世界有许多机会，我可以通过努力抓住它们。"
+            },
+            "rules": "我应该坚持努力实现我的梦想。",
+            "positive_assumption": "如果我坚持努力，我会实现我的梦想。",
+            "negative_assumption": "如果我放弃努力，我会失去实现梦想的机会。"
+        }
+    ]
+}

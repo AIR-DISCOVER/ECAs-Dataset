@@ -1,0 +1,159 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "善良",
+            "细腻"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "皮肤白皙",
+            "长发",
+            "眼神忧郁"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "绘画",
+                "听音乐"
+            ],
+            "activity": [
+                "独自去图书馆",
+                "在安静的咖啡馆里写作",
+                "在公园里散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高学习成绩，顺利完成学业",
+            "long_term_goals": "成为一名作家，写出能够感动人心的作品"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单洗漱后去学校上课。中午在学校食堂吃饭，下午继续上课或在图书馆自习。晚上回到宿舍，通常会阅读或写作，10点左右上床睡觉。",
+            "weekends": "周末通常会待在宿舍，阅读或写作，有时会去附近的公园散步，偶尔会去咖啡馆放松一下。"
+        },
+        "past_experiences": {
+            "childhood": "小时候父母工作忙碌，常常一个人在家，养成了独立和内向的性格。",
+            "adolescence": "中学时期成绩优异，但由于性格内向，朋友不多，常常感到孤独。",
+            "recent_events": "最近一个月由于学业压力大，成绩下滑，导致情绪低落，对未来感到迷茫和无望。"
+        },
+        "environment": "出生在一个小城市，家庭经济条件一般。高中毕业后考入省城的一所大学，目前在读研究生。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "尤宁柔的父母工作忙碌，但他们尽量在有限的时间里关心她的成长。虽然他们的陪伴时间不多，但尤宁柔感受到他们的爱。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "尤宁柔在小学时有一个好朋友，两人常常一起玩耍和学习，但由于父母工作调动，这位朋友搬家了，尤宁柔感到非常失落。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "进入中学后，尤宁柔的父母依然忙碌，但他们开始意识到女儿的孤独，尝试更多地参与她的生活。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "尤宁柔在中学时有两位特别关心她的老师，他们不仅在学业上给予她帮助，还在生活上给予她关怀。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "尤宁柔在中学时有几位同学关系较好，但由于性格内向，她并没有与他们建立深厚的友谊。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "尤宁柔的父母依然关心她的生活和学业，但由于她刻意疏远，他们感到无奈和担忧。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "尤宁柔的研究生导师对她的学业非常关注，常常给予她指导和建议，但尤宁柔感到自己辜负了导师的期望。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "尤宁柔在研究生阶段有两位关系较好的同学，但由于她的情绪低落和社交退缩，这些关系变得疏远。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "尤宁柔在不同阶段的社交关系经历了显著变化。童年时期，她的社交圈子主要是家庭和少数朋友。进入中学后，她的社交圈子扩大，但由于性格内向，深厚的友谊较少。最近，由于学业压力和情绪低落，她的社交关系进一步疏远，尤其是与父母和同学的关系变得紧张。她的社交能力和意愿受到抑郁症的严重影响，导致她更加孤立和自卑。"
+    }
+}

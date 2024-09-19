@@ -1,0 +1,155 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "纠结",
+            "慢性子",
+            "耐心",
+            "内向",
+            "焦虑",
+            "乐观"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "黑发",
+            "戴眼镜",
+            "普通"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "听相声",
+                "看电影",
+                "玩游戏",
+                "阅读"
+            ],
+            "activity": [
+                "和朋友聊天",
+                "散步",
+                "尝试新食物"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高电商运营的业绩，改善睡眠质量",
+            "long_term_goals": "成为电商行业的专家，拥有自己的电商品牌"
+        },
+        "daily_life": {
+            "routine": "每天早上七点起床，开始一天的工作。白天主要处理电商运营的事务，晚上听相声放松。睡前会阅读一会儿。",
+            "weekends": "周末会和朋友聚会，尝试新餐厅，偶尔会去公园散步。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母都是工薪阶层。小时候性格内向，喜欢独处。",
+            "adolescence": "中学时期成绩中等，喜欢看书和玩游戏。高考后选择了电商相关专业。",
+            "recent_events": "最近因为电商业绩不理想而感到压力，导致睡眠质量下降和焦虑情绪增加。"
+        },
+        "environment": "出生在一个小城市，大学毕业后搬到大城市从事电商运营工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "鲍全保的父亲是一名工薪阶层，工作繁忙，但在鲍全保的童年时期，他总是尽量抽出时间陪伴儿子。父亲性格严肃，但对鲍全保的教育非常重视，经常鼓励他多读书。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "鲍全保的母亲是一名温柔的女性，性格开朗。她在家庭中扮演着重要的角色，照顾鲍全保的日常生活。母亲对鲍全保的关爱无微不至，常常在他遇到困难时给予支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "鲍全保在小学时期有两个好朋友，他们经常一起玩耍和学习。虽然性格各异，但他们之间的友谊非常深厚。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        4
+                    ],
+                    "description": [
+                        "中学时期，鲍全保的社交圈子扩大了，他结识了更多的同学。虽然他性格内向，但在班级活动中逐渐融入了集体。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "鲍全保的几位老师对他的成长起到了重要作用。他们不仅在学业上给予指导，还在生活中给予关心。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "鲍全保在电商公司工作，与同事们的关系较为融洽。虽然他性格内向，但在工作中逐渐建立了信任和合作。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "鲍全保的几位朋友在他搬到大城市后依然保持联系。他们经常聚会，尝试新餐厅，分享生活中的点滴。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "鲍全保的社交能力和意愿在不同阶段有所变化。童年时期，他的社交圈子较小，主要依赖家庭和少数朋友。中学时期，他逐渐扩大了社交圈子，结识了更多的同学和老师。进入职场后，他的社交圈子再次发生变化，主要以同事和朋友为主。尽管性格内向，但他在不同阶段都能逐渐适应新的社交环境，并建立起稳定的关系。"
+    }
+}

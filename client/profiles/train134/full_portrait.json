@@ -1,0 +1,160 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "勤奋",
+            "有责任感",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "黑发",
+            "戴眼镜",
+            "皮肤白皙"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "听音乐",
+                "绘画"
+            ],
+            "activity": [
+                "和朋友一起去图书馆",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "完成论文并顺利毕业",
+            "long_term_goals": "成为一名成功的作家，出版自己的小说"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到图书馆学习，下午回宿舍休息，晚上继续写论文，11点左右睡觉。",
+            "weekends": "周末通常会去公园散步，或者和朋友一起去咖啡馆放松。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多，经常感到孤独。",
+            "recent_events": "最近因为论文压力大，开始出现记忆力减退和暴饮暴食的情况。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京就读。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "马枝锦的父母对她期望很高，从小就要求她努力学习。虽然他们的关心和爱护无微不至，但也给她带来了不小的压力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "马枝锦在小学时有两个好朋友，虽然关系不错，但因为她性格内向，朋友们并不了解她的内心世界。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "进入中学后，马枝锦的父母对她的学业要求更加严格，虽然他们的出发点是好的，但这让她感到更加孤独和压力。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "马枝锦的中学老师们对她的成绩非常满意，但由于她性格内向，老师们对她的关注更多集中在学业上，而忽略了她的心理健康。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "中学时期，马枝锦的朋友不多，只有一个关系较好的同学，但由于性格内向，她们的交流也不算深入。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同学",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "在大学里，马枝锦有几个同学关系不错，但由于学业压力大，她们的交流更多集中在学习上，缺乏情感上的支持。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "马枝锦的导师对她的学业给予了很多指导，但由于她缺乏自信，常常感到自己无法达到导师的期望。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "马枝锦在大学里有两个较好的朋友，她们会一起去图书馆学习，周末也会一起去公园散步或咖啡馆放松。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "马枝锦的社交关系在不同阶段有明显变化。童年时期，她的社交圈主要集中在家庭和少数朋友身上。进入中学后，虽然学业成绩优异，但由于性格内向，她的朋友不多，更多的时间是与父母和老师互动。进入大学后，学业压力增大，她的社交圈主要集中在同学和导师身上，虽然有几个朋友，但由于时间和精力的限制，她的社交活动较少。总体来看，马枝锦的社交能力和意愿在不同阶段都有所变化，主要受到学业压力和性格内向的影响。"
+    }
+}

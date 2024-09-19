@@ -1,0 +1,484 @@
+{
+    "childhood": {
+        "name": "安宁信",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我记得有一次，爸爸看着我的考试卷，他眉头紧锁，最后说了一句：'你这种成绩怎么对得起我们对你的期望？' 我当时感到非常愧疚和无助，觉得自己永远达不到父母的期望。",
+                "location": "家庭客厅",
+                "happen_time": "2007年5月",
+                "participants": "父亲",
+                "impact": "这次事件强化了我的核心信念'我不够好'，并且形成了中间信念'我总是达不到父母的期望'。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校篮球比赛中表现不佳，我们队输了比赛。回家后，妈妈安慰我说：'比赛不是最重要的，重要的是你尽力了。' 但我心里仍然觉得自己不够好。",
+                "location": "学校篮球场",
+                "happen_time": "2008年10月",
+                "participants": "母亲",
+                "impact": "这次事件让我感受到即使在失败中也有母亲的支持，但也加深了我对完美表现的渴望。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "小学三年级的时候，我在一次数学竞赛中得了全校第一名，父母都非常高兴。我感到自己被认可了，内心充满了自豪感。",
+                "location": "学校礼堂",
+                "happen_time": "2009年3月",
+                "participants": "父亲、母亲、老师、同学",
+                "impact": "这次成功让我暂时打破了'我不够好'的核心信念，形成了'我有能力应对挑战'的信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "有一次，父亲在家里对我说：'你要是再这样下去，将来怎么办？' 他的语气非常严厉，我感到自己不被认可。",
+                "location": "家庭厨房",
+                "happen_time": "2010年11月",
+                "participants": "父亲",
+                "impact": "这次事件加深了'我必须表现得完美才能得到认可'的核心信念，并且形成了'我应该避免犯错，时刻保持完美'的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "我记得有一次，母亲在我生病的时候照顾我，给我煮了粥，还陪着我讲故事。我感到非常温暖和被关爱。",
+                "location": "家庭卧室",
+                "happen_time": "2006年2月",
+                "participants": "母亲",
+                "impact": "这次事件让我感受到母亲的关爱，形成了'我值得被尊重'的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在一次期中考试后，我的成绩不理想，父亲非常失望地对我说：'你这样怎么能考上好大学？' 我感到非常沮丧和压力。",
+                "location": "家庭客厅",
+                "happen_time": "2009年6月",
+                "participants": "父亲",
+                "impact": "这次事件进一步强化了'我总是达不到父母的期望'的中间信念，并加重了我对学业的焦虑。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校被选为班长，我感到非常自豪，觉得自己被认可了。",
+                "location": "学校教室",
+                "happen_time": "2010年9月",
+                "participants": "老师、同学",
+                "impact": "这次事件强化了'我有能力应对挑战'的核心信念，并且形成了'我应该展现自己的学习能力和价值'的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，父亲当着亲戚的面批评我的成绩，我感到非常尴尬和羞耻。",
+                "location": "亲戚家",
+                "happen_time": "2008年春节",
+                "participants": "父亲、亲戚",
+                "impact": "这次事件加深了'我不够好'的核心信念，并且形成了'父母会认为我不够好'的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父亲和母亲在争论我的学习问题，母亲明显在为我辩护，但父亲显得非常不耐烦。",
+                "location": "家庭厨房",
+                "happen_time": "2007年8月",
+                "participants": "父亲、母亲",
+                "impact": "这次事件让我意识到父亲对我的高期望，也让我感到家庭内部的紧张氛围。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "我记得有一次在学校，看到一个同学因为成绩不好被老师当众批评，他脸上露出尴尬和无助的表情。",
+                "location": "学校教室",
+                "happen_time": "2009年4月",
+                "participants": "同学、老师",
+                "impact": "这次事件让我感到害怕自己也会遭遇类似的情况，进一步强化了'我必须完美无缺，才能被认可'的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校看到一个同学因为帮助老师解决了一个难题，得到了全班的掌声和老师的表扬。我感到非常羡慕。",
+                "location": "学校教室",
+                "happen_time": "2010年5月",
+                "participants": "同学、老师",
+                "impact": "这次事件让我意识到展示自己的能力可以获得他人的尊重和认可，进一步强化了'我值得被尊重'的信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父母在讨论家里的经济问题，母亲显得非常担忧，而父亲则显得很无奈。",
+                "location": "家庭客厅",
+                "happen_time": "2006年11月",
+                "participants": "父母",
+                "impact": "这次事件让我意识到家庭的经济压力，加重了我对自己必须成功的压力感。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个同学因为在篮球比赛中表现出色，得到了全校的关注和赞扬。我感到非常羡慕。",
+                "location": "学校体育馆",
+                "happen_time": "2011年3月",
+                "participants": "同学、老师、同学们",
+                "impact": "这次事件进一步强化了'如果我表现完美，我会得到认可'的信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "我记得有一次在家里，看到父亲夸奖邻居家的孩子成绩好，我感到非常嫉妒和不安。",
+                "location": "家庭客厅",
+                "happen_time": "2008年10月",
+                "participants": "父亲、邻居家的孩子",
+                "impact": "这次事件加深了'父母只会认可那些表现完美的孩子'的信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到母亲和邻居聊天时，提到我在学校表现很好，我感到非常自豪。",
+                "location": "邻居家",
+                "happen_time": "2010年6月",
+                "participants": "母亲、邻居",
+                "impact": "这次事件强化了'我值得被尊重'的信念，并让我意识到自己在母亲眼中的重要性。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "安宁信",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中班会上，老师表扬了我的数学成绩，但接着提到我在其他科目上的表现还需提升。我当时心里很不是滋味，觉得自己远远不够好。",
+                "location": "初中教室",
+                "happen_time": "2012年9月",
+                "participants": "老师、同学",
+                "impact": "这次事件强化了我“我不够好”的核心信念，增加了自我要求和压力。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次篮球比赛中，我因为紧张而失误，导致球队输掉比赛。队友们虽然安慰我，但我觉得自己让大家失望了。",
+                "location": "学校篮球场",
+                "happen_time": "2013年5月",
+                "participants": "队友、教练",
+                "impact": "这次失败让我觉得自己必须完美无缺，否则会让他人失望，进一步强化了核心信念“我必须表现得完美才能得到认可”。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "高中第一次月考成绩不理想，我回家后被父亲严厉批评，他说我没有达到他的期望。",
+                "location": "家里",
+                "happen_time": "2014年10月",
+                "participants": "父亲、母亲",
+                "impact": "父亲的批评让我的自信心受挫，增加了我对自己的负面评价，觉得自己总是达不到期望。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "高二时，我主动参加了一个数学竞赛，并且取得了不错的成绩。老师和同学们都对我表示祝贺，这让我感到自己有能力应对挑战。",
+                "location": "学校礼堂",
+                "happen_time": "2015年4月",
+                "participants": "老师、同学",
+                "impact": "这次成功增强了我的自信心，让我相信自己能够通过努力克服学习上的困难，强化了“我有能力应对挑战”的核心信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "一次与母亲的深夜谈话中，她表示担心我的心理压力，并告诉我她永远支持我。",
+                "location": "家里客厅",
+                "happen_time": "2015年8月",
+                "participants": "母亲",
+                "impact": "母亲的关心让我感到温暖，缓解了一些心理压力，并让我相信自己值得被尊重。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一天，我看到一个同学因为考试失利而被父亲责骂，那个同学后来逐渐消沉下去。",
+                "location": "学校走廊",
+                "happen_time": "2015年11月",
+                "participants": "同学、同学的父亲",
+                "impact": "这次观察让我更加害怕失败，觉得如果我犯错，别人也会看不起我，强化了“我必须表现得完美才能得到认可”的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "高考前夕，我因为压力过大，几乎每晚都失眠。母亲送我去看医生，医生建议我进行心理咨询。",
+                "location": "医院",
+                "happen_time": "2016年5月",
+                "participants": "母亲、医生",
+                "impact": "这次经历让我认识到自己的心理健康问题，并开始尝试通过咨询和调整心态来缓解压力。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "高考结束后，我考上了一所不错的大学，父母对我表示了祝贺。",
+                "location": "家里",
+                "happen_time": "2016年6月",
+                "participants": "父母",
+                "impact": "这次成功让我感到自己的努力得到了回报，增强了自信心，但同时也让我觉得必须保持这种高水平的表现才能继续得到认可。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "高三时，一位同学因为长期承受学业压力而崩溃住院，这件事引起了全校的关注。",
+                "location": "学校",
+                "happen_time": "2016年3月",
+                "participants": "同学、老师、校医",
+                "impact": "这次事件让我意识到过度的学业压力对心理健康的严重影响，开始反思自己的压力管理方式。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "大学入学后，我加入了学校的篮球队，并在一次比赛中表现出色，得到了队友和教练的认可。",
+                "location": "大学篮球场",
+                "happen_time": "2017年9月",
+                "participants": "队友、教练",
+                "impact": "这次成功让我感到自己在新的环境中也能获得认可，增强了自信心和自我价值感。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "大学第一学期，我在期末考试中取得了不错的成绩，父母对此表示满意。",
+                "location": "家里",
+                "happen_time": "2017年12月",
+                "participants": "父母",
+                "impact": "这次成功让我感到自己的努力得到了认可，增强了自信心，但同时也感到必须继续保持这种表现。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "一次在图书馆自习时，我看到一位学长在准备研究生考试，他的努力和专注令我印象深刻。",
+                "location": "大学图书馆",
+                "happen_time": "2017年10月",
+                "participants": "学长",
+                "impact": "这次观察让我意识到要实现更高的目标需要持续的努力和专注，激励我更加努力学习。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "一次与导师的谈话中，他鼓励我尝试发表学术论文，并给予了很多指导。",
+                "location": "导师办公室",
+                "happen_time": "2017年11月",
+                "participants": "导师",
+                "impact": "导师的鼓励和指导让我感到自己有能力应对更大的挑战，增强了自信心和学术兴趣。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "在一次学术讲座上，我听到一位知名经济学家分享他的职业生涯和成功经验，这让我深受启发。",
+                "location": "大学礼堂",
+                "happen_time": "2017年12月",
+                "participants": "知名经济学家、其他学生",
+                "impact": "这次讲座让我对未来的职业发展有了更清晰的目标，并激发了我成为成功金融分析师的愿望。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "在一次校园招聘会上，我成功地通过了一家知名金融公司的初步面试。",
+                "location": "大学招聘会",
+                "happen_time": "2017年11月",
+                "participants": "招聘人员",
+                "impact": "这次成功让我感到自己的能力得到了外界的认可，增强了自信心，并坚定了进入金融行业的决心。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "安宁信",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "安宁信在工作中因一个计算错误被领导批评。领导在办公室里严厉地指出他的错误，并质疑他的能力。安宁信感到非常沮丧和羞愧，认为自己不够好。",
+                "location": "办公室",
+                "happen_time": "2024年1月",
+                "participants": "领导",
+                "impact": "这个事件加剧了安宁信的自我怀疑和不自信，强化了他“我不够好”的核心信念，导致他情绪低落和工作效率下降。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "安宁信在一次例行团队会议中，因紧张导致发言时出现口误，被同事们轻微嘲笑。这让他感到非常尴尬，觉得自己必须表现得完美才能被认可。",
+                "location": "会议室",
+                "happen_time": "2024年2月",
+                "participants": "同事",
+                "impact": "这个事件进一步强化了安宁信“我必须完美无缺，才能被认可”的中间信念，加重了他的焦虑感和对自我要求的压力。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "安宁信在一次重要的客户会议前一晚，因担心表现不好而失眠。结果在会议上精神不济，表现不佳，导致客户对他的专业能力提出质疑。",
+                "location": "客户公司会议室",
+                "happen_time": "2024年3月",
+                "participants": "客户",
+                "impact": "这种情况使安宁信“我不够好”的核心信念和“我必须完美无缺，才能被认可”的中间信念再次得到强化，进一步削弱了他的自信心和工作效率。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "安宁信在一次公司篮球赛中表现出色，获得了同事们的称赞和认可。这是他少有的感到自信和被尊重的时刻。",
+                "location": "公司篮球场",
+                "happen_time": "2024年4月",
+                "participants": "同事",
+                "impact": "这个积极的事件短暂提升了安宁信的自信心，使他感到自己有能力应对挑战并值得被尊重，但这种自信并没有持续太久。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "安宁信在家看财经书籍时，发现自己对内容越来越难以集中注意力，感觉到兴趣逐渐减退。这让他感到非常困惑和沮丧。",
+                "location": "家中",
+                "happen_time": "2024年5月",
+                "participants": "无",
+                "impact": "这种情况进一步加重了安宁信的抑郁情绪，使他感到对自己曾经热爱的事情失去了兴趣，进一步影响了他的心理健康。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "安宁信在与亲密朋友见面时，发现自己难以投入讨论，对朋友的关心也感到无力回应。他感到自己正在远离社会支持系统。",
+                "location": "咖啡馆",
+                "happen_time": "2024年6月",
+                "participants": "亲密朋友",
+                "impact": "这个事件使安宁信意识到自己在逐渐失去社交兴趣和支持，进一步加剧了他的孤独感和抑郁情绪。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "安宁信在一次家庭聚会中，父母对他最近的工作表现表示担忧，并再次提出高期望。他感到压力倍增，觉得自己永远达不到父母的期望。",
+                "location": "家中",
+                "happen_time": "2024年7月",
+                "participants": "父母",
+                "impact": "这个家庭事件强化了安宁信“我总是达不到自己的期望”的中间信念，增加了他的压力和焦虑感。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "安宁信在一次偶然的机会中，遇到一位老同学，对方现在是一名成功的金融分析师。对方的成功让安宁信感到自卑，觉得自己与别人的差距越来越大。",
+                "location": "街头",
+                "happen_time": "2024年8月",
+                "participants": "老同学",
+                "impact": "这个事件使安宁信感到自己不如别人，进一步加剧了他的自卑感和抑郁情绪，影响了他的长期目标信念。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "安宁信观察到一位同事因为工作中的小失误被领导公开批评，感到惊恐和不安。让他更加觉得自己必须避免犯错。",
+                "happen_time": "2023年11月",
+                "participants": "同事，领导",
+                "impact": "这个事件强化了安宁信“我应该避免犯错，时刻保持完美”的中间信念，加重了他的紧张和焦虑感。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "安宁信在公司年会上，看到同事因出色表现而被授予奖励，感到自己非常渺小和无能，认为自己永远无法达到这样的高度。",
+                "happen_time": "2023年12月",
+                "participants": "同事，公司领导",
+                "impact": "这个事件使安宁信感到自己不够好，进一步强化了他的自卑感和对自我的否定。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "安宁信在一次通宵加班后，因过度疲劳而导致第二天工作出错，受到领导的批评。他感到非常无力和绝望。",
+                "location": "办公室",
+                "happen_time": "2024年3月",
+                "participants": "领导，同事",
+                "impact": "这种情况加剧了安宁信的无力感和自我怀疑，使他更加感到自己不够好。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "安宁信在一次公司篮球赛中受伤，不得不休息几天。这让他感到失去了唯一能够减压的方式，情绪更加低落。",
+                "location": "公司篮球场",
+                "happen_time": "2024年5月",
+                "participants": "同事",
+                "impact": "受伤导致安宁信失去了重要的减压方式，进一步加剧了他的抑郁情绪和无力感。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "安宁信在一次重要项目中被调离核心岗位，感到自己不被信任和重视，情绪极度低落。",
+                "location": "公司",
+                "happen_time": "2024年6月",
+                "participants": "领导，同事",
+                "impact": "这个事件使安宁信感到自己不值得被尊重，进一步削弱了他的自信心和工作动力。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "安宁信观察到一位同事因工作出色而获得晋升，感到自己与对方差距巨大，心情非常低落。",
+                "happen_time": "2024年1月",
+                "participants": "同事，领导",
+                "impact": "这个事件使安宁信感到自己不够好，进一步加剧了他的自卑感和对自我的否定。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "安宁信在一次家庭聚会上，看到表哥因事业成功而受到全家人的赞扬，感到自己非常渺小和无能。",
+                "happen_time": "2023年10月",
+                "participants": "家人，表哥",
+                "impact": "这个事件使安宁信感到自己不如别人，进一步加剧了他的自卑感和压力。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "安宁信在一次社交活动中感到自己无法融入，情绪低落，觉得自己在社交方面也不够好。",
+                "location": "社交场所",
+                "happen_time": "2023年12月",
+                "participants": "同事，朋友",
+                "impact": "这个事件使安宁信感到自己在社交方面也不够好，进一步加剧了他的自卑感和焦虑情绪。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "安宁信在一次与朋友聊起未来计划时，感到自己没有明确的方向和目标，情绪非常低落。",
+                "location": "咖啡馆",
+                "happen_time": "2024年5月",
+                "participants": "朋友",
+                "impact": "这个事件使安宁信感到自己没有明确的方向和目标，进一步加剧了他的无力感和抑郁情绪。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "安宁信看到一位同事因压力过大而辞职，感到非常不安和焦虑，担心自己也会面临同样的情况。",
+                "happen_time": "2024年3月",
+                "participants": "同事",
+                "impact": "这个事件使安宁信感到工作压力巨大，进一步加剧了他的焦虑感和对未来的担忧。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "安宁信在一次与家人电话中，被父母再次询问职业发展的情况，他感到非常压力和无力。",
+                "location": "家中",
+                "happen_time": "2024年8月",
+                "participants": "父母",
+                "impact": "这个事件进一步加剧了安宁信的压力和无力感，使他感到自己永远达不到父母的期望。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "安宁信在公司年会上，看到一位同事因出色表现而被授予奖励，感到自己非常渺小和无能，认为自己永远无法达到这样的高度。",
+                "happen_time": "2023年12月",
+                "participants": "同事，公司领导",
+                "impact": "这个事件使安宁信感到自己不够好，进一步强化了他的自卑感和对自我的否定。"
+            }
+        ]
+    }
+}

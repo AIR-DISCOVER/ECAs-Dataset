@@ -1,0 +1,349 @@
+{
+    "childhood": {
+        "name": "吕枝薇",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在一次舞蹈比赛中，我获得了第一名。母亲在观众席上露出了难得的笑容，她告诉我她为我感到骄傲。这让我第一次感受到来自母亲的认可。",
+                "location": "某个中等城市的舞蹈比赛现场",
+                "happen_time": "2012年05月",
+                "participants": "吕枝薇, 母亲",
+                "impact": "这次经历强化了我'必须完美才能被认可'的核心信念，同时也让我感受到追求完美的正面奖励。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次学业成绩公布后，我没有达到父母的期望，母亲对我进行了严厉的批评，甚至责怪我没有付出足够的努力。",
+                "location": "家中",
+                "happen_time": "2013年06月",
+                "participants": "吕枝薇, 母亲",
+                "impact": "这次事件加深了我'如果我失败，我就没有价值'的核心信念，并让我更加努力地追求完美。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "在一次舞蹈训练中，我因为表现不好被舞蹈老师严厉批评，觉得非常丢脸和无助。",
+                "location": "舞蹈教室",
+                "happen_time": "2014年09月",
+                "participants": "吕枝薇, 舞蹈老师",
+                "impact": "这次经历让我更加坚定'我必须完美才能被认可'的核心信念，同时也让我更加害怕失败。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父亲在深夜加班回来后疲惫不堪，但还是抽出时间来陪我练习舞蹈。",
+                "location": "家中客厅",
+                "happen_time": "2015年03月",
+                "participants": "吕枝薇, 父亲",
+                "impact": "这次事件让我感受到父亲对我的支持和期望，同时也让我意识到'我有能力实现自己的梦想'。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，母亲公开表扬了我的舞蹈成绩，但对我在学业上的表现提出了批评。",
+                "location": "家中",
+                "happen_time": "2016年02月",
+                "participants": "吕枝薇, 母亲, 亲戚",
+                "impact": "这次经历让我感受到'我的价值取决于我的成功'，并加深了我对自己的怀疑。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在我生病期间，母亲仍然要求我完成每日的舞蹈训练，这让我感到非常疲惫和无力。",
+                "location": "家中",
+                "happen_time": "2016年11月",
+                "participants": "吕枝薇, 母亲",
+                "impact": "这次事件让我更加相信'我不值得被理解'，并让我感到自己的感受和想法不重要。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "一次，我在家中听见父母为我的学业和舞蹈训练争吵，母亲责怪父亲对我太过放纵。",
+                "location": "家中",
+                "happen_time": "2017年08月",
+                "participants": "吕枝薇, 父亲, 母亲",
+                "impact": "这次事件让我感到家庭压力和期望的矛盾，也让我更加坚持追求完美以避免家庭矛盾。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在一次舞蹈比赛中，我失误了，结果没有获得名次，母亲非常失望，甚至没有和我说话。",
+                "location": "某个中等城市的舞蹈比赛现场",
+                "happen_time": "2018年05月",
+                "participants": "吕枝薇, 母亲",
+                "impact": "这次经历让我深刻感受到'如果我失败，我就没有价值'，并让我更加害怕失败。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我观察到舞蹈老师在指导一位表现不佳的同学时态度非常严厉，这让我感到很紧张和不安。",
+                "location": "舞蹈教室",
+                "happen_time": "2018年03月",
+                "participants": "吕枝薇, 舞蹈老师, 同学",
+                "impact": "这次事件让我更加坚定'世界只接受成功和优秀的人'的信念，并加深了对自身表现的焦虑。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在一次学校的艺术节上，我的舞蹈表演获得了全校的赞扬，这让我感到非常自豪和开心。",
+                "location": "学校",
+                "happen_time": "2018年06月",
+                "participants": "吕枝薇, 同学, 老师",
+                "impact": "这次经历强化了我'我有能力实现自己的梦想'的核心信念，并让我感受到追求梦想的动力。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚餐中，母亲对我的学业表现提出了严厉的批评，甚至责骂我没有尽力。",
+                "location": "家中",
+                "happen_time": "2017年12月",
+                "participants": "吕枝薇, 母亲, 家庭成员",
+                "impact": "这次事件加深了我'如果我不努力，我会错失良机'的核心信念，并让我感到极大的压力和焦虑。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里听到母亲和邻居谈论我的未来，母亲表示她对我的期望很高，希望我能成为一名优秀的舞蹈演员。",
+                "location": "家中",
+                "happen_time": "2018年01月",
+                "participants": "吕枝薇, 母亲, 邻居",
+                "impact": "这次事件让我感受到母亲对我的期望和压力，同时也让我更加坚定追求梦想的决心。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在一次参加舞蹈集训营时，我因为表现优秀得到了舞蹈老师的特别指导，这让我非常开心和自信。",
+                "location": "集训营",
+                "happen_time": "2017年07月",
+                "participants": "吕枝薇, 舞蹈老师",
+                "impact": "这次经历让我感受到'如果我坚持努力，我会实现我的梦想'，并增加了我的自信心。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到母亲在厨房里擦着眼泪，她因为担心我的未来而感到压力。",
+                "location": "家中厨房",
+                "happen_time": "2018年04月",
+                "participants": "吕枝薇, 母亲",
+                "impact": "这次事件让我感受到母亲对我的担忧和期望，同时也让我感到自己必须更加努力才能不辜负她的期望。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "在一次学校的测验中，我的成绩不理想，母亲非常失望，甚至拒绝和我交流，这让我感到非常孤独和无助。",
+                "location": "家中",
+                "happen_time": "2018年02月",
+                "participants": "吕枝薇, 母亲",
+                "impact": "这次经历让我更加相信'如果我失败，我就没有价值'，并让我感到极大的压力和焦虑。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "吕枝薇",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次舞蹈训练中，我的舞蹈教练对我的表现非常不满，当着全班的面批评了我。教练说：'你最近的状态怎么这么差？这样的表现怎么可能成为专业舞者？' 我感到非常羞愧和无助。",
+                "location": "舞蹈教室",
+                "happen_time": "2024年1月",
+                "participants": "舞蹈教练，同学",
+                "impact": "这次事件加剧了我的自我怀疑和完美主义倾向，使我更加害怕失败和批评。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在期末考试前夕，我因为复习压力大，晚上无法入睡，导致白天精神恍惚。在考试当天，我发现自己记忆力变差，很多内容都记不清楚，考试结束后，我在考场外失声痛哭。",
+                "location": "学校考场",
+                "happen_time": "2024年2月",
+                "participants": "同学，监考老师",
+                "impact": "这次事件进一步加深了我的焦虑，使我对自己的学业能力产生了严重的怀疑。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我在学校里看到一位同学因为成绩不好被父母责骂，当时那位同学哭得很厉害。我站在一旁，心里觉得很难受，仿佛看到了自己的影子。",
+                "location": "学校走廊",
+                "happen_time": "2024年3月",
+                "participants": "同学，父母",
+                "impact": "这次事件让我更加确信，如果我不完美，我也会被父母责骂和失望。这加剧了我的完美主义倾向。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次舞蹈比赛中失误，舞蹈动作没有完成好，结果没有拿到奖项。当晚我回到家后，情绪崩溃，暴饮暴食，吃了很多零食。",
+                "location": "家中",
+                "happen_time": "2024年4月",
+                "participants": "无",
+                "impact": "这次失误让我感到自己非常失败，进一步加重了我的焦虑和自我怀疑。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在家里和父母争吵，父母责备我最近状态不好，成绩和舞蹈都没有进步。我忍不住哭了出来，说：'你们为什么不能理解我，我已经很努力了！'",
+                "location": "家中客厅",
+                "happen_time": "2024年5月",
+                "participants": "父母",
+                "impact": "这次争吵让我感到更加孤立无助，加深了我'我不值得被理解'的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位同学因为课外活动成绩优秀，受到了全校表扬。当时我心里非常羡慕，觉得自己也必须达到那样的高度才值得被认可。",
+                "location": "学校操场",
+                "happen_time": "2024年6月",
+                "participants": "同学，校长",
+                "impact": "这次事件强化了我的完美主义核心信念，我觉得只有完美才会被认可。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次心理咨询中向咨询师坦露了我的焦虑和压力，咨询师建议我给自己一些放松的时间，但我心里觉得如果放松了，就会失败。",
+                "location": "心理咨询室",
+                "happen_time": "2024年7月",
+                "participants": "心理咨询师",
+                "impact": "这次咨询让我意识到自己的焦虑问题，但我依然无法放松自己，担心这会影响我的表现。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，亲戚们不断问我未来的规划和成绩，我感到非常有压力，觉得自己必须要表现得很完美才能让他们满意。",
+                "location": "亲戚家",
+                "happen_time": "2024年8月",
+                "participants": "亲戚，父母",
+                "impact": "这次聚会让我感到更加孤立和紧张，觉得自己必须不断努力才能得到他人的认可。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位朋友因为坚持自己的梦想，得到了家人和朋友的支持和鼓励，内心感到非常羡慕，但也更加自责自己为什么无法获得同样的支持。",
+                "location": "学校社团",
+                "happen_time": "2023年12月",
+                "participants": "朋友，朋友的家人",
+                "impact": "这次事件让我更加觉得'我不值得被理解'，进一步加深了我的孤独感。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次舞蹈公开课上表现出色，得到了教练的表扬和同学们的掌声。教练说：'这才是我期待的表现！' 我感到非常高兴和自豪。",
+                "location": "舞蹈教室",
+                "happen_time": "2023年11月",
+                "participants": "舞蹈教练，同学",
+                "impact": "这次成功让我短暂地感到被认可，但也加深了我的完美主义倾向。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次绘画比赛中获得了二等奖，但我却因为没有拿到一等奖而感到自己不够好。母亲安慰我说：'已经很棒了，别太苛责自己。' 可我心里仍然觉得失望。",
+                "location": "比赛现场",
+                "happen_time": "2023年10月",
+                "participants": "母亲，比赛评委",
+                "impact": "这次事件让我感到自己的努力没有得到应有的回报，进一步加深了我对自己的怀疑。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位同学因为在舞台上失误而被观众嘲笑，当时我心里非常紧张，觉得如果是我，我也会崩溃。",
+                "location": "学校礼堂",
+                "happen_time": "2023年9月",
+                "participants": "同学，观众",
+                "impact": "这次事件加重了我对失败的恐惧，使我更加害怕在公众面前出错。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次家庭聚餐中听到父母讨论我的未来，他们说：'枝薇必须要考上好大学，未来才能有出息。' 我感到很大的压力，觉得自己不能让他们失望。",
+                "location": "家中餐厅",
+                "happen_time": "2023年8月",
+                "participants": "父母",
+                "impact": "这次谈话让我感到自己背负了巨大的期望，加重了我的焦虑和完美主义倾向。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次舞蹈训练中因为动作做得不好，被教练狠狠批评了一顿。同学们都看着我，我感到非常羞愧和无助。",
+                "location": "舞蹈教室",
+                "happen_time": "2023年7月",
+                "participants": "舞蹈教练，同学",
+                "impact": "这次批评让我感到自己非常失败，进一步加重了我的自我怀疑和焦虑。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位朋友因为考试成绩不好而被老师责骂，当时我心里非常紧张，觉得自己也有可能会面临同样的情况。",
+                "location": "学校课堂",
+                "happen_time": "2023年6月",
+                "participants": "朋友，老师",
+                "impact": "这次事件加重了我对学业失败的恐惧，使我更加努力地追求完美。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次舞蹈表演中表现出色，得到了观众的掌声和教练的表扬。我感到非常自豪，但同时也觉得必须一直保持这种状态才能被认可。",
+                "location": "学校礼堂",
+                "happen_time": "2023年5月",
+                "participants": "舞蹈教练，观众",
+                "impact": "这次成功让我感到被认可，但也加重了我对完美的追求。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次绘画课上因为作品不够好，被老师指出了很多问题。我感到非常挫败，觉得自己在艺术方面也不够优秀。",
+                "location": "学校美术教室",
+                "happen_time": "2023年4月",
+                "participants": "美术老师",
+                "impact": "这次批评让我感到自己在多方面都不够好，加深了我的自我怀疑。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位同学因为在舞蹈比赛中表现出色，得到了全校的表扬，心里非常羡慕，觉得自己也必须做到那样才能被认可。",
+                "location": "学校舞蹈室",
+                "happen_time": "2023年3月",
+                "participants": "同学，校长",
+                "impact": "这次事件强化了我的完美主义倾向，使我更加努力地追求完美。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次舞蹈训练中因为身体不适未能表现出色，教练批评我不够努力。我感到非常无助和焦虑，担心自己无法成为专业舞者。",
+                "location": "舞蹈教室",
+                "happen_time": "2023年2月",
+                "participants": "舞蹈教练",
+                "impact": "这次批评让我感到自己在追求梦想的道路上遇到了巨大的障碍，加重了我的焦虑和自我怀疑。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次家长会上听到老师和父母讨论我的表现，老师说：'她需要更加努力，才能考上好大学。' 我感到巨大的压力，觉得自己必须更加努力才能达到期望。",
+                "location": "学校教室",
+                "happen_time": "2023年1月",
+                "participants": "老师，父母",
+                "impact": "这次谈话让我感到自己背负了巨大的期望，加重了我的焦虑和完美主义倾向。"
+            }
+        ]
+    }
+}

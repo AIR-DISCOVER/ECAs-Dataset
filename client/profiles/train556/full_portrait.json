@@ -1,0 +1,202 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "缺乏自信",
+            "善良",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "皮肤较白",
+            "略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "看剧",
+                "阅读",
+                "听音乐"
+            ],
+            "activity": [
+                "独自看剧",
+                "在图书馆阅读",
+                "听音乐放松"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高学习成绩，增强自信心",
+            "long_term_goals": "找到自己真正热爱的事业，过上稳定的生活"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到学校上课，下午4点放学后在图书馆自习，晚上10点回宿舍休息。",
+            "weekends": "周末大部分时间在宿舍看剧或阅读，有时会去图书馆或校园散步。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母工作忙碌，童年时常感到孤独。",
+            "adolescence": "中学时期成绩一般，常因学习压力感到焦虑，曾因考试失利而自责。",
+            "recent_events": "最近一个月情绪波动较大，感觉自己在学业上拖累了小组，导致自信心进一步下降。"
+        },
+        "environment": "出生在一个小城市，家庭经济状况一般。高中毕业后考入省城的一所大学，目前住在学校宿舍。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲工作忙碌，但在有限的时间里尽量陪伴杨林厚。虽然交流不多，但父亲的关心和支持让杨林厚感到温暖。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲是杨林厚最亲近的人，尽管她也很忙，但总是尽力照顾杨林厚的生活和学习。母亲的温柔和耐心让杨林厚在孤独时感到安慰。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "童年时的两个朋友，虽然关系不错，但由于各自家庭的原因，见面的机会不多。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "随着学业压力增加，杨林厚与父亲的交流减少，但父亲依然在关键时刻给予支持。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是杨林厚最亲近的人，但由于学习压力，杨林厚有时会对母亲的关心感到烦躁。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期的同学，关系一般，主要是学习上的交流。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "两位老师对杨林厚的学习给予了很多帮助，但杨林厚总觉得自己辜负了他们的期望。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "大学期间与父亲的联系减少，但父亲依然关心杨林厚的生活和学习。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是杨林厚最亲近的人，虽然远在家乡，但经常通过电话关心杨林厚。"
+                    ]
+                },
+                {
+                    "relationship": "室友",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "大学宿舍的室友，关系一般，主要是生活上的交流。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 4,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "大学的同学，关系一般，主要是学习上的交流。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "最近开始接触的心理咨询师，杨林厚觉得与咨询师的交流让他感到一些安慰。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "杨林厚在不同阶段的社会关系变化较大。童年时主要依赖家庭，尤其是母亲的关爱。进入中学后，学业压力增加，与父母的交流减少，更多依赖同学和老师的支持。进入大学后，杨林厚的社会关系进一步扩展，但由于自信心不足和情绪波动，他与同学和室友的关系较为疏远。最近，他开始寻求心理咨询师的帮助，希望通过专业的指导改善自己的情绪和社交能力。"
+    }
+}

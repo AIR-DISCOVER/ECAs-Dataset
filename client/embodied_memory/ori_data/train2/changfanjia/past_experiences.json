@@ -1,0 +1,450 @@
+{
+    "childhood": {
+        "name": "昌凡嘉",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我记得大概5岁的时候，幼儿园的老师给我们布置了一道很难的数学题，我花了很长时间才解出来。当我把答案交上去时，老师夸奖了我，说我是班里最聪明的孩子。我感到非常开心，从那时起，我就觉得只要努力，就能获得成功。",
+                "location": "幼儿园教室",
+                "happen_time": "2007年3月",
+                "participants": "幼儿园老师，班级同学",
+                "impact": "正面影响。增强了昌凡嘉的自信心和努力学习的动机，形成了'我需要努力才能成功'和'我是有能力的'核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学二年级的一次语文考试，我由于粗心大意错了一道简单的题目，导致成绩不理想。当我把试卷拿回家时，妈妈看到后虽然没有责备我，但她明显有些失望。这让我感到非常难过，并发誓以后要更加认真。",
+                "location": "家中客厅",
+                "happen_time": "2009年5月",
+                "participants": "母亲",
+                "impact": "负面影响。增加了昌凡嘉的焦虑感，强化了'如果我不努力，我会让父母和老师失望'的中间信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，我参加了学校的绘画比赛并获得了一等奖。颁奖典礼上，校长当众表扬了我，我感到非常自豪。这次经历让我更加相信只要努力，就能取得好成绩，并得到大家的认可。",
+                "location": "学校礼堂",
+                "happen_time": "2011年11月",
+                "participants": "校长、同学、老师",
+                "impact": "正面影响。进一步强化了'如果我努力学习，我会在考试中取得好成绩，并得到大家的认可'的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我的好友李晓玲因为家庭搬迁转学了。我们在校门口告别的时候，她哭了，我也忍不住流下了眼泪。这让我第一次意识到生活中会有很多无法控制的变化。",
+                "location": "小学门口",
+                "happen_time": "2012年6月",
+                "participants": "李晓玲",
+                "impact": "负面影响。让昌凡嘉感受到了失去的重要性，形成了'压力和挑战是学习的一部分，我需要学会应对'的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "六年级时，我在一次重要的模拟考中取得了全班第一的成绩。父亲特意请假来参加家长会，并在会上表扬了我。这让我觉得自己的努力没有白费，父亲的认可让我感到非常满足。",
+                "location": "学校教室",
+                "happen_time": "2013年12月",
+                "participants": "父亲、班主任、同学父母",
+                "impact": "正面影响。增强了昌凡嘉的自信心和自我价值感，进一步强化了'我有能力在学习和生活中取得好成绩'的信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我和两个好朋友一起参加了一个科学小组。我们共同完成了一个小实验，并在学校的科学展上展示。虽然我们最后没有获奖，但我们一起合作的过程让我感受到了团队合作的重要性。",
+                "location": "学校实验室",
+                "happen_time": "2010年5月",
+                "participants": "两个好朋友",
+                "impact": "正面影响。培养了昌凡嘉的团队合作精神，增强了她在人际交往中的信心。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "小学一年级时，有一次我因为感冒请假在家休息。妈妈在我床边陪伴我，给我讲故事，还为我煮了我最喜欢的粥。这让我感到非常温暖和被关爱。",
+                "location": "家中卧室",
+                "happen_time": "2008年2月",
+                "participants": "母亲",
+                "impact": "正面影响。增强了昌凡嘉对家庭的依赖和对母亲的情感连接，形成了'父母和老师可以给予我帮助和支持'的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我参加了学校的排球队，但因为训练时间和学习时间冲突，我不得不选择退出。这让我感到非常失落，但也意识到学习的重要性。",
+                "location": "学校操场",
+                "happen_time": "2012年9月",
+                "participants": "排球队教练、队友",
+                "impact": "负面影响。让昌凡嘉感受到了平衡学习和兴趣爱好的困难，强化了'我必须在学习上付出更多努力，才能保持优异的成绩'的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在班上看到一个同学因为没有完成作业被老师严厉批评。那位同学当场哭了，我感到非常震惊。",
+                "location": "学校教室",
+                "happen_time": "2010年4月",
+                "participants": "同学、老师",
+                "impact": "负面影响。让昌凡嘉感到对失败的恐惧，强化了'如果我表现不佳，我会被忽视或批评'的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我和妈妈一起去图书馆借书。我们坐在阅读区一起阅读，当时我觉得非常幸福。这让我养成了爱阅读的习惯。",
+                "location": "市图书馆",
+                "happen_time": "2014年3月",
+                "participants": "母亲",
+                "impact": "正面影响。增强了昌凡嘉对阅读的兴趣，培养了她的学习习惯和知识积累。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，我在一次班级演讲比赛中紧张到说不出话来，后来在老师和同学的鼓励下，我重新站上了讲台并完成了演讲。虽然没有获奖，但我感到克服了自己的恐惧。",
+                "location": "学校教室",
+                "happen_time": "2011年9月",
+                "participants": "老师、同学",
+                "impact": "正面影响。增强了昌凡嘉的自信心和面对挑战的勇气，形成了'如果我面对学习上的挑战，我会变得更强大'的中间信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我在一次数学竞赛中因为过度紧张，导致发挥失常，成绩不理想。回家后，我感到非常沮丧，父亲安慰我，告诉我失败是成功之母，只要努力，下次一定会更好。",
+                "location": "家中客厅",
+                "happen_time": "2010年12月",
+                "participants": "父亲",
+                "impact": "正面影响。父亲的鼓励帮助昌凡嘉减轻了焦虑，增强了她的抗挫能力。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里听到父母在房间里讨论家里的经济情况，虽然他们没有吵架，但说话的语气很沉重。这让我第一次意识到家庭经济压力的存在。",
+                "location": "家中",
+                "happen_time": "2013年5月",
+                "participants": "父母",
+                "impact": "负面影响。让昌凡嘉感受到家庭经济压力，增加了她对未来的不确定感和焦虑。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "小学二年级时，我在一次班级活动中表现优异，班主任特意在全班面前表扬了我。这让我感到非常开心，并激励我在以后更多的班级活动中积极表现。",
+                "location": "学校教室",
+                "happen_time": "2009年10月",
+                "participants": "班主任、同学",
+                "impact": "正面影响。增强了昌凡嘉的自信心和参与班级活动的积极性，进一步强化了'表现优秀的人才能获得认可和赞赏'的中间信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，我和父亲一起去爬山，途中遇到了一段很陡的山路，我几次差点摔倒，感到非常害怕。但在父亲的鼓励下，我最终克服了恐惧，成功登上了山顶。",
+                "location": "郊外山脉",
+                "happen_time": "2011年7月",
+                "participants": "父亲",
+                "impact": "正面影响。增强了昌凡嘉在面对困难时的毅力和勇气，强化了'如果我面对学习上的挑战，我会变得更强大'的中间信念。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "昌凡嘉",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中时，有一次在数学考试中，我因为一题小失误而导致成绩不理想。那天我回到家，妈妈发现了我的成绩单，虽然她没有责备我，但我能看到她眼中的失望。这让我感到非常内疚和焦虑，觉得自己没有达到预期。",
+                "location": "家中",
+                "happen_time": "2015年6月",
+                "participants": "昌凡嘉, 妈妈",
+                "impact": "这次事件加深了我对“我必须不断努力，才能取得好成绩”的信念，也让我开始对自己的表现更加严格，避免再次犯错。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "初二时，我在美术社团的年终画展上获得了二等奖。那天班主任特意在班会上表扬了我，说我不仅成绩优秀，在艺术方面也有很大潜力。这让我感到非常自豪和有成就感。",
+                "location": "学校，班级教室",
+                "happen_time": "2016年12月",
+                "participants": "昌凡嘉, 班主任, 同学",
+                "impact": "这次表扬增强了我的自信心，使我更加相信自己在各个方面都有能力应对挑战。同时，也让我对“他人会根据我的表现来评价我的价值”的信念有了更深的认同。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "高一时，我看到一个同学在压力下突然崩溃，哭着跑出了教室。当时班主任和几位同学赶紧追了出去安慰她。那一刻我意识到，原来不止我一个人会在压力下感到焦虑，大家都有脆弱的时候。",
+                "location": "学校，教室",
+                "happen_time": "2017年5月",
+                "participants": "昌凡嘉, 一位同学, 班主任, 其他同学",
+                "impact": "这个事件让我对自己的焦虑有了新的理解，开始接受焦虑是正常的情感反应。同时，也让我更加珍惜身边的支持网络。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "高二时，我参加了一次省级美术比赛。虽然最终没有获奖，但在准备过程中，我得到了许多老师和同学的支持，特别是班主任的鼓励，让我感到自己并不孤单。",
+                "location": "省城，比赛现场",
+                "happen_time": "2018年8月",
+                "participants": "昌凡嘉, 班主任, 美术社团成员, 其他参赛者",
+                "impact": "虽然结果不如人意，但比赛的经历让我更加相信‘他人可以帮助和支持我，但我能独立处理大部分问题’的信念，并增强了面对挑战的勇气。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一天放学后，我偶然看到班主任在办公室里认真备课，虽然已经很晚了。这让我意识到，成功真的需要付出大量时间和努力。",
+                "location": "学校，教师办公室",
+                "happen_time": "2018年10月",
+                "participants": "昌凡嘉, 班主任",
+                "impact": "班主任的勤奋工作态度深深影响了我，强化了‘成功需要付出大量的努力和时间’的信念，使我更加坚定地投入到学习中。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高三时，我在一次模拟考试中取得了全班第一。那天我感到无比喜悦，班主任也特意表扬了我。这让我对自己更加有信心，觉得自己的努力没有白费。",
+                "location": "学校，教室",
+                "happen_time": "2019年4月",
+                "participants": "昌凡嘉, 班主任, 同学",
+                "impact": "这次成功让我更加坚定‘我需要努力才能成功’的信念，也让我在面对未来的挑战时充满信心。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "高考前夕，我经历了一段非常焦虑的时期。每天晚上都难以入睡，担心自己的复习不够充分。",
+                "location": "家中",
+                "happen_time": "2019年5月",
+                "participants": "昌凡嘉, 父母",
+                "impact": "这段时间的焦虑加深了我对‘我容易在压力下感到焦虑’的认识，也让我明白了需要学会更多的压力管理技巧。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "高考结束后，我顺利考上了省城的一所大学。那天我和家人一起庆祝，感到所有的努力都得到了回报。",
+                "location": "家中",
+                "happen_time": "2019年7月",
+                "participants": "昌凡嘉, 父母",
+                "impact": "这次成功让我更加坚定了‘我需要努力才能成功’和‘我是有能力的’信念，增强了对未来的信心。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "大学开学后，我第一次离开家去省城，对新环境感到既兴奋又有些不安。虽然陌生，但我很快结识了一些新朋友，并加入了学校的美术社团。",
+                "location": "省城，大学校园",
+                "happen_time": "2019年9月",
+                "participants": "昌凡嘉, 大学同学, 美术社团成员",
+                "impact": "新的社交环境和支持网络让我逐渐适应了大学生活，增强了‘我有能力面对学习和生活中的挑战’的信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "在大学的一次讲座上，我听到一位成功的企业家讲述他如何通过不断努力和坚持，最终取得了巨大的成就。这让我深受启发，觉得只要自己足够努力，也能实现梦想。",
+                "location": "省城，大学讲座厅",
+                "happen_time": "2019年11月",
+                "participants": "昌凡嘉, 讲座嘉宾, 其他听众",
+                "impact": "这次讲座强化了‘成功需要付出大量的努力和时间’的信念，并激励我更加努力地追求自己的目标。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "大一末期，我在期末考试中取得了优异成绩，这让我感到非常自豪，也让我对未来更加充满信心。",
+                "location": "省城，大学校园",
+                "happen_time": "2020年1月",
+                "participants": "昌凡嘉, 大学同学, 教授",
+                "impact": "这次成功进一步增强了‘我需要努力才能成功’和‘我是有能力的’信念，使我在面对未来挑战时更加坚定。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次在图书馆，我看到一位同学在备考过程中因为过度焦虑而晕倒，这让我意识到，过度的压力对身体和心理都可能造成严重影响。",
+                "location": "省城，大学图书馆",
+                "happen_time": "2020年3月",
+                "participants": "昌凡嘉, 一位同学, 图书馆工作人员",
+                "impact": "这个事件让我更加重视压力管理，并开始寻找一些放松和调整心态的方法。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "大二时，我在一次课外活动中担任小组组长，带领团队完成了一个重要项目。虽然过程中遇到了很多挑战，但最终顺利完成了任务。",
+                "location": "省城，大学校园",
+                "happen_time": "2020年5月",
+                "participants": "昌凡嘉, 小组成员, 指导老师",
+                "impact": "这次领导经历让我更加相信‘我有能力面对学习和生活中的挑战’的信念，同时增强了我的团队合作和领导能力。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在社团活动中看到一位学长在自己的画作前流泪，后来得知他因为家庭变故而感到无助。这让我明白，每个人都有自己的困境和挑战。",
+                "location": "省城，大学美术社团活动室",
+                "happen_time": "2020年7月",
+                "participants": "昌凡嘉, 学长, 美术社团成员",
+                "impact": "这个事件让我对他人的困难有了更多的理解和同情，也让我更加珍惜身边的支持网络。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "在备考研究生的过程中，我感到非常疲惫和压力山大，但每当想到自己的目标和梦想，就会重新振作起来，继续努力。",
+                "location": "省城，大学宿舍",
+                "happen_time": "2020年9月",
+                "participants": "昌凡嘉",
+                "impact": "这段时间的努力和坚持让我更加坚定‘我需要努力才能成功’的信念，同时也强化了‘如果我面对挑战，我会变得更强大，并获得宝贵的经验’的信念。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "昌凡嘉",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2020年初，我刚进入大学，第一次参加了大学的迎新晚会，结识了几位新朋友。虽然内向，但我努力克服了紧张，与他们建立了初步的友谊。",
+                "location": "大学校园",
+                "happen_time": "2020年9月",
+                "participants": "大学同学",
+                "impact": "增强了我的自信心，感觉自己能够适应新的环境和结识新朋友。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在大一的期末考试中取得了优异的成绩，感到非常自豪。成绩出来后，导师表扬了我，这让我对自己的能力有了更多信心。",
+                "location": "大学教室",
+                "happen_time": "2021年1月",
+                "participants": "导师，同学",
+                "impact": "强化了核心信念‘我是有能力的’，并激励我继续努力学习。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到一位成绩优异的学长因为选错了专业而陷入抑郁，最终选择休学。让我感受到专业选择的重要性以及失败的后果。",
+                "location": "大学校园",
+                "happen_time": "2021年3月",
+                "participants": "学长",
+                "impact": "加重了对失败的恐惧，使我更加努力以避免类似的情况。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我参加了学校的一个社团，虽然起初有些紧张，但后来逐渐融入了团队，结识了更多朋友。",
+                "location": "社团活动室",
+                "happen_time": "2021年6月",
+                "participants": "社团成员",
+                "impact": "增强了社交能力，缓解了焦虑情绪。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "大二期中考试时，由于复习不充分，成绩不理想，这让我感到非常自责和焦虑。",
+                "location": "大学教室",
+                "happen_time": "2022年5月",
+                "participants": "同学",
+                "impact": "加重了‘如果我不努力，我会失败’的中间信念，导致更多的自我压力。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到一位室友因家庭经济困难而不得不辍学，这让我意识到自己是多么幸运，并感受到一种无形的压力。",
+                "location": "宿舍",
+                "happen_time": "2022年10月",
+                "participants": "室友",
+                "impact": "强化了‘我需要努力才能成功’的核心信念，使我更加珍惜学习机会，但也加重了我的心理负担。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在大三的一次公开演讲比赛中获奖，得到了导师和同学们的称赞，感到非常骄傲和自信。",
+                "location": "大学礼堂",
+                "happen_time": "2023年4月",
+                "participants": "导师，同学",
+                "impact": "增强了核心信念‘我是有能力的’，并激励我在其他方面也表现得更好。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "备考研究生期间，我发现自己很容易犯困，学习效率不高，感到非常焦虑和无助。",
+                "location": "图书馆",
+                "happen_time": "2023年10月",
+                "participants": "图书馆管理员",
+                "impact": "强化了‘我容易感到焦虑’的核心信念，导致情绪波动和自我怀疑。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到一位朋友因为长期学习压力过大而出现了严重的焦虑症状，这让我开始担心自己的心理健康。",
+                "location": "大学校园",
+                "happen_time": "2023年11月",
+                "participants": "朋友",
+                "impact": "加重了对焦虑的担忧，使我开始更加关注自己的心理状态。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年1月，我在一次模拟考试中表现不佳，感到非常沮丧和焦虑，甚至怀疑自己是否能通过研究生考试。",
+                "location": "大学教室",
+                "happen_time": "2024年1月",
+                "participants": "同学",
+                "impact": "加重了‘如果我不努力，我会失败’的中间信念，导致更多的心理压力和焦虑。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在导师的建议下，我参加了一次心理辅导课程，学会了一些压力管理技巧，感觉有所缓解。",
+                "location": "心理咨询室",
+                "happen_time": "2024年3月",
+                "participants": "导师，心理咨询师",
+                "impact": "帮助我认识到管理焦虑的重要性，增强了应对压力的能力。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到一位同学因为备考期间过度焦虑，导致身体健康出现问题，这让我开始更加关注自己的健康状况。",
+                "location": "大学校园",
+                "happen_time": "2024年4月",
+                "participants": "同学",
+                "impact": "强化了‘我容易感到焦虑’的核心信念，使我更加重视心理和身体健康的平衡。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与朋友的聚会上，我倾诉了备考的压力，朋友们给予了很多鼓励和支持，感到情绪有所缓解。",
+                "location": "咖啡馆",
+                "happen_time": "2024年5月",
+                "participants": "朋友",
+                "impact": "增强了‘他人可以帮助和支持我’的中间信念，减轻了部分焦虑。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年6月，我在最后一次模拟考试中取得了优异成绩，这让我对即将到来的研究生考试充满信心。",
+                "location": "大学教室",
+                "happen_time": "2024年6月",
+                "participants": "同学",
+                "impact": "增强了核心信念‘我是有能力的’，减轻了部分焦虑。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年7月，研究生考试结果出来了，我顺利通过了考试，感到非常开心和满足。",
+                "location": "大学校园",
+                "happen_time": "2024年7月",
+                "participants": "导师，同学",
+                "impact": "极大地增强了自信心，证实了‘我有能力面对学习和生活中的挑战’的中间信念。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年8月，暑假期间，我和家人一起度过了一个愉快的假期，放松了身心，为即将开始的研究生生活做好了准备。",
+                "location": "家庭度假地点",
+                "happen_time": "2024年8月",
+                "participants": "家人",
+                "impact": "缓解了大量备考期间积累的压力，增强了心理韧性。"
+            }
+        ]
+    }
+}

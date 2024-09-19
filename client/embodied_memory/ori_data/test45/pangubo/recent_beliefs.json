@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我是有能力的。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我必须赢得别人的认可。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我值得被爱和支持。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我经常犯错误，无法达到预期。",
+                "others": "别人会挑剔和批评我。",
+                "world": "这个世界对我的要求很高，我很难符合。"
+            },
+            "rules": "我必须避免犯错，否则会让别人失望。",
+            "positive_assumption": "如果我避免犯错，我就能减少别人的批评。",
+            "negative_assumption": "如果我犯错，我会被视为无能和失败。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是感到不足和不完美。",
+                "others": "别人会发现我的缺点。",
+                "world": "世界总是充满竞争和压力。"
+            },
+            "rules": "我必须不断努力提高自己。",
+            "positive_assumption": "如果我努力提高自己，我就能变得更好。",
+            "negative_assumption": "如果我不努力，我就会被别人超越。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我能解决问题并取得成功。",
+                "others": "他们会看到我的能力和价值。",
+                "world": "世界充满机会和挑战，我可以应对。"
+            },
+            "rules": "我应该积极面对挑战，展示我的能力。",
+            "positive_assumption": "如果我积极面对挑战，我会获得成功和认可。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有足够的能力和资源去实现目标。",
+                "others": "他们会支持和帮助我。",
+                "world": "世界是充满机会的，我可以把握这些机会。"
+            },
+            "rules": "我应该主动寻求帮助和支持。",
+            "positive_assumption": "如果我寻求帮助，我会更快地实现目标。",
+            "negative_assumption": "如果我不寻求帮助，我可能会面临更多困难。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要别人认可才能感到自我价值。",
+                "others": "他们的认可是对我价值的确认。",
+                "world": "世界对我有很多期望，我需要满足这些期望。"
+            },
+            "rules": "我必须表现得完美，才能赢得认可。",
+            "positive_assumption": "如果我表现得完美，我会被认可和尊重。",
+            "negative_assumption": "如果我不完美，我会被忽视或批评。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要不断证明自己的价值。",
+                "others": "他们的认可证明了我的努力和价值。",
+                "world": "世界是竞争激烈的，我需要不断努力才能被认可。"
+            },
+            "rules": "我必须不断努力和进步，才能得到认可。",
+            "positive_assumption": "如果我不断努力，我会获得更多的认可和成功。",
+            "negative_assumption": "如果我不努力，我会被遗忘和忽视。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我值得被爱和支持，即使我有缺点。",
+                "others": "他们会理解和支持我。",
+                "world": "世界上有很多人愿意帮助和支持我。"
+            },
+            "rules": "我应该接受自己的不完美，并寻求支持。",
+            "positive_assumption": "如果我接受自己的不完美，我会感到更自在和被爱。",
+            "negative_assumption": "如果我不接受自己的不完美，我会感到压力和孤独。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我值得拥有幸福和支持。",
+                "others": "他们会给予我关爱和支持。",
+                "world": "世界上有很多美好的事物，我值得拥有。"
+            },
+            "rules": "我应该主动寻求幸福和支持。",
+            "positive_assumption": "如果我寻求幸福和支持，我会感到更快乐和满足。",
+            "negative_assumption": "如果我不寻求幸福和支持，我会感到孤立和失落。"
+        }
+    ]
+}

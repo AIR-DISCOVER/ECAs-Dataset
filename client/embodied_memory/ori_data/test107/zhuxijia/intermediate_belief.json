@@ -1,0 +1,272 @@
+{
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决问题，并面对生活中的挑战。",
+                "others": "他人可以帮助我，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我的每一个失败都证明我是一个失败者。",
+                "others": "他人会看不起我。",
+                "world": "这个世界对失败者不宽容。"
+            },
+            "rules": "我应该避免尝试新的事物，以免再次失败。",
+            "positive_assumption": "如果我避免尝试，我就不会失败。",
+            "negative_assumption": "如果我尝试新的事物，我会再次失败。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我无论怎么努力也不会被认可。",
+                "others": "他人不会真正注意到我的努力。",
+                "world": "这个世界是冷漠的，不会给予我认可。"
+            },
+            "rules": "我应该尽量避免引起他人的注意。",
+            "positive_assumption": "如果我不引起注意，我就不会感到失望。",
+            "negative_assumption": "如果我引起注意，我会感到失望。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法胜任这份实习工作。",
+                "others": "他人会认为我无能。",
+                "world": "工作上的成功是少数人的特权。"
+            },
+            "rules": "我应该避免承担责任，以免暴露自己的无能。",
+            "positive_assumption": "如果我避免承担责任，我就不会显得无能。",
+            "negative_assumption": "如果我承担责任，我会暴露自己的无能。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能得到他人的认可，那是因为我不值得被爱。",
+                "others": "别人不会真正关心我。",
+                "world": "在这个世界上，只有少数人能被真正爱护。"
+            },
+            "rules": "我应该避免依赖他人，以免受到伤害。",
+            "positive_assumption": "如果我独立，我就不会感到失望。",
+            "negative_assumption": "如果我依赖他人，我会受到伤害。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决一些学习上的问题，并面对学业中的挑战。",
+                "others": "同学和朋友可以帮助我，但我有信心自己处理大部分学习问题。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到学业挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对学业挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避学业挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我的每一次考试失败都证明我是一个失败者。",
+                "others": "老师和同学会看不起我。",
+                "world": "这个世界对失败者不宽容。"
+            },
+            "rules": "我应该避免尝试新的学习方法，以免再次失败。",
+            "positive_assumption": "如果我避免尝试，我就不会失败。",
+            "negative_assumption": "如果我尝试新的学习方法，我会再次失败。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我无论怎么努力也不会被认可。",
+                "others": "他人不会真正注意到我的努力。",
+                "world": "这个世界是冷漠的，不会给予我认可。"
+            },
+            "rules": "我应该尽量避免引起他人的注意。",
+            "positive_assumption": "如果我不引起注意，我就不会感到失望。",
+            "negative_assumption": "如果我引起注意，我会感到失望。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法胜任学习任务。",
+                "others": "老师和父母会认为我无能。",
+                "world": "学业上的成功是少数人的特权。"
+            },
+            "rules": "我应该避免承担难度大的任务，以免暴露自己的无能。",
+            "positive_assumption": "如果我避免承担责任，我就不会显得无能。",
+            "negative_assumption": "如果我承担责任，我会暴露自己的无能。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能得到父母和老师的认可，那是因为我不值得被爱。",
+                "others": "别人不会真正关心我，尤其是当我表现不好时。",
+                "world": "在这个世界上，只有表现优异的人才能被真正爱护。"
+            },
+            "rules": "我应该避免依赖他人，以免受到更多的批评和伤害。",
+            "positive_assumption": "如果我独立，我就不会感到失望。",
+            "negative_assumption": "如果我依赖他人，我会受到伤害。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决问题，并面对生活中的挑战。",
+                "others": "他人可以帮助我，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我的每一个失败都证明我是一个失败者。",
+                "others": "父母会看不起我。",
+                "world": "这个世界对失败者不宽容。"
+            },
+            "rules": "我应该避免尝试新的事物，以免再次失败。",
+            "positive_assumption": "如果我避免尝试，我就不会失败。",
+            "negative_assumption": "如果我尝试新的事物，我会再次失败。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我无论怎么努力也不会被认可。",
+                "others": "父母不会真正注意到我的努力。",
+                "world": "这个世界是冷漠的，不会给予我认可。"
+            },
+            "rules": "我应该尽量避免引起他人的注意。",
+            "positive_assumption": "如果我不引起注意，我就不会感到失望。",
+            "negative_assumption": "如果我引起注意，我会感到失望。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法胜任任何事情。",
+                "others": "父母会认为我无能。",
+                "world": "成功是少数人的特权。"
+            },
+            "rules": "我应该避免尝试新事物，以免暴露自己的无能。",
+            "positive_assumption": "如果我避免尝试，我就不会显得无能。",
+            "negative_assumption": "如果我尝试新事物，我会暴露自己的无能。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果父母不陪伴我，那是因为我不值得被爱。",
+                "others": "别人不会真正关心我。",
+                "world": "在这个世界上，只有少数人能被真正爱护。"
+            },
+            "rules": "我应该避免依赖他人，以免受到伤害。",
+            "positive_assumption": "如果我独立，我就不会感到失望。",
+            "negative_assumption": "如果我依赖他人，我会受到伤害。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

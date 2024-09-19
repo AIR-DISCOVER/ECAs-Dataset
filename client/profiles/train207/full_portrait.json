@@ -1,0 +1,191 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自我怀疑",
+            "勤奋",
+            "有责任心"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "长发",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "写日记",
+                "散步"
+            ],
+            "activity": [
+                "和朋友一起去图书馆",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "顺利通过考研，进入理想的研究生院",
+            "long_term_goals": "成为一名优秀的学者，能够在学术领域有所建树"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，吃完早餐后去图书馆或自习室复习，下午继续学习，晚上回宿舍休息。",
+            "weekends": "周末会去公园散步，放松心情，有时会和朋友一起去咖啡馆聊天。"
+        },
+        "past_experiences": {
+            "childhood": "小时候在一个小城市长大，家庭和睦，父母对她的期望很高。",
+            "adolescence": "中学时期成绩优异，但因为学习压力大，曾经有过几次情绪低落的经历。",
+            "recent_events": "最近因为考研压力大，出现了焦虑和躯体症状，影响了正常的学习和生活。"
+        },
+        "environment": "出生在一个小城市，家庭经济状况一般，但父母非常重视她的教育。高中毕业后考入了一所省会城市的大学，目前正在准备考研。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "褚育黛的父亲是一名中学教师，对她的教育非常重视。父亲在她小时候经常陪她做作业，带她去图书馆，培养了她对学习的兴趣。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "褚育黛的母亲是一名护士，工作繁忙但对家庭非常关心。母亲在她小时候经常给她讲故事，教她如何与人相处。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "褚育黛在小学时有几个好朋友，他们经常一起玩耍、学习。虽然现在联系不多，但这些朋友在她的童年中留下了深刻的印象。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "进入中学后，父亲对她的期望更高，经常督促她学习。虽然有时会感到压力，但她知道父亲是为了她好。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲在她中学时期依然关心她的生活和学习，虽然工作繁忙，但总是尽量抽出时间陪她。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期的同学关系较为复杂，有些同学成为了她的朋友，有些则只是普通的同学。她在这个阶段学会了如何处理人际关系。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "她的几位老师对她的学习和成长有很大影响，特别是班主任和数学老师，他们不仅在学业上给予她帮助，还在生活上给予她关心。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲依然对她的学业非常关心，虽然她已经上了大学，但父亲经常打电话询问她的学习情况，并给予她鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然关心她的生活和健康，特别是在她出现焦虑症状后，母亲更加关注她的心理状态。"
+                    ]
+                },
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "大学期间，她结识了一些新朋友，他们经常一起学习、讨论问题。这些朋友在她的大学生活中扮演了重要角色。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "她的导师对她的学术发展给予了很多指导和帮助，虽然关系不如家人和朋友亲密，但导师的建议对她非常重要。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "褚育黛在不同阶段的社会关系发生了显著变化。童年时期，她的主要社会关系集中在家庭和少数朋友身上，关系较为简单和亲密。进入中学后，随着学业压力的增加，她的社会关系变得更加复杂，开始学会处理与同学和老师的关系。进入大学后，她的社会关系进一步扩展，结识了更多的朋友和导师，但也面临更多的压力和挑战。最近因为考研压力大，她的焦虑症状加重，导致她对社会关系的处理能力有所下降，但她依然在努力维持与家人和朋友的联系。"
+    }
+}

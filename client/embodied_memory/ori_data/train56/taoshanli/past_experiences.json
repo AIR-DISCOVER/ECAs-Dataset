@@ -1,0 +1,422 @@
+{
+    "childhood": {
+        "name": "陶山利",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我记得有一次，爸爸带我去军博物馆。他指着一架战机给我讲解战斗机的构造和用途。我看着他眼中的热情，心里充满了对军事的向往。",
+                "location": "军博物馆",
+                "happen_time": "2003年10月",
+                "participants": "陶山利、父亲",
+                "impact": "这次经历强化了陶山利对军事的兴趣，让他感受到父亲的关爱和支持，并激发了他对未来成为军人的梦想。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我的成绩一度下滑。老师在班会上批评了我。我感到非常羞愧，回家后埋头苦读，决心一定要考好。",
+                "location": "学校教室、家中",
+                "happen_time": "2005年5月",
+                "participants": "陶山利、老师、家人",
+                "impact": "这次事件让陶山利形成了‘必须成功才能证明自己的价值’的核心信念，促使他在以后的学习和生活中更加努力。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到妈妈在厨房忙碌，突然接到了奶奶生病的电话。妈妈放下手中的事，立刻赶去医院。我看到她的紧张和焦虑，心里也有些不安。",
+                "location": "家中厨房、医院",
+                "happen_time": "2006年9月",
+                "participants": "陶山利、母亲、奶奶",
+                "impact": "这次事件让陶山利意识到生活中的不确定性，加深了他‘世界是不可预测的’的信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "我和小伙伴们经常在小区里玩打仗游戏。有一次，我当了‘队长’，带领大家‘攻破’了对方的‘阵地’。大家都很高兴，拍着我的肩膀说我有领导才能。",
+                "location": "小区",
+                "happen_time": "2007年4月",
+                "participants": "陶山利、小伙伴们",
+                "impact": "这次经历增强了陶山利的自信心，让他更加相信自己的能力。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "六年级时，班里组织了一次野营活动。我负责搭帐篷，虽然有些困难，但最终成功了。老师和同学们都夸我能干。",
+                "location": "郊外营地",
+                "happen_time": "2008年6月",
+                "participants": "陶山利、老师、同学们",
+                "impact": "这次活动让陶山利感受到成就感，进一步巩固了他‘我是有能力的’的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，在上学的路上，我看到一个小孩摔倒了。他的妈妈立刻跑过去，把他扶起来，温柔地安慰他。我感受到母爱的力量。",
+                "location": "上学路上",
+                "happen_time": "2002年3月",
+                "participants": "陶山利、陌生孩子及其母亲",
+                "impact": "这次事件让陶山利更加珍惜母亲的关爱，增强了他对家庭温暖的依赖感。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "有一次，我和爸爸一起去钓鱼。虽然一开始没有钓到鱼，但爸爸鼓励我不要放弃，最终我们钓到了一条大鱼。",
+                "location": "郊外河边",
+                "happen_time": "2004年8月",
+                "participants": "陶山利、父亲",
+                "impact": "这次经历让陶山利体会到坚持和努力的重要性，增强了他的耐心和毅力。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的小孩因为考试没考好被父母责骂，心里感到难受。",
+                "location": "邻居家",
+                "happen_time": "2006年11月",
+                "participants": "陶山利、邻居孩子及其父母",
+                "impact": "这件事让陶山利对成绩的重视进一步加强，同时也感受到压力。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "有一次，学校组织了一次演讲比赛。我准备了很久，但在上台前非常紧张。最后，我克服了紧张，顺利完成了演讲，并获得了三等奖。",
+                "location": "学校礼堂",
+                "happen_time": "2008年12月",
+                "participants": "陶山利、老师、同学们",
+                "impact": "这次经历让陶山利感受到挑战自我和克服困难的成就感，增强了自信心。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "有一次，我生病了，妈妈在床边照顾了我一整夜。我感受到她的关爱和温暖。",
+                "location": "家中卧室",
+                "happen_time": "2005年2月",
+                "participants": "陶山利、母亲",
+                "impact": "这次经历让陶山利更加依赖和珍惜母亲的关爱，增强了对家庭的归属感。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到爸爸因为工作压力大而烦躁不安，妈妈耐心地安慰他。这让我感受到家庭成员之间的支持和理解。",
+                "location": "家中客厅",
+                "happen_time": "2007年7月",
+                "participants": "陶山利、父母",
+                "impact": "这次事件让陶山利理解了家庭支持的重要性，并感受到家庭的温暖。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "有一次，我和小伙伴们在小区里玩时，因为意见不合产生了争执，最后我们通过协商解决了问题。",
+                "location": "小区",
+                "happen_time": "2007年11月",
+                "participants": "陶山利、小伙伴们",
+                "impact": "这次经历让陶山利学会了如何处理人际关系和解决冲突，增强了社交能力。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个同学因为搬家要离开学校，大家都很不舍。我意识到离别的痛苦。",
+                "location": "学校教室",
+                "happen_time": "2006年5月",
+                "participants": "陶山利、同学们",
+                "impact": "这次事件让陶山利感受到生活中的变迁和不确定性，增强了对现状的珍惜。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "有一次，我在数学考试中取得了满分，老师在全班面前表扬了我。这让我感到非常自豪和开心。",
+                "location": "学校教室",
+                "happen_time": "2008年3月",
+                "participants": "陶山利、老师、同学们",
+                "impact": "这次经历让陶山利感受到成功的喜悦，增强了他对学习的信心和兴趣。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个小朋友在游乐场迷路了，他的父母非常着急，到处找他。最终他们团聚了，我看到他们抱在一起哭。",
+                "location": "游乐场",
+                "happen_time": "2004年6月",
+                "participants": "陶山利、迷路小朋友及其父母",
+                "impact": "这次事件让陶山利感受到家庭的重要性和安全感的重要性，增强了对家庭的依赖和归属感。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "陶山利",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在军事俱乐部的第一次训练中，我感到紧张，但还是努力表现得很好。教练对我说：'陶山利，你做得很不错，继续努力。'这让我感到非常有成就感。",
+                "location": "学校的军事俱乐部训练场",
+                "happen_time": "2010年9月",
+                "participants": "军事俱乐部教练和其他成员",
+                "impact": "这次事件增强了我的自信心，使我更加相信自己的能力和努力的意义。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "我在一次数学考试中获得了全班第一名。班主任在全班面前表扬了我，并说：'陶山利不仅在军事训练中表现出色，学业上也很优秀。'这让我感到自己的努力得到了认可。",
+                "location": "学校教室",
+                "happen_time": "2010年12月",
+                "participants": "班主任和全班同学",
+                "impact": "事件进一步强化了我对成功和努力的信念，认为只有通过不断努力才能获得认可。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一天，我在训练场上看到一位战友因为训练不合格而被教练严厉批评，他退缩了，选择退出俱乐部。这让我意识到失败的严重后果。",
+                "location": "学校的军事俱乐部训练场",
+                "happen_time": "2011年3月",
+                "participants": "军事俱乐部教练和其他成员",
+                "impact": "这次观察使我更加坚定了不可以失败的信念，认为失败会导致失去认可和机会。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在一次军事竞赛中，我带领队伍取得了第一名。教练在颁奖时对我说：'你是个天生的领导者。'队友们也为我欢呼。",
+                "location": "市级军事竞赛场地",
+                "happen_time": "2011年6月",
+                "participants": "教练、队友和其他参赛者",
+                "impact": "事件增强了我的领导能力和自我价值感，强化了我对成功的追求。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "我看到班主任在课后帮助一位成绩不好的同学补习，并鼓励他说：'只要你努力，就一定能进步。'这让我认识到努力的重要性。",
+                "location": "学校教室",
+                "happen_time": "2012年2月",
+                "participants": "班主任和那位同学",
+                "impact": "事件强化了我对努力和坚持的信念，认为只要不放弃，努力终将有回报。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在一次训练中，我受了轻伤，但我坚持完成了训练任务。教练对我说：'你很坚强，值得敬佩。'这让我感到自己的坚韧得到了认可。",
+                "location": "学校的军事俱乐部训练场",
+                "happen_time": "2012年5月",
+                "participants": "军事俱乐部教练和其他成员",
+                "impact": "事件增强了我的自我认同感，使我更加相信自己的能力和坚韧。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "我注意到一位战友在训练中总是积极主动，即使遇到困难也不轻易放弃，最终他在一次比赛中获得了优异成绩。这让我意识到积极面对挑战的重要性。",
+                "location": "学校的军事俱乐部训练场",
+                "happen_time": "2013年3月",
+                "participants": "军事俱乐部成员",
+                "impact": "事件强化了我对积极面对挑战的信念，认为积极的态度和努力会带来成功。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在一次公开演讲比赛中，我表现出色，赢得了观众和评委的掌声。班主任对我说：'你的表现让我们学校感到骄傲。'",
+                "location": "学校礼堂",
+                "happen_time": "2013年10月",
+                "participants": "班主任、评委和观众",
+                "impact": "事件增强了我的自信心，使我更加相信自己的表达能力和影响力。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一位同学在面对学业失败时没有气馁，而是更加努力地学习，最终他在期末考试中取得了优异成绩。这让我认识到失败并非终点，而是新的起点。",
+                "location": "学校教室",
+                "happen_time": "2014年1月",
+                "participants": "班级同学",
+                "impact": "事件改变了我对失败的看法，使我认识到失败也是成长的机会，进一步强化了努力和坚持的信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在高考前的最后一次模拟考试中，我成绩不理想，感到非常沮丧。班主任私下对我说：'陶山利，你一直很优秀，这次只是一个小挫折，不要放弃。'这让我重新振作起来。",
+                "location": "学校办公室",
+                "happen_time": "2014年6月",
+                "participants": "班主任",
+                "impact": "事件使我认识到挫折是暂时的，重新激发了我的斗志和信心。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在军校的第一次军事训练中，我因为体力不支几乎放弃，但战友们的鼓励让我坚持了下来。教官对我说：'你做得很好。'",
+                "location": "军校训练场",
+                "happen_time": "2014年9月",
+                "participants": "军校教官和战友",
+                "impact": "事件使我更加坚信团队合作的重要性，并进一步强化了我的坚韧和毅力。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在一次军事技能考核中，我取得了全班第一名。教官在全体学员面前表扬了我，说：'陶山利是我们这届学员的榜样。'这让我感到自己的努力得到了最大程度的认可。",
+                "location": "军校训练场",
+                "happen_time": "2015年5月",
+                "participants": "军校教官和全体学员",
+                "impact": "事件极大地增强了我的自信心，使我更加坚定了继续努力和追求卓越的决心。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "我看到一位战友在训练中受伤，但他并没有因此退缩，而是积极进行康复训练，最终重返训练场。这让我认识到面对困难时坚持和乐观的重要性。",
+                "location": "军校训练场",
+                "happen_time": "2015年7月",
+                "participants": "军校战友",
+                "impact": "事件强化了我对坚持和乐观态度的信念，认为这些品质在任何情况下都非常重要。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "陶山利",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "高考失利，决定参军。我当时感到失落和迷茫，不知道未来的路该怎么走。家庭的支持让我决定参军，希望能在军旅生活中找到自己的方向。",
+                "location": "家中",
+                "happen_time": "2015年6月",
+                "participants": "陶山利, 父母",
+                "impact": "负面影响，对未来感到不确定，核心信念'我对未来感到不确定'开始形成。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "入伍训练期间，与战友们结下深厚友谊。我们一起经历了艰苦的训练，互相支持，成为彼此的依靠。",
+                "location": "军营",
+                "happen_time": "2015年9月",
+                "participants": "陶山利, 战友们",
+                "impact": "正面影响，增强了责任感和团队合作精神，核心信念'我是有能力的'得到强化。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "第一次实战演练，我表现出色，得到了上级的表扬和认可。这让我对自己的能力更加自信。",
+                "location": "训练场",
+                "happen_time": "2016年4月",
+                "participants": "陶山利, 上级, 战友们",
+                "impact": "正面影响，增强了自信心，核心信念'我是有能力的'得到进一步强化。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "一位战友在训练中受伤，我目睹了整个过程。这让我意识到军旅生活的危险性和不确定性。",
+                "location": "训练场",
+                "happen_time": "2017年8月",
+                "participants": "陶山利, 受伤战友, 其他战友",
+                "impact": "负面影响，增加了对未来的不确定感，核心信念'我对未来感到不确定'得到强化。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次培训中获得了优秀学员的称号。这让我感到自己的努力是有意义的。",
+                "location": "军校",
+                "happen_time": "2018年5月",
+                "participants": "陶山利, 上级, 战友们",
+                "impact": "正面影响，增强了自我价值感，核心信念'我的努力是有意义的'得到强化。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次任务失败，我感到非常沮丧，怀疑自己的能力。这次挫折让我对未来感到不确定。",
+                "location": "任务现场",
+                "happen_time": "2019年3月",
+                "participants": "陶山利, 战友们, 上级",
+                "impact": "负面影响，削弱了自信心，核心信念'我无法适应新的生活环境'开始形成。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我开始准备退役后的考试，但学习效率下降，记忆力变差。这让我感到非常焦虑和压力。",
+                "location": "家中",
+                "happen_time": "2023年9月",
+                "participants": "陶山利",
+                "impact": "负面影响，增加了焦虑感，核心信念'我对未来感到不确定'和'我无法适应新的生活环境'得到强化。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "战友们纷纷退役或转岗，我们的联系变得越来越少。我感到失落和孤独。",
+                "location": "军营",
+                "happen_time": "2024年1月",
+                "participants": "陶山利, 战友们",
+                "impact": "负面影响，增加了孤独感和对未来的不确定感，核心信念'我对未来感到不确定'和'我无法适应新的生活环境'得到强化。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一些战友退役后成功适应了新的生活环境，他们找到了新的工作并且生活幸福。这让我感到压力和焦虑，怀疑自己是否也能做到。",
+                "location": "社交媒体",
+                "happen_time": "2024年3月",
+                "participants": "陶山利, 退役战友",
+                "impact": "负面影响，增加了自我怀疑和焦虑感，核心信念'我无法适应新的生活环境'得到强化。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我开始接受心理咨询，希望能找到应对退役和考试压力的方法。心理咨询师帮助我意识到自己的核心信念和中间信念对我的行为和情绪的影响。",
+                "location": "心理咨询室",
+                "happen_time": "2024年5月",
+                "participants": "陶山利, 心理咨询师",
+                "impact": "正面影响，帮助我开始理解和调整自己的信念，核心信念'我是有能力的'和'我的努力是有意义的'得到强化。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次模拟考试中表现不佳，这让我感到非常沮丧和焦虑，怀疑自己是否能够通过正式考试。",
+                "location": "家中",
+                "happen_time": "2024年6月",
+                "participants": "陶山利",
+                "impact": "负面影响，增加了焦虑感和自我怀疑，核心信念'我必须成功才能证明自己的价值'和'我无法适应新的生活环境'得到强化。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位战友在退役后遭遇了适应困难，情绪低落。这让我对自己的退役生活感到更加担忧。",
+                "location": "社交媒体",
+                "happen_time": "2024年7月",
+                "participants": "陶山利, 退役战友",
+                "impact": "负面影响，增加了对未来的不确定感和焦虑感，核心信念'我对未来感到不确定'得到强化。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "正式退役，我感到对军旅生活的留恋和对未来的不确定性。战友们的离别让我感到孤独和失落。",
+                "location": "军营",
+                "happen_time": "2024年8月",
+                "participants": "陶山利, 战友们",
+                "impact": "负面影响，增加了孤独感和对未来的不确定感，核心信念'我对未来感到不确定'和'我无法适应新的生活环境'得到强化。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我开始为新的工作机会做准备，希望能找到一份与军事相关的工作。这让我感到一些希望和动力。",
+                "location": "家中",
+                "happen_time": "2024年9月",
+                "participants": "陶山利",
+                "impact": "正面影响，增加了对未来的希望和动力，核心信念'我是有能力的'和'我的努力是有意义的'得到强化。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位退役战友在新工作中取得了成功，这让我感到一些鼓舞和希望。",
+                "location": "社交媒体",
+                "happen_time": "2024年10月",
+                "participants": "陶山利, 退役战友",
+                "impact": "正面影响，增加了对未来的希望，核心信念'我是有能力的'和'我的努力是有意义的'得到强化。"
+            }
+        ]
+    }
+}

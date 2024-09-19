@@ -1,0 +1,174 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "缺乏自信",
+            "情绪波动大",
+            "容易疲倦"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "面色苍白",
+            "眼神黯淡",
+            "常穿宽松的衣服"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "独自散步",
+                "在图书馆安静地待着"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "能够顺利完成学业，找到一份稳定的工作",
+            "long_term_goals": "希望能够找到生活的意义，摆脱抑郁，过上正常的生活"
+        },
+        "daily_life": {
+            "routine": "每天早上勉强起床，去学校上课，但注意力难以集中。下午通常在图书馆或宿舍待着，晚上回宿舍后感到极度疲倦，早早上床休息。",
+            "weekends": "周末大部分时间在宿舍里度过，偶尔会去附近的公园散步，但很少与人交流。"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格活泼，但在小学阶段因为成绩不理想，逐渐变得内向。",
+            "adolescence": "中学时期因为学业压力和人际关系问题，开始出现情绪波动，曾经有过短暂的抑郁症状。",
+            "recent_events": "最近因为学业压力和双相情感障碍的加重，情绪低落，出现了自杀的想法。"
+        },
+        "environment": "出生在一个普通的城市家庭，父母对他期望很高，但他一直觉得自己无法达到他们的期望。大学在外地就读，远离家人，缺乏支持系统。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "谢俊亨的父亲是一位严肃而传统的人，对儿子的期望很高。虽然父子关系并不亲密，但父亲在谢俊亨的成长过程中扮演了重要角色。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "谢俊亨的母亲温柔而关爱，但也对他的学业有很高的期望。母亲是他童年时期最亲近的人，常常在他遇到困难时给予支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "谢俊亨在小学时有两个好朋友，他们常常一起玩耍，但随着时间的推移，友谊逐渐淡化。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入中学后，谢俊亨与父亲的关系变得更加紧张，父亲对他的学业压力越来越大，导致两人之间的沟通减少。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是他情感上的支柱，但由于学业压力和情绪波动，谢俊亨与母亲的关系也出现了一些裂痕。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期，谢俊亨与几位同学有过短暂的友谊，但由于性格内向和自卑，他很难维持长久的关系。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "大学期间，谢俊亨与父亲的联系减少，父亲对他的期望依然很高，但两人之间的沟通几乎中断。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲依然关心他的生活，但由于距离和谢俊亨的情绪问题，母子之间的联系也变得疏远。"
+                    ]
+                },
+                {
+                    "relationship": "室友",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "谢俊亨在大学有一个室友，但两人关系一般，更多是生活上的互相照应，缺乏深层次的交流。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "谢俊亨的导师对他的学业有一定的指导，但由于谢俊亨的情绪问题，导师对他的关注也有限。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "谢俊亨的社会关系在不同阶段发生了显著变化。童年时期，他与父母关系较为亲密，尤其是母亲。然而，随着学业压力的增加和情绪问题的出现，他与父母的关系逐渐疏远。中学时期，他的朋友关系也变得不稳定，难以维持长久的友谊。进入大学后，谢俊亨的社会支持系统进一步削弱，远离家人，缺乏亲密的朋友和支持，导致他在面对学业和情感问题时更加孤立无援。"
+    }
+}

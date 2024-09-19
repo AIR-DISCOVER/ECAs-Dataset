@@ -1,0 +1,99 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须努力才能成功。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我是有能力的。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我失败了，那就证明我不够好。",
+                "others": "他人会因为我的失败而看不起我。",
+                "world": "这个世界充满竞争，只有最优秀的人才能获得认可。"
+            },
+            "rules": "我应该避免失败，并尽量表现得完美。",
+            "positive_assumption": "如果我避免失败，我就会被认可。",
+            "negative_assumption": "如果我失败了，我就会被视为不够好。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不能轻易放松，否则会暴露我的不足。",
+                "others": "他人会注意到我的每一个错误。",
+                "world": "世界是严苛的，只有完美才能生存。"
+            },
+            "rules": "我应该时刻警惕，以避免犯错误。",
+            "positive_assumption": "如果我时刻警惕，我就能避免犯错误。",
+            "negative_assumption": "如果我放松下来，我的不足就会暴露。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须付出比别人更多的努力才能成功。",
+                "others": "别人可能不会理解我的辛苦，但我必须坚持。",
+                "world": "这个世界对成功的要求非常高。"
+            },
+            "rules": "我应该不断努力，不能松懈。",
+            "positive_assumption": "如果我不断努力，我就能取得成功。",
+            "negative_assumption": "如果我松懈，我就会失败。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "努力是我唯一的出路。",
+                "others": "他人可能不会支持我，但我必须自己坚持下去。",
+                "world": "世界充满挑战，但努力可以克服一切。"
+            },
+            "rules": "我应该坚持努力，不断提升自己。",
+            "positive_assumption": "如果我坚持努力，我就能克服一切困难。",
+            "negative_assumption": "如果我放弃努力，我就会一无所有。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力解决问题，并面对生活中的挑战。",
+                "others": "他人可以给予我帮助，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我可以通过努力来提升自己的能力。",
+                "others": "他人可以提供帮助和支持，我也可以帮助他们。",
+                "world": "世界是充满可能性的，我可以通过努力实现自己的目标。"
+            },
+            "rules": "我应该积极学习和进步，利用机会提升自己。",
+            "positive_assumption": "如果我努力提升自己，我就能实现目标。",
+            "negative_assumption": "如果我不努力提升自己，我就会落后于他人。"
+        }
+    ]
+}

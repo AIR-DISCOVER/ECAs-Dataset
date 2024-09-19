@@ -1,0 +1,435 @@
+{
+    "childhood": {
+        "name": "朱莉琼",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "小学一年级的一天，我在课堂上回答问题时答错了，老师面带微笑地纠正了我，但同学们却嘲笑我。我感到脸红耳赤，觉得自己很笨。",
+                "location": "小学课堂",
+                "happen_time": "2010年9月",
+                "participants": "朱莉琼, 老师, 同学们",
+                "impact": "这次事件加深了朱莉琼对自己核心信念'我不够好'的认同，产生了中间信念'如果我在学校表现不好，那就说明我不够好。'"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "有一次考试成绩出来，我考了全班第二，爸爸妈妈非常高兴，带我去吃了我最喜欢的冰淇淋。我感到非常开心和自豪。",
+                "location": "家里和冰淇淋店",
+                "happen_time": "2011年6月",
+                "participants": "朱莉琼, 爸爸, 妈妈",
+                "impact": "这次事件强化了核心信念'我有能力'和中间信念'如果我积极学习，我会取得好成绩。'"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "在幼儿园时，一次小朋友们在玩耍时，我因为不小心摔倒而哭了，老师温柔地抱起我，安慰我并擦掉我的眼泪。我感到被关爱和安全。",
+                "location": "幼儿园",
+                "happen_time": "2008年5月",
+                "participants": "朱莉琼, 幼儿园老师, 小朋友们",
+                "impact": "这次事件增强了朱莉琼的核心信念'我值得被爱'和中间信念'我值得被他人关爱和尊重。'"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "有一天，我看到爸爸妈妈为了家里的经济问题在客厅里低声谈论，虽然他们没有吵架，但我能感觉到他们的担忧和压力。",
+                "location": "家里客厅",
+                "happen_time": "2012年7月",
+                "participants": "朱莉琼, 爸爸, 妈妈",
+                "impact": "这次事件让朱莉琼感受到家庭的压力，产生了中间信念'世界上充满了对不够好的人不公平的待遇。'"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我在学校的一次演讲比赛中获得了第一名。老师和同学们都为我鼓掌，我感到无比自豪。",
+                "location": "小学礼堂",
+                "happen_time": "2012年10月",
+                "participants": "朱莉琼, 老师, 同学们",
+                "impact": "这次事件进一步强化了核心信念'我有能力'和中间信念'我能够应对学业中的挑战并取得成功。'"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "一次在家里，我因为作业做不出来而哭泣，妈妈过来耐心地辅导我，最终我完成了作业，妈妈给了我一个大大的拥抱。",
+                "location": "家里书房",
+                "happen_time": "2010年11月",
+                "participants": "朱莉琼, 妈妈",
+                "impact": "这次事件增加了朱莉琼的自信心，强化了核心信念'我值得被爱'和中间信念'父母和朋友会因为我的内在品质而爱我。'"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "一次我在学校操场上看到一位同学被其他孩子欺负，老师及时制止并安慰了那位同学。我意识到老师是值得信任和依靠的。",
+                "location": "学校操场",
+                "happen_time": "2011年3月",
+                "participants": "朱莉琼, 同学, 老师",
+                "impact": "这次事件增强了朱莉琼对大人世界的信任，形成了中间信念'世界上有很多人愿意给予爱和支持。'"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，爸爸因为工作上的压力在家里发脾气，妈妈默默地忍受并安慰他。我感到心疼和无助。",
+                "location": "家里客厅",
+                "happen_time": "2013年4月",
+                "participants": "朱莉琼, 爸爸, 妈妈",
+                "impact": "这次事件让朱莉琼意识到成年人也有脆弱的时候，形成了中间信念'世界对那些努力的人是友好的。'"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，一次我在数学考试中没有考好，老师在课堂上点名批评了我，我感到非常羞愧和失落。",
+                "location": "小学课堂",
+                "happen_time": "2014年5月",
+                "participants": "朱莉琼, 老师, 同学们",
+                "impact": "这次事件加深了核心信念'我不够好'，产生了中间信念'如果我在学校表现不好，我会被认为是失败者。'"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "有一次，我在家里帮助妈妈做家务，妈妈夸奖了我，说我很有责任心。我感到非常开心和满足。",
+                "location": "家里",
+                "happen_time": "2013年12月",
+                "participants": "朱莉琼, 妈妈",
+                "impact": "这次事件进一步强化了核心信念'我值得被爱'和中间信念'我应该相信自己值得被爱和尊重。'"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校里看到一位成绩不好的同学被其他同学嘲笑，老师没有及时制止。我感到非常难过和愤怒。",
+                "location": "学校",
+                "happen_time": "2015年3月",
+                "participants": "朱莉琼, 同学, 老师",
+                "impact": "这次事件让朱莉琼对学校环境产生了负面情绪，形成了中间信念'世界对不够好的人是残酷的。'"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "一次在家里，我因为考试成绩不理想而感到沮丧，爸爸妈妈鼓励我再接再厉，不要放弃。我感到被支持和理解。",
+                "location": "家里",
+                "happen_time": "2015年10月",
+                "participants": "朱莉琼, 爸爸, 妈妈",
+                "impact": "这次事件增强了朱莉琼的核心信念'我有能力'和中间信念'我应该迎接每一个学业上的挑战，并尽力而为。'"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "有一次，小学四年级时，我在学校的运动会上跑步比赛中获得了第三名。虽然没有第一，但我觉得自己已经尽力了。老师和同学们都为我鼓掌。",
+                "location": "学校操场",
+                "happen_time": "2013年6月",
+                "participants": "朱莉琼, 老师, 同学们",
+                "impact": "这次事件进一步增强了核心信念'我有能力'和中间信念'如果我迎接挑战，我会不断成长和进步。'"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校里因为帮助一位同学解决了数学问题，老师在全班面前表扬了我。我感到非常自豪和满足。",
+                "location": "小学课堂",
+                "happen_time": "2014年11月",
+                "participants": "朱莉琼, 老师, 同学们",
+                "impact": "这次事件进一步强化了核心信念'我有能力'和中间信念'老师和同学会看到我的潜力和能力。'"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到妈妈在厨房里做饭，但因为太忙而把手烫伤了。我看到她忍着痛继续做饭，心里感到非常心疼。",
+                "location": "家里厨房",
+                "happen_time": "2015年12月",
+                "participants": "朱莉琼, 妈妈",
+                "impact": "这次事件让朱莉琼对妈妈的辛勤付出有了更深的理解，形成了中间信念'我必须不断努力，以避免被人看不起。'"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "朱莉琼",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中第一次期末考试成绩公布后，我拿到了全班第一。老师在班会上表扬了我，但我却感到压力山大，因为我知道如果下次考试成绩下降，我会被认为是不够好的。",
+                "location": "初中教室",
+                "happen_time": "2017年7月",
+                "participants": "朱莉琼、班主任、全班同学",
+                "impact": "这次事件强化了她的核心信念“我不够好”，导致她更加努力学习，但也加重了她的焦虑和压力。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在与家长的谈话中，父母告诉我他们为我的成绩感到骄傲，但也提醒我不要骄傲自满。这让我感到即使取得了好成绩，也无法完全放松，必须不断努力。",
+                "location": "家中客厅",
+                "happen_time": "2017年7月",
+                "participants": "朱莉琼、父母",
+                "impact": "事件加强了她的中间信念‘我必须不断努力学习，以避免被人看不起’，使她对学业的压力进一步增加。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校操场看到几个同学因为成绩差被老师责骂，他们无助的表情让我感到恐惧，我害怕自己也会有这样的经历。",
+                "location": "学校操场",
+                "happen_time": "2018年5月",
+                "participants": "朱莉琼、几名同学、老师",
+                "impact": "事件让她的核心信念‘我没有价值’和‘我不够好’得到进一步强化，她更加确信必须通过优异成绩来证明自己。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在一次模拟考试中，我没有发挥好，成绩跌到了班级中游。这让我感到非常失落，害怕老师和同学会看不起我。",
+                "location": "学校考场",
+                "happen_time": "2018年10月",
+                "participants": "朱莉琼、班主任、同学",
+                "impact": "事件强化了她的中间信念‘如果我成绩不佳，我将被认为是失败者’，使她的自信心进一步下降。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "高一时，我得到了年级第一的成绩，家长和老师都非常高兴，班主任特意在班会上表扬了我。这让我感到自己是有能力的，但也感到巨大的压力，因为我必须保持这个成绩。",
+                "location": "高中教室",
+                "happen_time": "2019年6月",
+                "participants": "朱莉琼、班主任、父母、同学",
+                "impact": "事件使她的核心信念‘我有能力’得到强化，但同时也增加了她的压力和对失败的恐惧。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家中听到父母讨论邻居家的孩子因为成绩不好而被责骂，这让我联想到如果我成绩不好，我的父母也会像邻居家一样对待我。",
+                "location": "家中",
+                "happen_time": "2019年8月",
+                "participants": "朱莉琼、父母",
+                "impact": "事件进一步强化了她的中间信念‘如果我不够努力，我将被忽视和看不起’，增加了她对学业的焦虑。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在高二的一次课外活动中，我尝试与同学们交流，但发现自己很难融入他们的圈子，这让我感到孤独和无助。",
+                "location": "学校操场",
+                "happen_time": "2020年3月",
+                "participants": "朱莉琼、同学",
+                "impact": "事件使她的核心信念‘我值得被爱’受到挑战，增加了她的社交焦虑和自我怀疑。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个同学因为成绩差而被家长责骂，他哭得很伤心，这让我感到如果我成绩不好，我也会面对同样的情况。",
+                "location": "学校门口",
+                "happen_time": "2020年5月",
+                "participants": "朱莉琼、同学、同学的家长",
+                "impact": "事件进一步强化了她的核心信念‘我没有价值’，使她更加害怕失败。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "在高三的一次重要考试中，我发挥失常，成绩不理想，回家后我感到极度失落，甚至自责，觉得自己没有价值。",
+                "location": "学校考场",
+                "happen_time": "2021年6月",
+                "participants": "朱莉琼、父母",
+                "impact": "事件加深了她的核心信念‘我没有价值’，对她的自信心造成了严重打击。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "高考结束后，我收到了省会城市某大学的录取通知书，家人和老师都为我感到骄傲，这让我感到自己有能力，但也感到巨大的压力。",
+                "location": "家中",
+                "happen_time": "2021年8月",
+                "participants": "朱莉琼、父母、老师",
+                "impact": "事件使她的核心信念‘我有能力’得到一定的肯定，但也增加了她对未来的压力和焦虑。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "大学第一学期，我在新环境中感到孤独和不适应，虽然学业上依然优秀，但社交上遇到很多困难。",
+                "location": "大学校园",
+                "happen_time": "2021年9月-2022年1月",
+                "participants": "朱莉琼、大学同学",
+                "impact": "事件挑战了她的核心信念‘我值得被爱’，使她感到孤立和无助。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "在大学图书馆，我看到有同学因为成绩差而情绪崩溃，这让我想到自己的情况，担心自己有一天也会面对这样的情绪崩溃。",
+                "location": "大学图书馆",
+                "happen_time": "2022年3月",
+                "participants": "朱莉琼、大学同学",
+                "impact": "事件强化了她的核心信念‘我不够好’和‘我没有价值’，增加了她对学业失败的恐惧。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在一次课外活动中，我尝试与同学们建立联系，但发现自己依然难以融入，这让我感到非常沮丧和孤独。",
+                "location": "大学校园",
+                "happen_time": "2022年5月",
+                "participants": "朱莉琼、大学同学",
+                "impact": "事件进一步挑战了她的核心信念‘我值得被爱’，使她的自尊心受到打击。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在大学毕业前夕，我因为找工作压力大，情绪低落，和男朋友散步时谈到了自己的焦虑，他给予了我很大的安慰和支持。",
+                "location": "大学校园附近",
+                "happen_time": "2022年6月",
+                "participants": "朱莉琼、男朋友",
+                "impact": "事件使她的核心信念‘我值得被爱’得到一定的肯定，减轻了她的一部分焦虑。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在咖啡馆看到一对情侣因为学业和工作压力开始争吵，这让我想到自己和男朋友的关系，并产生了对未来的不确定感。",
+                "location": "咖啡馆",
+                "happen_time": "2022年7月",
+                "participants": "朱莉琼、咖啡馆的一对情侣",
+                "impact": "事件使她对未来的关系和学业产生了更多的担忧，强化了她的核心信念‘我不够好’。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "朱莉琼",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2022年7月，我参加了一个公司的面试，尽管我做了充分准备，但在面试中出现了卡壳，无法流利回答问题。面试官的表情显示出明显的不满和失望。",
+                "location": "省会城市某公司",
+                "happen_time": "2022年7月",
+                "participants": "面试官",
+                "impact": "这次失败的面试经历让我感到自己不够好，进一步加深了核心信念'我不够好'，导致自信心严重下降。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2022年10月，我和男朋友散步时谈到了找工作的事情。尽管他一直在鼓励我，但我却忍不住流下了眼泪，感到自己无能和没有价值。",
+                "location": "省会城市某公园",
+                "happen_time": "2022年10月",
+                "participants": "男朋友",
+                "impact": "这次情感爆发表明我内心对找工作失败的巨大压力，也让我更加确信自己没有价值，进一步加重了负面情绪。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2022年12月，我在社交媒体上看到大学同学分享他们找到工作的消息，感到自己被远远抛在后面。",
+                "happen_time": "2022年12月",
+                "participants": "大学同学",
+                "impact": "看到别人的成功让我感到巨大的自卑和失落，进一步强化了中间信念'如果我没有工作，我就没有价值'。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年1月，我在父母的鼓励下参加了一个职业培训课程，但在课程中总是感到自己跟不上进度，怀疑自己的能力。",
+                "location": "省会城市某培训机构",
+                "happen_time": "2023年1月",
+                "participants": "父母",
+                "impact": "这次培训经历让我对自己的能力产生了更多怀疑，进一步强化了核心信念'我不够好'和中间信念'如果我不能找到工作，那就说明我不够好'。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年4月，我终于收到了一家公司的面试通知，但在面试当天因为紧张而表现失常，再次被拒绝。",
+                "location": "省会城市某公司",
+                "happen_time": "2023年4月",
+                "participants": "面试官",
+                "impact": "这次失败的面试让我更加确信自己无能和没有价值，进一步加剧了情绪低落和自信心下降的情况。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年6月，我和朋友聚会时，朋友们都在谈论他们的新工作和新生活，我感到自己格格不入，心情非常低落。",
+                "location": "省会城市某咖啡馆",
+                "happen_time": "2023年6月",
+                "participants": "朋友",
+                "impact": "这次聚会让我感到自己被孤立和忽视，进一步强化了中间信念'别人只会看重我的成就'。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年8月，我看到男朋友因工作表现出色而被公司表彰，感到自己和他的差距越来越大。",
+                "happen_time": "2023年8月",
+                "participants": "男朋友",
+                "impact": "看到男朋友的成功让我感到深深的自卑和自我怀疑，进一步强化了核心信念'我没有价值'。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年10月，我在一家咖啡馆偶遇一位大学时期的教授，他对我目前的情况表示关心，但我却感到非常尴尬和无地自容。",
+                "location": "省会城市某咖啡馆",
+                "happen_time": "2023年10月",
+                "participants": "大学教授",
+                "impact": "这次偶遇让我感到自己辜负了教授的期望，进一步加重了自我怀疑和内疚感。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年12月，我发现父母在电话中对我的情况非常担心，甚至开始怀疑自己是否做错了选择。",
+                "happen_time": "2023年12月",
+                "participants": "父母",
+                "impact": "父母的担忧让我感到巨大的压力和内疚，进一步强化了中间信念'我必须不断努力，以避免被人看不起'。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年1月，在一次招聘会上，我再次遭遇了多次拒绝，感到自己完全失去了希望。",
+                "location": "省会城市某招聘会",
+                "happen_time": "2024年1月",
+                "participants": "招聘人员",
+                "impact": "多次拒绝让我感到彻底的失望和无助，进一步加深了情绪低落和自信心下降。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年3月，我看到一位曾经成绩不如我的同学在社交媒体上分享她的新工作和成功经历，心情非常复杂。",
+                "happen_time": "2024年3月",
+                "participants": "同学",
+                "impact": "这次观察让我感到深深的挫败和自卑，进一步强化了中间信念'如果我找不到工作，我将永远没有价值'。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年5月，我参加了一次心理咨询，咨询师帮助我识别了自己的负面信念，但我仍然感到无力改变现状。",
+                "location": "省会城市某心理咨询室",
+                "happen_time": "2024年5月",
+                "participants": "心理咨询师",
+                "impact": "这次咨询让我初步意识到自己的问题，但也让我感到改变信念的困难和无力感。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年6月，我看到男朋友因为工作压力大而情绪低落，感到自己无力帮助他，心情非常沉重。",
+                "happen_time": "2024年6月",
+                "participants": "男朋友",
+                "impact": "看到男朋友的压力让我感到自己无能为力和无助，进一步加重了自己的负面情绪。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年7月，我终于收到了一家小公司的录取通知，但薪资和职位远低于期望，感到无比失落和困惑。",
+                "location": "省会城市某小公司",
+                "happen_time": "2024年7月",
+                "participants": "公司人事经理",
+                "impact": "尽管找到了工作，但职位和薪资的落差让我感到自己依然没有价值，情绪低落。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年8月，我和男朋友因为未来规划的问题发生了激烈争吵，关系陷入危机。",
+                "location": "省会城市某公园",
+                "happen_time": "2024年8月",
+                "participants": "男朋友",
+                "impact": "这次争吵让我感到深深的失落和孤独，怀疑自己是否值得被爱，进一步加重了情绪低落。"
+            }
+        ]
+    }
+}

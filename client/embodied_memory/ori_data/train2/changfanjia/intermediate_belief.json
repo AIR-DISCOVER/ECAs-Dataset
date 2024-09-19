@@ -1,0 +1,218 @@
+{
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我容易在压力下感到焦虑。",
+                "others": "他人可能不理解我的焦虑，认为我不够坚强。",
+                "world": "压力和挑战是生活的一部分，我需要学会应对。"
+            },
+            "rules": "我应该尽量减少压力源，并学会放松和调整心态。",
+            "positive_assumption": "如果我能有效管理焦虑，我会感到更加平静和自信。",
+            "negative_assumption": "如果我无法控制焦虑，我会感到失控，影响我的表现。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对学习和生活中的挑战。",
+                "others": "他人可以帮助和支持我，但我能独立处理大部分问题。",
+                "world": "世界充满机会，我可以通过自己的努力获得成功。"
+            },
+            "rules": "当遇到困难时，我应该积极寻求解决方案。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得宝贵的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在各个方面表现得完美。",
+                "others": "他人会根据我的表现来评价我的价值。",
+                "world": "世界是竞争激烈的，只有表现出色的人才能获得成功。"
+            },
+            "rules": "我应该尽量避免犯错，并在所有事情上都做到最好。",
+            "positive_assumption": "如果我表现得完美，我会被认可和尊重。",
+            "negative_assumption": "如果我犯错或表现不佳，我会被他人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断努力，才能取得好成绩。",
+                "others": "他人也在努力工作，如果我不努力，就会被落下。",
+                "world": "成功需要付出大量的努力和时间。"
+            },
+            "rules": "我应该每天都投入大量时间和精力来学习。",
+            "positive_assumption": "如果我努力学习，我会通过考试并取得好成绩。",
+            "negative_assumption": "如果我不努力，我会失败，失去机会。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我容易在压力下感到焦虑。",
+                "others": "他人可能不理解我的焦虑，认为我不够坚强。",
+                "world": "压力和挑战是生活的一部分，我需要学会应对。"
+            },
+            "rules": "我应该尽量减少压力源，并学会放松和调整心态。",
+            "positive_assumption": "如果我能有效管理焦虑，我会感到更加平静和自信。",
+            "negative_assumption": "如果我无法控制焦虑，我会感到失控，影响我的表现。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对学习和生活中的挑战。",
+                "others": "他人可以帮助和支持我，但我能独立处理大部分问题。",
+                "world": "世界充满机会，我可以通过自己的努力获得成功。"
+            },
+            "rules": "当遇到困难时，我应该积极寻求解决方案。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得宝贵的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在各个方面表现得完美。",
+                "others": "他人会根据我的表现来评价我的价值。",
+                "world": "世界是竞争激烈的，只有表现出色的人才能获得成功。"
+            },
+            "rules": "我应该尽量避免犯错，并在所有事情上都做到最好。",
+            "positive_assumption": "如果我表现得完美，我会被认可和尊重。",
+            "negative_assumption": "如果我犯错或表现不佳，我会被他人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断努力，才能取得好成绩。",
+                "others": "他人也在努力工作，如果我不努力，就会被落下。",
+                "world": "成功需要付出大量的努力和时间。"
+            },
+            "rules": "我应该每天都投入大量时间和精力来学习。",
+            "positive_assumption": "如果我努力学习，我会通过考试并取得好成绩。",
+            "negative_assumption": "如果我不努力，我会失败，失去机会。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我容易在作业和考试压力下感到焦虑。",
+                "others": "父母和老师可能不理解我的焦虑，认为我不够坚强。",
+                "world": "压力和挑战是学习的一部分，我需要学会应对。"
+            },
+            "rules": "我应该尽量减少作业和考试带来的压力，并学会放松和调整心态。",
+            "positive_assumption": "如果我能有效管理焦虑，我会感到更加平静和自信。",
+            "negative_assumption": "如果我无法控制焦虑，我会感到失控，影响我的学习表现。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在学习和生活中取得好成绩。",
+                "others": "父母和老师可以给予我帮助和支持，但我能独立完成大部分任务。",
+                "world": "世界充满机会，我可以通过自己的努力获得成功。"
+            },
+            "rules": "当遇到学习上的困难时，我应该积极解决问题。",
+            "positive_assumption": "如果我面对学习上的挑战，我会变得更强大，并获得宝贵的经验。",
+            "negative_assumption": "如果我回避困难，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在各个方面表现得优异，才能得到表扬。",
+                "others": "他人会根据我的表现来评价我的价值。",
+                "world": "表现优秀的人才能获得认可和赞赏。"
+            },
+            "rules": "我应该在所有事情上都尽力做到最好，不让自己和他人失望。",
+            "positive_assumption": "如果我表现得优异，我会被老师和同学们认可。",
+            "negative_assumption": "如果我表现不佳，我会被忽视或批评。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在学习上付出更多努力，才能保持优异的成绩。",
+                "others": "父母和老师期望我努力学习，他们希望我取得好成绩。",
+                "world": "成功需要付出大量的努力和时间。"
+            },
+            "rules": "我应该每天都认真完成作业和复习功课。",
+            "positive_assumption": "如果我努力学习，我会在考试中取得好成绩，并得到大家的认可。",
+            "negative_assumption": "如果我不努力，我会让父母和老师失望。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

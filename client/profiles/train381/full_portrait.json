@@ -1,0 +1,171 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "自卑",
+            "谨慎"
+        ],
+        "appearance": [
+            "中等身高",
+            "微胖",
+            "头发花白",
+            "面容憔悴",
+            "穿着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "看抖音",
+                "阅读",
+                "散步"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "调整作息，恢复精力",
+            "long_term_goals": "找到一份稳定的工作，提升自我价值感"
+        },
+        "daily_life": {
+            "routine": "每天早上8点起床，简单洗漱后开始一天的工作。工作间隙会看抖音放松，午饭后会小憩一会儿。下午继续工作，晚上和家人一起吃饭，之后会看书或看抖音，晚上10点左右上床睡觉。",
+            "weekends": "周末会和家人一起做饭，有时会去公园散步，放松心情。偶尔会和朋友见面聊天，但大部分时间还是喜欢待在家里。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工人家庭，父母工作忙碌，童年时常感到孤独。",
+            "adolescence": "中学时期成绩一般，但性格内向，不太擅长与人交往。",
+            "youth": "大学毕业后进入职场，曾在几家公司工作，但由于性格内向和自卑感，工作表现平平。",
+            "recent_events": "近年来由于年龄增长和自由职业的压力，感到越来越难以应对工作和生活的挑战，逐渐出现抑郁症状。"
+        },
+        "environment": "出生在东北的一个小县城，高中毕业后进入省城读大学，毕业后在省城工作和生活。近年来由于工作压力和生活节奏的变化，逐渐感到身心疲惫。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "史亚晓的父母都是工人，工作忙碌，虽然他们尽力照顾她，但由于时间有限，史亚晓常常感到孤独。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "史亚晓在童年时有一个好朋友，两人经常一起玩耍，但由于父母的工作调动，这段友谊在她小学毕业后逐渐淡化。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "史亚晓在中学时期成绩一般，性格内向，不太擅长与人交往。她有几个同学，但关系并不深厚。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "史亚晓的几位老师对她的学习和生活给予了关心，但由于她性格内向，师生关系也较为普通。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "在大学期间，史亚晓结识了几位同学，虽然关系不错，但由于她的内向性格，友谊并未深入发展。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 6,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "进入职场后，史亚晓在几家公司工作过，但由于性格内向和自卑感，她与同事的关系较为疏远。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "家人",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "史亚晓与丈夫和孩子的关系较为亲密，家人是她生活中的重要支柱。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "近年来，史亚晓有两位朋友，她们偶尔会见面聊天，但大部分时间她还是喜欢待在家里。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "史亚晓的社交关系在不同阶段有明显变化。童年时，她的社交圈子较小，主要是父母和一个好朋友。进入中学后，她的社交关系扩展到同学和老师，但由于性格内向，关系并不深厚。大学和职场阶段，她结识了一些同学和同事，但由于自卑感，友谊未能深入。近年来，她的社交圈子主要集中在家人和少数朋友，社交活动减少，更多时间待在家里。"
+    }
+}

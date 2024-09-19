@@ -1,0 +1,86 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我是一个责任感很强的人。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我需要被认可和接受。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有时不够自信。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须承担起家庭的责任。",
+                "others": "他们依赖我来维持家庭的和谐。",
+                "world": "世界需要有责任心的人来维持秩序。"
+            },
+            "rules": "我必须始终对家庭负责。",
+            "positive_assumption": "如果我承担起责任，我会感到有价值。",
+            "negative_assumption": "如果我不承担责任，家庭可能会陷入混乱。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要不断表现出色才能被认可。",
+                "others": "他们只会在我表现出色时才会认可我。",
+                "world": "这个世界上的人们都需要认可和接受。"
+            },
+            "rules": "我必须努力表现，尽可能避免犯错。",
+            "positive_assumption": "如果我表现出色，我会被认可。",
+            "negative_assumption": "如果我表现不佳，我会被忽视或批评。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我可能无法做出正确的决策。",
+                "others": "他们可能会质疑我的决策能力。",
+                "world": "这个世界对不自信的人不太友好。"
+            },
+            "rules": "我应该尽量避免做出重要决策。",
+            "positive_assumption": "如果我避免做决策，我就不会犯错。",
+            "negative_assumption": "如果我做出错误的决策，我会受到批评和指责。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须确保家庭和谐。",
+                "others": "他们期望我能处理好家庭事务。",
+                "world": "世界需要有责任感的人来维持家庭的和谐。"
+            },
+            "rules": "我必须始终关注家庭的需求和问题。",
+            "positive_assumption": "如果我关注家庭，我会感到满足和有价值。",
+            "negative_assumption": "如果我忽视家庭，家庭可能会出现问题。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须得到认可才能感到自我价值。",
+                "others": "他们的认可对我非常重要。",
+                "world": "世界上的人们都需要被认可和接受。"
+            },
+            "rules": "我必须努力争取他人的认可。",
+            "positive_assumption": "如果我得到认可，我会感到满足和有价值。",
+            "negative_assumption": "如果我得不到认可，我会感到失落和没有价值。"
+        }
+    ]
+}

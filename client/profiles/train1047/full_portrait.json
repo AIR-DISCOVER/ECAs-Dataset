@@ -1,0 +1,180 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "责任感强",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "黑发",
+            "面容憔悴",
+            "眼神黯淡"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "独自散步",
+                "在家看书",
+                "听舒缓的音乐"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复正常的工作和生活状态，重新找回对生活的兴趣",
+            "long_term_goals": "找到内心的平静和幸福，建立稳定的人际关系"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后感到特别难过，勉强去上班，工作中注意力难以集中，常常感到疲惫。下班后回家独自待在房间里，不愿意与人交流。",
+            "weekends": "周末大部分时间在家里度过，偶尔会去附近的公园散步，但大多数时候只是待在家里看书或听音乐。"
+        },
+        "past_experiences": {
+            "childhood": "童年时期家庭环境较为严苛，父母对她的期望很高，导致她从小就感到压力很大。",
+            "adolescence": "青春期时曾经历过一次严重的学业失败，这让她对自己的能力产生了怀疑，逐渐变得自卑。",
+            "recent_events": "最近工作中频繁出现失误，导致她对自己的职业能力产生了严重的怀疑，进一步加重了她的抑郁情绪。"
+        },
+        "environment": "出生在一个中等城市的普通家庭，父母对她的期望很高。大学毕业后在大城市工作，生活节奏快，压力大。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲是一个严厉的人，对鲍昭荷的期望很高，经常对她的学业和行为进行严格的监督。虽然父亲的出发点是好的，但这种高压的教育方式让鲍昭荷从小就感到很大的压力。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲相对温和，但也对鲍昭荷有很高的期望。母亲常常在父亲的严厉教育下扮演调和者的角色，但她也希望鲍昭荷能够出人头地。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        3
+                    ],
+                    "description": [
+                        "童年时期的朋友不多，主要是因为父母对她的学业要求很高，导致她很少有时间和同龄人玩耍。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入青春期后，父亲的期望和压力依旧存在，但鲍昭荷开始有了自己的想法，父女之间的关系变得更加紧张。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲依旧扮演调和者的角色，但她也开始对鲍昭荷的未来感到担忧。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "青春期时，鲍昭荷结交了一些朋友，但由于学业压力和自卑情绪，她与朋友的关系并不稳定。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "有几位老师对她的学业给予了很大的帮助，但她对自己的能力依旧产生了怀疑。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        3,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "最近工作中的频繁失误让她对自己的职业能力产生了严重的怀疑，导致她与同事的关系变得紧张。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "虽然有几位朋友试图帮助她，但她因为自卑和抑郁情绪，逐渐与他们疏远。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "心理咨询师是她最近唯一愿意倾诉的人，但她对治疗的效果依旧持怀疑态度。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "鲍昭荷的社交能力和意愿在不同阶段发生了显著变化。童年时期，她因为父母的高期望和严苛教育，社交圈子很小。进入青春期后，虽然结交了一些朋友，但学业压力和自卑情绪让她的社交关系不稳定。最近，由于工作中的频繁失误和抑郁情绪，她逐渐与同事和朋友疏远，社交回避现象明显。她目前唯一愿意倾诉的人是心理咨询师，但她对治疗的效果依旧持怀疑态度。"
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "诚实",
+            "稳重",
+            "有责任心"
+        ],
+        "appearance": [
+            "中等身高",
+            "体型适中",
+            "短发",
+            "戴眼镜",
+            "穿着整洁"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "电影",
+                "阅读",
+                "散步"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "在年底前完成银行的年度目标，提升工作效率",
+            "long_term_goals": "在银行业取得更高的职位，给家人提供更好的生活"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到银行上班，晚上6点下班。下班后会和家人共进晚餐，之后会看电影或阅读。",
+            "weekends": "周末会和家人一起去公园散步，偶尔会和朋友聚会，放松心情。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他要求严格，从小培养了他的责任心。",
+            "adolescence": "中学时期成绩优异，但因为家庭经济原因，大学选择了金融专业，希望能尽早工作减轻家庭负担。",
+            "youth": "大学毕业后进入银行工作，逐步从基层做起，凭借努力和能力逐渐升职。",
+            "recent_events": "最近因为年底银行业务繁忙，工作压力较大，导致决断困难和头晕的症状。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书，毕业后回到南京工作和生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "任坚康的父母对他要求严格，但也非常关心他的成长。父亲是一名工人，母亲是一名小学教师，他们希望儿子能通过努力学习改变家庭的命运。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "任坚康在小学和中学时期有几个要好的朋友，他们常常一起玩耍和学习。虽然家庭经济条件一般，但他和朋友们的关系非常亲密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "中学时期，任坚康成绩优异，和班上的同学关系融洽。他常常帮助同学解答问题，赢得了大家的尊重和友谊。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "任坚康的老师们对他的学习态度和成绩非常满意，常常鼓励他继续努力。特别是班主任，对他有很大的影响。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "在北京读大学期间，任坚康结识了一些志同道合的同学，他们一起学习、讨论未来的职业规划。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "大学期间的导师对任坚康的职业选择有很大的影响，导师的建议和指导帮助他顺利进入银行业。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 6,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "任坚康在银行工作多年，与同事们建立了良好的关系。他们互相支持，共同应对工作中的挑战。"
+                    ]
+                },
+                {
+                    "relationship": "家人",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        5,
+                        4
+                    ],
+                    "description": [
+                        "任坚康的妻子和孩子是他生活中的重要支柱。虽然工作繁忙，但他尽量抽出时间陪伴家人，共享家庭时光。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "任坚康的社会关系在不同阶段有明显的变化。童年时期，他主要依赖父母和朋友的支持；青少年时期，老师和同学成为他的重要社交圈；成年后，大学同学和导师对他的职业发展起到了关键作用。最近，他的社交重心转向了同事和家人，工作和家庭成为他生活的主要组成部分。尽管工作压力大，但他依然保持着良好的社交关系，这对他的心理健康起到了积极的作用。"
+    }
+}

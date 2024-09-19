@@ -1,0 +1,218 @@
+{
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力应对家庭和生活中的挑战。",
+                "others": "家人和朋友会在需要时支持我。",
+                "world": "世界充满挑战，但我可以克服。"
+            },
+            "rules": "我应该积极面对每一个挑战。",
+            "positive_assumption": "如果我积极应对挑战，我会变得更强大。",
+            "negative_assumption": "如果我逃避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要得到他人的关心和理解。",
+                "others": "他人有时会忽视我的感受。",
+                "world": "世界有时是冷漠的，需要主动寻求支持。"
+            },
+            "rules": "我应该表达我的感受和需求。",
+            "positive_assumption": "如果我表达我的感受，我会得到更多关心。",
+            "negative_assumption": "如果我不表达感受，我会感到被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须承担起家庭的所有责任。",
+                "others": "家人依赖我，需要我。",
+                "world": "家庭是我的责任所在。"
+            },
+            "rules": "我应该始终以家庭为重心。",
+            "positive_assumption": "如果我尽责，家庭会和谐幸福。",
+            "negative_assumption": "如果我不尽责，家庭会出现问题。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不完美，我就会被看不起。",
+                "others": "他人只会认可完美的人。",
+                "world": "世界是严格评判的地方，只有完美才有价值。"
+            },
+            "rules": "我应该尽力做到完美。",
+            "positive_assumption": "如果我做到完美，我会被认可和尊重。",
+            "negative_assumption": "如果我不完美，我会被忽视和批评。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力应对学业和生活中的挑战。",
+                "others": "朋友和老师会在需要时支持我。",
+                "world": "世界充满挑战，但我可以克服。"
+            },
+            "rules": "我应该积极面对每一个学业和生活中的挑战。",
+            "positive_assumption": "如果我积极应对挑战，我会变得更强大。",
+            "negative_assumption": "如果我逃避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要得到父母和老师的关心和理解。",
+                "others": "父母和老师有时会忽视我的感受。",
+                "world": "世界有时是冷漠的，需要主动寻求支持。"
+            },
+            "rules": "我应该表达我的感受和需求，尤其在学业压力下。",
+            "positive_assumption": "如果我表达我的感受，我会得到更多关心和支持。",
+            "negative_assumption": "如果我不表达感受，我会感到被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须承担起家庭的期望，尤其在学业上。",
+                "others": "父母依赖我取得好成绩来获得家庭的荣耀。",
+                "world": "家庭是我的责任所在。"
+            },
+            "rules": "我应该始终以学业为重心，尽力不辜负父母的期待。",
+            "positive_assumption": "如果我尽责学习，家庭会感到骄傲和幸福。",
+            "negative_assumption": "如果我不尽责学习，家庭会对我失望。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不完美，我就会被父母和老师看不起。",
+                "others": "他人只会认可成绩优异的学生。",
+                "world": "世界是严格评判的地方，只有成绩优秀才有价值。"
+            },
+            "rules": "我应该尽力做到完美，尤其在学业上。",
+            "positive_assumption": "如果我做到完美，我会被父母和老师认可和尊重。",
+            "negative_assumption": "如果我不完美，我会被忽视和批评。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力应对学习和生活中的挑战。",
+                "others": "父母和朋友会在需要时支持我。",
+                "world": "世界充满挑战，但我可以克服。"
+            },
+            "rules": "我应该积极面对每一个挑战。",
+            "positive_assumption": "如果我积极应对挑战，我会变得更强大。",
+            "negative_assumption": "如果我逃避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要得到父母和朋友的关心和理解。",
+                "others": "父母和朋友有时会忽视我的感受。",
+                "world": "世界有时是冷漠的，需要主动寻求支持。"
+            },
+            "rules": "我应该向父母和朋友表达我的感受和需求。",
+            "positive_assumption": "如果我表达我的感受，我会得到更多关心和理解。",
+            "negative_assumption": "如果我不表达感受，我会感到被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须帮助父母分担家务，表现得很有责任感。",
+                "others": "父母需要我承担一些家庭责任。",
+                "world": "家庭是我的责任所在。"
+            },
+            "rules": "我应该始终帮助父母并承担家庭责任。",
+            "positive_assumption": "如果我尽责，家庭会和谐，父母会满意。",
+            "negative_assumption": "如果我不尽责，家庭会出现问题，父母会失望。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我在学习和行为上不完美，我就会被父母责备。",
+                "others": "父母和老师只会认可表现优秀的学生。",
+                "world": "学校和家庭都是严格评判的地方，只有完美才有价值。"
+            },
+            "rules": "我应该尽力在学业和行为上做到完美。",
+            "positive_assumption": "如果我在学业和行为上做到完美，我会得到父母和老师的认可。",
+            "negative_assumption": "如果我在学业和行为上不完美，我会被忽视和批评。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

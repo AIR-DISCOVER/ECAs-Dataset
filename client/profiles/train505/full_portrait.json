@@ -1,0 +1,144 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "敏感",
+            "内向",
+            "善良",
+            "缺乏自信",
+            "容易焦虑",
+            "情感丰富"
+        ],
+        "appearance": [
+            "娇小",
+            "清秀",
+            "略显憔悴",
+            "眼神中带有一丝忧郁"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐",
+                "写日记"
+            ],
+            "activity": [
+                "独自散步",
+                "在图书馆安静地看书",
+                "在家里画画"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复与朋友的关系，重新找回对生活的兴趣",
+            "long_term_goals": "成为一名心理咨询师，帮助像自己一样的人"
+        },
+        "daily_life": {
+            "routine": "早上起床后常常感到疲倦，难以集中注意力上课，下午在图书馆或宿舍里独自待着，晚上难以入睡，经常做噩梦。",
+            "weekends": "周末大多时间在宿舍里度过，偶尔会去附近的公园散步，或者在图书馆里看书。"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格活泼开朗，但随着年龄增长，逐渐变得内向。",
+            "adolescence": "中学时期曾有过几段深厚的友谊，但也经历过几次友情的破裂，导致她对人际关系产生了不信任感。",
+            "recent_events": "最近因为和朋友喜欢上同一个男生，导致关系紧张，情绪低落，进而引发了一系列的抑郁症状。"
+        },
+        "environment": "出生在一个小城市，家庭环境温馨，但父母工作繁忙，陪伴时间较少。高中毕业后考入省城的一所大学，目前住在学校宿舍。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "父母工作繁忙，但家庭环境温馨。虽然陪伴时间较少，但在有限的时间里，父母尽力给予她关爱和支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "小时候有几个玩伴，关系非常亲密。她们一起玩耍、学习，度过了许多快乐的时光。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "朋友",
+                    "count": 5,
+                    "familiarity": [
+                        5,
+                        4,
+                        4,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "中学时期有几段深厚的友谊，但也经历过几次友情的破裂。她对人际关系产生了不信任感，变得更加内向。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "与几位老师关系较好，特别是班主任和语文老师，他们对她的成长给予了不少帮助和指导。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        3
+                    ],
+                    "description": [
+                        "最近因为和朋友喜欢上同一个男生，导致关系紧张。她与其中一个朋友的关系变得非常糟糕，情绪低落。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "大学里有几个同学关系还不错，但她因为抑郁症状，逐渐疏远了他们。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "水瑞秀的社交能力和意愿在不同阶段发生了显著变化。小时候性格活泼开朗，朋友众多，关系亲密。随着年龄增长，特别是中学时期经历了几次友情的破裂，她变得更加内向，对人际关系产生了不信任感。最近因为和朋友的关系紧张，情绪低落，进一步加剧了她的社交困难。她的抑郁症状使她逐渐疏远了大学里的同学，社交圈子变得越来越小。"
+    }
+}

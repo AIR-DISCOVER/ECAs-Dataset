@@ -1,0 +1,161 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我是无价值的。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我不值得被爱。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我无法控制自己的生活。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我有能力应对挑战。"
+        },
+        {
+            "belief_id": "core_belief_5",
+            "stage_key": "recent_events",
+            "belief": "我可以找到自己的价值。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法完成任务，因为我不够好。",
+                "others": "他人不会认可我，因为我没有价值。",
+                "world": "这个世界对我来说是不公平的。"
+            },
+            "rules": "我应该避免尝试新的事情，以免失败。",
+            "positive_assumption": "如果我避免尝试，我就不会失败和受伤。",
+            "negative_assumption": "如果我尝试，我一定会失败，因为我不够好。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得拥有成功。",
+                "others": "他人不会看重我的能力。",
+                "world": "成功只属于那些有价值的人。"
+            },
+            "rules": "我不应该期待成功，因为我不值得。",
+            "positive_assumption": "如果我不期待成功，我就不会失望。",
+            "negative_assumption": "如果我期待成功，我会因为我的无价值而失败。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得被关心和爱护。",
+                "others": "他人不会真心爱我。",
+                "world": "这个世界对我来说是冷漠的。"
+            },
+            "rules": "我应该保持距离，以免受伤。",
+            "positive_assumption": "如果我保持距离，我就不会受到伤害。",
+            "negative_assumption": "如果我靠近他人，我会被拒绝和伤害。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得被他人关注。",
+                "others": "他人不会真正在意我的感受。",
+                "world": "这个世界对感情漠不关心。"
+            },
+            "rules": "我应该隐藏自己的感受。",
+            "positive_assumption": "如果我隐藏感受，我就不会显得软弱。",
+            "negative_assumption": "如果我表达感受，我会被忽视或拒绝。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的生活失控，我无法改变。",
+                "others": "他人无法理解我的困境。",
+                "world": "这个世界对我来说是不可控的。"
+            },
+            "rules": "我不应该尝试控制自己的生活。",
+            "positive_assumption": "如果我不尝试控制生活，我就不会感到失望。",
+            "negative_assumption": "如果我尝试控制生活，我会失败并感到更糟。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法掌控自己的情绪。",
+                "others": "他人无法帮助我。",
+                "world": "这个世界对我来说是混乱的。"
+            },
+            "rules": "我应该放弃尝试控制自己的情绪。",
+            "positive_assumption": "如果我放弃控制情绪，我就不会感到压力。",
+            "negative_assumption": "如果我尝试控制情绪，我会更加焦虑和失控。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力面对困难。",
+                "others": "他人可以帮助我，但我可以独立解决问题。",
+                "world": "这个世界充满挑战，但我可以应对。"
+            },
+            "rules": "我应该积极面对挑战，采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我能够克服困难。",
+                "others": "他人可以提供支持，但我能独立解决问题。",
+                "world": "这个世界充满机遇，我可以抓住它们。"
+            },
+            "rules": "我应该主动寻求解决问题的方法。",
+            "positive_assumption": "如果我积极行动，我会取得成功。",
+            "negative_assumption": "如果我不行动，我会错失机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有潜力找到自己的价值。",
+                "others": "他人可以认可我的努力。",
+                "world": "这个世界有我的位置。"
+            },
+            "rules": "我应该不断努力，寻找自己的方向。",
+            "positive_assumption": "如果我努力，我会找到自己的价值。",
+            "negative_assumption": "如果我放弃，我会失去自我价值。"
+        },
+        {
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我可以通过学习和成长找到价值。",
+                "others": "他人会认可我的进步。",
+                "world": "这个世界对努力的人友好。"
+            },
+            "rules": "我应该持续学习和成长。",
+            "positive_assumption": "如果我努力学习，我会变得更有价值。",
+            "negative_assumption": "如果我停止学习，我会停滞不前。"
+        }
+    ]
+}

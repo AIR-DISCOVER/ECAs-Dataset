@@ -1,0 +1,171 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "责任心强",
+            "内向",
+            "坚韧",
+            "有些焦虑",
+            "善良"
+        ],
+        "appearance": [
+            "中等身材",
+            "黑发",
+            "略显疲惫",
+            "普通"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "看电影",
+                "散步"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "尽快恢复经济状况，减轻家庭负担",
+            "long_term_goals": "建立一个稳定的线上业务，确保家庭的经济安全"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，吃早餐后开始工作，午餐时间会稍作休息，下午继续工作到傍晚，晚上和家人共进晚餐，之后会看书或看电影放松。",
+            "weekends": "周末会和家人一起去公园散步，偶尔会和朋友聚会，但大部分时间还是和家人在一起。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他要求严格，从小就培养了他的责任心。",
+            "adolescence": "中学时期成绩优异，但性格内向，不太喜欢参加集体活动。",
+            "recent_events": "最近因为疫情影响，线下生意受挫，经济压力增大，导致精神压力增加。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在本地的一所普通高校就读，毕业后选择了自由职业，主要从事线下业务。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工人，性格严厉，对吴武会要求严格。",
+                        "母亲是一名家庭主妇，温柔但也有些严厉，注重吴武会的学习和生活习惯。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "小学同学，常一起玩耍，但关系一般。",
+                        "邻居家的孩子，偶尔一起做作业。",
+                        "表兄弟，假期时常一起玩。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲依旧严厉，但更多关注吴武会的学业。",
+                        "母亲开始更多地关注吴武会的心理健康，偶尔会有一些沟通。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "中学同学，成绩优异的竞争对手，关系较好。",
+                        "邻居家的孩子，关系一般，偶尔一起玩。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "班主任，关心吴武会的学业和心理健康，给予了很多帮助。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "妻子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "妻子是吴武会最亲密的人，理解他的压力，但吴武会不愿让她担心。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "孩子是吴武会的动力源泉，他希望给孩子一个稳定的生活环境。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "大学同学，关系较好，偶尔会联系。",
+                        "自由职业的同行，分享工作经验和压力。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "心理咨询师，帮助吴武会疏解压力，提供专业建议。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "吴武会在不同阶段的社交关系有明显变化。童年时期，他的社交圈主要是家庭和邻居，关系较为简单。进入青春期后，学业压力增加，他的社交圈逐渐扩展到学校和老师，但依旧保持内向。最近，由于经济压力和疫情影响，他的社交圈再次缩小，主要集中在家庭和少数朋友。尽管他有责任心和坚韧的性格，但内向和焦虑使他不愿意向家人倾诉，更多依赖于心理咨询师的帮助。"
+    }
+}

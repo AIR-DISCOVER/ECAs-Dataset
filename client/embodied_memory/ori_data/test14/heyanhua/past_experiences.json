@@ -1,0 +1,423 @@
+{
+    "childhood": {
+        "name": "和艳华",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在小学一年级的一次考试中，我的成绩不理想，只得了70分。回家后，父母看了我的成绩单，神情变得严肃。父亲对我说：'你这样怎么能考上好的中学？' 母亲则叹了口气，虽然没有说什么，但她的失望写在脸上。",
+                "location": "家庭客厅",
+                "happen_time": "2010年3月",
+                "participants": "父亲、母亲",
+                "impact": "这个事件强化了我的核心信念'我不够好'，让我觉得自己不值得被夸奖和认可。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "二年级的一次班级绘画比赛中，我的作品得了第三名。尽管老师和同学们都称赞了我的作品，但回家后，父母只问我为什么没得第一名。",
+                "location": "家庭厨房",
+                "happen_time": "2011年11月",
+                "participants": "父亲、母亲",
+                "impact": "这个事件让我觉得自己的努力不被认可，进一步强化了'我必须满足别人的期望'的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里看见父母因为经济问题争吵。父亲责备母亲花钱太多，母亲则说自己为了家庭付出了很多。这次争吵让我明白到，父母对我有很高的期望是因为他们希望我能通过学习改变家庭的状况。",
+                "location": "家庭客厅",
+                "happen_time": "2012年5月",
+                "participants": "父亲、母亲",
+                "impact": "这个事件让我觉得必须努力满足父母的期望，不然会让他们失望，进一步强化了'我必须满足别人的期望'的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "五年级的一次演讲比赛中，我因为紧张而忘词，最终没有获奖。老师安慰我说'没关系，下次再努力'，但我心里却觉得非常难过，觉得自己不够聪明。",
+                "location": "学校礼堂",
+                "happen_time": "2015年10月",
+                "participants": "老师、同学",
+                "impact": "这个事件强化了'如果我表现不佳，那是因为我不够聪明'的中间信念，增加了我的自卑感。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "六年级毕业前夕，我的成绩达到了全班前三名，父母奖励了我一台新的绘画板。这是我少数几次感到被父母完全认可的时刻。",
+                "location": "家庭客厅",
+                "happen_time": "2016年6月",
+                "participants": "父亲、母亲",
+                "impact": "这个事件强化了'我可以通过努力改善自己'的核心信念，增加了我的自信心。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在公园里看见一个小朋友摔倒了，他的妈妈立刻跑过去抱起他，安慰他说'没关系，不疼的'。这让我开始思考，为什么我的父母总是对我很严厉，而不是像那位妈妈一样温柔。",
+                "location": "公园",
+                "happen_time": "2013年7月",
+                "participants": "陌生人",
+                "impact": "这个事件让我开始怀疑自己是否值得被温柔对待，进一步强化了'我不值得被夸奖和认可'的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "小学四年级的一次期末考试，我的数学成绩满分，老师在全班面前表扬了我。这让我感到非常自豪，但回家后，父母只简单地说了一句'不错'。",
+                "location": "学校教室",
+                "happen_time": "2014年12月",
+                "participants": "老师、同学、父亲、母亲",
+                "impact": "这个事件让我觉得自己的努力不被家里人认可，进一步强化了'我不值得被夸奖和认可'的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "有一次，我在美术课上画了一幅画，老师夸奖了我，并把它挂在了教室里展示。这是我第一次在学校里感到被认可和赞赏。",
+                "location": "学校教室",
+                "happen_time": "2012年10月",
+                "participants": "老师、同学",
+                "impact": "这个事件让我感到通过努力可以获得认可，强化了'我可以通过努力改善自己'的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的小孩因为成绩不好被父母责骂，小孩哭得很伤心。我突然觉得，这种对成绩的高期望不仅仅是我家的问题，而是很多家庭都存在的现象。",
+                "location": "邻居家",
+                "happen_time": "2011年4月",
+                "participants": "邻居小孩及其父母",
+                "impact": "这个事件让我觉得世界对那些不能达到期望的人是不友好的，进一步强化了'世界对那些不够好的人是不宽容的'的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我参加了一次校外美术比赛，虽然没有获奖，但在比赛过程中认识了一些志同道合的朋友，大家互相鼓励和支持。",
+                "location": "美术比赛会场",
+                "happen_time": "2015年5月",
+                "participants": "美术比赛中的朋友",
+                "impact": "这个事件让我感受到友谊和支持的重要性，稍微缓解了我对自己不够好的焦虑。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校看到一个同学因为没有完成作业被老师罚站，全班同学都在笑他。我感到非常难过，觉得一定要避免自己成为那个被嘲笑的人。",
+                "location": "学校教室",
+                "happen_time": "2013年3月",
+                "participants": "同学、老师",
+                "impact": "这个事件让我更加害怕表现不佳，强化了'我必须尽力避免表现不佳'的中间信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "六年级时，我在一次学校的才艺表演中表演了自己的绘画作品，得到了很多掌声和称赞。这是我第一次在公众面前感到自信和被认可。",
+                "location": "学校礼堂",
+                "happen_time": "2016年4月",
+                "participants": "老师、同学、父母",
+                "impact": "这个事件让我感受到通过努力可以获得认可，强化了'我可以通过努力改善自己'的核心信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校看到一个成绩不好的同学被老师叫家长，老师在家长面前严厉批评了他。我感到害怕，觉得如果自己成绩不好，也会被这样对待。",
+                "location": "学校办公室",
+                "happen_time": "2014年5月",
+                "participants": "同学、老师、同学的家长",
+                "impact": "这个事件让我更加强化了'我必须尽全力满足父母的期望'的中间信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "有一次，我在家里偷偷画了一幅画，打算参加学校的绘画比赛，但害怕父母知道后会不支持。最终，我还是鼓起勇气告诉了他们，结果他们非常支持我，还帮我准备了许多绘画材料。",
+                "location": "家庭客厅",
+                "happen_time": "2013年9月",
+                "participants": "父亲、母亲",
+                "impact": "这个事件让我感受到父母对我的支持，稍微缓解了我对他们期望的压力。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在电视上看到一个成功的设计师的采访，他讲述了自己如何通过努力和坚持实现了梦想。我感到非常受启发，觉得自己也有潜力变得更好。",
+                "location": "家中客厅",
+                "happen_time": "2015年1月",
+                "participants": "电视上的设计师",
+                "impact": "这个事件让我相信通过努力可以实现目标，强化了'我有潜力变得更好'的中间信念。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "和艳华",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在初中阶段的一次期中考试成绩出来后，我的成绩并没有达到预期。回到家，我看见妈妈脸上的失望。我感到内疚和自责，觉得自己让父母失望了。",
+                "location": "家中",
+                "happen_time": "2017年11月",
+                "participants": "和艳华，母亲",
+                "impact": "这次事件加强了和艳华的核心信念'我不够好'，并使她更加努力以避免让父母失望。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在高中入学的第一天，我感到非常紧张和孤独。尽管我试图与新同学交谈，但始终觉得自己不被接纳。",
+                "location": "高中校园",
+                "happen_time": "2019年9月",
+                "participants": "和艳华，同学们",
+                "impact": "这种孤独感和不被接纳的感觉进一步强化了她的核心信念'我不值得被赞美和认可'。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "在一次课堂讨论中，我提出了自己的观点，但却被老师当众否定。我感到非常尴尬和无助。",
+                "location": "高中教室",
+                "happen_time": "2020年3月",
+                "participants": "和艳华，老师，同学们",
+                "impact": "这次事件让她更加确信'别人会注意到我的不足并批评我'，她变得更加内向和害怕表达自己。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在一次绘画比赛中，我获得了二等奖。虽然是个好成绩，但我仍然觉得自己不够好，觉得只有一等奖才足够证明自己。",
+                "location": "学校绘画比赛现场",
+                "happen_time": "2021年5月",
+                "participants": "和艳华，评委，其他参赛者",
+                "impact": "尽管取得了好成绩，但这次经历并没有给予她足够的自信，反而加深了她对完美的追求。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，父母不断夸奖表姐的优秀表现，我感到自己被忽视和不被认可。",
+                "location": "家庭聚会",
+                "happen_time": "2021年春节",
+                "participants": "和艳华，父母，表姐",
+                "impact": "这次事件使她更加认为'我不值得被赞美和认可'，并感到深深的自卑。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在高考前夕，我感到巨大的压力，常常失眠，担心无法达到父母的期望。",
+                "location": "家中",
+                "happen_time": "2022年6月",
+                "participants": "和艳华，父母",
+                "impact": "这种压力让她更加确信'我必须满足别人的期望'，并加重了她的焦虑感。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "进入大学后，我发现学业比想象中更具挑战性，第一次期中考试成绩不理想，我感到非常失望和内疚。",
+                "location": "大学校园",
+                "happen_time": "2022年11月",
+                "participants": "和艳华，同学们",
+                "impact": "这次事件进一步加深了她的自信心下降，并使她更加努力以免让自己和别人失望。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在一次课外活动中，我结识了一些新朋友，他们对我表示理解和支持，让我感到被接纳。",
+                "location": "大学课外活动现场",
+                "happen_time": "2022年12月",
+                "participants": "和艳华，新朋友们",
+                "impact": "这次事件让她感受到被接纳的温暖，并稍微缓解了她的内向和自卑感。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在图书馆看到一位同学因成绩不佳而被父母责备，她哭得很伤心。",
+                "location": "大学图书馆",
+                "happen_time": "2022年10月",
+                "participants": "和艳华，一位同学",
+                "impact": "这次观察让她更加确信'世界对失败者没有容忍'，并感到深深的共鸣。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "在一次班会上，老师表扬了一位同学的进步，我看见那位同学满脸的喜悦和自信。",
+                "location": "大学教室",
+                "happen_time": "2022年12月",
+                "participants": "和艳华，老师，同学们",
+                "impact": "这次观察让她意识到'努力可以带来认可'，并激励她更加努力学习。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一天，我在校园里看到一个同学因为帮助他人而受到称赞，那一刻我感到内心充满温暖。",
+                "location": "大学校园",
+                "happen_time": "2022年10月",
+                "participants": "和艳华，一位同学",
+                "impact": "这次观察让她意识到'帮助他人可以获得认可'，并增强了她的善良品质。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "在一次朋友聚会上，我看到一个朋友因为失败而被大家安慰，我感到这些朋友真的很值得信赖。",
+                "location": "朋友家中",
+                "happen_time": "2022年12月",
+                "participants": "和艳华，朋友们",
+                "impact": "这次观察让她感受到友情的温暖，并增强了对朋友的信任。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "和艳华",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2022年期末考试成绩公布，和艳华发现自己的成绩不理想，她感到非常沮丧和内疚，认为自己辜负了父母的期望。",
+                "location": "大学校园",
+                "happen_time": "2022年12月",
+                "participants": "和艳华，父母",
+                "impact": "加剧了和艳华的自我怀疑和内疚感，使她更加觉得自己不够好，进一步影响了她的自信心。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "和艳华在一次班级聚会中感到自己被忽视，她认为别人不喜欢她。",
+                "location": "大学校园",
+                "happen_time": "2023年3月",
+                "participants": "和艳华，同学",
+                "impact": "增强了她的孤独感和不被认可的感觉，进一步巩固了她的核心信念‘我不够好’。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "和艳华目睹了一位朋友在课业上取得优异成绩，并被老师和同学一致称赞。",
+                "location": "大学校园",
+                "happen_time": "2023年5月",
+                "participants": "和艳华，朋友，老师，同学",
+                "impact": "和艳华感到自己与朋友的差距，认为自己无法达到那样的成就，进一步加深了她的自卑感和无力感。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "和艳华在与父母通话时，父母表达了对她成绩的担忧，建议她多花时间学习。",
+                "location": "和艳华的宿舍",
+                "happen_time": "2023年6月",
+                "participants": "和艳华，父母",
+                "impact": "增加了她的压力和内疚感，使她更加觉得自己必须满足别人的期望。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "和艳华观察到一位同学因为未能通过考试而被老师批评。",
+                "location": "大学校园",
+                "happen_time": "2023年9月",
+                "participants": "和艳华，同学，老师",
+                "impact": "增加了她对失败的恐惧，认为世界对失败者没有容忍，进一步加深了她的核心信念‘我不够好’。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "和艳华在一次绘画课上，老师对她的作品给予了积极的反馈，这让她感到一丝自信。",
+                "location": "绘画教室",
+                "happen_time": "2023年10月",
+                "participants": "和艳华，老师",
+                "impact": "这一积极反馈暂时提升了她的自信心，但由于核心信念的根深蒂固，效果短暂。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "和艳华在期中考试中表现不佳，她感到非常失落和自责。",
+                "location": "大学校园",
+                "happen_time": "2023年11月",
+                "participants": "和艳华",
+                "impact": "这次失败进一步加剧了她的自我怀疑和内疚感，强化了她的中间信念‘如果我失败，那是因为我能力不足’。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "和艳华与朋友一起外出放松，但她总是感觉自己不如别人。",
+                "location": "市中心",
+                "happen_time": "2023年12月",
+                "participants": "和艳华，朋友",
+                "impact": "即使在放松时，她也无法摆脱对自我价值的怀疑，进一步加深了她的自卑感。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "和艳华看到一位同学因未能满足父母的期望而被责备。",
+                "location": "宿舍",
+                "happen_time": "2024年1月",
+                "participants": "和艳华，同学，父母",
+                "impact": "她对自己也有类似的恐惧，认为如果她不能满足父母的期望，她也会被否定。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "和艳华在一次学术讨论中感到自己知识储备不足，无法跟上讨论的节奏。",
+                "location": "大学图书馆",
+                "happen_time": "2024年2月",
+                "participants": "和艳华，同学",
+                "impact": "使她觉得自己不够聪明和有能力，进一步加深了她的核心信念‘我不够好’。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "和艳华看到一位朋友因学术成功而获得奖学金。",
+                "location": "大学校园",
+                "happen_time": "2024年3月",
+                "participants": "和艳华，朋友",
+                "impact": "她感到自己与朋友的差距越来越大，认为自己无法达到那样的成就，进一步加深了她的自卑感。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "和艳华在与心理咨询师的交流中，尝试表达自己的压力和自我怀疑。",
+                "location": "心理咨询室",
+                "happen_time": "2024年4月",
+                "participants": "和艳华，心理咨询师",
+                "impact": "虽然表达自己的感受让她感到一些释放，但她仍然感到无力改变现状。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "和艳华在一次家乡的聚会上，听到亲戚们对她成绩的质疑和对比。",
+                "location": "家庭聚会",
+                "happen_time": "2024年5月",
+                "participants": "和艳华，亲戚",
+                "impact": "让她感到更加内疚和压力，认为自己辜负了家人的期望。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "和艳华看到一位同学因未能通过考试而选择自杀。",
+                "location": "大学校园",
+                "happen_time": "2024年6月",
+                "participants": "和艳华，同学",
+                "impact": "这一事件深深震撼了她，使她感到学业压力和失败感可能会导致严重后果，进一步加剧了她的焦虑和自杀风险。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "和艳华在一次课堂讨论中表现优异，得到了老师的表扬。",
+                "location": "大学教室",
+                "happen_time": "2024年7月",
+                "participants": "和艳华，老师，同学",
+                "impact": "这一正面反馈让她短暂地感到自信，但这种自信感很快被她对未来的焦虑所覆盖。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "和艳华在一次社交活动中感到自己被排斥，她认为是因为她不够有趣和自信。",
+                "location": "大学校园",
+                "happen_time": "2024年8月",
+                "participants": "和艳华，同学",
+                "impact": "进一步加深了她的孤独感和自我怀疑，使她更加觉得自己不够好。"
+            }
+        ]
+    }
+}

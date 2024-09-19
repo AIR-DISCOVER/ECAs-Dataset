@@ -1,0 +1,186 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "犹豫不决",
+            "缺乏自信",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "皮肤苍白",
+            "黑眼圈明显",
+            "头发略显凌乱"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐"
+            ],
+            "activity": [
+                "独自一人听音乐",
+                "在安静的地方阅读",
+                "偶尔画画"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复正常的学习和生活状态，能够集中注意力完成学业",
+            "long_term_goals": "找到一份稳定的工作，能够自立并且拥有一个平静的生活"
+        },
+        "daily_life": {
+            "routine": "每天早上勉强起床，白天在学校上课但难以集中注意力，晚上回到宿舍后感到极度疲倦但难以入睡",
+            "weekends": "大部分时间待在宿舍，偶尔会去图书馆或校园内的安静角落独自阅读"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格活泼，但由于父母工作忙碌，缺乏足够的陪伴和关注",
+            "adolescence": "中学时期成绩优异，但由于一次考试失利，开始对自己产生怀疑，逐渐变得内向",
+            "recent_events": "最近一次考试成绩不理想，导致自信心严重受挫，开始出现抑郁症状"
+        },
+        "environment": "出生在一个小城市，家庭经济条件一般，父母工作繁忙，大学在省会城市就读，独自生活"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "父亲工作繁忙，虽然关心殷琳寒，但陪伴时间有限。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲同样工作繁忙，但在有限的时间里尽量照顾殷琳寒的生活。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        4
+                    ],
+                    "description": [
+                        "小时候有两个非常要好的朋友，经常一起玩耍，但随着时间推移，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "父亲的工作压力越来越大，与殷琳寒的交流变得更少。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲依然尽力照顾殷琳寒，但由于工作原因，陪伴时间依然有限。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "中学时期有几个关系较好的同学，但由于一次考试失利，殷琳寒逐渐疏远了他们。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "有一位特别关心她的老师，曾经给予她很多鼓励和支持。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        1
+                    ],
+                    "description": [
+                        "父亲的工作依然繁忙，与殷琳寒的交流几乎没有。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "母亲依然关心殷琳寒，但由于距离和工作原因，交流变得更少。"
+                    ]
+                },
+                {
+                    "relationship": "室友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "大学室友关系一般，偶尔会关心她的状态，但殷琳寒并不愿意多交流。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "最近开始定期见心理咨询师，虽然交流不多，但感觉到了一些支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "殷琳寒的社交关系在不同阶段发生了显著变化。童年时期，她有几个要好的朋友，但随着父母工作繁忙和自身性格的变化，这些关系逐渐疏远。中学时期，由于一次考试失利，她开始对自己产生怀疑，逐渐变得内向，疏远了同学和朋友。进入大学后，虽然有室友和同学，但她更倾向于独处，社交关系变得更加稀疏。最近，她开始寻求心理咨询师的帮助，虽然交流不多，但感觉到了一些支持。"
+    }
+}

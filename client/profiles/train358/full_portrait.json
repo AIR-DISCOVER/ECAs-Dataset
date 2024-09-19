@@ -1,0 +1,158 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "善良",
+            "缺乏自信",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "纤细",
+            "皮肤白皙",
+            "长发",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "周末去公园散步",
+                "和朋友聊天",
+                "在家做手工"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能够顺利完成学业，调整好自己的情绪状态",
+            "long_term_goals": "希望成为一名心理咨询师，帮助更多有需要的人"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后会花一些时间阅读，白天上课，晚上通常会听音乐或看电影放松自己",
+            "weekends": "周末喜欢去公园散步，有时会和朋友见面聊天，或者在家做一些手工"
+        },
+        "past_experiences": {
+            "childhood": "小时候在一个小城市长大，家庭氛围和睦，但父母对她的期望较高",
+            "adolescence": "中学时期成绩优异，但因为学习压力大，开始出现焦虑和自我怀疑的情绪",
+            "recent_events": "最近因为学业压力和婚姻生活的双重压力，情绪波动较大，出现了抑郁症状"
+        },
+        "environment": "出生在一个小城市，大学在大城市就读，婚后与丈夫住在学校附近的公寓"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "韩菲宁的父母对她非常关爱，但对她的期望也很高。她的父亲是一名工程师，母亲是一名教师，他们希望韩菲宁能够在学业上取得优异成绩。虽然家庭氛围和睦，但父母的高期望让她从小就感到压力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "韩菲宁在小学和初中时期有几个要好的朋友，他们经常一起玩耍和学习。虽然她性格内向，但这些朋友让她感到温暖和支持。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "进入中学后，韩菲宁的学习压力增大，父母对她的期望也更高。虽然他们依然关心她，但她开始感到与父母之间的距离感。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学时期，韩菲宁的朋友圈子变小了。她的两个朋友虽然关系不错，但由于学习压力大，她们之间的互动减少了。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "韩菲宁的班主任是一位严格但关心学生的老师。虽然她对老师有些敬畏，但老师的鼓励让她在学业上更加努力。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "韩菲宁与丈夫在大学期间相识并结婚。虽然他们感情很好，但婚姻生活和学业的双重压力让她感到疲惫。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "大学期间，韩菲宁结识了两位朋友。她们经常一起学习和聊天，但由于韩菲宁的情绪波动，她们之间的互动也受到影响。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "韩菲宁最近开始接受心理咨询，希望通过专业的帮助来调整自己的情绪状态。虽然她对咨询师还不太熟悉，但她对咨询充满希望。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "韩菲宁的社交关系在不同阶段发生了显著变化。童年时期，她与父母和朋友的关系紧密，但随着学业压力的增加，她与父母和朋友的互动减少。进入大学后，她结识了新的朋友并结婚，但学业和婚姻的双重压力让她的社交能力和意愿受到影响。最近，她开始寻求心理咨询，希望通过专业帮助来改善自己的情绪状态和社交关系。"
+    }
+}

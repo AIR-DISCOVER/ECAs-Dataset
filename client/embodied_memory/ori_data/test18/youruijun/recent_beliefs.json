@@ -1,0 +1,99 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须满足别人的期望。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有能力实现自我价值。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我被拒绝，那是因为我不够好。",
+                "others": "他人会看到我的不足，并因此拒绝我。",
+                "world": "世界是竞争激烈的，只有最优秀的人才能成功。"
+            },
+            "rules": "我应该避免失败，以免暴露自己的不足。",
+            "positive_assumption": "如果我避免失败，我就能保持自尊。",
+            "negative_assumption": "如果我失败了，我就证明了我不够好。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是需要别人的肯定来证明自己。",
+                "others": "他人对我的评价决定了我的价值。",
+                "world": "世界对我很苛刻，我必须不断证明自己。"
+            },
+            "rules": "我必须时刻努力，争取别人的认可。",
+            "positive_assumption": "如果我赢得别人的认可，我就会觉得自己有价值。",
+            "negative_assumption": "如果我得不到别人的认可，我就会觉得自己一无是处。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须满足父母的期望才能被认可。",
+                "others": "父母的认可是我价值的体现。",
+                "world": "世界对我充满期待，我不能让别人失望。"
+            },
+            "rules": "我应该时刻努力，以满足父母和他人的期望。",
+            "positive_assumption": "如果我满足了别人的期望，我会得到认可和爱。",
+            "negative_assumption": "如果我无法满足别人的期望，我会被忽视和拒绝。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要不断努力工作，才能被认可。",
+                "others": "他人对我的期望是我努力的动力。",
+                "world": "世界对我的期望很高，我必须不断努力。"
+            },
+            "rules": "我应该不断追求更高的成就，以满足他人的期望。",
+            "positive_assumption": "如果我实现了他人的期望，我会被认可和尊重。",
+            "negative_assumption": "如果我没能实现他人的期望，我会失去他们的支持和信任。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力通过努力实现自我价值。",
+                "others": "他人会看到我的努力和能力。",
+                "world": "世界充满机会，我可以通过努力实现目标。"
+            },
+            "rules": "我应该积极面对挑战，以展示我的能力。",
+            "positive_assumption": "如果我努力并面对挑战，我会实现自我价值。",
+            "negative_assumption": "如果我逃避挑战，我会失去实现自我价值的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力独立解决问题。",
+                "others": "他人能提供帮助，但我主要依靠自己。",
+                "world": "世界是公平的，我可以通过努力获得成功。"
+            },
+            "rules": "我应该主动解决问题，并不断提升自己。",
+            "positive_assumption": "如果我独立解决问题，我会变得更强大。",
+            "negative_assumption": "如果我依赖他人，我会失去独立性和自信。"
+        }
+    ]
+}

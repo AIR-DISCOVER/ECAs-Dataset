@@ -1,0 +1,233 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "温和",
+            "耐心",
+            "有责任感",
+            "内向"
+        ],
+        "appearance": [
+            "中等身材",
+            "微胖",
+            "头发花白",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "看新闻",
+                "阅读历史书籍",
+                "散步"
+            ],
+            "activity": [
+                "和家人一起吃饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "保持健康的生活方式，多和孩子们联系",
+            "long_term_goals": "退休后和妻子一起去旅游，享受晚年生活"
+        },
+        "daily_life": {
+            "routine": "早上6点起床，吃早餐后上班。下班后看新闻，和妻子一起吃晚饭，晚上阅读或散步。",
+            "weekends": "周末通常会去公园散步，有时会和朋友聚会，或者和孩子们视频通话。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工人家庭，父母勤劳朴实。",
+            "adolescence": "中学时期成绩优异，但性格内向，不太爱交际。",
+            "youth": "大学毕业后进入一家国企工作，工作稳定，结婚生子。",
+            "recent_events": "孩子们长大后离家，家里变得冷清，自己也开始感到孤单。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在上海读书，毕业后回到南京工作和生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工人，勤劳朴实，对黄良志的教育非常重视。",
+                        "母亲是一名家庭主妇，温柔体贴，照顾家庭无微不至。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "小学同学，常一起玩耍。",
+                        "邻居家的孩子，常一起做作业。",
+                        "堂兄弟，假期常一起度过。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲对黄良志的学业要求严格，常常督促他学习。",
+                        "母亲依旧温柔体贴，支持黄良志的每一个决定。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "班主任，关心黄良志的学习和生活。",
+                        "数学老师，黄良志的成绩优异，常常得到表扬。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学同学，常一起讨论学习问题。",
+                        "邻居家的孩子，依旧保持联系。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲对黄良志的工作选择给予了很多建议。",
+                        "母亲依旧是黄良志的精神支柱。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "工作上的伙伴，互相帮助。",
+                        "一起吃午饭的同事。",
+                        "一起加班的同事。",
+                        "一起参加公司活动的同事。",
+                        "一起出差的同事。"
+                    ]
+                },
+                {
+                    "relationship": "妻子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "大学时认识的恋人，结婚后成为生活的伴侣。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "儿子，聪明伶俐，黄良志对他寄予厚望。",
+                        "女儿，乖巧懂事，是黄良志的骄傲。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "妻子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "依旧是生活的伴侣，互相扶持。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "儿子，已经成家立业，偶尔回家探望。",
+                        "女儿，工作繁忙，常通过视频通话联系。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "工作上的伙伴，互相帮助。",
+                        "一起吃午饭的同事。",
+                        "一起加班的同事。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "老朋友，偶尔聚会。",
+                        "邻居，常一起散步。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "黄良志的社会关系在不同阶段有明显的变化。童年时期，他的主要社会关系集中在家庭和邻居。进入青春期后，学校的老师和同学成为他重要的社会关系。成年后，工作同事和家庭成员成为他生活的重心。最近，随着孩子们的离家，他的社会关系变得更加单一，主要依赖于妻子和少数朋友。尽管他依旧保持着一些社交活动，但整体上他的社交圈子变得狭窄，孤独感也随之增加。"
+    }
+}

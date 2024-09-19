@@ -1,0 +1,433 @@
+{
+    "childhood": {
+        "name": "费琳岚",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "小时候，我常常看到妈妈在家里忙碌，她总是在辅导我的功课和做家务。一天晚上，我看到妈妈在灯下批改我的作业，她的眼睛红红的。那一刻，我感到非常内疚和压力，觉得自己必须更加努力，不能辜负妈妈的期望。",
+                "location": "家里客厅",
+                "happen_time": "2001年10月",
+                "participants": "妈妈",
+                "impact": "这个事件加深了我对'我必须表现得很出色才能被认可'的核心信念，使我更加努力学习，压力增大。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学三年级的时候，我在期末考试中拿到了全年级第一名。老师在全班同学面前表扬了我，我感到非常自豪，但同时也感到巨大的压力，因为我知道自己必须一直保持这样的成绩，才能继续获得认可。",
+                "location": "小学教室",
+                "happen_time": "2004年6月",
+                "participants": "老师，同学",
+                "impact": "这个事件强化了我的核心信念'我必须表现得很出色才能被认可'，并使我形成了'我必须始终表现得完美'的中间信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "有一次，妈妈生病了，但她仍然坚持完成家务和辅导我的学习。我问妈妈为什么不休息，她告诉我，家里有很多事情要做，不能停下来。这让我觉得休息是浪费时间，感到自己也不能轻易休息。",
+                "location": "家里",
+                "happen_time": "2005年3月",
+                "participants": "妈妈",
+                "impact": "这个事件使我形成了'我不值得休息'的核心信念，并强化了'休息是浪费时间的表现'的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学五年级的一次班级活动中，我负责组织一个小组完成一个项目。虽然任务繁重，但我依然把所有的工作都揽了过来，因为我觉得自己有责任完成所有任务，不能让别人失望。",
+                "location": "小学教室",
+                "happen_time": "2006年5月",
+                "participants": "同学",
+                "impact": "这个事件强化了我的核心信念'我有责任完成所有任务'，并使我形成了'我必须尽一切可能完成所有任务'的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "小学六年级的一次家长会后，妈妈告诉我要更加努力，因为只有这样才能在竞争激烈的环境中脱颖而出，获得更好的未来。这让我觉得世界充满竞争，必须不断努力才能被认可。",
+                "location": "家里",
+                "happen_time": "2007年1月",
+                "participants": "妈妈",
+                "impact": "这个事件强化了我的核心信念'我必须表现得很出色才能被认可'，并形成了'世界是竞争激烈的，需要不断努力才能被认可'的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父亲因为工作上的问题而非常焦虑，回到家还在不停地打电话和处理文件。这让我意识到，成年人的世界是非常辛苦的，必须不断努力才能生存。",
+                "location": "家里",
+                "happen_time": "2003年11月",
+                "participants": "父亲",
+                "impact": "这个事件使我形成了'世界不容许懈怠，只有勤奋才能生存'的信念，进一步强化了'我不值得休息'的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "一次放学后，我看到一个同学因为考试成绩不理想而被父母责骂，同学哭得很伤心。这让我觉得，如果我没有好的表现，我也会被责骂和看轻。",
+                "location": "学校",
+                "happen_time": "2005年12月",
+                "participants": "同学，同学的父母",
+                "impact": "这个事件强化了我的中间信念'他人只会看重我的成功和表现'，加深了对失败的恐惧。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "一次妈妈让我帮忙做家务，我本来想拒绝，因为有很多作业要做。但看到妈妈忙碌的样子，我最终还是答应了，因为我觉得我必须尽量满足她的要求，不能让她失望。",
+                "location": "家里",
+                "happen_time": "2006年8月",
+                "participants": "妈妈",
+                "impact": "这个事件强化了我的核心信念'我有责任完成所有任务'，并形成了'我不能拒绝他人的请求，否则会被视为不合作'的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里听见爸爸和妈妈因为经济问题争吵，妈妈哭了。这让我意识到，家庭的压力很大，我必须努力学习，将来才能减轻家里的负担。",
+                "location": "家里",
+                "happen_time": "2002年5月",
+                "participants": "爸爸，妈妈",
+                "impact": "这个事件加深了我对'我必须表现得很出色才能被认可'和'我有责任完成所有任务'的核心信念的认同。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "一次学校运动会上，我参加了跑步比赛，但最后只拿到了第三名。我感到非常失落，觉得自己没有达到期望，害怕别人会因此看轻我。",
+                "location": "学校操场",
+                "happen_time": "2005年10月",
+                "participants": "同学，老师",
+                "impact": "这个事件使我形成了'如果我失败了，我就会被视为无能和不值得尊重'的中间信念，增加了对失败的恐惧。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "一次考试前，我因为过度紧张和焦虑而睡不着觉，但仍然坚持复习，最终在考试中取得了好成绩。我感到非常疲惫，但也觉得这样做是值得的，因为只有这样才能获得认可。",
+                "location": "家里",
+                "happen_time": "2006年6月",
+                "participants": "无",
+                "impact": "这个事件强化了我的核心信念'我不值得休息'，并形成了'如果我不休息，我会完成更多任务，获得更多认可'的中间信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "一次班主任要求我们每个人写一篇关于未来梦想的作文，我写了想成为一名医生，帮助更多的人。班主任在班上表扬了我的作文，这让我感到非常自豪和受鼓舞。",
+                "location": "小学教室",
+                "happen_time": "2006年11月",
+                "participants": "班主任，同学",
+                "impact": "这个事件强化了我的核心信念'我是有能力的'，并形成了'如果我面对挑战，我会变得更强大，并获得新的经验'的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "一次我看到一个同学在操场上摔倒了，其他同学都在嘲笑他，而他却坚强地站起来，说自己没事。这让我觉得面对挑战和挫折时，应该主动应对并采取行动。",
+                "location": "学校操场",
+                "happen_time": "2004年4月",
+                "participants": "同学",
+                "impact": "这个事件使我形成了'当遇到挑战时，我应该主动应对并采取行动'的中间信念，增强了我的自信心。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "一次妈妈在辅导我数学题目时，我怎么也解不出来，感到非常沮丧。妈妈耐心地给我讲解了一遍又一遍，最后我终于理解了。这让我觉得，只要努力，我是有能力解决问题的。",
+                "location": "家里",
+                "happen_time": "2003年9月",
+                "participants": "妈妈",
+                "impact": "这个事件强化了我的核心信念'我是有能力的'，并形成了'我有能力解决问题，并面对生活中的挑战'的中间信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "有一次，我的两个好朋友因为一些小事吵架了，两个人都希望我站在她们那边。我感到非常为难，但最终还是选择了调解她们的矛盾，帮助她们和好。",
+                "location": "学校",
+                "happen_time": "2006年3月",
+                "participants": "两个好朋友",
+                "impact": "这个事件强化了我的核心信念'我有责任完成所有任务'，并形成了'我必须尽量满足他人的要求，不能拒绝'的中间信念。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "费琳岚",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "中学入学考试成绩公布，费琳岚以优异的成绩考入学校。她的父母在家里举办了一场小型庆祝会，亲戚朋友都来祝贺她。",
+                "location": "家中",
+                "happen_time": "2008年9月",
+                "participants": "父母、亲戚朋友",
+                "impact": "这次成功进一步强化了她的核心信念‘我必须表现得很出色才能被认可’，并加深了她对取得好成绩的期待和压力。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次月考中，费琳岚的成绩不如预期，她感到非常沮丧。回家后，父母没有责备她，但她自己内心难以平静。",
+                "location": "学校、家中",
+                "happen_time": "2009年11月",
+                "participants": "父母、老师",
+                "impact": "这次挫折让她的核心信念‘我必须表现得很出色才能被认可’和中间信念‘如果我成绩不好，我就会被视为无能和不值得尊重’得到了进一步强化。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "费琳岚在学校里看到一位同学因为成绩不佳而被老师批评，那位同学哭了。",
+                "location": "学校教室",
+                "happen_time": "2010年3月",
+                "participants": "同学、老师",
+                "impact": "这一事件强化了她的核心信念‘我必须表现得很出色才能被认可’，她更加害怕自己会有类似的经历。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在班级的期末考试中，费琳岚获得了第一名，并受到了班主任的表扬和同学们的祝贺。",
+                "location": "学校教室",
+                "happen_time": "2010年6月",
+                "participants": "班主任、同学",
+                "impact": "这次成功进一步巩固了她的核心信念‘我是有能力的’，并增加了她对自己能力的信心。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在校运会期间，费琳岚代表班级参加了长跑比赛，尽管她在比赛中跌倒，但她坚持跑完了全程，获得了同学们的鼓励和赞赏。",
+                "location": "学校操场",
+                "happen_time": "2011年5月",
+                "participants": "同学、体育老师",
+                "impact": "这次经历让她的中间信念‘如果我面对学业挑战，我会变得更强大，并获得新的经验’得到了验证，并增强了她的毅力和坚持精神。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "费琳岚在家里看到父母因为经济问题争吵，她感到无助和焦虑。",
+                "location": "家中客厅",
+                "happen_time": "2011年8月",
+                "participants": "父母",
+                "impact": "这一事件让她的核心信念‘我有责任完成所有任务’和中间信念‘如果我没有完成学业任务，我会让老师和家长失望，并被视为不负责任’得到了强化，她感到自己必须更加努力学习，减轻父母的负担。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在高考前的模拟考试中，费琳岚的成绩排名有所下滑，她感到极大的压力，不得不加倍努力复习。",
+                "location": "学校、家中",
+                "happen_time": "2012年4月",
+                "participants": "父母、老师",
+                "impact": "这次事件进一步强化了她的核心信念‘我不值得休息’，她开始更加拼命地学习，几乎没有任何休息时间。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "高考结束后，费琳岚考入了一所不错的大学，父母为她感到骄傲，并送她前往大学报到。",
+                "location": "家中、大学校园",
+                "happen_time": "2013年6月",
+                "participants": "父母、大学老师",
+                "impact": "这次成功让她的核心信念‘我是有能力的’得到了进一步验证，但也加深了她的中间信念‘如果我不取得好成绩，我会感到自己很失败’。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "费琳岚在大学里看到一位学长因为学业压力过大而崩溃，她感到非常震惊。",
+                "location": "大学校园",
+                "happen_time": "2013年10月",
+                "participants": "学长、大学同学",
+                "impact": "这一事件让她重新思考自己的中间信念‘我应该尽量避免休息，以保持高效学习’，开始逐渐意识到休息的重要性。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "费琳岚在大学的第一次期中考试中取得了优异的成绩，得到了导师的表扬，并与导师建立了较为亲密的关系。",
+                "location": "大学教室",
+                "happen_time": "2013年11月",
+                "participants": "导师、大学同学",
+                "impact": "这次成功进一步巩固了她的核心信念‘我是有能力的’，并增进了她与导师的关系，使她在学术上得到了更多支持。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "费琳岚在宿舍里听到室友们讨论未来的职业规划，她开始思考自己的职业生涯。",
+                "location": "大学宿舍",
+                "happen_time": "2013年12月",
+                "participants": "室友",
+                "impact": "这一事件让她的中间信念‘世界充满机会和挑战，而我有能力应对’得到了进一步强化，她开始制定自己的职业规划。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "费琳岚在一次绘画比赛中获得了一等奖，她感到非常自豪，并得到了同学们的赞赏。",
+                "location": "大学艺术教室",
+                "happen_time": "2013年5月",
+                "participants": "同学、艺术老师",
+                "impact": "这次成功进一步巩固了她的核心信念‘我是有能力的’，并增强了她对自己兴趣爱好的信心。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "费琳岚在学校里看到一位同学因为过度劳累而晕倒，她感到非常担忧。",
+                "location": "大学图书馆",
+                "happen_time": "2012年12月",
+                "participants": "同学、图书馆工作人员",
+                "impact": "这一事件让她重新审视自己的中间信念‘如果我不休息，我会完成更多学习任务，获得更多认可’，开始意识到过度劳累的危害。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在一次小组讨论中，费琳岚提出了自己独特的见解，得到了导师和同学们的赞赏。",
+                "location": "大学教室",
+                "happen_time": "2013年4月",
+                "participants": "导师、同学",
+                "impact": "这次成功让她的核心信念‘我是有能力的’得到了进一步验证，并增加了她在学术讨论中的自信心。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "费琳岚在一次家庭聚会上听到亲戚们讨论职场上的竞争和压力，她开始思考未来的职业选择。",
+                "location": "家中",
+                "happen_time": "2013年1月",
+                "participants": "亲戚",
+                "impact": "这一事件让她的中间信念‘世界是一个竞争激烈的地方，需要不断努力才能被认可’得到了进一步强化，她开始更加关注职业生涯的发展。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "费琳岚",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在公司的一次重要会议上，我负责的项目出现了问题，导致整个团队的进度受到影响。会上我被上司严厉批评，感到非常难过和自责。",
+                "location": "公司会议室",
+                "happen_time": "2024年1月",
+                "participants": "上司，同事",
+                "impact": "这次事件加重了我的焦虑，使我更加坚定了必须表现出色才能被认可的信念。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "连续加班几天后，我在办公室晕倒，同事急忙把我送到医院。医生建议我休息一段时间，但我担心工作进度，因此拒绝了他的建议。",
+                "location": "办公室，医院",
+                "happen_time": "2024年2月",
+                "participants": "同事，医生",
+                "impact": "这次事件让我意识到自己的身体已经不堪重负，但我依然觉得不能休息，否则会被视为懒惰。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一个周末，我与两位朋友一起散步时，谈到了工作压力和生活平衡的问题。我倾诉了自己最近的困扰，朋友们表示理解并建议我放松一下。",
+                "location": "公园",
+                "happen_time": "2024年3月",
+                "participants": "朋友",
+                "impact": "朋友们的建议让我感到一丝安慰，但我依然觉得自己不能放松下来，必须完成所有任务。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次团队活动中，我的一个同事提到他因为工作的成绩得到了公司奖励，这让我感到压力倍增，觉得自己也必须达到同样的水平。",
+                "location": "公司活动场所",
+                "happen_time": "2024年4月",
+                "participants": "同事",
+                "impact": "这次事件进一步强化了我的信念，即只有不断努力和表现出色，才能被认可和尊重。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一个晚上的加班过程中，我突然感到非常疲倦和无助，开始怀疑自己是否真的有能力完成所有任务。",
+                "location": "办公室",
+                "happen_time": "2024年5月",
+                "participants": "无",
+                "impact": "这次事件让我感到极度的疲惫和决断困难，使我的焦虑情绪进一步加剧。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "公司宣布将进行一次大规模裁员，我担心自己可能会被波及，因此更加拼命地工作。",
+                "location": "公司",
+                "happen_time": "2024年6月",
+                "participants": "公司管理层，同事",
+                "impact": "这次事件加重了我的焦虑感，使我更加坚定了必须不断努力才能生存的信念。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次家庭聚会中，因工作问题与父母发生争执。他们认为我应该多关注健康，而我却觉得他们不理解我的压力。",
+                "location": "家中",
+                "happen_time": "2024年7月",
+                "participants": "父母",
+                "impact": "这次事件让我感到孤独和不被理解，使我的焦虑和疲倦情绪进一步加重。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次公司项目的关键时刻，我的一个同事因为生病请假，我不得不接手他的工作，导致我的任务量大增。",
+                "location": "公司",
+                "happen_time": "2024年8月",
+                "participants": "同事",
+                "impact": "这次事件进一步加重了我的工作压力，使我的焦虑和疲倦情绪达到顶点。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一个同事因为过度劳累而被送往医院，这让我感到震惊和担忧。",
+                "happen_time": "2024年3月",
+                "participants": "同事，医院工作人员",
+                "impact": "这次事件让我意识到长时间高强度工作对健康的危害，但我依然觉得不能放松自己的工作要求。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "公司的一位高层领导在全体会议上强调了业绩的重要性，并表示只有出色的员工才能获得晋升机会。",
+                "happen_time": "2024年4月",
+                "participants": "公司高层领导，全体员工",
+                "impact": "这次事件进一步强化了我的信念，即只有不断努力和表现出色，才能获得认可和晋升。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次午餐时间，我听到同事们在讨论如何在工作中取得平衡，并提到一些人因为过度工作而导致健康问题。",
+                "happen_time": "2024年5月",
+                "participants": "同事",
+                "impact": "这次事件让我开始反思自己的工作方式，但依然觉得不能放松自己的要求。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近阶段",
+                "category": "Third-Person Observation",
+                "event": "我注意到一个同事在工作中频繁出错，后来得知他因为长期加班而身心俱疲。",
+                "happen_time": "2024年6月",
+                "participants": "同事",
+                "impact": "这次事件让我意识到过度工作的危害，但依然觉得自己不能放松。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我在新闻中看到一则报道，讲述了一位年轻职员因为工作压力大而自杀的事件。",
+                "happen_time": "2024年7月",
+                "participants": "无",
+                "impact": "这次事件让我感到震惊和担忧，但依然觉得必须不断努力，不能放松自己。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次公司聚会上，我注意到一个同事因为表现出色而受到表扬，这让我感到压力倍增。",
+                "happen_time": "2024年8月",
+                "participants": "同事，公司领导",
+                "impact": "这次事件进一步加重了我的压力，使我更加坚定了必须表现出色才能被认可的信念。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一个公共论坛上，我看到许多人讨论如何在工作中找到平衡，并分享了一些成功的经验。",
+                "happen_time": "2024年8月",
+                "participants": "论坛用户",
+                "impact": "这次事件让我开始考虑如何在工作中找到平衡，但依然觉得不能放松自己的工作要求。"
+            }
+        ]
+    }
+}

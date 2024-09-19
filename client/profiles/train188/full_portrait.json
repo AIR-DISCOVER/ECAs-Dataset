@@ -1,0 +1,161 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "勤奋",
+            "内向",
+            "有责任心",
+            "细心",
+            "有些完美主义"
+        ],
+        "appearance": [
+            "中等身高",
+            "苗条",
+            "戴眼镜",
+            "皮肤白皙",
+            "长发"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "游泳",
+                "旅游",
+                "阅读",
+                "写作"
+            ],
+            "activity": [
+                "和朋友一起旅游",
+                "周末去游泳馆游泳",
+                "在图书馆阅读"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "顺利完成博士论文，发表高质量的学术论文",
+            "long_term_goals": "成为一名知名的学者，在学术界有所建树"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到实验室或图书馆学习，晚上10点回宿舍休息。中午会在学校食堂吃饭，下午会有一段时间去游泳或散步。",
+            "weekends": "周末会安排一些放松的活动，比如和朋友一起去咖啡馆聊天，或者去附近的景点旅游。偶尔也会参加一些学术讲座或研讨会。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，不太擅长与人交往。高中时曾因为学习压力大而出现过短暂的焦虑情绪。",
+            "recent_events": "最近因为博士论文的压力，感到记忆力下降和决断困难，但总体情绪稳定，没有出现严重的抑郁症状。"
+        },
+        "environment": "出生在江苏省南京市，从小在这里长大。大学期间在北京读书，研究生阶段回到南京继续深造。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "李思冬的父母对她的期望很高，从小就要求她努力学习。虽然父母的期望有时让她感到压力，但她也从中获得了动力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "李思冬在小学和初中时期有几个要好的朋友，虽然她性格内向，但这些朋友一直支持她。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "在中学时期，李思冬的父母依然对她的学习成绩非常关注，虽然她有时感到压力，但父母的支持让她在学业上取得了优异的成绩。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "李思冬的中学老师对她的学术能力非常认可，并给予了她很多指导和帮助。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "由于性格内向，李思冬在高中时期的朋友不多，但她与几个志同道合的同学保持了良好的关系。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "李思冬的博士导师对她的研究工作给予了很多指导和支持，但也对她的学术成果有很高的期望。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "李思冬在博士阶段与几位同学保持了良好的合作关系，虽然她有时在讨论中感到犹豫不决，但同学们的支持让她感到安心。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "李思冬有两个非常要好的朋友，她们经常一起旅游和聊天，这些朋友在她感到压力时给予了她很多支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "李思冬在不同阶段的社会关系经历了显著的变化。童年时期，她主要依赖父母和少数朋友的支持。进入中学后，虽然她依然依赖父母，但老师和少数朋友也成为她的重要支持来源。最近，她的社会关系更多地集中在学术圈内的导师和同学，同时她也保持了与几个亲密朋友的联系。总体而言，李思冬的社会关系虽然不多，但都非常紧密和稳定。"
+    }
+}

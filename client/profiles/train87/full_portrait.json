@@ -1,0 +1,161 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "自卑",
+            "敏感",
+            "犹豫不决"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "打篮球",
+                "看电影"
+            ],
+            "activity": [
+                "和朋友一起打篮球",
+                "周末去图书馆看书",
+                "听音乐放松心情"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "尽快走出失恋的阴影，恢复自信心",
+            "long_term_goals": "找到一份自己喜欢的工作，建立稳定的感情关系"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点上课，下午有时会去图书馆或打篮球，晚上回宿舍休息。",
+            "weekends": "周末通常会和朋友一起打篮球，或者去图书馆看书，有时也会一个人看电影放松。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母对他期望很高，从小就被要求好好学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，不太擅长与人交往。",
+            "recent_events": "最近和交往一年半的女朋友分手，导致情绪低落，自信心受挫。"
+        },
+        "environment": "出生在一个小城市，家庭环境较为普通，父母对他的期望很高。现在在一所大学读书，住在学校宿舍。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "郎会进的父亲是一名普通的工人，虽然工作繁忙，但总是尽量抽出时间陪伴儿子。父亲对郎会进的期望很高，希望他能通过学习改变家庭的命运。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "郎会进的母亲是一名家庭主妇，性格温和，对儿子非常关心。她总是鼓励郎会进，但也会因为父亲的高期望而感到压力。"
+                    ]
+                },
+                {
+                    "relationship": "小学同学",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "郎会进在小学时有几个要好的同学，他们经常一起玩耍，但由于郎会进性格内向，他并没有和他们建立非常深厚的友谊。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "中学同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        1
+                    ],
+                    "description": [
+                        "中学时期，郎会进的成绩优异，但由于性格内向，他并不擅长与人交往。虽然有几个同学关系较好，但大多数时候他更喜欢独处。"
+                    ]
+                },
+                {
+                    "relationship": "班主任",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "郎会进的班主任是一位严厉但关心学生的老师。她对郎会进的学习成绩非常满意，但也注意到他的社交问题，曾多次鼓励他多与同学交流。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "在大学里，郎会进有几个关系较好的同学，他们经常一起打篮球和去图书馆。虽然关系不错，但郎会进仍然感到自己在社交方面有所欠缺。"
+                    ]
+                },
+                {
+                    "relationship": "前女友",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "郎会进和前女友交往了一年半，感情深厚。分手后，他感到非常失落，怀疑自己是否值得被爱。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "郎会进最近开始接受心理咨询，咨询师对他的情况表示理解，并给予了很多鼓励和建议。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "郎会进在不同阶段的社交关系有明显变化。童年时期，他主要依赖家庭，尤其是母亲的关爱。进入中学后，虽然成绩优异，但由于性格内向，他的社交圈子并不大。大学时期，他开始尝试与更多人交往，但仍然感到自卑和不自信。最近的失恋事件让他更加怀疑自己的社交能力和自我价值，但通过心理咨询，他正在逐渐恢复信心。"
+    }
+}

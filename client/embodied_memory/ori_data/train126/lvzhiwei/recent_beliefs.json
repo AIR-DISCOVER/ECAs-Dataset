@@ -1,0 +1,78 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我必须完美才能被认可。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我不值得被理解。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有能力实现自己的梦想。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "如果我失败，我就没有价值。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须在每一个方面都做到最好。",
+                "others": "他人只会认可完美的人。",
+                "world": "世界只接受成功和完美的人。"
+            },
+            "rules": "我必须努力追求完美，不能有任何失误。",
+            "positive_assumption": "如果我完美无瑕，我会被认可和尊重。",
+            "negative_assumption": "如果我不完美，我就会被忽视和批评。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的感受和想法不重要。",
+                "others": "他人不会真正关心我的内心世界。",
+                "world": "世界是冷漠和不理解的。"
+            },
+            "rules": "我应该隐藏自己的真实感受。",
+            "positive_assumption": "如果我不表现出我的脆弱，人们就不会看不起我。",
+            "negative_assumption": "如果我表达自己的感受，人们会觉得我很软弱和无能。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有实现梦想的潜力。",
+                "others": "他人可以支持我，但最终决定权在我手中。",
+                "world": "世界充满了机会，我可以抓住它们。"
+            },
+            "rules": "我应该积极追求自己的梦想，不轻易放弃。",
+            "positive_assumption": "如果我坚持努力，我会实现我的梦想。",
+            "negative_assumption": "如果我不努力，我会错失良机。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的价值取决于我的成功。",
+                "others": "他人只会评价我的结果。",
+                "world": "世界只看结果，不重视过程。"
+            },
+            "rules": "我必须避免失败，确保每一步都成功。",
+            "positive_assumption": "如果我成功，我会被尊重和认可。",
+            "negative_assumption": "如果我失败，我会被贬低和忽视。"
+        }
+    ]
+}

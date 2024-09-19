@@ -1,0 +1,1022 @@
+{
+    "node_59": {
+        "page_content": "2024年12月01日16:30，放学后，我回到家中。客厅里温暖的灯光照亮了整个房间。母亲正在沙发上看书，看到我回来，她关切地问：'今天学校怎么样？'我告诉她李老师的表扬和小强的鼓励，母亲脸上露出了欣慰的笑容，说：'做得很好，继续努力！'她的鼓励让我感到家庭的温暖和支持，内心充满了力量。",
+        "metadata": {
+            "node_id": "node_59",
+            "node_type": "long_term",
+            "event_id": "20",
+            "extended_event_id": "20_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "虽然李老师表扬我了，但是如果我不减肥，其他同学还是会继续嘲笑我。",
+            "emotion": "焦虑和不安",
+            "behavior": "在母亲面前表现得很高兴，但内心依然担心学校的情况，尽量避免谈论同学的嘲笑。",
+            "physiological_response": "胃部不适，心跳加快。",
+            "created_at": "2024-12-01 16:30:00"
+        }
+    },
+    "node_58": {
+        "page_content": "2024年12月01日10:45，下课后，我走出教室，来到教室外走廊。阳光透过走廊的窗户洒在地面上，小强走过来，拍了拍我的肩膀，笑着说：'郎国思，恭喜你，做得很好！继续加油！'他的话让我感到了一些温暖和支持。虽然心里还是有些担心其他同学的看法，但小强的鼓励让我觉得自己并不孤单。",
+        "metadata": {
+            "node_id": "node_58",
+            "node_type": "long_term",
+            "event_id": "20",
+            "extended_event_id": "20_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "其他同学可能还是会嘲笑我，因为我还不够好看。",
+            "emotion": "担忧和不安，夹杂着一点温暖和支持感",
+            "behavior": "尽量避免与其他同学接触，继续努力减肥",
+            "physiological_response": "心跳加快，手心出汗",
+            "created_at": "2024-12-01 10:45:00"
+        }
+    },
+    "node_57": {
+        "page_content": "2024年12月01日10:15，在美术课上，教室里阳光透过窗户洒在我的绘画作品上。李老师走到我的桌前，微笑着对我说：'郎国思，你的作品进步很大，大家过来看看吧！'他邀请全班同学一起欣赏我的作品。我感到脸上有些发热，心里既高兴又有些紧张。看到同学们围过来，我的心跳加快了，但李老师的鼓励让我感到了一丝自信。",
+        "metadata": {
+            "node_id": "node_57",
+            "node_type": "long_term",
+            "event_id": "20",
+            "extended_event_id": "20_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们可能会嘲笑我，因为我看起来很胖。",
+            "emotion": "紧张和不安",
+            "behavior": "低头不敢直视同学们，试图遮挡自己的身体。",
+            "physiological_response": "心跳加快，呼吸急促，脸颊发热。",
+            "created_at": "2024-12-01 10:15:00"
+        }
+    },
+    "node_56": {
+        "page_content": "2024年12月02日中午，在学校的操场上，阳光洒在跑道上。我和小强正边走边聊，当我告诉他我打算开始减肥时，他露出了欣慰的笑容，并表示愿意和我一起锻炼。小强的支持让我感到了一丝信心和希望，但同时我也感到了一些压力，担心如果自己无法坚持，可能会失去小强的支持。我心里既充满了期待，又有些忐忑不安。",
+        "metadata": {
+            "node_id": "node_56",
+            "node_type": "long_term",
+            "event_id": "19",
+            "extended_event_id": "19_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我无法坚持减肥，小强可能会失望，我会再次被同学嘲笑。",
+            "emotion": "焦虑和压力",
+            "behavior": "可能会开始回避体育锻炼，以避免失败和失望。",
+            "physiological_response": "心跳加快，胃部不适，手心出汗。",
+            "created_at": "2024-12-02 12:15:00"
+        }
+    },
+    "node_55": {
+        "page_content": "2024年12月01日下午回到家后，我们在温馨的客厅里坐下来。父母看着我，语重心长地说，他们很愿意支持我开始锻炼，并且会全力帮助我实现这个目标。我感到了一股暖流，父母的关心让我感到安心和被爱，但内心的焦虑依然存在。我担心自己能否坚持下来，害怕辜负父母的期望，感觉自己肩上的责任变得更加沉重。",
+        "metadata": {
+            "node_id": "node_55",
+            "node_type": "long_term",
+            "event_id": "19",
+            "extended_event_id": "19_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能坚持锻炼并减肥成功，我会让父母失望，同学们也会继续嘲笑我。",
+            "emotion": "焦虑、压力和害怕",
+            "behavior": "可能会迟疑或拖延开始锻炼，避免与同学接触，以及在家中寻求安慰和支持。",
+            "physiological_response": "心跳加速、手心出汗、胃部不适。",
+            "created_at": "2024-12-01 17:00:00"
+        }
+    },
+    "node_54": {
+        "page_content": "2024年12月01日下午，我和父母在公园散步，阳光洒在草地上，周围有很多家庭在开心地活动。我们走到一处健身区，看到了一个和我差不多大的男孩在父母的鼓励下认真地做着锻炼。看到这一幕，我的心情有些复杂，想起自己也曾经尝试过锻炼，但总是坚持不下来。那一刻，我感到了一种莫名的压力和自卑，觉得自己不够好，但同时也有一种渴望，希望自己能够像那个男孩一样坚持下去。",
+        "metadata": {
+            "node_id": "node_54",
+            "node_type": "long_term",
+            "event_id": "19",
+            "extended_event_id": "19_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够好，永远做不到像他那样坚持锻炼。",
+            "emotion": "自卑、沮丧",
+            "behavior": "低头不语，避免与父母讨论减肥计划。",
+            "physiological_response": "心情沉重，感到胸闷，胃部不适。",
+            "created_at": "2024-12-01 15:30:00"
+        }
+    },
+    "node_53": {
+        "page_content": "2024年12月6日上午课间休息时，教室里同学们在嬉笑打闹，阳光透过玻璃洒进来。李老师走到我身边，轻声问我：'国思，最近你怎么了？看你有些不开心。' 我犹豫了一下，低声说：'没什么，老师。' 李老师温柔地拍了拍我的肩膀，说：'如果有任何问题，记得告诉我，我们一起想办法解决。' 我感到一阵温暖，眼眶有点湿润，但内心依然有些挣扎，觉得自己不值得被关心。李老师的鼓励让我稍微有了一些信心，但心中的自卑和对同学的恐惧依然存在。",
+        "metadata": {
+            "node_id": "node_53",
+            "node_type": "long_term",
+            "event_id": "18",
+            "extended_event_id": "18_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "老师虽然关心我，但她只是出于职责，我还是不值得被关心。",
+            "emotion": "内心温暖但依然感到自卑和恐惧",
+            "behavior": "低声回答老师的问题，避免与老师和同学有更多交流",
+            "physiological_response": "眼眶湿润，心跳加快",
+            "created_at": "2024-12-06 10:15:00"
+        }
+    },
+    "node_52": {
+        "page_content": "2024年12月5日晚上，家里餐桌上摆满了妈妈做的菜肴。我们一家人围坐在一起，气氛温馨。吃饭时，爸爸突然开口说：'国思，我们决定帮你制定一个减肥计划，我们会全力支持你。' 妈妈点头附和道：'是啊，宝贝，我们一起努力，好吗？' 我感到一丝希望，但心里也充满了担忧，害怕自己无法成功，辜负父母的期望。我低声答应了，内心既有温暖的感觉，也有莫名的压力。",
+        "metadata": {
+            "node_id": "node_52",
+            "node_type": "long_term",
+            "event_id": "18",
+            "extended_event_id": "18_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我无法成功减肥，我会辜负父母的期望，他们会失望。",
+            "emotion": "焦虑、担忧",
+            "behavior": "默默低头吃饭，不敢与父母对视",
+            "physiological_response": "胃部紧张，心跳加快",
+            "created_at": "2024-12-05 19:00:00"
+        }
+    },
+    "node_51": {
+        "page_content": "2024年12月5日下午放学后，我一个人走在学校附近的街道上。天色渐暗，街道两旁的树叶在风中沙沙作响。突然，几个同学围了上来，他们指着我嘲笑道：'看，胖子来了！' 他们还模仿我的走路姿势，发出夸张的笑声。我感到脸颊发热，心里像被刀割一样痛，恨不得找个地洞钻进去。我低着头，加快了脚步，但耳边还是传来他们的嘲笑声。",
+        "metadata": {
+            "node_id": "node_51",
+            "node_type": "long_term",
+            "event_id": "18",
+            "extended_event_id": "18_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们只看重我的外表，我真的很糟糕。",
+            "emotion": "羞愧，痛苦，愤怒",
+            "behavior": "低头加快脚步，避免与他们接触。",
+            "physiological_response": "脸颊发热，心跳加快，胃部不适。",
+            "created_at": "2024-12-05 15:30:00"
+        }
+    },
+    "node_50": {
+        "page_content": "2024年12月15日下午，学校礼堂里座无虚席，文艺演出正在进行。同学们一个接一个上台表演，台下掌声雷动。我坐在观众席的一角，看着他们在舞台上光芒四射，心里既羡慕又难过。我知道如果自己有勇气报名，也许我也能站在台上，接受大家的掌声。但现在，我只能坐在这里，感到无比的失落和自卑。演出结束时，看到同学们脸上洋溢的笑容，我更加觉得自己错失了表现自己的机会，心情跌到了谷底。",
+        "metadata": {
+            "node_id": "node_50",
+            "node_type": "long_term",
+            "event_id": "17",
+            "extended_event_id": "17_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我长得这么胖，同学们肯定会嘲笑我，我根本不可能站在台上。",
+            "emotion": "失落、自卑、无助",
+            "behavior": "坐在角落里沉默不语，不敢与同学交流，避免上台表现自己。",
+            "physiological_response": "心跳加快，胃部不适，感到浑身无力。",
+            "created_at": "2024-12-15 14:00:00"
+        }
+    },
+    "node_49": {
+        "page_content": "2024年12月14日中午，我在学校走廊上走着，准备去吃午饭。几个同班同学站在一旁讨论他们的表演节目，笑声不断。我放慢脚步，想听听他们在说什么。突然，我听到他们开始嘲笑那些没有参与演出的人，说他们胆小、没勇气。我感到脸上火辣辣的，尽管他们没指名道姓，但我知道他们在说我。我赶紧低下头，加快脚步走开，心里像被什么东西压着一样，非常难受。",
+        "metadata": {
+            "node_id": "node_49",
+            "node_type": "long_term",
+            "event_id": "17",
+            "extended_event_id": "17_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们一定在嘲笑我，我真的不够好。",
+            "emotion": "羞愧、难过和自卑",
+            "behavior": "低下头，加快脚步走开，避免与同学接触。",
+            "physiological_response": "脸上火辣辣的，心里像被什么东西压着一样，非常难受。",
+            "created_at": "2024-12-14 12:15:00"
+        }
+    },
+    "node_48": {
+        "page_content": "2024年11月20日早上，李老师在班会上宣布班级要在即将到来的文艺演出中准备一个节目。教室里充满了兴奋的讨论声，大家都在想要表演什么。我坐在后排，心里却非常不安。李老师问有没有人自愿报名，我看到几个同学兴奋地举起手，但我却低着头，手心冒汗。我害怕如果表演不好，会被同学们嘲笑。最终，当李老师的目光扫过我时，我装作在看笔记，没有举手。",
+        "metadata": {
+            "node_id": "node_48",
+            "node_type": "long_term",
+            "event_id": "17",
+            "extended_event_id": "17_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我肯定会表演不好，大家会笑话我。",
+            "emotion": "焦虑和恐惧",
+            "behavior": "低头装作看笔记，没有举手报名。",
+            "physiological_response": "手心冒汗，心跳加快。",
+            "created_at": "2024-11-20 08:30:00"
+        }
+    },
+    "node_47": {
+        "page_content": "2024年12月15日傍晚，我们一家人回到家中。坐在客厅的沙发上，我看着我们从展会带回的各种纪念品，心里回想着当天看到的那些优秀作品。虽然展会的经历让我感到希望，但越想越觉得压力山大，要达到那样的水平需要付出巨大的努力。这让我感到有些无力和焦虑，心中隐隐地担心自己是否真的能做到。",
+        "metadata": {
+            "node_id": "node_47",
+            "node_type": "long_term",
+            "event_id": "16",
+            "extended_event_id": "16_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够好，我可能永远达不到那样的水平。",
+            "emotion": "焦虑和无力感",
+            "behavior": "避免谈论自己的梦想，减少与家人和朋友的交流",
+            "physiological_response": "胃部不适，心跳加快",
+            "created_at": "2024-12-15 18:30:00"
+        }
+    },
+    "node_46": {
+        "page_content": "2024年12月15日中午，在动漫展的互动区，我参加了一些简单的动漫设计活动。那里的桌子上摆满了各种绘画工具，还有工作人员在旁边指导。我一开始有些紧张，但很快就投入其中，开始画出自己的想法。工作人员夸奖了我的作品，这让我感到非常自豪和满足。这一刻，我暂时忘记了对体重问题的焦虑，心中充满了对自己能力的认可。",
+        "metadata": {
+            "node_id": "node_46",
+            "node_type": "long_term",
+            "event_id": "16",
+            "extended_event_id": "16_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "也许我真的有能力通过努力改善自己。",
+            "emotion": "自豪和满足",
+            "behavior": "继续投入动漫设计活动，并考虑未来的减肥计划。",
+            "physiological_response": "心情愉快，身体感觉轻松，呼吸平稳。",
+            "created_at": "2024-12-15 12:00:00"
+        }
+    },
+    "node_45": {
+        "page_content": "2024年12月15日上午，我和父母一起去了市中心的动漫展。展览场地内布满了各种精美的动漫作品，四周都是兴奋的动漫爱好者。我看到许多栩栩如生的角色和精致的设计，这让我非常激动。我忍不住和父母分享了我的梦想，告诉他们我也想成为一名动漫设计师。父母听了后，微笑着点头，表示他们会一直支持我。听到这些话，我心里充满了希望，但也隐隐感到一些压力，因为我知道要达到这些高度需要付出很多努力。",
+        "metadata": {
+            "node_id": "node_45",
+            "node_type": "long_term",
+            "event_id": "16",
+            "extended_event_id": "16_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能减肥和改变自己，我就不够好，无法成为一名优秀的动漫设计师。",
+            "emotion": "焦虑和压力",
+            "behavior": "开始对减肥和学习动漫设计感到紧张，可能会避免一些社交活动以专注于减肥和学习。",
+            "physiological_response": "心跳加快，胃部不适，手心出汗。",
+            "created_at": "2024-12-15 10:30:00"
+        }
+    },
+    "node_44": {
+        "page_content": "2024年12月02日下午放学后，我和小强一起在学校操场上进行了一次简单的跑步锻炼。虽然跑完后我累得气喘吁吁，但内心感到了一些成就感。小强拍拍我的背，鼓励我继续坚持。我心里感到了一丝自信，暂时忘记了内心的自我怀疑，但还是对长期坚持感到有些担心。",
+        "metadata": {
+            "node_id": "node_44",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_5",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能长期坚持减肥，我就会继续被同学嘲笑。",
+            "emotion": "焦虑和担心",
+            "behavior": "可能会避免参与未来的锻炼，或者在锻炼时变得更加紧张和不安。",
+            "physiological_response": "心跳加快，胃部不适，出汗增多。",
+            "created_at": "2024-12-02 16:00:00"
+        }
+    },
+    "node_43": {
+        "page_content": "2024年12月02日中午，在学校的教室里，我鼓起勇气和好朋友小强分享了我的减肥计划。小强听了后，拍了拍我的肩膀，笑着说：'国思，我支持你！放学后我陪你一起去锻炼。'听到小强的话，我感到了一股自信和动力，但心里还是有些担忧，害怕其他同学会嘲笑我。",
+        "metadata": {
+            "node_id": "node_43",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_4",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果其他同学知道我在减肥，他们会嘲笑我。",
+            "emotion": "担忧和焦虑",
+            "behavior": "考虑放弃告诉更多同学减肥计划，避免与同学过多交流。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "2024-12-02 12:45:00"
+        }
+    },
+    "node_42": {
+        "page_content": "2024年12月02日早上，我走进厨房，看到妈妈为我准备了一份健康的早餐，桌上有新鲜的蔬菜沙拉和全麦面包。妈妈微笑着对我说：'国思，从今天开始，妈妈每天都会为你准备这样的早餐，帮助你实现减肥目标。'我的心里感到了一阵温暖和支持，但还是有些不安，担心自己会半途而废。",
+        "metadata": {
+            "node_id": "node_42",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须减肥成功，否则我会继续被嘲笑和排斥。",
+            "emotion": "焦虑，不安",
+            "behavior": "吃早餐时心情沉重，担心自己无法坚持减肥计划。",
+            "physiological_response": "胃部不适，食欲减退，心跳加速。",
+            "created_at": "2024-12-02 07:30:00"
+        }
+    },
+    "node_41": {
+        "page_content": "故事结束后，妈妈转过头来看着我，温柔地说：'国思，如果你也能像那个小男孩一样坚持锻炼，一定会成功的。妈妈会全力支持你。'听到这些话，我心里感到一阵温暖，仿佛看到了希望，但同时也有些担心，害怕自己会再次失败。",
+        "metadata": {
+            "node_id": "node_41",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能坚持锻炼，我会让妈妈失望，而且同学们还会继续嘲笑我。",
+            "emotion": "焦虑和害怕",
+            "behavior": "避免参加体育活动或锻炼，可能会表现出退缩和逃避",
+            "physiological_response": "胃部不适，手心出汗，心跳加速",
+            "created_at": "2024-12-01 20:25:00"
+        }
+    },
+    "node_40": {
+        "page_content": "2024年12月01日晚上，我和妈妈一起在客厅看电视。电视新闻中播放了一个小男孩通过坚持锻炼成功减肥的故事。看到这个故事，我感到心里有些激动，也有些焦虑。我想着：如果那个小男孩能做到，我是不是也可以？但随即又想起自己以前的失败，心里不禁有些打鼓。",
+        "metadata": {
+            "node_id": "node_40",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "那个小男孩可以做到，但我可能不行，我总是失败。",
+            "emotion": "激动和焦虑并存，失望",
+            "behavior": "沉默，低头看电视，心情沉重",
+            "physiological_response": "心跳加快，手心出汗",
+            "created_at": "2024-12-01 20:15:00"
+        }
+    },
+    "node_39": {
+        "page_content": "2024年12月11日上午10:15，在美术课上，教室墙壁上挂满了学生的作品，课桌上散落着画笔和纸张。美术老师在课堂上表扬了我的画作，称我的作品充满了创造力和细腻的情感。这让我感到了一些成就感，但课后，一些同学继续嘲笑我的体重，他们在走廊上对我指指点点，发出嘲笑的声音。这些嘲笑严重打击了我的自信心，使我更加相信自己不够好，没有价值。",
+        "metadata": {
+            "node_id": "node_39",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "尽管我的画作得到了表扬，但我的体重还是让我成为了嘲笑的对象。那些同学只在乎我的外表，我不够好。",
+            "emotion": "沮丧和自卑",
+            "behavior": "避免与同学接触，尤其是那些嘲笑我的人；在家中更加依赖家人的支持。",
+            "physiological_response": "心情沉重，胃部不适，食欲可能增加或减少。",
+            "created_at": "2024-12-11 10:15:00"
+        }
+    },
+    "node_38": {
+        "page_content": "2024年12月10日下午5:00，我和父母回到家中。在家中温暖的客厅里，沙发上摆放着我们一家人的照片，墙上挂着我小时候的画作。父母坐在沙发上继续鼓励我，母亲轻拍着我的肩膀，说他们会全力支持我的减肥计划，并相信我能做到。这让我感到很温暖，但想到同学们的嘲笑，我的心里仍然有些不安，担心自己无法真正改变。",
+        "metadata": {
+            "node_id": "node_38",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "即使父母支持我，我还是不够好，同学们只会继续嘲笑我。",
+            "emotion": "焦虑、不安",
+            "behavior": "避免与同学接触，尤其是体育课；在家中尽量减少与父母讨论同学的事情。",
+            "physiological_response": "胃部紧张，心跳加快，呼吸急促。",
+            "created_at": "2024-12-10 17:00:00"
+        }
+    },
+    "node_37": {
+        "page_content": "2024年12月10日下午3:30，家长会在学校教室举行。教室的墙上挂满了五颜六色的美术作品，教室里挤满了家长和老师。美术老师在向家长们介绍学生的作品时，特别提到了我的画作，称赞我的进步很大。父母在听到老师的表扬后，脸上露出了欣慰的笑容，并在会后对我说他们为我感到骄傲，希望我继续努力。虽然父母的鼓励让我感到一些支持，但我心里还是有些忐忑，担心同学们会怎么想我。",
+        "metadata": {
+            "node_id": "node_37",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "虽然老师和父母表扬我，但同学们会不会还是只看我胖的样子，觉得我不够好？",
+            "emotion": "焦虑和忐忑",
+            "behavior": "避免和同学们交流，低头不语",
+            "physiological_response": "心跳加快，手心出汗",
+            "created_at": "2024-12-10 15:30:00"
+        }
+    },
+    "node_36": {
+        "page_content": "2024年12月10日中午，运动会刚刚结束，我走在操场的草地上，听到几位同学在旁边嘲笑我的体型，说我只配做拉拉队员。他们的嘲笑像刀子一样刺进我的心，我感到羞辱和愤怒，脸颊发烫，眼泪在眼眶里打转。我低头快步离开，内心深处的自卑感和无价值感再次被唤醒，觉得整个世界对我充满了偏见和冷漠。从那一刻起，我更加孤立自己，避免与同学接触。",
+        "metadata": {
+            "node_id": "node_36",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们嘲笑我是因为我真的很差劲，我不值得被大家接受。",
+            "emotion": "羞辱、愤怒、自卑",
+            "behavior": "低头快步离开，避免与同学接触，进一步孤立自己。",
+            "physiological_response": "脸颊发烫，眼泪在眼眶里打转。",
+            "created_at": "2024-12-10 12:00:00"
+        }
+    },
+    "node_35": {
+        "page_content": "2024年12月10日上午，运动会在学校操场上举行，我站在观众席旁边，看着同学们在跑道上奋力拼搏，尘土飞扬。观众席上挤满了家长和老师，他们为运动员们欢呼加油。我试图鼓起勇气为同学们加油，但内心感到无比自卑和无助，觉得自己只能在一旁观望，无法参与其中。看到他们的成功表现，我感到更加孤立无援，觉得自己在同学中的地位很低。",
+        "metadata": {
+            "node_id": "node_35",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够好，大家只会嘲笑我。",
+            "emotion": "自卑、无助、孤立感",
+            "behavior": "避免与同学和老师互动，默默站在一旁",
+            "physiological_response": "心跳加快，手心出汗，身体紧绷",
+            "created_at": "2024-12-10 09:00:00"
+        }
+    },
+    "node_34": {
+        "page_content": "2024年11月25日下午，学校操场上，体育老师在宣布运动会名单时提到我是拉拉队员，而不是运动员。我站在操场的角落，周围的同学们都在热身，欢呼雀跃。我感到一阵失望和无助，仿佛被排除在外。他们在欢笑，而我只能站在一旁默默地接受这个事实。内心的自卑感再次涌上心头，觉得自己不够好，无法得到同学们的认可。",
+        "metadata": {
+            "node_id": "node_34",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够好，大家只看重我的外表，我永远都无法得到认可。",
+            "emotion": "失望、无助、自卑",
+            "behavior": "避开与同学的接触，站在角落里默默地看着。",
+            "physiological_response": "心跳加快，胃部绞痛，感觉喉咙发紧。",
+            "created_at": "2024-11-25 15:30:00"
+        }
+    },
+    "node_33": {
+        "page_content": "2024年12月15日晚上18:30，我回到家后，心情依然低落。妈妈看到我闷闷不乐的样子，关切地问我发生了什么。我忍不住流下了眼泪，把今天在学校发生的事情一五一十地告诉了他们。爸爸听完后，轻轻拍了拍我的肩膀，温柔地说：'国思，不要在意那些嘲笑你的人。你在美术上很有天赋，我们都为你感到骄傲。'妈妈也点头附和，鼓励我坚持自己的兴趣爱好。我感到了一些安慰，心里也有了一丝希望，虽然自卑感并没有完全消失，但我知道家人会一直支持我。",
+        "metadata": {
+            "node_id": "node_33",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "同学们嘲笑我，我真的不值得被关注和关心。",
+            "emotion": "悲伤、失落",
+            "behavior": "避免与同学接触，尤其是体育课；在家中感到温暖，依赖家人的支持。",
+            "physiological_response": "胸口发闷，眼泪不自觉地流下，感到疲惫。",
+            "created_at": "2024-12-15 18:30:00"
+        }
+    },
+    "node_32": {
+        "page_content": "2024年12月15日上午11:00，美术课结束后，我走在学校的走廊里，正准备去下节课的教室。突然，几个经常嘲笑我的同学围了上来，其中一个同学指着我大笑道：'看他那胖嘟嘟的样子，真像只大熊猫！'其他人也跟着哄笑。我感到脸上一阵发烫，心里一阵刺痛，刚刚在美术课上获得的那一丝自信瞬间崩塌。我低下头，快速离开，希望他们不要继续追着我嘲笑。",
+        "metadata": {
+            "node_id": "node_32",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们真的只在乎我的外表，我永远不会被他们接受。",
+            "emotion": "羞愧、悲伤、自卑",
+            "behavior": "低下头，快速离开，同学们继续嘲笑我。",
+            "physiological_response": "脸上发烫，心里刺痛，心跳加速。",
+            "created_at": "2024-12-15 11:00:00"
+        }
+    },
+    "node_31": {
+        "page_content": "2024年12月15日上午10:30，在学校的美术教室里，我正专注地完成我的动漫设计。美术老师走过来，仔细看了看我的作品，微笑着对我说：'郎国思，这幅画真棒！你在动漫设计上很有天赋。'听到这些话，我的心情顿时轻松了许多，脸上也露出了久违的笑容。我感到一种久违的自信，仿佛自己的努力终于得到了认可。",
+        "metadata": {
+            "node_id": "node_31",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的努力还是有回报的，也许我真的有能力做到更好。",
+            "emotion": "轻松、自信",
+            "behavior": "继续专注地完成动漫设计，脸上露出微笑",
+            "physiological_response": "心跳平稳，身体放松",
+            "created_at": "2024-12-15 10:30:00"
+        }
+    },
+    "node_30": {
+        "page_content": "2024年11月15日晚上，我和父亲散步回到家中，感到情绪有所好转。母亲正在客厅里收拾餐桌，看到我回来，关切地问我感觉如何。我告诉她感觉好多了，但心里仍然担心回到学校后会再次被同学嘲笑。我决定尝试父亲建议的运动计划，从明天开始每天早上跑步。虽然有了父亲的鼓励，我还是对未来感到焦虑，但我愿意采取行动来改变自己。这次事件进一步坚定了我'我需要不断努力才能应对生活中的挑战'的信念。",
+        "metadata": {
+            "node_id": "node_30",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不减肥，同学们会继续嘲笑我。",
+            "emotion": "焦虑与担忧",
+            "behavior": "决定开始每天早上跑步，加强锻炼",
+            "physiological_response": "心跳加快，胃部不适",
+            "created_at": "2024-11-15 20:00:00"
+        }
+    },
+    "node_29": {
+        "page_content": "2024年11月15日晚上，我和父亲在公园的小径上散步。银杏树的黄叶在微风中飘落，父亲边走边和我谈起他年轻时的故事。他讲述了自己如何通过毅力和坚持实现了一个个目标，强调了努力和信念的重要性。我听着父亲的话，心中感到了一些激励，似乎看到了自己通过努力改善状况的希望。这次谈话增强了我'我可以改变自己'的信念，减轻了一些自卑感。",
+        "metadata": {
+            "node_id": "node_29",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "如果我像父亲一样努力，我也能改变自己，变得更好。",
+            "emotion": "鼓舞和希望",
+            "behavior": "开始制定减肥计划，决定更加自律。",
+            "physiological_response": "心情舒畅，身体轻松感增强。",
+            "created_at": "2024-11-15 19:00:00"
+        }
+    },
+    "node_28": {
+        "page_content": "2024年11月15日晚上，我们一家人在餐厅一起吃晚饭。桌上摆满了母亲精心准备的菜肴，但我却没有什么胃口，情绪也很低落。母亲不断地问我怎么了，而父亲则沉默地观察着我。吃完饭后，父亲提议带我去公园散步。我知道父亲是想通过这种方式来帮助我减轻压力，我感到了一些安慰，但心里仍然因为同学的嘲笑而感到自卑。这次散步让我意识到家庭的支持，也让我对自己能否改变有了一丝希望。",
+        "metadata": {
+            "node_id": "node_28",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须改变自己的外貌，才能被同学接受。如果我不减肥，我会继续被嘲笑和排斥。",
+            "emotion": "自卑、焦虑、无望",
+            "behavior": "吃饭时食欲不振，情绪低落，不愿与父母交流。散步时感到一些安慰，但仍然对未来感到担忧。",
+            "physiological_response": "胃口不佳，心情沉重，可能出现头痛或胃部不适。",
+            "created_at": "2024-11-15 18:30:00"
+        }
+    },
+    "node_27": {
+        "page_content": "2024年10月15日20:30，聚会结束后，我和母亲走在回家的路上。街道两旁的路灯昏黄，微风吹拂着我的脸庞。我沉默不语，心情十分低落。母亲察觉到我的情绪，轻声问我怎么了，并试图安慰我。尽管母亲的关心让我感到一丝温暖，但我的内心仍然难以释怀，觉得自己无法摆脱自卑和无价值感。我开始怀疑自己的能力和未来，觉得自己无法改变现状，这让我感到无比的绝望。",
+        "metadata": {
+            "node_id": "node_27",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须改变自己的外貌，才能被同学接受，不然我永远会被嘲笑。",
+            "emotion": "深深的自卑和绝望",
+            "behavior": "避免与母亲交流，低头不语，心情低落",
+            "physiological_response": "心跳加快，胸口发闷，呼吸变浅",
+            "created_at": "2024-10-15 20:30:00"
+        }
+    },
+    "node_26": {
+        "page_content": "2024年10月15日19:00，家庭聚会的餐厅里，大家围坐在餐桌旁，讨论孩子们的近况。突然，有人提到了我的体重问题，并开玩笑取笑我胖。我脸颊发热，心跳加快，感到非常尴尬和难堪。我低下头，不敢看任何人，心中充满了羞耻感，觉得自己不被重视，内心的自卑感进一步加深。",
+        "metadata": {
+            "node_id": "node_26",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我果然不够好，大家都在嘲笑我。",
+            "emotion": "羞耻感、尴尬和难堪，强烈的自卑感",
+            "behavior": "低下头，不敢看任何人，尽量减少存在感，避免与他人接触。",
+            "physiological_response": "脸颊发热，心跳加快，胃部不适，呼吸急促。",
+            "created_at": "2024-10-15 19:00:00"
+        }
+    },
+    "node_25": {
+        "page_content": "2024年10月15日晚上18:30，家庭聚会的客厅中充满了欢声笑语，桌上摆满了各种美食和饮料。表哥因为成绩优异受到了长辈们的赞扬，大家都在夸奖他。我坐在角落里，听着他们的谈话，心里感到有些失落和自卑。我觉得自己不如表哥优秀，心中充满了自卑感，觉得自己不够好。",
+        "metadata": {
+            "node_id": "node_25",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我不如表哥优秀，大家都不会关注我。",
+            "emotion": "失落和自卑",
+            "behavior": "默默坐在角落里，不参与谈话。",
+            "physiological_response": "心跳加快，胃部不适。",
+            "created_at": "2024-10-15 18:30:00"
+        }
+    },
+    "node_24": {
+        "page_content": "2024年9月19日上午10点45分，我在学校操场上上体育课。阳光明媚，操场上到处都是同学们跑步和做运动的身影。我在跑步时因为体力不支跌倒在地，膝盖擦破了皮。班主任李老师看到后，立刻走过来关心我的情况。李老师蹲下来看着我，温柔地说：“没关系，国思，你很坚强，继续努力就好。”李老师的关心让我感到意外和一丝温暖，但我同时也感到更加无助和羞愧，因为我觉得自己拖累了大家。我咬着嘴唇，强忍住眼泪，心里默默下决心一定要变得更好。",
+        "metadata": {
+            "node_id": "node_24",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我真的很没用，连跑步都做不好，大家肯定都在笑话我。",
+            "emotion": "羞愧和无助",
+            "behavior": "避免与同学接触，尤其在体育课上。",
+            "physiological_response": "心跳加快，双腿发抖，想要逃离现场。",
+            "created_at": "2024-09-19 10:45:00"
+        }
+    },
+    "node_23": {
+        "page_content": "2024年9月15日傍晚回到家，我心情低落地走进客厅，看到母亲在沙发上看电视。我坐到她旁边，把学校里发生的事情告诉了她。母亲听后，脸上露出心疼的表情，她轻轻拍了拍我的肩膀，安慰我说：“真正的朋友会看重你的内在品质，而不是外貌。”虽然母亲的鼓励让我感到一些安慰，但我心中仍然怀疑，他人是否真的会关心我的感受。我感到温暖，但内心的自卑感依然挥之不去。",
+        "metadata": {
+            "node_id": "node_23",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "他们不会真的关心我的感受，我不值得被关注。",
+            "emotion": "失落、怀疑、自卑",
+            "behavior": "回避与同学的接触，不愿参与社交活动",
+            "physiological_response": "心情沉重，胃部不适",
+            "created_at": "2024-09-15 18:30:00"
+        }
+    },
+    "node_22": {
+        "page_content": "2024年9月15日中午12点15分，我在学校教室里吃午餐。其他同学都在教室里，有些在聊天，有些在吃饭。突然，有几个同学走到我的桌前，开始大声嘲笑我的体重，说我像个小胖猪。他们的笑声在教室里回荡，我感觉脸上火辣辣的，眼泪在眼眶中打转。我低头盯着午餐盒，感觉无地自容，心里充满了羞耻和自卑。",
+        "metadata": {
+            "node_id": "node_22",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们说得对，我是个小胖猪，没人会喜欢我。",
+            "emotion": "羞耻、悲伤、自卑",
+            "behavior": "低头不语，避免与人眼神接触，想要尽快离开教室。",
+            "physiological_response": "脸颊发热，眼泪在眼眶中打转，胃部不适，食欲减退。",
+            "created_at": "2024-09-15 12:15:00"
+        }
+    },
+    "node_21": {
+        "page_content": "2024年8月12日上午，班级讨论结束后，同学们陆续离开教室。李老师注意到了我整场讨论的沉默，特意把我叫到了讲台前。他温和地对我说：‘国思，你有很多好的想法和感受，为什么不分享出来呢？’我低着头，不敢直视他的眼睛，只是轻声说：‘我怕大家会笑话我。’李老师拍了拍我的肩膀，鼓励我说：‘你值得被听见，你有很多值得分享的东西。’虽然我嘴上答应了老师，但心里依然充满了疑虑和自我怀疑。走出教室时，我的心情依旧沉重。",
+        "metadata": {
+            "node_id": "node_21",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "大家只会嘲笑我，根本不在乎我说什么。",
+            "emotion": "失落和自卑",
+            "behavior": "避免与同学交流，不愿意在公共场合发言。",
+            "physiological_response": "心跳加快，胃部不适，手心出汗。",
+            "created_at": "2024-08-12 11:15:00"
+        }
+    },
+    "node_20": {
+        "page_content": "2024年8月12日上午，在教室里，班级讨论如火如荼地进行着。其他同学都在热烈地分享他们的兴趣和爱好，教室里充满了笑声和讨论声。我坐在后排，心里想要分享我对新动漫的感受，但每当我准备举手时，脑海中就会浮现同学们嘲笑我体重的情景。我几次想要发言，但最终还是因为自卑和恐惧而放弃了。看着大家热烈讨论的场景，我感到自己与他们格格不入，孤独感和自卑感越来越强烈。",
+        "metadata": {
+            "node_id": "node_20",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我发言，同学们会因为我的体重嘲笑我。",
+            "emotion": "自卑、恐惧、孤独",
+            "behavior": "放弃发言，保持沉默，缩在座位上",
+            "physiological_response": "心跳加速，手心出汗",
+            "created_at": "2024-08-12 10:30:00"
+        }
+    },
+    "node_19": {
+        "page_content": "2024年8月10日下午，我在学校门口准备回家。刚刚看完一部新的动漫，我心情很好，想着要在班级讨论中和大家分享。然而，当我走到学校门口时，听到几个同学在一边走一边嘲笑我的体重，尽管他们没有直接对我说，但我知道他们在说我。我的心情瞬间跌到了谷底，回家的路上，我一直在想：‘我真的应该在班级讨论中发言吗？’心中的兴奋被羞愧和自卑取代。",
+        "metadata": {
+            "node_id": "node_19",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们嘲笑我的体重，我真的不够好，我不应该在班级讨论中发言。",
+            "emotion": "羞愧和自卑，情绪低落",
+            "behavior": "避免在班级讨论中发言，回避同学",
+            "physiological_response": "心跳加快，胃部不适，头脑昏沉",
+            "created_at": "2024-08-10 15:45:00"
+        }
+    },
+    "node_18": {
+        "page_content": "2024年7月5日傍晚，我回到家后，父亲看出了我的情绪低落。他坐在沙发上，拍了拍身边的空位示意我坐下。我坐下后，父亲温柔地问我发生了什么。我犹豫了一下，还是说出了在学校被嘲笑的事情。父亲听后，轻轻地握住我的手，说：“国思，别放在心上，家里永远支持你。我们可以一起锻炼，相信你一定能做到的。”父亲的话让我感到无比温暖和安全，心里的阴霾逐渐散去。",
+        "metadata": {
+            "node_id": "node_18",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不减肥，我会继续被嘲笑和排斥。",
+            "emotion": "焦虑和无助",
+            "behavior": "避免与同学接触，尤其是体育课，尽量减少在公共场合的曝光。",
+            "physiological_response": "胃部不适，心跳加速，出汗。",
+            "created_at": "2024-07-05 18:30:00"
+        }
+    },
+    "node_17": {
+        "page_content": "2024年7月5日下午放学后，我低着头走在回家的路上，心情沉重。这时，小强走到我身边，拍了拍我的肩膀，关切地问我发生了什么。我感到一阵温暖，忍不住把刚才的事情告诉了他。小强听后，坚定地对我说：“别担心，国思，我们一起锻炼，你一定会变得更好的！”他的话让我感到一丝希望，心情稍微好了一点。",
+        "metadata": {
+            "node_id": "node_17",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须减肥才能不再被嘲笑。",
+            "emotion": "焦虑和一丝希望",
+            "behavior": "考虑接受小强的建议，开始锻炼",
+            "physiological_response": "心跳加速，感到紧张和稍微放松",
+            "created_at": "2024-07-05 16:00:00"
+        }
+    },
+    "node_16": {
+        "page_content": "2024年7月5日下午，在学校操场上，我正准备回家时，几名同学围住了我。他们大声嘲笑我的体重，说了一些非常刺耳的话。我感到脸红耳热，心脏狂跳，恨不得找个地缝钻进去。我试图装作没听见，快步走开，但那种羞愧和无助的感觉久久无法散去。",
+        "metadata": {
+            "node_id": "node_16",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我真的太胖了，同学们都在嘲笑我，我不值得被接受。",
+            "emotion": "羞愧、无助",
+            "behavior": "快步走开，避免与同学接触。",
+            "physiological_response": "脸红耳热，心脏狂跳。",
+            "created_at": "2024-07-05 15:30:00"
+        }
+    },
+    "node_15": {
+        "page_content": "2024年6月12日下午3点半，体育课结束后，我独自走在回家的路上，心情沉重。这时，我遇到了好朋友小强，他看到我情绪低落，主动跑过来安慰我。他说他也觉得那些同学的嘲笑是不公平的，并鼓励我不要放在心上。小强的温暖和支持让我感到一丝安慰，但内心的矛盾情绪依然存在。我既感激小强的支持，又对自己的无力感到失望。虽然这次互动部分缓解了我的负面情绪，但我对自己能力和外貌的负面看法依然没有改变。",
+        "metadata": {
+            "node_id": "node_15",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "小强虽然支持我，但其他同学还是会继续嘲笑我，因为我不够好。",
+            "emotion": "感激、失望、无力",
+            "behavior": "避免与其他同学接触，尤其是体育课。",
+            "physiological_response": "心情沉重，胸口压抑感强烈，食欲下降。",
+            "created_at": "2024-06-12 15:30:00"
+        }
+    },
+    "node_14": {
+        "page_content": "2024年6月12日上午10点15分，800米跑步测试结束后，同学们聚集在操场边的草地上，兴奋地讨论着各自的成绩。忽然，有几名同学开始嘲笑我的慢速，甚至模仿我跑步时气喘吁吁的样子。他们的笑声刺痛了我的心，我感到脸颊发烫，极度的羞愧和愤怒涌上心头。我低着头，努力不让眼泪流下来，但自尊心已经受到了严重打击。",
+        "metadata": {
+            "node_id": "node_14",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我真是太糟糕了，同学们根本不会喜欢我。",
+            "emotion": "极度羞愧和愤怒",
+            "behavior": "低下头，不与同学们交流，避免眼神接触，尽力忍住眼泪。",
+            "physiological_response": "脸颊发烫，心跳加快，呼吸急促。",
+            "created_at": "2024-06-12 10:15:00"
+        }
+    },
+    "node_13": {
+        "page_content": "2024年6月12日上午10点，体育老师在学校操场上宣布要进行800米跑步测试。我站在起跑线上，心里充满了紧张和期待。随着哨声响起，同学们如离弦之箭般冲了出去。我努力跟上他们的步伐，但很快就感觉到体力不支，呼吸变得急促起来。当我看到同学们轻松地跑在前面，而自己却气喘吁吁地落在后面，我的心情跌到了谷底。那一刻，我的自信心大幅下降，内心充满了对自己体重问题的焦虑。",
+        "metadata": {
+            "node_id": "node_13",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我太胖了，永远也赶不上其他同学，他们一定在笑话我。",
+            "emotion": "沮丧、焦虑、自卑",
+            "behavior": "放慢脚步甚至停止跑步，不再尝试跟上其他同学。",
+            "physiological_response": "心跳加快，呼吸急促，浑身无力。",
+            "created_at": "2024-06-12 10:00:00"
+        }
+    },
+    "node_12": {
+        "page_content": "2024年5月1日下午3点半，我在学校操场上玩耍时，几个同学突然围住我，开始嘲笑我的体重问题。他们叫我‘胖子’和‘大象’，不仅声音很大，还做出夸张的手势。周围的同学听到后也跟着笑起来，我的脸一下子涨红了，觉得无地自容。整个操场仿佛都在嘲笑我，我感到羞辱和无助，只想快点逃离那里。",
+        "metadata": {
+            "node_id": "node_12",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我一定要减肥，否则我永远不会被同学们接受。",
+            "emotion": "羞愧和无助",
+            "behavior": "逃离操场，避免与同学接触",
+            "physiological_response": "脸红，心跳加快，胃部不适",
+            "created_at": "2024-05-01 15:30:00"
+        }
+    },
+    "node_11": {
+        "page_content": "2024年4月15日傍晚，家庭聚会结束后，我回到自己的房间，独自一人坐在床上，房间里灯光昏暗，床上散落着一些漫画书。我回想着在聚会中的表现，以及亲戚们的评论，尤其是那些关于我体重的玩笑。我感到非常沮丧和无助，心中充满了自卑和自我怀疑，认为自己不够好，没有价值。这种情绪状态达到最低点，我开始哭泣，感到对未来无望。这次事件使我更加坚定了即使努力也无法改变自己的负面信念。",
+        "metadata": {
+            "node_id": "node_11",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我不值得被关注和关心。即使努力也无法改变自己。",
+            "emotion": "沮丧和无助",
+            "behavior": "开始哭泣，避免与人接触，减少参与活动。",
+            "physiological_response": "心跳加快，胃部不适，身体感觉沉重。",
+            "created_at": "2024-04-15 17:00:00"
+        }
+    },
+    "node_10": {
+        "page_content": "2024年4月15日下午，家庭聚会在客厅正式开始，亲戚们陆续到来，客厅里挤满了人。他们关心地询问我的学习和生活情况，有的亲戚开玩笑说我胖了。我虽然表面上笑了笑，但心里感到非常难过和自卑。这些玩笑话触及了我的敏感点，加深了我对外貌的焦虑，认为世界对外表有很多偏见，并且增强了如果我不减肥，我会继续被嘲笑和排斥的负面假设。",
+        "metadata": {
+            "node_id": "node_10",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不减肥，我会继续被嘲笑和排斥。",
+            "emotion": "难过、自卑",
+            "behavior": "避免与亲戚接触，尽量减少存在感。",
+            "physiological_response": "心跳加快，胃部不适，手心出汗。",
+            "created_at": "2024-04-15 15:30:00"
+        }
+    },
+    "node_9": {
+        "page_content": "2024年4月15日下午，在家庭的厨房和客厅中，我的母亲在厨房忙碌地准备食物，父亲在客厅里摆放餐具。我站在一旁，心情复杂，感到有些紧张和不安。我想到这次家庭聚会会有很多亲戚过来，他们可能会注意到我的体重问题。我开始回忆起以前被同学嘲笑的情景，心中的焦虑感逐渐增加。",
+        "metadata": {
+            "node_id": "node_9",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "亲戚们会注意到我的体重并嘲笑我。",
+            "emotion": "焦虑和不安",
+            "behavior": "避免与亲戚接触，躲在房间里。",
+            "physiological_response": "心跳加快，手心出汗，胃部不适。",
+            "created_at": "2024-04-15 14:45:00"
+        }
+    },
+    "node_8": {
+        "page_content": "2024年3月15日下午2:30，在学校的操场上，体育课正在进行。阳光洒在操场上，同学们正在跑步和做各种运动，而我站在一边，默默地看着他们。我感到非常自卑，不敢参与其中。李老师注意到了我的情绪，走过来，温柔地问我发生了什么。我勉强挤出一个微笑，但内心却充满了无助和自卑。",
+        "metadata": {
+            "node_id": "node_8",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我太胖了，他们肯定会嘲笑我，我不够好。",
+            "emotion": "无助和自卑",
+            "behavior": "避免参与体育活动，站在一边",
+            "physiological_response": "心跳加速，紧张出汗",
+            "created_at": "2024-03-15 14:30:00"
+        }
+    },
+    "node_7": {
+        "page_content": "2024年3月15日早上8:45，班会结束后，我走出教室，走在学校的走廊上。几个同学站在一旁，看到我后开始窃窃私语，然后大声笑了起来。他们模仿着我的走路姿势，故意夸大我的动作，嘲笑我的体重。我低下头，假装没有听到，但心里却感到非常难过和无助。",
+        "metadata": {
+            "node_id": "node_7",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们嘲笑我，是因为我太胖了，我真的很糟糕。",
+            "emotion": "难过和无助",
+            "behavior": "低下头，假装没有听到他们的嘲笑，尽量避免与他们接触。",
+            "physiological_response": "心跳加快，胃部不适，感觉全身无力。",
+            "created_at": "2024-03-15 08:45:00"
+        }
+    },
+    "node_6": {
+        "page_content": "2024年3月15日早上8:30的班会上，李老师正在讲述班级的一些事情。突然，她提到了一个同学在体育比赛中取得了好成绩，并请他上台接受表扬。教室里响起热烈的掌声，而我坐在座位上，心里却沉重无比。我望着那个被表扬的同学，觉得自己与他之间有着难以跨越的鸿沟。我感到自己的脸颊发烫，内心深处更加自卑。",
+        "metadata": {
+            "node_id": "node_6",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我永远都不可能像他那样优秀。",
+            "emotion": "自卑和沮丧",
+            "behavior": "低下头，不敢与人对视，避免与同学交流",
+            "physiological_response": "脸颊发烫，心跳加快，胃部不适",
+            "created_at": "2024-03-15 08:30:00"
+        }
+    },
+    "node_5": {
+        "page_content": "2024年2月20日晚上，我回到家后，决定按照爸爸的建议尝试做一些简单的运动。我在客厅的地板上铺好了运动垫，开始做一些简单的跳绳和仰卧起坐。但是仅仅几分钟后，我就感到全身疲惫，汗水浸湿了衣服，心里充满了沮丧和无力感。我瘫坐在地垫上，望着天花板，觉得自己无法坚持下去。那一刻，我感到前途一片渺茫，心中的绝望感进一步加深。",
+        "metadata": {
+            "node_id": "node_5",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我根本做不到减肥，大家会继续嘲笑我。",
+            "emotion": "沮丧和绝望",
+            "behavior": "停止运动，瘫坐在地垫上，望着天花板，觉得自己无法坚持下去。",
+            "physiological_response": "全身疲惫，汗水浸湿了衣服，心跳加速，胸闷感。",
+            "created_at": "2024-02-20 18:30:00"
+        }
+    },
+    "node_4": {
+        "page_content": "2024年2月20日下午放学后，我和爸爸一起走在回家的路上，眼前的街道和熟悉的商店却无法让我安心。我控制不住情绪，眼泪夺眶而出，把今天在学校操场上被嘲笑的事情告诉了爸爸。爸爸停下脚步，温柔地拍了拍我的背，告诉我只要通过健康饮食和运动，我就会变得更好。他的话语虽然让我感到一丝温暖，但内心深处的自卑感和觉得自己没有价值的念头依然挥之不去。",
+        "metadata": {
+            "node_id": "node_4",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不减肥，我永远不会被同学接受。",
+            "emotion": "感到深深的自卑和绝望，情感非常强烈",
+            "behavior": "避免与同学接触，尤其是体育课，不愿参与社交活动",
+            "physiological_response": "心情沉重，胃部不适，食欲减少",
+            "created_at": "2024-02-20 16:00:00"
+        }
+    },
+    "node_3": {
+        "page_content": "2024年2月20日下午，在学校的操场上，体育课进行到跑步环节时，我因为速度较慢，听到身后同学们的嘲笑声。他们的笑声和讥讽让我脸红耳赤，脚步也变得更加沉重。虽然体育老师没有直接参与嘲笑，但他的目光中似乎也带着些许失望。我感到非常尴尬和无助，只想找个地方躲起来，避免被更多人看到。",
+        "metadata": {
+            "node_id": "node_3",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够好，大家都在嘲笑我。如果我不减肥，我会继续被嘲笑和排斥。",
+            "emotion": "尴尬和无助",
+            "behavior": "试图躲避别人的目光，避免与同学接触",
+            "physiological_response": "脸红耳赤，心跳加快，感到身体沉重",
+            "created_at": "2024-02-20 14:30:00"
+        }
+    },
+    "node_2": {
+        "page_content": "2024年1月15日下午4:30，我放学回家后依然心情沉重，拖着沉重的步伐走进客厅。母亲在沙发上看电视，看到我情绪低落，关切地问我发生了什么事。我告诉她在体育课上被嘲笑的事情。她放下手中的遥控器，握住我的手，说她理解我的感受，并鼓励我不要灰心，告诉我家庭永远是我的支持和爱的源泉。她的话让我感到一丝安慰，但心底的自卑感依然在涌动，我依然觉得自己不够好。",
+        "metadata": {
+            "node_id": "node_2",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须改变自己的外貌，才能被同学接受。如果我不减肥，我会继续被嘲笑和排斥。",
+            "emotion": "自卑、沮丧",
+            "behavior": "避免与同学接触，尤其是体育课，减少参与社交活动。",
+            "physiological_response": "心情沉重，感到疲惫，胃口不佳。",
+            "created_at": "2024-01-15 16:30:00"
+        }
+    },
+    "node_1": {
+        "page_content": "2024年1月15日上午10:45，体育课结束后，我独自走回教室。心情很低落，脚步也很沉重。小强看到我这样，走过来问我发生了什么事。我把刚才在操场上被嘲笑的事情告诉了他。他拍了拍我的肩膀，安慰我说不要理会那些嘲笑的同学。他的话让我感到些许温暖，但内心的阴影依然存在，我开始觉得自己不值得被关注和关心。",
+        "metadata": {
+            "node_id": "node_1",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我不值得被关注和关心。",
+            "emotion": "悲伤和自卑",
+            "behavior": "避免与同学接触，特别是那些嘲笑他的人；更倾向于独处。",
+            "physiological_response": "胃部不适，头部沉重，呼吸变得浅而快速。",
+            "created_at": "2024-01-15 10:45:00"
+        }
+    },
+    "node_0": {
+        "page_content": "2024年1月15日上午10:05，在学校的操场上，我们正在进行跑步训练。我感到自己跑得越来越慢，喘着粗气。突然，几个同学开始大声嘲笑我，叫我'胖子'，还模仿我的跑步姿势，夸张地摆动胳膊和腿。老师在一旁并没有注意到这些嘲笑声。我当时觉得脸上火辣辣的，眼泪差点掉下来，心里非常难过和羞愧。",
+        "metadata": {
+            "node_id": "node_0",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我真的很糟糕，大家都在嘲笑我，我永远不会被他们接受。",
+            "emotion": "极度羞愧和悲伤",
+            "behavior": "避免与同学接触，尤其是体育课；甚至可能会故意缺席体育课。",
+            "physiological_response": "脸部发热，心跳加快，呼吸急促，眼泪涌出。",
+            "created_at": "2024-01-15 10:05:00"
+        }
+    }
+}

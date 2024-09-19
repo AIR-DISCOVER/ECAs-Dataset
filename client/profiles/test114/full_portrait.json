@@ -1,0 +1,163 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "自卑",
+            "内向",
+            "敏感",
+            "悲观",
+            "缺乏自信",
+            "孤独"
+        ],
+        "appearance": [
+            "中等身高",
+            "稍显肥胖",
+            "面色苍白",
+            "眼神黯淡",
+            "头发凌乱"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "打游戏",
+                "看电影"
+            ],
+            "activity": [
+                "以前喜欢打单机游戏",
+                "现在没有特别感兴趣的活动"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "找到一份稳定的工作，能够自给自足",
+            "long_term_goals": "还清债务，重新找到生活的意义"
+        },
+        "daily_life": {
+            "routine": "每天大部分时间待在出租房里，偶尔上网，吃泡面，晚上熬夜到凌晨才睡",
+            "weekends": "和平时没有太大区别，依旧是待在房间里，偶尔会看电影"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通家庭，父母对他期望很高，但他一直觉得自己达不到他们的期望",
+            "adolescence": "中学时期成绩一般，性格内向，不太与人交往",
+            "recent_events": "前两年因网络赌博输光了积蓄，还欠了不少债，导致情绪低落，生活陷入困境"
+        },
+        "environment": "出生在一个小城市，大学毕业后到大城市打拼，但一直没有找到稳定的工作，生活压力大，逐渐陷入抑郁"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "喻政彪的父亲是一名工厂工人，工作繁忙，但对儿子的期望很高。父亲常常在喻政彪的学习上施加压力，希望他能出人头地。尽管父亲的出发点是好的，但这种高期望让喻政彪感到沉重的压力。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "喻政彪的母亲是一名家庭主妇，性格温和，对儿子关爱有加。母亲是喻政彪童年时期最亲近的人，常常在他感到压力时给予安慰和支持。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        3
+                    ],
+                    "description": [
+                        "喻政彪在小学和初中时期有几个要好的同学，但由于性格内向，他并没有与他们建立深厚的友谊。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入中学后，喻政彪与父亲的关系变得紧张。父亲对他的期望依旧很高，但喻政彪的成绩并不理想，这让父亲感到失望。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依旧是喻政彪的支持者，但她也开始感到无力，因为她无法帮助儿子在学业上取得突破。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        3
+                    ],
+                    "description": [
+                        "在中学时期，喻政彪的社交圈子变得更小。他有两个比较要好的同学，但由于性格内向，他依旧没有与他们建立深厚的友谊。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "大学毕业后，喻政彪与父亲的关系进一步恶化。父亲对他的期望依旧很高，但喻政彪在大城市里找不到稳定的工作，这让父亲感到失望和愤怒。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲依旧关心喻政彪，但她也开始感到无力，因为她无法帮助儿子摆脱困境。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        1
+                    ],
+                    "description": [
+                        "喻政彪在大城市里几乎没有朋友。他曾经有一个大学同学在同一个城市工作，但由于喻政彪的抑郁和自卑，他们的联系逐渐减少。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "喻政彪的社交能力和意愿在不同阶段发生了显著变化。童年时期，他虽然内向，但仍能与同学建立基本的友谊。进入中学后，由于学业压力和父亲的高期望，他的社交圈子变得更小。大学毕业后，喻政彪在大城市里几乎没有朋友，社交能力和意愿进一步下降。网络赌博的失败和债务问题让他更加孤立无援，最终陷入严重的抑郁状态。"
+    }
+}

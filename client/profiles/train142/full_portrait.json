@@ -1,0 +1,161 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "责任心强",
+            "焦虑",
+            "自我怀疑",
+            "勤奋"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "面色苍白",
+            "眼神疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读财经书籍",
+                "看新闻",
+                "偶尔打篮球"
+            ],
+            "activity": [
+                "和家人一起看电视",
+                "周末带孩子去公园"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能够在工作中找到更好的应对压力的方法，恢复正常的睡眠和体重。",
+            "long_term_goals": "希望能够在金融行业中取得更高的成就，同时保持家庭的和睦与幸福。"
+        },
+        "daily_life": {
+            "routine": "每天早上6点左右早醒，随后准备早餐并送孩子上学。工作时间从早上9点到晚上6点，期间处理大量客户和文件。晚上回家后，陪伴家人，处理一些家庭事务。",
+            "weekends": "周末通常会带孩子去公园，或者在家里休息，偶尔会和朋友聚会，但大部分时间都在家中度过。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但由于父母的高期望，常常感到压力。大学期间选择了金融专业，毕业后进入金融行业工作。",
+            "recent_events": "最近由于工作上的压力，遇到难缠的客户，导致睡眠质量下降，体重剧烈下降，记忆力变差，焦虑感增加。"
+        },
+        "environment": "出生在江苏省南京市，成长在一个普通的工薪家庭。大学期间在北京读书，毕业后回到南京工作和生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "卞利仁的父母对他期望很高，从小就被要求努力学习。他与父母的关系较为紧密，但也因此感受到很大的压力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "卞利仁在童年时期有几个玩伴，他们常常一起玩耍，但由于学习压力大，他与朋友的相处时间有限。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "中学时期，卞利仁的父母对他的期望更高，导致他感受到更大的压力，但他依然与父母保持紧密的关系。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "在中学时期，卞利仁有几个关系较好的同学，他们一起学习和讨论问题，但由于学习压力，他的社交活动较少。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "妻子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "卞利仁与妻子的关系非常亲密，妻子是他生活中的重要支柱，但他不愿意让妻子担心自己的工作压力。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "卞利仁非常爱自己的孩子，尽管工作压力大，他仍然尽量抽出时间陪伴孩子。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "卞利仁与同事的关系较为一般，主要是工作上的交流，较少有私人交往。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "卞利仁有两个关系较好的朋友，他们偶尔会聚会，但由于工作繁忙，见面的机会不多。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "卞利仁在不同阶段的社交关系有明显变化。童年时期，他的社交圈较小，主要是父母和几个玩伴。进入中学后，学习压力增大，他的社交活动减少，主要与同学保持联系。成年后，工作和家庭占据了他的大部分时间，他的社交圈进一步缩小，主要是妻子、孩子和少数朋友。由于工作压力大，他与同事的关系较为疏远，较少有私人交往。"
+    }
+}

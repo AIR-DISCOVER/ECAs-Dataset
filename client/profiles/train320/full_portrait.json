@@ -1,0 +1,187 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "敏感",
+            "有责任心"
+        ],
+        "appearance": [
+            "中等身高",
+            "纤细",
+            "清秀",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "听音乐",
+                "绘画"
+            ],
+            "activity": [
+                "和朋友一起去图书馆",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "适应大学生活，提升学习成绩",
+            "long_term_goals": "成为一名优秀的教师，帮助更多的学生"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点上课，下午在图书馆自习，晚上10点左右睡觉",
+            "weekends": "周末会和朋友一起去图书馆学习，或者去公园散步放松心情"
+        },
+        "past_experiences": {
+            "childhood": "在一个小城市长大，家庭和睦，父母对她的期望很高",
+            "adolescence": "中学时期成绩优异，但因为学习压力大，偶尔会感到焦虑",
+            "recent_events": "刚进入大学，面对新的环境和学习方式，感到不适应，导致睡眠减少和焦虑"
+        },
+        "environment": "出生在一个小城市，家庭环境温馨和睦，高中毕业后考入省城的一所大学"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "雷竹艳的父母对她非常关心和支持，他们对她的期望很高，但也给予了她足够的自由和空间。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "雷竹艳在小学和初中时期有几个非常要好的朋友，他们经常一起玩耍和学习。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "雷竹艳的班主任和数学老师对她的学习非常关注，经常给予她额外的辅导和鼓励。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "雷竹艳的父母在她中学时期依然给予了她很大的支持，但也开始对她的学习成绩有更高的期望。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "雷竹艳在中学时期结交了一些新朋友，他们一起参加课外活动和学习小组。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "雷竹艳的班主任和几位科任老师对她的学习和心理状态非常关注，经常与她交流。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "雷竹艳的父母在她进入大学后依然非常关心她的生活和学习，经常打电话询问她的情况。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "雷竹艳在大学里结交了一些新朋友，他们一起上课、去图书馆学习和周末散步。"
+                    ]
+                },
+                {
+                    "relationship": "室友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "雷竹艳的室友是她在大学里最亲近的人之一，他们一起分享生活中的点滴。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "雷竹艳的大学老师对她的学习给予了一定的指导，但由于大学教学方式的不同，她还在适应中。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "雷竹艳在不同阶段的社交关系有明显的变化。童年时期，她的社交圈主要集中在家庭和学校的朋友，关系较为单纯和紧密。进入中学后，随着学习压力的增加，她的社交圈有所扩大，但也变得更加复杂。进入大学后，她的社交圈再次发生变化，结交了新的朋友和室友，但也面临着适应新环境的挑战。总体来说，雷竹艳的社交能力较强，但在面对新的环境和压力时，可能会感到不适应和焦虑。"
+    }
+}

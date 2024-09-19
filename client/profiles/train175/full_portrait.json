@@ -1,0 +1,193 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "优柔寡断",
+            "缺乏自信",
+            "温和",
+            "关心他人",
+            "内向"
+        ],
+        "appearance": [
+            "中等身材",
+            "微胖",
+            "普通",
+            "中年妇女形象"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "打麻将",
+                "看电视剧",
+                "烹饪"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "晚上在手机上打麻将"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "为女儿选择一个合适的兴趣班",
+            "long_term_goals": "希望能够减肥，提升自信心"
+        },
+        "daily_life": {
+            "routine": "早睡早起，白天处理家务和自由职业的工作，晚上打麻将放松",
+            "weekends": "陪伴家人，偶尔外出购物或散步"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通家庭，父母工作忙碌，自己从小就比较独立",
+            "adolescence": "中学时期成绩一般，但有几个好朋友，性格逐渐变得内向",
+            "youth": "大学毕业后结婚生子，成为全职妈妈，后来转为自由职业",
+            "recent_events": "最近因为女儿的兴趣班选择问题感到困扰，开始怀疑自己的决断力"
+        },
+        "environment": "出生在一个小城市，大学毕业后在大城市工作和生活，现居住在城市的一个普通社区"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "尤柔可的父母工作忙碌，但他们对她的成长非常关心。虽然他们没有太多时间陪伴她，但他们总是尽力在她需要的时候提供支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "尤柔可在小学时有几个好朋友，他们经常一起玩耍和学习。虽然这些朋友后来因为升学和搬家而分开，但他们在尤柔可的童年中留下了深刻的印象。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "在中学时期，尤柔可的父母依然忙碌，但他们对她的学业和生活给予了更多的关注。尤柔可开始感受到父母对她的期望，这让她有时感到压力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "尤柔可在中学时期结交了几个好朋友，他们一起度过了许多美好的时光。这些朋友对她的性格形成产生了重要影响，使她变得更加内向和谨慎。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "尤柔可的几位老师对她的学业和个人发展给予了很大的帮助，特别是一位班主任老师，他对尤柔可的关心和指导让她在学业上取得了一定的进步。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "配偶",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "尤柔可在大学毕业后不久结婚，她的配偶对她非常支持和理解。他们一起经历了许多生活中的起伏，尤柔可非常依赖他的支持。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "尤柔可的女儿是她生活的重心，她非常关心女儿的成长和教育。她希望能够为女儿提供最好的生活和教育条件。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "尤柔可在成为全职妈妈后，结交了一些同样是全职妈妈的朋友。他们经常一起交流育儿经验，互相支持。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "配偶",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "尤柔可的配偶依然是她最重要的支持者，特别是在她感到决断困难和缺乏自信的时候，他总是给予她鼓励和支持。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "尤柔可的女儿现在正处于选择兴趣班的关键时期，这让尤柔可感到非常困扰。她希望能够为女儿做出最好的选择，但却感到决断困难。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "尤柔可的朋友们依然是她生活中的重要部分，他们经常一起交流生活中的琐事和烦恼。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "尤柔可的社交关系在不同的生命阶段发生了显著变化。童年时期，她的社交圈主要是家庭和几个朋友。进入中学后，她的社交圈扩大，结交了更多的朋友和老师。大学毕业后，她的社交重心转向了家庭，特别是配偶和孩子。最近，她的社交关系主要集中在家庭和少数几个朋友上。她的社交能力和意愿在不同阶段有所变化，特别是在最近，她感到决断困难和缺乏自信，这对她的社交关系产生了一定影响。"
+    }
+}

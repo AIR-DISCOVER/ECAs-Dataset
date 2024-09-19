@@ -1,0 +1,184 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "耐心",
+            "有责任感",
+            "有些内向"
+        ],
+        "appearance": [
+            "中等身材",
+            "清秀",
+            "有些憔悴",
+            "眼神温柔"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "烹饪",
+                "园艺"
+            ],
+            "activity": [
+                "和孩子一起做手工",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "与丈夫更好地沟通，减轻育儿压力",
+            "long_term_goals": "重返职场，找到一份自己喜欢的工作"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，准备早餐，送孩子上学。白天主要在家做家务和照顾孩子，下午接孩子放学，晚上做晚餐，陪孩子玩耍和学习，晚上10点左右休息。",
+            "weekends": "周末会带孩子去公园或者参加一些亲子活动，有时会和家人一起外出用餐。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被教育要努力学习。",
+            "adolescence": "中学时期成绩优异，但性格有些内向，不太善于交际。",
+            "recent_events": "结婚后成为全职妈妈，育儿压力逐渐增大，最近两周情绪波动较大，体重下降明显。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书，毕业后回到南京工作并结婚。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "赵馥莎的父亲是一名工厂工人，工作繁忙，但对女儿的教育非常重视。父亲在她的童年时期是她的榜样，教会了她很多生活的道理。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "赵馥莎的母亲是一名小学教师，性格温和，对女儿的期望很高。母亲在她的童年时期是她的主要照顾者，教会了她如何做家务和照顾家庭。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "赵馥莎在小学时期有两个好朋友，一个是邻居家的小女孩，另一个是班上的同学。她们经常一起玩耍，分享彼此的小秘密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "在中学时期，赵馥莎的父亲依然对她的学习非常关注，但由于工作原因，陪伴她的时间减少了。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "赵馥莎的母亲在她的青春期依然是她的主要支持者，帮助她应对学业压力和青春期的困惑。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "赵馥莎在中学时期结交了几位新朋友，她们一起学习，一起参加课外活动，但由于性格内向，她并没有特别亲密的朋友。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "赵馥莎的班主任和数学老师对她的学习非常关心，经常给予她鼓励和指导。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "赵馥莎的丈夫是一名IT工程师，工作繁忙，但对家庭也很关心。由于工作压力大，他有时无法理解赵馥莎的育儿压力。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "赵馥莎的孩子是她生活的重心，她花费大量时间和精力照顾孩子，陪伴孩子成长。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "赵馥莎在成为全职妈妈后，和以前的同事和朋友联系减少了，但她依然保持着和两位好朋友的联系，偶尔会一起聚会。"
+                    ]
+                },
+                {
+                    "relationship": "邻居",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "赵馥莎和邻居关系不错，偶尔会一起聊天，分享育儿经验。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "赵馥莎的社交关系在不同阶段有明显的变化。童年时期，她的社交圈主要是家庭和邻居，关系较为亲密。进入青春期后，她的社交圈扩大到学校的老师和同学，但由于性格内向，亲密关系较少。结婚后，成为全职妈妈的她，社交圈再次缩小，主要集中在家庭和少数朋友。育儿压力和家庭责任使她的社交意愿和能力有所下降，但她依然希望通过与丈夫的沟通和重返职场来改善自己的社交状况。"
+    }
+}

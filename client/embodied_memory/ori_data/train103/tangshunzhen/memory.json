@@ -1,0 +1,750 @@
+{
+    "node_43": {
+        "page_content": "2024年08月15日下午5:30，放学回家后，我一进门就看到母亲在厨房忙碌。我走到她身边，忐忑地告诉她我被选为绘画比赛的候选人。我小声地说出了我的不安和担忧，母亲停下手中的活，温柔地看着我，轻抚着我的头发说：“顺振，无论结果如何，妈妈都为你感到骄傲。”她的话让我感到一丝温暖和安全，但内心深处的担忧和害怕失败的感觉仍然挥之不去。",
+        "metadata": {
+            "node_id": "node_43",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我可能会在比赛中失败，被嘲笑和进一步欺负。",
+            "emotion": "担忧和害怕",
+            "behavior": "犹豫是否要参加比赛，不敢告诉其他人被选中的消息。",
+            "physiological_response": "心跳加快，手心出汗，胃部有紧张感。",
+            "created_at": "2024-08-15 17:30:00"
+        }
+    },
+    "node_42": {
+        "page_content": "2024年08月15日上午11:00，下课铃声刚响，同学们纷纷围过来祝贺我被选为绘画比赛的候选人。我笑着道谢，但内心的紧张感却愈发强烈。这时，一个同学笑着对我说：“汤顺振，如果你输了，大家可都要笑话你哦！”他的话像一根针刺进我的心，我勉强挤出一丝笑容，但内心的压力和不安立刻涌了上来。",
+        "metadata": {
+            "node_id": "node_42",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我失败了，大家会嘲笑我，我会受到更多伤害。",
+            "emotion": "紧张和不安",
+            "behavior": "勉强挤出笑容，尽量避免与同学对视",
+            "physiological_response": "心跳加速，手心出汗",
+            "created_at": "2024-08-15 11:00:00"
+        }
+    },
+    "node_41": {
+        "page_content": "2024年08月15日上午10:30，在学校的美术课上，美术老师站在讲台前，微笑着宣布要选拔绘画比赛的候选人。当老师举起我的画作，说我的作品很出色时，我的心脏怦怦直跳。教室里同学们的眼神让我既高兴又紧张。我害怕他们会觉得我的画不够好，感到一阵不安和焦虑。",
+        "metadata": {
+            "node_id": "node_41",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们会觉得我的画不够好。",
+            "emotion": "不安和焦虑",
+            "behavior": "低着头，不敢看同学们的眼睛，可能会想要躲避。",
+            "physiological_response": "心跳加快，手心出汗，胃部紧张感。",
+            "created_at": "2024-08-15 10:30:00"
+        }
+    },
+    "node_40": {
+        "page_content": "2024年8月5日10:20，老师批评完那些高年级哥哥们后，他们被罚站在走廊。我和同班同学们赶紧离开现场，但我的内心仍然充满焦虑和恐惧。我害怕这些哥哥们会在老师不在的时候报复我，心情非常沉重和不安。我不敢告诉父母和老师，只能把这些担忧埋在心里，感到更加孤独和无助。",
+        "metadata": {
+            "node_id": "node_40",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "这些哥哥们会在老师不在的时候报复我，我无法保护自己。",
+            "emotion": "焦虑和恐惧",
+            "behavior": "避免与高年级哥哥们接触，不敢告诉父母和老师",
+            "physiological_response": "心跳加快，胃部不适，全身紧张",
+            "created_at": "2024-08-05 10:20:00"
+        }
+    },
+    "node_39": {
+        "page_content": "2024年8月5日10:17，当那些高年级哥哥们走近我们时，我的心跳越来越快，几乎要跳出胸膛。就在这时，一位老师恰好经过，发现他们对我们表现出威胁的姿态。老师立即上前制止，严厉地批评了他们。我感到一丝解脱和安全感，但同时也担心这些哥哥们会在老师不在时报复我。这种矛盾的情绪让我更加害怕和不安。",
+        "metadata": {
+            "node_id": "node_39",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "他们可能会在老师不在的时候报复我。",
+            "emotion": "害怕和不安",
+            "behavior": "避免与这些高年级哥哥们接触，尽量保持低调。",
+            "physiological_response": "心跳加快，呼吸急促，手心出汗。",
+            "created_at": "2024-08-05 10:17:00"
+        }
+    },
+    "node_38": {
+        "page_content": "2024年8月5日早上课间休息时，我和两个同班同学在学校走廊上聊天。我们正聊得开心，突然看见那些高年级的哥哥们朝我们走来。我瞬间感到紧张，心跳加速，手心出汗，害怕他们会再次欺负我。我不敢直视他们，只能低下头，心里祈祷他们不会注意到我。",
+        "metadata": {
+            "node_id": "node_38",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "他们会再次欺负我，我不安全。",
+            "emotion": "害怕，焦虑",
+            "behavior": "低下头，不敢直视，试图躲避",
+            "physiological_response": "心跳加速，手心出汗",
+            "created_at": "2024-08-05 10:15:00"
+        }
+    },
+    "node_37": {
+        "page_content": "2024年7月24日上午9:30，班主任在早读时特别关注我，走到我身边，轻声鼓励我，让我加油。我知道她是为我好，但我因为之前在家长会上的羞愧感，变得更加内向和退缩。我不敢与老师和同学交流，总是低着头，不敢看他们。我觉得自己很无能，不值得他们的关心和帮助。",
+        "metadata": {
+            "node_id": "node_37",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "老师和同学们都在看着我，我不够强大，无法保护自己。",
+            "emotion": "羞愧和害怕",
+            "behavior": "低头，不敢与人接触，保持沉默。",
+            "physiological_response": "心跳加快，手心出汗，感觉胃部不适。",
+            "created_at": "2024-07-24 09:30:00"
+        }
+    },
+    "node_36": {
+        "page_content": "2024年7月17日上午10点，家长会在学校教室举行。母亲在班主任面前提到我最近害怕上学的情况，希望老师能多关照我。我在旁边听着，心里非常难过和羞愧，觉得自己很无能。我低着头，不敢看任何人，觉得所有人都在看我，嘲笑我。母亲的关心让我感到温暖，但同时也让我觉得自己很没用。",
+        "metadata": {
+            "node_id": "node_36",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我无法保护自己，大家都在嘲笑我。",
+            "emotion": "羞愧和难过",
+            "behavior": "低着头，不敢看任何人，保持沉默。",
+            "physiological_response": "心跳加快，脸红，手心出汗。",
+            "created_at": "2024-07-17 10:00:00"
+        }
+    },
+    "node_35": {
+        "page_content": "2024年7月10日下午3:30，我在学校操场上被几个高年级的哥哥欺负了。他们抢走了我的书包，还嘲笑我，说我胆小鬼。我当时非常害怕，不知道该怎么办，只能低着头任他们嘲笑。回到家后，我情绪很低落，母亲注意到我的异样，试图询问我发生了什么，但我什么都没说，只是默默地回到自己的房间。我感到非常无助和害怕，不知道该如何面对明天的学校生活。",
+        "metadata": {
+            "node_id": "node_35",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我真的很弱小，无法保护自己。他们会一直欺负我。",
+            "emotion": "恐惧和无助",
+            "behavior": "回避与母亲沟通，退缩到自己的房间，不愿意面对学校生活。",
+            "physiological_response": "心跳加快，冷汗，身体颤抖。",
+            "created_at": "2024-07-10 15:30:00"
+        }
+    },
+    "node_34": {
+        "page_content": "2024年7月15日下午4点10分，我放学后独自走在回家的路上。阳光透过树叶洒在地上，路边的树木郁郁葱葱。我正低着头想着比赛的事情，突然抬头看到前方走来了曾经欺负我的高年级同学。我心里一紧，赶紧低下头，不敢与他对视。幸运的是，这次他并没有找我的麻烦，只是走了过去。但即便如此，这次偶遇还是让我感到害怕，内心的不安全感再次涌上心头。",
+        "metadata": {
+            "node_id": "node_34",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "他可能会再次欺负我，我必须保持低调。",
+            "emotion": "害怕、不安",
+            "behavior": "低头快速走开，不敢与对方对视。",
+            "physiological_response": "心跳加速，手心出汗，呼吸急促。",
+            "created_at": "2024-07-15 16:10:00"
+        }
+    },
+    "node_33": {
+        "page_content": "2024年7月15日下午3点，拼图比赛结束后，李老师站在教室前方，对我们小组进行了表扬。她特别指出了我在团队中的贡献，眼神中充满了鼓励。我站在一旁，听着她的表扬，内心却感到不安。我觉得老师的赞赏更多是因为小明和小华的帮助，而不是我个人的能力。尽管收到了表扬，我的内心却充满了矛盾，既感到开心，又觉得不安和不配。",
+        "metadata": {
+            "node_id": "node_33",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "老师的表扬其实是给小明和小华的，我不够强大，不值得这些赞美。",
+            "emotion": "不安和焦虑",
+            "behavior": "低下头，不敢看老师和同学，尽量保持低调。",
+            "physiological_response": "心跳加速，手心出汗，胃部不适。",
+            "created_at": "2024-07-15 15:00:00"
+        }
+    },
+    "node_32": {
+        "page_content": "2024年7月15日下午，班主任李老师在学校教室里组织了一场拼图比赛。我和小明、小华组成了一个小组，我们围坐在一张桌子旁，桌上摆满了拼图的碎片。李老师在一旁鼓励我们，教室里充满了同学们的欢声笑语。虽然一开始我有些紧张，但随着比赛的进行，我逐渐感受到同学们的鼓励和支持，投入到拼图的完成中。最终，当我们成功完成拼图时，我感到了一定的成就感，但内心深处仍感觉自己离不开他人的帮助。",
+        "metadata": {
+            "node_id": "node_32",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我离不开他人的帮助。",
+            "emotion": "感到依赖和不安",
+            "behavior": "在完成任务后依赖同学的支持，不敢独自行动",
+            "physiological_response": "手心出汗，心跳加速",
+            "created_at": "2024-07-15 14:30:00"
+        }
+    },
+    "node_31": {
+        "page_content": "2024年6月15日下午，我回到家后，坐在客厅的沙发上，感觉心情很低落。我把今天在学校门口看到的那些事情告诉了母亲，并说出了自己感到害怕和孤独的感受。母亲停下准备晚饭的手，坐到我身边，轻轻地抚摸着我的头，安慰我说：“顺振，你要相信自己，你可以变得坚强。”虽然母亲的话让我感到一些安慰，但我依然觉得自己很无力，心里还是有些害怕。不过，母亲的鼓励让我心里多了一丝希望，觉得自己或许真的有可能变得坚强，甚至实现自己的梦想。",
+        "metadata": {
+            "node_id": "node_31",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我无法保护自己，别人会继续欺负我。",
+            "emotion": "害怕和无力",
+            "behavior": "避免与高年级同学接触，依赖母亲的安慰",
+            "physiological_response": "心跳加快，手心出汗",
+            "created_at": "2024-06-15 17:30:00"
+        }
+    },
+    "node_30": {
+        "page_content": "2024年6月15日下午，我走在放学回家的路上，看到一个小朋友不小心摔倒了。他的朋友们立刻围上去扶起他，关心地问他有没有受伤。这一幕让我感到心里很温暖，但同时也让我觉得自己很孤独。我没有那样的朋友，当我遇到困难的时候，没有人会来帮助我。我心里既羡慕又伤感，觉得自己真的很无助。",
+        "metadata": {
+            "node_id": "node_30",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我真的很孤独，没有人会帮助我。",
+            "emotion": "伤感和无助",
+            "behavior": "低头走路，不敢与其他同学眼神接触，回家后不愿与父母谈论学校的事情。",
+            "physiological_response": "心跳加快，胃部不适，感觉头重脚轻。",
+            "created_at": "2024-06-15 16:45:00"
+        }
+    },
+    "node_29": {
+        "page_content": "2024年6月15日下午放学后，我走到学校门口，看到几个高年级的男生正在推搡我的同班同学。他们毫不留情地嘲笑和欺负他。我感到心跳加速，全身都在发抖，害怕得不敢上前帮忙，只能躲在一旁远远地看着。这个场景让我想起了自己被他们欺负的经历，心里充满了恐惧和无助。我觉得自己很无力，也不敢告诉任何人。",
+        "metadata": {
+            "node_id": "node_29",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我试图帮忙，我会被他们欺负得更惨。",
+            "emotion": "极度恐惧和无助",
+            "behavior": "躲在一旁，远远地看着，不敢上前帮忙。",
+            "physiological_response": "心跳加速，全身发抖。",
+            "created_at": "2024-06-15 16:30:00"
+        }
+    },
+    "node_28": {
+        "page_content": "2024年6月16日10:15，在学校的课间休息时间，我站在操场的角落里，看到同学们在阳光下快乐地玩耍。回想着表姐的故事，我感到自己无法融入他们的欢笑和游戏中。于是，我拿出画本，坐在角落的小桌子旁，开始画画。虽然画画能让我暂时忘却内心的焦虑和自卑，但我依然感到孤独和不安。",
+        "metadata": {
+            "node_id": "node_28",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够强大，无法保护自己，所以只能远离他们。",
+            "emotion": "孤独和不安",
+            "behavior": "躲在角落里画画，避免与同学互动。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "2024-06-16 10:15:00"
+        }
+    },
+    "node_27": {
+        "page_content": "2024年6月15日19:30，聚会结束后，我和父母在餐厅里吃晚餐。我们讨论了表姐的故事。父母温柔地对我说，每个人都有自己的优点和成长过程，他们希望我能看到自己的长处。尽管父母的鼓励让我感到一丝安慰，但内心的自卑和压力依然挥之不去。我觉得自己不够强大，无法像表姐那样勇敢和出色。",
+        "metadata": {
+            "node_id": "node_27",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够强大，无法像表姐那样勇敢和出色。",
+            "emotion": "自卑和压力",
+            "behavior": "低下头，不敢直视父母，沉默不语。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "2024-06-15 19:30:00"
+        }
+    },
+    "node_26": {
+        "page_content": "2024年6月15日18:30，在家里客厅的沙发上，我和表姐以及其他家人一起玩耍和聊天。表姐脸上带着自豪的笑容，分享她在学校被选为班长的故事。她讲述了如何勇敢面对挑战，最终赢得老师和同学们的信任。听着她的故事，我不禁感到自己很弱小和无能，心里涌起一股自卑感和焦虑。",
+        "metadata": {
+            "node_id": "node_26",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我无法像表姐那样勇敢面对挑战，我太弱小了。",
+            "emotion": "自卑、焦虑",
+            "behavior": "沉默不语，低下头，不敢与家人交流。",
+            "physiological_response": "心跳加速，手心出汗，胃部不适。",
+            "created_at": "2024-06-15 18:30:00"
+        }
+    },
+    "node_25": {
+        "page_content": "2024年5月15日下午，我坐在心理医生的办公室里，努力抑制住即将涌出的泪水。我向医生倾诉了自己对高年级哥哥的恐惧，以及我现在不愿上学的情绪。医生温和地建议我尝试面对恐惧，逐步建立自信，但我觉得自己完全做不到。我心里很焦虑，觉得世界对我来说太过复杂和危险，我需要有人保护我。我低声说：“我真的做不到，没有人保护我，我根本无法面对他们。”医生点了点头，继续安慰和鼓励我，但我仍然感到无助。",
+        "metadata": {
+            "node_id": "node_25",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我真的做不到，没有人保护我，我根本无法面对他们。",
+            "emotion": "焦虑和无助",
+            "behavior": "退缩，不愿上学，避免陌生人",
+            "physiological_response": "心跳加速，手心出汗，胃部不适",
+            "created_at": "2024-05-15 16:00:00"
+        }
+    },
+    "node_24": {
+        "page_content": "2024年5月10日晚上，回到家后，我情绪低落，一整天都沉默不语。父母注意到了我的异样，在客厅里，他们温和地问我发生了什么事。我低着头，不敢直视他们的眼睛，感觉喉咙像被堵住了一样说不出话来。妈妈轻声说：“顺振，我们知道你最近很不开心，我们想知道发生了什么事，我们可以帮你。”爸爸也在一旁点头。我感到一点温暖，但内心仍然充满了孤立和无助，因为我认为自己无法独自面对那些高年级的哥哥。",
+        "metadata": {
+            "node_id": "node_24",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我无法独自面对那些高年级的哥哥，我不够强大。",
+            "emotion": "孤立、无助、害怕",
+            "behavior": "低着头，不敢直视父母的眼睛，沉默不语",
+            "physiological_response": "喉咙像被堵住了一样，说不出话来",
+            "created_at": "2024-05-10 19:00:00"
+        }
+    },
+    "node_23": {
+        "page_content": "2024年5月10日中午，我在学校操场上准备回教室时，突然被几个高年级的哥哥们围住。他们开始嘲笑我，说我瘦小、无用，还用力推搡我。我试图逃跑，但他们用身体挡住了我的去路。我的手心出汗，心跳加速，感觉自己无处可逃。最终，他们似乎玩够了，才放过我。我呆站在原地，内心充满了恐惧和羞辱，眼泪不自觉地流了下来。",
+        "metadata": {
+            "node_id": "node_23",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我无法保护自己，他们都比我强大，我永远无法逃脱这种困境。",
+            "emotion": "恐惧和羞辱",
+            "behavior": "站在原地不敢动，眼泪不自觉地流下来。",
+            "physiological_response": "手心出汗，心跳加速。",
+            "created_at": "2024-05-10 12:30:00"
+        }
+    },
+    "node_22": {
+        "page_content": "2024年5月15日早上，我终于走到教室门口时，班主任已经开始上课了。我轻轻推开门，所有人的目光都聚集在我身上。班主任停下讲课，问我为什么迟到。我紧张得手心又开始冒汗，脑子一片空白，只能硬着头皮撒谎说因为起晚了。班主任皱了皱眉头，但没有继续追问。我回到座位上，心里却充满了自责和无力感，觉得自己真是太弱了。",
+        "metadata": {
+            "node_id": "node_22",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我真是太弱了，根本不能面对这种情况。",
+            "emotion": "自责和无力感",
+            "behavior": "低着头走回座位，避免目光接触。",
+            "physiological_response": "手心冒汗，心跳加速，脑子一片空白。",
+            "created_at": "2024-05-15 08:30:00"
+        }
+    },
+    "node_21": {
+        "page_content": "2024年5月15日早晨，我走在上学的路上，看到前方那些高年级的哥哥时，心头一紧，腿都软了。我赶紧改变了路线，绕道走小巷。小巷里安静得出奇，我的一举一动都显得格外小心。我每走几步就回头看看，总觉得他们会突然出现在我的身后。心里的紧张和不安让我的步伐变得越来越沉重。",
+        "metadata": {
+            "node_id": "node_21",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我无法保护自己，必须避免和他们接触。",
+            "emotion": "极度恐惧和紧张",
+            "behavior": "绕道走小巷，频繁回头查看",
+            "physiological_response": "心跳加快，腿发软，出汗",
+            "created_at": "2024-05-15 08:10:00"
+        }
+    },
+    "node_20": {
+        "page_content": "2024年5月15日早晨，我站在我家玄关前，准备穿上校鞋时，昨天被高年级哥哥欺负的画面突然涌上心头。我心里一阵恐惧，手心开始出汗。我用尽各种理由拖延出门的时间，母亲在厨房里准备早餐，不时催我快点出门。我心里想着，如果再拖一会儿，说不定他们就不在那里了。最终，我在母亲的催促下，拖着沉重的步伐离开了家。",
+        "metadata": {
+            "node_id": "node_20",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "如果我再去学校，我可能会再次被欺负。",
+            "emotion": "害怕，焦虑",
+            "behavior": "拖延出门的时间，尽量避免去学校。",
+            "physiological_response": "手心出汗，心跳加速，感觉胃部不适。",
+            "created_at": "2024-05-15 07:30:00"
+        }
+    },
+    "node_19": {
+        "page_content": "2024年4月15日下午回到家后，母亲发现我情绪低落，她走到我身边，轻声问我‘顺振，今天在学校发生什么事了吗？’我犹豫了一下，低着头不敢看她的眼睛。最终，我还是决定告诉她我在学校看到的事情，以及我内心的恐惧和无助感。母亲静静地听着，不时点头，眼神中充满了关心和心疼。我说完后，她给了我一个温暖的拥抱，说‘别担心，我们会一起解决这个问题的。’听到这些话，我感到心里稍微安定了一些，但仍然觉得对外界充满恐惧。",
+        "metadata": {
+            "node_id": "node_19",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我随时可能受到伤害，他人可能会对我有害。",
+            "emotion": "恐惧和无助",
+            "behavior": "退缩，不敢与人交流",
+            "physiological_response": "心跳加快，双手发抖",
+            "created_at": "2024-04-15 17:00:00"
+        }
+    },
+    "node_18": {
+        "page_content": "2024年4月15日下午放学后，我站在学校门口等候父母来接我。周围人来人往，我看到早上被欺负的那个低年级同学独自走在回家的路上，低着头，看起来非常沮丧。我心里一阵内疚，觉得自己早上没有帮忙，但同时又很害怕。如果我和他接触，高年级的哥哥们会不会发现并报复我？我只能站在原地，眼睁睁看着他离开，心情复杂，内疚和恐惧交织在一起。",
+        "metadata": {
+            "node_id": "node_18",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "如果我和那个同学说话，高年级哥哥们会发现并报复我。",
+            "emotion": "内疚和恐惧",
+            "behavior": "站在原地不动，不敢与那个低年级同学接触。",
+            "physiological_response": "心跳加快，手心出汗，感觉身体僵硬。",
+            "created_at": "2024-04-15 16:30:00"
+        }
+    },
+    "node_17": {
+        "page_content": "2024年4月15日下午，我在学校操场上和几个同班同学玩耍。突然，操场另一边传来一阵嘈杂声，我扭头一看，看到几个高年级的哥哥围着一个低年级的同学。我心里一紧，想起自己之前也被这些高年级同学欺负过，顿时感到害怕。我本来想过去帮忙，但脚步却停在了原地，心里想着‘如果我去帮忙，我也会被欺负’。我只能站在远处，手心冒汗，心跳加速，感到非常无助和害怕。",
+        "metadata": {
+            "node_id": "node_17",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "如果我去帮忙，我也会被欺负。",
+            "emotion": "害怕和无助",
+            "behavior": "站在远处，没有行动。",
+            "physiological_response": "手心冒汗，心跳加速。",
+            "created_at": "2024-04-15 13:10:00"
+        }
+    },
+    "node_16": {
+        "page_content": "2024年4月15日上午，在学校的教室里，班主任在讲台上表扬一位同学的勇敢行为，说他在前一天帮助低年级的小朋友找回了丢失的书包。教室里顿时响起了热烈的掌声，大家脸上都洋溢着微笑。我坐在座位上，心里感到深深的羡慕和自卑。我想，我也希望能像他一样勇敢，但我觉得自己做不到。接下来的时间里，我更加沉默寡言，不敢与同学和老师对视，心里满是失落和无力感。",
+        "metadata": {
+            "node_id": "node_16",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我永远不能像他那样勇敢，我做不到。",
+            "emotion": "强烈的自卑感和无力感",
+            "behavior": "更加沉默寡言，不敢与同学和老师对视",
+            "physiological_response": "心跳加快，胃部紧张",
+            "created_at": "2024-04-15 09:45:00"
+        }
+    },
+    "node_15": {
+        "page_content": "2024年3月15日上午10:18，为了躲避高年级的哥哥们，我迅速冲进了学校的厕所，锁上门，然后蹲在角落里，双手抱着膝盖，不敢出声。厕所的瓷砖地板有些湿滑，空气中有淡淡的消毒水味。我感觉自己像个小小的蜗牛，缩在壳里，心里充满了孤独和无助。",
+        "metadata": {
+            "node_id": "node_15",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我随时可能受到伤害，必须躲起来。",
+            "emotion": "极度恐惧和孤独",
+            "behavior": "躲在厕所里，不敢出声。",
+            "physiological_response": "心跳加快，呼吸急促，浑身发抖。",
+            "created_at": "2024-03-15 10:18:00"
+        }
+    },
+    "node_14": {
+        "page_content": "2024年3月15日上午10:17，我在课间走出教室，看到几个高年级的哥哥们在不远处的走廊上聊天，他们的笑声让我感到恐惧。我立刻转身想要回到教室，但发现门已经被锁上。走廊里没有其他人，我的心跳得更快了，感觉无路可逃。",
+        "metadata": {
+            "node_id": "node_14",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我无法面对这些哥哥们，他们会伤害我。",
+            "emotion": "恐惧、无助",
+            "behavior": "试图逃回教室，避免和哥哥们接触。",
+            "physiological_response": "心跳加快，呼吸急促，出汗。",
+            "created_at": "2024-03-15 10:17:00"
+        }
+    },
+    "node_13": {
+        "page_content": "2024年3月15日上午10:15，我在学校的教室里上课。下课铃声响起的时候，我的心砰砰直跳，手心出汗，因为我知道那些高年级的哥哥们经常在走廊里晃荡。班主任在讲台上收拾讲义，同班同学们开始收拾书包准备出去。我本能地想要躲避，尽量不引起注意。",
+        "metadata": {
+            "node_id": "node_13",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我出去，他们会欺负我。",
+            "emotion": "恐惧和焦虑",
+            "behavior": "尽量躲在教室里，不引起注意。",
+            "physiological_response": "心跳加快，手心出汗，肌肉紧张。",
+            "created_at": "2024-03-15 10:15:00"
+        }
+    },
+    "node_12": {
+        "page_content": "2024年3月11日下午4点，放学后，我和同班同学一起从学校门口走出来。学校门口人来人往，许多家长在接孩子。我和同学们结伴而行，希望这样能避免再次被高年级哥哥欺负。但是，我心里还是非常紧张和害怕，时不时回头看看，生怕他们会突然出现。尽管有同学的陪伴，我依然觉得自己无法独自应对这些困难。",
+        "metadata": {
+            "node_id": "node_12",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_4",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "如果那些高年级的哥哥再次出现，我根本没有办法保护自己。",
+            "emotion": "极度紧张和害怕",
+            "behavior": "不断回头查看，尽量贴近同学，避免独处",
+            "physiological_response": "心跳加快，手心出汗，肌肉紧张",
+            "created_at": "2024-03-11 16:00:00"
+        }
+    },
+    "node_11": {
+        "page_content": "2024年3月10日上午10点，我被班主任叫到了学校办公室。办公室里很安静，桌上堆满了各种文件和作业本。班主任老师坐在我对面，语气温和地鼓励我，要我勇敢面对那些高年级哥哥，并告诉我学校会采取措施保护我。虽然老师的话让我感到了一丝温暖，但我心里还是很害怕，担心反抗会带来更多的伤害。",
+        "metadata": {
+            "node_id": "node_11",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "如果我试图反抗，我会受到更大的伤害。",
+            "emotion": "强烈的恐惧和焦虑",
+            "behavior": "保持沉默，不敢与老师讨论具体的应对措施，避免与高年级哥哥面对面。",
+            "physiological_response": "心跳加快，手心出汗，呼吸急促。",
+            "created_at": "2024-03-10 10:00:00"
+        }
+    },
+    "node_10": {
+        "page_content": "2024年3月5日下午6点，我回到家里，心里还是很害怕。我一进门就忍不住哭出来，扑到妈妈怀里，把今天在操场上被欺负的事情告诉了他们。爸爸妈妈都很担心，妈妈抱着我，不断安慰我，说他们会保护我，爸爸则决定联系学校解决问题。虽然父母的安慰让我感到了一丝温暖和安全，但我心里还是很害怕，不知道该怎么办。",
+        "metadata": {
+            "node_id": "node_10",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我随时可能受到伤害，世界是不安全的。",
+            "emotion": "极度恐惧和不安",
+            "behavior": "哭泣，依赖父母，不愿意面对学校和陌生人。",
+            "physiological_response": "心跳加快，呼吸急促，出汗。",
+            "created_at": "2024-03-05 18:00:00"
+        }
+    },
+    "node_9": {
+        "page_content": "2024年3月5日下午，我在学校操场上，靠近篮球场的角落，那里比较偏僻。几个高年级哥哥看到我一个人，就走过来欺负我。他们抢过我的画本，用力扔到泥地里，然后哈哈大笑，嘲笑我是个胆小鬼。我当时真的非常害怕和无助，眼泪一下子涌了出来，我只想快点逃离那里。",
+        "metadata": {
+            "node_id": "node_9",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我无法保护自己，任何反抗都会让我受到更大的伤害。",
+            "emotion": "强烈的恐惧和无助感",
+            "behavior": "立即逃离现场，避免与高年级同学对抗",
+            "physiological_response": "心跳加速，手脚发抖，冷汗直流",
+            "created_at": "2024-03-05 14:30:00"
+        }
+    },
+    "node_8": {
+        "page_content": "2024年2月15日上午10:20，在学校的美术教室里，我最终还是没有上前展示。美术老师看了我一眼，没有责备我，只是继续点其他同学的名字。但我能听到周围的同学在窃窃私语，有人甚至发出了轻笑声。我迅速低下头，脸色苍白，心里充满了羞愧和自责。为什么我就这么胆小呢？我觉得自己很没用，连一幅画都不敢展示。",
+        "metadata": {
+            "node_id": "node_8",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "为什么我就这么胆小呢？我觉得自己很没用，连一幅画都不敢展示。",
+            "emotion": "羞愧、自责、无助",
+            "behavior": "低下头，不敢与他人目光接触，保持沉默",
+            "physiological_response": "脸色苍白，心跳加速，出汗",
+            "created_at": "2024-02-15 10:20:00"
+        }
+    },
+    "node_7": {
+        "page_content": "2024年2月15日上午10:15，在学校的美术教室里，美术老师站在展示区前，开始点名。我的心一下子提到了嗓子眼，当老师念到‘汤顺振’的时候，我感觉全身僵硬，眼睛开始湿润。我低下头，不敢看周围的同学。他们的目光像针一样刺在我的背上，我甚至听见有人在轻声笑。我想站起来，可我的腿像灌了铅一样，怎么也动不了。",
+        "metadata": {
+            "node_id": "node_7",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们一定会嘲笑我，我无法保护自己。",
+            "emotion": "极度害怕和羞愧",
+            "behavior": "低下头，不敢看周围的同学，无法站起来",
+            "physiological_response": "全身僵硬，眼睛湿润，腿像灌了铅一样动不了",
+            "created_at": "2024-02-15 10:15:00"
+        }
+    },
+    "node_6": {
+        "page_content": "2024年2月15日早上7:30，我在家里餐桌旁吃早餐，心里想着即将到来的绘画展示，感到非常紧张。妈妈一边帮我整理校服，一边问我是不是不舒服。我只是摇了摇头，没敢说话。爸爸在一旁看着报纸，偶尔抬头看我一眼。我们出门的时候，我的心跳得很快，胃里像有一团火在烧。路上，妈妈还鼓励我说：“今天表现好点，老师肯定会喜欢你的画。”但这些话并没有让我放松。",
+        "metadata": {
+            "node_id": "node_6",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我的画不好看，我会被大家嘲笑，我无法保护自己。",
+            "emotion": "焦虑和害怕",
+            "behavior": "避免与他人眼神接触，尽量不与人交谈",
+            "physiological_response": "心跳加快，胃部不适，出汗，手心发冷",
+            "created_at": "2024-02-15 07:30:00"
+        }
+    },
+    "node_5": {
+        "page_content": "2024年1月15日晚上，母亲建议我第二天请假，不去学校。我思考了一下，但想到请假后可能会堆积更多的作业，而且老师还会关注到我，心里更加焦虑。我对母亲说我还是去学校吧，但内心却充满了担忧和恐惧。那一晚，我在床上翻来覆去，怎么也睡不着，脑海中全是第二天可能会发生的糟糕情况。",
+        "metadata": {
+            "node_id": "node_5",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "如果我去学校，我可能会被高年级同学欺负，感到非常不安全。",
+            "emotion": "强烈的焦虑和恐惧",
+            "behavior": "在床上翻来覆去，无法入睡。",
+            "physiological_response": "心跳加快，胃部不适，出汗。",
+            "created_at": "2024-01-15 20:50:00"
+        }
+    },
+    "node_4": {
+        "page_content": "2024年1月15日晚上，我在卧室里忍不住哭了出来。母亲听到我的哭声，急忙跑进房间，坐在我的床边，温柔地问我发生了什么。我抽泣着告诉她我不想去学校，因为那些高年级的哥哥总是欺负我。母亲听完后，紧紧地抱住我，轻声安慰我，说一切都会好起来的，暂时让我感到了一丝安全感。",
+        "metadata": {
+            "node_id": "node_4",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "学校对我来说是不安全的，我随时可能被欺负。",
+            "emotion": "极度害怕和焦虑",
+            "behavior": "避免去学校，尽量待在家里，依赖母亲的安慰",
+            "physiological_response": "心跳加快，胃部不适，流泪",
+            "created_at": "2024-01-15 20:35:00"
+        }
+    },
+    "node_3": {
+        "page_content": "2024年1月15日晚上，我在卧室里做完作业，台灯的光线让我感到一点温暖。然而，一想到明天又要去学校，我的内心开始变得焦虑不安。我躺在床上，眼前浮现出那些高年级哥哥欺负我的情景，胸口感到一阵阵的憋闷。我开始担心，心跳也加快了，真的不想再经历那些可怕的事情。",
+        "metadata": {
+            "node_id": "node_3",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "明天去学校会再次被欺负，我很不安全。",
+            "emotion": "严重的焦虑和恐惧",
+            "behavior": "不愿意入睡，避免去学校的念头",
+            "physiological_response": "心跳加快，胸口憋闷，呼吸急促",
+            "created_at": "2024-01-15 20:30:00"
+        }
+    },
+    "node_2": {
+        "page_content": "2024年1月10日下午6点，我回到家中，眼泪汪汪地把在路上被欺负的事情告诉了父母。母亲坐在我身边，温柔地抚摸着我的头发，说她会和老师反映情况，不让我担心。父亲则握着我的手，坚定地告诉我一定要勇敢面对这些困难。虽然他们的安慰让我感到一丝温暖，但我的心里还是充满了不安和害怕，害怕明天又会遇到同样的事情。",
+        "metadata": {
+            "node_id": "node_2",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "明天还会继续被欺负，我不安全。",
+            "emotion": "恐惧和不安",
+            "behavior": "不愿意去上学，退缩，避免与人接触。",
+            "physiological_response": "心跳加快，胃部不适，手心出汗。",
+            "created_at": "2024-01-10 18:00:00"
+        }
+    },
+    "node_1": {
+        "page_content": "2024年1月10日下午4点45分，放学后我走在回家的路上，手里紧紧抱着那本画册。突然，几个高年级的哥哥拦住了我，他们一把抢走了我的画册，还大声嘲笑我胆小。他们的嘲笑让我感到脸颊发烫，心跳加快，害怕得说不出话来。我只能站在那里，感到非常无助和恐惧。",
+        "metadata": {
+            "node_id": "node_1",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们比我强大，我无法保护自己。",
+            "emotion": "害怕，无助",
+            "behavior": "站在那里，不敢反抗或求助。",
+            "physiological_response": "脸颊发烫，心跳加快，说不出话来。",
+            "created_at": "2024-01-10 16:45:00"
+        }
+    },
+    "node_0": {
+        "page_content": "2024年1月10日下午3点半，我在学校的美术教室里，画了一幅我最喜欢的动漫角色。美术课上，老师走到我身边，微笑着夸奖了我的画。同学们也纷纷围过来看，他们都说我的画画得很好。这一刻，我心里充满了自豪和被认可的感觉，仿佛所有的努力都得到了回报。",
+        "metadata": {
+            "node_id": "node_0",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "我的画得到了大家的认可，我或许真的有成为画家的潜力。",
+            "emotion": "自豪、喜悦",
+            "behavior": "微笑着向老师和同学们道谢，继续专注于画画。",
+            "physiological_response": "心跳加快，感觉脸部发热，呼吸变得轻松愉快。",
+            "created_at": "2024-01-10 15:30:00"
+        }
+    }
+}

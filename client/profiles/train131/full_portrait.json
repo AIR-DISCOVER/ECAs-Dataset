@@ -1,0 +1,215 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "认真",
+            "细心",
+            "有责任感",
+            "有些焦虑",
+            "自我要求高"
+        ],
+        "appearance": [
+            "中等身材",
+            "黑发",
+            "职业装",
+            "干练"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读财经书籍",
+                "瑜伽",
+                "烹饪"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "在工作中减少错误，恢复自信",
+            "long_term_goals": "在金融行业中取得更高的成就，成为公司的高层管理人员"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，做瑜伽，8点出门上班。工作时间从9点到18点，晚上回家和家人共进晚餐，之后会阅读一些财经书籍或处理未完成的工作。",
+            "weekends": "周末通常会和家人一起做饭，去公园散步，偶尔会参加一些金融行业的研讨会或培训课程。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，常常参加各种学科竞赛，并获得了不少奖项。",
+            "youth": "大学期间选择了金融专业，成绩依然名列前茅，毕业后顺利进入了一家知名金融公司工作。",
+            "recent_events": "最近在工作中频繁出错，导致自信心受到打击，开始怀疑自己的能力。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书，毕业后回到南京工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工厂工人，母亲是一名小学教师。父母对她的期望很高，从小就被要求努力学习。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "有几个玩伴，但由于学习压力大，社交时间有限。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父母依然对她的学业非常关注，常常督促她参加各种学科竞赛。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "与几位老师关系较好，特别是数学和物理老师，他们对她的学业给予了很多指导。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "有几个志同道合的朋友，常常一起讨论学习和未来的规划。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 6,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "在大学期间结识了一些志同道合的同学，大家一起学习和参加各种活动。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "与导师关系密切，导师对她的学术研究给予了很多帮助。"
+                    ]
+                },
+                {
+                    "relationship": "实习同事",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "在实习期间结识了一些同事，大家一起工作和交流经验。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 10,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        3,
+                        2,
+                        2,
+                        2,
+                        1,
+                        1
+                    ],
+                    "description": [
+                        "在公司里有一些关系较好的同事，大家一起工作和交流，但最近由于工作上的失误，关系有些紧张。"
+                    ]
+                },
+                {
+                    "relationship": "家人",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        5,
+                        4
+                    ],
+                    "description": [
+                        "与丈夫和孩子关系亲密，家人是她的重要支持来源。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "有几个关系较好的朋友，大家常常一起聚会和交流。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "黄娣姣在不同阶段的社交关系有明显变化。童年时期，她的社交圈主要集中在家庭和少数朋友。随着年龄的增长，特别是在中学和大学期间，她的社交圈逐渐扩大，包含了更多的老师、同学和导师。进入职场后，她的社交关系主要集中在同事和家人之间。最近由于工作上的失误，她的自信心受到打击，社交关系也受到了一定影响，但她依然保持着与家人和朋友的紧密联系。"
+    }
+}

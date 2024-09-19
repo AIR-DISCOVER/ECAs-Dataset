@@ -1,0 +1,96 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不值得被爱。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我是没有价值的。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我必须依靠自己。"
+        },
+        {
+            "belief_id": "core_belief_5",
+            "stage_key": "recent_events",
+            "belief": "我可以通过努力获得认可。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我被拒绝，就说明我不值得被爱。",
+                "others": "他人不会真正关心我，他们只会离开我。",
+                "world": "这个世界上没有人会无条件地爱我。"
+            },
+            "rules": "我应该避免亲密关系，以免再次被伤害。",
+            "positive_assumption": "如果我不靠近别人，我就不会感到被拒绝的痛苦。",
+            "negative_assumption": "如果我尝试建立亲密关系，我会再次被拒绝和伤害。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法为团队带来价值。",
+                "others": "同事们认为我没有能力。",
+                "world": "在这个竞争激烈的世界里，我没有立足之地。"
+            },
+            "rules": "我应该尽量避免承担重要任务，以免暴露我的无能。",
+            "positive_assumption": "如果我不承担重要任务，我就不会犯错。",
+            "negative_assumption": "如果我承担重要任务，我会失败，并让大家失望。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的不足让别人对我失望。",
+                "others": "他人会挑剔我的缺点。",
+                "world": "世界对我充满了苛刻的标准。"
+            },
+            "rules": "我应该努力避免犯错，尽量完美地完成每件事。",
+            "positive_assumption": "如果我做到完美，别人就会认可我。",
+            "negative_assumption": "如果我犯错，别人会看不起我。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我依靠自己才能解决问题。",
+                "others": "他人无法理解我的困境。",
+                "world": "世界对我来说是一个充满挑战的地方。"
+            },
+            "rules": "我应该尽量独立，不依赖他人。",
+            "positive_assumption": "如果我依靠自己，我就能变得更强大。",
+            "negative_assumption": "如果我依赖他人，我会显得软弱和无能。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我通过努力可以取得成就。",
+                "others": "他人会认可我的努力和成果。",
+                "world": "世界对努力的人是公平的。"
+            },
+            "rules": "我应该不断努力，追求卓越。",
+            "positive_assumption": "如果我努力工作，我就能获得成功和认可。",
+            "negative_assumption": "如果我不努力工作，我就会失败并被忽视。"
+        }
+    ]
+}

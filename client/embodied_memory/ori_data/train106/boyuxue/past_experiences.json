@@ -1,0 +1,613 @@
+{
+    "childhood": {
+        "name": "卜毓雪",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我大约5岁时，妈妈因为工作忙碌常常不能陪伴我。我记得有一天，她答应带我去公园，但最后因为医院有急诊病人，她不得不临时取消。我独自坐在家里，感到非常失落和孤独。当时，我想，如果我能成为妈妈的得力助手，她就不会那么忙了。",
+                "location": "家里",
+                "happen_time": "1979年5月",
+                "participants": "卜毓雪，母亲",
+                "impact": "这一事件强化了我为家庭付出一切的信念，并感到自己的生活缺乏意义。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "8岁那年，我参加了学校的绘画比赛，获得了第一名。回到家，我兴奋地告诉父母，但他们因为工作疲惫，只是简单地说了句‘真棒！’然后继续忙碌。我感到一种莫名的失落，觉得自己的努力没有得到应有的关注。",
+                "location": "家里",
+                "happen_time": "1982年10月",
+                "participants": "卜毓雪，父母",
+                "impact": "这一经历让我更加坚定了为家庭付出的信念，同时也感到自己的生活缺乏刺激和新意。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "10岁时，父亲在工厂受了伤，需要在家休养。我和妈妈一起担负起了照顾他的责任，每天放学回家都要帮忙做家务和照顾父亲。虽然累，但我感到这是我的责任。",
+                "location": "家里",
+                "happen_time": "1984年3月",
+                "participants": "卜毓雪，父亲，母亲",
+                "impact": "这一事件加深了我对家庭责任感的认知，强化了我必须为家庭付出一切的信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "有一次，我在邻居家玩耍，看到他们一家人其乐融融地一起吃晚饭。我不禁感叹，他们的生活似乎比我们家更温馨和谐。我回到家后，默默决定要努力让家庭生活变得更好。",
+                "location": "邻居家",
+                "happen_time": "1983年8月",
+                "participants": "卜毓雪，邻居家人",
+                "impact": "这一经历让我意识到，家庭生活不仅仅是责任，还需要更多的温馨和和谐，促使我寻找生活与家庭的平衡。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "小学五年级的时候，我参加了学校的合唱团，每周需要去排练。但因为家务繁重，我不得不放弃了这个机会，感到非常遗憾。",
+                "location": "学校",
+                "happen_time": "1985年5月",
+                "participants": "卜毓雪，老师，同学",
+                "impact": "这一事件让我更加坚定了为家庭付出一切的信念，同时也感到生活缺乏刺激和新意。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一天，我听到父母在厨房里低声争吵，母亲责怪父亲工作太忙，忽略了家庭。我躲在门后，感到一种无力和悲伤，觉得自己应该做些什么来缓解这种紧张气氛。",
+                "location": "家里",
+                "happen_time": "1981年12月",
+                "participants": "卜毓雪，父母",
+                "impact": "这一事件让我更加坚定了为家庭付出的信念，同时也感到生活中充满了责任和压力。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "我看到邻居家的小伙伴和他们的父母一起玩耍，脸上洋溢着幸福的笑容。我感到一种羡慕，觉得这种家庭生活才是我所向往的。",
+                "location": "邻居家",
+                "happen_time": "1982年7月",
+                "participants": "卜毓雪，邻居家人",
+                "impact": "这一观察让我更加意识到家庭和谐的重要性，促使我寻找生活与家庭的平衡。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "有一次，我在书店里看到一本关于园艺的书，觉得非常有趣。于是我用自己的零花钱买下了它，开始尝试在家里种植一些小植物。这让我感到一种前所未有的满足感。",
+                "location": "书店",
+                "happen_time": "1985年6月",
+                "participants": "卜毓雪",
+                "impact": "这一事件让我意识到，找到新的兴趣爱好可以为生活带来更多的意义和乐趣。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我们一家去公园散步，我看到一个父亲和他的孩子在湖边钓鱼，他们看起来非常快乐。我感到一种羡慕，觉得这样的家庭活动可以增进家人之间的感情。",
+                "location": "公园",
+                "happen_time": "1984年9月",
+                "participants": "卜毓雪，父母，陌生父子",
+                "impact": "这一观察让我更加重视家庭活动的重要性，促使我努力为家庭营造和谐的氛围。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "一次在学校的作文比赛中，我写了一篇关于家庭责任的文章，获得了老师的高度评价。但当我回到家里分享这一喜讯时，父母因为忙碌并没有表现出太多的兴趣，让我感到失落。",
+                "location": "学校，家里",
+                "happen_time": "1985年11月",
+                "participants": "卜毓雪，老师，父母",
+                "impact": "这一事件让我更加感受到生活的单调和缺乏新意，同时也强化了我为家庭付出的信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "有一次，母亲因为工作太累，在家里突然晕倒。我当时非常害怕，但迅速拨打了急救电话，并照顾好弟弟妹妹。这一经历让我感到自己在家庭中的重要性。",
+                "location": "家里",
+                "happen_time": "1983年3月",
+                "participants": "卜毓雪，母亲，弟弟，妹妹",
+                "impact": "这一事件强化了我对家庭责任的认知，使我更加坚定地相信自己必须为家庭付出一切。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父母在客厅里讨论家庭开支的问题，母亲显得非常疲惫。我悄悄地听着，心里想着将来要为家庭分担更多的责任。",
+                "location": "家里",
+                "happen_time": "1983年11月",
+                "participants": "卜毓雪，父母",
+                "impact": "这一观察让我更加意识到家庭责任的重要性，促使我更加努力地为家庭付出。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "有一次，我和表姐一起在田野里玩耍，她告诉我她想成为一名医生，帮助更多的人。我感到非常敬佩，觉得她的生活目标非常有意义。",
+                "location": "田野",
+                "happen_time": "1984年7月",
+                "participants": "卜毓雪，表姐",
+                "impact": "这一事件让我开始思考自己的生活目标，并促使我寻找生活与家庭之间的平衡。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的小伙伴在院子里种花，他们看起来非常开心。我感到一种羡慕，觉得这种简单的快乐是我所缺少的。",
+                "location": "邻居家院子",
+                "happen_time": "1985年4月",
+                "participants": "卜毓雪，邻居小伙伴",
+                "impact": "这一观察促使我开始尝试园艺，寻找新的兴趣爱好来丰富自己的生活。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "在我12岁生日那天，父母因为工作繁忙，没能为我庆祝生日。我感到非常失落，但也理解他们的辛苦，决定以后自己主动为家庭付出更多。",
+                "location": "家里",
+                "happen_time": "1986年6月",
+                "participants": "卜毓雪，父母",
+                "impact": "这一事件强化了我为家庭付出一切的信念，同时也促使我寻找生活的意义和乐趣。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "卜毓雪",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我在初中三年级的时候，父亲因为工作繁忙，常常很晚才回家。有一天晚上，我独自一人在家复习功课，母亲在厨房做饭。突然，母亲切到了手指，我赶忙放下书本，帮她处理伤口。母亲看着我，笑着说：'你真是妈妈的好帮手。'那一刻我感到一种前所未有的满足感。",
+                "location": "家中",
+                "happen_time": "1988年5月",
+                "participants": "母亲",
+                "impact": "这次事件让我感受到为家庭付出的价值，强化了‘我必须为家庭付出一切’的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "高一时，我的成绩一直很优异，但有一次期中考试我没考好，心情非常低落。班主任在课后找到我，鼓励我说：‘毓雪，你一直表现得很优秀，不要因为一次失误否定自己。’",
+                "location": "学校教室",
+                "happen_time": "1989年11月",
+                "participants": "班主任",
+                "impact": "这次对话让我意识到生活不应只有学习和考试，推动了我寻找生活的其他目标。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一天，放学回家途中，我看到邻居家的女孩和她的母亲在花园里一起种花，她们有说有笑，显得非常幸福。我站在路边，默默地看了很久，心里感到一种向往。",
+                "location": "邻居的花园",
+                "happen_time": "1990年4月",
+                "participants": "邻居家的女孩和她的母亲",
+                "impact": "这个场景强化了我对平衡生活的渴望，促使我思考如何在家庭和个人生活中找到平衡。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "高二的时候，我的好朋友因为家庭变故需要转学离开。我陪她去车站送行，我们在车站依依不舍地告别，她对我说：‘毓雪，不管我们身处何地，友谊永远不会改变。’",
+                "location": "车站",
+                "happen_time": "1990年9月",
+                "participants": "好朋友",
+                "impact": "这次告别让我感受到人际关系的重要性，但也让我意识到生活的无常，进一步加深了‘我的生活缺乏意义’的核心信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家中听到父亲和母亲在客厅里讨论家里的经济状况。父亲说：‘我们必须省吃俭用，才能供毓雪上学。’母亲则表示支持并安慰父亲。",
+                "location": "家中客厅",
+                "happen_time": "1991年3月",
+                "participants": "父亲和母亲",
+                "impact": "这次对话让我感受到家庭的经济压力，更加坚定了我‘需要找到平衡才能感到满足’的信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高三毕业前夕，我在学校参加了一次演讲比赛并获得了第一名。回到家中，父母满脸骄傲地看着我，父亲说：‘毓雪，你真是我们家的骄傲！’",
+                "location": "家中",
+                "happen_time": "1992年6月",
+                "participants": "父亲和母亲",
+                "impact": "这次成功让我感受到成就感，但也加深了我对未来的迷茫，因为我知道家庭经济不允许我继续上大学。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，父亲提到邻居家的女儿已经考上了大学，我心中感到一阵失落。这时，母亲拍拍我的肩膀说：‘毓雪，你已经做得很好了，我们都为你感到骄傲。’",
+                "location": "家中",
+                "happen_time": "1992年8月",
+                "participants": "父亲和母亲",
+                "impact": "虽然母亲的安慰让我感到温暖，但我依然深深感受到生活的无奈和对未来的迷茫。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次在学校，我看到一个同学因为考试成绩不好，被父母责骂。同学低着头，眼泪在眼眶里打转。",
+                "location": "学校",
+                "happen_time": "1989年12月",
+                "participants": "同学和他的父母",
+                "impact": "这个场景让我更加意识到学习成绩的重要性，同时也让我感到压力和焦虑。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "父亲因为工作原因被调到外地，需要离开一段时间。我和母亲在车站送别父亲的时候，我看到母亲眼中闪烁的泪光，心中感到一种强烈的责任感。",
+                "location": "车站",
+                "happen_time": "1991年10月",
+                "participants": "父亲和母亲",
+                "impact": "这次送别让我更加坚定了‘我必须为家庭付出一切’的信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我和同学在操场上聊天，听到她谈起她的父母对她的期待和压力。她说：‘有时候我真的觉得自己快要撑不下去了。’",
+                "location": "学校操场",
+                "happen_time": "1990年5月",
+                "participants": "同学",
+                "impact": "这段对话让我意识到，我并不是唯一一个感到压力的人，促使我思考如何更好地应对压力。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在一次放学回家的路上，我遇到了一个小学同学，她告诉我她已经辍学在家帮忙打理家务。当时我感到非常震惊和难过。",
+                "location": "回家路上",
+                "happen_time": "1990年11月",
+                "participants": "小学同学",
+                "impact": "这次遭遇让我更加珍惜自己的学习机会，同时也让我意识到家庭责任的重要性。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一天，我在家中看到母亲和父亲在讨论家庭的经济问题，母亲表情凝重，父亲也显得非常无奈。",
+                "location": "家中",
+                "happen_time": "1991年7月",
+                "participants": "父亲和母亲",
+                "impact": "这次讨论让我更加深刻地认识到家庭经济状况对我们生活的影响，增强了我为家庭付出的决心。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "有一次，我的好朋友因为考试没考好，心情非常低落。我陪她在公园里散步，安慰她说：‘成绩不是唯一的衡量标准，我们要找到自己的生活目标。’",
+                "location": "公园",
+                "happen_time": "1991年12月",
+                "participants": "好朋友",
+                "impact": "这次安慰朋友的经历让我更加坚定了寻找生活平衡的重要性。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会上，我看到一个表哥因为工作压力大，情绪失控，对家人大声吼叫。家人都显得很无奈和不知所措。",
+                "location": "家庭聚会",
+                "happen_time": "1992年2月",
+                "participants": "表哥和家人",
+                "impact": "这次事件让我意识到压力对人的影响，促使我更加重视心理健康和情绪管理。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "高中毕业后，我因为家庭经济原因没有继续上大学，而是开始在家中帮忙做家务和照顾弟弟妹妹。母亲对我说：‘毓雪，你真的长大了，妈妈为你感到骄傲。’",
+                "location": "家中",
+                "happen_time": "1992年7月",
+                "participants": "母亲",
+                "impact": "这次经历让我感受到为家庭付出的成就感，但也加深了我对生活意义的思考。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "卜毓雪",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "1993年，我在工厂工作时结识了几个好朋友，我们常常一起下班后去吃饭聊天。一天，我们在一家小餐馆里讨论未来的计划，我发现他们都在积极追求自己的兴趣和梦想，而我却感到迷茫，不知道自己的兴趣所在。",
+                "location": "工厂附近的小餐馆",
+                "happen_time": "1993年5月",
+                "participants": "工厂的同事和朋友",
+                "impact": "这次谈话让我意识到生活需要充实和意义，激发了我寻找自己兴趣的动力。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "结婚后，我和丈夫搬到了一个安静的社区。搬家那天，我感到既兴奋又紧张，因为这是我第一次离开熟悉的小城市，来到一个新的环境。",
+                "location": "新搬入的社区",
+                "happen_time": "1995年8月",
+                "participants": "丈夫",
+                "impact": "新的环境让我感到新鲜，但也担心如何适应和结交新朋友，强化了我对家庭的依赖和责任感。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "1997年，我生下了第一个孩子。在医院里，我第一次抱着他，感到一种前所未有的责任感和幸福感。",
+                "location": "医院产房",
+                "happen_time": "1997年2月",
+                "participants": "丈夫、医生、护士",
+                "impact": "初为人母的喜悦和责任感让我更加坚定了为家庭付出一切的信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "一次，我在社区活动中看到一个邻居家庭因为父母争执而陷入混乱，孩子们吓得哭泣。我当时在一旁看着，心里默默下定决心要努力维持家庭的和睦。",
+                "location": "社区活动中心",
+                "happen_time": "1998年10月",
+                "participants": "邻居家庭成员",
+                "impact": "这次观察让我更加重视家庭的和谐，强化了我对家庭幸福的责任感。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "2000年，我在家里照顾孩子时，感到非常疲惫和压力。当时孩子生病了，整夜哭闹，我几乎没睡。",
+                "location": "家中",
+                "happen_time": "2000年3月",
+                "participants": "孩子",
+                "impact": "这次经历让我意识到找到生活的平衡很重要，否则我会感到压力和不满。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "2002年，丈夫的一次工作调动让我需要独自承担更多的家庭责任。当他告诉我这个消息时，我感到一阵无助和压力。",
+                "location": "家中客厅",
+                "happen_time": "2002年6月",
+                "participants": "丈夫",
+                "impact": "这次事件让我更加坚定了照顾家庭的责任感，同时也觉得需要找到更好的平衡点。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "一次，社区活动中，我看到一个朋友在做义工，帮助社区中的老人。她脸上洋溢着满足和喜悦。",
+                "location": "社区活动中心",
+                "happen_time": "2003年9月",
+                "participants": "朋友",
+                "impact": "这次观察让我意识到参与社区活动可以带来充实感，激发了我尝试新的兴趣。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "2004年，我报名参加了一次烹饪课程，希望通过学习新技能来充实自己。当我完成第一次料理时，感到非常自豪和满足。",
+                "location": "社区烹饪课堂",
+                "happen_time": "2004年4月",
+                "participants": "烹饪老师和同学",
+                "impact": "这次课程让我体验到了学习新知识带来的快乐，增强了我的自信心。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "2005年，孩子上学后，我有了更多的空闲时间。我开始阅读一些心理学和自我提升的书籍，希望通过学习来提升自己。",
+                "location": "家中书房",
+                "happen_time": "2005年9月",
+                "participants": "无",
+                "impact": "阅读这些书籍让我更加重视自我提升，认为不断学习是获取更好生活的关键。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "2006年，我父母的健康状况开始恶化，我需要频繁回老家照顾他们。当我看到他们衰老和病痛时，心中充满了悲伤和无力感。",
+                "location": "老家",
+                "happen_time": "2006年7月",
+                "participants": "父母",
+                "impact": "这次经历让我更加体会到家庭的重要性和责任感，同时也感到生活的压力。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "一次，我在社区活动中看到一个朋友成功举办了一个园艺展览，吸引了许多人的关注和赞赏。",
+                "location": "社区活动中心",
+                "happen_time": "2007年5月",
+                "participants": "朋友和社区居民",
+                "impact": "这次观察让我意识到找到自己的兴趣并分享给他人可以带来巨大的满足感，激励我探索园艺作为新的兴趣。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "2008年，我在社区活动中结识了一位邻居，她教我如何种植花卉和蔬菜。我们经常在一起交流园艺心得，彼此成为了好朋友。",
+                "location": "社区花园",
+                "happen_time": "2008年4月",
+                "participants": "邻居",
+                "impact": "这次经历让我发现了园艺的乐趣，增加了我的社交圈子，同时也感到生活更加充实。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "2009年，我在一次家庭聚会上感受到孩子们的成长和独立。当他们主动为家里做一些事情时，我内心充满了欣慰和自豪。",
+                "location": "家中",
+                "happen_time": "2009年12月",
+                "participants": "家人",
+                "impact": "这次经历让我感受到自己付出的价值，增强了我对家庭幸福的信心和满足感。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "卜毓雪",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "孩子的成绩下滑，她在辅导孩子做作业时感到无力和沮丧，孩子也表现出不耐烦。",
+                "location": "家中的客厅",
+                "happen_time": "2024年1月",
+                "participants": "卜毓雪, 小女儿",
+                "impact": "她感到自己的努力没有得到回报，进一步加重了她对生活的无趣感。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "丈夫加班回家很晚，她独自在家感到孤独和无助。",
+                "location": "家中的客厅",
+                "happen_time": "2024年2月",
+                "participants": "卜毓雪, 丈夫",
+                "impact": "她感到生活中的孤独感越来越强烈，加剧了她对生活缺乏意义的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "她参加了一次社区活动，但发现自己与其他人没有共同话题，感到被冷落。",
+                "location": "社区活动中心",
+                "happen_time": "2024年3月",
+                "participants": "卜毓雪, 社区邻居",
+                "impact": "她感到自己无法融入社区，进一步强化了她对生活单调乏味的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "她的朋友邀请她去参加一个育儿经验交流会，但她感到无兴趣。",
+                "location": "朋友的家",
+                "happen_time": "2024年4月",
+                "participants": "卜毓雪, 孩子学校的家长",
+                "impact": "她感到自己对曾经感兴趣的事情也失去了兴趣，进一步加重了她的负面情绪。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "她尝试学习一门新的烹饪技巧，但感觉非常困难，结果也不如预期。",
+                "location": "家中的厨房",
+                "happen_time": "2024年5月",
+                "participants": "卜毓雪",
+                "impact": "她感到自己无法胜任新任务，增强了她对生活乏味和无意义的感受。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "她和丈夫讨论家庭财务问题，感到压力巨大。",
+                "location": "家中的客厅",
+                "happen_time": "2024年6月",
+                "participants": "卜毓雪, 丈夫",
+                "impact": "她感到家庭的重担压在自己身上，加剧了她必须为家庭付出一切的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "她发现丈夫最近工作非常忙，很少有时间陪家人。",
+                "location": "家中",
+                "happen_time": "2024年7月",
+                "participants": "卜毓雪, 丈夫",
+                "impact": "她感到家庭生活更加单调乏味，进一步加重了她的孤独感。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "她的孩子在学校遇到问题，她感到非常无助和焦虑。",
+                "location": "家中",
+                "happen_time": "2024年8月",
+                "participants": "卜毓雪, 小女儿",
+                "impact": "她感到作为母亲的责任感更加沉重，进一步加剧了她的心理负担。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "她看到邻居家新装修的房子，感到自己的家很旧。",
+                "location": "邻居家",
+                "happen_time": "2024年2月",
+                "participants": "卜毓雪, 邻居",
+                "impact": "她感到自己的生活缺乏新意和变化，加重了对生活单调的感受。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "她听到朋友的孩子获得了奖学金，感到自己的孩子成绩不理想。",
+                "location": "朋友家",
+                "happen_time": "2024年5月",
+                "participants": "卜毓雪, 孩子学校的家长",
+                "impact": "她感到对比之下自己的努力没有成效，增强了对生活无趣的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "社区活动中看到其他家庭其乐融融，感到自己的家庭生活单调。",
+                "location": "社区活动中心",
+                "happen_time": "2024年3月",
+                "participants": "卜毓雪, 社区成员",
+                "impact": "她感到与其他家庭的对比，加重了对自己生活的失望感。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "她看到丈夫和同事在公司聚会的照片，感到自己被忽略。",
+                "location": "家中",
+                "happen_time": "2024年4月",
+                "participants": "卜毓雪, 丈夫, 丈夫的同事",
+                "impact": "她感到丈夫的生活比自己有趣，增强了对生活乏味的感受。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "她试图重新开始园艺活动，但发现植物生长不如预期。",
+                "location": "家庭花园",
+                "happen_time": "2024年6月",
+                "participants": "卜毓雪",
+                "impact": "她感到自己的努力没有回报，进一步加剧了生活无趣的感受。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "她和家人一起做饭，但发现孩子们对家庭活动不感兴趣。",
+                "location": "家中的厨房",
+                "happen_time": "2024年7月",
+                "participants": "卜毓雪, 大儿子, 小女儿",
+                "impact": "她感到家庭活动失去了吸引力，进一步加剧了生活单调的感受。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "她尝试阅读新的书籍，但发现自己无法集中注意力。",
+                "location": "家中的书房",
+                "happen_time": "2024年8月",
+                "participants": "卜毓雪",
+                "impact": "她感到自己的兴趣爱好失去了吸引力，进一步加剧了对生活无趣的感受。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "她参加了一次音乐会，但发现自己无法享受音乐。",
+                "location": "音乐厅",
+                "happen_time": "2024年5月",
+                "participants": "卜毓雪, 社区邻居",
+                "impact": "她感到自己对曾经喜欢的事物失去了兴趣，加重了生活无趣的感受。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "她和丈夫讨论未来的计划，但发现两人意见不合。",
+                "location": "家中的客厅",
+                "happen_time": "2024年6月",
+                "participants": "卜毓雪, 丈夫",
+                "impact": "她感到对未来的迷茫，进一步加重了对生活无意义的感受。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "她听到朋友谈论新的职业发展机会，感到自己失去了职业生涯。",
+                "location": "朋友家",
+                "happen_time": "2024年7月",
+                "participants": "卜毓雪, 孩子学校的家长",
+                "impact": "她感到对比之下自己的生活更加单调乏味，增强了对生活无趣的核心信念。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "她在社区活动中看到其他家庭一起旅行的照片，感到自己的生活缺乏变化。",
+                "location": "社区活动中心",
+                "happen_time": "2024年8月",
+                "participants": "卜毓雪, 社区成员",
+                "impact": "她感到对比之下自己的生活更加单调乏味，增强了对生活无趣的核心信念。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "她在电视上看到其他女性找到平衡生活的节目，感到自己无法实现。",
+                "location": "家中的客厅",
+                "happen_time": "2024年8月",
+                "participants": "卜毓雪",
+                "impact": "她感到对比之下自己的生活更加单调乏味，增强了对生活无趣的核心信念。"
+            }
+        ]
+    }
+}

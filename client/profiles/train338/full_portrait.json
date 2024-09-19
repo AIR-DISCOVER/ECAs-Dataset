@@ -1,0 +1,147 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "责任感强"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "皮肤白皙",
+            "黑色长发",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "绘画"
+            ],
+            "activity": [
+                "周末去公园散步",
+                "和朋友一起看电影"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "改善睡眠质量，减轻工作压力",
+            "long_term_goals": "找到一份更有意义的工作，提升自我价值感"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单洗漱后去上班。工作时间从9点到下午6点，晚上回家后通常会感到非常疲惫，偶尔会看书或听音乐放松。",
+            "weekends": "周末通常会睡到自然醒，偶尔会和朋友出去看电影或散步，但更多时候喜欢一个人在家休息。"
+        },
+        "past_experiences": {
+            "childhood": "小时候家庭环境较为普通，父母工作忙碌，自己常常感到孤独。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，不太擅长与同学交往，常常感到自卑。",
+            "recent_events": "最近工作压力较大，感到非常疲惫，开始出现睡眠问题和食欲不振的情况。"
+        },
+        "environment": "出生在一个小城市，家庭经济状况一般。大学毕业后到大城市工作，生活节奏快，压力大。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "贺莉珍的父母工作非常忙碌，虽然他们尽力提供物质上的支持，但在情感上却显得有些疏远。贺莉珍常常感到孤独，缺乏父母的陪伴和关爱。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "贺莉珍在小学时有一个非常要好的朋友，这个朋友是她唯一可以倾诉心事的人。尽管两人后来因为升学分开，但这段友谊对贺莉珍的童年有着重要的意义。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "贺莉珍在中学时期成绩优异，但因为性格内向，不太擅长与同学交往。她常常感到自卑，觉得自己与同学格格不入。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "贺莉珍的几位老师对她的学业表现非常关注，给予了她很多鼓励和支持。尽管如此，她依然觉得自己在社交方面有所欠缺。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 10,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "贺莉珍在工作中与同事的关系较为平淡，虽然大家相处和谐，但她并没有特别亲密的朋友。工作压力大，她常常感到疲惫和孤独。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "贺莉珍有两个比较亲密的朋友，偶尔会一起看电影或散步。这些朋友是她在大城市中为数不多的情感支柱。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "贺莉珍的社交能力和意愿在不同阶段有明显变化。童年时期，她因为父母的忙碌而感到孤独，依赖于少数几位朋友。进入中学后，尽管成绩优异，但内向的性格让她难以融入同学圈子。成年后，工作压力和生活节奏的加快使她的社交圈进一步缩小，尽管有几位亲密朋友，但她依然感到孤独和疲惫。"
+    }
+}

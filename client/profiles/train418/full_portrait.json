@@ -1,0 +1,144 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "善良",
+            "细腻"
+        ],
+        "appearance": [
+            "瘦弱",
+            "中等身高",
+            "皮肤白皙",
+            "长发",
+            "眼神忧郁"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐"
+            ],
+            "activity": [
+                "独自一人听音乐",
+                "在房间里画画"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能够恢复对生活的兴趣，重新找到学习的动力。",
+            "long_term_goals": "希望能够考上理想的大学，找到自己的人生方向和价值。"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后，勉强自己去上学，但在课堂上很难集中注意力。放学后回家，常常感到疲倦，躺在床上发呆或听音乐。",
+            "weekends": "周末大部分时间都待在家里，偶尔会尝试画画或阅读，但很难提起兴趣。"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格活泼开朗，但随着学业压力的增加和人际关系的复杂化，逐渐变得内向和敏感。",
+            "recent_events": "最近半年由于学业压力和人际关系问题，情绪逐渐低落，开始出现抑郁症状。"
+        },
+        "environment": "出生在一个普通的城市家庭，父母对她的期望很高，但由于学业压力和人际关系问题，逐渐感到孤独和无助。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "奚舒梦的父亲是一名工程师，工作繁忙，但在她小时候总是尽量抽出时间陪伴她。父亲性格温和，常常带她去公园玩耍，教她骑自行车。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "奚舒梦的母亲是一名小学教师，对她的学习和生活非常关心。母亲性格开朗，喜欢和她一起做手工和烘焙。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "奚舒梦在小学时有几个要好的朋友，她们常常一起玩耍、做作业。虽然关系不错，但随着时间推移，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "随着学业压力的增加，奚舒梦和父亲的交流变少了。父亲依然关心她，但她常常觉得自己无法达到父亲的期望。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是她生活中的重要支持者，但由于奚舒梦的情绪低落，母亲也感到无力和担忧。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        1,
+                        1,
+                        1
+                    ],
+                    "description": [
+                        "奚舒梦在学校的同学关系变得疏远，尤其是因为她的情绪问题和学习状态不佳，导致她觉得自己是小组任务中的拖累。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "她的班主任和心理老师都注意到了她的变化，班主任试图帮助她提高学习成绩，而心理老师则试图帮助她缓解情绪问题。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "奚舒梦的社交能力和意愿在不同阶段发生了显著变化。小时候，她性格活泼开朗，社交圈子较广，和父母、朋友的关系都很亲密。然而，随着学业压力的增加和人际关系的复杂化，她逐渐变得内向和敏感。最近半年，由于情绪低落和抑郁症状的出现，她的社交意愿进一步下降，和同学、朋友的关系变得疏远，甚至感到孤独和无助。她的父母和老师虽然关心她，但她觉得自己无法达到他们的期望，导致自信心进一步下降。"
+    }
+}

@@ -1,0 +1,450 @@
+{
+    "childhood": {
+        "name": "潘瑞霭",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在小学三年级的一次数学考试中，我努力复习了很久，但最终只得了75分。父母知道成绩后，脸上露出了失望的表情，母亲对我说：'你怎么能这么不小心？你必须更努力，不能让我们失望。'",
+                "location": "家中客厅",
+                "happen_time": "2013年5月",
+                "participants": "父母",
+                "impact": "这次事件强化了我对自己不够好的核心信念，并且让我觉得我无法满足别人的期望，增加了学业上的压力。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学四年级的时候，我画了一幅自认为很漂亮的画在美术课上展示给同学们看。一个同学笑着对我说：'这是什么乱七八糟的东西啊？' 其他同学也跟着笑了。",
+                "location": "小学教室",
+                "happen_time": "2014年9月",
+                "participants": "同学",
+                "impact": "这次事件让我更加缺乏自信，并且开始认为他人会批评我的不足，世界对错误和失败是无情的。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次在家里，我听见父母在讨论我的成绩。妈妈对爸爸说：'瑞霭的成绩总是不上不下，我真担心她将来怎么办。' 爸爸叹了口气，说：'她还需要更加努力。'",
+                "location": "家中厨房",
+                "happen_time": "2014年12月",
+                "participants": "父母",
+                "impact": "这次对话让我感受到父母对我的期望和失望，进一步加深了我对自己无法满足别人期望的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我在一次演讲比赛中表现出色，赢得了全班第一名。老师当众表扬了我，同学们也鼓掌祝贺。",
+                "location": "小学礼堂",
+                "happen_time": "2016年3月",
+                "participants": "老师、同学",
+                "impact": "这次成功增强了我的自信心，让我意识到自己有能力，但仍需要更多自信。这次经历对我的核心信念产生了积极影响。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "六岁生日的时候，父母为我举办了一个小型生日派对，邀请了几个朋友来家里玩。虽然很开心，但我感觉到父母在派对结束后对我说：'你要更用功学习，不能光顾着玩。' 这让我感到压力。",
+                "location": "家中客厅",
+                "happen_time": "2011年6月",
+                "participants": "父母、朋友",
+                "impact": "这次经历让我觉得即使在快乐的时刻，也要时刻记得父母对我的期望和学习压力。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在图书馆看到一位同学因为成绩不佳而被父母责备。同学哭着说她已经尽力了，但父母依然不满意。",
+                "location": "小学图书馆",
+                "happen_time": "2015年5月",
+                "participants": "同学及其父母",
+                "impact": "这次观察让我更加确信，如果我无法满足别人的期望，我会让他们失望。这进一步巩固了我的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在小学五年级的一次家长会上，老师当着所有家长的面表扬了我的英语成绩。母亲在回家的路上说：'你看，只要你努力，你就能做到。'",
+                "location": "小学教室",
+                "happen_time": "2015年10月",
+                "participants": "老师、母亲",
+                "impact": "这次经历让我感受到努力被认可的正面影响，强化了我在学业上取得优异成绩的动力。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在小学六年级的一次期中考试中，我的成绩不理想。回家后，父亲严厉地说：'你这样下去怎么能考上好的初中？' 这让我感到很大的压力和失望。",
+                "location": "家中客厅",
+                "happen_time": "2016年11月",
+                "participants": "父亲",
+                "impact": "这次经历加剧了我对自己不够好的核心信念，并让我更加担心无法满足父母的期望。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里看到父母在讨论家里的经济状况。母亲对父亲说：'我们要为瑞霭的未来考虑，多存点钱。' 父亲点头表示同意。",
+                "location": "家中厨房",
+                "happen_time": "2014年8月",
+                "participants": "父母",
+                "impact": "这次对话让我感受到父母为我未来的担忧和期望，进一步加深了我对自己责任感的认识。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在小学五年级的一次运动会上，我参加了100米赛跑，但没有取得好的名次。母亲在比赛后说：'你怎么不多练习？这样下去怎么行？' 让我感到很失望。",
+                "location": "小学操场",
+                "happen_time": "2015年6月",
+                "participants": "母亲",
+                "impact": "这次经历让我觉得无论在什么方面，我都需要更努力才能不辜负父母的期望。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家中看到父母在讨论我的未来规划。父亲说：'我们要确保瑞霭能上好学校，不能让她像我们一样。' 母亲表示同意。",
+                "location": "家中客厅",
+                "happen_time": "2016年1月",
+                "participants": "父母",
+                "impact": "这次对话让我意识到父母对我未来的期望很高，加深了我对学业的重视和压力感。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在小学二年级的一次语文考试中，我得了满分，老师在课堂上表扬了我，母亲在回家后说：'你真棒，要继续努力。' 让我感到很开心。",
+                "location": "小学教室",
+                "happen_time": "2012年12月",
+                "participants": "老师、母亲",
+                "impact": "这次成功让我感受到被认可的快乐，增强了我的自信心，但也让我觉得我的价值取决于我的表现。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在小学四年级的一次语文测验中，我取得了全班第一名。母亲在知道成绩后，给我买了我一直想要的绘画工具作为奖励。",
+                "location": "家中客厅",
+                "happen_time": "2014年11月",
+                "participants": "母亲",
+                "impact": "这次经历让我觉得只要我表现好，我就会被认可和奖励，进一步强化了我的核心信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校看到一个同学因为成绩不好被老师批评。老师说：'你这样怎么能考上好的学校？'",
+                "location": "小学教室",
+                "happen_time": "2015年3月",
+                "participants": "老师、同学",
+                "impact": "这次观察让我更加确信成绩对自己和他人的重要性，觉得必须在学业上取得优异成绩才能被认可。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "在小学三年级的期末考试前，我因为压力大而感到头痛。母亲给我倒了一杯热茶，对我说：'没关系，尽力就好。' 让我感到一丝宽慰。",
+                "location": "家中厨房",
+                "happen_time": "2013年12月",
+                "participants": "母亲",
+                "impact": "这次经历让我感受到母亲的关心和理解，减轻了一些压力，但同时也让我觉得必须尽力达到期望。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "潘瑞霭",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中入学考试成绩公布时，我发现自己是年级第二名。当时心里既兴奋又紧张，害怕父母不满意。回到家后，父母虽然表扬了我，但还是提醒我下次要争取第一名。",
+                "location": "家里",
+                "happen_time": "2018年6月",
+                "participants": "父母",
+                "impact": "这次经历强化了我的核心信念‘我不够好’，以及中间信念‘我必须在学业上取得优异成绩’。虽然获得了成绩，但也感受到了巨大的压力。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "一次数学考试失误，只考了80分。老师在课堂上批评了我，让我感到非常羞愧，回家后也不敢告诉父母，担心他们失望。",
+                "location": "学校",
+                "happen_time": "2019年4月",
+                "participants": "数学老师，同学",
+                "impact": "这次失败让我更坚定了‘我的价值取决于我的表现’的中间信念，增加了对失败和错误的恐惧。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次在图书馆自习时，看到一位同学因为成绩不佳被父母责骂，那位同学哭了。我感受到深深的共鸣，同时也对自己的父母产生了恐惧。",
+                "location": "图书馆",
+                "happen_time": "2020年9月",
+                "participants": "同学，其父母",
+                "impact": "这次观察让我更进一步相信‘他人只会看重我的成绩’，并强化了‘世界是一个竞争激烈的地方’的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "参加学校的绘画比赛，尽管我认为自己画得很好，但只获得了三等奖。回家后，父母显得有些失望，虽然他们没有明说。",
+                "location": "家里",
+                "happen_time": "2021年5月",
+                "participants": "父母",
+                "impact": "这次经历强化了‘我永远达不到别人的期望’和‘他人总是对我失望’的中间信念，进一步削弱了我的自尊心。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "在校车上，听到几位同学讨论他们的梦想和未来职业。我虽然也有梦想，但感到自己没有足够的能力实现它们。",
+                "location": "校车上",
+                "happen_time": "2022年3月",
+                "participants": "同学",
+                "impact": "这次谈话让我意识到自己对未来的迷茫，加深了‘我无法满足别人的期望’的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高考前夕，父母对我的期望值极高，每天都会询问我的复习进度，让我感到巨大的压力和焦虑。",
+                "location": "家里",
+                "happen_time": "2023年6月",
+                "participants": "父母",
+                "impact": "这种高压环境下，我的焦虑症状加重，强化了‘如果我不能完美地完成任务，我就是失败者’的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "一次在音乐课上，看到一位同学因为在表演中出错而被老师公开批评，感到非常同情和不安。",
+                "location": "学校音乐教室",
+                "happen_time": "2021年11月",
+                "participants": "音乐老师，同学",
+                "impact": "这次经历强化了‘世界对错误和失败是无情的’的中间信念，并增加了对失败的恐惧。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "一次在咖啡馆与朋友聊天时，朋友们谈论他们的兴趣和爱好，但我感到自己没有时间和精力去追求这些，因为总是被学业压力压得喘不过气来。",
+                "location": "咖啡馆",
+                "happen_time": "2022年8月",
+                "participants": "朋友",
+                "impact": "这次谈话让我意识到自己在学业和兴趣之间的冲突，加深了对‘我无法满足别人的期望’的核心信念的认同。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "一次在校外活动中，我看到一位同学在失败后依然保持积极和自信，感到非常羡慕。",
+                "location": "校外活动中心",
+                "happen_time": "2020年5月",
+                "participants": "同学",
+                "impact": "这次观察让我意识到自己缺乏自信，强化了‘我有能力，但需要更多自信’的核心信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在图书馆自习时，一位老师鼓励我积极面对挑战，并告诉我每个人都会犯错，不要太苛求自己。",
+                "location": "图书馆",
+                "happen_time": "2023年2月",
+                "participants": "老师",
+                "impact": "这次谈话给了我一些正面的支持，帮助我稍微缓解了‘如果我犯错，我会被看不起’的中间信念，但整体影响较小。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次在家里，看到父母在讨论自己的工作，他们也会有压力和困难，这让我意识到每个人都会有不完美的地方。",
+                "location": "家里",
+                "happen_time": "2021年7月",
+                "participants": "父母",
+                "impact": "这次观察让我稍微减轻了对自己的苛求，但并没有完全改变‘我必须尽全力避免错误’的中间信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在一次考试中，我意外地得了满分，感到非常自豪，父母和老师都对我表示了极大的赞扬。",
+                "location": "学校",
+                "happen_time": "2019年12月",
+                "participants": "父母，老师",
+                "impact": "这次成功让我短暂地增强了自信，但也强化了‘我的价值取决于我的表现’和‘他人只会看重我的成绩’的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会上，听到亲戚们夸赞表兄弟姐妹的成就，感到自己被忽视和压力倍增。",
+                "location": "家庭聚会",
+                "happen_time": "2022年1月",
+                "participants": "亲戚，表兄弟姐妹",
+                "impact": "这次经历加深了‘如果我成绩不佳，我会被忽视或批评’的中间信念，增强了对自己表现的焦虑。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在一次学校活动中，我被选为组长，但由于害怕失败和压力，最终拒绝了这个机会。",
+                "location": "学校",
+                "happen_time": "2021年10月",
+                "participants": "同学，老师",
+                "impact": "这次拒绝让我感到对自己能力的质疑，强化了‘我永远达不到别人的期望’的中间信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "在一次绘画展览上，看到其他同学的作品得到高度评价，而我感到自己的作品不如他们。",
+                "location": "学校绘画展览",
+                "happen_time": "2023年3月",
+                "participants": "同学，老师",
+                "impact": "这次观察让我更加觉得‘他人的认可是我存在的意义’，增强了对他人认可的依赖。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "潘瑞霭",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "期末考试成绩出来了，我发现自己数学考得很差，虽然其他科目还不错，但父母对我数学成绩非常失望。我感觉自己让他们失望了。",
+                "location": "家里",
+                "happen_time": "2024年1月",
+                "participants": "潘瑞霭，父母",
+                "impact": "负面影响，进一步加强了“我无法满足别人的期望”的核心信念，导致自我价值感进一步降低。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次数学补习班上，老师在全班面前批评了我做错的题目，我觉得非常尴尬和无助，觉得自己好像没有能力。",
+                "location": "补习班教室",
+                "happen_time": "2024年2月",
+                "participants": "潘瑞霭，补习班老师，同学",
+                "impact": "负面影响，强化了“他人会批评我的不足”和“我不够好”的核心信念，增加了自我怀疑。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一个周末我和朋友去了咖啡馆，但我觉得自己融不进去她们的谈话，感觉自己和她们格格不入。",
+                "location": "咖啡馆",
+                "happen_time": "2024年3月",
+                "participants": "潘瑞霭，两个亲近的朋友",
+                "impact": "负面影响，加剧了“我必须得到他人的认可才能感到满意”的中间信念，导致社交焦虑增加。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次学校的绘画比赛中，我获了一等奖，虽然得到了认可，但我却觉得自己只是运气好，依然对自己的能力不自信。",
+                "location": "学校",
+                "happen_time": "2024年4月",
+                "participants": "潘瑞霭，老师，同学",
+                "impact": "正面影响但有限，短暂提升了自我价值感，但核心信念“我不够好”依然存在。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在与心理咨询师的交流中，我谈到了自己在决策上的困难，咨询师帮助我分析了问题的根源，让我感到一些解脱。",
+                "location": "心理咨询室",
+                "happen_time": "2024年5月",
+                "participants": "潘瑞霭，心理咨询师",
+                "impact": "正面影响，心理咨询提供了一些支持，帮助缓解了一部分决策困难。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "父母在一次家庭聚餐上讨论我的未来职业方向，他们的高期望让我觉得压力巨大，内心充满了困惑和焦虑。",
+                "location": "家里",
+                "happen_time": "2024年6月",
+                "participants": "潘瑞霭，父母",
+                "impact": "负面影响，进一步加强了“我无法满足别人的期望”的核心信念，增加了自我怀疑和焦虑。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次语文课上，我被要求在全班面前朗读自己的作文，虽然得到了老师的表扬，但我还是觉得自己表现不佳。",
+                "location": "学校教室",
+                "happen_time": "2024年7月",
+                "participants": "潘瑞霭，老师，同学",
+                "impact": "正面影响但有限，虽然得到了认可，但核心信念“我不够好”依然存在，导致正面影响有限。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次与朋友的聚会中，我发现她们已经开始为大学做准备，而我仍然没有明确的职业方向，感到非常焦虑和无措。",
+                "location": "朋友家",
+                "happen_time": "2024年8月",
+                "participants": "潘瑞霭，两个亲近的朋友",
+                "impact": "负面影响，加强了“我的价值取决于我的表现”的中间信念，增加了焦虑感。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次学校的心理讲座上，听到讲师谈到关于自我价值感的话题，虽然引起了一些共鸣，但我仍然对自己的价值感到困惑。",
+                "location": "学校礼堂",
+                "happen_time": "2024年1月",
+                "participants": "潘瑞霭，讲师，同学",
+                "impact": "正面影响但有限，虽然引发了共鸣，但未能彻底改变核心信念。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到一位同学因考试失利而情绪崩溃，我担心自己也会有同样的反应，因此感到更加焦虑。",
+                "location": "学校教室",
+                "happen_time": "2024年2月",
+                "participants": "潘瑞霭，同学",
+                "impact": "负面影响，强化了“世界对错误和失败是无情的”的中间信念，增加了对考试和错误的恐惧。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在图书馆看到一位朋友不断努力学习，感受到她的压力和焦虑，也让自己感到压力倍增。",
+                "location": "图书馆",
+                "happen_time": "2024年3月",
+                "participants": "潘瑞霭，朋友",
+                "impact": "负面影响，加强了“我必须在学业上取得优异成绩”的中间信念，增加了学业压力。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到父母在谈论其他孩子取得的成就时，感到自己必须更加努力才能得到他们的认可。",
+                "location": "家里",
+                "happen_time": "2024年4月",
+                "participants": "潘瑞霭，父母",
+                "impact": "负面影响，强化了“我永远达不到别人的期望”的中间信念，增加了内心的压力和焦虑。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次学校集会上，看到其他学生在表演节目，感觉自己与他们相比毫无才能，感到自卑。",
+                "location": "学校礼堂",
+                "happen_time": "2024年5月",
+                "participants": "潘瑞霭，学生",
+                "impact": "负面影响，强化了“我不够好”的核心信念，增加了自我怀疑和自卑感。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在咖啡馆看到一位陌生人独自学习，感受到他独自面对挑战的决心，自己也受到了一些激励。",
+                "location": "咖啡馆",
+                "happen_time": "2024年6月",
+                "participants": "潘瑞霭，陌生人",
+                "impact": "正面影响，让自己意识到面对挑战的重要性，短暂提升了自信心。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到一位同学在课堂上因为回答错误而被老师批评，自己也感到紧张和不安，担心自己会有同样的遭遇。",
+                "location": "学校教室",
+                "happen_time": "2024年7月",
+                "participants": "潘瑞霭，同学，老师",
+                "impact": "负面影响，强化了“他人会批评我的不足”的中间信念，增加了课堂上的焦虑感。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在朋友家看到她家长对她的严格要求，感受到她的压力和困惑，也让自己感到共鸣和同情。",
+                "location": "朋友家",
+                "happen_time": "2024年8月",
+                "participants": "潘瑞霭，朋友，朋友的家长",
+                "impact": "负面影响，强化了“世界对我的要求太高”的中间信念，增加了对未来的焦虑感。"
+            }
+        ]
+    }
+}

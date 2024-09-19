@@ -1,0 +1,158 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "勤奋",
+            "内向",
+            "敏感",
+            "有责任心",
+            "自我要求高"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "皮肤白皙",
+            "长发"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "看电影",
+                "写作"
+            ],
+            "activity": [
+                "和朋友一起去咖啡馆",
+                "周末去图书馆"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "完成当前的科研项目，取得理想的实验结果",
+            "long_term_goals": "成为一名优秀的科研人员，在学术界有所成就"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到实验室开始一天的工作，晚上10点左右回宿舍休息。中午会在实验室附近的食堂吃饭，下午继续实验。",
+            "weekends": "周末通常会在实验室继续工作，但偶尔会和朋友一起去咖啡馆放松，或者去图书馆看书。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多。高中时曾因为一次考试失利而感到极度沮丧，但最终通过努力考上了理想的大学。",
+            "recent_events": "最近因为科研不顺利，实验结果不理想，情绪低落，被导师批评后更加感到压力大。"
+        },
+        "environment": "出生在江苏省南京市，从小在这里长大。大学期间在北京读书，现在在北京的一所知名大学攻读研究生。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "苏佳蓉的父母对她的期望很高，从小就要求她努力学习。虽然他们的期望给她带来了压力，但也让她养成了勤奋的习惯。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "苏佳蓉在童年时期有两个比较要好的朋友，但由于她性格内向，这些友谊并不深厚。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "在中学时期，苏佳蓉的父母依然对她的学业非常关注，但她开始感受到更多的压力，尤其是在一次考试失利后。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "苏佳蓉在中学时期成绩优异，但因为性格内向，朋友不多。她和几个同学有过一些交流，但并不深入。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "苏佳蓉的班主任对她的学业非常关注，给予了她很多帮助和指导。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "苏佳蓉的导师对她的科研工作要求很高，最近因为实验结果不理想，导师对她进行了批评，这让她感到很大的压力。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "苏佳蓉在研究生期间有两个比较要好的同学，他们经常一起讨论学术问题，但由于科研压力大，交流时间并不多。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "苏佳蓉有两个在北京的朋友，他们偶尔会一起去咖啡馆放松，这些朋友是她情感上的重要支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "苏佳蓉的社交关系在不同阶段有明显变化。童年时期，她的社交圈主要是家庭和少数朋友。进入中学后，虽然成绩优异，但因为性格内向，朋友不多。最近，她的社交关系主要集中在学术圈，导师和同学是她主要的社交对象。科研压力让她的社交活动减少，但她依然保持着和几个朋友的联系，这些朋友在她情绪低落时给予了她一定的支持。"
+    }
+}

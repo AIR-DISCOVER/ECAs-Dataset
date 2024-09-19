@@ -1,0 +1,173 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "勤奋",
+            "缺乏自信",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "纤细",
+            "清秀",
+            "略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "看美剧",
+                "与男朋友聊天",
+                "阅读"
+            ],
+            "activity": [
+                "与男朋友聊天",
+                "看美剧",
+                "偶尔旅游"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "顺利通过考研",
+            "long_term_goals": "找到一份稳定且有成就感的工作"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单洗漱后开始一天的学习。中午会休息一小时，下午继续学习。晚上会和男朋友聊天，看看美剧，直到深夜才上床睡觉。",
+            "weekends": "周末会稍微放松一些，可能会和朋友出去吃饭或者短途旅行，但大部分时间还是在家复习。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多。高考失利后，选择了考研，希望能通过考研改变自己的命运。",
+            "recent_events": "最近一个月因为考研压力大，出现了疲倦、决断困难、缺乏自信心、入睡困难等症状。"
+        },
+        "environment": "出生在一个小城市，家庭环境相对稳定。大学期间在省会城市读书，生活环境相对独立，但也因此感到孤独和压力。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "韦亚园的父亲是一名工厂工人，工作繁忙，但对女儿的学习非常关心。虽然父女之间的交流不多，但父亲总是默默支持她的学业。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "韦亚园的母亲是一名小学教师，对女儿的期望很高。母亲经常辅导她的功课，并且在她遇到困难时给予鼓励和支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "韦亚园在小学时有两个好朋友，一个是邻居家的小女孩，另一个是班上的同学。她们经常一起玩耍，但随着时间的推移，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入中学后，韦亚园与父亲的交流更少了，父亲的工作压力也越来越大，但他依然关心女儿的学习。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲在韦亚园的中学时期依然是她的主要支持者，但由于母亲对她的期望很高，有时会让她感到压力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "中学时期，韦亚园因为性格内向，朋友不多，但有一个关系较好的同学，两人经常一起学习和讨论问题。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "韦亚园的班主任和数学老师对她的学习帮助很大，班主任经常鼓励她，而数学老师则在学术上给予了很多指导。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "男朋友",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "韦亚园的男朋友是她大学时期认识的，两人感情很好，男朋友是她情感上的主要支持者，经常在她感到压力时给予安慰。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "虽然韦亚园已经离开家乡去省会城市读书，但她与母亲的联系依然紧密，母亲经常打电话关心她的生活和学习。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "大学期间，韦亚园结识了两个好朋友，她们经常一起学习和讨论考研的事情，但由于韦亚园性格内向，朋友之间的交流并不算特别深入。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "韦亚园的社交能力和意愿在不同阶段有明显变化。童年时期，她的社交圈主要是家庭和邻居，关系较为简单。进入中学后，由于学习压力和性格内向，她的朋友数量减少，但与老师的关系变得重要。大学期间，她的社交圈再次扩大，结识了男朋友和新朋友，但由于考研压力，她的社交活动减少，更多时间花在学习上。总体来看，韦亚园的社交能力较为有限，主要依赖于家庭和少数亲密关系。"
+    }
+}

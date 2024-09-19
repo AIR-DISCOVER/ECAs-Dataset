@@ -1,0 +1,326 @@
+{
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我坚韧不拔，能够克服任何困难。",
+                "others": "他人可能不理解我的努力，但我相信自己的能力。",
+                "world": "生活中总会有困难，但我有能力克服它们。"
+            },
+            "rules": "我应该坚持不懈，不被困难击倒。",
+            "positive_assumption": "如果我坚持下去，我会取得成功。",
+            "negative_assumption": "如果我放弃，我会一无所获。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对生活中的挑战。",
+                "others": "他人可以给予我帮助，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "家庭的幸福是我的责任。",
+                "others": "家人需要我的支持和照顾。",
+                "world": "家庭是生活的避风港，是我努力工作的动力。"
+            },
+            "rules": "我应该尽力满足家庭成员的需求，确保他们的幸福。",
+            "positive_assumption": "如果我为家庭付出，我会得到家人的爱和支持。",
+            "negative_assumption": "如果我不能满足家庭的需求，我会失去他们的信任。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要为家人提供最好的生活。",
+                "others": "家人是我最重要的支持系统。",
+                "world": "家庭是生活的核心，值得我全力付出。"
+            },
+            "rules": "我应该优先考虑家庭的需求，并为他们提供支持。",
+            "positive_assumption": "如果我照顾好家庭，我会感到满足和幸福。",
+            "negative_assumption": "如果我忽视家庭，我会感到内疚和不安。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值体现在我所做的工作上。",
+                "others": "他人会通过我的工作表现来评价我。",
+                "world": "只有通过工作才能体现个人价值。"
+            },
+            "rules": "我需要不断提高自己的家政技能，才能体现出我的价值。",
+            "positive_assumption": "如果我提高技能，我会在工作中取得更大成就。",
+            "negative_assumption": "如果我不提高技能，我的价值会受到质疑。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能满足客户的期望，就说明我不够努力。",
+                "others": "客户的认可是我工作的最大动力。",
+                "world": "这个世界是竞争激烈的，只有努力工作才能生存。"
+            },
+            "rules": "我必须不懈努力，才能获得客户的认可和满意。",
+            "positive_assumption": "如果我努力工作，我会获得更多客户的认可。",
+            "negative_assumption": "如果我不努力工作，我会失去客户和收入。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我坚韧不拔，能够克服任何困难。",
+                "others": "他人可能不理解我的努力，但我相信自己的能力。",
+                "world": "生活中总会有困难，但我有能力克服它们。"
+            },
+            "rules": "我应该坚持不懈，不被困难击倒。",
+            "positive_assumption": "如果我坚持下去，我会取得成功。",
+            "negative_assumption": "如果我放弃，我会一无所获。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对生活中的挑战。",
+                "others": "他人可以给予我帮助，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "家庭的幸福是我的责任。",
+                "others": "家人需要我的支持和帮助。",
+                "world": "家庭是生活的避风港，是我努力工作的动力。"
+            },
+            "rules": "我应该尽力满足家庭成员的需求，确保他们的幸福。",
+            "positive_assumption": "如果我为家庭付出，我会得到家人的爱和支持。",
+            "negative_assumption": "如果我不能满足家庭的需求，我会失去他们的信任。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要为家人提供支持和帮助。",
+                "others": "家人是我最重要的支持系统。",
+                "world": "家庭是生活的核心，值得我全力付出。"
+            },
+            "rules": "我应该优先考虑家庭的需求，并为他们提供支持。",
+            "positive_assumption": "如果我照顾好家庭，我会感到满足和幸福。",
+            "negative_assumption": "如果我忽视家庭，我会感到内疚和不安。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值体现在我所做的工作上。",
+                "others": "他人会通过我的工作表现来评价我。",
+                "world": "只有通过工作才能体现个人价值。"
+            },
+            "rules": "我需要不断提升自己的工作能力，才能体现出我的价值。",
+            "positive_assumption": "如果我提升能力，我会在工作中取得更大成就。",
+            "negative_assumption": "如果我不提升能力，我的价值会受到质疑。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能胜任工作，那就说明我不够努力。",
+                "others": "同事和上司的认可是我努力工作的动力。",
+                "world": "这个世界是竞争激烈的，只有努力工作才能生存。"
+            },
+            "rules": "我必须努力工作，才能得到同事和上司的认可。",
+            "positive_assumption": "如果我努力工作，我会获得同事和上司的认可。",
+            "negative_assumption": "如果我不努力工作，我会失去工作和收入。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我坚韧不拔，能够克服任何困难。",
+                "others": "父母可能不完全理解我的努力，但我相信自己的能力。",
+                "world": "生活中总会有困难，但我有能力克服它们。"
+            },
+            "rules": "我应该坚持不懈，不被困难击倒。",
+            "positive_assumption": "如果我坚持下去，我会取得成功。",
+            "negative_assumption": "如果我放弃，我会一无所获。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我能面对生活中的挑战。",
+                "others": "家人会在我需要时给予帮助。",
+                "world": "世界充满挑战，但我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "家庭的幸福是我的责任。",
+                "others": "家人需要我的支持和照顾。",
+                "world": "家庭是生活的避风港，是我努力工作的动力。"
+            },
+            "rules": "我应该尽力满足家庭成员的需求，确保他们的幸福。",
+            "positive_assumption": "如果我为家庭付出，我会得到家人的爱和支持。",
+            "negative_assumption": "如果我不能满足家庭的需求，我会失去他们的信任。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要为家人提供帮助和支持。",
+                "others": "家人是我的主要支持系统。",
+                "world": "家庭是生活的核心，值得我全力付出。"
+            },
+            "rules": "我应该优先考虑家庭的需求，并为他们提供支持。",
+            "positive_assumption": "如果我照顾好家人，我会感到满足和幸福。",
+            "negative_assumption": "如果我忽视家庭，我会感到内疚和不安。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值体现在我对家庭的贡献上。",
+                "others": "家人会通过我的表现来评价我。",
+                "world": "只有通过工作才能体现个人价值。"
+            },
+            "rules": "我需要尽力帮助家里做家务，才能体现出我的价值。",
+            "positive_assumption": "如果我帮助做家务，我会被认为是有价值的。",
+            "negative_assumption": "如果我不帮助做家务，我的价值会受到质疑。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不努力做家务，父母会失望。",
+                "others": "父母的认可是我努力的动力。",
+                "world": "只有努力工作才能得到认可。"
+            },
+            "rules": "我必须努力做家务，才能获得父母的认可。",
+            "positive_assumption": "如果我努力做家务，父母会对我感到满意。",
+            "negative_assumption": "如果我不努力做家务，父母会失望和不满。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

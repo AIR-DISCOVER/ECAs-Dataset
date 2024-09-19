@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不值得被爱。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我很孤独。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我需要依赖他人才能生存。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我需要寻求帮助，那就意味着我很软弱。",
+                "others": "他人不会真正理解或关心我的感受。",
+                "world": "在这个世界上，每个人都应该自己处理自己的问题。"
+            },
+            "rules": "我应该避免寻求他人的帮助。",
+            "positive_assumption": "如果我避免寻求帮助，我就能表现得更强大。",
+            "negative_assumption": "如果我寻求帮助，我就会被视为软弱和无能。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得被爱，所以我必须隐藏自己的情感。",
+                "others": "他人不会真正在意我的感受。",
+                "world": "世界对我来说是冷漠的。"
+            },
+            "rules": "我应尽量避免表达自己的情感。",
+            "positive_assumption": "如果我隐藏情感，我就能避免被伤害。",
+            "negative_assumption": "如果我表达情感，我会遭遇更多的冷漠和拒绝。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不够好，所以我必须努力证明自己。",
+                "others": "别人总是在评判我。",
+                "world": "世界是一个竞争激烈的地方。"
+            },
+            "rules": "我必须不断努力，才能被别人认可。",
+            "positive_assumption": "如果我努力，我也许能被认可。",
+            "negative_assumption": "如果我不够努力，我将永远无法获得认可。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是做不好事情，所以我不应该尝试新的挑战。",
+                "others": "别人会看不起我的失败。",
+                "world": "世界对失败者是无情的。"
+            },
+            "rules": "我应避免尝试新的挑战以免失败。",
+            "positive_assumption": "如果我不尝试，我就不会失败。",
+            "negative_assumption": "如果我尝试新事物，我很可能会失败并被嘲笑。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我很孤独，所以我无法依靠自己。",
+                "others": "别人不会在我需要时帮助我。",
+                "world": "世界是一个孤立的地方。"
+            },
+            "rules": "我应该避免依赖别人，因为他们不会帮助我。",
+            "positive_assumption": "如果我不依赖别人，我就不会失望。",
+            "negative_assumption": "如果我依赖别人，我会感到更孤独和失望。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我很孤独，所以我不值得拥有朋友。",
+                "others": "别人不会愿意和我做朋友。",
+                "world": "世界对孤独的人不友好。"
+            },
+            "rules": "我应该接受自己是孤独的。",
+            "positive_assumption": "如果我接受孤独，我就不会有不切实际的期望。",
+            "negative_assumption": "如果我不接受孤独，我会不断地感到失望和痛苦。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要依赖他人才能生存，所以我必须讨好他们。",
+                "others": "别人是我生存的关键。",
+                "world": "世界对我来说是充满威胁的。"
+            },
+            "rules": "我必须讨好别人，才能获得他们的帮助。",
+            "positive_assumption": "如果我讨好别人，我就能获得他们的帮助和支持。",
+            "negative_assumption": "如果我不讨好别人，我会被抛弃和忽视。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要依赖他人，所以我不能独立。",
+                "others": "别人是我的依靠。",
+                "world": "世界是一个我无法独自面对的地方。"
+            },
+            "rules": "我必须依赖别人，才能生存。",
+            "positive_assumption": "如果我依赖别人，我就能得到帮助和支持。",
+            "negative_assumption": "如果我试图独立，我会失败并感到绝望。"
+        }
+    ]
+}

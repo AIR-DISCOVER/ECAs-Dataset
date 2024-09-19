@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须为他人负责。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有能力。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我值得被爱和关心。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我失败了，那就证明我不够好。",
+                "others": "他人会批评我，证明我不够好。",
+                "world": "世界对失败者是无情的。"
+            },
+            "rules": "我必须避免失败。",
+            "positive_assumption": "如果我避免失败，我就能避免被批评。",
+            "negative_assumption": "如果我失败了，我就会被批评，证明我不够好。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须不断努力，才能证明自己。",
+                "others": "他人只会尊重那些表现卓越的人。",
+                "world": "这个世界只有强者才能生存。"
+            },
+            "rules": "我必须一直努力，不允许自己懈怠。",
+            "positive_assumption": "如果我一直努力，我就会被尊重。",
+            "negative_assumption": "如果我懈怠，我就会被看不起。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不为他人负责，我就会让他们失望。",
+                "others": "他人需要我的帮助和支持。",
+                "world": "这个世界需要互相帮助。"
+            },
+            "rules": "我应该优先考虑他人的需求。",
+            "positive_assumption": "如果我为他人负责，我会得到他们的认可。",
+            "negative_assumption": "如果我不为他人负责，我会让他们失望，甚至失去他们的信任。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我应该承担更多责任，这样才能证明自己的价值。",
+                "others": "他人对我有很高的期望。",
+                "world": "在这个世界上，责任是衡量一个人价值的标准。"
+            },
+            "rules": "我必须承担更多责任。",
+            "positive_assumption": "如果我承担更多责任，我就能证明自己的价值。",
+            "negative_assumption": "如果我不承担责任，我就会被认为没有价值。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力解决问题，并面对生活中的挑战。",
+                "others": "他人可以给予我帮助，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的能力可以帮助我实现目标。",
+                "others": "他人可能会怀疑我的能力，但我会证明他们是错的。",
+                "world": "这个世界充满了实现自我价值的机会。"
+            },
+            "rules": "我必须利用我的能力去实现我的目标。",
+            "positive_assumption": "如果我利用我的能力，我会成功。",
+            "negative_assumption": "如果我不利用我的能力，我会浪费机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有权利被爱和关心。",
+                "others": "他人是可以给予我爱和关心的。",
+                "world": "世界是有爱的地方，我值得被爱。"
+            },
+            "rules": "我应该允许自己接受他人的爱和关心。",
+            "positive_assumption": "如果我接受爱和关心，我会感到更幸福和满足。",
+            "negative_assumption": "如果我拒绝爱和关心，我会感到孤独和痛苦。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我值得被尊重和关心。",
+                "others": "他人会尊重和关心我。",
+                "world": "这个世界是尊重和关心他人的。"
+            },
+            "rules": "我应该尊重和关心自己，也应该接受他人的尊重和关心。",
+            "positive_assumption": "如果我尊重和关心自己，我会感到更自信和满足。",
+            "negative_assumption": "如果我不尊重和关心自己，我会感到自卑和不满。"
+        }
+    ]
+}

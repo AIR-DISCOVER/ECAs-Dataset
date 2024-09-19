@@ -1,0 +1,169 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "谨慎",
+            "有责任心",
+            "自我要求高",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "穿着整洁",
+            "面容清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "打篮球",
+                "看电影",
+                "阅读财经书籍"
+            ],
+            "activity": [
+                "和朋友一起打篮球",
+                "周末去电影院看新片"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高工作效率，重新获得领导的认可",
+            "long_term_goals": "在金融行业中取得更高的职位，成为一名成功的金融分析师"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到公司上班，晚上6点下班后回家，偶尔加班。晚上会看书或浏览财经新闻。",
+            "weekends": "周末会和朋友打篮球，或者去电影院看电影，有时也会在家休息，阅读书籍。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但因为自我要求高，常常感到压力。高中时曾因考试失利而感到沮丧，但最终考上了一所不错的大学。",
+            "recent_events": "最近在工作中遇到了一些困难，导致被领导谈话，进一步影响了他的自信心和工作效率。"
+        },
+        "environment": "出生在一个中等城市，从小在这里长大。大学毕业后进入金融行业，目前在一家中型金融公司工作。",
+        "persona_summary": "安宁信，25岁，未婚，金融行业从业者，内向且自我要求高。近期自信心下降，工作效率受影响，兴趣减少，入睡困难。日常生活规律，爱好篮球、电影和财经书籍。童年在工薪家庭长大，父母期望高，学业优异但压力大。最近工作遇到困难，影响自信。短期目标是提高工作效率，长期目标是成为成功的金融分析师。社会交往正常，但存在焦虑倾向。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲是一个严厉但关心家庭的人，对安宁信的学习要求很高，经常督促他完成作业。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲温柔体贴，总是关心安宁信的生活起居，给予他情感上的支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "安宁信在小学时有两个好朋友，他们经常一起玩耍，但随着时间的推移，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入中学后，父亲对安宁信的期望更高，导致他们之间的关系有些紧张。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是安宁信的情感支柱，但她也开始担心他的心理压力。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "安宁信在中学时结交了一些同学朋友，但由于自我要求高，他很少与他们分享内心的困扰。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "领导",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "领导对安宁信的工作表现不满意，导致他自信心下降。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "安宁信与几位同事关系较好，但由于工作压力，他很少与他们深入交流。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "安宁信有两个亲密的朋友，他们经常一起打篮球和看电影，但最近他对这些活动失去了兴趣。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "安宁信在不同阶段的社交关系发生了显著变化。童年时期，他与父母关系密切，朋友较少。进入青春期后，父亲的高期望导致他们关系紧张，母亲依然是他的情感支柱，但他与同学的关系较为表面。进入职场后，工作压力使他与领导和同事的关系变得复杂，虽然有几个亲密朋友，但他对社交活动的兴趣下降，导致社交圈逐渐缩小。"
+    }
+}

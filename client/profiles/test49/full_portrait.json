@@ -1,0 +1,162 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "随和",
+            "内向",
+            "自卑",
+            "敏感",
+            "责任感强"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "黑发",
+            "眼神疲惫",
+            "穿着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "独自散步",
+                "在家看书"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复对工作的兴趣，提升销售业绩",
+            "long_term_goals": "找到生活的意义，建立稳定的家庭"
+        },
+        "daily_life": {
+            "routine": "早上起床后匆忙洗漱，简单吃早餐后去公司。工作时常感到疲倦和无力，午餐时间通常一个人吃饭。下班后回家，偶尔会看书或听音乐，但大部分时间都在发呆或思考。晚上入睡困难，经常做噩梦。",
+            "weekends": "周末大部分时间在家，偶尔会出去散步。很少与朋友社交，通常一个人待在家里看书或听音乐。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母工作忙碌，童年时常感到孤独。学习成绩一般，但在阅读和音乐方面表现出兴趣。",
+            "adolescence": "中学时期性格逐渐变得内向，朋友不多。高考失利后选择了销售专业，进入了一家中小型公司工作。",
+            "recent_events": "最近因疫情影响，市场不景气，销售业绩下滑，导致工作压力增大。一个多月前开始感到情绪低落，对工作和生活失去兴趣。"
+        },
+        "environment": "出生在一个南方的小城市，家庭经济状况一般。高中毕业后到省会城市读书并工作，目前独自生活在城市的一间小公寓里。",
+        "persona_summary": "奚谦星，26岁，未婚，销售人员，性格随和内向，自卑敏感，责任感强。近期情绪低落，兴趣减退一个月，症状包括记忆力差、疲倦、决断困难等，属轻度抑郁。爱好阅读、听音乐和看电影。短期目标是恢复对工作的兴趣，长期目标是找到生活意义，建立稳定家庭。童年孤独，青春期内向，工作压力大。独自生活在省会城市小公寓。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "父亲工作繁忙，较少时间陪伴",
+                        "母亲虽然关心但也忙于工作"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "有一个关系较好的朋友，但由于性格内向，朋友不多"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "父母依旧忙碌，沟通较少",
+                        "母亲偶尔会关心学业"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期有两个朋友，但关系一般",
+                        "朋友间的互动较少"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "有一位比较关心他的老师，偶尔会给予鼓励"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "与同事关系一般，工作压力大",
+                        "同事间的互动较少"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "有一个较为亲近的朋友，但最近联系减少"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "与心理咨询师的互动较多，寻求帮助"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "奚谦星在不同阶段的社交关系变化较大。童年时期由于父母忙碌，感到孤独，朋友较少。进入青春期后，性格变得更加内向，朋友数量有所增加但关系一般。最近由于工作压力和情绪低落，社交意愿进一步减弱，与同事和朋友的互动减少，更多依赖心理咨询师的帮助。整体来看，奚谦星的社交能力和意愿在逐渐下降，社交关系也变得更加疏远。"
+    }
+}

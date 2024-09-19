@@ -1,0 +1,215 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "关心",
+            "勤奋",
+            "有责任心",
+            "温柔",
+            "有条理"
+        ],
+        "appearance": [
+            "中等身高",
+            "身材匀称",
+            "气质优雅",
+            "头发乌黑",
+            "眼神温柔"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "跳舞",
+                "炒股",
+                "阅读",
+                "旅行"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步",
+                "参加舞蹈班"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "帮助孩子提高成绩，保持家庭和谐",
+            "long_term_goals": "在金融行业取得更高的成就，培养孩子成为有用之才"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，准备早餐，送孩子上学，然后去上班。工作时间从早上9点到下午5点。晚上回家后，和家人共进晚餐，辅导孩子的功课，偶尔会在家里练习跳舞。",
+            "weekends": "周末会去参加舞蹈班，和家人一起外出游玩或在家做饭。偶尔会和朋友聚会，放松心情。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的教育非常重视，从小就培养她的学习习惯。",
+            "adolescence": "中学时期成绩优异，积极参加学校的各种活动，培养了良好的社交能力。",
+            "youth": "大学期间选择了金融专业，毕业后进入了一家知名的金融公司工作，逐步积累了丰富的工作经验。",
+            "recent_events": "最近因为孩子的成绩问题感到有些压力，但通过跳舞和炒股等兴趣爱好来调节心情。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书。毕业后回到南京工作和生活。",
+        "persona_summary": "戚飘锦，38岁，已婚，金融工作者。她关心、勤奋、有责任心、温柔且有条理。中等身高，身材匀称，气质优雅，头发乌黑，眼神温柔。兴趣爱好包括跳舞、炒股、阅读和旅行。她每天按时作息，重视家庭生活，周末参加舞蹈班并与家人共度时光。她短期目标是帮助孩子提高成绩，长期目标是在金融行业取得更高成就。出生于南京，大学在北京读书，毕业后回南京工作。最近因孩子成绩感到压力，通过跳舞和炒股调节心情。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工人，母亲是一名教师。父母对她的教育非常重视，从小就培养她的学习习惯。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "有三个非常要好的朋友，经常一起玩耍和学习。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父母依然对她的学习和生活非常关心，提供了很多支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学时期结交了更多的朋友，积极参加学校的各种活动，培养了良好的社交能力。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "两位非常欣赏她的老师，给予了她很多指导和帮助。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "大学期间虽然离家在外，但与父母的联系依然紧密。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "大学期间结交了几位志同道合的朋友，一起学习和生活。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "进入金融公司工作后，与几位同事建立了良好的工作关系。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "丈夫是一名厨艺精湛的人，对她非常关心和支持。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "孩子是她生活的重心之一，虽然成绩问题让她有些压力，但她依然非常关心孩子的成长。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "有几位经常联系的朋友，偶尔会聚会放松心情。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "工作中的同事关系依然良好，互相支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "戚飘锦在不同阶段的社交关系中，逐渐从依赖父母的支持转向建立自己的社交网络。她在中学和大学期间结交了许多朋友，培养了良好的社交能力。进入职场后，她与同事建立了良好的工作关系。结婚后，丈夫和孩子成为她生活中的重要支柱。尽管最近因为孩子的成绩问题感到有些压力，但她依然保持着积极的社交态度，通过跳舞和与朋友聚会来调节心情。"
+    }
+}

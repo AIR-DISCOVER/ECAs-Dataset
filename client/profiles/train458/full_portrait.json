@@ -1,0 +1,195 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "细腻",
+            "责任感强",
+            "有些悲观"
+        ],
+        "appearance": [
+            "中等身高",
+            "纤细",
+            "皮肤白皙",
+            "黑色长发",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "绘画",
+                "听音乐",
+                "散步"
+            ],
+            "activity": [
+                "周末去公园散步",
+                "和朋友一起喝咖啡",
+                "在家里画画"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能够调整好自己的情绪，恢复正常的工作状态",
+            "long_term_goals": "找到一个理解和支持自己的伴侣，建立一个温暖的家庭"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单吃早餐后去上班。工作时间从9点到下午5点。下班后回家，偶尔会去健身房或散步。",
+            "weekends": "周末通常会睡个懒觉，下午会去公园散步或和朋友见面，晚上在家里看书或画画。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她期望很高，从小就被要求成绩优秀。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多。高考压力大，曾经有过短暂的情绪低落。",
+            "recent_events": "最近家里催婚频繁，工作压力也较大，导致情绪波动明显，出现了抑郁症状。"
+        },
+        "environment": "出生在江苏省南京市，从小在这里长大，大学毕业后留在南京工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "时馥婕的父亲是一名工厂工人，性格严肃，对她的学业要求很高。虽然父亲很少表达情感，但他对时馥婕的关心和期望是显而易见的。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "时馥婕的母亲是一名小学教师，温柔而细心。母亲在时馥婕的成长过程中扮演了重要的角色，尤其是在情感支持方面。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "时馥婕在小学时有两个好朋友，她们经常一起玩耍和学习。虽然她们的友谊在中学时逐渐淡化，但这些朋友在她的童年中留下了深刻的印象。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "在中学时期，时馥婕与父亲的关系变得有些紧张。父亲对她的学业要求更加严格，这让她感到压力很大。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是她的重要支持者，但由于学业压力和青春期的叛逆，时馥婕有时会与母亲发生争执。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "时馥婕在中学时有几位特别欣赏她的老师，他们不仅在学业上给予她指导，还在情感上给予她支持。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "由于性格内向，时馥婕在中学时朋友不多，但她与几位同学保持了良好的关系。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "父亲依然对她的生活和工作有很高的期望，尤其在婚姻问题上给她施加了很大压力。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是她的重要支持者，但也会在婚姻问题上催促她。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "时馥婕在工作中有几位关系较好的同事，他们会在工作上互相帮助，但在情感上交流较少。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "时馥婕有几位亲密的朋友，她们会在周末一起喝咖啡或散步，这些朋友是她情感上的重要支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "时馥婕的社交关系在不同阶段有明显变化。童年时期，她与父母和朋友的关系较为紧密。进入青春期后，学业压力和性格内向使她的社交圈子变得有限。最近，由于工作和家庭压力，她的社交关系再次发生变化，主要依赖于几位亲密的朋友和同事。总体而言，时馥婕的社交能力和意愿在不同阶段受到了不同因素的影响，但她始终保持了一些重要的情感支持网络。"
+    }
+}

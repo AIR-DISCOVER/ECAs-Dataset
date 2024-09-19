@@ -1,0 +1,73 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我必须是完美的。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我需要对家人和工作负责。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有能力解决问题。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不能完美地完成任务，我就是失败的。",
+                "others": "他人会因为我的不完美而失望。",
+                "world": "世界是竞争激烈的，只有完美的人才能成功。"
+            },
+            "rules": "我必须在所有事情上达到最高标准。",
+            "positive_assumption": "如果我做到完美，我会得到认可和尊重。",
+            "negative_assumption": "如果我不完美，我会被视为无能和失败。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须时刻照顾好家人和完成工作任务。",
+                "others": "家人和同事依赖我的支持和责任心。",
+                "world": "世界需要我履行我的责任，不能懈怠。"
+            },
+            "rules": "我应该时刻为家人和工作负责。",
+            "positive_assumption": "如果我对家人和工作负责，我会赢得他们的尊重和信任。",
+            "negative_assumption": "如果我未能履行责任，我会失去他人的信任和尊重。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力面对并解决生活中的问题。",
+                "others": "他人可以提供帮助，但我有信心自己处理大部分问题。",
+                "world": "世界充满挑战，但我有能力应对。"
+            },
+            "rules": "当遇到问题时，我应该主动解决。",
+            "positive_assumption": "如果我面对挑战并解决问题，我会变得更强大。",
+            "negative_assumption": "如果我逃避问题，我会失去成长的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须保持高效和准确。",
+                "others": "他人依赖我的专业能力。",
+                "world": "医院是一个需要高效和准确的地方。"
+            },
+            "rules": "我应该在工作中保持高效和准确。",
+            "positive_assumption": "如果我高效和准确，我会成为一名优秀的医生。",
+            "negative_assumption": "如果我不高效和准确，我会失去患者的信任。"
+        }
+    ]
+}

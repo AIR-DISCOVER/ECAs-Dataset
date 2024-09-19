@@ -1,0 +1,169 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "诚实",
+            "有点内向",
+            "有时会缺乏自信"
+        ],
+        "appearance": [
+            "中等身高",
+            "苗条",
+            "长发",
+            "清秀",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "打游戏",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "和朋友一起逛街",
+                "周末去咖啡馆看书",
+                "和家人一起做饭"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "顺利通过教师资格证考试",
+            "long_term_goals": "成为一名优秀的教师，帮助更多的学生"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点上课，下午4点放学后去图书馆自习，晚上10点左右睡觉。",
+            "weekends": "周末通常会和朋友一起出去玩，或者在家里放松，偶尔会去咖啡馆看书。"
+        },
+        "past_experiences": {
+            "childhood": "小时候在一个小城市长大，家庭和睦，父母对她的期望很高。",
+            "adolescence": "中学时期成绩优异，但因为学习压力大，曾经有过一段时间的焦虑。",
+            "recent_events": "最近因为准备教师资格证考试，感到压力很大，注意力难以集中。"
+        },
+        "environment": "出生在一个小城市，家庭环境温馨，父母都是普通职工。高中毕业后考入省城的一所大学，目前在大学就读。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "柏眉滢的父母对她非常关心，从小就给予她无微不至的照顾。父亲是一个严肃但慈爱的男人，母亲则温柔体贴。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "柏眉滢在小学时有几个非常要好的朋友，他们经常一起玩耍和学习。虽然后来因为升学分开了，但这些童年的友谊依然深深影响着她。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "在中学时期，柏眉滢的父母依然对她非常关心，但由于学习压力大，父母有时会显得有些严厉。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        3,
+                        3,
+                        4,
+                        2
+                    ],
+                    "description": [
+                        "柏眉滢在中学时期的老师们对她的学习和成长起到了重要的指导作用。她特别感激其中一位语文老师，曾经在她焦虑时给予了很多鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学时期的朋友们是柏眉滢的重要支持系统，他们一起度过了许多难忘的时光。虽然有些朋友因为升学分开了，但她依然保持联系。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "即使在大学，柏眉滢依然与父母保持着紧密的联系。父母经常打电话关心她的学习和生活。"
+                    ]
+                },
+                {
+                    "relationship": "大学同学",
+                    "count": 6,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "在大学里，柏眉滢结识了几位志同道合的同学，他们一起学习、一起玩耍，成为了她生活中的重要部分。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "最近，柏眉滢因为考试压力大，开始定期与心理咨询师交流。虽然接触时间不长，但她觉得咨询师给了她很多有用的建议和支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "柏眉滢的社交圈在不同阶段有明显的变化。童年时，她的主要社交对象是父母和几个要好的朋友。进入中学后，随着学习压力的增加，她的社交圈扩大到了老师和更多的同学。到了大学，她的社交圈再次发生变化，主要是同学和一些新的朋友。最近因为考试压力，她开始寻求心理咨询师的帮助，这也成为她社交网络的一部分。总体来说，柏眉滢的社交能力和意愿随着时间的推移和环境的变化而不断调整和适应。"
+    }
+}

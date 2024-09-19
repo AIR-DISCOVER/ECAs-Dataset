@@ -1,0 +1,160 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "责任感强"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "黑发",
+            "戴眼镜",
+            "皮肤白皙"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "绘画"
+            ],
+            "activity": [
+                "和朋友一起去图书馆",
+                "周末在宿舍画画"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "完成学业，平衡好学习和社团工作",
+            "long_term_goals": "成为一名成功的设计师，找到自己热爱的工作"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点上课，下午在图书馆自习，晚上回宿舍完成作业和社团工作。",
+            "weekends": "周末通常在宿舍休息，偶尔和朋友一起去图书馆或咖啡馆。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多。高中时加入了学校的美术社团，发现了对绘画的热爱。",
+            "recent_events": "最近因为大学的学习压力和社团工作感到非常疲惫，逐渐失去了对生活的兴趣。"
+        },
+        "environment": "出生在一个小城市，家庭环境较为普通。高中毕业后考入了一所省会城市的大学，目前住在学校宿舍。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "李艳凝的父母对她的期望很高，从小就要求她努力学习。虽然他们的关心有时显得过于严厉，但他们始终是她最亲近的人。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "李艳凝在小学时有一个好朋友，两人经常一起玩耍和学习，但由于性格内向，她的朋友并不多。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "进入中学后，李艳凝的父母对她的期望更高，要求她在学业上更加努力。虽然他们的关心依旧，但她开始感到压力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学时期，李艳凝因为性格内向，朋友不多，但她在美术社团中结识了两个志同道合的朋友。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "她的美术老师对她的绘画天赋非常欣赏，给予了她很多鼓励和指导。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "进入大学后，李艳凝与父母的联系减少，但他们依旧关心她的学业和生活。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "在大学里，李艳凝结识了几位朋友，但由于学习和社团工作的压力，她与朋友的互动减少了。"
+                    ]
+                },
+                {
+                    "relationship": "社团成员",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "她在社团中有一些同事，但由于工作压力，她与他们的关系并不亲密。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "李艳凝在不同阶段的社会关系发生了显著变化。童年时期，她主要依赖父母和少数朋友。进入中学后，她的社交圈稍有扩大，但依旧以学业为重。进入大学后，虽然结识了更多人，但由于学习和社团工作的压力，她的社交能力和意愿有所下降。她逐渐感到孤独和压力，导致她的社会功能下降。"
+    }
+}

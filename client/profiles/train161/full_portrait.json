@@ -1,0 +1,155 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "坚强",
+            "内向",
+            "细心",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身高",
+            "苗条",
+            "黑发",
+            "清秀",
+            "温和的眼神"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐",
+                "散步"
+            ],
+            "activity": [
+                "周末去公园散步",
+                "和朋友一起喝咖啡",
+                "在家里画画"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "积极配合治疗，尽快恢复健康",
+            "long_term_goals": "成为一名优秀的货运代理，能够独立承担更多的工作责任"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，吃早餐后去上班。工作时间从9点到下午5点。下班后会去散步或在家里看书、画画。",
+            "weekends": "周末通常会去公园散步，或者和朋友一起喝咖啡聊天。有时会在家里画画，放松心情。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母都是工人。小时候喜欢画画和阅读，成绩一直不错。",
+            "adolescence": "中学时期成绩优异，但性格较为内向，不太喜欢参加集体活动。高中毕业后考上了一所不错的大学。",
+            "recent_events": "今年确诊了甲状腺疾病和脑肿瘤，给她带来了很大的心理压力，但她一直在积极配合治疗。"
+        },
+        "environment": "出生在一个小城市，家庭环境温馨和睦。大学毕业后在大城市找到了一份货运代理的工作，独自生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "花园枝的父母都是工人，家庭环境温馨和睦。父母对她的成长给予了极大的支持和关爱。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "花园枝在小学和初中时期有几个要好的朋友，虽然性格内向，但她们之间的友谊非常深厚。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "在中学时期，花园枝的父母依然是她最亲近的人，给予她学业和生活上的支持。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "花园枝在中学时期成绩优异，但性格较为内向，不太喜欢参加集体活动。她与同学的关系较为普通，但有几位同学与她关系较好。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "花园枝确诊甲状腺疾病和脑肿瘤后，父母一直在精神上给予她极大的支持，虽然他们不在身边，但经常通过电话和视频联系。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "花园枝在大城市工作后结识了几位朋友，她们在花园枝生病期间给予了她很多关心和帮助。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        3
+                    ],
+                    "description": [
+                        "花园枝在货运代理公司工作，与同事们相处融洽，虽然关系不算特别亲密，但同事们对她的工作能力非常认可。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "花园枝的社会关系在不同阶段有一定的变化。童年时期，她与父母和朋友的关系非常亲密。进入中学后，她的社交圈扩大，但由于性格内向，与同学的关系较为普通。大学毕业后，她独自来到大城市工作，结识了一些新朋友和同事。确诊疾病后，她与父母和朋友的联系更加紧密，得到了他们的支持和关心。总体来说，花园枝的社交能力和意愿在不同阶段有所变化，但她始终保持着与亲近之人的联系。"
+    }
+}

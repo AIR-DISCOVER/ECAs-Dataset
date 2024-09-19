@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我没有价值。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有能力。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我值得被爱。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不能找到工作，那就说明我不够好。",
+                "others": "他人会认为我是无能的。",
+                "world": "这个世界对不够好的人是残酷的。"
+            },
+            "rules": "我必须找到一份工作来证明自己。",
+            "positive_assumption": "如果我找到工作，我就能证明自己是有能力的。",
+            "negative_assumption": "如果我找不到工作，我会被认为是失败者。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须不断努力，否则别人会看不起我。",
+                "others": "别人总是在评判我的表现。",
+                "world": "世界上充满了对不够好的人不公平的待遇。"
+            },
+            "rules": "我必须不断努力，以避免被人看不起。",
+            "positive_assumption": "如果我努力工作，我就能赢得别人的尊重。",
+            "negative_assumption": "如果我不够努力，我将被忽视和看不起。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我没有工作，我就没有价值。",
+                "others": "他人只会看重我的成就。",
+                "world": "世界只认可有成就的人。"
+            },
+            "rules": "我必须通过职业成就来证明我的价值。",
+            "positive_assumption": "如果我能找到工作，我就能证明自己的价值。",
+            "negative_assumption": "如果我找不到工作，我将永远没有价值。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须完美无缺才能被认可。",
+                "others": "别人只会接受完美的人。",
+                "world": "世界对不完美的人非常苛刻。"
+            },
+            "rules": "我必须在所有事情上做到完美。",
+            "positive_assumption": "如果我做到完美，我就会被认可。",
+            "negative_assumption": "如果我不完美，我将会被拒绝和忽视。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力找到一份好工作。",
+                "others": "他人会看到我的潜力和能力。",
+                "world": "世界充满机会，我有能力把握。"
+            },
+            "rules": "我应该积极寻找工作，并展示我的能力。",
+            "positive_assumption": "如果我积极寻找工作，我会找到适合自己的职位。",
+            "negative_assumption": "如果我不积极寻找工作，我可能会错过很多机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我能够应对挑战并取得成功。",
+                "others": "他人会欣赏我的努力和成就。",
+                "world": "世界对那些努力的人是友好的。"
+            },
+            "rules": "我应该迎接每一个挑战，并尽力而为。",
+            "positive_assumption": "如果我迎接挑战，我会不断成长和进步。",
+            "negative_assumption": "如果我回避挑战，我将停滞不前。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我值得被他人关爱和尊重。",
+                "others": "他人会因为我的内在品质而爱我。",
+                "world": "世界上有很多人愿意给予爱和支持。"
+            },
+            "rules": "我应该相信自己值得被爱和尊重。",
+            "positive_assumption": "如果我相信自己值得被爱，我会吸引到更多的关爱和支持。",
+            "negative_assumption": "如果我不相信自己值得被爱，我将很难获得他人的关爱。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力建立并维持良好的关系。",
+                "others": "他人会因为我的真诚和善良而与我建立联系。",
+                "world": "世界上有很多人愿意与我建立真诚的关系。"
+            },
+            "rules": "我应该真诚待人，建立积极的人际关系。",
+            "positive_assumption": "如果我真诚待人，我会建立很多良好的人际关系。",
+            "negative_assumption": "如果我不真诚待人，我将失去他人的信任和支持。"
+        }
+    ]
+}

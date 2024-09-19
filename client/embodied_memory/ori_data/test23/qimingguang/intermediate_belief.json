@@ -1,0 +1,218 @@
+{
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够通过不断学习和努力提升自己的价值。",
+                "others": "他人会看到我的成长和进步。",
+                "world": "在这个世界上，成长和进步是有价值的。"
+            },
+            "rules": "我应该不断挑战自我，不断学习。",
+            "positive_assumption": "如果我持续学习和进步，我的价值会不断提升。",
+            "negative_assumption": "如果我停滞不前，我的价值会被质疑。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在学业上取得好成绩，从而证明我的价值。",
+                "others": "他人会认可我的努力和成就。",
+                "world": "这个世界上，努力和成就会被认可和奖励。"
+            },
+            "rules": "我应该坚持不懈地努力学习，争取取得好成绩。",
+            "positive_assumption": "如果我努力并取得好成绩，我会被认为是有价值的。",
+            "negative_assumption": "如果我不努力或成绩不好，我的价值会被质疑。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须依赖他人的帮助来解决问题，因为我无能。",
+                "others": "他人比我更有能力，因此他们应该帮助我。",
+                "world": "在这个世界上，依赖他人是无能的表现。"
+            },
+            "rules": "我应该尽量寻求他人的帮助。",
+            "positive_assumption": "如果我寻求帮助，我就能完成任务。",
+            "negative_assumption": "如果我不寻求帮助，我会失败，因为我无能。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法应对初中的学业压力，因为我是无能的。",
+                "others": "他人会认为我无能，如果我表现不好。",
+                "world": "这个世界是竞争激烈的，只有有能力的人才能成功。"
+            },
+            "rules": "我应该避免面对过于困难的任务。",
+            "positive_assumption": "如果我避免困难的任务，我就不会暴露自己的无能。",
+            "negative_assumption": "如果我尝试困难的任务，我会发现自己无能。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该尽量不拖累别人，否则我就是不够好的。",
+                "others": "他人不应该被我的问题困扰。",
+                "world": "世界上每个人都应该自食其力，不拖累他人。"
+            },
+            "rules": "我不应该向别人寻求帮助。",
+            "positive_assumption": "如果我不拖累别人，我会被认为是一个好人。",
+            "negative_assumption": "如果我拖累别人，我会被认为是不够好的。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在学业上取得优异成绩，否则就证明我不够好。",
+                "others": "他人会因为我的成绩而评判我。",
+                "world": "在这个世界上，只有成绩好的人才会被认可。"
+            },
+            "rules": "我必须努力学习，取得好成绩。",
+            "positive_assumption": "如果我取得好成绩，我就能证明自己是够好的。",
+            "negative_assumption": "如果我成绩不好，我就会被认为不够好。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够通过不断学习和努力提升自己的价值。",
+                "others": "他人会看到我的成长和进步。",
+                "world": "在这个世界上，成长和进步是有价值的。"
+            },
+            "rules": "我应该不断挑战自我，不断学习。",
+            "positive_assumption": "如果我持续学习和进步，我的价值会不断提升。",
+            "negative_assumption": "如果我停滞不前，我的价值会被质疑。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在学业上取得好成绩，从而证明我的价值。",
+                "others": "他人会认可我的努力和成就。",
+                "world": "这个世界上，努力和成就会被认可和奖励。"
+            },
+            "rules": "我应该坚持不懈地努力学习，争取取得好成绩。",
+            "positive_assumption": "如果我努力并取得好成绩，我会被认为是有价值的。",
+            "negative_assumption": "如果我不努力或成绩不好，我的价值会被质疑。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须依赖他人的帮助来解决问题，因为我无能。",
+                "others": "他人比我更有能力，因此他们应该帮助我。",
+                "world": "在这个世界上，依赖他人是无能的表现。"
+            },
+            "rules": "我应该尽量寻求他人的帮助。",
+            "positive_assumption": "如果我寻求帮助，我就能完成任务。",
+            "negative_assumption": "如果我不寻求帮助，我会失败，因为我无能。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法应对学业上的困难，因为我是无能的。",
+                "others": "他人会认为我无能，如果我表现不好。",
+                "world": "这个世界是竞争激烈的，只有有能力的人才能成功。"
+            },
+            "rules": "我应该避免面对过于困难的任务。",
+            "positive_assumption": "如果我避免困难的任务，我就不会暴露自己的无能。",
+            "negative_assumption": "如果我尝试困难的任务，我会发现自己无能。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须尽量帮助别人，否则我就是不够好的。",
+                "others": "他人不应该因为我的问题而困扰。",
+                "world": "每个人都应该尽力帮助他人，不拖累别人。"
+            },
+            "rules": "我应该尽量帮助别人。",
+            "positive_assumption": "如果我帮助别人，我会被认为是一个好人。",
+            "negative_assumption": "如果我不帮助别人，我会被认为是不够好的。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我在学业上表现得不好，我就不够好。",
+                "others": "他人会认为我不够好，如果我成绩不好。",
+                "world": "在这个世界上，成绩好的孩子才会被认可。"
+            },
+            "rules": "我必须在学业上表现优秀。",
+            "positive_assumption": "如果我成绩优秀，我就能证明自己是够好的。",
+            "negative_assumption": "如果我成绩不好，我就会被认为不够好。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "犹豫不决",
+            "情绪化",
+            "善良"
+        ],
+        "appearance": [
+            "中等身高",
+            "纤细",
+            "黑色长发",
+            "皮肤白皙",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "跳舞",
+                "阅读",
+                "绘画"
+            ],
+            "activity": [
+                "和朋友一起看电影",
+                "独自散步",
+                "尝试新食谱"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复对生活的兴趣，重新找到快乐",
+            "long_term_goals": "成为一名成功的艺术家，举办个人画展"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单洗漱后去上班。工作时间从9点到下午5点。下班后通常会在家里休息，偶尔会去健身房。",
+            "weekends": "周末大部分时间在家里休息，偶尔会和朋友出去看电影或吃饭。最近由于情绪低落，更多时间选择独处。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母关系和睦。小时候喜欢画画和跳舞，曾参加过学校的艺术比赛。",
+            "adolescence": "中学时期成绩优异，但性格内向，不太善于交际。高中时曾经历过一次失恋，对她的情感世界产生了较大影响。",
+            "recent_events": "最近感情不顺，和男友分手。工作上也遇到了一些不顺心的调动，导致情绪低落。"
+        },
+        "environment": "出生在一个小城市，家庭环境温馨。大学毕业后搬到大城市工作，生活节奏加快，压力也随之增加。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "孟莎艺的父母关系和睦，家庭氛围温馨。父母对她的成长给予了充分的支持和关爱，尤其是在她的艺术爱好上。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "孟莎艺在小学和中学时期有几个亲密的朋友，虽然她性格内向，但这些朋友一直是她的情感支柱。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "在中学和高中时期，孟莎艺的父母依然是她最亲近的人，尤其是在她经历失恋时，父母给予了她极大的安慰和支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "高中时期，孟莎艺的朋友圈子有所缩小，但她依然有两个比较亲密的朋友。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "孟莎艺的艺术老师对她的绘画天赋给予了高度评价，并鼓励她继续追求艺术梦想。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "虽然孟莎艺搬到了大城市工作，但她与父母的关系依然紧密，定期通话和视频聊天。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "在大城市，孟莎艺结识了一位新朋友，但由于最近情绪低落，她与这位朋友的联系也变得疏远。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "孟莎艺的同事们大多是工作上的伙伴，关系较为表面，缺乏深层次的交流。"
+                    ]
+                },
+                {
+                    "relationship": "前男友",
+                    "count": 1,
+                    "familiarity": [
+                        1
+                    ],
+                    "description": [
+                        "孟莎艺最近与男友分手，这段关系的结束对她的情感世界造成了很大的冲击。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "孟莎艺的社交关系在不同阶段有明显变化。童年时期，她的社交圈主要集中在家庭和学校的朋友，关系较为稳定。进入青春期后，虽然她依然与父母关系紧密，但朋友圈子有所缩小，且经历了一次失恋，对她的情感世界产生了较大影响。最近，由于搬到大城市工作，生活节奏加快，压力增加，她的社交关系变得更加复杂和疏远。尤其是最近的感情和工作上的不顺，使她更加倾向于独处，减少了与朋友和同事的交流。"
+    }
+}

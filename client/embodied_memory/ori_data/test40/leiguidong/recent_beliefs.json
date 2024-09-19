@@ -1,0 +1,99 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我失去了生活的意义。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我不值得被爱和关心。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我必须依赖自己解决所有问题。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法再享受生活中的任何事物。",
+                "others": "别人无法真正理解我的痛苦。",
+                "world": "生活再也不会带给我快乐。"
+            },
+            "rules": "我不应该尝试寻找新的兴趣或快乐。",
+            "positive_assumption": "如果我不尝试，我就不会再次失望。",
+            "negative_assumption": "如果我尝试寻找新的兴趣，我只会感到更痛苦。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法从痛苦中恢复过来。",
+                "others": "别人无法帮助我恢复正常生活。",
+                "world": "世界对我而言失去了色彩。"
+            },
+            "rules": "我应该独自承受这一切，不要麻烦别人。",
+            "positive_assumption": "如果我独自承受痛苦，我就不会成为别人的负担。",
+            "negative_assumption": "如果我寻求帮助，我会被人看作软弱。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得拥有幸福。",
+                "others": "别人不会真正关心和爱我。",
+                "world": "世界对我没有太多关心。"
+            },
+            "rules": "我不应该期望从别人那里获得支持和关爱。",
+            "positive_assumption": "如果我不期望别人的关爱，我就不会失望。",
+            "negative_assumption": "如果我期望别人的关爱，我会感到被拒绝。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得被人尊重。",
+                "others": "别人只会在表面上关心我。",
+                "world": "世界对我不公平。"
+            },
+            "rules": "我应该低调行事，不要吸引别人的注意。",
+            "positive_assumption": "如果我不引起别人的注意，我就不会被拒绝。",
+            "negative_assumption": "如果我引起别人的注意，我会遭到冷落。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须独立解决问题。",
+                "others": "别人无法真正帮我。",
+                "world": "世界是冷漠的，我只能依靠自己。"
+            },
+            "rules": "我不能依赖别人，必须自己解决所有问题。",
+            "positive_assumption": "如果我依赖自己，我会变得更强大。",
+            "negative_assumption": "如果我依赖别人，我会显得软弱无力。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须把所有事情都做得完美。",
+                "others": "别人会对我的表现有很高的期望。",
+                "world": "世界对失败毫不宽容。"
+            },
+            "rules": "我不能犯错，必须做到最好。",
+            "positive_assumption": "如果我做到完美，别人就会认可我。",
+            "negative_assumption": "如果我犯错，别人就会看不起我。"
+        }
+    ]
+}

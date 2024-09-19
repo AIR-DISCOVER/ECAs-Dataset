@@ -1,0 +1,197 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "勤奋",
+            "自我怀疑",
+            "焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "面容憔悴"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "独自散步",
+                "在图书馆学习"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "顺利通过研究生入学考试",
+            "long_term_goals": "成为一名优秀的学者，能够在学术领域有所建树"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后感到沉重，勉强去上课或自习，白天大部分时间都在图书馆或教室里学习，晚上稍微放松一些，但仍然感到焦虑和疲惫。",
+            "weekends": "周末通常会在宿舍里休息，偶尔会去图书馆复习，或者和朋友一起吃饭，但大部分时间还是独处。"
+        },
+        "past_experiences": {
+            "childhood": "小时候成绩优异，但性格内向，不太喜欢与人交往。",
+            "adolescence": "高中时期学习压力大，成绩一直保持在前列，但也因此感到焦虑和疲惫。",
+            "recent_events": "最近两个月由于考研压力，情绪低落，兴趣减退，注意力难以集中，记忆力下降。"
+        },
+        "environment": "出生在一个普通的中产家庭，父母对他期望很高，从小在一个小城市长大，高中毕业后考入省城的一所大学，目前正在准备研究生入学考试。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "马谦会的父亲是一名中学教师，对他期望很高。父亲虽然工作繁忙，但总是抽时间辅导他的功课，父子关系较为亲密。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "马谦会的母亲是一名家庭主妇，性格温和，对他关爱有加。母亲是他情感上的主要依靠，母子关系非常亲密。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "马谦会在小学时有两个好朋友，他们经常一起玩耍，但由于性格内向，他的朋友并不多。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入高中后，马谦会与父亲的关系有所疏远，主要因为学习压力大，父亲对他的期望也更高。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是他情感上的主要支持者，但由于学习压力，马谦会与母亲的交流也减少了。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "高中时期，马谦会有几个同学关系较好，但由于学习压力大，他很少有时间与他们一起玩耍。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "马谦会的班主任和数学老师对他影响较大，他们对他的学习给予了很多帮助和指导。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "进入大学后，马谦会与父亲的联系更少了，主要通过电话和微信交流。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲依然关心他的生活和学习，但由于距离的原因，交流也减少了。"
+                    ]
+                },
+                {
+                    "relationship": "室友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "马谦会的室友是他在大学里最亲近的人，他们经常一起吃饭和讨论学习问题。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 4,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "马谦会在大学里有几个关系较好的同学，但由于性格内向，他并不常与他们一起活动。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "马谦会的导师对他的学术发展给予了很多指导，但由于他自我怀疑和焦虑，导师的帮助效果有限。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "马谦会的社交能力和意愿在不同阶段有明显变化。童年时期，他的社交圈子较小，主要依赖家庭和少数朋友。进入青春期后，学习压力增大，他的社交活动减少，主要集中在学业上。进入大学后，他的社交圈子有所扩大，但由于考研压力和抑郁症状，他的社交意愿和能力再次下降，主要依赖室友和少数同学。"
+    }
+}

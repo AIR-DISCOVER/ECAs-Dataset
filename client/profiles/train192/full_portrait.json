@@ -1,0 +1,186 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "缺乏自信",
+            "勤奋",
+            "善良"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "皮肤较白",
+            "略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "打篮球",
+                "看电影"
+            ],
+            "activity": [
+                "和朋友一起打篮球",
+                "周末去图书馆看书",
+                "听音乐放松心情"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能够顺利通过期末考试，提升自己的学业成绩。",
+            "long_term_goals": "希望未来能够找到一份稳定的工作，成为一个对社会有贡献的人。"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到教室上课，下午在图书馆自习，晚上10点左右回宿舍休息。",
+            "weekends": "周末通常会和朋友一起打篮球，或者去图书馆看书，有时会看电影放松自己。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，从小就被要求好好学习。",
+            "adolescence": "中学时期成绩一直不错，但因为性格内向，朋友不多，常常感到孤独。",
+            "recent_events": "最近和女朋友分手，导致情绪低落，加上学业压力，感觉自己越来越疲惫和无力。"
+        },
+        "environment": "出生在一个小城市，家庭环境较为普通，父母对他的期望很高。现在在一所大学就读，住在学校宿舍。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "薛永政的父亲是一名工厂工人，工作繁忙，但对儿子的教育非常重视。虽然父子之间的交流不多，但父亲总是默默支持着薛永政的学业。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "薛永政的母亲是一名小学教师，性格温和，对儿子充满关爱。她经常在学习上给予薛永政指导，并在生活中给予他无微不至的照顾。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "薛永政在小学时有两个好朋友，他们经常一起玩耍和学习。虽然随着时间的推移，联系变少了，但这些童年的友谊依然在薛永政心中占据重要位置。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入中学后，薛永政与父亲的交流变得更少，父亲对他的期望也越来越高。虽然父亲的关心依旧，但更多的是通过成绩来衡量。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是薛永政最亲近的人，她在他面临学业压力时给予了很多心理上的支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "由于性格内向，薛永政在中学时期的朋友不多，但他有一个关系较好的同学，两人经常一起讨论学习问题。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "薛永政的班主任和数学老师对他影响很大，他们不仅在学业上给予了很多帮助，也在生活中给予了关心。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "薛永政与父亲的关系依然较为疏远，父亲对他的期望依旧很高，但交流依然不多。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是薛永政最亲近的人，她在他与女朋友分手后给予了很多安慰和支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "薛永政在大学里有几个关系较好的朋友，他们经常一起打篮球和学习。虽然朋友们都很关心他，但薛永政有时觉得自己无法完全敞开心扉。"
+                    ]
+                },
+                {
+                    "relationship": "女朋友",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "薛永政与女朋友的关系曾经非常亲密，但由于学业压力和性格问题，两人最终分手。这段感情的结束对薛永政造成了很大的打击。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "薛永政在不同阶段的社会关系发生了显著变化。童年时期，他与父母和朋友的关系较为亲密，但进入中学后，由于学业压力和性格内向，他的朋友变少了，父亲的期望也让他感到压力。进入大学后，虽然他结交了一些新朋友，但与父亲的关系依然疏远，母亲依然是他最亲近的人。最近的分手事件让他感到更加孤独和无助，但他依然在努力维持与朋友和家人的联系。"
+    }
+}

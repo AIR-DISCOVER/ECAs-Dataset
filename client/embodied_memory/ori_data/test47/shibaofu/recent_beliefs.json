@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我是无用的。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须达到高标准。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我不值得被爱。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我有能力克服困难。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法完成任何事情。",
+                "others": "他人不会真正认可我。",
+                "world": "这个世界上没有我的位置。"
+            },
+            "rules": "我应该避免尝试新的挑战，以免失败。",
+            "positive_assumption": "如果我避免尝试，我就不会失败。",
+            "negative_assumption": "如果我尝试，我很可能会失败，证明我无能。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是比别人差。",
+                "others": "他人不会欣赏我的任何努力。",
+                "world": "世界对我没有任何期待。"
+            },
+            "rules": "我不应该期望获得任何成就。",
+            "positive_assumption": "如果我不期望，我就不会失望。",
+            "negative_assumption": "如果我期望获得成就，我会发现自己有多无能。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须完美无缺。",
+                "others": "他人只会认可完美的人。",
+                "world": "世界对不完美的人没有容忍。"
+            },
+            "rules": "我应该在所有方面都表现得完美。",
+            "positive_assumption": "如果我表现完美，我就会被认可。",
+            "negative_assumption": "如果我不完美，我就会被忽视或批评。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的价值取决于我的成绩。",
+                "others": "他人只会根据我的成绩评价我。",
+                "world": "世界对失败者非常苛刻。"
+            },
+            "rules": "我必须时刻保持高水平的表现。",
+            "positive_assumption": "如果我保持高水平，我就会有价值。",
+            "negative_assumption": "如果我表现不佳，我就毫无价值。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得拥有友谊和爱情。",
+                "others": "他人不会真正关心我。",
+                "world": "世界对我充满冷漠。"
+            },
+            "rules": "我不应该依赖他人的情感支持。",
+            "positive_assumption": "如果我不依赖他人，我就不会受伤。",
+            "negative_assumption": "如果我依赖他人，我会被抛弃。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不配被爱。",
+                "others": "他人对我不会有持久的感情。",
+                "world": "世界对我的感情非常短暂。"
+            },
+            "rules": "我应该保持情感距离，避免受伤。",
+            "positive_assumption": "如果我保持距离，我就不会受伤。",
+            "negative_assumption": "如果我敞开心扉，我会被伤害。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我能够面对和解决问题。",
+                "others": "他人可以提供帮助，但我能独立处理问题。",
+                "world": "世界充满挑战，我有能力应对。"
+            },
+            "rules": "我应该勇敢面对问题，积极寻找解决方案。",
+            "positive_assumption": "如果我面对问题，我会变得更强大。",
+            "negative_assumption": "如果我回避问题，我会失去解决问题的能力。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力实现目标。",
+                "others": "他人可能会质疑我，但我能证明自己。",
+                "world": "世界有很多机会，我能抓住它们。"
+            },
+            "rules": "我应该设定明确的目标并努力实现。",
+            "positive_assumption": "如果我设定目标并努力，我会取得成功。",
+            "negative_assumption": "如果我不设定目标，我会迷失方向。"
+        }
+    ]
+}

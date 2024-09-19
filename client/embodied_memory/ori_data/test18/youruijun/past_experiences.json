@@ -1,0 +1,470 @@
+{
+    "childhood": {
+        "name": "尤瑞君",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "记得我上小学一年级时，有一次考试只考了70分。回家后，妈妈看到成绩单，皱着眉头对我说：'这次考得不太好啊，你得更加努力才行。'我顿时感到心里一阵难过和失落，觉得自己不够好。",
+                "location": "家庭客厅",
+                "happen_time": "2009年3月",
+                "participants": "尤瑞君，母亲",
+                "impact": "这次事件强化了'我不够好'的核心信念，并且让尤瑞君感到需要不断努力以赢得父母的认可。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学三年级的一次班级活动中，我准备了很久的演讲稿，却在上台时紧张得说不出话来。老师当着全班同学的面批评了我，让我感到特别羞愧和无助。",
+                "location": "学校教室",
+                "happen_time": "2011年10月",
+                "participants": "尤瑞君，班主任，班级同学",
+                "impact": "这次经历让她更加害怕犯错，形成了避免暴露自身不足的行为模式。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，父母在争论我的学习问题。妈妈说：'你看她这次考试又没考好，我们是不是对她要求太高了？'爸爸则坚持认为：'不行，她必须努力学习才能有出息。'我躲在房间门后，听到这些话，心里觉得压力好大。",
+                "location": "家庭客厅",
+                "happen_time": "2012年5月",
+                "participants": "尤瑞君，父亲，母亲",
+                "impact": "这次事件让尤瑞君感到父母对她期待很高，并且她必须满足这些期望才能获得认可。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我在数学竞赛中获得了一等奖。父母特别高兴，带我去吃了一顿大餐。我感受到父母对我的认可和爱，觉得自己是有能力实现自我价值的。",
+                "location": "家庭餐厅",
+                "happen_time": "2013年11月",
+                "participants": "尤瑞君，父母",
+                "impact": "这次成功的经历强化了尤瑞君'我有能力实现自我价值'的核心信念，增强了她的自信心。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "六年级期末考试，我因为生病没能考好，成绩下滑了很多。父母虽然表示理解，但仍然有些失望。我感受到一股强烈的自责，觉得自己辜负了父母的期望。",
+                "location": "家庭客厅",
+                "happen_time": "2015年1月",
+                "participants": "尤瑞君，父母",
+                "impact": "这次事件让尤瑞君的'我必须满足别人的期望'的核心信念进一步加深，并且加剧了她的内向和敏感性格。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，班级里一位同学因为考试作弊被老师当众批评。我看到那位同学低着头，眼中闪着泪光，心里觉得特别难过，同时也意识到如果犯错会受到多么严厉的惩罚。",
+                "location": "学校教室",
+                "happen_time": "2013年9月",
+                "participants": "尤瑞君，老师，同学",
+                "impact": "这次观察加深了她对于'世界是严格的，只有优秀的人才能获得认可'的信念，她变得更加害怕犯错。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "四年级时，我的好友在一次家庭聚会中被父母夸奖，她的父母希望她能继续保持好成绩。我感到一种羡慕和压力，觉得自己也必须如此才能被父母认可。",
+                "location": "好友家中",
+                "happen_time": "2012年12月",
+                "participants": "尤瑞君，好友，好友的父母",
+                "impact": "这次事件让尤瑞君更加相信'我必须满足父母的期望才能被认可'，并且觉得自己必须时刻努力。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "小学二年级时，我第一次参加班级的才艺表演，虽然准备了很久，但还是很紧张。表演结束后，老师和同学们都给了我很多鼓励，我感到非常开心和自豪。",
+                "location": "学校礼堂",
+                "happen_time": "2010年5月",
+                "participants": "尤瑞君，老师，同学",
+                "impact": "这次积极的经历增强了她的自信心，让她觉得自己有能力通过努力获得认可。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一天，我在家里看到妈妈拿着一封信，脸上露出担忧的神色。后来听到她和爸爸的对话，得知爸爸的工作出了问题，家庭经济状况可能会受到影响。",
+                "location": "家庭客厅",
+                "happen_time": "2014年3月",
+                "participants": "尤瑞君，父母",
+                "impact": "这次事件让尤瑞君感受到家庭的压力和不确定性，增加了她对未来的焦虑感。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，叔叔阿姨们都在夸奖他们的孩子成绩好，我感到自己被忽视，心里特别难过。回家后，我下定决心要更加努力学习。",
+                "location": "亲戚家中",
+                "happen_time": "2013年8月",
+                "participants": "尤瑞君，父母，叔叔阿姨",
+                "impact": "这次事件强化了尤瑞君'我必须满足别人的期望'的核心信念，并促使她更加努力学习。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "一次学校的运动会上，我看到一位平时成绩不好的同学在跑步比赛中获得了第一名，老师夸奖了他，同学们也为他欢呼。这让我意识到不仅仅成绩，其他方面的表现也能得到认可。",
+                "location": "学校操场",
+                "happen_time": "2014年10月",
+                "participants": "尤瑞君，同学，老师",
+                "impact": "这次事件让尤瑞君认识到除了学习，其他方面的努力也能获得认可，稍微缓解了她对学业的压力。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "五年级的一次小测验中，我因为紧张而失误，成绩不理想。老师当着全班同学的面批评了我，我感到非常羞愧和无助，害怕再次犯错。",
+                "location": "学校教室",
+                "happen_time": "2013年4月",
+                "participants": "尤瑞君，老师，同学",
+                "impact": "这次事件让尤瑞君的'如果我犯错了，我就证明了我不够好'的信念进一步加深，增加了她的敏感和不自信。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我参加了学校的科学竞赛，并且获得了一等奖。父母非常高兴，带我去吃了一顿大餐。我感受到父母对我的认可和爱，觉得自己是有能力实现自我价值的。",
+                "location": "家庭餐厅",
+                "happen_time": "2015年5月",
+                "participants": "尤瑞君，父母",
+                "impact": "这次成功的经历强化了尤瑞君'我有能力实现自我价值'的核心信念，增强了她的自信心。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里看到妈妈在厨房里忙碌，脸上露出疲惫的神色。后来听到她和爸爸的对话，得知妈妈在工作上遇到了很多困难，压力很大。",
+                "location": "家庭厨房",
+                "happen_time": "2014年7月",
+                "participants": "尤瑞君，母亲，父亲",
+                "impact": "这次事件让尤瑞君感受到家庭的压力和不确定性，增加了她对未来的焦虑感。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "四年级时，我的好友在一次家庭聚会中被父母夸奖，她的父母希望她能继续保持好成绩。我感到一种羡慕和压力，觉得自己也必须如此才能被父母认可。",
+                "location": "好友家中",
+                "happen_time": "2012年12月",
+                "participants": "尤瑞君，好友，好友的父母",
+                "impact": "这次事件让尤瑞君更加相信'我必须满足父母的期望才能被认可'，并且觉得自己必须时刻努力。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "尤瑞君",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "中学时期，尤瑞君第一次考试失利，成绩比预期差很多。老师在课堂上批评了她，而同学们在私下议论她的成绩。",
+                "location": "中学校园",
+                "happen_time": "2016年11月",
+                "participants": "尤瑞君、老师、同学",
+                "impact": "这次事件强化了尤瑞君的核心信念‘我不够好’，并使她更加在意他人的评价，形成了中间信念‘我需要他人的肯定才能觉得自己是有价值的’。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "尤瑞君在家里和父母谈论未来的职业规划时，父母对她的选择表示不满，认为她应该选择更有前途的专业。",
+                "location": "家中客厅",
+                "happen_time": "2017年4月",
+                "participants": "尤瑞君、父母",
+                "impact": "父母的高期望和不理解让尤瑞君感到压力和挫败，强化了她的核心信念‘我必须满足别人的期望’，并增加了她对未来的不确定感。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "尤瑞君在学校观察到一位平时成绩不太好的同学因一次比赛取得好成绩而受到大家的赞扬和老师的表扬。",
+                "location": "学校操场",
+                "happen_time": "2017年9月",
+                "participants": "尤瑞君、同学、老师",
+                "impact": "这次观察让尤瑞君意识到表现和成绩的重要性，进一步强化了她的中间信念‘我必须时刻努力，争取别人的认可’。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "尤瑞君在一次班级活动中因为害羞没有积极参与，结果被同学们忽视，老师也没有特别关注她。",
+                "location": "学校教室",
+                "happen_time": "2018年1月",
+                "participants": "尤瑞君、同学、老师",
+                "impact": "这次经历让尤瑞君更加觉得自己不够好，强化了她的中间信念‘如果我没能取得好成绩，那是因为我不够好’。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "尤瑞君看到父母为了经济压力而争吵，母亲哭泣，父亲沉默不语。",
+                "location": "家中客厅",
+                "happen_time": "2018年5月",
+                "participants": "尤瑞君、父母",
+                "impact": "这次事件让尤瑞君感到家庭的不稳定，增加了她对未来的担忧，强化了‘我需要不断努力，满足父母的期望’的信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "尤瑞君在一次重要考试中取得了优异成绩，获得了父母和老师的一致表扬。",
+                "location": "学校教室",
+                "happen_time": "2018年10月",
+                "participants": "尤瑞君、父母、老师",
+                "impact": "这次事件增强了尤瑞君的自信心，暂时缓解了‘我不够好’的核心信念，但也强化了‘我需要他人的肯定才能觉得自己是有价值的’的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "尤瑞君因为一次小组作业表现出色，被老师选为班级代表参加学校的项目展示。",
+                "location": "学校教室",
+                "happen_time": "2019年3月",
+                "participants": "尤瑞君、老师、同学",
+                "impact": "这次经历让尤瑞君感到成就感，强化了她的信念‘我有能力通过努力实现自我价值’。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "尤瑞君在一次同学聚会上因为不擅长社交而感到孤立，回到宿舍后情绪低落。",
+                "location": "同学家中",
+                "happen_time": "2019年8月",
+                "participants": "尤瑞君、同学",
+                "impact": "这次经历让尤瑞君更加不愿意参加社交活动，强化了她的中间信念‘如果我没能取得好成绩，那是因为我不够好’。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "尤瑞君看到一位好友因为未能达到父母的期望而被严厉批评，好友因此情绪低落。",
+                "location": "好友家中",
+                "happen_time": "2020年1月",
+                "participants": "尤瑞君、好友、好友父母",
+                "impact": "这次事件让尤瑞君更加害怕不能满足父母的期望，进一步强化了‘我必须满足父母的期望才能被认可’的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "尤瑞君在大学申请过程中因为分数不够理想，未能进入心仪的学校。",
+                "location": "家中",
+                "happen_time": "2020年6月",
+                "participants": "尤瑞君、父母",
+                "impact": "这次经历让尤瑞君感到挫败，强化了她的核心信念‘我不够好’，并增加了她对未来的不确定感。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "尤瑞君在大学的第一次大考中取得了不错的成绩，获得了老师的表扬和同学的认可。",
+                "location": "大学教室",
+                "happen_time": "2021年3月",
+                "participants": "尤瑞君、老师、同学",
+                "impact": "这次经历让尤瑞君感到自信，暂时缓解了‘我不够好’的核心信念，但也强化了‘我需要他人的肯定才能觉得自己是有价值的’的中间信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "尤瑞君在宿舍楼下看到一名同学因为被拒绝实习机会而哭泣，意识到竞争的残酷。",
+                "location": "大学宿舍楼下",
+                "happen_time": "2021年6月",
+                "participants": "尤瑞君、同学",
+                "impact": "这次观察让尤瑞君感到压力，进一步强化了‘世界是竞争激烈的，只有优秀的人才能被认可’的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "尤瑞君在一次实习面试中被拒绝，感到非常挫败和失落。",
+                "location": "公司办公室",
+                "happen_time": "2021年9月",
+                "participants": "尤瑞君、面试官",
+                "impact": "这次经历让尤瑞君感到自己不够好，强化了她的核心信念‘我不够好’和中间信念‘如果我没能取得好成绩，那是因为我不够好’。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "尤瑞君看到一位同学因为长期努力而获得了实习机会，受到大家的称赞。",
+                "location": "大学校园",
+                "happen_time": "2021年11月",
+                "participants": "尤瑞君、同学",
+                "impact": "这次观察让尤瑞君意识到努力的重要性，强化了‘我有能力通过努力实现自我价值’的中间信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "尤瑞君在期末考试中取得了优异成绩，获得了奖学金，这让她感到非常自豪。",
+                "location": "大学教室",
+                "happen_time": "2021年12月",
+                "participants": "尤瑞君、老师、同学",
+                "impact": "这次经历让尤瑞君感到自己有能力实现自我价值，增强了她的自信心，暂时缓解了‘我不够好’的核心信念。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "尤瑞君",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在2021年9月第一次参加大学迎新活动，感到很紧张，因为不认识很多人。在活动中，我尝试和同学们交流，但感觉自己很不自在，觉得他们都比我自信、开朗。",
+                "location": "大学校园",
+                "happen_time": "2021年9月",
+                "participants": "新同学",
+                "impact": "这次活动让我意识到自己的社交能力有待提高，增强了我对自我价值的不确定感。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2021年10月，我第一次参加大学里的学术讲座。虽然内容非常有趣，但我却不敢在问答环节提问，害怕自己会显得愚蠢。",
+                "location": "大学讲堂",
+                "happen_time": "2021年10月",
+                "participants": "讲师、同学",
+                "impact": "这种害怕提问的经历加深了我对自己能力的怀疑，认为自己不够好。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到室友在2021年11月找到了实习机会，她们分享了实习经历和学到的东西，我感到自己与她们的差距越来越大。",
+                "location": "宿舍",
+                "happen_time": "2021年11月",
+                "participants": "室友",
+                "impact": "室友的成功让我感到压力，担心自己无法达到她们的水平，强化了“我不够好”的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2022年1月，我期末考试成绩不理想，父母因此对我表示失望，让我感到自己没有满足他们的期望。",
+                "location": "家里",
+                "happen_time": "2022年1月",
+                "participants": "父母",
+                "impact": "父母的失望加重了我的自责感，让我更加相信自己必须满足别人的期望才能被认可。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2022年3月，我参加了一次社团活动，虽然很努力地参与，但感觉自己很难融入群体，觉得自己被忽视。",
+                "location": "大学社团活动室",
+                "happen_time": "2022年3月",
+                "participants": "社团成员",
+                "impact": "这种被忽视的感觉强化了我对自我价值的怀疑，进一步加深了我的社交焦虑。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2022年5月，我看到一个同学因为压力过大而崩溃，这让我意识到大学生活的压力和竞争有多么激烈。",
+                "location": "大学校园",
+                "happen_time": "2022年5月",
+                "participants": "同学",
+                "impact": "这件事让我更加担心自己无法应对压力，认为自己必须避免失败，否则会面临同样的崩溃。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2022年7月，我和两个好朋友一起去看电影，度过了一个愉快的夜晚，让我暂时忘却了学业和实习的压力。",
+                "location": "电影院",
+                "happen_time": "2022年7月",
+                "participants": "好朋友",
+                "impact": "这次愉快的经历让我感到被支持和理解，暂时缓解了我的焦虑感。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2023年1月，我第二次尝试申请实习，但再次被拒绝，感到非常挫败和失落。",
+                "location": "宿舍",
+                "happen_time": "2023年1月",
+                "participants": "无",
+                "impact": "连续的拒绝让我怀疑自己的能力，进一步强化了“我不够好”的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年3月，我注意到一个同学在学术会议上发表了精彩的演讲，赢得了大家的掌声。这让我感到自己与她的差距。",
+                "location": "学术会议",
+                "happen_time": "2023年3月",
+                "participants": "同学、观众",
+                "impact": "这次观察让我更加觉得自己需要不断努力来赢得别人的认可，否则就会觉得自己一无是处。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2023年5月，我向父母汇报了自己申请实习被拒的情况，他们表现出理解和安慰，但我仍然感到自己辜负了他们的期望。",
+                "location": "家里",
+                "happen_time": "2023年5月",
+                "participants": "父母",
+                "impact": "父母的安慰虽然暂时缓解了我的压力，但我内心仍然觉得自己没有满足他们的期望。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年7月，我参加了一次校外实习面试，虽然表现得很努力，但面试官的反馈让我觉得自己表现不佳，再次感到挫败。",
+                "location": "公司办公室",
+                "happen_time": "2023年7月",
+                "participants": "面试官",
+                "impact": "这次面试经验进一步强化了我对自己能力的怀疑，觉得自己无法实现自我价值。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在2023年8月，我看到一个同学因为实习表现优异而获得了公司的正式工作邀请，这让我感到非常羡慕和压力。",
+                "location": "校园",
+                "happen_time": "2023年8月",
+                "participants": "同学、公司代表",
+                "impact": "这件事让我更加强烈地感受到自己需要不断努力，以满足别人的期望和证明自己的价值。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年12月，我在期末考试中取得了优异成绩，感到非常开心和自豪，觉得自己的努力得到了回报。",
+                "location": "大学校园",
+                "happen_time": "2023年12月",
+                "participants": "同学、老师",
+                "impact": "这次成功的经历增强了我的自信心，让我相信自己有能力通过努力实现自我价值。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年1月，我在寒假期间主动参加了一些志愿活动，虽然很累，但觉得自己在帮助别人，感到很有成就感。",
+                "location": "社区中心",
+                "happen_time": "2024年1月",
+                "participants": "志愿者、社区居民",
+                "impact": "这次志愿活动让我感到自己是有价值的，增强了我的自信心和社会责任感。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2024年3月，我第三次申请实习又被拒绝，这次我感到非常沮丧，甚至有了放弃的念头。",
+                "location": "宿舍",
+                "happen_time": "2024年3月",
+                "participants": "无",
+                "impact": "多次的拒绝让我开始质疑自己的能力，感到前途渺茫，并加剧了我的焦虑感。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2024年5月，我参加了一场职业规划讲座，虽然讲座内容非常实用，但我仍然感到自己在实际操作中可能无法做到。",
+                "location": "大学讲堂",
+                "happen_time": "2024年5月",
+                "participants": "讲师、同学",
+                "impact": "这次讲座让我意识到自己需要更多的实际经验，但也加剧了我对未来的不确定感。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年7月，我听说一个同学因为考试压力太大而辍学，这让我感到非常震惊和担忧。",
+                "location": "大学校园",
+                "happen_time": "2024年7月",
+                "participants": "同学",
+                "impact": "这件事让我更加担心自己也会陷入类似的困境，增加了我的压力和焦虑感。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2024年8月，我终于成功申请到了一个实习机会，感到非常开心和激动，同时也有些紧张。",
+                "location": "公司办公室",
+                "happen_time": "2024年8月",
+                "participants": "面试官",
+                "impact": "这次成功的申请增强了我的自信心，让我觉得自己的努力终于得到了回报，也让我对未来充满希望。"
+            }
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不值得被爱。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我是无能的。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我必须对他人负责。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我是有价值的。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我需要寻求帮助，那就意味着我不值得被爱。",
+                "others": "他人不会真正理解或关心我。",
+                "world": "在这个世界上，每个人都应该自己处理自己的问题。"
+            },
+            "rules": "我应该避免寻求他人的帮助。",
+            "positive_assumption": "如果我避免寻求帮助，我就能表现得更强大。",
+            "negative_assumption": "如果我寻求帮助，我就会被视为软弱和不值得被爱。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得被他人珍惜和关心。",
+                "others": "他人只会在意自己的事情，不会关心我的感受。",
+                "world": "世界是冷漠无情的。"
+            },
+            "rules": "我应该尽量减少表达自己的情感和需求。",
+            "positive_assumption": "如果我不表达自己的需求，我就不会被拒绝。",
+            "negative_assumption": "如果我表达自己的需求，我会被忽视和拒绝。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法胜任自己的工作和生活。",
+                "others": "他人会发现我的无能。",
+                "world": "这个世界充满了我无法应对的挑战。"
+            },
+            "rules": "我应该避免承担新的责任和任务。",
+            "positive_assumption": "如果我不承担新的责任，我就不会失败。",
+            "negative_assumption": "如果我承担新的责任，我会暴露我的无能。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是做得不够好。",
+                "others": "他人总是比我更有能力。",
+                "world": "世界是对我不利的。"
+            },
+            "rules": "我应该避免与他人比较。",
+            "positive_assumption": "如果我不与他人比较，我会减少压力。",
+            "negative_assumption": "如果我与他人比较，我会更加显得无能。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须对他人的幸福负责。",
+                "others": "如果我不帮助他人，他们会失望。",
+                "world": "世界需要我付出更多。"
+            },
+            "rules": "我应该尽力满足他人的期望。",
+            "positive_assumption": "如果我满足了他人的期望，我会被认可。",
+            "negative_assumption": "如果我不能满足他人的期望，我会被责备。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我应该牺牲自己来帮助他人。",
+                "others": "他人的需求比我更重要。",
+                "world": "世界需要更多的奉献。"
+            },
+            "rules": "我应该把他人的需求放在第一位。",
+            "positive_assumption": "如果我帮助他人，我会感到有价值。",
+            "negative_assumption": "如果我不帮助他人，我会感到内疚。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我是有能力解决问题的。",
+                "others": "他人可以给予我帮助，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我能够克服困难并取得成功。",
+                "others": "他人会尊重我的努力和成就。",
+                "world": "世界是公平的，努力会有回报。"
+            },
+            "rules": "我应该积极面对困难并寻求解决办法。",
+            "positive_assumption": "如果我积极面对困难，我会取得成功。",
+            "negative_assumption": "如果我逃避困难，我会错失成功的机会。"
+        }
+    ]
+}

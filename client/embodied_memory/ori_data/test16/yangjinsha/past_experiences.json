@@ -1,0 +1,581 @@
+{
+    "childhood": {
+        "name": "杨锦莎",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我在小学一年级的时候，一次数学考试得了100分，老师在全班同学面前表扬了我，并把我的试卷贴在了教室的公告栏上。",
+                "location": "小学教室",
+                "happen_time": "1981年9月",
+                "participants": "杨锦莎, 老师, 同学",
+                "impact": "这种正面的鼓励让我更加坚定了‘我在学习上必须表现出色’的核心信念，进一步激励了我努力学习。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "二年级的一次班会课上，老师让大家分享自己的兴趣爱好。我自豪地告诉大家我喜欢阅读和摄影，得到了同学们的认同。",
+                "location": "小学教室",
+                "happen_time": "1982年4月",
+                "participants": "杨锦莎, 老师, 同学",
+                "impact": "这次经历强化了‘我应该有一些兴趣爱好来丰富我的生活’这一核心信念，让我更加注重培养自己的兴趣。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "三年级的一天，我在家里复习功课时，妈妈走进来，看到我努力学习，她微笑着摸了摸我的头，说：‘锦莎，你真是个懂事的好孩子。’",
+                "location": "家里",
+                "happen_time": "1983年3月",
+                "participants": "杨锦莎, 妈妈",
+                "impact": "妈妈的夸奖让我感到温暖和被认可，进一步加强了‘我值得被家人和朋友爱戴’的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "四年级的一次考试中，我因为记忆力下降，成绩不如预期，老师在讲评试卷时提到我没有发挥好。",
+                "location": "小学教室",
+                "happen_time": "1984年5月",
+                "participants": "杨锦莎, 老师, 同学",
+                "impact": "这次经历让我开始担心‘我的记忆力是我学习成功的关键’这一核心信念受到威胁，产生了‘我的记忆力下降会影响我的学习成绩’的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "一次家庭聚会上，我主动给家人盛饭，大家都夸我懂事、能干。",
+                "location": "家里",
+                "happen_time": "1985年春节",
+                "participants": "杨锦莎, 家人",
+                "impact": "这次经历让我感到自己有能力提供爱和支持，进一步强化了‘我值得被家人和朋友爱戴’的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我坐在房间里，听见客厅里爸爸和妈妈在讨论如何筹钱让我上补习班。爸爸说：‘我们再辛苦也要让锦莎好好学习，不能让她输在起跑线上。’",
+                "location": "家里",
+                "happen_time": "1984年11月",
+                "participants": "杨锦莎, 爸爸, 妈妈",
+                "impact": "这次对话让我意识到父母对我学习的重视和期望，进一步加深了‘我在学习上必须表现出色’的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一天，我看到邻居家的孩子因为考试成绩差被父母严厉责备，那孩子哭得很伤心。",
+                "location": "邻居家",
+                "happen_time": "1985年6月",
+                "participants": "杨锦莎, 邻居家的孩子, 邻居",
+                "impact": "这次经历让我更加害怕成绩不好会让父母失望，强化了‘我必须始终努力学习，取得好成绩’的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "五年级的一次学校摄影比赛中，我的作品获得了一等奖，同学们纷纷向我祝贺，老师也表扬了我。",
+                "location": "学校",
+                "happen_time": "1985年10月",
+                "participants": "杨锦莎, 老师, 同学",
+                "impact": "这次成功的经历让我更加热爱摄影，也增强了‘我应该有一些兴趣爱好来丰富我的生活’的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在街上看到一个卖花的老人，他讲述了自己种花的乐趣，并送给我一盆小花。",
+                "location": "街上",
+                "happen_time": "1986年4月",
+                "participants": "杨锦莎, 卖花的老人",
+                "impact": "这次经历让我对园艺产生了兴趣，进一步丰富了我的兴趣爱好，强化了‘我应该积极寻找新的兴趣点，保持生活的乐趣’的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "六年级的一次家长会上，老师表扬了我的学习成绩和积极参与班级活动的表现，我看到父母脸上露出了骄傲的笑容。",
+                "location": "学校教室",
+                "happen_time": "1986年6月",
+                "participants": "杨锦莎, 老师, 父母",
+                "impact": "这次经历让我感到自己的努力得到了认可，进一步加强了‘我在学习上必须表现出色’的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "一次放学后，我和朋友在公园里玩耍，我们一起讨论各自的梦想和兴趣爱好。",
+                "location": "公园",
+                "happen_time": "1985年9月",
+                "participants": "杨锦莎, 朋友",
+                "impact": "这次经历让我感到朋友之间的支持和互相理解，进一步强化了‘我值得被家人和朋友爱戴’的核心信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里看到妈妈因为工作压力而感到疲惫和沮丧，她向爸爸倾诉自己的烦恼，爸爸安慰她，并提出一起出去散步放松心情。",
+                "location": "家里",
+                "happen_time": "1985年12月",
+                "participants": "杨锦莎, 爸爸, 妈妈",
+                "impact": "这次经历让我意识到劳逸结合的重要性，也让我感受到家庭成员之间的关爱和支持，进一步强化了‘关爱他人是获得爱和尊重的基础’的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "一次生物课上，老师带我们到学校的花园里观察植物，并讲解了植物的生长过程。我对植物的生长产生了浓厚的兴趣。",
+                "location": "学校花园",
+                "happen_time": "1984年10月",
+                "participants": "杨锦莎, 老师, 同学",
+                "impact": "这次经历让我对园艺产生了兴趣，丰富了我的兴趣爱好，进一步强化了‘我应该积极寻找新的兴趣点，保持生活的乐趣’的中间信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到爸爸为了家里的经济问题而烦恼，他和妈妈商量如何节省开支，让我继续上补习班。",
+                "location": "家里",
+                "happen_time": "1985年5月",
+                "participants": "杨锦莎, 爸爸, 妈妈",
+                "impact": "这次经历让我意识到父母对我学习的重视和期望，进一步加深了‘我在学习上必须表现出色’的核心信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "六年级的一次语文考试中，我因为记忆力下降，作文部分写得不好，老师在讲评时批评了我。",
+                "location": "小学教室",
+                "happen_time": "1986年3月",
+                "participants": "杨锦莎, 老师",
+                "impact": "这次经历让我对自己的记忆力产生了怀疑，进一步强化了‘我的记忆力是我学习成功的关键’的核心信念，并引发了‘我的记忆力下降会影响我的学习成绩’的中间信念。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "杨锦莎",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在一次语文课上，我的作文被语文老师当作范文朗读。老师特别表扬了我的文学才华，并且鼓励我继续努力。这让我感到非常自豪和被认可。",
+                "location": "南京市某中学，语文教室",
+                "happen_time": "1987年9月",
+                "participants": "语文老师，同学",
+                "impact": "这次经历强化了我对文学和艺术的兴趣，让我更加自信，并坚定了我继续在这些领域努力的决心。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "中学第一次期末考试，我取得了全班第一的好成绩。老师和同学们都对我表示祝贺，这让我感受到学业上的成功感。",
+                "location": "南京市某中学，教室",
+                "happen_time": "1987年12月",
+                "participants": "班主任， 同学们",
+                "impact": "这次高分成绩强化了我在学业上必须有价值的核心信念，并让我更加努力学习以保持优秀成绩。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "在一次学校的文艺汇演中，我参加了诗歌朗诵节目，表现出色，赢得了老师和同学们的热烈掌声。",
+                "location": "南京市某中学，学校礼堂",
+                "happen_time": "1988年5月",
+                "participants": "语文老师，同学们，家长们",
+                "impact": "这次表演增强了我的自信心，并让我感受到自己在文学和艺术方面的独特价值。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一位平时成绩不好的同学因为考试成绩差而被老师批评。这让我感到成绩的重要性。",
+                "location": "南京市某中学，教室",
+                "happen_time": "1988年10月",
+                "participants": "老师，同学",
+                "impact": "这次观察让我更加意识到保持良好成绩的重要性，增强了我对“成绩差的人会被忽视”这一信念的认同。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在一次班级活动中，我主动组织了一次文学讨论会，讨论会非常成功，大家都对我的组织能力表示赞赏。",
+                "location": "南京市某中学，教室",
+                "happen_time": "1989年3月",
+                "participants": "同学们，班主任",
+                "impact": "这次活动让我感受到自己在同学中的影响力，增强了我对文学和艺术的兴趣，并坚定了我继续努力的决心。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在一次模拟考试中，我因为记忆力下降，成绩不理想，感到非常沮丧和压力。",
+                "location": "南京市某中学，教室",
+                "happen_time": "1989年11月",
+                "participants": "班主任，同学",
+                "impact": "这次考试失利让我对自己的记忆力产生了怀疑，并开始担心自己能否继续保持优异成绩，增加了心理压力。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "在一次学校的家长会上，我看到一位家长因为孩子成绩优秀而被老师夸奖，这让我感受到学业成功对家庭的重要性。",
+                "location": "南京市某中学，教室",
+                "happen_time": "1990年4月",
+                "participants": "老师，家长们，同学们",
+                "impact": "这次家长会强化了我对学业成功的追求，增加了我对“我在学业上必须有价值”这一信念的认同。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "高二时，我参加了一次市级的作文比赛，最终获得了二等奖，这让我感到非常自豪。",
+                "location": "南京市某中学，语文教室",
+                "happen_time": "1990年12月",
+                "participants": "语文老师，参赛同学，评委",
+                "impact": "这次获奖经历让我更加坚定了自己在文学领域的信心和兴趣，增强了自我的价值感。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "高三时，我的记忆力再次出现问题，复习过程非常吃力，感到非常焦虑和不安。",
+                "location": "南京市某中学，家庭书房",
+                "happen_time": "1991年4月",
+                "participants": "父母，班主任",
+                "impact": "这次经历让我对自己的学业成功产生了怀疑，增加了心理压力和焦虑感。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一位平时成绩优异的同学因为一时失误考试不及格，感到非常沮丧。",
+                "location": "南京市某中学，教室",
+                "happen_time": "1991年10月",
+                "participants": "同学，老师",
+                "impact": "这次观察让我意识到即使是成绩优秀的人也会有失败的时候，开始反思对学业成功的过度追求。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "高三毕业典礼上，我被评为优秀毕业生，校长亲自为我颁奖，感到非常光荣。",
+                "location": "南京市某中学，学校礼堂",
+                "happen_time": "1992年6月",
+                "participants": "校长，班主任，同学们，家长们",
+                "impact": "这次荣誉让我感受到自己努力的回报，并进一步坚定了我对自我价值的信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会中，我听到亲戚们讨论某个亲戚因为学业不佳而找不到好工作的事情。",
+                "location": "南京市，家庭聚会",
+                "happen_time": "1992年8月",
+                "participants": "亲戚们",
+                "impact": "这次对话让我意识到学业成功对未来职业的重要性，增加了我对学业的重视。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "大学入学考试公布成绩时，我顺利考上了北京的一所重点大学，感到非常高兴和满足。",
+                "location": "南京市，家庭",
+                "happen_time": "1992年7月",
+                "participants": "父母，班主任",
+                "impact": "这次成功让我感受到自己努力学习的回报，并进一步强化了对学业成功的信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在高三期末考试前，我感到极大的压力和焦虑，不断担心自己无法取得好成绩。",
+                "location": "南京市某中学，家庭书房",
+                "happen_time": "1992年3月",
+                "participants": "父母，班主任",
+                "impact": "这次经历让我意识到自己对学业成功的过度追求带来的负面心理影响，开始反思自己的核心信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "在一次学校的心理健康讲座中，讲师讲述了应对学业压力的方法，这让我开始关注自己的心理健康。",
+                "location": "南京市某中学，学校礼堂",
+                "happen_time": "1992年4月",
+                "participants": "心理学讲师，同学们",
+                "impact": "这次讲座让我意识到心理健康的重要性，开始尝试寻找缓解压力的方法。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "杨锦莎",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "大学第一天，我站在北京师范大学的校园里，感觉到新环境带来的兴奋和不安。迎新会上，我结识了几位同学，我们很快成为了朋友。",
+                "location": "北京师范大学",
+                "happen_time": "1993年9月",
+                "participants": "大学同学",
+                "impact": "这次迎新会让我感受到友谊和支持的重要性，增强了对未来四年学习生活的信心。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "大二时，我选择了教育心理学作为我的专业方向。导师对我说，'你有很大的潜力成为一名出色的教师。'这句话让我坚定了成为教师的决心。",
+                "location": "北京师范大学",
+                "happen_time": "1994年10月",
+                "participants": "大学导师",
+                "impact": "导师的肯定增强了我的自信心，进一步坚定了我在教育行业发展的信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "大三时，我和几位同学一起参加了教育实践活动。在一次课堂教学中，我成功地吸引了学生们的注意力，课后学生们对我说，'老师，你讲得真好！'",
+                "location": "北京某中学",
+                "happen_time": "1995年5月",
+                "participants": "大学同学、实践学校的学生",
+                "impact": "这次实践经历让我感受到教学的乐趣和成就感，强化了我在工作上的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "大学毕业时，我和同学们在毕业典礼上互相鼓励，大家都在憧憬未来的职业生涯。我的导师对我说，'记住，教育是你一生的事业。'",
+                "location": "北京师范大学",
+                "happen_time": "1997年6月",
+                "participants": "大学同学、导师",
+                "impact": "毕业典礼上的话语让我深刻意识到教育事业的重要性，进一步强化了我在工作中的责任感。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "刚开始在南京的中学工作时，我感到压力很大。一次备课时，我突然感到头脑一片空白，忘记了一些重点内容。这让我非常沮丧。",
+                "location": "南京某中学",
+                "happen_time": "1997年9月",
+                "participants": "同事",
+                "impact": "这次经历让我意识到记忆力的重要性，开始更加注重提高自己的专业技能和记忆能力。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "在一次教职工会议上，我观察到一位资深教师因为讲课内容生动被全校赞扬。这让我意识到教学方法的重要性。",
+                "location": "南京某中学",
+                "happen_time": "1998年5月",
+                "participants": "学校同事",
+                "impact": "这次观察使我更加注重教学技巧，努力提高自己的教学水平。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "1999年，我结婚了。婚礼上，家人和朋友们的祝福让我感到无比幸福和满足。",
+                "location": "南京",
+                "happen_time": "1999年10月",
+                "participants": "家人、朋友、丈夫",
+                "impact": "婚礼让我感受到被爱和支持的重要性，强化了我对家人和朋友的关爱之情。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "2001年，我的第一个孩子出生。看着他的小脸蛋，我感到无比的幸福和责任。",
+                "location": "南京某医院",
+                "happen_time": "2001年4月",
+                "participants": "家人",
+                "impact": "孩子的出生让我感受到生命的奇迹，同时也增加了我对家庭责任的认知。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "2003年，我在学校的教学评比中获得了优秀教师的称号，校长在颁奖典礼上说，'杨老师的教学方法独特，深受学生喜爱。'",
+                "location": "南京某中学",
+                "happen_time": "2003年6月",
+                "participants": "学校领导、同事、学生",
+                "impact": "这次荣誉极大地增强了我的自信心，进一步坚定了我在教育事业中的价值感。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "2005年，我参加了一次摄影展览，展示了自己拍摄的作品。许多观众对我的作品赞不绝口。",
+                "location": "南京某展览馆",
+                "happen_time": "2005年9月",
+                "participants": "摄影爱好者、家人、朋友",
+                "impact": "这次展览让我感受到兴趣爱好的乐趣，增强了我对生活的热爱。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会上，我看到父母在与亲戚交流时，表达了对我工作的骄傲和认可。",
+                "location": "南京家中",
+                "happen_time": "2006年春节",
+                "participants": "父母、亲戚",
+                "impact": "父母的认可让我感受到家庭的支持和自豪感，增强了我的自信心。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "2007年，我的第二个孩子出生，家庭生活变得更加忙碌和充实。",
+                "location": "南京某医院",
+                "happen_time": "2007年3月",
+                "participants": "家人",
+                "impact": "第二个孩子的出生让我感到幸福，同时也增加了我对家庭的责任感。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "2008年，我在一次学校组织的教学研讨会上，提出了自己的教学理念，得到了同行们的认可和赞扬。",
+                "location": "南京某中学",
+                "happen_time": "2008年5月",
+                "participants": "学校同事",
+                "impact": "这次研讨会让我感受到专业领域中的成就感，进一步坚定了我在教育事业中的信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "在一次家长会上，我观察到一位家长对孩子的关爱和期望，这让我意识到家庭教育的重要性。",
+                "location": "南京某中学",
+                "happen_time": "2009年10月",
+                "participants": "家长、学生、同事",
+                "impact": "这次观察使我更加注重与学生家长的沟通和合作，提升了我的教学效果。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "2009年，我在学校的年度总结会上被评为年度最佳教师，校长在颁奖时说，'杨老师的努力和奉献值得我们每个人学习。'",
+                "location": "南京某中学",
+                "happen_time": "2009年12月",
+                "participants": "学校领导、同事、学生",
+                "impact": "这次殊荣让我感受到极大的满足和成就感，进一步增强了我在工作中的价值感。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "杨锦莎",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年1月，我在学校的期末考试期间，忘记了重要的考试安排，导致学生们在考场外等待了半个小时。同事们表现出担心和困惑，我感到非常羞愧和无助。",
+                "location": "学校",
+                "happen_time": "2024年1月",
+                "participants": "同事、学生",
+                "impact": "这次事件加深了我对自己工作能力的怀疑，强化了核心信念'我在工作上不再有价值'和中间信念'我必须尽全力保持高水平的工作能力'。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我忘记了一个重要的家庭活动安排，家人们虽然没有责怪我，但我感觉到他们的失望和担忧。我的丈夫安慰我，但我仍然感到非常沮丧。",
+                "location": "家中",
+                "happen_time": "2024年2月",
+                "participants": "家人",
+                "impact": "这次事件让我更加担心自己的记忆力问题，强化了核心信念'我的记忆力正在逐渐衰退'和中间信念'如果我不能改善记忆力，我会变得越来越无能'。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在学校的一次教师会议上，我注意到一位同事因工作表现不佳而被批评，这让我更加担心自己的工作能力，害怕自己也会成为被批评的对象。",
+                "location": "学校会议室",
+                "happen_time": "2024年3月",
+                "participants": "同事",
+                "impact": "这次事件加重了我对工作失去信心的担忧，强化了中间信念'同事们可能会认为我已经不再胜任这份工作'。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次摄影俱乐部的活动中，我发现自己对拍摄题材没有任何灵感，甚至对以往喜欢的拍摄技巧也失去了兴趣，这让我感到非常沮丧和无助。",
+                "location": "摄影俱乐部",
+                "happen_time": "2024年4月",
+                "participants": "摄影俱乐部成员",
+                "impact": "这次事件强化了核心信念'我对生活的乐趣正在流失'和中间信念'如果我不能恢复兴趣，我的生活将变得单调乏味'。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与学生的交流中，我突然忘记了一个重要的教学内容，这让我感到非常尴尬和无助，学生们的困惑和担心让我更加挫败。",
+                "location": "教室",
+                "happen_time": "2024年5月",
+                "participants": "学生",
+                "impact": "这次事件进一步加深了我对自己教学能力的怀疑，强化了核心信念'我在工作上不再有价值'和中间信念'如果我不能有效工作，我就是失败的'。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚餐中，我注意到母亲提到她记忆力下降的问题，这让我联想到自己的情况并感到更加担忧。",
+                "location": "家中",
+                "happen_time": "2024年6月",
+                "participants": "母亲、家人",
+                "impact": "这次事件让我更加担心记忆力问题的不可逆性，强化了中间信念'记忆力衰退是不可避免的老化过程'。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与朋友的聚会上，我发现自己对他们的话题毫无兴趣，甚至感到厌倦，这让我感到自己正在失去与他人的联系。",
+                "location": "朋友家",
+                "happen_time": "2024年7月",
+                "participants": "朋友",
+                "impact": "这次事件加深了我对自己生活质量下降的担忧，强化了核心信念'我对生活的乐趣正在流失'和中间信念'如果我不能恢复兴趣，我的生活将变得单调乏味'。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭讨论中，我的丈夫提到我最近看起来很疲惫，问我是否需要休息，这让我感到被关注但同时也感到自己变得脆弱和无能。",
+                "location": "家中",
+                "happen_time": "2024年8月",
+                "participants": "丈夫",
+                "impact": "这次事件让我感到自己在家人面前也显得无能，强化了核心信念'我值得被家人和朋友爱戴'和中间信念'如果我不关心他人，我可能会失去他们的爱和尊重'。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次学校的家长会上，我注意到有些家长对其他老师的教学方法表示称赞，而对我的教学方式却没有任何评价，这让我感到自己被忽视和不被认可。",
+                "location": "学校",
+                "happen_time": "2024年3月",
+                "participants": "家长、同事",
+                "impact": "这次事件加深了我对自己教学能力的怀疑，强化了核心信念'我在工作上不再有价值'和中间信念'如果我不能有效工作，我就是失败的'。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与学生家长的交流中，我发现自己对学生的情况记不清楚，这让我感到非常尴尬和无助，家长们的眼神让我更加挫败。",
+                "location": "学校",
+                "happen_time": "2024年4月",
+                "participants": "学生家长",
+                "impact": "这次事件进一步加深了我对自己记忆力问题的担忧，强化了核心信念'我的记忆力正在逐渐衰退'和中间信念'如果我不能改善记忆力，我会变得越来越无能'。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次社区活动中，我注意到一位曾经很活跃的邻居因退休后失去了兴趣爱好而变得消极，这让我开始担心自己退休后的生活质量。",
+                "location": "社区活动中心",
+                "happen_time": "2024年5月",
+                "participants": "邻居",
+                "impact": "这次事件让我更加担心自己退休后的生活是否会变得单调无趣，强化了核心信念'我对生活的乐趣正在流失'和中间信念'如果我不能恢复兴趣，我的生活将变得单调乏味'。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次学校的公开课上，我因为忘记了教学计划的一部分内容而被校长批评，这让我感到非常羞愧和无助。",
+                "location": "学校",
+                "happen_time": "2024年6月",
+                "participants": "校长、同事、学生",
+                "impact": "这次事件进一步加深了我对自己工作能力的怀疑，强化了核心信念'我在工作上不再有价值'和中间信念'如果我表现不佳，我会失去同事和学生的尊重'。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次家族聚会上，我发现一位亲戚因失业而变得非常消极，这让我开始担心自己如果不能保持高水平的工作能力，是否也会面临同样的困境。",
+                "location": "亲戚家",
+                "happen_time": "2024年7月",
+                "participants": "亲戚",
+                "impact": "这次事件让我更加担心自己的工作前景，强化了中间信念'在现代社会中，不胜任工作的人会被淘汰'。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与同事的谈话中，我发现自己对教学方法的讨论毫无兴趣，甚至感到厌倦，这让我感到自己正在失去对工作的热情。",
+                "location": "学校",
+                "happen_time": "2024年8月",
+                "participants": "同事",
+                "impact": "这次事件加深了我对自己生活质量下降的担忧，强化了核心信念'我对生活的乐趣正在流失'和中间信念'如果我不能恢复兴趣，我的生活将变得单调乏味'。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次社区志愿活动中，我看到一位志愿者因工作表现出色而受到表扬，这让我开始反思自己的工作表现，感到自己缺乏价值感。",
+                "location": "社区活动中心",
+                "happen_time": "2024年3月",
+                "participants": "志愿者",
+                "impact": "这次事件让我更加担心自己的工作能力，强化了核心信念'我在工作上不再有价值'和中间信念'如果我不能有效工作，我就是失败的'。"
+            }
+        ]
+    }
+}

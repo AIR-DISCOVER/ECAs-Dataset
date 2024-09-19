@@ -1,0 +1,160 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "敏感",
+            "内向",
+            "多愁善感",
+            "缺乏自信",
+            "善良"
+        ],
+        "appearance": [
+            "瘦弱",
+            "皮肤白皙",
+            "长发",
+            "眼神忧郁",
+            "身材娇小"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "写作",
+                "阅读",
+                "听音乐",
+                "绘画"
+            ],
+            "activity": [
+                "独自写作",
+                "在公园散步",
+                "听舒缓的音乐"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "从失恋的阴影中走出来，恢复正常的学习和生活状态。",
+            "long_term_goals": "成为一名成功的作家，写出能够打动人心的作品。"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后会花很长时间才能准备好出门，常常因为注意力不集中而忘记一些小事。上课时难以集中注意力，放学后回到家通常会独自待在房间里写作或阅读。",
+            "weekends": "周末大部分时间都在家里，偶尔会去附近的公园散步，或者去图书馆借书。"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格活泼开朗，但在小学时因为一次被同学嘲笑而变得内向。",
+            "adolescence": "初中时开始对写作产生兴趣，并在学校的文学社中担任编辑。高中时经历了一段刻骨铭心的初恋，但最终因对方的离开而陷入抑郁。",
+            "recent_events": "最近因为失恋而情绪低落，导致学习效率下降，生活自理能力减弱。"
+        },
+        "environment": "出生在一个小城市，家庭环境温馨，但父母工作繁忙，陪伴时间较少。高中就读于本地一所重点中学，学习压力较大。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "父亲工作繁忙，但在有限的时间里尽量陪伴她。",
+                        "母亲温柔体贴，但也因为工作原因无法时常陪伴。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "小学时有几个要好的同学，但因为一次被嘲笑事件，关系逐渐疏远。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "文学社成员",
+                    "count": 10,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "在文学社中担任编辑，与社员们有一定的交流，但大多是工作上的。"
+                    ]
+                },
+                {
+                    "relationship": "初恋男友",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "初恋男友是她的初中同学，两人关系非常亲密，但最终因对方的离开而陷入抑郁。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "父母依然工作繁忙，但在她失恋后尽量给予支持和关心。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "高中同学关系一般，因学习压力大，交流较少。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "最近开始与心理咨询师交流，希望通过专业帮助走出抑郁。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "孔育宜在不同阶段的社交关系发生了显著变化。小时候性格活泼开朗，但因一次被嘲笑事件变得内向，导致与同学关系疏远。初中时在文学社中找到了兴趣爱好，但社交关系仍以工作为主。初恋的失败对她打击很大，导致她在高中时更加封闭自己，学习压力和失恋的双重打击使她的社交能力和意愿进一步下降。最近，她开始寻求心理咨询师的帮助，希望通过专业的指导走出抑郁，恢复正常的社交生活。"
+    }
+}

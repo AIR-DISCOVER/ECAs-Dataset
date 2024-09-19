@@ -1,0 +1,326 @@
+{
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力变得更好。",
+                "others": "他人会支持我的进步。",
+                "world": "世界充满了机会。"
+            },
+            "rules": "我应该积极寻找机会提升自己。",
+            "positive_assumption": "如果我努力变得更好，我会实现我的目标。",
+            "negative_assumption": "如果我不努力，我会错失很多机会。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须对所有事情负责。",
+                "others": "他人依赖我完成任务。",
+                "world": "世界对不负责任的人毫不宽容。"
+            },
+            "rules": "我不能拒绝任何任务。",
+            "positive_assumption": "如果我完成所有任务，我会被认为是可靠的。",
+            "negative_assumption": "如果我不能完成任务，我会被认为是不负责任的。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法应对生活中的挑战。",
+                "others": "他人不会理解我的困境。",
+                "world": "世界充满了无法克服的挑战。"
+            },
+            "rules": "我应该避免面对过多压力。",
+            "positive_assumption": "如果我避开压力，我可以保持健康。",
+            "negative_assumption": "如果我面对压力，我会崩溃。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是让别人失望。",
+                "others": "他人对我的期望总是很高。",
+                "world": "世界对未达到期望的人毫不留情。"
+            },
+            "rules": "我必须不断努力，满足别人的期望。",
+            "positive_assumption": "如果我满足了别人的期望，我会被接受和喜欢。",
+            "negative_assumption": "如果我不能满足别人的期望，我会被拒绝和批评。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须隐藏我的弱点，以免被发现。",
+                "others": "他人会利用我的弱点。",
+                "world": "世界对弱者不仁慈。"
+            },
+            "rules": "我必须表现出强大，不能让别人看到我的脆弱。",
+            "positive_assumption": "如果我表现出强大，我会得到尊重。",
+            "negative_assumption": "如果我表现出脆弱，我会被利用和忽视。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能达到高标准，我就是失败的。",
+                "others": "他人会认为我很差劲。",
+                "world": "世界对失败者毫不留情。"
+            },
+            "rules": "我必须不断努力，达到高标准。",
+            "positive_assumption": "如果我达到高标准，我会被认可和尊重。",
+            "negative_assumption": "如果我达不到高标准，我会被鄙视和排斥。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力变得更好。",
+                "others": "他人会支持我的进步。",
+                "world": "世界充满了机会。"
+            },
+            "rules": "我应该积极寻找机会提升自己。",
+            "positive_assumption": "如果我努力变得更好，我会实现我的目标。",
+            "negative_assumption": "如果我不努力，我会错失很多机会。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须对所有事情负责。",
+                "others": "他人依赖我完成任务。",
+                "world": "世界对不负责任的人毫不宽容。"
+            },
+            "rules": "我不能拒绝任何任务。",
+            "positive_assumption": "如果我完成所有任务，我会被认为是可靠的。",
+            "negative_assumption": "如果我不能完成任务，我会被认为是不负责任的。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法应对生活中的挑战。",
+                "others": "他人不会理解我的困境。",
+                "world": "世界充满了无法克服的挑战。"
+            },
+            "rules": "我应该避免面对过多压力。",
+            "positive_assumption": "如果我避开压力，我可以保持健康。",
+            "negative_assumption": "如果我面对压力，我会崩溃。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是让别人失望。",
+                "others": "他人对我的期望总是很高。",
+                "world": "世界对未达到期望的人毫不留情。"
+            },
+            "rules": "我必须不断努力，满足别人的期望。",
+            "positive_assumption": "如果我满足了别人的期望，我会被接受和喜欢。",
+            "negative_assumption": "如果我不能满足别人的期望，我会被拒绝和批评。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须隐藏我的弱点，以免被发现。",
+                "others": "他人会利用我的弱点。",
+                "world": "世界对弱者不仁慈。"
+            },
+            "rules": "我必须表现出强大，不能让别人看到我的脆弱。",
+            "positive_assumption": "如果我表现出强大，我会得到尊重。",
+            "negative_assumption": "如果我表现出脆弱，我会被利用和忽视。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能达到高标准，我就是失败的。",
+                "others": "他人会认为我很差劲。",
+                "world": "世界对失败者毫不留情。"
+            },
+            "rules": "我必须不断努力，达到高标准。",
+            "positive_assumption": "如果我达到高标准，我会被认可和尊重。",
+            "negative_assumption": "如果我达不到高标准，我会被鄙视和排斥。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力变得更好。",
+                "others": "父母会支持我的进步。",
+                "world": "世界充满了机会。"
+            },
+            "rules": "我应该积极寻找机会提升自己。",
+            "positive_assumption": "如果我努力变得更好，我会实现我的目标。",
+            "negative_assumption": "如果我不努力，我会错失很多机会。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须对所有事情负责。",
+                "others": "父母依赖我完成任务。",
+                "world": "世界对不负责任的人毫不宽容。"
+            },
+            "rules": "我不能拒绝任何任务。",
+            "positive_assumption": "如果我完成所有任务，我会被认为是可靠的。",
+            "negative_assumption": "如果我不能完成任务，我会被认为是不负责任的。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法应对生活中的挑战。",
+                "others": "父母不会理解我的困境。",
+                "world": "世界充满了无法克服的挑战。"
+            },
+            "rules": "我应该避免面对过多压力。",
+            "positive_assumption": "如果我避开压力，我可以保持健康。",
+            "negative_assumption": "如果我面对压力，我会崩溃。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是让父母失望。",
+                "others": "父母对我的期望总是很高。",
+                "world": "世界对未达到期望的人毫不留情。"
+            },
+            "rules": "我必须不断努力，满足父母的期望。",
+            "positive_assumption": "如果我满足了父母的期望，我会被接受和喜欢。",
+            "negative_assumption": "如果我不能满足父母的期望，我会被拒绝和批评。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须隐藏我的弱点，以免被父母发现。",
+                "others": "父母会利用我的弱点。",
+                "world": "世界对弱者不仁慈。"
+            },
+            "rules": "我必须表现出强大，不能让父母看到我的脆弱。",
+            "positive_assumption": "如果我表现出强大，我会得到尊重。",
+            "negative_assumption": "如果我表现出脆弱，我会被父母利用和忽视。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能达到父母的期望，我就是失败的。",
+                "others": "父母会认为我很差劲。",
+                "world": "世界对失败者毫不留情。"
+            },
+            "rules": "我必须不断努力，达到父母的期望。",
+            "positive_assumption": "如果我达到高标准，我会被父母认可和尊重。",
+            "negative_assumption": "如果我达不到高标准，我会被父母鄙视和排斥。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

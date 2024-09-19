@@ -1,0 +1,163 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "有责任感",
+            "有点固执"
+        ],
+        "appearance": [
+            "中等身高",
+            "苗条",
+            "长发",
+            "清秀",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "打游戏",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "和闺蜜一起打游戏",
+                "周末去咖啡馆看书",
+                "听音乐放松"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "找到一份更有挑战性的工作",
+            "long_term_goals": "实现财务自由，能够独立生活，不依赖父母"
+        },
+        "daily_life": {
+            "routine": "每天早上8点起床，9点开始工作，工作内容主要是语音采集。晚上6点下班后，通常会和朋友聊天或打游戏放松。",
+            "weekends": "周末喜欢和朋友一起出去玩，或者在家看书、看电影，有时也会去咖啡馆放松。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求好好学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，不太擅长与人交往，朋友不多。",
+            "recent_events": "最近因为父母的催婚压力，情绪波动较大，经常与父母发生争吵。"
+        },
+        "environment": "出生在一个中等城市，家庭环境较为传统，父母对她的期望很高。大学毕业后留在本地工作，生活相对稳定，但父母的传统观念和她的现代观念产生了冲突。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "常琰岚的父亲是一位严肃而传统的人，对她的期望很高，从小就要求她好好学习。虽然父亲很少表达情感，但他对常琰岚的关心是显而易见的。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "常琰岚的母亲温柔而细心，但同样对她有很高的期望。母亲在她的成长过程中扮演了重要的支持角色，常常在她遇到困难时给予帮助。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "常琰岚在童年时期有两个好朋友，虽然她性格内向，但这两个朋友一直陪伴在她身边，成为她童年时光中重要的一部分。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "在中学时期，常琰岚与父亲的关系变得有些紧张。父亲对她的学业要求更加严格，这让她感到压力很大。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是她的重要支持者，但有时也会因为父亲的严格要求而与她发生争执。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "在中学时期，常琰岚结识了一位非常要好的朋友，这位朋友理解她的内向性格，并在她需要时给予支持。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "最近，常琰岚与父亲的关系因为催婚问题变得更加紧张。父亲的强硬态度让她感到非常烦躁和无奈。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲虽然也希望她结婚，但态度相对温和一些。母亲有时会在父亲和她之间调解，但效果并不显著。"
+                    ]
+                },
+                {
+                    "relationship": "闺蜜",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "常琰岚的闺蜜是她情感上的重要支柱。每当她与父母争吵后，闺蜜都会陪她打游戏，帮助她缓解情绪。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "常琰岚的社会关系在不同阶段发生了显著变化。童年时期，她与父母和朋友的关系较为稳定，但随着年龄的增长，父母对她的期望和要求逐渐增加，导致她与父亲的关系变得紧张。中学时期，她结识了一位非常要好的朋友，这在一定程度上缓解了她的孤独感。最近，由于父母的催婚压力，她与父亲的关系进一步恶化，但她的闺蜜成为了她情感上的重要支柱，帮助她度过难关。"
+    }
+}

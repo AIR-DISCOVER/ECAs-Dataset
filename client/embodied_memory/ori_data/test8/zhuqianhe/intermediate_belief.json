@@ -1,0 +1,326 @@
+{
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得拥有幸福和关爱。",
+                "others": "我的丈夫和朋友会无条件地爱我。",
+                "world": "世界上有很多美好的事物，值得去享受。"
+            },
+            "rules": "我应该积极地享受生活中的美好事物。",
+            "positive_assumption": "如果我享受生活，我会感到更加幸福。",
+            "negative_assumption": "如果我忽略生活的美好，我会失去很多快乐的机会。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被爱和支持，不论遇到什么困难。",
+                "others": "我的家人和朋友会一直支持我。",
+                "world": "世界上总有值得信赖和依靠的人。"
+            },
+            "rules": "我应该主动寻求家人和朋友的支持，当我需要时。",
+            "positive_assumption": "如果我寻求支持，我会感到温暖和力量。",
+            "negative_assumption": "如果我拒绝寻求支持，我会感到孤独和无助。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力解决工作中的问题。",
+                "others": "同事们会尊重我的能力。",
+                "world": "工作中的问题都是可以解决的，只要我努力。"
+            },
+            "rules": "我应该相信自己的能力，并勇敢面对工作中的问题。",
+            "positive_assumption": "如果我解决了工作中的问题，我会获得更多的认可和尊重。",
+            "negative_assumption": "如果我不能解决工作中的问题，我会失去他人的尊重。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力适应新的环境和挑战。",
+                "others": "他人可以提供帮助，但我能独立解决问题。",
+                "world": "世界充满挑战，但我有能力应对。"
+            },
+            "rules": "面对挑战时，我应该积极主动地应对。",
+            "positive_assumption": "如果我迎接挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要表现出色，才能证明自己的价值。",
+                "others": "他人会根据我的表现来评判我的价值。",
+                "world": "世界对表现出色的人更加宽容和友好。"
+            },
+            "rules": "我必须在工作中表现出色，才能被认可。",
+            "positive_assumption": "如果我表现出色，我会得到更多的机会和认可。",
+            "negative_assumption": "如果我没有表现出色，我会被忽视和低估。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我得不到同事的认可，我就会显得无能。",
+                "others": "同事的认可对我的职业发展至关重要。",
+                "world": "工作环境是一个竞争激烈的地方，需要不断证明自己。"
+            },
+            "rules": "我必须不断努力，才能得到同事的认可。",
+            "positive_assumption": "如果我得到同事的认可，我的工作会更顺利。",
+            "negative_assumption": "如果我得不到同事的认可，我的工作会受到影响。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得拥有幸福和关爱。",
+                "others": "我的父母和朋友会无条件地爱我。",
+                "world": "世界上有很多美好的事物，值得去享受。"
+            },
+            "rules": "我应该积极地享受生活中的美好事物。",
+            "positive_assumption": "如果我享受生活，我会感到更加幸福。",
+            "negative_assumption": "如果我忽略生活的美好，我会失去很多快乐的机会。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被爱和支持，不论遇到什么困难。",
+                "others": "我的家人和朋友会一直支持我。",
+                "world": "世界上总有值得信赖和依靠的人。"
+            },
+            "rules": "我应该主动寻求家人和朋友的支持，当我需要时。",
+            "positive_assumption": "如果我寻求支持，我会感到温暖和力量。",
+            "negative_assumption": "如果我拒绝寻求支持，我会感到孤独和无助。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力解决学习中的问题。",
+                "others": "老师和同学会尊重我的能力。",
+                "world": "学习中的问题都是可以解决的，只要我努力。"
+            },
+            "rules": "我应该相信自己的能力，并勇敢面对学习中的问题。",
+            "positive_assumption": "如果我解决了学习中的问题，我会获得更多的认可和尊重。",
+            "negative_assumption": "如果我不能解决学习中的问题，我会失去他人的尊重。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力应对学习和生活中的挑战。",
+                "others": "他人可以提供帮助，但我能独立解决问题。",
+                "world": "世界充满挑战，但我有能力应对。"
+            },
+            "rules": "面对学业和生活中的挑战时，我应该积极主动地应对。",
+            "positive_assumption": "如果我迎接挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要表现出色，才能证明自己的价值。",
+                "others": "他人会根据我的表现来评判我的价值。",
+                "world": "学校对表现出色的学生更加友好。"
+            },
+            "rules": "我必须在学业和活动中表现出色，才能被认可。",
+            "positive_assumption": "如果我表现出色，我会得到更多的机会和认可。",
+            "negative_assumption": "如果我没有表现出色，我会被忽视和低估。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我得不到老师和同学的认可，我就显得不优秀。",
+                "others": "老师和同学的认可对我的学业和人际关系非常重要。",
+                "world": "学校是一个竞争激烈的地方，需要不断证明自己。"
+            },
+            "rules": "我必须努力学习，才能得到老师和同学的认可。",
+            "positive_assumption": "如果我得到认可，我的学业和人际关系会更好。",
+            "negative_assumption": "如果我得不到认可，我会在学业和社交上遇到困难。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得拥有幸福和关爱。",
+                "others": "我的父母和朋友会无条件地爱我。",
+                "world": "世界上有很多美好的事物，值得去享受。"
+            },
+            "rules": "我应该积极地享受生活中的美好事物。",
+            "positive_assumption": "如果我享受生活，我会感到更加幸福。",
+            "negative_assumption": "如果我忽略生活的美好，我会失去很多快乐的机会。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被爱和支持，不论遇到什么困难。",
+                "others": "我的父母和朋友会一直支持我。",
+                "world": "世界上总有值得信赖和依靠的人。"
+            },
+            "rules": "我应该主动寻求家人和朋友的支持，当我需要时。",
+            "positive_assumption": "如果我寻求支持，我会感到温暖和力量。",
+            "negative_assumption": "如果我拒绝寻求支持，我会感到孤独和无助。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力解决学习中的问题。",
+                "others": "老师和父母会尊重我的能力。",
+                "world": "学习中的问题都是可以解决的，只要我努力。"
+            },
+            "rules": "我应该相信自己的能力，并勇敢面对学习中的问题。",
+            "positive_assumption": "如果我解决了学习中的问题，我会获得更多的认可和尊重。",
+            "negative_assumption": "如果我不能解决学习中的问题，我会失去他人的尊重。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力应对学校和生活中的挑战。",
+                "others": "父母可以提供帮助，但我能独立解决问题。",
+                "world": "世界充满挑战，但我有能力应对。"
+            },
+            "rules": "面对挑战时，我应该积极主动地应对。",
+            "positive_assumption": "如果我迎接挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要在学习和表现上出色，才能证明自己的价值。",
+                "others": "父母会根据我的表现来评判我的价值。",
+                "world": "家人对表现出色的孩子更加宽容和友好。"
+            },
+            "rules": "我必须在学习和表现中表现出色，才能被认可。",
+            "positive_assumption": "如果我表现出色，我会得到更多的机会和认可。",
+            "negative_assumption": "如果我没有表现出色，我会被忽视和低估。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我得不到父母的认可，我就会显得无能。",
+                "others": "父母的认可对我的成长至关重要。",
+                "world": "家庭环境需要不断证明自己才能得到认可。"
+            },
+            "rules": "我必须不断努力，才能得到父母的认可。",
+            "positive_assumption": "如果我得到父母的认可，我的成长会更顺利。",
+            "negative_assumption": "如果我得不到父母的认可，我会受到影响。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

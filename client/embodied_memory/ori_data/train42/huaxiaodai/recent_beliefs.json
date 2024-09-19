@@ -1,0 +1,99 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我是一个不称职的母亲。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我的价值在于我为家庭付出的一切。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我必须满足所有人的期望。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我和女儿关系不好，那就是我的失败。",
+                "others": "我的家人会认为我不称职。",
+                "world": "好母亲应该总是能和孩子保持良好关系。"
+            },
+            "rules": "我应该努力改善与女儿的关系。",
+            "positive_assumption": "如果我改善和女儿的关系，我会成为一个称职的母亲。",
+            "negative_assumption": "如果我和女儿关系不好，我就是一个失败的母亲。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我应该能够理解和支持女儿的兴趣。",
+                "others": "家人会因为我不能理解女儿而失望。",
+                "world": "每个母亲都应该理解自己的孩子。"
+            },
+            "rules": "我应该多花时间了解女儿的兴趣和想法。",
+            "positive_assumption": "如果我能理解女儿的兴趣，我们的关系会更好。",
+            "negative_assumption": "如果我不能理解女儿的兴趣，我们的关系会变得更糟。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的价值在于我为家庭付出的一切。",
+                "others": "家人会因为我付出而感激我。",
+                "world": "一个好的家庭成员应该为家庭付出很多。"
+            },
+            "rules": "我应该尽一切努力为家庭付出。",
+            "positive_assumption": "如果我为家庭付出，我的家人会幸福。",
+            "negative_assumption": "如果我不能为家庭付出，我就没有价值。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不应该有自己的需求和兴趣。",
+                "others": "家人会认为我自私，如果我有自己的需求。",
+                "world": "一个好的家庭成员不应该有自己的需求。"
+            },
+            "rules": "我应该把家人的需求放在首位。",
+            "positive_assumption": "如果我满足家人的需求，他们会幸福。",
+            "negative_assumption": "如果我有自己的需求，我会让家人失望。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须满足所有人的期望。",
+                "others": "如果我不能满足他们的期望，他们会对我失望。",
+                "world": "人们会因为我能满足他们的期望而认可我。"
+            },
+            "rules": "我应该尽一切努力满足他人的期望。",
+            "positive_assumption": "如果我满足了他人的期望，他们会更喜欢我。",
+            "negative_assumption": "如果我不能满足他人的期望，我会被拒绝。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不应该有自己的意见和需求。",
+                "others": "他人会认为我倔强，如果我有自己的意见。",
+                "world": "为了被接受，我必须迎合他人。"
+            },
+            "rules": "我应该避免表达自己的意见，以免与他人产生冲突。",
+            "positive_assumption": "如果我不表达自己的意见，我会被更多人接受。",
+            "negative_assumption": "如果我表达自己的意见，我会被他人排斥。"
+        }
+    ]
+}

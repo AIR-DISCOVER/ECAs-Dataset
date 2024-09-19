@@ -1,0 +1,117 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我的价值取决于我的学业成就。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须满足他人的期望。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有能力面对挑战。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我值得被关心和支持。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我在学业上失败，我就是一个无价值的人。",
+                "others": "他人只会尊重那些学业上成功的人。",
+                "world": "这个世界对失败者没有宽容。"
+            },
+            "rules": "我必须在学业上取得优异成绩。",
+            "positive_assumption": "如果我取得优异成绩，我会被尊重和认可。",
+            "negative_assumption": "如果我在学业上失败，我会被视为无价值。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的表现必须完美无缺。",
+                "others": "他人会因为我的失败而失望。",
+                "world": "世界只认可成功者。"
+            },
+            "rules": "我不能容忍任何学业上的错误。",
+            "positive_assumption": "如果我表现完美，我会被认可。",
+            "negative_assumption": "如果我失败，我会被视为无能。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须一直努力，不能让他人失望。",
+                "others": "他人对我有很高的期望。",
+                "world": "世界上只有满足他人期望才能得到认可。"
+            },
+            "rules": "我必须一直努力满足他人的期望。",
+            "positive_assumption": "如果我满足他人的期望，我会被认可和接受。",
+            "negative_assumption": "如果我无法满足他人的期望，我会被忽视和批评。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力应对学业和生活中的挑战。",
+                "others": "他人可以支持我，但最终我能独立解决问题。",
+                "world": "世界充满挑战和机遇，我可以应对。"
+            },
+            "rules": "当面对挑战时，我应该积极应对。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力实现自己的目标。",
+                "others": "他人可以提供一些帮助，但我主要依靠自己。",
+                "world": "世界上的问题可以通过努力解决。"
+            },
+            "rules": "我应该主动追求自己的目标。",
+            "positive_assumption": "如果我追求目标，我会实现愿望。",
+            "negative_assumption": "如果我放弃追求，我会感到失望和失败。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我值得被他人关心和支持。",
+                "others": "他人愿意关心和支持我。",
+                "world": "世界上有很多人愿意帮助和支持我。"
+            },
+            "rules": "我可以寻求他人的关心和支持。",
+            "positive_assumption": "如果我接受他人的关心和支持，我会感到温暖和力量。",
+            "negative_assumption": "如果我拒绝关心和支持，我会感到孤独和无助。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有权利寻求帮助。",
+                "others": "他人愿意帮助我。",
+                "world": "世界是一个互相帮助的地方。"
+            },
+            "rules": "我应该在需要时寻求帮助。",
+            "positive_assumption": "如果我寻求帮助，我会得到支持并解决问题。",
+            "negative_assumption": "如果我不寻求帮助，我会感到更加焦虑和无助。"
+        }
+    ]
+}

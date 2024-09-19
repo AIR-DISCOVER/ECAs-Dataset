@@ -1,0 +1,78 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我必须表现得完美才能被认可。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我是有责任感的。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我需要被关心和理解。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我是有能力应对挑战的。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不完美，我就会被看不起。",
+                "others": "他人只会认可完美的人。",
+                "world": "世界是严格评判的地方，只有完美才有价值。"
+            },
+            "rules": "我应该尽力做到完美。",
+            "positive_assumption": "如果我做到完美，我会被认可和尊重。",
+            "negative_assumption": "如果我不完美，我会被忽视和批评。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须承担起家庭的所有责任。",
+                "others": "家人依赖我，需要我。",
+                "world": "家庭是我的责任所在。"
+            },
+            "rules": "我应该始终以家庭为重心。",
+            "positive_assumption": "如果我尽责，家庭会和谐幸福。",
+            "negative_assumption": "如果我不尽责，家庭会出现问题。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要得到他人的关心和理解。",
+                "others": "他人有时会忽视我的感受。",
+                "world": "世界有时是冷漠的，需要主动寻求支持。"
+            },
+            "rules": "我应该表达我的感受和需求。",
+            "positive_assumption": "如果我表达我的感受，我会得到更多关心。",
+            "negative_assumption": "如果我不表达感受，我会感到被忽视。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力应对家庭和生活中的挑战。",
+                "others": "家人和朋友会在需要时支持我。",
+                "world": "世界充满挑战，但我可以克服。"
+            },
+            "rules": "我应该积极面对每一个挑战。",
+            "positive_assumption": "如果我积极应对挑战，我会变得更强大。",
+            "negative_assumption": "如果我逃避挑战，我会失去成长的机会。"
+        }
+    ]
+}

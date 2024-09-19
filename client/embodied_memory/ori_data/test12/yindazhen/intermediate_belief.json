@@ -1,0 +1,218 @@
+{
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决问题，并面对生活中的挑战。",
+                "others": "他人可以给予我帮助，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值取决于他人的认可。",
+                "others": "他人是评判我价值的标准。",
+                "world": "世界是一个需要不断证明自己价值的地方。"
+            },
+            "rules": "我必须不断努力以获得他人的认可。",
+            "positive_assumption": "如果我能得到别人的认可，我就会感觉有价值。",
+            "negative_assumption": "如果我得不到别人的认可，我就会感觉自己毫无价值。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我被拒绝，那是因为我不值得被爱。",
+                "others": "他人不会真正珍惜和爱护我。",
+                "world": "世界是冷酷无情的，只有少数人值得被爱。"
+            },
+            "rules": "我应该避免暴露自己的情感以避免再次被拒绝。",
+            "positive_assumption": "如果我不表露情感，我就不会受伤。",
+            "negative_assumption": "如果我表露情感，我会再次被拒绝和伤害。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够通过努力克服学业上的困难。",
+                "others": "他人可能不会完全理解我的努力，但我能证明自己。",
+                "world": "世界是一个需要不断努力和付出的地方。"
+            },
+            "rules": "我应该坚持不懈地努力，以克服学业上的困难。",
+            "positive_assumption": "如果我坚持努力，我就能克服学业上的困难，并取得成功。",
+            "negative_assumption": "如果我放弃努力，我就会在学业上失败，并被认为是没有能力的。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决学业和生活中的问题。",
+                "others": "他人虽然可以帮助我，但我有信心自己解决问题。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到学业上的挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对学业上的挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避学业上的挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值取决于学业成绩和他人的认可。",
+                "others": "他人是评判我价值的标准。",
+                "world": "世界是一个需要不断证明自己价值的地方。"
+            },
+            "rules": "我必须不断努力以获得学业上的优异成绩和他人的认可。",
+            "positive_assumption": "如果我取得好成绩并得到认可，我就会感觉有价值。",
+            "negative_assumption": "如果我成绩不好并得不到认可，我就会感觉自己毫无价值。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我被忽视，那是因为我不值得被爱。",
+                "others": "他人不会真正理解和珍惜我。",
+                "world": "世界是冷漠的，只有少数人值得被爱。"
+            },
+            "rules": "我应该避免暴露自己的脆弱，以免被忽视或排斥。",
+            "positive_assumption": "如果我不暴露自己的脆弱，我就不会感到被忽视。",
+            "negative_assumption": "如果我暴露自己的脆弱，我会被忽视和排斥。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决学习上的问题。",
+                "others": "父母可以提供帮助，但我需要自己解决大部分问题。",
+                "world": "世界上的问题可以通过努力和智慧来解决。"
+            },
+            "rules": "当遇到学习上的困难时，我应该主动解决。",
+            "positive_assumption": "如果我解决了问题，我会变得更强大。",
+            "negative_assumption": "如果我逃避问题，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对学业上的挑战。",
+                "others": "父母虽然期望高，但他们相信我有能力。",
+                "world": "世界上充满了挑战，但我有能力应对。"
+            },
+            "rules": "我应该努力学习，积极面对每一个学业挑战。",
+            "positive_assumption": "如果我面对挑战并努力，我会取得成功。",
+            "negative_assumption": "如果我不努力，我会错失许多机会。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值取决于我的成绩和表现。",
+                "others": "他人会通过我的成绩来判断我的价值。",
+                "world": "世界是一个需要不断证明自己价值的地方。"
+            },
+            "rules": "我必须取得优异的成绩，才能被认可。",
+            "positive_assumption": "如果我成绩好，我会被认为有价值。",
+            "negative_assumption": "如果我成绩不好，我就会被认为没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我的表现决定了我是否值得被爱。",
+                "others": "只有当我表现出色时，别人才会喜欢我。",
+                "world": "这个世界是竞争激烈的，只有优秀的人才能被爱。"
+            },
+            "rules": "我应该全力以赴，争取在各方面表现优秀。",
+            "positive_assumption": "如果我足够优秀，我会被爱。",
+            "negative_assumption": "如果我不优秀，我将不被爱。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能达到父母的期望，我就不值得被爱。",
+                "others": "父母的爱是有条件的，取决于我的表现。",
+                "world": "世界是一个要求高标准的地方，只有表现出色的人才值得被爱。"
+            },
+            "rules": "我必须不断努力、取得好成绩，才能赢得父母的爱。",
+            "positive_assumption": "如果我表现好，父母就会爱我。",
+            "negative_assumption": "如果我表现不好，父母就不会爱我。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

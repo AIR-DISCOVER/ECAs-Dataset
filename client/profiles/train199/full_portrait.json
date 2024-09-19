@@ -1,0 +1,185 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "诚实",
+            "有责任心",
+            "内向"
+        ],
+        "appearance": [
+            "普通",
+            "中等身材",
+            "黑发",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "烹饪",
+                "园艺"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高工作效率，减轻压力",
+            "long_term_goals": "在工作中获得晋升，拥有一个稳定幸福的家庭"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点上班，下午5点下班，晚上和家人共进晚餐，之后阅读或看电视，10点左右睡觉。",
+            "weekends": "周末通常会和家人一起做饭，去公园散步，或者在家里打理花园。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被教育要努力学习。",
+            "adolescence": "中学时期成绩优异，但性格内向，不太擅长与人交往。",
+            "youth": "大学毕业后进入一家普通公司工作，结婚后生活稳定，但工作压力逐渐增大。",
+            "recent_events": "最近一个月工作量突然增加，导致记忆力下降和头晕，开始对自己失去信心。"
+        },
+        "environment": "出生在一个小城市，大学毕业后在大城市工作和生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "云黛纯的父母对她期望很高，从小就教育她要努力学习。虽然父母的期望有时让她感到压力，但他们的关爱和支持始终是她成长过程中最重要的支柱。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "云黛纯在童年时期有两个好朋友，一个是邻居家的小女孩，另一个是同班同学。她们经常一起玩耍，分享彼此的小秘密。虽然她性格内向，但这两个朋友让她感到温暖和安全。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "进入中学后，云黛纯的学习压力增大，父母对她的期望也更高。虽然他们依然关心她，但有时会因为成绩问题而产生矛盾。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "云黛纯在中学时期有几位特别关心她的老师，他们不仅在学业上给予她指导，还在生活中给予她关怀。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "由于性格内向，云黛纯在中学时期的朋友不多，但她有一个特别要好的朋友，两人经常一起学习和讨论问题。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        4
+                    ],
+                    "description": [
+                        "大学毕业后，云黛纯进入了一家普通公司工作。她的同事们大多友好，但由于工作压力大，她与同事的关系并不特别亲密。"
+                    ]
+                },
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "云黛纯的丈夫是她大学时期的恋人，两人感情深厚，结婚后一直相互支持。丈夫是她生活中的重要支柱。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "最近一个月，云黛纯的工作量突然增加，她与同事的关系变得有些紧张。她开始觉得自己在工作中有些力不从心。"
+                    ]
+                },
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "在工作压力增大的情况下，云黛纯的丈夫依然是她最大的支持者。他们会在晚餐时交流一天的经历，丈夫总是鼓励她。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "云黛纯有一个8岁的女儿，虽然工作忙碌，但她尽量抽出时间陪伴女儿。女儿的笑容是她最大的动力。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "云黛纯在不同阶段的社会关系有明显变化。童年时期，她的朋友较少，但关系亲密；中学时期，学习压力增大，朋友减少，但老师的关怀让她感到温暖；进入职场后，工作压力使她与同事的关系变得紧张，但丈夫和家庭始终是她的坚强后盾。最近一个月的工作压力让她感到自信心下降，但她依然努力维持与家人的亲密关系。"
+    }
+}

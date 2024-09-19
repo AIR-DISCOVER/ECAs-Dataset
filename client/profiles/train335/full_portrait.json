@@ -1,0 +1,139 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "缺乏自信",
+            "善良",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "长发",
+            "皮肤白皙",
+            "眼神有些疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "绘画"
+            ],
+            "activity": [
+                "独自散步",
+                "在图书馆安静地看书"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "改善与室友的关系，适应大学生活",
+            "long_term_goals": "成为一名心理学家，帮助像自己一样的人"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点上课，下午有时去图书馆，晚上10点左右睡觉",
+            "weekends": "周末通常在宿舍休息，偶尔去图书馆或校园内散步"
+        },
+        "past_experiences": {
+            "childhood": "小时候在一个小城市长大，父母工作忙碌，常常独自一人",
+            "adolescence": "中学时期成绩优异，但人际关系一般，常感到孤独",
+            "recent_events": "最近与室友发生矛盾，导致情绪低落，学习效率下降"
+        },
+        "environment": "出生在一个小城市，大学在大城市就读，环境的变化让她感到不适应"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "云琦媛的父母工作非常忙碌，虽然他们对她的爱不言而喻，但由于时间有限，他们无法给予她足够的陪伴和关注。云琦媛从小就学会了独立，但也因此感到孤独。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "云琦媛在小学时有一个非常要好的朋友，两人经常一起玩耍和学习。然而，随着时间的推移，这位朋友搬家了，云琦媛再次感到孤独。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期，云琦媛成绩优异，但她的人际关系一般。她与同学们的关系较为表面，缺乏深层次的交流。她常常感到孤独，尽管她在学业上表现出色。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "云琦媛与几位老师关系较好，特别是她的班主任和两位科任老师。这些老师对她的学业给予了很多帮助，但在情感上，她依然感到孤独。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "室友",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "云琦媛与室友的关系最近变得紧张，几人之间发生了一些小摩擦，导致她感到更加孤独和不安。她希望能够改善与室友的关系，但目前还没有找到合适的方法。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "云琦媛最近开始与心理咨询师交流，虽然她对改善自己的状态不太有信心，但她希望通过咨询能够找到一些解决问题的方法。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "云琦媛的社交能力和意愿在不同阶段有明显变化。童年时期，她由于父母忙碌而感到孤独，虽然有一个好朋友，但朋友的搬家让她再次陷入孤独。中学时期，她的学业成绩优异，但人际关系一般，缺乏深层次的交流。进入大学后，环境的变化让她感到不适应，与室友的矛盾进一步加剧了她的孤独感。她希望通过心理咨询和努力改善与室友的关系，逐步适应大学生活。"
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "node_8": {
+        "page_content": "我有能力面对挑战。",
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_7": {
+        "page_content": "我需要他人的认可。",
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_6": {
+        "page_content": "我不如别人。",
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_5": {
+        "page_content": "我有能力面对挑战。",
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": "我需要他人的认可。",
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_3": {
+        "page_content": "我不如别人。",
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_2": {
+        "page_content": "我有能力面对挑战。",
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": "我需要他人的认可。",
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": "我不如别人。",
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

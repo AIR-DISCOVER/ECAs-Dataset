@@ -1,0 +1,34 @@
+{
+    "node_3": {
+        "page_content": "世界是充满挑战的。",
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_2": {
+        "page_content": "我可以改变自己。",
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_1": {
+        "page_content": "我没有价值。",
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_0": {
+        "page_content": "我不够好。",
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    }
+}

@@ -1,0 +1,398 @@
+{
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我的付出是值得的。",
+                "others": "他人会认可我的付出。",
+                "world": "世界会回报那些努力的人。"
+            },
+            "rules": "我应该继续付出，追求目标。",
+            "positive_assumption": "如果我继续付出，我会得到回报。",
+            "negative_assumption": "如果我停止付出，我会失去可能的回报。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我的努力终将有回报。",
+                "others": "他人会看到我的努力。",
+                "world": "世界会给予努力者机会。"
+            },
+            "rules": "我应该持续努力，不放弃。",
+            "positive_assumption": "如果我坚持努力，我会取得成功。",
+            "negative_assumption": "如果我放弃努力，我会失去机会。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我有解决问题的能力。",
+                "others": "他人可以提供帮助，但我能独立处理。",
+                "world": "世界充满了可解决的问题。"
+            },
+            "rules": "我应该主动解决问题。",
+            "positive_assumption": "如果我解决问题，我会获得成就感。",
+            "negative_assumption": "如果我不解决问题，我会感到失败。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对困难。",
+                "others": "他人可能会支持我。",
+                "world": "世界充满了机会，我可以应对。"
+            },
+            "rules": "我应该积极面对挑战。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我不确定自己能否应对新的挑战。",
+                "others": "他人可能比我更能适应变化。",
+                "world": "变化是不可避免的，但很难应对。"
+            },
+            "rules": "我应该尽量减少面对新的挑战。",
+            "positive_assumption": "如果我避免挑战，我就能减少焦虑。",
+            "negative_assumption": "如果我面对新的挑战，我可能会失败并感到更糟。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我对新环境感到不适应。",
+                "others": "他人可能已经适应了新的环境。",
+                "world": "新的生活环境对我来说是挑战。"
+            },
+            "rules": "我应该尽量避免改变。",
+            "positive_assumption": "如果我保持现状，我就不会感到不适。",
+            "negative_assumption": "如果我尝试适应新环境，我可能会失败。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断努力，不能松懈。",
+                "others": "他人对我的期望很高。",
+                "world": "只有最优秀的人才能获得认可。"
+            },
+            "rules": "我必须保持高水平的努力。",
+            "positive_assumption": "如果我努力，我就能成功并得到认可。",
+            "negative_assumption": "如果我松懈，我将失去机会和认可。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在退役后的考试中取得好成绩。",
+                "others": "他人会根据我的成功与否来评判我。",
+                "world": "成功是获得认可的唯一途径。"
+            },
+            "rules": "我必须全力以赴，不能失败。",
+            "positive_assumption": "如果我成功了，我就能证明自己的价值。",
+            "negative_assumption": "如果我失败了，我就会被认为没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我对未来的担忧占据了我的思绪。",
+                "others": "他人可能认为我过于忧虑。",
+                "world": "未来是未知和不可控的。"
+            },
+            "rules": "我应该思考应对各种可能性。",
+            "positive_assumption": "如果我准备充分，我就能应对未来的变化。",
+            "negative_assumption": "如果我不考虑未来，我可能会措手不及。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我不知道未来会怎样，可能会失败。",
+                "others": "他人可能也不确定未来，无法提供帮助。",
+                "world": "世界充满了不可预测的变化。"
+            },
+            "rules": "我应该尽量避免风险，保持现状。",
+            "positive_assumption": "如果我保持现状，我就能避免失败。",
+            "negative_assumption": "如果我冒险，我可能会失败，导致更大的不确定性。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我的付出是值得的。",
+                "others": "他人会认可我的付出。",
+                "world": "世界会回报那些努力的人。"
+            },
+            "rules": "我应该继续付出，追求目标。",
+            "positive_assumption": "如果我继续付出，我会得到回报。",
+            "negative_assumption": "如果我停止付出，我会失去可能的回报。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我的努力终将有回报。",
+                "others": "他人会看到我的努力。",
+                "world": "世界会给予努力者机会。"
+            },
+            "rules": "我应该持续努力，不放弃。",
+            "positive_assumption": "如果我坚持努力，我会取得成功。",
+            "negative_assumption": "如果我放弃努力，我会失去机会。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我有解决问题的能力。",
+                "others": "他人可以提供帮助，但我能独立处理。",
+                "world": "世界充满了可解决的问题。"
+            },
+            "rules": "我应该主动解决问题。",
+            "positive_assumption": "如果我解决问题，我会获得成就感。",
+            "negative_assumption": "如果我不解决问题，我会感到失败。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在军事训练和学业中表现突出。",
+                "others": "他人会因为我的能力对我产生尊重。",
+                "world": "世界上有很多机会，我可以把握。"
+            },
+            "rules": "我应该积极面对挑战。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断努力，不能松懈。",
+                "others": "他人对我的期望很高。",
+                "world": "只有最优秀的人才能获得认可。"
+            },
+            "rules": "我必须保持高水平的努力。",
+            "positive_assumption": "如果我努力，我就能成功并得到认可。",
+            "negative_assumption": "如果我松懈，我将失去机会和认可。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在军事俱乐部和学业中表现出色。",
+                "others": "他人会根据我的成绩和表现来评判我。",
+                "world": "成功是获得认可的唯一途径。"
+            },
+            "rules": "我必须全力以赴，不能失败。",
+            "positive_assumption": "如果我成功了，我就能证明自己的价值。",
+            "negative_assumption": "如果我失败了，我就会被认为没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我的努力是值得的。",
+                "others": "他人会认可我的付出。",
+                "world": "世界会回报那些努力的人。"
+            },
+            "rules": "我应该继续努力，追求目标。",
+            "positive_assumption": "如果我继续努力，我会得到回报。",
+            "negative_assumption": "如果我停止努力，我会失去可能的回报。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决问题。",
+                "others": "他人可以帮助我，但我可以独立处理。",
+                "world": "世界充满了可解决的问题。"
+            },
+            "rules": "我应该主动解决问题。",
+            "positive_assumption": "如果我解决问题，我会获得成就感。",
+            "negative_assumption": "如果我不解决问题，我会感到失败。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我对新的环境感到不安。",
+                "others": "他人可能比我更能适应新的环境。",
+                "world": "新的环境对我来说是挑战。"
+            },
+            "rules": "我应该尽量避免改变。",
+            "positive_assumption": "如果我保持现状，我就不会感到不适。",
+            "negative_assumption": "如果我尝试适应新环境，我可能会失败。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断努力，不能放松。",
+                "others": "他人对我的期望很高。",
+                "world": "只有最优秀的人才能得到认可。"
+            },
+            "rules": "我必须努力不懈，保持高水平。",
+            "positive_assumption": "如果我努力，我就能成功并得到认可。",
+            "negative_assumption": "如果我松懈，我将失去机会和认可。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在学校表现得很好。",
+                "others": "他人会根据我的成绩来评判我。",
+                "world": "成功是获得认可的途径。"
+            },
+            "rules": "我必须在学习上取得好成绩。",
+            "positive_assumption": "如果我取得好成绩，我就能证明自己。",
+            "negative_assumption": "如果我成绩不好，我会被认为没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我不确定自己未来的道路。",
+                "others": "他人也可能不了解未来的变化。",
+                "world": "世界是不可预测的。"
+            },
+            "rules": "我应该做好准备，应对可能的变化。",
+            "positive_assumption": "如果我做好准备，我就能应对未来的不确定性。",
+            "negative_assumption": "如果我不做好准备，我可能会措手不及。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

@@ -1,0 +1,622 @@
+{
+    "childhood": {
+        "name": "余莹育",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我记得在小学二年级的一次期末考试中，我因为紧张而没考好。回到家里，我低着头走进家门，妈妈看到成绩单后，虽然没有责骂我，但脸上的失望让我心里很难受。我哭着说：'妈妈，对不起，我让你失望了。'妈妈叹了口气，说：'下次要更努力，不能让自己失望。'",
+                "location": "家中客厅",
+                "happen_time": "1991年6月",
+                "participants": "余莹育和她的母亲",
+                "impact": "这次事件强化了我必须在学业上表现出色以履行对父母的责任的信念，也加深了我对失败的恐惧。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，我参加了一次学校的演讲比赛。虽然准备得很充分，但在台上还是紧张得声音发抖。比赛结束后，老师表扬了我的勇气，但我看到台下同学们的嘲笑，心里很难过。回家后，我对妈妈说：'我以后再也不想参加这种活动了。'妈妈安慰我说：'失败是成功之母，下次一定会更好。'",
+                "location": "学校礼堂",
+                "happen_time": "1993年3月",
+                "participants": "余莹育、同学、老师、母亲",
+                "impact": "这次经历让我更加不自信，同时也让我觉得只有获得认可才能感到自我价值。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我坐在房间里，听见客厅里爸爸和妈妈又开始吵架了。那天他们吵得特别凶，妈妈声音都哑了。我透过门缝偷偷看见，爸爸摔了杯子，玻璃碎了一地。我心里想着：'家庭和谐真的很重要，我不能让家里再出现这种情况。'",
+                "location": "家中客厅",
+                "happen_time": "1990年11月",
+                "participants": "余莹育、父亲、母亲",
+                "impact": "这次事件让我意识到家庭和谐的重要性，强化了我必须确保家庭和谐的信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我被选为班级的班长。虽然感到很荣幸，但也感到很大的压力。一天，班里发生了一起争吵事件，我不知道该怎么处理，最后只好请老师来解决。事后，我对自己非常失望，觉得自己不够能力胜任班长的职责。",
+                "location": "学校教室",
+                "happen_time": "1994年5月",
+                "participants": "余莹育、同学、老师",
+                "impact": "这次事件加深了我对自己能力的质疑，强化了我不够自信的核心信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "有一次，我和邻居家的小伙伴们一起玩耍时，不小心摔倒受伤，回家后妈妈非常紧张。她帮我处理伤口时说：'你要小心一些，不要让我们担心。'从那以后，我变得更加谨慎，害怕给家里添麻烦。",
+                "location": "家附近的公园",
+                "happen_time": "1989年8月",
+                "participants": "余莹育、邻居小伙伴、母亲",
+                "impact": "这次事件让我更加关注家庭的需求，强化了我必须确保家庭和谐的信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的小伙伴因为成绩不好被父母责骂，甚至被罚站在门外。我心里想：'我绝不能让自己陷入这样的境地，我必须努力取得好成绩。'",
+                "location": "邻居家门口",
+                "happen_time": "1992年10月",
+                "participants": "余莹育、邻居小伙伴、邻居父母",
+                "impact": "这次事件让我更加害怕失败，强化了我必须努力取得好成绩，避免犯错的信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，亲戚们都在夸奖表哥的学习成绩，我感到很自卑。回家后，我对妈妈说：'我也想像表哥一样优秀。'妈妈鼓励我说：'你也很优秀，只要努力就一定能做到。'这让我对自己的努力产生了更多期待。",
+                "location": "亲戚家",
+                "happen_time": "1993年12月",
+                "participants": "余莹育、母亲、亲戚、表哥",
+                "impact": "这次事件让我更加渴望得到认可，强化了我需要努力以赢得父母和老师认可的信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校看到一位同学因为没有按时完成作业被老师批评，当时他低着头，不敢直视老师。我心里想：'我绝不能让自己陷入这样的境地，我必须按时完成所有任务。'",
+                "location": "学校教室",
+                "happen_time": "1991年4月",
+                "participants": "余莹育、同学、老师",
+                "impact": "这次事件让我更加害怕被批评，强化了我必须努力取得好成绩，避免犯错的信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我参加了一次数学竞赛并取得了好成绩。回到家后，爸爸妈妈对我非常高兴，妈妈还特地做了我最喜欢吃的菜来庆祝。我感到非常满足，并且更加努力学习，希望能继续得到这种认可。",
+                "location": "家中餐厅",
+                "happen_time": "1995年5月",
+                "participants": "余莹育、父母",
+                "impact": "这次事件让我感到被认可的满足感，强化了我必须努力取得好成绩以获得认可的信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的朋友因为没有考好而被父母责骂，甚至被罚站在门外。我心里想：'我绝不能让自己陷入这样的境地，我必须努力取得好成绩。'",
+                "location": "邻居家门口",
+                "happen_time": "1992年10月",
+                "participants": "余莹育、邻居朋友、邻居父母",
+                "impact": "这次事件让我更加害怕失败，强化了我必须努力取得好成绩，避免犯错的信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我因为一次小病请假在家，结果错过了一次重要的课堂测验。回到学校时，老师特意安排了一次补考。我非常紧张，生怕考不好会让老师失望。最终，我顺利通过了补考，老师表扬了我的努力。",
+                "location": "学校教室",
+                "happen_time": "1992年9月",
+                "participants": "余莹育、老师",
+                "impact": "这次事件让我更加努力去争取认可，同时也加深了对失败的恐惧。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一天，我看到爸爸妈妈在讨论家庭预算的事情，妈妈很担心钱不够用。那一刻，我意识到家庭的责任有多么重要，心里想着：'我一定不能让家里陷入这样的困境。'",
+                "location": "家中客厅",
+                "happen_time": "1991年6月",
+                "participants": "余莹育、父母",
+                "impact": "这次事件让我更加重视家庭责任，强化了我必须确保家庭和谐的信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我的好朋友因为家庭搬迁转学，我感到非常失落。她走的时候，我哭着说：'你走了以后，我该和谁玩？'她安慰我说：'我们还可以写信联系。'这让我意识到人际关系的重要性。",
+                "location": "学校门口",
+                "happen_time": "1994年7月",
+                "participants": "余莹育、好朋友",
+                "impact": "这次事件让我更加珍惜朋友关系，同时也更加害怕失去重要的人。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一位同学因为在课堂上回答问题错误而被老师批评，当时他低着头，不敢直视老师。我心里想：'我绝不能让自己陷入这样的境地，我必须尽量避免做出需要承担责任的决定。'",
+                "location": "学校教室",
+                "happen_time": "1993年5月",
+                "participants": "余莹育、同学、老师",
+                "impact": "这次事件让我更加害怕承担责任，强化了我应该尽量避免做出需要承担责任的决定的信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我参加了一次舞蹈表演，因为紧张在台上摔倒了。虽然观众们鼓掌鼓励，但我心里非常难过，觉得自己丢脸了。回家后，我对妈妈说：'我再也不想跳舞了。'妈妈安慰我说：'失败是成功之母，下次一定会更好。'",
+                "location": "学校礼堂",
+                "happen_time": "1995年3月",
+                "participants": "余莹育、同学、老师、母亲",
+                "impact": "这次事件让我更加不自信，同时也让我觉得只有获得认可才能感到自我价值。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "余莹育",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "1996年初中入学考试成绩公布，我的成绩不如预期，父母在家里责备我没有尽力。他们激动地说：“你要是再不努力，以后怎么考上好高中？”",
+                "location": "家里客厅",
+                "happen_time": "1996年7月",
+                "participants": "父母",
+                "impact": "这个事件强化了我的核心信念‘我需要被认可和接受’，并加深了我对自己能力的怀疑，产生了更大的压力。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次班级集体活动中，我主动承担了组织任务，但因为准备不足，活动效果不佳，老师在课后批评了我。",
+                "location": "学校操场",
+                "happen_time": "1997年5月",
+                "participants": "老师、同学",
+                "impact": "这个事件强化了我的中间信念‘我必须尽力满足父母和老师的期望’，让我更加努力去避免犯错，以求得认可。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里听到父母讨论我的未来，母亲提到‘她要是这样下去，以后怎么考上好大学？’这让我感到压力山大。",
+                "location": "家里厨房",
+                "happen_time": "1997年11月",
+                "participants": "父母",
+                "impact": "这个事件让我进一步意识到父母对我的期望，也加深了我对不自信的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在一次期末考试中，我的成绩提高了，老师在全班面前表扬了我，同学们也向我表示祝贺。",
+                "location": "学校教室",
+                "happen_time": "1998年1月",
+                "participants": "老师、同学",
+                "impact": "这个事件增强了我的信心，验证了‘如果我努力学习，我会得到肯定’的中间信念，并且对我的积极态度起到了正面影响。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "我看到一个成绩优异的同学因为一次考试失误而被老师严厉批评，这让我感到即便努力了也会有被批评的风险。",
+                "location": "学校教室",
+                "happen_time": "1998年6月",
+                "participants": "同学、老师",
+                "impact": "这个事件强化了我的中间信念‘如果我无法达到期望，我会被批评和指责’，增加了我的焦虑感。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在一次朋友聚会上，我因为成绩不佳而感到自卑，无法融入话题，朋友们也没有主动关心我。",
+                "location": "同学家里",
+                "happen_time": "1998年9月",
+                "participants": "朋友",
+                "impact": "这个事件强化了我的中间信念‘如果我表现不佳，我会被朋友们忽视或批评’，让我在朋友面前更加不自信。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "我看到一个朋友因为成绩优秀而受到了大家的尊敬和认可，这让我感到只有通过成绩才能得到别人的认可。",
+                "location": "学校教室",
+                "happen_time": "1999年3月",
+                "participants": "朋友、同学",
+                "impact": "这个事件进一步强化了我的核心信念‘我需要被认可和接受’，并加深了我对成绩的重视。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，亲戚们夸赞我的表姐考上了一所好大学，这让我感到自己被忽视。",
+                "location": "亲戚家里",
+                "happen_time": "1999年8月",
+                "participants": "亲戚、父母",
+                "impact": "这个事件加深了我的核心信念‘我有时不够自信’，并让我更加努力去获得认可。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "高考前夕，我因为过度紧张导致失眠，成绩也因此受到影响，父母对我表现出失望之情。",
+                "location": "家里卧室",
+                "happen_time": "2000年5月",
+                "participants": "父母",
+                "impact": "这个事件加深了我的中间信念‘如果我不努力，我会让父母和老师失望’，并增加了我的焦虑和压力。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "我看到一个同学因为家庭矛盾而成绩下滑，老师对她表现出了极大的同情和帮助，这让我感到老师并不是只关注成绩。",
+                "location": "学校教室",
+                "happen_time": "2000年10月",
+                "participants": "同学、老师",
+                "impact": "这个事件稍微缓解了我的压力，让我认识到老师对学生的关心不仅仅限于成绩。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "高考成绩不理想，我感到自己辜负了父母的期望，心情非常低落。",
+                "location": "家里客厅",
+                "happen_time": "2001年7月",
+                "participants": "父母",
+                "impact": "这个事件严重打击了我的自信心，并加深了核心信念‘我有时不够自信’。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会上，我观察到表姐和她的父母关系非常和谐，这让我意识到成绩并不是维持家庭和谐的唯一因素。",
+                "location": "亲戚家里",
+                "happen_time": "2001年8月",
+                "participants": "表姐及她的父母",
+                "impact": "这个事件让我重新思考家庭关系的重要性，稍微缓解了我对成绩的过度关注。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在一次与朋友的谈话中，我分享了自己的困惑，朋友们给予了我极大的支持和鼓励。",
+                "location": "学校操场",
+                "happen_time": "2001年9月",
+                "participants": "朋友",
+                "impact": "这个事件增强了我的信心，并让我觉得朋友的支持不完全依赖于我的表现。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在高考志愿填报期间，我犹豫不决，不知道该选择哪所学校和专业，父母也无法给我明确的建议。",
+                "location": "家里书房",
+                "happen_time": "2001年10月",
+                "participants": "父母",
+                "impact": "这个事件加深了我的决断困难，并让我对未来感到迷茫。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "最终，我选择了一所普通大学的普通专业，虽然父母没有明确表示失望，但我能感觉到他们的不满。",
+                "location": "家里客厅",
+                "happen_time": "2001年11月",
+                "participants": "父母",
+                "impact": "这个事件进一步加深了我的核心信念‘我有时不够自信’，并让我在未来的选择中更加犹豫不决。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "余莹育",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "2002年大学毕业后，我遇到了我的丈夫李明。我们一见如故，很快就开始了恋爱关系。他是一个非常支持和理解我的人。我们经常一起讨论未来的生活，计划着结婚和组建家庭。",
+                "location": "大学校园",
+                "happen_time": "2002年06月-2002年12月",
+                "participants": "余莹育, 李明",
+                "impact": "这段恋爱关系让我感到被认可和接受，增强了我的自信心和对未来的信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "2003年，我和李明结婚了。婚礼上，我感受到来自亲友的祝福和支持，这让我更加坚定了要成为一个有责任感的妻子和母亲的信念。",
+                "location": "小城市的婚礼场地",
+                "happen_time": "2003年05月",
+                "participants": "余莹育, 李明, 家人和朋友",
+                "impact": "婚礼使我更加明确了家庭责任感的重要性，并希望在未来成为家庭的支柱。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "2004年，我的好朋友小美因为学业压力过大而失眠。我经常陪她聊天，安慰她，帮助她减轻压力。",
+                "location": "大学宿舍",
+                "happen_time": "2004年03月-2004年06月",
+                "participants": "余莹育, 小美",
+                "impact": "通过帮助小美，我感受到自己有能力支持他人，这强化了我的核心信念——我是一个责任感很强的人。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "2006年，我怀孕了。这个消息让整个家庭都非常高兴，但也让我开始感到压力。我必须尽力保障胎儿的健康，并为成为母亲做好准备。",
+                "location": "大城市的家中",
+                "happen_time": "2006年07月",
+                "participants": "余莹育, 李明, 家人",
+                "impact": "怀孕让我更加意识到自己的责任感，同时也增加了对未来的不确定性和压力。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "2007年，我目睹了邻居家夫妻因家庭琐事而争吵，这让我深思家庭和谐的重要性，并决心努力避免这种情况发生在自己家中。",
+                "location": "邻居家",
+                "happen_time": "2007年03月",
+                "participants": "余莹育, 邻居夫妻",
+                "impact": "这一事件使我更加坚定了要保持家庭和谐的信念，并在日常生活中更加注重沟通和理解。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "2007年，我的女儿出生了，这让我感到既兴奋又紧张。我开始学习如何照顾婴儿，逐渐适应新身份。",
+                "location": "医院和家中",
+                "happen_time": "2007年10月",
+                "participants": "余莹育, 李明, 女儿",
+                "impact": "成为母亲的角色让我感到责任重大，同时也让我感受到无尽的爱和满足感。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "2009年，我女儿开始上幼儿园，但她总是哭闹不止，不愿意离开我。我每天都要花很长时间安抚她，直到她逐渐适应。",
+                "location": "幼儿园",
+                "happen_time": "2009年09月",
+                "participants": "余莹育, 女儿, 幼儿园老师",
+                "impact": "这段经历让我认识到自己在孩子成长过程中的重要角色，并更加重视自己的责任感。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "2010年，我的一位朋友因为不善于处理家庭关系而导致婚姻破裂。我目睹了她的痛苦和孤独，这让我更加珍惜自己的婚姻，并努力维护家庭幸福。",
+                "location": "朋友家",
+                "happen_time": "2010年05月",
+                "participants": "余莹育, 朋友",
+                "impact": "朋友的婚姻破裂让我更加坚定了要维持家庭和谐的决心，并学会了更好地处理家庭关系。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "2012年，我女儿在学校被同学欺负，她很难过。我主动与老师和家长沟通，最终解决了问题。这让我感到自豪，也增强了我的信心。",
+                "location": "学校",
+                "happen_time": "2012年03月",
+                "participants": "余莹育, 女儿, 老师, 其他家长",
+                "impact": "通过解决女儿在学校的问题，我感受到了作为母亲的力量和责任，也提升了我的自信心。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "2014年，家庭经济出现了一些困难，我和李明不得不认真讨论开源节流的对策。我们共同制定了预算计划，并一起克服了困难。",
+                "location": "家中",
+                "happen_time": "2014年06月",
+                "participants": "余莹育, 李明",
+                "impact": "这段经历让我更加意识到夫妻间的合作和沟通的重要性，并增强了我们的家庭凝聚力。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "2015年，我在社区活动中认识了一位单亲妈妈，她独自抚养孩子，非常坚强。这让我反思自己平时遇到的小困难，并学会了更加珍惜和感恩现在的生活。",
+                "location": "社区活动中心",
+                "happen_time": "2015年08月",
+                "participants": "余莹育, 单亲妈妈",
+                "impact": "单亲妈妈的坚强让我学会了感恩和珍惜自己的生活，并激励我更加努力地面对生活中的挑战。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "2016年，我参加了一个家庭教育讲座，学到了很多育儿知识，并开始在家中实践。这不仅改善了亲子关系，也让我感到自己在不断进步。",
+                "location": "讲座会场",
+                "happen_time": "2016年04月",
+                "participants": "余莹育, 讲座讲师, 其他家长",
+                "impact": "通过学习和实践育儿知识，我感到自己在不断成长，并增强了自信心和家庭责任感。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "2017年，我和李明因为一些家庭琐事发生了争吵。经过冷静思考和沟通，我们最终达成了共识，解决了问题。这次经历让我认识到沟通的重要性。",
+                "location": "家中",
+                "happen_time": "2017年11月",
+                "participants": "余莹育, 李明",
+                "impact": "这次争吵和解决过程让我更加重视沟通，并认识到夫妻间理解和包容的重要性。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "2018年，我参加了一次社区志愿活动，看到很多志愿者无私地帮助他人，我深受感动，并决定以后要更多地参与社区服务。",
+                "location": "社区服务中心",
+                "happen_time": "2018年06月",
+                "participants": "余莹育, 志愿者",
+                "impact": "志愿者们的无私奉献让我更加坚定了帮助他人的信念，并激励我更多地参与社区服务。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "余莹育",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我帮女儿选择兴趣班时感到非常困惑，不知道该选哪一个。每次和丈夫讨论这个问题，他都说让我做决定，这让我倍感压力。",
+                "location": "家中客厅",
+                "happen_time": "2024年1月",
+                "participants": "余莹育、丈夫、女儿",
+                "impact": "增加了决断困难的焦虑感，强化了她对自己决策能力的怀疑。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我发现自己无法记住几天前和亲戚讨论过的话题，这让我非常尴尬和自责。",
+                "location": "亲戚家",
+                "happen_time": "2024年2月",
+                "participants": "余莹育、亲戚",
+                "impact": "增加了对记忆力下降的焦虑，强化了她觉得自己不再被认同的感觉。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到朋友小丽因为工作压力大而长期失眠，最后不得不辞职。这让我更加担心自己在家庭中的责任会不会也让自己身心疲惫。",
+                "location": "朋友家",
+                "happen_time": "2024年3月",
+                "participants": "余莹育、朋友小丽",
+                "impact": "加重了对于自己责任感过重的担忧，担心自己也会出现类似的身心问题。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在和丈夫的一次争吵中，他抱怨我不够果断，这让我感到非常受伤和无助。",
+                "location": "家中客厅",
+                "happen_time": "2024年4月",
+                "participants": "余莹育、丈夫",
+                "impact": "进一步削弱了她的自信心，增加了决断困难的心理负担。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我参加了一次家长会，发现自己在面对其他家长和老师时显得非常紧张，甚至有些话都记不住。",
+                "location": "女儿的学校",
+                "happen_time": "2024年5月",
+                "participants": "余莹育、其他家长、老师",
+                "impact": "增强了对自己表现的焦虑感，担心自己不被认可。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我注意到邻居家的孩子在兴趣班上取得了很好的成绩，这让我感到自己的女儿可能会落后。",
+                "location": "小区公园",
+                "happen_time": "2024年6月",
+                "participants": "余莹育、邻居",
+                "impact": "增加了对自己教育决策的怀疑和压力感。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我和女儿一起做作业时，发现自己有些简单的题目也记不清了，这让我非常沮丧。",
+                "location": "家中书房",
+                "happen_time": "2024年7月",
+                "participants": "余莹育、女儿",
+                "impact": "进一步加深了对自己记忆力的担忧和自责感。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我发现自己记不清一些重要的家庭事件，比如亲戚的生日和重要节日，这让我非常尴尬和焦虑。",
+                "location": "亲戚家",
+                "happen_time": "2024年8月",
+                "participants": "余莹育、亲戚",
+                "impact": "增加了对记忆力下降的焦虑，强化了她觉得自己不再被认同的感觉。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次社区活动中，我观察到其他妈妈们都很自信地交流和分享经验，这让我感到自己与她们的差距越来越大。",
+                "location": "社区活动中心",
+                "happen_time": "2023年12月",
+                "participants": "余莹育、其他社区妈妈们",
+                "impact": "加深了对自己不自信的感觉，强化了对自我价值的怀疑。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次打麻将的过程中，多次忘记出牌规则，让朋友们笑话我，这让我非常尴尬和不安。",
+                "location": "朋友家",
+                "happen_time": "2023年11月",
+                "participants": "余莹育、朋友们",
+                "impact": "加剧了对自己记忆力的担忧，增加了社交中的不自在感。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次家庭聚会上，忘记了给女儿准备生日蛋糕，这让女儿非常失望，我感到非常内疚。",
+                "location": "家中",
+                "happen_time": "2023年10月",
+                "participants": "余莹育、丈夫、女儿",
+                "impact": "增加了自责感和对自己记忆力的怀疑，强化了责任感过重的压力。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到朋友小张因为工作表现出色而得到认可，这让我感到自己在家庭中的努力似乎没有被看到。",
+                "location": "朋友公司",
+                "happen_time": "2023年9月",
+                "participants": "余莹育、朋友小张",
+                "impact": "增加了对自己努力是否被认可的怀疑，强化了需要外界认可的核心信念。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次家庭财务讨论中，发现自己对一些基本的财务知识感到困惑，这让我感到非常无助和自责。",
+                "location": "家中书房",
+                "happen_time": "2023年8月",
+                "participants": "余莹育、丈夫",
+                "impact": "增加了对自己能力的不自信感以及对家庭责任感的压力。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次女儿学校的家长会中，我发现其他家长对孩子的教育有很多想法，而我却一片茫然，这让我感到非常焦虑。",
+                "location": "女儿的学校",
+                "happen_time": "2023年7月",
+                "participants": "余莹育、其他家长、老师",
+                "impact": "加重了对自己教育决策能力的怀疑，增加了心理压力。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到姐姐因为长期家庭压力而患上了抑郁症，这让我非常担心自己也会面临同样的问题。",
+                "location": "姐姐家",
+                "happen_time": "2023年6月",
+                "participants": "余莹育、姐姐",
+                "impact": "增加了对自己心理健康的担忧，担心自己会因为家庭责任感而崩溃。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次社区活动中，我发现自己对一些简单的事情也无法做出决定，这让我感到非常无助和不安。",
+                "location": "社区活动中心",
+                "happen_time": "2023年5月",
+                "participants": "余莹育、社区成员",
+                "impact": "加重了决断困难的焦虑，强化了对自己决策能力的怀疑。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到邻居家的孩子因为选择了适合的兴趣班而变得非常优秀，这让我感到自己在为女儿选择兴趣班时非常犹豫和困惑。",
+                "location": "小区公园",
+                "happen_time": "2023年4月",
+                "participants": "余莹育、邻居",
+                "impact": "增加了对自己决策的怀疑和焦虑感，担心自己做出的选择不够好。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭讨论中，我和丈夫在孩子的教育问题上产生了分歧，这让我非常困惑和焦虑，不知道该怎么做出决定。",
+                "location": "家中客厅",
+                "happen_time": "2023年3月",
+                "participants": "余莹育、丈夫",
+                "impact": "增加了决断困难的焦虑，强化了对自己决策能力的怀疑。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我注意到朋友小王在家庭和工作之间游刃有余，这让我感到自己在家庭责任上显得很吃力。",
+                "location": "朋友家",
+                "happen_time": "2023年2月",
+                "participants": "余莹育、朋友小王",
+                "impact": "增加了对自己承担家庭责任能力的怀疑，强化了对自己不够出色的感觉。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，亲戚们对我的家庭事务管理提出了一些建议，这让我感到自己被质疑和否定。",
+                "location": "亲戚家",
+                "happen_time": "2023年1月",
+                "participants": "余莹育、亲戚们",
+                "impact": "增加了对自己家庭管理能力的怀疑，强化了需要外界认可的核心信念。"
+            }
+        ]
+    }
+}

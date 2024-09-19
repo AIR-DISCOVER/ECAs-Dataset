@@ -1,0 +1,208 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "温和",
+            "责任感强",
+            "有些悲观",
+            "细心"
+        ],
+        "appearance": [
+            "中等身材",
+            "略显疲惫",
+            "普通",
+            "黑发",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "散步",
+                "看电影"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "调整心态，恢复对生活的兴趣",
+            "long_term_goals": "在工作上取得更大的成就，给家人更好的生活"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点上班，工作到下午5点，晚上和家人共进晚餐，之后会看书或听音乐放松。",
+            "weekends": "周末会和家人一起去公园散步，有时会看电影或做一些家务。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他要求严格，从小成绩优异。",
+            "adolescence": "中学时期成绩依然优秀，但性格逐渐变得内向，喜欢独处。",
+            "youth": "大学期间选择了计算机专业，毕业后顺利找到工作，结婚生子。",
+            "recent_events": "最近工作压力较大，感到心情低落，兴趣下降。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书，毕业后回到南京工作和生活。",
+        "persona_summary": "曹全中，36岁，已婚，性格内向、温和且责任感强。近期情绪低落、兴趣下降，主要因工作压力大，但睡眠食欲和社会功能正常。日常生活规律，喜欢阅读、听音乐和散步，重视家庭生活。短期目标是调整心态，恢复生活兴趣，长期目标是工作上取得更大成就，给家人更好生活。出生在南京，大学在北京读书，毕业后回南京工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲是一个严厉但关心家庭的人，对曹全中的学业要求很高。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲温柔体贴，总是支持曹全中的决定，给他提供情感上的支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "童年的朋友们一起玩耍，但随着时间的推移，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "随着学业压力增加，父亲的严厉让曹全中感到有些压抑。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是他情感的支柱，但有时也会因为学业问题与他争执。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期的同学关系一般，更多的是学业上的竞争。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "大学期间结交了几位志同道合的朋友，彼此分享学习和生活的点滴。"
+                    ]
+                },
+                {
+                    "relationship": "妻子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "大学毕业后结婚，妻子是他生活中的重要支柱，给予他无尽的支持和理解。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "工作后与同事保持良好的关系，但更多的是工作上的交流。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "妻子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "妻子依然是他最亲近的人，但最近由于工作压力，他与妻子的交流减少了。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "孩子是他生活的动力，但有时也会因为工作忙碌而忽略了陪伴。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "工作压力大，和同事的关系变得有些紧张。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "曹全中的社交关系在不同阶段有明显变化。童年时期与父母和朋友的关系较为亲密，但随着学业压力的增加，父亲的严厉让他感到压抑。青春期的同学关系一般，更多的是学业上的竞争。大学期间结交了几位志同道合的朋友，毕业后结婚，妻子成为他生活中的重要支柱。工作后与同事保持良好的关系，但更多的是工作上的交流。最近由于工作压力，他与妻子的交流减少，和同事的关系变得有些紧张。"
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我是不够好的。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我有责任照顾好母亲。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我能够克服困难。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我必须独自承受一切。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须不断努力，才能证明自己。",
+                "others": "他人总是比我优秀。",
+                "world": "世界对我来说充满了挑战，我必须时刻准备应对。"
+            },
+            "rules": "我必须拼尽全力，无论如何都不能失败。",
+            "positive_assumption": "如果我不断努力，我会变得更好。",
+            "negative_assumption": "如果我失败了，那就证明我真的不够好。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要不断提升自己。",
+                "others": "他人可能会看不起我。",
+                "world": "在这个竞争激烈的世界，我必须不断进步。"
+            },
+            "rules": "我不能懈怠，必须保持进步。",
+            "positive_assumption": "如果我保持努力，我会赢得他人的认可。",
+            "negative_assumption": "如果我停滞不前，我会被他人抛弃。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须承担起照顾母亲的责任。",
+                "others": "他人无法理解我的责任。",
+                "world": "在这个世界上，只有我能照顾好母亲。"
+            },
+            "rules": "我应该把母亲的需要放在首位。",
+            "positive_assumption": "如果我照顾好母亲，我会感到安心和满足。",
+            "negative_assumption": "如果我无法照顾好母亲，我会感到内疚和自责。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力面对生活中的挑战。",
+                "others": "他人在关键时刻会给予我支持。",
+                "world": "世界虽然充满挑战，但我可以应对。"
+            },
+            "rules": "我应该保持乐观，并积极应对生活中的困难。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我能找到解决问题的方法。",
+                "others": "他人也会遇到困难，但我们可以互相支持。",
+                "world": "这个世界是公平的，努力会有回报。"
+            },
+            "rules": "我应该积极寻找解决问题的办法。",
+            "positive_assumption": "如果我积极面对，我会找到解决问题的途径。",
+            "negative_assumption": "如果我放弃，我会失去解决问题的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不能依赖他人，必须独立解决问题。",
+                "others": "他人不会真正理解我的困难。",
+                "world": "这个世界是冷漠的，每个人都得自己承担责任。"
+            },
+            "rules": "我应该独自面对和解决所有问题。",
+            "positive_assumption": "如果我独自解决问题，我会证明自己的能力。",
+            "negative_assumption": "如果我依赖他人，我会显得软弱和无能。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须隐藏我的脆弱，不让他人看到。",
+                "others": "他人不会真正关心我的感受。",
+                "world": "在这个世界上，只有强者才能生存。"
+            },
+            "rules": "我应该隐藏我的情感，不让别人知道我的困难。",
+            "positive_assumption": "如果我隐藏困难，我会被看作坚强和独立。",
+            "negative_assumption": "如果我暴露脆弱，我会被认为是无能和软弱。"
+        }
+    ]
+}

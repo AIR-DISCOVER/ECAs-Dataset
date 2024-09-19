@@ -1,0 +1,219 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "幽默",
+            "乐观",
+            "社交"
+        ],
+        "appearance": [
+            "普通",
+            "微胖",
+            "头发花白",
+            "精神矍铄"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "打牌",
+                "看孙子",
+                "与朋友聚会"
+            ],
+            "activity": [
+                "和老哥们打牌",
+                "偶尔下馆子",
+                "与家人通电话"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望儿子能带孙子多来看望自己",
+            "long_term_goals": "希望家庭和睦，儿孙满堂"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后自己做早餐，上午在家看电视或读报纸，下午与老哥们打牌，晚上自己做晚餐或与朋友下馆子。",
+            "weekends": "周末通常会与儿子和孙子见面，或者与朋友们一起聚会。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的农村家庭，家境一般。",
+            "adolescence": "中学毕业后进入工厂工作，生活较为平稳。",
+            "youth": "结婚生子，家庭生活幸福美满。",
+            "middle_aged": "工作稳定，孩子们逐渐长大成人。",
+            "recent_events": "退休后生活较为悠闲，但老伴被女儿接去照顾月子，自己一个人住。"
+        },
+        "environment": "出生在一个小县城，年轻时在工厂工作，退休后生活在城市的老年社区。",
+        "persona_summary": "费功平，72岁，已婚，退休，性格善良、关心、幽默、乐观且社交。外貌普通、微胖、头发花白，精神矍铄。平日爱好打牌、看孙子、与朋友聚会。日常生活规律，上午看电视或读报，下午打牌，晚上做晚餐或下馆子。希望儿子多带孙子看望自己，追求家庭和睦、儿孙满堂。退休生活悠闲，目前独居，老伴因女儿需要照顾月子暂不在身边。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是家里的顶梁柱，母亲温柔体贴。"
+                    ]
+                },
+                {
+                    "relationship": "兄弟姐妹",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "与兄弟姐妹关系亲密，经常一起玩耍。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 10,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "在学校里有几个要好的朋友，经常一起学习和玩耍。"
+                    ]
+                },
+                {
+                    "relationship": "工友",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "进入工厂后，与工友们关系融洽，互相帮助。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "配偶",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "与妻子结婚后，感情深厚，互相扶持。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "有一个儿子和一个女儿，孩子们小时候关系非常亲密。"
+                    ]
+                }
+            ],
+            "middle_aged": [
+                {
+                    "relationship": "同事",
+                    "count": 8,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "工作稳定，与同事们关系良好，经常一起聚餐。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 6,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "有几个老朋友，经常一起打牌和聚会。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "老哥们",
+                    "count": 4,
+                    "familiarity": [
+                        5,
+                        5,
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "退休后与老哥们关系更加紧密，每天一起打牌。"
+                    ]
+                },
+                {
+                    "relationship": "儿子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "儿子住得近，经常来看望自己。"
+                    ]
+                },
+                {
+                    "relationship": "孙子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "非常想念孙子，希望能多见到他。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "费功平在不同人生阶段的社交关系经历了显著变化。童年时期，他与家人关系亲密，兄弟姐妹是他最亲近的人。进入青春期后，他的社交圈扩大，同学和工友成为他生活中的重要部分。结婚生子后，家庭成为他生活的重心，与妻子和孩子的关系非常紧密。中年时期，他的工作和朋友关系稳定，社交活动频繁。退休后，老哥们成为他主要的社交对象，虽然儿子经常来看望他，但他仍然非常想念孙子。"
+    }
+}

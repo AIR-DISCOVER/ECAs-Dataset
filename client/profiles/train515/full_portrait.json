@@ -1,0 +1,182 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "犹豫不决",
+            "责任感强",
+            "情绪化"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "皮肤白皙",
+            "黑色长发",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "绘画",
+                "散步"
+            ],
+            "activity": [
+                "独自一人听音乐",
+                "在公园散步",
+                "在家里画画"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能够恢复正常的情绪状态，重新找到生活的乐趣。",
+            "long_term_goals": "希望能够在工作中取得成就，找到一个理解和支持自己的伴侣，过上稳定幸福的生活。"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后感到特别难过，勉强完成个人卫生和简单的家务。工作时常常感到压力巨大，效率低下。晚上常常失眠，需要一到两小时才能入睡。",
+            "weekends": "周末大部分时间独自在家，偶尔会去公园散步，听音乐或画画来缓解情绪。"
+        },
+        "past_experiences": {
+            "childhood": "童年时期性格内向，成绩优异，但与同龄人交往较少。",
+            "adolescence": "青春期时曾经历过一次严重的学业压力，导致情绪低落，但最终通过努力考上了理想的大学。",
+            "recent_events": "最近与男朋友闹矛盾，工作压力大，导致情绪持续低落，兴趣丧失，记忆力变差，决断困难。"
+        },
+        "environment": "出生在一个小城市，家庭环境较为普通。大学毕业后在大城市找到了一份工程师的工作，但工作压力大，人际关系复杂，导致情绪问题加重。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "喻勤飘的父亲是一名普通的工人，性格严肃但关心家庭。虽然父女之间的交流不多，但父亲对她的学业非常重视，经常督促她学习。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "喻勤飘的母亲是一名家庭主妇，性格温和。母亲是她童年时期最亲近的人，常常在她遇到困难时给予支持和安慰。"
+                    ]
+                },
+                {
+                    "relationship": "同龄朋友",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        3
+                    ],
+                    "description": [
+                        "喻勤飘在童年时期有两个比较要好的朋友，但由于性格内向，她们的关系并不算特别亲密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入青春期后，喻勤飘与父亲的关系变得更加疏远，父亲对她的学业压力也逐渐增加。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是她最亲近的人，但由于学业压力，喻勤飘与母亲的交流也减少了。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        3
+                    ],
+                    "description": [
+                        "在学校里，喻勤飘有几个同学朋友，但她们的关系并不算特别亲密，更多的是学业上的交流。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "喻勤飘与两位老师关系较好，特别是一位班主任老师，对她的学业和心理状态给予了很多帮助。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "男朋友",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "喻勤飘与男朋友的关系曾经非常亲密，但最近因为矛盾导致关系紧张，情绪低落。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "喻勤飘在工作中与同事的关系较为一般，因工作压力大，她觉得自己在连累同事，导致不敢与同事交流。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "喻勤飘有两个比较要好的朋友，但由于情绪低落，她与朋友的联系也减少了。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "喻勤飘在不同阶段的社交关系发生了显著变化。童年时期，她与父母关系较为亲密，但与同龄人交往较少。进入青春期后，学业压力增加，她与父母的关系变得疏远，与同学和老师的关系有所增加。最近，由于工作压力和与男朋友的矛盾，她的社交关系变得更加紧张，导致她更加回避社交，情绪低落。"
+    }
+}

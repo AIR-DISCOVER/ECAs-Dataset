@@ -1,0 +1,186 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "缺乏自信",
+            "容易焦虑",
+            "善良"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "皮肤白皙",
+            "黑色长发",
+            "眼神有些黯淡"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐",
+                "写日记"
+            ],
+            "activity": [
+                "独自去图书馆",
+                "在公园里散步",
+                "在家里画画"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能够顺利完成学业，找到一些让自己感兴趣的事情。",
+            "long_term_goals": "希望能够找到一份稳定的工作，过上平静的生活，能够自信地面对生活中的挑战。"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后感到特别沉重，勉强去上课，课后通常会去图书馆或回宿舍。晚上情绪稍微好转，但仍然感到疲倦和无望。",
+            "weekends": "周末大部分时间在宿舍里度过，偶尔会去公园散步或去图书馆看书。"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格比较活泼，但由于父母工作忙碌，缺乏足够的陪伴和关爱。",
+            "adolescence": "中学时期成绩优异，但因为一次考试失利，开始对自己产生怀疑，逐渐变得内向和自卑。",
+            "recent_events": "最近因为老师在全班同学面前批评，感到非常丢人，觉得同学们都在嘲笑她，情绪低落，开始有自杀的想法。"
+        },
+        "environment": "出生在一个小城市，家庭经济条件一般。父母工作忙碌，缺乏对她的关注和陪伴。现在在一所大学读书，住在学校宿舍。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "父亲工作忙碌，虽然关心她，但缺乏足够的陪伴。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲同样工作繁忙，虽然爱她，但很少有时间陪伴她。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "小时候有两个好朋友，经常一起玩耍，但随着时间推移，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "父亲依旧忙碌，关系变得更加疏远。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "母亲的工作压力增大，陪伴时间更少。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "中学时期有一个好朋友，但因为一次考试失利，关系变得紧张。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "老师对她的期望很高，但批评也很多，导致她对自己产生怀疑。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        1
+                    ],
+                    "description": [
+                        "父亲依旧忙碌，几乎没有交流。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        1
+                    ],
+                    "description": [
+                        "母亲的工作压力依旧很大，关系更加疏远。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "最近因为老师的批评，觉得同学们都在嘲笑她，关系变得紧张。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        1
+                    ],
+                    "description": [
+                        "老师的批评让她感到非常丢人，关系变得更加紧张。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "朱媛妍在不同阶段的社会关系发生了显著变化。童年时期，她有几个好朋友，但随着时间推移，联系逐渐减少。中学时期，她的朋友数量减少，关系变得紧张，尤其是在一次考试失利后。最近，她的社会关系变得更加疏远，尤其是因为老师的批评，她觉得同学们都在嘲笑她，导致她更加孤立。总体来看，她的社会关系从童年的相对稳定逐渐变得疏远和紧张，影响了她的社交能力和意愿。"
+    }
+}

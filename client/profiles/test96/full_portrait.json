@@ -1,0 +1,171 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "善良",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "皮肤较白",
+            "略显憔悴"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "写作",
+                "看电影"
+            ],
+            "activity": [
+                "独自散步",
+                "在图书馆学习",
+                "和朋友聊天"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "尽快恢复正常的学习状态，顺利通过考试",
+            "long_term_goals": "成为一名优秀的工程师，找到一份稳定的工作"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后感到特别沉重，勉强去上课，下午在图书馆或宿舍学习，晚上难以入睡，经常在床上辗转反侧。",
+            "weekends": "周末通常会在宿舍休息，偶尔会和朋友出去散步或看电影，但大部分时间还是感到无聊和疲倦。"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格活泼，但由于父母工作忙碌，常常感到孤独。",
+            "adolescence": "中学时期成绩优异，但由于性格内向，朋友不多。高考后进入大学，开始感受到学业压力。",
+            "recent_events": "上学期挂科后，自信心大受打击，开始出现抑郁症状。"
+        },
+        "environment": "出生在一个小城市，家庭经济条件一般。大学在省会城市就读，远离家乡，独自生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "邹进保的父母工作忙碌，虽然他们尽力在有限的时间里陪伴他，但他仍然常常感到孤独。父母对他的期望很高，这让他从小就感受到一定的压力。"
+                    ]
+                },
+                {
+                    "relationship": "祖父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "邹进保的祖父母在他小时候对他非常关爱，常常照顾他的日常生活。他们的关怀让他在孤独时感到一丝温暖。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "邹进保在小学时有几个好朋友，他们常常一起玩耍，但由于性格内向，他并没有和他们建立非常深厚的友谊。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "进入中学后，邹进保的父母对他的学业更加关注，但由于工作繁忙，他们陪伴他的时间依然有限。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "邹进保在中学时的班主任和数学老师对他影响很大，他们不仅在学业上给予他指导，还在生活中给予他关心。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学时期，邹进保的朋友不多，但他和其中两个同学关系较好，常常一起讨论学习问题。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "大学期间，邹进保和宿舍的同学关系一般，虽然他们常常一起上课和吃饭，但他并没有向他们敞开心扉。"
+                    ]
+                },
+                {
+                    "relationship": "前女友",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "邹进保的前女友是他大学期间最亲密的人，他们曾经一起度过了很多美好时光，但分手后他一直无法走出失恋的阴影。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "邹进保最近开始寻求心理咨询师的帮助，虽然他们的接触时间不长，但他已经感受到了一些支持和理解。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "邹进保的社交能力和意愿在不同阶段有明显变化。小时候由于父母工作忙碌，他常常感到孤独，虽然有祖父母的关爱，但他仍然渴望更多的陪伴。中学时期，他的学业压力增加，朋友不多，但与老师的关系较好。进入大学后，他远离家乡，独自生活，虽然有一些同学和前女友的陪伴，但失恋和学业压力让他感到更加孤独和无助。最近，他开始寻求心理咨询师的帮助，希望能够走出抑郁的阴影。"
+    }
+}

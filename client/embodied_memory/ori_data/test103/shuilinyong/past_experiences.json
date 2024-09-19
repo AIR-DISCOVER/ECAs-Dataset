@@ -1,0 +1,463 @@
+{
+    "childhood": {
+        "name": "水琳咏",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我在小学一年级的时候，有一次考试得了90分，回家后爸爸对我说：'为什么没拿满分？你应该可以做得更好。' 他的语气很严肃，我感到非常失望和内疚。",
+                "location": "家里的客厅",
+                "happen_time": "1996年6月",
+                "participants": "父亲",
+                "impact": "这个事件强化了水琳咏的核心信念'我不够好'和中间信念'我必须表现得完美，以避免父母的批评'。她更加努力学习，但也变得更加焦虑。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我在学校的绘画比赛中获得了第一名。妈妈看到我的奖杯后，笑着抱住我说：'我就知道你很棒，你的努力没有白费。' 我当时感到无比的快乐和自豪。",
+                "location": "家里的厨房",
+                "happen_time": "1998年10月",
+                "participants": "母亲",
+                "impact": "这个事件强化了水琳咏的核心信念'我可以变得更好'和中间信念'如果我不断进步，我会变得更强大，并获得父母的认可'。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父母在争吵，妈妈指责爸爸工作太忙，忽略了家庭。爸爸大声说：'我这么辛苦工作不就是为了这个家吗？' 我吓得躲在门后，心里感到很不安。",
+                "location": "家里的客厅",
+                "happen_time": "1997年3月",
+                "participants": "父母",
+                "impact": "这次争吵让水琳咏感到家庭并不总是和谐，这可能强化了她的中间信念'我必须对家庭和学业负责'，认为自己也需要承担更多责任以维持家庭的和谐。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在小学五年级时，有一次我和同学争执，老师批评了我，说我不应该和同学争吵。我感到非常羞愧和失望。",
+                "location": "学校教室",
+                "happen_time": "2000年5月",
+                "participants": "老师、同学",
+                "impact": "这个事件强化了水琳咏的核心信念'我不够好'和中间信念'如果我犯错，我会让父母失望，并被视为无能'，使她更加内向和敏感。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "一次在社区活动中，我看到邻居家的孩子因为成绩不好被父母责骂。我看到那个孩子哭得很伤心，心里也感到很难过。",
+                "location": "社区活动中心",
+                "happen_time": "1999年8月",
+                "participants": "邻居家的孩子及其父母",
+                "impact": "这次观察使水琳咏更加认同'只有表现出色的人才会被认可'的中间信念，进一步增强了她对完美的追求。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在小学四年级的一次体育比赛中，我因为跑步摔倒没有取得好成绩，回家后爸爸严厉地说：'你怎么这么不小心！' 我感到极度的失望和自责。",
+                "location": "家里的客厅",
+                "happen_time": "1999年4月",
+                "participants": "父亲",
+                "impact": "这个事件强化了水琳咏的核心信念'我没有价值'和中间信念'如果我无法成功，我就没有存在的意义'。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "有一次，妈妈生病了，我主动帮忙照顾家务，她夸奖我说：'琳咏，你真是个乖孩子，妈妈能依靠你。' 我感到非常开心和满足。",
+                "location": "家里的厨房",
+                "happen_time": "2001年2月",
+                "participants": "母亲",
+                "impact": "这个事件增加了水琳咏的责任感，强化了她的核心信念'我应该对所有事情负责'和中间信念'如果我能够承担责任，我会被视为可靠和值得信赖'。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在路上看到一位老人摔倒，很多人都没有去帮忙。我感到非常震惊和难过，觉得世界对弱者没有同情心。",
+                "location": "街道",
+                "happen_time": "2000年7月",
+                "participants": "陌生老人和路人",
+                "impact": "这次观察让水琳咏强化了'世界对不完美没有容忍度'的中间信念，并增加了她对自己的高要求。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我的表弟因为考试成绩不好被父母责备。我父母对我说：'琳咏，你看你表弟多不争气，你要好好表现，不要像他那样。' 我感到巨大的压力。",
+                "location": "祖父母家",
+                "happen_time": "1996年12月",
+                "participants": "父母、表弟及其父母",
+                "impact": "这个事件强化了水琳咏的核心信念'我必须对所有事情负责'和中间信念'如果我犯错，我会让父母失望，并被视为无能'。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次我在家里听到邻居家的夫妻争吵，声音很大，甚至听到了摔东西的声音。我感到很害怕，觉得家庭关系是很脆弱的。",
+                "location": "家里的卧室",
+                "happen_time": "1998年3月",
+                "participants": "邻居夫妻",
+                "impact": "这次观察让水琳咏感到家庭关系的不稳定，强化了她的中间信念'我需要尽量避免成为父母的负担'。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "小学六年级毕业时，我被评为优秀学生，校长在全校大会上表扬了我。我感到非常自豪和开心。",
+                "location": "学校操场",
+                "happen_time": "2002年6月",
+                "participants": "校长、同学",
+                "impact": "这个事件强化了水琳咏的核心信念'我可以变得更好'和中间信念'如果我能变得更好，父母会更加重视我'。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次我看到妈妈因为工作压力大而哭泣。我心里很难过，觉得自己应该承担更多责任，帮妈妈减轻负担。",
+                "location": "家里的卧室",
+                "happen_time": "2001年9月",
+                "participants": "母亲",
+                "impact": "这次观察使水琳咏的责任感进一步增强，强化了她的核心信念'我应该对所有事情负责'。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "水琳咏",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在初中第一次考试成绩公布时，我发现自己在班级排名中只是中等水平。看到其他同学的成绩单，我感到非常失望和羞愧。",
+                "location": "初中教室",
+                "happen_time": "2003年10月",
+                "participants": "同班同学",
+                "impact": "这次经历加深了我对自己不够好的信念，激发了我必须在学业上表现得完美的中间信念，并开始产生对学业的高度焦虑。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次数学竞赛中，我获得了全校第一名，校长在全校大会上表扬了我。",
+                "location": "学校礼堂",
+                "happen_time": "2004年5月",
+                "participants": "校长、全校师生",
+                "impact": "这次成功让我短暂地感受到被认可和尊重，增强了我通过学业成就获得价值感的信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班级里一个成绩不好的同学被老师公开批评，其他同学对他投来鄙视的目光。",
+                "location": "初中教室",
+                "happen_time": "2004年9月",
+                "participants": "班主任老师、同学",
+                "impact": "这次观察强化了我的信念，即学业上的失败会导致他人的批评和鄙视，必须在学业上表现得完美。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在高一的一次班级活动中，我主动提出了一个策划方案，但最终失败了，同学们对我感到失望。",
+                "location": "高中教室",
+                "happen_time": "2005年11月",
+                "participants": "高中同学",
+                "impact": "这次失败让我更加觉得自己不值得被同学和导师爱和关心，认为自己总是拖累他人，并强化了我需要不断证明自己的信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在一次英语演讲比赛中，我因紧张而发挥失常，感觉自己令老师和同学失望了。",
+                "location": "学校礼堂",
+                "happen_time": "2006年3月",
+                "participants": "英语老师、同学",
+                "impact": "这次经历加深了我对自己不够好的核心信念，以及害怕让他人失望的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "我听到父母谈论邻居家孩子的优秀成绩，并表示希望我也能像他们一样出色。",
+                "location": "家中客厅",
+                "happen_time": "2006年7月",
+                "participants": "父母",
+                "impact": "这次对话让我感到自己不够好，并必须不断努力才能获得认可，增强了我在学业上的压力和责任感。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在高二的一次模拟考试中，我取得了全班第一名，老师在班会上特别表扬了我。",
+                "location": "高中教室",
+                "happen_time": "2006年12月",
+                "participants": "班主任、同学",
+                "impact": "这次成功让我短暂地感受到成就感和被认可的感觉，但同时也加剧了对未来学业表现的压力。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在大学申请过程中，我因成绩优异被北京一所知名大学的市场营销专业录取。",
+                "location": "家中",
+                "happen_time": "2007年6月",
+                "participants": "父母",
+                "impact": "这次成功让我感到自己可以通过努力变得更好，同时也加强了我对学业责任感的信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "在大学入学报到时，我看到一些同学因为没考上理想大学而流泪。",
+                "location": "大学校园",
+                "happen_time": "2007年9月",
+                "participants": "新生同学",
+                "impact": "这次观察让我意识到学业失败对他人造成的巨大压力，进一步强化了我对自己学业责任感的信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在大学的一次小组项目中，我担任了组长，但由于时间管理问题，项目未能按时完成。虽然组员们并未责怪我，但我感到自己辜负了他们的期望。",
+                "location": "大学图书馆",
+                "happen_time": "2007年12月",
+                "participants": "同组同学",
+                "impact": "这次失败让我感到自己必须对所有事情负责，并进一步强化了对学术责任感和完美要求的中间信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在大学的一次期末考试中，我因为身体不适未能发挥出最佳水平，成绩不理想。",
+                "location": "大学教室",
+                "happen_time": "2008年1月",
+                "participants": "大学教授",
+                "impact": "这次经历让我更加觉得自己不够好，并加深了对学业表现的焦虑，进一步强化了我必须在学业上表现得完美的信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一位同学因为学术问题向导师请求帮助，导师耐心地给予了指导和支持。",
+                "location": "大学导师办公室",
+                "happen_time": "2008年3月",
+                "participants": "同学、导师",
+                "impact": "这次观察让我意识到请求帮助并不会被视为负担，稍微减轻了我对成为他人负担的担忧。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在一次品牌营销大赛中，我的团队获得了一等奖，导师在课后特别表扬了我。",
+                "location": "大学校园",
+                "happen_time": "2008年5月",
+                "participants": "导师、团队成员",
+                "impact": "这次成功让我感受到通过努力可以获得认可和成长，增强了我可以变得更好的信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "大学毕业典礼上，我被评为优秀毕业生，导师在私人聚会上特意表扬了我。",
+                "location": "大学礼堂",
+                "happen_time": "2008年6月",
+                "participants": "导师、同学、家长",
+                "impact": "这次肯定让我感受到自己的努力得到了认可，但同时也增强了对未来职业发展的高度责任感和压力。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "在一次导师的私人聚会上，我听到导师谈起一位曾经失败的学生，表示那位学生没有尽到自己的责任。",
+                "location": "导师家中",
+                "happen_time": "2008年7月",
+                "participants": "导师、其他学生",
+                "impact": "这次谈话让我更加相信自己必须对所有事情负责，并且害怕失败会被视为不称职，进一步强化了我对学术责任感和完美要求的信念。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "水琳咏",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2010年夏天，我从北京大学毕业，回到南京找到了一份品牌经理的工作。当时充满了斗志和期待，想要在职业生涯中有所建树。",
+                "location": "南京",
+                "happen_time": "2010年6月",
+                "participants": "无",
+                "impact": "初入职场的激动和期待，增强了自我价值感。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2012年，我的上司对我提了很多要求，期待我能带领团队完成一些高难度的项目。我感到压力巨大，每晚都加班到很晚，试图达到他的期望。",
+                "location": "南京公司",
+                "happen_time": "2012年3月-2012年12月",
+                "participants": "上司",
+                "impact": "感到极大的压力和责任，觉得自己不够好，开始产生自我怀疑。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2015年，我因为一个项目没有达到预期效果，遭到了上司的严厉批评。我感到非常沮丧，觉得自己拖累了团队。",
+                "location": "南京公司",
+                "happen_time": "2015年5月",
+                "participants": "上司，同事",
+                "impact": "巨大的失败感和自责，加深了自我价值感低的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2017年，参加了一个品牌营销的国际会议。会上其他品牌经理的表现让我感到自卑，觉得自己远不如他们。",
+                "location": "上海国际会议中心",
+                "happen_time": "2017年9月",
+                "participants": "国际同行",
+                "impact": "自我怀疑和自卑感进一步加重，觉得自己没有价值。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2018年，我的一位大学好友结婚了，在婚礼上感到自己与同龄人差距越来越大，心情低落。",
+                "location": "南京某酒店",
+                "happen_time": "2018年11月",
+                "participants": "大学好友，其他同学",
+                "impact": "对自己生活状态的不满和失落感，加强了自卑和无望感。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2019年，我在一次重大项目中取得了成功，得到了上司的表扬和同事的认可，但这种满足感很快消失，内心依然觉得空虚。",
+                "location": "南京公司",
+                "happen_time": "2019年7月",
+                "participants": "上司，同事",
+                "impact": "短暂的自我价值感提升，但未能长久，内心空虚感让抑郁情绪加重。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2020年，看到一位同事因为工作压力生病住院，我感到非常担心，开始思考自己的健康状况。",
+                "location": "南京公司",
+                "happen_time": "2020年3月",
+                "participants": "同事",
+                "impact": "对工作压力的恐惧和担忧增加，进一步加重了焦虑和抑郁情绪。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2021年，我的亲密好友因家庭原因搬到了其他城市，我们的联系减少了，我感到孤独和失落。",
+                "location": "南京",
+                "happen_time": "2021年8月",
+                "participants": "亲密好友",
+                "impact": "社交支持减少，孤独感和无望感加重，抑郁情绪进一步恶化。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2022年年底，公司宣布裁员，虽然我没有被裁掉，但感到前途未卜，内心非常焦虑。",
+                "location": "南京公司",
+                "happen_time": "2022年12月",
+                "participants": "同事",
+                "impact": "工作稳定性的担忧和焦虑感增加，加重了抑郁情绪。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年初，我开始频繁加班，试图通过努力工作来证明自己的价值，但身体状况开始恶化，经常感到疲倦和注意力难以集中。",
+                "location": "南京公司",
+                "happen_time": "2023年1月-2023年5月",
+                "participants": "无",
+                "impact": "身体和心理状态恶化，觉得自己无法胜任工作，加重了自我怀疑和抑郁情绪。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年春天，看到一位同事因为无法应对工作压力而辞职，我感到非常震惊和害怕，担心自己也会走到这一步。",
+                "location": "南京公司",
+                "happen_time": "2023年4月",
+                "participants": "同事",
+                "impact": "对职业生涯和自我价值的担忧加剧，进一步加重了抑郁和焦虑情绪。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年7月，我因为压力过大而失眠，每晚辗转反侧，无法入睡，白天工作时注意力难以集中。",
+                "location": "南京家中",
+                "happen_time": "2023年7月",
+                "participants": "无",
+                "impact": "睡眠质量下降，身体疲倦，注意力难以集中，进一步加重了抑郁和焦虑情绪。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年秋天，看到一位朋友在社交媒体上分享他的新成就，我感到非常自卑，觉得自己一无是处。",
+                "location": "南京",
+                "happen_time": "2023年10月",
+                "participants": "朋友",
+                "impact": "自我价值感进一步降低，感到无望和无助，加重了抑郁情绪。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年1月，我在公司年会上没有得到预期的表彰，感到非常失落和自责，觉得自己不够好。",
+                "location": "南京公司",
+                "happen_time": "2024年1月",
+                "participants": "上司，同事",
+                "impact": "失落和自责感加重，自我价值感进一步降低，抑郁情绪加重。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年2月，我的一位亲密朋友发现我情绪低落，劝我去看医生，但我拒绝了，因为觉得自己的问题没有人能理解。",
+                "location": "南京",
+                "happen_time": "2024年2月",
+                "participants": "亲密朋友",
+                "impact": "对帮助的拒绝加重了孤独感和无望感，进一步加重了抑郁情绪。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年3月，在一次团队会议上，我因为一个小错误被上司公开批评，感到非常羞愧和无助。",
+                "location": "南京公司",
+                "happen_time": "2024年3月",
+                "participants": "上司，同事",
+                "impact": "羞愧和无助感加重，自我怀疑和自责进一步恶化，抑郁情绪加重。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年4月，我的母亲打电话问我最近的情况，我无法坦诚告诉她我的抑郁和压力，只能敷衍几句。",
+                "location": "南京家中",
+                "happen_time": "2024年4月",
+                "participants": "母亲",
+                "impact": "无法与家人沟通的无助感和孤独感加重，抑郁情绪进一步恶化。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年5月，看到一位同事因为工作压力导致家庭关系破裂，我感到非常害怕，担心自己也会面临同样的问题。",
+                "location": "南京公司",
+                "happen_time": "2024年5月",
+                "participants": "同事",
+                "impact": "对未来的恐惧和无助感加重，进一步加重了抑郁和焦虑情绪。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年6月，我因失眠和疲倦而无法继续正常工作，最终请了病假，但内心感到非常愧疚和无望。",
+                "location": "南京公司",
+                "happen_time": "2024年6月",
+                "participants": "无",
+                "impact": "无法工作的无能感和无望感加重，抑郁情绪进一步恶化。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年7月，我的一位亲密朋友再次劝我去看心理医生，这次我终于接受了建议，开始了治疗。",
+                "location": "南京",
+                "happen_time": "2024年7月",
+                "participants": "亲密朋友",
+                "impact": "开始治疗的决定带来了希望，但内心的抑郁和无望感仍然很强烈，需要长时间的治疗。"
+            }
+        ]
+    }
+}

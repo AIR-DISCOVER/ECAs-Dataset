@@ -1,0 +1,214 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "优柔寡断",
+            "依赖性强",
+            "勤劳",
+            "务实",
+            "善良"
+        ],
+        "appearance": [
+            "中等身材",
+            "皮肤黝黑",
+            "手上有老茧",
+            "穿着朴素",
+            "面容和蔼"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "看电视",
+                "种植蔬菜",
+                "与邻居聊天"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去集市买东西"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "选好种子，确保下一季的收成",
+            "long_term_goals": "改善家庭经济状况，给孩子们更好的生活"
+        },
+        "daily_life": {
+            "routine": "每天早出晚归在地里干活，晚上回家看电视",
+            "weekends": "周末去集市买东西，和邻居交流种植经验"
+        },
+        "past_experiences": {
+            "childhood": "在农村长大，家境贫寒，从小帮家里干农活",
+            "adolescence": "初中毕业后回家务农，帮助家里减轻负担",
+            "youth": "结婚后和丈夫一起经营农田，养育孩子",
+            "recent_events": "最近一批菜收成不佳，导致对选择种子产生困惑"
+        },
+        "environment": "出生在南方的一个小村庄，成年后一直在村里务农，生活环境较为单一"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "黄锦飘的父母是她童年时期最亲近的人，他们一起在农田里劳作，教会她如何种植和照顾作物。"
+                    ]
+                },
+                {
+                    "relationship": "兄弟姐妹",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "黄锦飘有三个兄弟姐妹，他们一起长大，共同分担家庭的农活。"
+                    ]
+                },
+                {
+                    "relationship": "邻居",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "黄锦飘的邻居们在她的童年时期扮演了重要角色，他们经常互相帮助，共同面对生活中的困难。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "在青少年时期，黄锦飘依然与父母关系密切，他们是她生活中的支柱。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "黄锦飘有两个好朋友，他们在学校里一起学习，一起玩耍。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "黄锦飘的老师们在她的青少年时期给予了她很多帮助和指导。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "黄锦飘的丈夫是她青年时期最亲近的人，他们一起经营农田，共同养育孩子。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "黄锦飘有两个孩子，他们是她生活的重心。"
+                    ]
+                },
+                {
+                    "relationship": "邻居",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "黄锦飘的邻居们在她的青年时期依然是她的重要社交圈子，他们经常互相帮助，共同面对生活中的挑战。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "黄锦飘的丈夫依然是她生活中最亲近的人，他们一起面对农业上的困难。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "黄锦飘的孩子们已经长大成人，但他们依然与母亲保持着密切的联系。"
+                    ]
+                },
+                {
+                    "relationship": "邻居",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "黄锦飘的邻居们依然是她的重要社交圈子，他们经常互相交流种植经验，共同面对农业上的挑战。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "黄锦飘的社交圈子在不同的生命阶段有一定的变化，但总体上保持稳定。她从小在农村长大，社交圈子主要集中在家庭和邻居之间。随着年龄的增长，她的社交圈子逐渐扩展到包括丈夫和孩子。尽管生活环境较为单一，但她依然保持着与周围人的密切联系。最近由于农业上的困惑，她更加依赖与邻居的交流，以获取更多的种植经验和建议。"
+    }
+}

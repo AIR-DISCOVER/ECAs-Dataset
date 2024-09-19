@@ -1,0 +1,349 @@
+{
+    "childhood": {
+        "name": "郎瑞荔",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我小学一年级的时候，第一次考试成绩非常好，老师在班上表扬了我，还给我发了一个小奖品。我感到非常开心，觉得自己很有能力。",
+                "location": "学校教室",
+                "happen_time": "2013年9月",
+                "participants": "老师、同学",
+                "impact": "增强了我的自信心和对学业的积极态度。这个事件加强了我的核心信念'我有能力应对生活中的挑战'和中间信念'我应该勇敢面对挑战'。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我和父母一起玩游戏，他们对我非常关心和照顾，让我感到很温暖。",
+                "location": "家庭客厅",
+                "happen_time": "2012年春节",
+                "participants": "父母",
+                "impact": "增强了我对家庭的依赖感和对父母的爱，这个事件加强了我的核心信念'我值得被爱'和中间信念'他人会关心我和爱我'。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我参加了学校的绘画比赛并获得了第一名，老师在全校大会上表扬了我。",
+                "location": "学校礼堂",
+                "happen_time": "2015年5月",
+                "participants": "老师、同学",
+                "impact": "让我感受到成就感和被认可的感觉，这个事件加强了我的核心信念'我应该表现得优秀'和中间信念'如果我表现得优秀，我会被认可和接受'。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我的一个好朋友因为家庭搬迁转学了，我感到非常难过，但她给我写了一封信，告诉我我们会一直是好朋友。",
+                "location": "学校操场",
+                "happen_time": "2017年6月",
+                "participants": "好朋友",
+                "impact": "让我意识到友谊的重要性和人际关系的变化，这个事件挑战了我的核心信念'世界是充满爱的地方'，但也让我对友谊有了更深的理解。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在房间里，听见客厅里爸爸妈妈在讨论经济问题，声音越来越大，最后吵了起来。爸爸摔了杯子，妈妈哭了。",
+                "location": "家庭客厅",
+                "happen_time": "2018年5月",
+                "participants": "父母",
+                "impact": "让我感到家庭不再像以前那样和谐，这个事件削弱了我的核心信念'我值得被爱'，并触发了中间信念的负面假设'如果我拒绝他人的爱，我会感到孤独和悲伤'。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我的数学成绩突然下降，班主任找我谈话，鼓励我不要放弃，并提供了额外的辅导。",
+                "location": "学校办公室",
+                "happen_time": "2018年10月",
+                "participants": "班主任",
+                "impact": "让我感到自己被支持和鼓励，这个事件加强了我的核心信念'我可以通过努力实现目标'和中间信念'他人会支持我的努力'。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班上的一个同学因为家庭问题在操场上哭泣，其他同学过去安慰她。",
+                "location": "学校操场",
+                "happen_time": "2016年4月",
+                "participants": "同学",
+                "impact": "让我意识到每个人都有自己的困难，但也让我看到同学间的关爱，这个事件强化了我的核心信念'世界是充满爱的地方'。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "我参加了学校的合唱团表演，站在台上唱歌时，看到台下父母为我鼓掌，我感到非常自豪和幸福。",
+                "location": "学校礼堂",
+                "happen_time": "2016年12月",
+                "participants": "父母、同学、老师",
+                "impact": "增强了我的自信心和对表现的渴望，这个事件加强了我的核心信念'我应该表现得优秀'和中间信念'我应该在每一件事情上都尽力做到最好'。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "有一次，我的绘画被选中参加市级比赛，但最终只获得了三等奖，我感到非常失落。",
+                "location": "市艺术中心",
+                "happen_time": "2017年11月",
+                "participants": "其他参赛者、评委",
+                "impact": "让我感受到失败的滋味，但也让我学会了面对挫折，这个事件挑战了我的核心信念'我可以通过努力实现目标'，但也让我更加坚韧。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父母在客厅里和好如初，他们互相道歉并拥抱，我感到非常欣慰。",
+                "location": "家庭客厅",
+                "happen_time": "2019年1月",
+                "participants": "父母",
+                "impact": "让我对家庭关系重新燃起了希望，这个事件加强了我的核心信念'我值得被爱'和中间信念'如果我接受他人的爱，我会感到快乐和满足'。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "有一次，班上的同学因为误会而孤立我，我感到非常孤独和难过。",
+                "location": "学校教室",
+                "happen_time": "2018年3月",
+                "participants": "同学",
+                "impact": "让我感受到被排斥的痛苦，这个事件挑战了我的核心信念'他人会关心我和爱我'，并触发了中间信念的负面假设'如果我不被爱，我会感到孤独和悲伤'。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班主任在课间时间帮助一个成绩不好的同学解答问题，我感到老师对每个学生都很关心。",
+                "location": "学校教室",
+                "happen_time": "2015年10月",
+                "participants": "班主任、同学",
+                "impact": "让我感受到老师的关爱，这个事件强化了我的核心信念'他人会帮助我，但我也能独立完成任务'。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我和几个朋友一起参加了学校的读书分享会，我们互相讨论书中的故事，感到非常愉快。",
+                "location": "学校图书馆",
+                "happen_time": "2017年5月",
+                "participants": "朋友、老师",
+                "impact": "增强了我的社交能力和对读书的兴趣，这个事件加强了我的核心信念'我的未来是有希望的'和中间信念'如果我对未来充满希望，我会更有动力'。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "有一次，我在爸爸妈妈的帮助下完成了一篇作文，并在班上得到了高分，他们告诉我只要努力就能实现目标。",
+                "location": "家庭书房",
+                "happen_time": "2016年11月",
+                "participants": "父母",
+                "impact": "增强了我的努力精神和对目标的追求，这个事件加强了我的核心信念'我可以通过努力实现目标'和中间信念'如果我努力，我就能实现我的梦想'。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父母在讨论未来的家庭计划，虽然他们有分歧，但最终达成了共识，这让我感到家庭的稳固。",
+                "location": "家庭客厅",
+                "happen_time": "2019年6月",
+                "participants": "父母",
+                "impact": "让我对家庭的和睦充满希望，这个事件加强了我的核心信念'世界是充满爱的地方'和中间信念'世界充满了希望和机会'。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "郎瑞荔",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2019年父母开始频繁争吵，尤其是在晚饭时间。我经常听到他们在客厅争论，内容涉及财务问题和对彼此的不满。我呆在房间里，感到无助和害怕。",
+                "location": "家里",
+                "happen_time": "2019年1月-2019年12月",
+                "participants": "父亲, 母亲",
+                "impact": "频繁的家庭争吵让我感到家庭不再是一个安全的地方，增加了我的焦虑和不安全感。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2020年开始，我发现自己对学习越来越力不从心。尤其是在数学和物理课上，我常常跟不上老师的节奏，感到自己很愚蠢。",
+                "location": "学校",
+                "happen_time": "2020年1月-2020年12月",
+                "participants": "老师, 同学",
+                "impact": "学习上的挫折让我对自己的能力产生了严重怀疑，进一步降低了我的自信心。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2021年，我开始减少与朋友的联系，因为我总觉得自己不值得被爱和关心。我不再主动联系她们，也拒绝了几次她们的聚会邀请。",
+                "location": "家里, 学校",
+                "happen_time": "2021年1月-2021年12月",
+                "participants": "朋友们",
+                "impact": "社交退缩让我感到更加孤独和无助，进一步加重了我的抑郁情绪。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2022年，我看到父母几乎每天都在冷战，互不说话，家里的气氛非常压抑。我感觉自己夹在中间，不知道该怎么办。",
+                "location": "家里",
+                "happen_time": "2022年1月-2022年12月",
+                "participants": "父亲, 母亲",
+                "impact": "目睹父母的冷战让我对家庭和未来的希望进一步破灭，增加了我的无望感。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年初，我的成绩进一步下滑，尤其是在高考模拟考中。我感到非常沮丧和无力，认为自己未来毫无希望。",
+                "location": "学校",
+                "happen_time": "2023年1月-2023年3月",
+                "participants": "老师, 同学",
+                "impact": "成绩下滑让我对自己的未来更加失望，进一步加重了抑郁情绪。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年4月，我开始出现自罪感，觉得自己是家庭问题的根源，也无法达到父母的期望。我开始考虑自杀。",
+                "location": "家里",
+                "happen_time": "2023年4月-2023年6月",
+                "participants": "无",
+                "impact": "自罪感和自杀观念的出现让我的心理状况急剧恶化，增加了自杀风险。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年夏天，我看到父母因为我的成绩再次发生激烈争吵，甚至提到了离婚。我感到自己是他们争吵的原因，内心充满了自责。",
+                "location": "家里",
+                "happen_time": "2023年7月-2023年8月",
+                "participants": "父亲, 母亲",
+                "impact": "目睹父母的争吵让我感到强烈的自责，增加了我的自罪感和无望感。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年9月，我决定向学校的心理咨询师求助，并第一次与他见面，谈及我的困惑和痛苦。",
+                "location": "学校",
+                "happen_time": "2023年9月",
+                "participants": "心理咨询师",
+                "impact": "寻求心理咨询帮助让我感到一些希望，开始重新审视自己的问题。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年10月，我试图通过写日记来记录自己的情感和困惑，发现写作能够让我暂时缓解内心的痛苦。",
+                "location": "家里",
+                "happen_time": "2023年10月",
+                "participants": "无",
+                "impact": "写作成为我表达情感的出口，帮助我暂时缓解了部分抑郁情绪。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年11月，我开始尝试通过绘画来表达自己的情感，但每次画完却感到更加难过，觉得自己绘画水平不够好。",
+                "location": "家里",
+                "happen_time": "2023年11月",
+                "participants": "无",
+                "impact": "绘画一方面成为情感表达的出口，但另一方面也加重了我的自我怀疑和不满。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年12月，我再次尝试与父母沟通，告诉他们我的困惑和痛苦，但他们似乎并不理解，甚至觉得我在夸大其词。",
+                "location": "家里",
+                "happen_time": "2023年12月",
+                "participants": "父亲, 母亲",
+                "impact": "父母的不理解让我感到更加孤立无援，进一步加重了我的抑郁情绪。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年1月，我看到班里一位同学因为学习压力过大而崩溃，哭泣并被老师带走。这让我感到自己也可能随时崩溃。",
+                "location": "学校",
+                "happen_time": "2024年1月",
+                "participants": "同学, 老师",
+                "impact": "同学的崩溃让我对自己的心理状态更加担忧，增加了我的焦虑感。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年2月，我发现自己对阅读和听音乐这些曾经喜欢的活动也失去了兴趣，感到生活毫无乐趣。",
+                "location": "家里",
+                "happen_time": "2024年2月",
+                "participants": "无",
+                "impact": "兴趣的丧失让我感到生活更加无聊和无望，进一步加重了抑郁情绪。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年3月，我的体重突然增加了很多，身体变得非常疲倦，几乎没有力气去上学。",
+                "location": "家里",
+                "happen_time": "2024年3月",
+                "participants": "无",
+                "impact": "体重增加和疲倦让我对自己的身体状况更加担忧，进一步加重了抑郁情绪。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年4月，我感到自己的记忆力变差，常常忘记老师布置的作业，导致学习效率进一步下降。",
+                "location": "学校",
+                "happen_time": "2024年4月",
+                "participants": "老师, 同学",
+                "impact": "记忆力变差和学习效率下降让我感到自己越来越无能，进一步加重了自我怀疑和抑郁情绪。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年5月，我开始频繁失眠，整夜无法入睡，白天上课时精神恍惚。",
+                "location": "家里, 学校",
+                "happen_time": "2024年5月",
+                "participants": "无",
+                "impact": "失眠让我更加疲惫和焦虑，进一步加重了抑郁情绪。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年6月，我尝试通过网络寻求帮助，加入了一个抑郁症互助群，但发现很多群友的情况比我还糟糕，感到更加无望。",
+                "location": "家里",
+                "happen_time": "2024年6月",
+                "participants": "网络群友",
+                "impact": "互助群的经历让我意识到自己并不孤单，但也让我感到情况可能无法改善，增加了无望感。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年7月，我看到新闻报道中一位高三学生因抑郁症自杀，感到非常震惊和害怕，担心自己也会走到这一步。",
+                "location": "家里",
+                "happen_time": "2024年7月",
+                "participants": "新闻报道",
+                "impact": "新闻报道让我对自己的自杀风险感到更加担忧，增加了焦虑和恐惧。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年8月，我在一次深夜崩溃中，割腕自杀未遂，被父母发现后送医急救。",
+                "location": "家里, 医院",
+                "happen_time": "2024年8月",
+                "participants": "父亲, 母亲, 医护人员",
+                "impact": "自杀未遂的经历让我感到自己达到了心理的极限，增加了对未来的无望感，同时也让父母意识到问题的严重性。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年8月，我看到父母在医院里为我的事情再次争吵，感到自己是他们争吵的根源，内心充满了自责和无助。",
+                "location": "医院",
+                "happen_time": "2024年8月",
+                "participants": "父亲, 母亲",
+                "impact": "父母在医院的争吵进一步加重了我的自罪感和无望感，感到自己无法改变现状。"
+            }
+        ]
+    }
+}

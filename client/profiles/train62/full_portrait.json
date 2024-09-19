@@ -1,0 +1,151 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "善良",
+            "有些悲观",
+            "有责任心"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "长发",
+            "皮肤白皙",
+            "眼神有些忧郁"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "看剧",
+                "阅读",
+                "听音乐"
+            ],
+            "activity": [
+                "和男朋友一起散步",
+                "周末去咖啡馆"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "找到一份稳定的工作",
+            "long_term_goals": "成为一名成功的职业女性，能够独立自主"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后会花一些时间浏览招聘网站，投递简历。下午通常会看剧或阅读，晚上和男朋友一起散步或聊天。",
+            "weekends": "周末会和男朋友一起去咖啡馆，偶尔会和朋友聚会，但大部分时间还是喜欢待在家里放松。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母关系和睦，从小受到良好的教育。",
+            "adolescence": "中学时期成绩优异，但性格较为内向，不太喜欢参加集体活动。",
+            "recent_events": "大学毕业后一直在找工作，但屡屡碰壁，导致自信心下降，情绪低落。"
+        },
+        "environment": "出生在一个小城市，大学在省会城市读书，毕业后留在省会城市找工作。",
+        "persona_summary": "朱莉琼，20岁，未婚，待业。性格内向、敏感、善良，有责任心但有些悲观。外貌特征为中等身高、瘦弱、长发和皮肤白皙，眼神忧郁。爱好看剧、阅读、听音乐，常与男友散步或去咖啡馆。短期目标是找到稳定工作，长期目标是成为独立自主的职业女性。因找工作压力，情绪低落、自信心下降，建议多与家人朋友交流，适当运动，必要时寻求心理咨询。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "朱莉琼的父母关系和睦，对她的成长给予了充分的关爱和支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "朱莉琼在小学和初中时期有几个要好的朋友，虽然性格内向，但在朋友面前还是比较放松。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "在中学时期，朱莉琼的父母依然是她最重要的支持系统，尤其是在学业压力大的时候。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "朱莉琼在中学时期成绩优异，但性格内向，不太喜欢参加集体活动，因此与同学的关系较为一般。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "男朋友",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "朱莉琼的男朋友是她目前最亲近的人，常常在她情绪低落时给予支持和安慰。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "朱莉琼在大学期间结识了几个朋友，虽然毕业后联系不多，但偶尔会聚会。"
+                    ]
+                },
+                {
+                    "relationship": "家人",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "朱莉琼的父母依然是她的重要支持系统，虽然她现在住在省会城市，但经常通过电话联系。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "朱莉琼的社交能力和意愿在不同阶段有明显变化。童年时期，她在父母的关爱下成长，朋友不多但关系较为亲密。进入中学后，虽然成绩优异，但由于性格内向，与同学的关系较为一般。大学期间，她结识了一些朋友，但毕业后由于找工作的压力，社交活动减少。最近，她的男朋友成为她最重要的支持系统，帮助她度过情绪低落的时期。"
+    }
+}

@@ -1,0 +1,592 @@
+{
+    "childhood": {
+        "name": "曹全中",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我刚上小学一年级，期末考试考了全班第一。父亲在家里设宴庆祝，但在宴会上他对我说：'这只是开始，你必须一直保持这个成绩，不能松懈。' 我感到压力很大，但又不敢表现出来。",
+                "location": "南京家中",
+                "happen_time": "1995年6月",
+                "participants": "父亲、母亲、曹全中",
+                "impact": "这次事件加强了曹全中对学业的高度重视，形成了他'我必须非常努力才能成功'的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学三年级的一天，数学考试成绩出来，我只考了90分。回家后，父亲非常生气，对我说：'90分是不够的，你要达到100分。' 我感到非常沮丧和无助。",
+                "location": "南京家中",
+                "happen_time": "1997年3月",
+                "participants": "父亲、曹全中",
+                "impact": "这次事件让曹全中形成了'无论我怎么努力，我都达不到父母的期望'的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家中听见父母在房间里争吵，母亲在为我辩护，而父亲则在责备我不够努力。那天我感到非常难过和无能为力。",
+                "location": "南京家中",
+                "happen_time": "1998年5月",
+                "participants": "父亲、母亲、曹全中",
+                "impact": "这次事件让曹全中感受到家庭的压力，并强化了他内心的责任感和对学业的强烈焦虑。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我参加了全市的数学竞赛，取得了第二名。我很高兴，但父亲却说：'为什么不是第一名？' 我感到非常失落。",
+                "location": "南京学校",
+                "happen_time": "1999年4月",
+                "participants": "父亲、曹全中",
+                "impact": "这次事件进一步巩固了曹全中的中间信念，即'无论我怎么努力，我都达不到父母的期望'。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父亲在和邻居聊天时夸耀我的成绩，我感到自豪，但同时也感到了沉重的压力，因为我知道我必须继续保持好的成绩。",
+                "location": "南京家附近",
+                "happen_time": "1998年9月",
+                "participants": "父亲、邻居、曹全中",
+                "impact": "这次事件让曹全中感受到父亲对他成绩的重视，并强化了他'他人只会尊重那些学习成绩优异的人'的信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我的母亲在一次家长会上听到老师对我的表扬，回家后她对我说：'你是我们的骄傲。' 我感到非常开心和满足。",
+                "location": "南京学校",
+                "happen_time": "2000年5月",
+                "participants": "母亲、曹全中",
+                "impact": "这次事件让曹全中感受到母亲的支持和鼓励，稍微缓解了他内心的压力。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "有一次，我在课间和同学们打闹，不小心摔倒了，膝盖流血了。我忍住眼泪，怕被父亲知道后认为我不够坚强。",
+                "location": "南京学校",
+                "happen_time": "1996年11月",
+                "participants": "同学、曹全中",
+                "impact": "这次事件让曹全中感受到父亲对他坚强形象的期待，进一步强化了他对自己高要求的态度。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到母亲在厨房里默默地流泪，我问她怎么了，她只是摇了摇头。我感到非常心疼，觉得自己应该为她做些什么。",
+                "location": "南京家中",
+                "happen_time": "1999年7月",
+                "participants": "母亲、曹全中",
+                "impact": "这次事件让曹全中感受到母亲的脆弱和自己作为家庭一员的责任感，进一步强化了他'我应当为家人的幸福负责'的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，我生日那天父亲送了我一本书，并说：'希望你能从中学到更多的知识。' 我感到非常开心，但也感到父亲对我学习的期望越来越高。",
+                "location": "南京家中",
+                "happen_time": "1998年10月",
+                "participants": "父亲、曹全中",
+                "impact": "这次事件让曹全中感受到父亲对他学习的重视，进一步激发了他对知识的渴望和学习的动力。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在上学路上看到一个同学被父母责骂，我感到很同情，也更加理解了父母对我的严格要求。",
+                "location": "南京街道",
+                "happen_time": "1997年4月",
+                "participants": "同学、同学的父母、曹全中",
+                "impact": "这次事件让曹全中感受到家庭教育的普遍性，并使他更加接受了自己所承受的压力。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我参加了学校的演讲比赛，虽然准备充分，但最终只获得了第三名，父亲对我表示失望。我感到非常难过和内疚。",
+                "location": "南京学校",
+                "happen_time": "1999年12月",
+                "participants": "父亲、曹全中",
+                "impact": "这次事件进一步强化了曹全中的信念，即'如果我无法超越同学，我会被忽视'。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家中看到父亲和母亲谈论家庭的经济状况，母亲显得很担心，但父亲却说：'只要全中努力学习，我们的未来会更好。' 我在一旁听到后，感到自己肩上的担子更重了。",
+                "location": "南京家中",
+                "happen_time": "1998年8月",
+                "participants": "父亲、母亲、曹全中",
+                "impact": "这次事件让曹全中感受到家庭对他的期望，进一步强化了他'我对家人有责任，我必须为他们提供最好的生活'的核心信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校里看到一个成绩不好的同学被老师批评，我感到非常害怕，担心如果我成绩不好也会受到同样的待遇。",
+                "location": "南京学校",
+                "happen_time": "1995年12月",
+                "participants": "老师、同学、曹全中",
+                "impact": "这次事件让曹全中对失败有了更深的恐惧，进一步强化了他'这个世界对失败者没有宽容'的信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家中看到母亲为了省钱而省吃俭用，我心里暗暗发誓将来一定要让她过上好日子。",
+                "location": "南京家中",
+                "happen_time": "1999年3月",
+                "participants": "母亲、曹全中",
+                "impact": "这次事件让曹全中感受到母亲的牺牲和家庭的经济压力，进一步强化了他'我必须努力学习，确保将来能给家人更好的生活'的信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校里和同学们玩耍时，不小心弄脏了衣服。回家后，母亲温柔地帮我洗衣服，并说：'没关系，下次小心点。' 我感到非常温暖和安心。",
+                "location": "南京家中",
+                "happen_time": "1997年10月",
+                "participants": "母亲、曹全中",
+                "impact": "这次事件让曹全中感受到母亲的关爱，稍微缓解了他内心的焦虑和压力。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "曹全中",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "一个周末，我因为考试成绩不理想被父亲严厉责骂。他在客厅里大声质问我为什么不能像别的孩子一样优秀，并说我辜负了家人的期望。",
+                "location": "家里客厅",
+                "happen_time": "2001年11月",
+                "participants": "父亲",
+                "impact": "这次责骂强化了曹全中对自己必须非常努力才能成功的核心信念，并让他感受到来自家庭的巨大压力，逐渐形成了“我无法让自己和别人感到满意”的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在学校的期中考试中，我的成绩在班级排名第一。尽管如此，父亲还是不满意，认为我还可以做得更好。",
+                "location": "家里书房",
+                "happen_time": "2002年4月",
+                "participants": "父亲",
+                "impact": "这次经历增强了曹全中“无论我怎么努力，我都达不到父母的期望”的核心信念，以及“我需要超越他人才能证明自己的价值”的中间信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里听见父母因为家庭经济状况而吵架。母亲抱怨父亲不够关心家庭，父亲则指责母亲不理解他的辛苦。",
+                "location": "家里客厅",
+                "happen_time": "2002年8月",
+                "participants": "父母",
+                "impact": "这个事件让曹全中意识到家庭的脆弱和父母对他的期望，进一步强化了“我对家人有责任，我必须为他们提供最好的生活”的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "班级的一次小组讨论中，我发现同学们对我的意见不屑一顾，甚至有些人直接反对我提出的观点。",
+                "location": "学校教室",
+                "happen_time": "2003年3月",
+                "participants": "同学",
+                "impact": "这次事件让曹全中感到自我价值被否定，强化了“我必须比别人更努力、更出色”的中间信念，并增加了与同学之间的竞争感。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在一次班级聚会上，我尝试与同学们打成一片，但发现自己很难融入他们的圈子，感到格格不入。",
+                "location": "学校操场",
+                "happen_time": "2003年11月",
+                "participants": "同学",
+                "impact": "这次尝试失败让曹全中更加内向，进一步确认了“他人只会尊重那些成绩优秀的人”的信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会上，我听到亲戚们谈论一个表姐因成绩不佳被家里责骂的事情。",
+                "location": "亲戚家",
+                "happen_time": "2004年1月",
+                "participants": "亲戚",
+                "impact": "这个事件进一步强化了曹全中“世界对失败者没有宽容”的信念，并增加了他对学业的重视和压力。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "高一时，我因为参加学校的数学竞赛而获得了市级奖项，这是我第一次在学业上获得如此高的认可。",
+                "location": "学校礼堂",
+                "happen_time": "2004年5月",
+                "participants": "老师、同学",
+                "impact": "这次成功经历让曹全中短暂地感到自我价值，但同时也强化了“我必须全力以赴，不能松懈”的中间信念，因为他意识到只有不断努力才能获得认可。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "一次在学校图书馆，我看到一位成绩不佳的同学被其他同学取笑和排挤。",
+                "location": "学校图书馆",
+                "happen_time": "2004年10月",
+                "participants": "同学",
+                "impact": "这个事件让曹全中更加坚信“世界是一个竞争激烈的地方”，并增强了“我必须比别人更努力、更出色”的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "一次假期回家，我听到母亲在和邻居聊天时提到我的成绩，虽然语气中带着骄傲，但也隐含着对我未来的高期待。",
+                "location": "家里客厅",
+                "happen_time": "2005年2月",
+                "participants": "母亲、邻居",
+                "impact": "母亲的言语让曹全中感受到更多的压力，强化了“我不能放松警惕，必须不断改进”的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "一次在学校操场，我看到一位同学因家庭问题情绪崩溃，老师和同学们都在安慰他。",
+                "location": "学校操场",
+                "happen_time": "2005年5月",
+                "participants": "同学、老师",
+                "impact": "这个事件让曹全中意识到家庭问题对一个人心理的巨大影响，进一步强化了“我必须为家庭做出牺牲”的中间信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "高三时，我因为学习压力过大而感到身体不适，但父母依然希望我能全力备战高考。",
+                "location": "家里书房",
+                "happen_time": "2006年3月",
+                "participants": "父母",
+                "impact": "这次经历让曹全中感受到身心疲惫，但又不敢停下，强化了“如果我放松自己，我会让父母失望”的负面假设。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "高考结束后，我独自一人走在学校操场上，回顾过去几年的努力和压力，感到一种前所未有的轻松。",
+                "location": "学校操场",
+                "happen_time": "2006年6月",
+                "participants": "无",
+                "impact": "这次独处让曹全中重新思考自己的生活目标，虽然短暂地放松，但他依然觉得未来充满挑战。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "高考成绩公布后，我看到一位同学因为成绩不理想而崩溃，父母在旁边安慰他但也流露出失望的表情。",
+                "location": "学校大礼堂",
+                "happen_time": "2006年7月",
+                "participants": "同学、同学的父母",
+                "impact": "这个事件进一步强化了曹全中对学业压力的认识，让他更加坚定“如果我在学业上失败，我会让家庭失望”的信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在北京大学报到的第一天，我感受到来自全国各地优秀学子的竞争压力，内心既兴奋又紧张。",
+                "location": "北京大学",
+                "happen_time": "2006年9月",
+                "participants": "新同学、老师",
+                "impact": "这次经历让曹全中意识到新的竞争环境，进一步强化了“我必须比别人更努力、更出色”的中间信念，并感受到新的压力。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "一次在大学宿舍，我听到室友们谈论他们的家庭背景和未来规划，感到自己的压力和责任更加沉重。",
+                "location": "大学宿舍",
+                "happen_time": "2006年10月",
+                "participants": "室友",
+                "impact": "这个事件让曹全中更加明确自己肩上的责任，强化了“我对家人有责任，我必须为他们提供最好的生活”的核心信念。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "曹全中",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "大学期间，我在一次期末考试中因为过度紧张而答错了几道重要题目，最终成绩不理想。考完试后，我在宿舍里感到非常失落，心里不断责备自己不够努力。我的室友小李安慰我，说成绩并不能代表一切，但我内心依然无法释怀。",
+                "location": "大学宿舍",
+                "happen_time": "2008年6月",
+                "participants": "室友小李",
+                "impact": "这次经历强化了我'必须非常努力才能成功'和'无法让自己和别人感到满意'的核心信念，让我更加紧张和焦虑，害怕再次失败。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "大三的时候，我被选为班级的学习委员，负责组织同学们的学习活动和考试复习。尽管我为此付出了很多努力，但有些同学还是抱怨说活动安排得不好。我感到非常挫败，觉得自己无法让别人满意。",
+                "location": "大学教室",
+                "happen_time": "2010年10月",
+                "participants": "班级同学",
+                "impact": "这次经历进一步巩固了我'无法让自己和别人感到满意'的核心信念，使我对自己更加不自信，认为自己总是达不到别人的期望。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "大学毕业后，我顺利找到了一份在南京的IT公司工作。虽然起初工作顺利，但随着工作任务的增加，我开始感到压力倍增。有一次在项目截止日期前，我连续加班几天，最终虽然按时完成了任务，但感觉自己身心俱疲。",
+                "location": "南京IT公司",
+                "happen_time": "2011年7月",
+                "participants": "公司同事",
+                "impact": "这次经历让我更加相信'我必须非常努力才能成功'，同时也加深了我对工作的焦虑和压力。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "2012年，我与大学时期的女友结婚。婚礼当天，我感受到前所未有的幸福，但也开始担心自己是否能给她提供最好的生活。婚后不久，我就投入到更加紧张的工作中，努力证明自己能够胜任家庭的责任。",
+                "location": "婚礼现场",
+                "happen_time": "2012年5月",
+                "participants": "妻子和家人",
+                "impact": "这次经历强化了'我对家人有责任，我必须为他们提供最好的生活'的核心信念，使我更加努力工作，但也增加了我的压力和焦虑。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "2014年，我的女儿出生了。我在医院里第一次抱起她时，内心充满了喜悦和责任感。回到家后，我开始更加努力工作，希望能够给她一个美好的生活。",
+                "location": "医院",
+                "happen_time": "2014年7月",
+                "participants": "妻子和女儿",
+                "impact": "女儿的出生进一步强化了'我对家人有责任，我必须为他们提供最好的生活'的核心信念，使我更加努力工作，但也感到更多的压力和责任。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在公司里目睹了一位同事因为工作失误被上司严厉批评。同事在办公室里低头不语，气氛非常紧张。那一刻，我觉得自己也可能会面临同样的局面，因此更加小心谨慎，害怕犯错误。",
+                "location": "公司办公室",
+                "happen_time": "2015年3月",
+                "participants": "公司同事和上司",
+                "impact": "这次观察让我更加相信'这个世界对失败者没有宽容'，使我在工作中更加谨慎和紧张，害怕自己会被批评。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "2016年，我的父亲因病去世。在父亲的葬礼上，我感到非常悲痛，同时也感到自己无法实现让他满意的愿望。父亲生前对我有很多期望，但我总觉得自己无法达到他的标准。",
+                "location": "南京",
+                "happen_time": "2016年11月",
+                "participants": "家人和亲戚",
+                "impact": "父亲的去世让我更加坚定'我无法让自己和别人感到满意'的核心信念，内心充满了自责和失落。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "2018年，我在公司里被提拔为项目经理。虽然职位提升让我感到自豪，但随之而来的责任和压力也让我感到不安。我开始怀疑自己是否能够胜任这份工作，担心自己会让团队失望。",
+                "location": "公司办公室",
+                "happen_time": "2018年8月",
+                "participants": "公司同事和上司",
+                "impact": "这次经历让我更加相信'我必须非常努力才能成功'和'我无法让自己和别人感到满意'的核心信念，增加了我的工作压力和焦虑。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在公司年会上看到一位同事因为业绩突出而获得了公司的表彰。全场响起了热烈的掌声，那一刻，我感受到了一种强烈的竞争压力，认为自己也必须努力才能得到认可。",
+                "location": "公司年会现场",
+                "happen_time": "2019年12月",
+                "participants": "公司同事",
+                "impact": "这次观察让我更加坚定'我必须比别人更努力、更出色'的中间信念，增强了我的竞争意识和工作动机。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "2020年，疫情期间，我在家里远程办公。虽然减少了通勤时间，但工作和生活的界限变得模糊，导致我的工作压力更大。有时候，我会感到焦虑和疲惫，但又不敢放松自己。",
+                "location": "家中",
+                "happen_time": "2020年3月",
+                "participants": "妻子和女儿",
+                "impact": "这次经历让我更加相信'我不能放松警惕，必须不断改进'的中间信念，导致我的焦虑感增加，难以放松自己。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "2021年，我的公司因为市场变化进行了人员调整，我的一个好朋友因为业绩不佳被解雇。这让我感到非常震惊，同时也开始担心自己的工作安全，觉得自己必须更加努力才能保住工作。",
+                "location": "公司办公室",
+                "happen_time": "2021年6月",
+                "participants": "公司同事和朋友",
+                "impact": "这次经历让我更加相信'这个世界对失败者没有宽容'，增加了我的工作压力和对未来的不确定感。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "2022年，我的妻子因为我们之间的沟通减少而感到不满。她说我总是忙于工作，忽略了家庭和她的感受。我意识到自己的工作压力已经影响到家庭关系，感到非常内疚和自责。",
+                "location": "家中",
+                "happen_time": "2022年4月",
+                "participants": "妻子",
+                "impact": "这次经历让我更加相信'我必须优先考虑家人的需求，甚至牺牲自己的需求'的中间信念，增加了对家庭的责任感和工作与家庭之间的矛盾。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在公园散步时看到一位父亲带着孩子玩耍，他们看起来非常幸福和谐。这让我反思自己与家庭的关系，意识到自己需要更多地关注家人的情感需求，而不仅仅是物质上的提供。",
+                "location": "公园",
+                "happen_time": "2023年3月",
+                "participants": "陌生人",
+                "impact": "这次观察让我开始重新审视'我应当为家人的幸福负责'的中间信念，促使我在工作和家庭之间寻找更好的平衡。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "2023年，我决定开始调整自己的心态，尝试通过阅读、听音乐和散步来缓解工作压力。虽然一开始效果不明显，但逐渐地，我感到心态有所改善，内心的焦虑也有所缓解。",
+                "location": "家中和公园",
+                "happen_time": "2023年6月",
+                "participants": "自己",
+                "impact": "这次经历让我开始相信'如果我不断努力调整心态，我可以缓解压力'，增加了我的自我认同感和对未来的信心。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "曹全中",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次重要的工作会议上因准备不足被主管批评，感觉非常沮丧。",
+                "location": "公司会议室",
+                "happen_time": "2023年9月",
+                "participants": "曹全中、主管",
+                "impact": "增加了自我怀疑和压力，强化了核心信念'我必须非常努力才能成功'和中间信念'如果我不努力工作，我会失败。'"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我发现孩子最近变得很敏感，他不断问我是不是不爱他了，因为我总是加班。",
+                "location": "家中客厅",
+                "happen_time": "2023年10月",
+                "participants": "曹全中、孩子",
+                "impact": "增加了内疚感和压力，强化了核心信念'我对家人有责任，我必须为他们提供最好的生活'和中间信念'如果我无法为家人提供良好的生活，我会感到愧疚。'"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到同事因为项目失败而被降职，这让我感到恐惧。",
+                "location": "公司办公室",
+                "happen_time": "2023年11月",
+                "participants": "曹全中、同事",
+                "impact": "增加了对失败的恐惧，强化了核心信念'我必须非常努力才能成功'和中间信念'如果我不够努力，我会被视为失败者。'"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "妻子在一次争吵中指责我忽略家庭，这让我感到非常内疚和无助。",
+                "location": "家中卧室",
+                "happen_time": "2023年12月",
+                "participants": "曹全中、妻子",
+                "impact": "增加了情感压力和内疚感，强化了核心信念'我对家人有责任，我必须为他们提供最好的生活'和中间信念'我需要为家人做出牺牲。'"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我为了完成一个重要项目，加班到深夜，结果第二天工作效率大幅下降。",
+                "location": "公司办公室",
+                "happen_time": "2024年1月",
+                "participants": "曹全中",
+                "impact": "增加了身体和心理的疲惫感，强化了中间信念'我必须全力以赴，不能松懈。'"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看见一个老同学在社交媒体上分享他成功创业的故事，感到自卑和失落。",
+                "location": "家中书房",
+                "happen_time": "2024年2月",
+                "participants": "曹全中、老同学（社交媒体上）",
+                "impact": "增加了自我怀疑和压力，强化了核心信念'我无法让自己和别人感到满意'和中间信念'我需要超越他人才能证明自己的价值。'"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次家庭聚会上被亲戚问到事业进展，因无法回答满意而感到尴尬和沮丧。",
+                "location": "亲戚家",
+                "happen_time": "2024年3月",
+                "participants": "曹全中、亲戚",
+                "impact": "增加了自我怀疑和压力，强化了核心信念'我无法让自己和别人感到满意'和中间信念'无论我怎么努力，我都达不到期望。'"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "由于长期的工作压力和疲劳，我感到身体不适，去医院检查后医生建议我休息一段时间。",
+                "location": "医院",
+                "happen_time": "2024年4月",
+                "participants": "曹全中、医生",
+                "impact": "增加了身体和心理的疲惫感，强化了中间信念'我不能放松警惕，必须不断改进。'"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我注意到妻子最近变得沉默寡言，似乎对我们的关系感到不满。",
+                "location": "家中",
+                "happen_time": "2024年5月",
+                "participants": "曹全中、妻子",
+                "impact": "增加了情感压力和内疚感，强化了核心信念'我对家人有责任，我必须为他们提供最好的生活'和中间信念'如果我无法为家人提供良好的生活，我会感到愧疚。'"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "孩子在学校表现出情绪问题，老师打电话让我去学校谈话，我感到非常愧疚。",
+                "location": "学校",
+                "happen_time": "2024年6月",
+                "participants": "曹全中、孩子、老师",
+                "impact": "增加了内疚感和压力，强化了核心信念'我对家人有责任，我必须为他们提供最好的生活'和中间信念'如果我无法为家人提供良好的生活，我会感到愧疚。'"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一个朋友在社交媒体上分享他和家人幸福的生活，感到失落和自责。",
+                "location": "家中书房",
+                "happen_time": "2024年7月",
+                "participants": "曹全中、朋友（社交媒体上）",
+                "impact": "增加了自我怀疑和压力，强化了核心信念'我对家人有责任，我必须为他们提供最好的生活'和中间信念'我需要为家人做出牺牲。'"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，妻子对我的忽略表现出明显的不满，我感到非常内疚和无助。",
+                "location": "家中",
+                "happen_time": "2024年8月",
+                "participants": "曹全中、妻子",
+                "impact": "增加了情感压力和内疚感，强化了核心信念'我对家人有责任，我必须为他们提供最好的生活'和中间信念'如果我无法为家人提供良好的生活，我会感到愧疚。'"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "因为工作压力，我在家中对孩子发了脾气，事后感到非常愧疚。",
+                "location": "家中客厅",
+                "happen_time": "2024年3月",
+                "participants": "曹全中、孩子",
+                "impact": "增加了内疚感和压力，强化了核心信念'我对家人有责任，我必须为他们提供最好的生活'和中间信念'如果我无法为家人提供良好的生活，我会感到愧疚。'"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次重要的项目提交因时间不足而未达到预期效果，导致客户不满，我感到非常失落。",
+                "location": "公司会议室",
+                "happen_time": "2024年6月",
+                "participants": "曹全中、客户",
+                "impact": "增加了自我怀疑和压力，强化了核心信念'我必须非常努力才能成功'和中间信念'如果我不够努力，我会被视为失败者。'"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我注意到一个同事因长期工作压力离职，这让我对自己的工作状况感到担忧。",
+                "location": "公司办公室",
+                "happen_time": "2024年8月",
+                "participants": "曹全中、同事",
+                "impact": "增加了对未来的不确定性和压力，强化了中间信念'我必须全力以赴，不能松懈。'"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次家庭聚会上被亲戚问到事业进展，因无法回答满意而感到尴尬和沮丧。",
+                "location": "亲戚家",
+                "happen_time": "2024年5月",
+                "participants": "曹全中、亲戚",
+                "impact": "增加了自我怀疑和压力，强化了核心信念'我无法让自己和别人感到满意'和中间信念'无论我怎么努力，我都达不到期望。'"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一个朋友因为工作压力大而住院，这让我感到非常担忧。",
+                "location": "医院",
+                "happen_time": "2024年7月",
+                "participants": "曹全中、朋友",
+                "impact": "增加了对健康的担忧和压力，强化了中间信念'我必须全力以赴，不能松懈。'"
+            }
+        ]
+    }
+}

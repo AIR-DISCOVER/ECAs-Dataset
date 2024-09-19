@@ -1,0 +1,450 @@
+{
+    "childhood": {
+        "name": "奚康元",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我在幼儿园第一次参加朗诵比赛，非常紧张，但还是尽力表现。比赛结束后，老师表扬了我的表现，妈妈也很高兴，但爸爸却指出了我的几个小错误，并说我需要提高。",
+                "location": "南京市一家幼儿园",
+                "happen_time": "2006年5月",
+                "participants": "奚康元, 父亲, 母亲, 幼儿园老师",
+                "impact": "增强了奚康元对父亲期望的敏感性，强化了他对完美主义的追求，形成了'我必须表现得完美'的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学一年级时，我在期中考试中取得了全年级第一名，回家后父母对我表示了极大的认可和赞扬。这让我感到非常自豪和有价值。",
+                "location": "南京市某小学",
+                "happen_time": "2008年11月",
+                "participants": "奚康元, 父亲, 母亲",
+                "impact": "强化了'我是有价值的'的核心信念，并且增加了对努力和成功的正面关联。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父亲在工作上遇到困难，显得很沮丧，但他依旧坚持解决问题。母亲在一旁默默支持他，这让我感受到了坚持和努力的重要性。",
+                "location": "家中客厅",
+                "happen_time": "2009年3月",
+                "participants": "奚康元, 父亲, 母亲",
+                "impact": "强化了'我的努力会得到回报'和'我应该坚持努力工作，实现我的目标'的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我在一次数学竞赛中表现不佳，得了第十名。回家后父亲对我表示失望，指出我没有达到他的期望，这让我感到非常沮丧和焦虑。",
+                "location": "南京市某小学",
+                "happen_time": "2010年5月",
+                "participants": "奚康元, 父亲",
+                "impact": "强化了'他人对我有很高的期望'的核心信念，并增加了对犯错的恐惧，形成了'我不能容忍自己的错误'的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "一次放学后，我和同学们在院子里打篮球，但因为表现不好被嘲笑，感到非常自卑和无助。",
+                "location": "学校操场",
+                "happen_time": "2011年9月",
+                "participants": "奚康元, 同学",
+                "impact": "强化了'我无法应对压力'的核心信念，并形成了'我应尽量避免让自己陷入困境'的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到朋友因为考试成绩不好被父母责骂，他哭得很伤心，这让我感受到成绩对家庭和个人的重要性。",
+                "location": "朋友家中",
+                "happen_time": "2012年6月",
+                "participants": "奚康元, 朋友, 朋友的父母",
+                "impact": "加强了'他人对我的期望非常高'和'我应该尽量避免让他人失望'的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我在一篇作文比赛中获得了全市第一名，父母对我表示了极大的认可和赞赏，这让我感到非常有成就感。",
+                "location": "南京市某小学",
+                "happen_time": "2013年3月",
+                "participants": "奚康元, 父亲, 母亲",
+                "impact": "进一步强化了'我是有价值的'的核心信念，并且增加了对努力和成功的正面关联。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会上，我注意到父亲与亲戚讨论工作时，提到了我的学习成绩和表现，满脸自豪。这让我感受到了父亲对我的期望和重视。",
+                "location": "家中客厅",
+                "happen_time": "2013年12月",
+                "participants": "奚康元, 父亲, 亲戚",
+                "impact": "加强了'他人对我有很高的期望'和'我需要满足他人的期望'的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "有一次，我在课堂上回答问题时答错了，老师批评了我，同学们也笑了，这让我感到非常尴尬和无助。",
+                "location": "南京市某小学",
+                "happen_time": "2014年4月",
+                "participants": "奚康元, 老师, 同学",
+                "impact": "强化了'他人会因为我的错误而看低我'的中间信念，并增加了对犯错的恐惧。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "一次放学后，我看到一个同学因为考试成绩差被老师叫去办公室谈话，同学出来后眼睛红红的，这让我感受到成绩对个人评价的影响。",
+                "location": "学校办公室外",
+                "happen_time": "2014年10月",
+                "participants": "奚康元, 同学, 老师",
+                "impact": "加强了'他人会不断挑剔我的表现'和'世界上没有容错的余地'的中间信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "有一次，我生病了，母亲非常细心地照顾我，给我讲故事让我放松。这让我感到非常温暖和安全。",
+                "location": "家中卧室",
+                "happen_time": "2007年2月",
+                "participants": "奚康元, 母亲",
+                "impact": "增强了对母亲的依赖，形成了'他人的认可对我很重要'的中间信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "一次我看到父亲在与母亲讨论家庭财务时显得很焦虑，这让我意识到了生活的压力和责任。",
+                "location": "家中客厅",
+                "happen_time": "2011年8月",
+                "participants": "奚康元, 父亲, 母亲",
+                "impact": "加强了'压力是无法避免的，而我无力应对'的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "有一次，我在期末考试中失利，成绩下降了很多，父亲对我非常失望，并表示我需要更加努力。",
+                "location": "家中书房",
+                "happen_time": "2012年1月",
+                "participants": "奚康元, 父亲",
+                "impact": "强化了'他人对我有很高的期望'和'我需要努力让每个人满意'的中间信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "一次在学校，看到一个同学因为打架被处分，这让我意识到行为规范的重要性。",
+                "location": "学校操场",
+                "happen_time": "2010年10月",
+                "participants": "奚康元, 同学",
+                "impact": "加强了'我应尽全力避免犯错'的中间信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校的运动会上获得了跑步比赛的冠军，父母和老师都对我表示了极大的赞赏，这让我感到非常自豪和有价值。",
+                "location": "学校操场",
+                "happen_time": "2013年5月",
+                "participants": "奚康元, 父亲, 母亲, 老师",
+                "impact": "进一步强化了'我是有价值的'的核心信念，并且增加了对努力和成功的正面关联。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "奚康元",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中入学考试成绩公布，我发现自己是全班第一名。父亲在家里大声宣布这个消息，并对我说：“康元，你做得很好，但你必须继续保持这个水平。”",
+                "location": "南京，家中",
+                "happen_time": "2015年9月",
+                "participants": "奚康元、父亲、母亲",
+                "impact": "这个事件增强了康元对学业成就和表现完美的追求，进一步强化了“我必须表现得完美”的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "期中考试成绩出来，我数学只考了80分。父亲非常生气，训斥我：“你怎么可以犯这么低级的错误，你让我们家丢脸了。”我感到非常内疚和焦虑。",
+                "location": "南京，家中",
+                "happen_time": "2016年11月",
+                "participants": "奚康元、父亲",
+                "impact": "这个事件强化了康元的完美主义倾向和对学业错误的无法容忍，同时也增加了对学业压力的恐惧。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在教室里看到班主任对一个同学说：“你这样下去是不会有好成绩的。”同学低下头，眼里充满了泪水。",
+                "location": "南京，学校教室",
+                "happen_time": "2017年3月",
+                "participants": "奚康元、班主任、同学",
+                "impact": "这个事件让康元意识到老师对成绩的高期望，进一步强化了“老师和家长会尊重我的学业成就”的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在一次家长会上，班主任当着全班家长的面表扬了我的成绩，并说我是班级的榜样。母亲会后对我说：“你要继续努力，不要辜负老师和我们的期望。”",
+                "location": "南京，学校教室",
+                "happen_time": "2017年6月",
+                "participants": "奚康元、班主任、母亲、其他家长",
+                "impact": "这个事件使康元感到压力倍增，强化了“我需要满足父母和老师的期望”的核心信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "我在篮球场上看到一个同学因为考试成绩不好，被父亲责骂，最后同学忍不住哭了出来。",
+                "location": "南京，学校篮球场",
+                "happen_time": "2017年10月",
+                "participants": "奚康元、同学、同学的父亲",
+                "impact": "这个事件让康元更加害怕学业失败，进一步强化了“如果我在学业上有缺陷或犯错，我就会被他人看低”的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高一第一次期末考试，我考了全班第一名，班主任在班会上表扬了我。父亲在家里对我说：“你看，你是可以做到的，只要你继续努力。”",
+                "location": "南京，学校教室和家中",
+                "happen_time": "2018年1月",
+                "participants": "奚康元、父亲、班主任",
+                "impact": "这个事件进一步增强了康元对学业成就的追求，同时也增加了保持高水平表现的压力。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校操场上看到一位学长因为高考失利，在电话里哭诉。那一刻，我感受到巨大的压力。",
+                "location": "南京，学校操场",
+                "happen_time": "2018年6月",
+                "participants": "奚康元、学长",
+                "impact": "这个事件让康元更加担心自己未来的学业表现，强化了“我无法应对压力”的核心信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "高二的一次模拟考试，我英语成绩不理想，母亲对我说：“你怎么能这样马虎？你知不知道我们对你有多高的期望？”",
+                "location": "南京，家中",
+                "happen_time": "2019年3月",
+                "participants": "奚康元、母亲",
+                "impact": "这个事件让康元感到巨大的内疚和压力，强化了“父母和老师对我的期望非常高”的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "高考前夕，我感到巨大的学业压力，失眠了一整晚。第二天，母亲看到我疲惫的样子，叹了口气说：“儿子，你一定要加油，不能让我们失望。”",
+                "location": "南京，家中",
+                "happen_time": "2020年6月",
+                "participants": "奚康元、母亲",
+                "impact": "这个事件进一步加剧了康元的学业焦虑，强化了对压力的无力感。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里听见父母在讨论我的未来，母亲说：“康元一定要考上北京的好大学，不然我们对不起他。”",
+                "location": "南京，家中",
+                "happen_time": "2020年5月",
+                "participants": "奚康元、父母",
+                "impact": "这个事件让康元进一步意识到父母对他的高期望，强化了“我必须尽全力满足父母和老师的期望”的中间信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "高考成绩公布，我考上了北京的一所知名大学，父母非常高兴。父亲对我说：“你没有让我们失望，希望你在北京也能继续努力。”",
+                "location": "南京，家中",
+                "happen_time": "2020年7月",
+                "participants": "奚康元、父母",
+                "impact": "这个事件让康元感到一部分的压力解除，但同时也意识到未来的压力依然存在，强化了“学业上的努力会被世界认可”的中间信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在北京的大学里，我第一次参加实验室的科研项目，感觉非常有挑战性，压力也很大。导师对我说：“你要尽快适应这里的节奏，不然会被淘汰。”",
+                "location": "北京，大学实验室",
+                "happen_time": "2020年9月",
+                "participants": "奚康元、导师",
+                "impact": "这个事件让康元感到巨大的适应压力，强化了“我无法应对压力”的核心信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到实验室一位学长因为课题进展不顺利，崩溃大哭。导师对他说：“科研就是这样，失败是常态。”",
+                "location": "北京，大学实验室",
+                "happen_time": "2020年11月",
+                "participants": "奚康元、学长、导师",
+                "impact": "这个事件让康元意识到科研中的失败是常态，但也增加了对未来科研工作的担忧，强化了“学业压力是无法避免的，而我无力应对”的中间信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在一次实验中，我因为操作失误导致数据出错，导师严厉批评了我。我感到非常沮丧，怀疑自己的科研能力。",
+                "location": "北京，大学实验室",
+                "happen_time": "2020年12月",
+                "participants": "奚康元、导师",
+                "impact": "这个事件进一步加剧了康元对学业和科研的焦虑，强化了“我无法应对压力”的核心信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一天，我在图书馆里看到一个同学因为论文被拒，愤怒地把书摔在地上，嘴里不停地抱怨。",
+                "location": "北京，大学图书馆",
+                "happen_time": "2020年12月",
+                "participants": "奚康元、同学",
+                "impact": "这个事件让康元意识到科研中的挫折和不确定性，进一步加剧了对科研失败的恐惧，强化了“如果我面对学业压力，我会崩溃”的中间信念。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "奚康元",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "第一次见到导师，导师详细描述了科研任务和要求，我感到压力山大，心跳加速，手心冒汗。",
+                "location": "北京大学实验室",
+                "happen_time": "2020年9月",
+                "participants": "导师",
+                "impact": "这次见面让我意识到导师对我的期望非常高，激发了我的完美主义倾向和恐惧失败感，加剧了焦虑。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次实验失败后，我独自一人在实验室重做实验，感觉到深深的挫败和自责。",
+                "location": "北京大学实验室",
+                "happen_time": "2021年3月",
+                "participants": "无",
+                "impact": "实验失败让我觉得自己不够完美，无法容忍自己的错误，进一步加剧了自我怀疑和抑郁情绪。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到女朋友和其他男生在一起聊天，心里产生了强烈的不安和嫉妒。",
+                "location": "北京大学校园",
+                "happen_time": "2021年5月",
+                "participants": "女朋友及其他男生",
+                "impact": "这次观察让我对自己在女朋友心中的地位产生怀疑，进一步加重了焦虑和不安全感。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "导师在实验室会议上公开表扬了我的一篇论文，但我依然感到不够好，觉得自己配不上这样的表扬。",
+                "location": "北京大学实验室",
+                "happen_time": "2021年12月",
+                "participants": "导师、同学",
+                "impact": "尽管受到了外界的认可，但我内心的完美主义和自我怀疑使我无法真正享受成就感，反而感到更加焦虑。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到一位学长因科研压力过大而退学，我感到震惊和恐惧，担心自己也会走上这条路。",
+                "location": "北京大学实验室",
+                "happen_time": "2022年3月",
+                "participants": "学长及实验室其他成员",
+                "impact": "这次观察让我对自己能否应对科研压力产生了严重怀疑，进一步加剧了焦虑和担忧。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "与女朋友因我忙于科研而发生争执，她抱怨我们之间的时间越来越少，我感到内疚和不安。",
+                "location": "北京大学宿舍",
+                "happen_time": "2022年6月",
+                "participants": "女朋友",
+                "impact": "争执让我更加焦虑，觉得自己无法满足女朋友的期望，增加了内心的压力和抑郁情绪。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在实验室熬夜完成一个重要实验，身体极度疲惫，感觉快要撑不下去了。",
+                "location": "北京大学实验室",
+                "happen_time": "2022年10月",
+                "participants": "无",
+                "impact": "这次熬夜让我体会到身体和心理的极限，强化了对压力的无法应对感，进一步加剧了抑郁风险。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到导师对另一位同学的批评，我感到导师对所有人要求都很高，自己也不例外。",
+                "location": "北京大学实验室",
+                "happen_time": "2023年2月",
+                "participants": "导师、同学",
+                "impact": "这次观察让我感到更大的压力，觉得自己必须更加努力才能不被批评，进一步加剧了完美主义倾向和焦虑。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次篮球比赛中受伤，无法继续参加活动，只能躺在宿舍休息，感到无助和沮丧。",
+                "location": "北京大学篮球场",
+                "happen_time": "2023年6月",
+                "participants": "同学、篮球队队友",
+                "impact": "受伤使我感到身体上的无力和精神上的孤立感，进一步加剧了抑郁情绪和决断困难。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到一位同学因发表高质量论文而获得奖学金，我感到嫉妒和压力。",
+                "location": "北京大学实验室",
+                "happen_time": "2023年9月",
+                "participants": "同学",
+                "impact": "这次观察让我意识到自己在科研上的竞争压力，强化了完美主义和对失败的恐惧，增加了焦虑感。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "与女朋友分手后，我感到极度痛苦和孤独，无法专注于科研。",
+                "location": "北京大学宿舍",
+                "happen_time": "2023年12月",
+                "participants": "女朋友",
+                "impact": "分手让我失去了重要的情感支持，感到更加孤独和无助，进一步加剧了抑郁和焦虑。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在导师的指导下，成功发表了一篇论文，尽管如此，我依然感到不够完美。",
+                "location": "北京大学实验室",
+                "happen_time": "2024年1月",
+                "participants": "导师",
+                "impact": "尽管取得了学术成就，但内心对完美的追求和自我怀疑使我无法真正享受成功，继续感到焦虑。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到导师对一位同学的严厉批评，我感到导师对所有人的期望都是如此高。",
+                "location": "北京大学实验室",
+                "happen_time": "2024年3月",
+                "participants": "导师、同学",
+                "impact": "这次观察让我更加害怕导师的批评，觉得自己必须更加努力才能不被批评，进一步加剧了完美主义和焦虑。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "因科研压力和长期熬夜，身体状况明显恶化，无法专心工作。",
+                "location": "北京大学实验室",
+                "happen_time": "2024年5月",
+                "participants": "无",
+                "impact": "身体状况的恶化让我更加感到无助和疲惫，进一步加剧了焦虑和抑郁情绪。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次实验失败后，忍不住在实验室里大哭，感到极度的无助和绝望。",
+                "location": "北京大学实验室",
+                "happen_time": "2024年7月",
+                "participants": "无",
+                "impact": "这次情绪崩溃让我意识到自己已经到了极限，激发了对科研和未来的深深恐惧和抑郁。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "观察到一位同学因科研压力过大而住院，我感到科研对心理健康的巨大威胁。",
+                "location": "北京大学实验室",
+                "happen_time": "2024年8月",
+                "participants": "同学",
+                "impact": "这次观察让我对自己的心理健康产生了严重担忧，进一步加剧了焦虑和抑郁情绪。"
+            }
+        ]
+    }
+}

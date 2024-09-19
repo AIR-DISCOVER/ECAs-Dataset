@@ -1,0 +1,247 @@
+{
+    "childhood": {
+        "name": "齐明广",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "小学一年级，我被选为班长。那天，老师在课堂上宣布这个决定时，我感到非常自豪和兴奋。同学们也向我表示祝贺，这让我觉得自己是被认可的。",
+                "location": "小学教室",
+                "happen_time": "2017年9月",
+                "participants": "老师，同学",
+                "impact": "这次经历强化了齐明广的核心信念'我是有价值的'，并且建立了他对学业和领导能力的信心。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学二年级时，我在一次数学竞赛中获得了全校第一名。妈妈在家里为我举办了一个小小的庆祝会，邀请了几个亲戚朋友。大家都对我表示祝贺，这让我感到非常自豪。",
+                "location": "家里",
+                "happen_time": "2018年5月",
+                "participants": "妈妈，亲戚朋友",
+                "impact": "这次获奖进一步增强了齐明广的自信心，强化了他'如果我成绩优秀，我就能证明自己是够好的'的中间信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我在一次语文考试中只得了70分，远低于平时的成绩。我感到非常沮丧，害怕回家后父母会失望。晚饭时，妈妈虽没有责怪我，但我依然感到深深的自责。",
+                "location": "家里",
+                "happen_time": "2019年11月",
+                "participants": "妈妈",
+                "impact": "这次考试失利让齐明广感到自己在学业上不够好，强化了他的核心信念'我不够好'和中间信念'如果我成绩不好，我就会被认为不够好'。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "一次周末，我看到爸爸和妈妈在厨房里一起做饭，爸爸讲了一些他工作中的趣事，妈妈听得很开心，两人都笑得很开怀。这让我感到家庭的温暖和和谐。",
+                "location": "家里厨房",
+                "happen_time": "2020年3月",
+                "participants": "爸爸，妈妈",
+                "impact": "这次观察强化了齐明广对家庭和谐的信念，增强了他的安全感和对家庭的依赖。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，我的科学实验在学校的科学展览中得到了老师的高度评价。爸爸很高兴地说：“明广，你真棒！咱们一起继续做更多有趣的实验吧。”",
+                "location": "学校科学展览",
+                "happen_time": "2020年6月",
+                "participants": "爸爸，老师",
+                "impact": "这次成功的实验经历增强了齐明广的自信心，并且强化了'我有能力在学业上取得好成绩，从而证明我的价值'的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我的一篇作文在全市作文比赛中获奖。妈妈带我去领奖时，满脸的骄傲让我感到自己很有价值。",
+                "location": "市文化中心",
+                "happen_time": "2021年5月",
+                "participants": "妈妈",
+                "impact": "这次获奖经历进一步强化了齐明广的核心信念'我是有价值的'，并且增强了他对写作的兴趣和信心。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "一次在家里，我看到爸爸在教我做一道数学题时表现出极大的耐心和细致的讲解，这让我意识到父亲对我的期望和关爱。",
+                "location": "家里",
+                "happen_time": "2021年10月",
+                "participants": "爸爸",
+                "impact": "这次观察让齐明广感受到父亲的期望，增强了他对学业的重视，同时也感到了一定的压力。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "小学六年级的期末考试，我因身体不适，成绩不理想。当我告诉妈妈时，她安慰我说：“没关系，健康最重要，成绩只是暂时的。”",
+                "location": "家里",
+                "happen_time": "2022年1月",
+                "participants": "妈妈",
+                "impact": "这次经历让齐明广感到即使成绩不好，妈妈依然关心他的健康，这在一定程度上减轻了他的压力，但也让他对自己的核心信念'我不够好'感到矛盾。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "一次在学校，我看到一个同学因为考试成绩不理想而被父母责骂，那位同学哭得很伤心。我感到非常同情，也有些害怕自己会遇到同样的情况。",
+                "location": "学校走廊",
+                "happen_time": "2022年5月",
+                "participants": "同学，父母",
+                "impact": "这次观察让齐明广更加担心成绩不理想会导致父母失望，强化了他'如果我成绩不好，我就会被认为不够好'的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "小学毕业典礼上，我作为优秀毕业生代表上台发言，获得了全场的掌声。那一刻，我感到非常自豪和幸福。",
+                "location": "学校礼堂",
+                "happen_time": "2022年6月",
+                "participants": "老师，同学，家长",
+                "impact": "这次在公众面前的成功经历极大地增强了齐明广的自信心，强化了他的核心信念'我是有价值的'。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "初中入学的第一天，我看到很多同学都在相互认识和交谈，而我却感到有些孤独和不安。",
+                "location": "初中校园",
+                "happen_time": "2022年9月",
+                "participants": "初中同学",
+                "impact": "这次经历让齐明广感受到自己在新环境中的不适应，产生了'我无法应对学业上的困难，因为我是无能的'的中间信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "初中第一次月考成绩出来后，我的成绩远低于预期。爸爸虽然没有责怪我，但他语气中的失望让我感到深深的内疚和压力。",
+                "location": "家里",
+                "happen_time": "2022年10月",
+                "participants": "爸爸",
+                "impact": "这次考试失利让齐明广感到自己在学业上不够好，进一步强化了他的核心信念'我不够好'和中间信念'如果我成绩不好，我就会被认为不够好'。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "一次在家里，我听到爸爸和妈妈在讨论我的学习情况，爸爸提到：“明广现在的成绩不太理想，我们需要多关注他的学习。”妈妈则表示理解和支持。",
+                "location": "家里",
+                "happen_time": "2022年11月",
+                "participants": "爸爸，妈妈",
+                "impact": "这次观察让齐明广感受到父母对他的期望和担忧，增加了他对学业的压力。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "初中第一次家长会后，妈妈对我说：“老师说你的表现还不错，但是可以再努力些。”我感到既有些安慰，也有些压力。",
+                "location": "家里",
+                "happen_time": "2023年1月",
+                "participants": "妈妈",
+                "impact": "这次经历让齐明广感到父母对他的期望和关心，增强了他对学业的重视，但也增加了他的心理压力。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "一次课堂上，老师表扬了一个同学的进步，并鼓励大家向他学习。我观察到那个同学非常开心和自信，这让我感到自己也应该更加努力。",
+                "location": "初中教室",
+                "happen_time": "2023年3月",
+                "participants": "老师，同学",
+                "impact": "这次观察让齐明广感受到努力带来的成就感，激发了他对学业更加努力的动力，强化了他'如果我努力并取得好成绩，我会被认为是有价值的'的中间信念。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "齐明广",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "齐明广在进入初中后的第一次期中考试中成绩不理想，班主任在班会上公开了成绩排名，齐明广的成绩位列中下。回到家后，他感到非常沮丧，向母亲吐露了自己的失望和压力。",
+                "location": "初中校园、家中",
+                "happen_time": "2023年11月",
+                "participants": "齐明广, 班主任, 母亲",
+                "impact": "负面影响：这次失败让齐明广对自己的能力产生了怀疑，增加了他的无能感和自我价值感低下。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次班级讨论中，齐明广因为害怕出错而没有发言，结果被老师点名批评。同学们在课后议论纷纷，有些人认为他不够努力。",
+                "location": "教室",
+                "happen_time": "2023年12月",
+                "participants": "齐明广, 同学, 老师",
+                "impact": "负面影响：这次事件加剧了齐明广的自卑感，并强化了他对他人评判的恐惧。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "齐明广的父母发现他的情绪低落，试图通过增加家庭活动来缓解他的压力。在一次家庭聚餐中，父亲鼓励他多与家人交流，而齐明广却感到压力，因为他不想让父母失望。",
+                "location": "家中",
+                "happen_time": "2024年1月",
+                "participants": "齐明广, 父母",
+                "impact": "负面影响：尽管父母的意图是好的，但齐明广感到更多的压力，害怕辜负父母的期望，进一步增加了他的自我价值感低下。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次美术课上，齐明广的绘画作品得到了老师的表扬，这让他感到一丝自信。然而，这种自信很快被其他学科的压力所淹没。",
+                "location": "美术教室",
+                "happen_time": "2024年2月",
+                "participants": "齐明广, 美术老师, 同学",
+                "impact": "正面影响：短暂的自信提升，但由于其他学科的压力，这种自信没有持续太久。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "齐明广在一次家长会上听到老师对他的评价，老师指出他在学业上有进步的空间，但需要更加努力。这让他感到被期待和压力。",
+                "location": "学校会议室",
+                "happen_time": "2024年3月",
+                "participants": "齐明广, 父母, 老师",
+                "impact": "负面影响：虽然老师的评价中有正面内容，但齐明广更关注到需要“更加努力”的部分，感到压力倍增。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "齐明广看到一位同学因为学业优秀被全校表彰，他感到自己与那位同学的差距越来越大。",
+                "happen_time": "2024年4月",
+                "participants": "齐明广, 被表彰同学, 学校师生",
+                "impact": "负面影响：这种对比让齐明广更加怀疑自己的能力，觉得自己无能，进一步加重了他的抑郁情绪。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "齐明广在一次模拟考试中再次失利，他开始怀疑自己是否有能力考上理想的高中，感到无望。",
+                "location": "教室",
+                "happen_time": "2024年5月",
+                "participants": "齐明广, 同学, 老师",
+                "impact": "负面影响：这次模拟考试的失利进一步削弱了他的自信心，并加重了他的无望感。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，齐明广的亲戚问起他的学习情况，他感到非常尴尬，不知道如何回答。",
+                "location": "亲戚家",
+                "happen_time": "2024年6月",
+                "participants": "齐明广, 亲戚, 父母",
+                "impact": "负面影响：这次经历让他更加感到无能和自卑，害怕面对别人对他学习情况的询问。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "齐明广在学校看到一位同学因为学业压力而崩溃大哭，这让他感到自己也可能会遭遇同样的情况。",
+                "happen_time": "2024年7月",
+                "participants": "齐明广, 其他同学, 老师",
+                "impact": "负面影响：看到同学的崩溃让他更加担心自己的心理状态，并感到学业压力带来的巨大负担。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "齐明广在暑假期间参加了一次补习班，尽管他努力学习，但成绩提升不明显，他感到非常失望和无力。",
+                "location": "补习班",
+                "happen_time": "2024年8月",
+                "participants": "齐明广, 补习班老师, 同学",
+                "impact": "负面影响：这次经历让他更加怀疑自己的能力，觉得自己即使努力也无法取得好成绩，进一步加重了他的抑郁情绪。"
+            }
+        ]
+    }
+}

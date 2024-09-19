@@ -1,0 +1,158 @@
+{
+    "recent_events": {
+        "name": "汤顺振",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在放学回家的路上，我被几个高年级的哥哥围住，他们抢走了我的画册，还嘲笑我胆小。我的心跳加快，感到非常害怕和无助。",
+                "location": "学校附近的街道",
+                "happen_time": "2024年1月",
+                "participants": "汤顺振, 高年级的哥哥们",
+                "impact": "这次事件加剧了汤顺振的恐惧和不安全感，强化了他“我不够强大”和“我是不安全的”的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "晚上，我在家里哭泣，告诉妈妈我不想去学校，因为我害怕那些哥哥。妈妈安慰我，但我依然感到很孤独和无助。",
+                "location": "家里",
+                "happen_time": "2024年1月",
+                "participants": "汤顺振, 母亲",
+                "impact": "汤顺振觉得依赖母亲能带来些许安全感，但依然感到孤独和无助，强化了“我需要依赖他人”的信念。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在绘画课上，我画了一幅自己喜欢的动画角色，但老师要求我在全班同学面前展示，我感到非常紧张，不敢上前。",
+                "location": "学校教室",
+                "happen_time": "2024年2月",
+                "participants": "汤顺振, 班级同学, 美术老师",
+                "impact": "由于害怕被嘲笑和拒绝，汤顺振选择了退缩，进一步增强了“我不应该引起他人的注意”的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "班主任特意找我谈话，鼓励我勇敢面对那些哥哥，并告诉我学校会采取措施保护我。",
+                "location": "学校办公室",
+                "happen_time": "2024年3月",
+                "participants": "汤顺振, 班主任",
+                "impact": "虽然班主任的鼓励让汤顺振感到一丝温暖，但他仍然对自己的能力感到怀疑，害怕反抗会带来更多伤害。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "课间，我看到那些高年级的哥哥在不远处，心里非常害怕，立刻躲进了厕所，不敢出来。",
+                "location": "学校",
+                "happen_time": "2024年3月",
+                "participants": "汤顺振, 高年级哥哥们",
+                "impact": "这次事件再次强化了汤顺振的恐惧和不安全感，使他更加相信“我随时可能受到伤害”的信念。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到班主任在课堂上表扬了一个同学的勇敢行为，全班同学都为他鼓掌。",
+                "location": "学校教室",
+                "happen_time": "2024年4月",
+                "participants": "汤顺振, 班主任, 同班同学",
+                "impact": "汤顺振感到羡慕和自卑，认为自己无法做到那样勇敢，进一步强化了“他人比我更强大”的信念。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在学校的操场上，我观察到那些高年级的哥哥欺负另外一个低年级的同学，我感到非常害怕，心里想着‘如果我去帮忙，我也会被欺负’。",
+                "location": "学校操场",
+                "happen_time": "2024年4月",
+                "participants": "汤顺振, 高年级哥哥们, 低年级同学",
+                "impact": "这次事件加深了汤顺振对危险的感知，使他更加确信“世界是充满危险的地方”。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次上学途中，我看到那些哥哥在前面，我立刻绕道走，结果迟到了上课，老师询问原因时，我撒谎说是因为起晚了。",
+                "location": "学校附近的街道",
+                "happen_time": "2024年5月",
+                "participants": "汤顺振, 班主任",
+                "impact": "逃避和撒谎让汤顺振感到自责和无力，进一步强化了“我无法独自应对困难”的信念。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在心理医生的办公室里，告诉医生我很害怕那些哥哥，并且不想上学。医生建议我尝试面对恐惧，但我觉得自己做不到。",
+                "location": "心理医生的办公室",
+                "happen_time": "2024年5月",
+                "participants": "汤顺振, 心理医生",
+                "impact": "尽管心理医生的建议是积极的，但汤顺振仍然感到自己无法独自面对，进一步强化了“我需要依赖他人”的信念。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我的表姐告诉我她在学校被选为班长，因为她总是勇敢面对挑战。我听了之后感到非常羡慕和自卑。",
+                "location": "家里",
+                "happen_time": "2024年6月",
+                "participants": "汤顺振, 表姐, 家人",
+                "impact": "听到表姐的故事，让汤顺振感到自己很弱小，进一步强化了“我不够强大”的信念。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在放学路上，我看到一个小朋友摔倒，他的朋友们立刻围上去帮忙，我感到心里温暖，但也觉得自己没有那样的朋友。",
+                "location": "学校附近的街道",
+                "happen_time": "2024年6月",
+                "participants": "汤顺振, 其他小朋友",
+                "impact": "观察到他人的友谊和互助，让汤顺振感到孤独和无助，进一步强化了“我需要依赖他人”的信念。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次拼图比赛中，我和同学合作完成了一个复杂的拼图，尽管感到成就感，但内心仍然觉得自己离不开他人的帮助。",
+                "location": "学校教室",
+                "happen_time": "2024年7月",
+                "participants": "汤顺振, 同班同学",
+                "impact": "成功完成拼图带来了短暂的自信，但依赖他人的感觉依然存在，强化了“我需要依赖他人”的信念。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家长会上，妈妈告诉老师我最近变得非常害怕上学，希望老师能多关照我，我在旁边听了觉得很难过和羞愧。",
+                "location": "学校教室",
+                "happen_time": "2024年7月",
+                "participants": "汤顺振, 母亲, 班主任",
+                "impact": "妈妈的关心让汤顺振感到温暖，但同时也感到羞愧，觉得自己很无能，进一步强化了“我不值得保护”的信念。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在学校的走廊上，我看到那些高年级的哥哥被老师批评和罚站，我心里感到高兴，但也担心他们会报复我。",
+                "location": "学校走廊",
+                "happen_time": "2024年8月",
+                "participants": "汤顺振, 高年级哥哥们, 老师",
+                "impact": "看到欺负者受罚让汤顺振感到一丝解脱，但也增加了对未来报复的恐惧，强化了“我随时可能受到伤害”的信念。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次美术课上，我被选为绘画比赛的候选人，尽管感到荣幸，但内心却害怕失败和被嘲笑。",
+                "location": "学校教室",
+                "happen_time": "2024年8月",
+                "participants": "汤顺振, 美术老师, 同班同学",
+                "impact": "被选为候选人带来了一些自信，但害怕失败的心理让汤顺振感到压力，强化了“我有能力实现梦想”的信念，但同时也担心“如果我不努力，我的梦想将无法实现”。"
+            }
+        ]
+    }
+}

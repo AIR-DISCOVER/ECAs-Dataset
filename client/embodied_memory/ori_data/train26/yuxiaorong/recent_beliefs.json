@@ -1,0 +1,99 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须完美。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我可以克服困难。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我做错事，就会证明我不够好。",
+                "others": "他人会因为我的错误而失望和批评我。",
+                "world": "这个世界对失败和错误是零容忍的。"
+            },
+            "rules": "我应该尽量避免犯错。",
+            "positive_assumption": "如果我不犯错，我就能证明自己的价值。",
+            "negative_assumption": "如果我犯错，我就证明了我不够好。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不能满足自己的期望，这是因为我不够好。",
+                "others": "他人会认为我不够好，因为我达不到标准。",
+                "world": "世界是竞争激烈的，只有最好的人才能生存。"
+            },
+            "rules": "我应该不断努力超越自己。",
+            "positive_assumption": "如果我不断努力，我可能会变得更好。",
+            "negative_assumption": "如果我不够好，我就会被淘汰。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要完美表现才能获得认可。",
+                "others": "他人只会认可完美的人。",
+                "world": "世界上的成功取决于完美的表现。"
+            },
+            "rules": "我必须在所有事情上做到完美。",
+            "positive_assumption": "如果我表现完美，我就会得到他人的认可和尊重。",
+            "negative_assumption": "如果我不能达到完美，我就会被忽视和抛弃。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的错误会暴露我的不完美。",
+                "others": "他人会对我的错误耿耿于怀。",
+                "world": "在这个世界上，错误是无法被原谅的。"
+            },
+            "rules": "我必须避免任何可能的错误。",
+            "positive_assumption": "如果我避免错误，我就能保持完美的形象。",
+            "negative_assumption": "如果我犯错，我的形象和地位会受损。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力面对并解决问题。",
+                "others": "他人会支持并鼓励我。",
+                "world": "这个世界充满了机会和挑战，我可以应对。"
+            },
+            "rules": "我应该积极面对挑战，并寻找解决方案。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得宝贵的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会，并感到失败。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力通过努力取得成功。",
+                "others": "他人会认可并支持我的努力。",
+                "world": "世界上的成功是通过努力和坚持获得的。"
+            },
+            "rules": "我应该坚持不懈地追求我的目标。",
+            "positive_assumption": "如果我努力，我就会取得成功。",
+            "negative_assumption": "如果我放弃，我就会失败并感到后悔。"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "node_11": {
+        "page_content": "我值得被家人和朋友爱戴。",
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": "我对生活的乐趣正在流失。",
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_9": {
+        "page_content": "我的记忆力正在逐渐衰退。",
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_8": {
+        "page_content": "我在工作上不再有价值。",
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_7": {
+        "page_content": "我值得被家人和朋友爱戴。",
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_6": {
+        "page_content": "我对生活充满乐趣。",
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_5": {
+        "page_content": "我有良好的记忆力。",
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_4": {
+        "page_content": "我在工作上很有价值。",
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_3": {
+        "page_content": "我值得被家人和朋友爱戴。",
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": "我应该有一些兴趣爱好来丰富我的生活。",
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": "我的记忆力是我学习成功的关键。",
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": "我在学习上必须表现出色。",
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

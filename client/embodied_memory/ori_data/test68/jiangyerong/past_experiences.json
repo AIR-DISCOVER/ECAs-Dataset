@@ -1,0 +1,454 @@
+{
+    "childhood": {
+        "name": "蒋叶蓉",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "蒋叶蓉在小学三年级的一次数学考试中只得了80分，她回到家后，母亲神色严厉地对她说：'你怎么会考得这么差？你平时不是一直很优秀吗？' 蒋叶蓉感到非常失落和自责，从那时起她觉得自己不够好，必须更加努力才能获得认可。",
+                "location": "家中客厅",
+                "happen_time": "2011年5月",
+                "participants": "蒋叶蓉，母亲",
+                "impact": "事件加深了她'我不够好'的核心信念，并形成了'我做得不够好，我是失败的'的中间信念，导致她对自我要求更加严格，害怕失败。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "五年级时，蒋叶蓉参加了学校的绘画比赛并获得一等奖。回家后，母亲温柔地抱住她，夸奖她：'我们叶蓉真棒，妈妈为你感到骄傲。' 那一刻，她感受到自己是被爱的，也值得被关心。",
+                "location": "家中",
+                "happen_time": "2013年10月",
+                "participants": "蒋叶蓉，母亲",
+                "impact": "这一事件强化了她'我值得被爱和关心'的核心信念，帮助她建立了一些积极的自我认知。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "六年级时，蒋叶蓉在一次班级演讲比赛中因为紧张而忘词，结果没有获得名次。她回到家后，父亲沉默地拍了拍她的肩膀说：'下次再努力吧。' 她感到自己没有达到预期，非常失望。",
+                "location": "学校礼堂",
+                "happen_time": "2014年4月",
+                "participants": "蒋叶蓉，父亲，老师，同学",
+                "impact": "事件强化了她'我必须完美'和'我没有价值'的核心信念，导致她对失败和不完美的恐惧加剧。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "有一次，蒋叶蓉听见邻居家的孩子在被父母责骂，孩子哭得很伤心。她看着自己的父母，虽然他们对自己要求严格，但也会给予支持和鼓励。",
+                "location": "邻居家",
+                "happen_time": "2010年8月",
+                "participants": "蒋叶蓉，邻居家的孩子，邻居父母",
+                "impact": "这次观察让她对父母的严格要求有了新的认知，她意识到严格背后也有爱，但同时也感到害怕被责骂。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "蒋叶蓉在学校看到一位同学因为成绩不好被老师当众批评，那位同学脸色苍白，低着头不敢看人。蒋叶蓉感到一阵同情，同时也害怕自己会有同样的遭遇。",
+                "location": "学校教室",
+                "happen_time": "2012年12月",
+                "participants": "蒋叶蓉，同学，老师",
+                "impact": "这一事件强化了她'世界对我充满了批评和指责'的中间信念，让她更加害怕犯错和失败。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "蒋叶蓉在一次家庭聚会上，听到亲戚们夸奖她的成绩和表现，她感到非常开心和自豪，但也感受到他们的期望和压力。",
+                "location": "家中",
+                "happen_time": "2012年春节",
+                "participants": "蒋叶蓉，父母，亲戚",
+                "impact": "事件强化了她'我必须完美'的核心信念，让她感到必须不断努力才能不辜负他人的期望。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在一次课外活动中，蒋叶蓉因为帮助同学而受到老师的表扬，她感到自己是有能力的，并且得到了他人的认可。",
+                "location": "学校操场",
+                "happen_time": "2014年5月",
+                "participants": "蒋叶蓉，同学，老师",
+                "impact": "事件强化了她'我可以克服困难'的核心信念，增加了她的自信心。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "蒋叶蓉看到母亲在照顾生病的邻居时，邻居非常感激，她感受到关爱和帮助的重要性。",
+                "location": "邻居家",
+                "happen_time": "2011年11月",
+                "participants": "蒋叶蓉，母亲，邻居",
+                "impact": "这一事件强化了她'我值得被爱和关心'的核心信念，让她学会了关爱他人。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "蒋叶蓉在一次大考前夜晚无法入睡，她担心自己考不好会辜负父母的期望，于是偷偷在床上哭泣。",
+                "location": "家中卧室",
+                "happen_time": "2015年6月",
+                "participants": "蒋叶蓉",
+                "impact": "事件加深了她'我不够好'和'我没有价值'的核心信念，导致她的焦虑和自我压力增加。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "蒋叶蓉在一次课外兴趣班中因为绘画作品出色被老师特别表扬，她感到非常开心，觉得自己的努力得到了认可。",
+                "location": "兴趣班教室",
+                "happen_time": "2013年3月",
+                "participants": "蒋叶蓉，绘画老师",
+                "impact": "事件强化了她'我值得被爱和关心'的核心信念，增强了她的自信心和自我价值感。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "蒋叶蓉看到电视新闻报道某位学生因学业压力自杀，她感到非常震惊和恐惧，开始思考自己的生活压力和应对方式。",
+                "location": "家中客厅",
+                "happen_time": "2015年3月",
+                "participants": "蒋叶蓉，父母（间接参与）",
+                "impact": "事件让她意识到学业压力的严重性，同时也让她更加害怕失败和不完美。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "蒋叶蓉在学校运动会上摔倒了，腿部受伤，她的好朋友立即跑过来扶起她，并安慰她。蒋叶蓉感到非常温暖和被关心。",
+                "location": "学校操场",
+                "happen_time": "2013年9月",
+                "participants": "蒋叶蓉，好朋友",
+                "impact": "事件强化了她'我值得被爱和关心'的核心信念，让她感受到友情的温暖。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "蒋叶蓉在家中看到父母因为经济问题争吵，虽然争吵并不激烈，但她感到家庭压力和不安。",
+                "location": "家中客厅",
+                "happen_time": "2014年12月",
+                "participants": "蒋叶蓉，父母",
+                "impact": "事件让她意识到家庭压力的存在，增加了她对未来的不确定感和焦虑。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "蒋叶蓉在一次科学实验中取得了很好的结果，老师表扬了她的努力和聪明，她感到非常自豪。",
+                "location": "学校科学实验室",
+                "happen_time": "2012年5月",
+                "participants": "蒋叶蓉，老师，同学",
+                "impact": "事件强化了她'我可以克服困难'的核心信念，让她更加相信自己的能力。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "蒋叶蓉看到一次校外活动中，有同学因为表现出色而被全校表扬，她感到羡慕，同时也感受到自己需要更加努力。",
+                "location": "学校礼堂",
+                "happen_time": "2015年2月",
+                "participants": "蒋叶蓉，同学，老师",
+                "impact": "事件强化了她'我必须完美'的核心信念，增加了她对自我提升的动力和压力。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "蒋叶蓉",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我在初中三年级的时候，期末考试前的一个晚上，我坐在书桌前复习数学。妈妈走进来，语气很严肃地说：'叶蓉，这次你一定要考好，妈妈对你有很高的期望。' 我点点头，心里却感到一阵压力，害怕自己不能达到她的期望。",
+                "location": "家中的书房",
+                "happen_time": "2016年6月",
+                "participants": "蒋叶蓉、母亲",
+                "impact": "这次对话强化了蒋叶蓉的核心信念'我必须完美'，增加了她的学业压力和焦虑感。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "高一的某一天，我在班上做了一次数学竞赛的模拟测试，结果不理想。班主任在课后找我谈话：'叶蓉，你平时表现很好，但这次怎么会这样？你要更加努力啊。' 我感到无比失落和自责，觉得自己辜负了老师的期望。",
+                "location": "学校的办公室",
+                "happen_time": "2017年10月",
+                "participants": "蒋叶蓉、班主任",
+                "impact": "这次事件进一步强化了她的核心信念'我不够好'和中间信念'我必须避免犯错'，让她对自己的能力产生怀疑。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校的走廊里，看到一个同学因为成绩不佳被班主任当众批评。我注意到那个同学低下头，眼里含着泪水。看到这一幕，我感到内心的恐惧，害怕有一天自己也会面临同样的情况。",
+                "location": "学校走廊",
+                "happen_time": "2018年3月",
+                "participants": "蒋叶蓉、同学、班主任",
+                "impact": "这次观察让蒋叶蓉对学业压力更加敏感，强化了她的中间信念'如果我犯错，我会被人看不起'。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "高二的一次班级会议上，班主任表扬了我的一篇作文，说这是她见过的最好的文章之一。当时我感到非常开心和自豪，但同时也感到巨大的压力，担心以后不能再写出同样优秀的文章。",
+                "location": "学校的教室",
+                "happen_time": "2018年5月",
+                "participants": "蒋叶蓉、班主任、全班同学",
+                "impact": "这次事件让蒋叶蓉的核心信念'我必须完美'得到了强化，增加了她对未来表现的焦虑感。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "高三时，我在一次模拟考试中考得非常好，数学老师当着全班同学的面表扬了我。我感到非常骄傲，但也意识到同学们对我的期待更高了，害怕以后不能再保持这样的成绩。",
+                "location": "学校的教室",
+                "happen_time": "2019年3月",
+                "participants": "蒋叶蓉、数学老师、全班同学",
+                "impact": "这次事件强化了她的中间信念'他人只会认可我的完美表现'，增加了她对保持高标准的压力。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里看到父母为了一件小事争吵，父亲非常生气地摔门而出，母亲坐在沙发上哭泣。我站在门口，不知道该怎么办，只能默默地回到房间。",
+                "location": "家中的客厅",
+                "happen_time": "2019年7月",
+                "participants": "蒋叶蓉、父亲、母亲",
+                "impact": "这次事件让蒋叶蓉对家庭关系产生了不安，觉得自己没有能力改变现状，强化了她的核心信念'我没有价值'。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在高考前夕，我的焦虑情绪越来越严重，晚上常常失眠。有一次，我在妈妈的陪伴下去看心理医生，医生告诉我：'你要学会放松，不要给自己太大压力。' 但我心里仍然无法放松，担心自己的未来。",
+                "location": "心理诊所",
+                "happen_time": "2020年5月",
+                "participants": "蒋叶蓉、母亲、心理医生",
+                "impact": "这次事件让蒋叶蓉意识到自己的心理问题，但她的焦虑和对自我要求的高标准依然没有改变。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "高考结束后，我和同学们一起去旅游放松。在一个海滩上，我们一起看日落，聊了很多心事。我发现，原来大家都有各自的烦恼和压力，不只是我一个人。那一刻，我感到了一些安慰和理解。",
+                "location": "某海滩",
+                "happen_time": "2020年7月",
+                "participants": "蒋叶蓉、几位同学",
+                "impact": "这次经历让蒋叶蓉感受到同伴的支持，稍微缓解了她的焦虑，增强了她的核心信念'我值得被爱和关心'。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "在一次班级聚会上，我看到一个平时成绩一般的同学因为在艺术节上表现出色而受到了大家的赞扬。我开始思考，或许自己也可以在其他方面找到自我价值，而不仅仅是学业上。",
+                "location": "学校的礼堂",
+                "happen_time": "2020年9月",
+                "participants": "蒋叶蓉、同学们",
+                "impact": "这次观察让蒋叶蓉意识到多元化的价值标准，开始反思自己的核心信念'我必须完美'。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "大学开学的第一天，我在校园里迷路了，感到非常无助。这时，一位学姐主动过来帮我，带我找到了教室。她还告诉我：'刚开始都会有些不适应，但你会慢慢习惯的。' 我感到一丝温暖和鼓励。",
+                "location": "大学校园",
+                "happen_time": "2021年9月",
+                "participants": "蒋叶蓉、学姐",
+                "impact": "这次经历让蒋叶蓉感受到来自他人的关心，增强了她的核心信念'我值得被爱和关心'。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在大学的第一次期中考试后，我的成绩并不理想，感到非常沮丧。这时，数学老师找我谈话：'大学和高中不一样，你需要调整自己的学习方法，不要灰心。' 我意识到自己需要改变过去的学习习惯。",
+                "location": "大学的办公室",
+                "happen_time": "2021年12月",
+                "participants": "蒋叶蓉、大学数学老师",
+                "impact": "这次事件让蒋叶蓉意识到需要灵活应对新的挑战，强化了她的核心信念'我可以克服困难'。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "蒋叶蓉",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我正在导师的办公室里，导师严厉地批评我最近的论文进展不够理想。他说如果再这样下去，我可能无法按时毕业。我感到非常无助和压力，这加剧了我对自己的质疑。",
+                "location": "导师办公室",
+                "happen_time": "2024年2月",
+                "participants": "导师",
+                "impact": "负面影响，加剧了自我价值感低和焦虑感。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一个晚上，我和室友在宿舍里，她们在热烈讨论某部新出的电影，而我却提不起兴趣参与其中，只感觉自己被孤立在一旁。",
+                "location": "宿舍",
+                "happen_time": "2024年3月",
+                "participants": "室友",
+                "impact": "负面影响，感到孤独和社交退缩。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次课后，我的好朋友约我一起去咖啡馆放松，但我因为疲倦和低落情绪拒绝了她。她看起来很失望，我感到内疚和无力。",
+                "location": "学校咖啡馆",
+                "happen_time": "2024年4月",
+                "participants": "好朋友",
+                "impact": "负面影响，增加了自罪感和无望感。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一天晚上，我突然失去了对画画的兴趣，明明是我最爱的爱好之一。我感觉自己失去了生活的动力。",
+                "location": "宿舍",
+                "happen_time": "2024年5月",
+                "participants": "无",
+                "impact": "负面影响，兴趣丧失和无望感加重。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在图书馆里，我尝试集中精力写论文，但几小时过去了依然无法写出几个字。我的注意力难以集中，感到非常沮丧。",
+                "location": "图书馆",
+                "happen_time": "2024年6月",
+                "participants": "无",
+                "impact": "负面影响，注意力难以集中和疲倦感加重。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "母亲打电话来询问我的论文进展，我不敢告诉她实情，只能勉强应付。挂断电话后，我感到巨大的压力和无助。",
+                "location": "宿舍",
+                "happen_time": "2024年7月",
+                "participants": "母亲",
+                "impact": "负面影响，压力感和无助感加剧。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次自习时，我听到隔壁桌的同学在讨论他们的论文进展非常顺利，这让我感到自己更加无能和无望。",
+                "location": "图书馆",
+                "happen_time": "2024年8月",
+                "participants": "其他同学",
+                "impact": "负面影响，自我价值感进一步下降。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我观察到一位同学因论文答辩不通过而情绪崩溃，这让我更加担心自己的论文和未来。",
+                "location": "校园",
+                "happen_time": "2024年5月",
+                "participants": "同学",
+                "impact": "负面影响，增加了对未来的焦虑和无望感。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次晚餐时，我看到室友们开心地讨论她们的就业机会，而我却感到自己没有任何希望和未来。",
+                "location": "宿舍",
+                "happen_time": "2024年6月",
+                "participants": "室友",
+                "impact": "负面影响，加剧了自我价值感低和无望感。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "导师在一次讨论中提到我的论文需要大幅修改，这让我感到非常沮丧和怀疑自己的能力。",
+                "location": "导师办公室",
+                "happen_time": "2024年3月",
+                "participants": "导师",
+                "impact": "负面影响，增加了自我怀疑和压力感。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我尝试向好朋友倾诉我的困惑和压力，她耐心倾听并安慰我，但我依然感到孤独和无助。",
+                "location": "宿舍",
+                "happen_time": "2024年4月",
+                "participants": "好朋友",
+                "impact": "负面影响，感到孤独和无助。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与母亲的视频通话中，她提到希望我能尽快找到好工作，我感到巨大的压力和焦虑。",
+                "location": "宿舍",
+                "happen_time": "2024年5月",
+                "participants": "母亲",
+                "impact": "负面影响，压力感和焦虑感加剧。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我参加了一场学校组织的职业规划讲座，但内容让我感到自己的未来更加渺茫和无望。",
+                "location": "校园",
+                "happen_time": "2024年6月",
+                "participants": "讲座组织者",
+                "impact": "负面影响，增加了对未来的无望感。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与室友的交流中，她们提到我最近显得很消沉，我感到被关注，但同时也感到更加无助。",
+                "location": "宿舍",
+                "happen_time": "2024年7月",
+                "participants": "室友",
+                "impact": "负面影响，感到无助和孤独。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我在校园中看到一位同学因压力过大而晕倒，这让我对自己的健康状况感到担忧。",
+                "location": "校园",
+                "happen_time": "2024年7月",
+                "participants": "同学",
+                "impact": "负面影响，增加了对健康的焦虑感。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次学术会议上，看到其他同学的优秀表现，感到自己非常渺小和无能。",
+                "location": "学术会议",
+                "happen_time": "2024年8月",
+                "participants": "其他同学",
+                "impact": "负面影响，自我价值感进一步下降。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次聚会上，我看到一位同学因找到理想工作而非常开心，这让我感到自己的人生更加无望。",
+                "location": "校园聚会",
+                "happen_time": "2024年8月",
+                "participants": "同学",
+                "impact": "负面影响，增加了对未来的无望感。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我尝试通过听音乐来放松自己，但发现自己对音乐也失去了兴趣，感到非常绝望。",
+                "location": "宿舍",
+                "happen_time": "2024年7月",
+                "participants": "无",
+                "impact": "负面影响，兴趣丧失和绝望感加重。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次自习中，尝试阅读一本喜欢的小说，但无法集中注意力，感到非常沮丧和无助。",
+                "location": "图书馆",
+                "happen_time": "2024年6月",
+                "participants": "无",
+                "impact": "负面影响，注意力难以集中和无助感加重。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我在一次校园活动中，看到一位同学因学业压力过大而哭泣，这让我更加担忧自己的学业和未来。",
+                "location": "校园",
+                "happen_time": "2024年8月",
+                "participants": "同学",
+                "impact": "负面影响，增加了对学业和未来的焦虑感。"
+            }
+        ]
+    }
+}

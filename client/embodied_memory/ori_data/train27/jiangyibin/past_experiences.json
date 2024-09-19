@@ -1,0 +1,596 @@
+{
+    "childhood": {
+        "name": "姜毅斌",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "小学一年级的一次考试前，我因为紧张而失眠。第二天考试时，我感觉脑袋一片空白，考得很差。回到家后，父亲看着我的成绩单，沉默了很久，然后叹了一口气，说‘毅斌，你要更加努力啊。’",
+                "location": "家中客厅",
+                "happen_time": "1991年6月",
+                "participants": "父亲",
+                "impact": "这次事件强化了‘我必须成功才能证明自己’的核心信念，并加剧了‘如果我不能在学业上取得好成绩，就说明我没有价值’的中间信念"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学三年级的家长会后，母亲对我说‘老师说你表现不错，但还需要更努力一点。’母亲的语气虽然温和，但我心里却感到一阵压力。",
+                "location": "家中厨房",
+                "happen_time": "1993年9月",
+                "participants": "母亲",
+                "impact": "这次对话使‘我必须不断努力学习，才能满足父母的期望’的中间信念进一步加深"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我和朋友一起玩耍时，听到一个朋友说‘我爸妈总是说我太笨，永远达不到他们的期望。’我当时心里一紧，觉得自己也有同样的感受。",
+                "location": "学校操场",
+                "happen_time": "1994年4月",
+                "participants": "朋友",
+                "impact": "这次对话使‘我总是达不到父母的期望’的中间信念变得更加坚定，并产生了‘世界对我是不公平的，我很难脱颖而出’的态度"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我参加了一次数学竞赛，虽然取得了不错的成绩，但没有拿到第一名。父亲对我说‘这次不错，下次争取第一。’",
+                "location": "家中书房",
+                "happen_time": "1995年11月",
+                "participants": "父亲",
+                "impact": "这次事件强化了‘我有能力面对挑战’的核心信念，同时也加深了‘我应该积极面对学习中的挑战并寻找解决方案’的中间信念"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次在家中，我看到母亲为了准备晚饭忙碌不已。她疲惫地对父亲说‘孩子的事情太多了，我真的感觉有点累。’",
+                "location": "家中厨房",
+                "happen_time": "1996年8月",
+                "participants": "母亲、父亲",
+                "impact": "这次观察使我意识到家庭的支持是多么重要，强化了‘我的家庭是我的支柱’的核心信念"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "小学六年级，班主任在课堂上表扬了我，说我是一个很有潜力的学生。那一刻，我感到一种从未有过的自豪感。",
+                "location": "学校教室",
+                "happen_time": "1997年3月",
+                "participants": "班主任",
+                "impact": "这次事件增强了‘我有能力面对挑战’的核心信念，并使‘如果我成功应对学习中的挑战，我会变得更强大’的中间信念更加坚定"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在一次期中考试后，我的成绩有所下降。父亲语重心长地对我说‘毅斌，不要灰心，继续努力，你一定能做到。’",
+                "location": "家中客厅",
+                "happen_time": "1996年5月",
+                "participants": "父亲",
+                "impact": "这次对话强化了‘我的家庭是我的支柱’的核心信念，并使‘我的家庭是我最大的支持’的中间信念更加坚定"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家中见到父母因为经济问题争吵。父亲说‘我们得省着点花，不能总这么大手大脚。’母亲则回敬‘你总是这么说，可我们该怎么办呢？’",
+                "location": "家中客厅",
+                "happen_time": "1994年12月",
+                "participants": "父亲、母亲",
+                "impact": "这次争吵让我意识到家庭并不总是和谐的，强化了‘我必须成功才能证明自己’的核心信念，因为我希望通过成功缓解家庭的压力"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "有一次在学校，老师让我在全班同学面前展示我的手工作品。虽然紧张，但我成功完成了展示，得到了老师和同学们的肯定。",
+                "location": "学校教室",
+                "happen_time": "1995年10月",
+                "participants": "老师、同学",
+                "impact": "这次成功的展示增强了‘我有能力面对挑战’的核心信念，并使‘我应该积极面对学习中的挑战并寻找解决方案’的中间信念更加坚定"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个同学因为成绩不好被老师批评。他低着头，眼里满是泪水。我感到一种同情，同时也感到一种对成绩的恐惧。",
+                "location": "学校教室",
+                "happen_time": "1996年1月",
+                "participants": "老师、同学",
+                "impact": "这次观察强化了‘如果我不能在学业上取得好成绩，就说明我没有价值’的中间信念，并产生了‘只有取得好成绩，才能得到他人的尊重和认可’的态度"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "有一次，我生病了，母亲整夜守在我床边，给我喂药、量体温。我感觉到母亲的关爱和家庭的温暖。",
+                "location": "家中卧室",
+                "happen_time": "1993年2月",
+                "participants": "母亲",
+                "impact": "这次事件强化了‘我的家庭是我的支柱’的核心信念，并使‘家庭是我生活的避风港’的中间信念更加坚定"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "有一次，我在篮球比赛中发挥出色，帮助班级赢得了比赛。父亲在观众席上为我欢呼，我感到无比自豪。",
+                "location": "学校篮球场",
+                "happen_time": "1997年6月",
+                "participants": "父亲、同学",
+                "impact": "这次事件增强了‘我有能力面对挑战’的核心信念，并使‘如果我成功应对学习中的挑战，我会变得更强大’的中间信念更加坚定"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在放学后看到一个同学被父母接走时，父母对他说‘你真棒，今天表现得很好！’我感到一种羡慕，同时也希望自己能得到同样的认可。",
+                "location": "学校门口",
+                "happen_time": "1995年3月",
+                "participants": "同学、同学的父母",
+                "impact": "这次观察强化了‘如果我取得好成绩，我会得到父母和老师的认可’的中间信念，并使‘父母总是在评判我的表现’的态度更加坚定"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，我在一次科学实验中犯了错误，导致实验失败。老师虽然没有批评我，但我感到非常失落和自责。",
+                "location": "学校实验室",
+                "happen_time": "1994年12月",
+                "participants": "老师",
+                "impact": "这次事件强化了‘我不够优秀’的核心信念，并使‘我的努力经常得不到应有的回报’的中间信念更加坚定"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家中看到父亲因为工作压力大而发脾气，母亲默默承受着。我感到一种无助和心疼，同时也意识到父亲的压力。",
+                "location": "家中客厅",
+                "happen_time": "1996年6月",
+                "participants": "父亲、母亲",
+                "impact": "这次观察使我更加坚定了‘我必须成功才能证明自己’的核心信念，因为我希望通过自己的努力减轻家庭的负担"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "姜毅斌",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在初中时，我第一次参加班级运动会的篮球比赛。尽管我尽了最大的努力，但我们最终还是输了比赛。我感到非常沮丧，觉得自己没有尽到责任。",
+                "location": "学校操场",
+                "happen_time": "1998年10月",
+                "participants": "班主任、同学们",
+                "impact": "这次失败让我感受到来自同学和老师的失望，强化了我必须成功才能证明自己的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "初二的一次期末考试，我的成绩在班级里名列前茅。这次成绩让我得到了班主任的表扬和同学们的认可，我感到非常自豪。",
+                "location": "教室",
+                "happen_time": "1999年1月",
+                "participants": "班主任、同学们",
+                "impact": "这次成功强化了我必须在学业上取得成功的中间信念，认为只有成绩优秀才能得到认可和尊重。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次我在家里听见父母在讨论家里的经济问题。父亲说需要节省开支，而母亲则担心家庭的未来。听到这些让我感到家庭的压力。",
+                "location": "家里客厅",
+                "happen_time": "1999年5月",
+                "participants": "父母",
+                "impact": "这次对话让我更加意识到父母的辛苦，强化了我家庭是我支柱的核心信念，同时也增加了我对成功的迫切渴望。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "初三时，我参加了市级数学竞赛并获得一等奖。班主任和老师们纷纷向我表示祝贺，我感到非常骄傲。",
+                "location": "学校礼堂",
+                "happen_time": "2000年3月",
+                "participants": "班主任、其他老师、同学们",
+                "impact": "这次成功让我更加坚定了我有能力面对挑战的核心信念，增强了我的自信心。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "在一次班会上，班主任表扬了一位成绩差但在课外活动中表现突出的同学。这让我意识到成绩不是唯一的衡量标准。",
+                "location": "教室",
+                "happen_time": "2000年5月",
+                "participants": "班主任、同学们",
+                "impact": "这次观察让我开始反思自己的信念，意识到学业成绩虽然重要，但其他方面的能力也需要重视。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高中时，我选择了文科而不是理科，这个选择当时让我有些困惑和不安，但父母表示支持。",
+                "location": "家里",
+                "happen_time": "2001年8月",
+                "participants": "父母",
+                "impact": "父母的支持让我感到家庭是我最大的支持，进一步强化了家庭对我的重要性。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一位同学因为成绩不佳被老师批评，他显得非常沮丧和无助。这让我感到同情，但也增加了我对自己学业的压力。",
+                "location": "教室",
+                "happen_time": "2002年3月",
+                "participants": "一位同学、老师",
+                "impact": "这次观察让我更加坚定了自己的中间信念，认为必须不断提升学业成绩才能避免失败。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "高二时，我尝试参加学校的学生会竞选，但没有成功。当时我非常失望，觉得自己不够优秀。",
+                "location": "学校礼堂",
+                "happen_time": "2002年10月",
+                "participants": "同学们、老师们",
+                "impact": "这次失败让我质疑自己的能力，加深了我我不够优秀的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "高三时，我在一堂重要的模拟考试中发挥失常，成绩大幅下降。我当时非常沮丧，觉得自己达不到家长和老师的期望。",
+                "location": "教室",
+                "happen_time": "2003年1月",
+                "participants": "班主任、其他老师、同学们",
+                "impact": "这次事件让我感到自己总是达不到期望，强化了我不够优秀的核心信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "在一次家长会上，我看到父母和老师在讨论我未来的大学选择，他们都希望我能上好大学，但经济条件有限。",
+                "location": "学校会议室",
+                "happen_time": "2003年3月",
+                "participants": "父母、老师",
+                "impact": "这次观察让我感受到家庭的经济压力，进一步强化了我必须成功才能证明自己的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "高考成绩出来后，我只能选择本地的一所普通高校。虽然有些失望，但家庭的支持让我感到安慰。",
+                "location": "家里",
+                "happen_time": "2003年7月",
+                "participants": "父母",
+                "impact": "这次事件让我进一步理解家庭的支持对我的重要性，强化了家庭是我支柱的核心信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "大学入学后，我发现自己在新的环境中表现得很好，适应了各种学业上的变化。这让我感到自信和成就感。",
+                "location": "大学校园",
+                "happen_time": "2003年9月",
+                "participants": "新同学、新老师",
+                "impact": "这次成功让我更加相信自己有能力应对挑战，强化了我有能力面对挑战的核心信念。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "姜毅斌",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "第一次面试失败后，我感到非常沮丧。回到家，我躺在床上，反复想着面试官的每一句话，觉得自己不够优秀。父母看出了我的失落，父亲拍了拍我的肩膀，说：'失败是成功之母，不要放弃。'这让我稍微感到了一些安慰。",
+                "location": "南京家中",
+                "happen_time": "2004年7月",
+                "participants": "父母",
+                "impact": "这次失败强化了我的核心信念'我不够优秀'，但父亲的鼓励让我感觉家庭是我的支柱。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "大学毕业后的第一份工作，我在公司里努力表现自己，但主管对我的工作总是不满意。有一次，他当着同事的面严厉批评了我。我感到非常羞愧和无助，觉得自己达不到别人的期望。",
+                "location": "南京公司办公室",
+                "happen_time": "2004年10月",
+                "participants": "主管，同事",
+                "impact": "这次经历加深了我的核心信念'我不够优秀'，并且形成了中间信念'我总是达不到别人的期望'。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "在公司的一次项目竞标中，我带领团队成功赢得了合同。我感到非常自豪，得到了上司和同事的认可，这让我坚定了自己有能力面对挑战的信念。",
+                "location": "南京公司会议室",
+                "happen_time": "2006年5月",
+                "participants": "上司，同事，客户",
+                "impact": "这次成功增强了我的核心信念'我有能力面对挑战'，并让我对自己的能力更加自信。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "与大学导师的交流中，他鼓励我去申请公司内部的管理培训项目。他说：'你有潜力成为优秀的管理者，不要浪费自己的天赋。'这番话给了我很大的信心。",
+                "location": "南京大学校园",
+                "happen_time": "2007年9月",
+                "participants": "大学导师",
+                "impact": "导师的鼓励强化了我的核心信念'我有能力面对挑战'，并推动我去追求更高的职业目标。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在公司的一次升迁机会中，我落选了，感到非常失望和挫败。我回家后与妻子分享了这件事，她安慰我说：'机会总会有的，不要灰心。'她的支持让我感到家庭是我的避风港。",
+                "location": "南京家中",
+                "happen_time": "2010年3月",
+                "participants": "妻子",
+                "impact": "这次经历强化了我的核心信念'我的家庭是我的支柱'，也让我更重视家庭的支持。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在一次团队建设活动中，我发现自己能够很好地协调团队成员的工作，解决冲突。这让我对自己的管理能力有了新的认识。",
+                "location": "南京公司外出活动场地",
+                "happen_time": "2012年8月",
+                "participants": "团队成员",
+                "impact": "这次活动增强了我的核心信念'我有能力面对挑战'，并让我更加自信地面对工作中的管理任务。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在公司内部培训中，我被评为最佳学员，得到了领导的表扬和同事的认可。这让我感到自己的努力得到了回报。",
+                "location": "南京公司培训中心",
+                "happen_time": "2014年6月",
+                "participants": "领导，同事",
+                "impact": "这次经历强化了我的核心信念'我有能力面对挑战'，并让我更加相信自己的价值。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我的儿子问我：'爸爸，你为什么总是那么忙？'我意识到自己在工作和家庭之间的平衡出现了问题，感到内疚。",
+                "location": "南京家中",
+                "happen_time": "2016年12月",
+                "participants": "儿子",
+                "impact": "这次对话让我重新审视自己的生活方式，强化了我的核心信念'我的家庭是我的支柱'，并让我决定花更多时间陪伴家人。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "在公司的一次年会中，我看到一位资深同事因业绩不佳被降职。他的失落和无助让我意识到职场的残酷，这强化了我对世界的认知：'世界是一个竞争激烈的地方，只有成功者才能得到尊重。'",
+                "location": "南京公司年会现场",
+                "happen_time": "2017年2月",
+                "participants": "资深同事，公司领导",
+                "impact": "这次观察加深了我的中间信念'世界是一个竞争激烈的地方，只有成功者才能得到尊重'，并让我更加努力工作以避免失败。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在一次公司战略会议上，我提出了一个创新的方案，得到了高层管理的认可和采纳。这个成功让我感到非常自信，并坚定了我有能力面对挑战的信念。",
+                "location": "南京公司会议室",
+                "happen_time": "2018年11月",
+                "participants": "高层管理，同事",
+                "impact": "这次成功进一步增强了我的核心信念'我有能力面对挑战'，并让我更加积极地面对未来的工作挑战。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在一次篮球比赛中，我带领球队取得胜利，感受到团队合作的力量。这让我意识到不仅在工作中，在生活中也需要依靠团队的力量。",
+                "location": "南京篮球场",
+                "happen_time": "2019年5月",
+                "participants": "篮球队队友",
+                "impact": "这次经历强化了我的中间信念'我有能力应对工作的挑战'，并让我更加重视团队合作的重要性。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会上，我看到表弟因为创业失败而情绪低落，家人们不断鼓励他。这让我感受到家庭支持的重要性，并决定更加珍惜家庭。",
+                "location": "南京家庭聚会场所",
+                "happen_time": "2020年1月",
+                "participants": "表弟，家人",
+                "impact": "这次观察强化了我的核心信念'我的家庭是我的支柱'，并让我更加重视家人的支持。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在公司的一次升迁评审中，我被选中晋升为部门经理。这让我感到非常自豪和满足，觉得自己的努力终于得到了回报。",
+                "location": "南京公司会议室",
+                "happen_time": "2020年6月",
+                "participants": "公司领导，同事",
+                "impact": "这次晋升进一步增强了我的核心信念'我有能力面对挑战'，并让我更加自信地追求更高的职业目标。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在一次家庭旅行中，我和家人一起度过了美好的时光。这让我意识到家庭的重要性，决定以后要多花时间陪伴家人。",
+                "location": "南京外出旅游景点",
+                "happen_time": "2020年10月",
+                "participants": "妻子，儿子",
+                "impact": "这次旅行强化了我的核心信念'我的家庭是我的支柱'，并让我更加重视家庭的幸福和和谐。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "在一次公司会议上，我看到一位新晋升的同事因为紧张而表现失常，得到了领导的批评。这让我意识到，升迁不仅需要能力，更需要心理的强大和自信。",
+                "location": "南京公司会议室",
+                "happen_time": "2020年12月",
+                "participants": "新晋升同事，公司领导",
+                "impact": "这次观察让我更加重视心理健康和自信的重要性，并决定在未来的工作中更加注重自己的心理调适。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "姜毅斌",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年1月，姜毅斌得知自己的升迁机会被另一位同事李强获得，他感到非常失望和沮丧。姜毅斌当时在办公室，看到李强被上司祝贺时，他心里感到一阵刺痛。他回到座位上，强忍住情绪，决定加倍努力工作以证明自己的价值。",
+                "location": "公司办公室",
+                "happen_time": "2024年1月",
+                "participants": "姜毅斌、李强、上司",
+                "impact": "这次事件强化了姜毅斌对自己不够优秀的核心信念（core_belief_2），使他更加努力工作，但也导致了情绪波动和失眠问题。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年2月，姜毅斌在与妻子聊天时，向她吐露了自己工作上的挫折和压力。妻子安慰他说，‘不要太在意这些，家里永远是你的避风港。’姜毅斌感到一丝安慰，但内心仍然无法摆脱失败的阴影。",
+                "location": "家中客厅",
+                "happen_time": "2024年2月",
+                "participants": "姜毅斌、妻子",
+                "impact": "这次事件重申了姜毅斌对家庭作为支柱的信念（core_belief_4），但无法完全消除他对自己能力的怀疑。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年3月，姜毅斌在公司会议中，观察到另一位同事小王提出了一个创新的项目方案，并得到上司和同事们的高度赞扬。姜毅斌心里默默感叹，‘为什么我总是达不到这样的水平？’",
+                "happen_time": "2024年3月",
+                "participants": "姜毅斌、小王、公司同事、上司",
+                "impact": "这次观察使姜毅斌更加坚定了他‘我不够优秀’的核心信念（core_belief_2），并加剧了他的自我怀疑和焦虑。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年4月，姜毅斌在孩子的家长会中被老师表扬，说他的孩子在学校表现优异。姜毅斌感到一丝满足和骄傲，但同时也感到自己在事业上的不如意。",
+                "location": "孩子的学校",
+                "happen_time": "2024年4月",
+                "participants": "姜毅斌、孩子的老师、其他家长",
+                "impact": "这次事件让姜毅斌感受到家庭带来的正面支持，但也无法完全弥补他在工作上的失落感。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年5月，姜毅斌在公司篮球比赛中表现出色，带领团队获得了胜利。同事们纷纷表示赞赏，他一时感到自信和开心。",
+                "location": "公司篮球场",
+                "happen_time": "2024年5月",
+                "participants": "姜毅斌、公司同事",
+                "impact": "这次事件暂时增强了姜毅斌对自己能力的信心（core_belief_3），但这种自信感并未持续太久。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年6月，姜毅斌看到一位同事因为工作失误被上司严厉批评。同事脸上露出无助和沮丧的表情，这让姜毅斌感到共鸣，也担心自己会面临同样的情况。",
+                "happen_time": "2024年6月",
+                "participants": "姜毅斌、被批评的同事、上司",
+                "impact": "这次观察强化了姜毅斌对职场竞争和失败后果的恐惧（intermediate_belief_1），加剧了他的工作压力。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年7月，姜毅斌在加班时，突然感到极度疲惫和无力，他意识到自己已经很久没有好好休息了。他回到家中，妻子看到他憔悴的样子，心疼地劝他注意身体。",
+                "location": "公司办公室、家中",
+                "happen_time": "2024年7月",
+                "participants": "姜毅斌、妻子",
+                "impact": "这次事件让姜毅斌认识到自己身体和心理上的双重压力，但他仍然感到自己无法放松警惕（intermediate_belief_2）。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年8月，姜毅斌在朋友圈中看到大学同学小张升职为高层管理人员的消息，大家纷纷祝贺。姜毅斌感到既羡慕又失落，觉得自己一直在原地踏步。",
+                "happen_time": "2024年8月",
+                "participants": "姜毅斌、大学同学小张、朋友圈好友",
+                "impact": "这次观察让姜毅斌更加坚定了‘我不够优秀’的核心信念（core_belief_2），并加剧了他的自我怀疑和焦虑。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年12月，公司年底总结会上，姜毅斌的项目未能达到预期目标，上司在会议上公开批评了他。姜毅斌感到无比羞愧和失落，回到家中也无法振作。",
+                "location": "公司会议室",
+                "happen_time": "2023年12月",
+                "participants": "姜毅斌、上司、公司同事",
+                "impact": "这次事件进一步强化了姜毅斌对自己能力的怀疑和对他人期望的恐惧（intermediate_belief_3），加剧了他的情绪波动。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年11月，姜毅斌在一个家庭聚会上，听到亲戚讨论其他人的成功和升职，他感到自己在亲戚面前无地自容。",
+                "happen_time": "2023年11月",
+                "participants": "姜毅斌、亲戚",
+                "impact": "这次事件使姜毅斌更加坚定了‘他人总是在评判我的表现’的中间信念（intermediate_belief_2），增加了他的社会焦虑。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年10月，姜毅斌主动向上司提出新的项目建议，但被上司否决。他感到自己的努力和创意不被认可，心情低落。",
+                "location": "公司办公室",
+                "happen_time": "2023年10月",
+                "participants": "姜毅斌、上司",
+                "impact": "这次事件让姜毅斌感到自己的努力经常得不到应有的回报（intermediate_belief_4），加剧了他的失望情绪。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年9月，姜毅斌看到同事小李因为工作表现优异而被公司奖励，他感到既羡慕又失落。",
+                "happen_time": "2023年9月",
+                "participants": "姜毅斌、小李、公司同事",
+                "impact": "这次观察使姜毅斌重新审视自己的工作表现，进一步强化了他的中间信念——‘我的努力经常得不到应有的回报’（intermediate_belief_4）。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年8月，姜毅斌和妻子去孩子的学校开家长会，听到老师对孩子的表扬，他感到骄傲和满足，但也感到自己在事业上的不如意。",
+                "location": "孩子的学校",
+                "happen_time": "2023年8月",
+                "participants": "姜毅斌、妻子、孩子的老师",
+                "impact": "这次事件让姜毅斌感受到家庭带来的正面支持，但无法完全弥补他在工作上的失落感。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年7月，姜毅斌参加了一个培训课程，希望能提升自己的职场竞争力，但感觉自己学到的并不多，内心感到沮丧。",
+                "location": "培训机构",
+                "happen_time": "2023年7月",
+                "participants": "姜毅斌、培训讲师、同学",
+                "impact": "这次事件让姜毅斌感到自己的努力没有得到应有的回报（intermediate_belief_4），加剧了他的失望情绪。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年6月，姜毅斌在公司会议上看到同事小王提出了一个创新方案并获得了上司的表扬，他感到自己在创新方面的不足。",
+                "happen_time": "2023年6月",
+                "participants": "姜毅斌、小王、公司同事、上司",
+                "impact": "这次观察使姜毅斌更加坚定了‘我不够优秀’的核心信念（core_belief_2），进一步加剧了他的自我怀疑。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年5月，姜毅斌在公司篮球比赛中表现出色，但在赛后发现同事们并没有对他的表现给予太多关注，他感到一丝失落。",
+                "location": "公司篮球场",
+                "happen_time": "2023年5月",
+                "participants": "姜毅斌、公司同事",
+                "impact": "这次事件让姜毅斌感到自己的努力没有得到应有的认可（intermediate_belief_4），加剧了他的失望情绪。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年4月，姜毅斌在朋友圈中看到大学同学小张升职为高层管理人员的消息，大家纷纷祝贺。他感到既羡慕又失落，觉得自己的努力没有得到应有的回报。",
+                "happen_time": "2023年4月",
+                "participants": "姜毅斌、大学同学小张、朋友圈好友",
+                "impact": "这次观察使姜毅斌重新审视自己的工作表现，进一步强化了他的中间信念——‘我的努力经常得不到应有的回报’（intermediate_belief_4）。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年3月，姜毅斌在公司项目中遇到挑战，他决定积极面对，并最终解决了问题。他感到一阵自豪，但这种自豪感并未持续太久。",
+                "location": "公司办公室",
+                "happen_time": "2023年3月",
+                "participants": "姜毅斌、公司同事",
+                "impact": "这次事件暂时增强了姜毅斌对自己能力的信心（core_belief_3），但这种自信感并未持续。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年2月，姜毅斌看到一位同事因为工作失误被上司严厉批评，感到自己也可能面临同样的情况。",
+                "happen_time": "2023年2月",
+                "participants": "姜毅斌、被批评的同事、上司",
+                "impact": "这次观察强化了姜毅斌对职场竞争和失败后果的恐惧（intermediate_belief_1），加剧了他的工作压力。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年1月，姜毅斌在公司年会中看到其他同事获得表彰和奖励，感到自己的努力没有得到应有的认可，内心感到失落。",
+                "location": "公司年会现场",
+                "happen_time": "2023年1月",
+                "participants": "姜毅斌、公司同事、上司",
+                "impact": "这次事件让姜毅斌感到自己的努力没有得到应有的回报（intermediate_belief_4），加剧了他的失望情绪。"
+            }
+        ]
+    }
+}

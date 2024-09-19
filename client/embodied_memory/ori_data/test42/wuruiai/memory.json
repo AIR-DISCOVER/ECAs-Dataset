@@ -1,0 +1,2552 @@
+{
+    "node_149": {
+        "page_content": "2024年8月24日下午，我在大学图书馆的自习区学习。图书馆环境安静，书架上摆满了各类书籍。同学们三三两两地结伴而行，他们低声交谈，分享学习心得，而我却孤零零地坐在角落里。我看着他们快乐地交流，内心感到一阵阵的孤独和无助。这让我想起中学时期那种孤立无援的感觉，愈发觉得自己无法融入大学的生活。我的心情沉重，对未来充满了悲观情绪。",
+        "metadata": {
+            "node_id": "node_149",
+            "node_type": "long_term",
+            "event_id": "20",
+            "extended_event_id": "20_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们都在开心地交流，而我没人关心。我永远无法融入这些群体。",
+            "emotion": "孤独、无助、悲观",
+            "behavior": "回避与人接触，继续独自坐在角落里，借口去洗手间但其实是逃避。",
+            "physiological_response": "心情沉重，身体疲倦，胃部不适。",
+            "created_at": "2024-08-24 17:45:00"
+        }
+    },
+    "node_148": {
+        "page_content": "2024年8月22日上午，在大学教室里，教授宣布要进行小组讨论和展示。我感到一阵紧张，心跳加快。教室很宽敞，阳光透过窗户洒进来，但此时我只觉得压力倍增。当轮到我发言时，我试图表达自己的观点，但声音发抖，话语变得结结巴巴。同学们的目光从我身上移开，开始低声交谈或看向别的地方。我感到自己像被忽视了一样，内心涌起强烈的自卑感和无价值感。",
+        "metadata": {
+            "node_id": "node_148",
+            "node_type": "long_term",
+            "event_id": "20",
+            "extended_event_id": "20_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我的表现太差了，同学们一定觉得我很糟糕。",
+            "emotion": "强烈的自卑感和无价值感",
+            "behavior": "不再发言，避免与同学的眼神接触，尽量减少参与小组讨论。",
+            "physiological_response": "心跳加快，声音发抖，手心出汗。",
+            "created_at": "2024-08-22 10:15:00"
+        }
+    },
+    "node_147": {
+        "page_content": "2024年8月20日下午，在大学校园的活动场地，我站在远处看着其他同学热情地参与各种社交互动。活动场地布置得很热闹，有五颜六色的气球和各式各样的摊位。大家都笑容满面，积极地和身边的人交流。我的心里充满了孤独和无助，我真的很想加入他们，但害怕与人交流的恐惧让我只能站在一边静静地观察。我感到自己像个局外人，内心的孤独感和被排斥的感觉越来越强烈。",
+        "metadata": {
+            "node_id": "node_147",
+            "node_type": "long_term",
+            "event_id": "20",
+            "extended_event_id": "20_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我永远不可能融入这些人，他们不会真正关心我的感受。",
+            "emotion": "强烈的孤独感和无助感",
+            "behavior": "继续站在一边观察，不敢主动参与社交活动",
+            "physiological_response": "心跳加快，胃部紧张，感到疲惫",
+            "created_at": "2024-08-20 14:30:00"
+        }
+    },
+    "node_146": {
+        "page_content": "2024年7月18日上午，在绘画课上，教授开始点评每个人的作品。我坐在教室的角落里，手心里全是汗。当教授走到我的作品前时，他皱了皱眉，说我的作品缺乏创新。我感觉脸上火辣辣的，心里像被重重击了一下。其他同学的目光让我感到无地自容，我低着头，不敢看任何人。教授的话在我耳边不断回响，让我感到更加沮丧和失望。",
+        "metadata": {
+            "node_id": "node_146",
+            "node_type": "long_term",
+            "event_id": "19",
+            "extended_event_id": "19_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我的作品不够好，我不应该暴露我的不足。",
+            "emotion": "极度沮丧和羞愧",
+            "behavior": "避免与同学和教授眼神接触，低着头",
+            "physiological_response": "脸红，心跳加快，全身发热",
+            "created_at": "2024-07-18 10:00:00"
+        }
+    },
+    "node_145": {
+        "page_content": "2024年7月15日晚，回到宿舍后，我一个人呆在床上，反思着当天的展览。我打开电脑，登录社交媒体，看到很多同学在分享他们的作品和获得的赞誉。我无意中搜索了一下自己的名字，但几乎没有任何关注。这让我感到前所未有的孤独和无助，心中充满了失落感。我关掉电脑，躺在床上，眼泪不自觉地流了下来。",
+        "metadata": {
+            "node_id": "node_145",
+            "node_type": "long_term",
+            "event_id": "19",
+            "extended_event_id": "19_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "没有人关心我的作品，我不值得被关注。",
+            "emotion": "极度失落和孤独",
+            "behavior": "关掉电脑，躺在床上哭泣",
+            "physiological_response": "感到胸口压抑，泪流不止",
+            "created_at": "2024-07-15 20:00:00"
+        }
+    },
+    "node_144": {
+        "page_content": "2024年7月15日下午，我走进大学美术馆，心中带着一丝期待。展厅里光线明亮，墙上挂满了色彩斑斓的绘画作品。我找到了我的作品，它被安排在一个不起眼的角落。我环顾四周，看到很多同学的作品都很出色，内心不禁感到自己的作品显得平庸，焦虑和自我怀疑涌上心头。我在展厅里徘徊，感觉自己的存在变得无足轻重。",
+        "metadata": {
+            "node_id": "node_144",
+            "node_type": "long_term",
+            "event_id": "19",
+            "extended_event_id": "19_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我的作品不如其他人的好，我真的不够优秀。",
+            "emotion": "焦虑和自我怀疑，非常强烈",
+            "behavior": "在展厅里徘徊，避免与其他人交流，尽量减少自己的存在感。",
+            "physiological_response": "心跳加速，手心出汗，胃部不适。",
+            "created_at": "2024-07-15 14:00:00"
+        }
+    },
+    "node_143": {
+        "page_content": "2024年6月15日晚上，我回到宿舍，室友们正在聊天，讨论着今天的课程和周末的计划。她们的笑声充满了房间，而我只是默默地走向自己的床，心情沉重。我没有加入她们的对话，而是静静地躺在床上，望着天花板，思绪万千。她们的欢声笑语让我感到格格不入，内心更加压抑和孤独。",
+        "metadata": {
+            "node_id": "node_143",
+            "node_type": "long_term",
+            "event_id": "18",
+            "extended_event_id": "18_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "她们不会真正关心我的感受，我不值得被关心。",
+            "emotion": "孤独、压抑",
+            "behavior": "躺在床上，不主动与室友交流。",
+            "physiological_response": "感到疲倦，心情沉重，注意力难以集中。",
+            "created_at": "2024-06-15 19:00:00"
+        }
+    },
+    "node_142": {
+        "page_content": "2024年6月15日傍晚，争吵的高潮过后，男生开始低声安慰女生，女生逐渐平静下来。男生轻轻地拍着女生的肩膀，柔声说着什么，女生慢慢停止了哭泣，靠在男生肩上。这一幕让我心情复杂，我羡慕她们之间的情感支持，同时也感到自己缺乏类似的关心和安慰，内心更加孤独和失落。",
+        "metadata": {
+            "node_id": "node_142",
+            "node_type": "long_term",
+            "event_id": "18",
+            "extended_event_id": "18_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我不值得被任何人关心和安慰。",
+            "emotion": "孤独和失落",
+            "behavior": "回避社交，独自一人呆在房间里。",
+            "physiological_response": "心情沉重，胃部不适，食欲减退。",
+            "created_at": "2024-06-15 18:50:00"
+        }
+    },
+    "node_141": {
+        "page_content": "2024年6月15日傍晚，我在宿舍楼下独自散步，周围是草坪和长椅，路灯昏黄。突然，我听到一对情侣在争吵，男生的声音很激动。争吵的声音吸引了我的注意，我停下脚步，开始关注他们的对话。女生看起来很伤心，不停地抹眼泪，而男生则试图解释什么。这一幕让我想起自己在情感支持上的缺失，心里感到一阵酸涩，情绪变得更加低落。",
+        "metadata": {
+            "node_id": "node_141",
+            "node_type": "long_term",
+            "event_id": "18",
+            "extended_event_id": "18_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我不值得被关心，没有人会在乎我的感受。",
+            "emotion": "悲伤和孤独，情绪低落",
+            "behavior": "继续独自散步，避免与他人接触",
+            "physiological_response": "胸口发闷，感觉疲惫",
+            "created_at": "2024-06-15 18:45:00"
+        }
+    },
+    "node_140": {
+        "page_content": "2024年1月5日下午，我独自坐在图书馆的角落，翻阅着一本插画书。窗外的天色渐渐暗了下来，但我没有离开的打算。几个同学经过我的桌子，聊着他们的日常，但我却不愿意加入他们的谈话。我害怕自己的不足会被他们发现，更害怕他们的目光中流露出失望。我沉浸在书本中，试图逃避现实，但心中的孤独感却越来越强烈。",
+        "metadata": {
+            "node_id": "node_140",
+            "node_type": "long_term",
+            "event_id": "17",
+            "extended_event_id": "17_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "他们会注意到我的不足，然后失望地看着我。",
+            "emotion": "孤独和焦虑",
+            "behavior": "继续沉浸在书本中，避免与同学交流。",
+            "physiological_response": "心跳加快，感觉胸口有压迫感，手心出汗。",
+            "created_at": "2024-01-05 17:00:00"
+        }
+    },
+    "node_139": {
+        "page_content": "2023年11月10日下午，我带着满心的期待把自己的作品交给了艺术课教授。教室里安静极了，只有教授翻阅作品的声音。我紧张地站在一旁，心跳加速。当教授抬起头，略带失望地对我说：‘这幅作品还需要更多的打磨。’我的心瞬间跌到了谷底。我回到座位上，耳边是同学们窃窃私语的声音，心中的失落感愈发强烈。我努力了这么久，结果却如此，让我觉得一切努力都毫无意义。",
+        "metadata": {
+            "node_id": "node_139",
+            "node_type": "long_term",
+            "event_id": "17",
+            "extended_event_id": "17_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我真的不够优秀，我的努力根本没有价值。",
+            "emotion": "深深的失落和沮丧",
+            "behavior": "回避社交，避免与同学和教授接触，可能减少参与课堂活动的积极性。",
+            "physiological_response": "心跳加快，胃部不适，疲劳感加重。",
+            "created_at": "2023-11-10 14:45:00"
+        }
+    },
+    "node_138": {
+        "page_content": "2023年10月15日下午，我在校园里独自行走，心情本就有些低落。当我经过宣传栏时，看到上面展示着许多同学的获奖作品，每一幅画都那么出色。我的心突然沉了下来，羡慕和自卑混杂在一起。我站在那里，盯着这些作品，心里不停地想着：‘我真的不如他们吗？我真的有能力成为一名优秀的插画师吗？’一阵风吹过，带来了一丝凉意，但我心中的自我怀疑却愈发浓烈。",
+        "metadata": {
+            "node_id": "node_138",
+            "node_type": "long_term",
+            "event_id": "17",
+            "extended_event_id": "17_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我真的不如他们吗？我真的有能力成为一名优秀的插画师吗？",
+            "emotion": "自卑、焦虑",
+            "behavior": "停止在宣传栏前驻足，低头快步离开，回避与他人交流。",
+            "physiological_response": "心跳加快，感到一阵寒意，掌心出汗。",
+            "created_at": "2023-10-15 15:30:00"
+        }
+    },
+    "node_137": {
+        "page_content": "2024年3月15日晚上，情绪低落的我决定去散步缓解压力。夜幕降临，校园里路灯亮起，学生们三五成群地在路灯下交谈、笑闹。我独自走在校园的小径上，听着他们的笑声，心中愈发感到孤独和无助。看着他们快乐的模样，我意识到自己是多么的格格不入，内心的孤独感和失落感愈发强烈。",
+        "metadata": {
+            "node_id": "node_137",
+            "node_type": "long_term",
+            "event_id": "16",
+            "extended_event_id": "16_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们都比我快乐和自信，我不值得被他们关注，也没有人会真正关心我。",
+            "emotion": "孤独、无助、失落",
+            "behavior": "加快步伐，尽快结束散步回到宿舍，避免与他人接触。",
+            "physiological_response": "心跳加快，胸口发紧，呼吸变浅。",
+            "created_at": "2024-03-15 19:30:00"
+        }
+    },
+    "node_136": {
+        "page_content": "2024年3月15日下午自习结束后，我回到宿舍。室友们围坐在桌子旁，正开心地聊着天，笑声不断。我鼓起勇气尝试加入她们的对话，但发现自己插不上话，感到被排斥。她们的话题和笑声仿佛在另一个世界，而我只能默默地站在边缘，内心感到无比孤独和失落。",
+        "metadata": {
+            "node_id": "node_136",
+            "node_type": "long_term",
+            "event_id": "16",
+            "extended_event_id": "16_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我不值得被关注，她们根本不在乎我。",
+            "emotion": "孤独和失落",
+            "behavior": "默默地站在一旁，不再尝试加入对话。",
+            "physiological_response": "内心感到一阵酸痛，胃部有些不适。",
+            "created_at": "2024-03-15 18:00:00"
+        }
+    },
+    "node_135": {
+        "page_content": "2024年3月15日下午，我在大学图书馆自习，试图逃避宿舍的喧哗。图书馆里很安静，只有翻书和轻声交谈的声音。我看到一位同学在书架前找书时遇到了困难，另一位同学主动上前帮助他们，两人愉快地交谈。这一幕让我心中泛起阵阵酸楚，我感到自己孤独无助，羡慕他们之间的自然互动。",
+        "metadata": {
+            "node_id": "node_135",
+            "node_type": "long_term",
+            "event_id": "16",
+            "extended_event_id": "16_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我不值得被关心，别人也不会主动接近我。",
+            "emotion": "孤独和酸楚",
+            "behavior": "低头继续看书，避免与人接触。",
+            "physiological_response": "胸口发紧，胃部不适。",
+            "created_at": "2024-03-15 14:30:00"
+        }
+    },
+    "node_134": {
+        "page_content": "2024年01月05日下午，我回到宿舍后，拿出一本小说试图通过阅读来分散注意力。然而，我的眼睛在文字上游移，却完全无法集中精神。我的室友们在旁边热烈讨论着周末的计划，她们的笑声和兴奋显得那么遥远。我感到自己像是被排除在外的陌生人，无法融入她们的世界。这种孤立感让我心情更加沉重，仿佛被压在心上的大石头越发沉重。",
+        "metadata": {
+            "node_id": "node_134",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我不值得被关心，她们不会真正关心我的感受。",
+            "emotion": "强烈的孤独感和无助感",
+            "behavior": "停止阅读，回避与室友的互动，独自待在一边。",
+            "physiological_response": "心情沉重，感到胸口压抑，无法集中注意力，感到疲倦。",
+            "created_at": "2024-01-05 13:30:00"
+        }
+    },
+    "node_133": {
+        "page_content": "2024年01月05日午餐后，我走出食堂，看到食堂外广场上的同学们正在热烈地交谈和互动。他们的笑声和欢呼声显得那么遥远，我感觉自己像是被隔离在一个无形的屏障外。我低着头，快步走回宿舍，心中充满了孤独和失落。每一步都像是踏在冰冷的石板上，寒意直透心底。",
+        "metadata": {
+            "node_id": "node_133",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们不会关心我，我不属于这里。",
+            "emotion": "孤独、失落、焦虑",
+            "behavior": "回避社交，快速离开",
+            "physiological_response": "心跳加快，胃部不适，四肢冰凉",
+            "created_at": "2024-01-05 12:45:00"
+        }
+    },
+    "node_132": {
+        "page_content": "2024年01月05日中午，我独自一人来到大学食堂。虽然食堂里热闹非凡，但我却感到一阵阵的孤独。找到一个角落的位置坐下后，我开始吃午餐。周围的同学们都成群结队地坐在一起，笑声和谈话声此起彼伏。我低着头，尽量不去看他们，心里却更加感到孤立无援。每一口饭都像是难以下咽的苦涩，这种感觉让我非常难过。",
+        "metadata": {
+            "node_id": "node_132",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们都不在乎我，我是多余的。",
+            "emotion": "孤独、悲伤",
+            "behavior": "低头吃饭，避免与他人眼神接触，尽快离开食堂。",
+            "physiological_response": "食欲不振，胃部不适，感到疲倦。",
+            "created_at": "2024-01-05 12:15:00"
+        }
+    },
+    "node_131": {
+        "page_content": "2023年11月11日中午，课堂结束后，我独自回到宿舍。房间里一片安静，只有我一个人。我坐在床边，脑海中不断回放着课堂上的情景。我对自己的沉默感到无比失望和自责，觉得自己辜负了所有的努力。我开始怀疑自己，认为自己不值得被关注，心中充满了无助和孤独感。",
+        "metadata": {
+            "node_id": "node_131",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我不值得被关注，没有人真正关心我。",
+            "emotion": "无助和孤独",
+            "behavior": "回避社交，不与室友和同学交流。",
+            "physiological_response": "感到疲倦，注意力难以集中，心情沉重。",
+            "created_at": "2023-11-11 12:00:00"
+        }
+    },
+    "node_130": {
+        "page_content": "2023年11月11日上午，在教室里，老师宣布开始课堂讨论。同学们纷纷举手发言，各抒己见。而我坐在座位上，心里却充满了恐惧和不安。我害怕自己的观点不够成熟，害怕出错，最终选择了沉默。我看着其他同学自信的表现，感到自己仿佛被孤立在外，心中充满了自卑和无力感。",
+        "metadata": {
+            "node_id": "node_130",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我的观点一定不够成熟，如果我发言，会出错，大家会觉得我很愚蠢。",
+            "emotion": "强烈的恐惧和自卑感",
+            "behavior": "选择沉默，不参与讨论。",
+            "physiological_response": "心跳加速，手心出汗，胃部紧张。",
+            "created_at": "2023-11-11 10:15:00"
+        }
+    },
+    "node_129": {
+        "page_content": "2023年11月10日晚上，我坐在宿舍的书桌前，面对堆积如山的参考书和笔记本，心中充满了焦虑。我不停地翻阅资料，试图完善自己的观点，但脑海中总是浮现出‘我不够优秀’的念头。我担心自己在课堂上无法表现出色，心跳加速，手心冒汗，连晚饭都没心情去吃。",
+        "metadata": {
+            "node_id": "node_129",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够优秀，无法达到别人的期望。",
+            "emotion": "强烈的焦虑和自卑感",
+            "behavior": "不停地翻阅资料，过度准备，回避去吃晚饭。",
+            "physiological_response": "心跳加速，手心冒汗，胃部不适。",
+            "created_at": "2023-11-10 19:30:00"
+        }
+    },
+    "node_128": {
+        "page_content": "晚上8点钟，我在自习室独自学习。自习室的灯光柔和，但我却感到内心沉重。白天的那些经历一直在我脑海中回放，让我情绪低落，注意力难以集中。我的笔在笔记本上划动，却写不出什么东西。这时，一位同学走过来，轻声问我是否愿意一起学习。我抬起头，有些惊讶地看着他，同时感到一丝温暖。他的笑容真诚，让我有些放松，但我仍然保持警惕，心里怀疑他的动机。我最终决定和他一起学习，尽管内心依旧充满了矛盾和怀疑。",
+        "metadata": {
+            "node_id": "node_128",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他真的关心我吗？也许他只是出于礼貌，并不是真的想和我一起学习。",
+            "emotion": "怀疑和焦虑",
+            "behavior": "尽管同意一起学习，但内心保持距离，不敢完全投入。",
+            "physiological_response": "心跳加速，手心出汗，胃部有轻微的不适感。",
+            "created_at": "2023-10-15 20:00:00"
+        }
+    },
+    "node_127": {
+        "page_content": "散步结束后，我在18:00左右回到宿舍，室友们围坐在书桌旁，热烈地讨论着当天的课题。他们的讨论声充满了活力和热情。我站在门口，犹豫了一下，决定加入他们的讨论。我走过去，试图插入话题，但我说话时感到语言生涩，心跳加速，手心冒汗。我感到非常不自在，室友们有些惊讶地看着我，气氛一下子变得有些尴尬。我低下头，不敢再说话，心里觉得自己非常笨拙和无能。",
+        "metadata": {
+            "node_id": "node_127",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我不应该加入讨论，我表现得太笨拙了，他们一定觉得我很无能。",
+            "emotion": "羞愧和自卑",
+            "behavior": "停止了交流，低下头，不敢再说话。",
+            "physiological_response": "心跳加速，手心冒汗，面部发热。",
+            "created_at": "2023-10-15 18:00:00"
+        }
+    },
+    "node_126": {
+        "page_content": "2023年10月15日下午5点半，我在图书馆学习了一整天，感到有些压抑，决定出去散散步。走在图书馆附近的小径上，秋天的阳光透过树叶洒在地上。我看到不远处一群同学在一起聊天和笑闹，他们看起来是那么快乐和自在。我突然感到一阵强烈的孤独和焦虑，心中涌起一种被排斥在外的感觉。我停下了脚步，站在一旁看着他们，内心感到非常无助和孤单。",
+        "metadata": {
+            "node_id": "node_126",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们都不关心我，我不值得被关注。",
+            "emotion": "孤独和焦虑",
+            "behavior": "停下脚步，站在一旁，不与他人接触。",
+            "physiological_response": "心跳加快，胸闷，呼吸变浅。",
+            "created_at": "2023-10-15 17:30:00"
+        }
+    },
+    "node_125": {
+        "page_content": "2024年8月10日下午，我站在图书馆的入口，鼓起勇气对一位班上的同学说：“你有时间一起学习吗？”同学看了看我，露出歉意的笑容，说：“不好意思，我已经有安排了。”听到这话，我的心一下子沉了下来，感到非常失望和孤独。当同学转身离开时，我站在原地，感到自己被整个世界抛弃了。我一直以为自己可以通过求助他人来缓解内心的孤独，但这次的拒绝让我更加怀疑自己是否值得被关注。",
+        "metadata": {
+            "node_id": "node_125",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "没有人愿意和我在一起，我不值得被关心。",
+            "emotion": "深深的孤独和绝望",
+            "behavior": "避免再尝试与他人接触，回避社交",
+            "physiological_response": "胸口发紧，头脑一片空白",
+            "created_at": "2024-08-10 16:00:00"
+        }
+    },
+    "node_124": {
+        "page_content": "2024年8月5日下午，我坐在宿舍的书桌旁，打开了书本，试图再次专心学习。不一会儿，室友们开始聊起天来，声音不断传进我的耳朵。我试图戴上耳机听音乐，希望能屏蔽噪音，但音乐反而让我更加分心。我试图再专注于书本内容，但脑海中的杂念越来越多，注意力难以集中。看着书页上的文字，我感到越来越无力和挫败。这种无法专注的感觉让我对自己的学习能力产生了深深的怀疑。",
+        "metadata": {
+            "node_id": "node_124",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我无法集中注意力，肯定是因为我不够优秀，无法达到大家的期望。",
+            "emotion": "焦虑、沮丧",
+            "behavior": "停止学习，开始走神和分心。",
+            "physiological_response": "心跳加快，感觉疲倦，无力感增强。",
+            "created_at": "2024-08-05 14:30:00"
+        }
+    },
+    "node_123": {
+        "page_content": "2024年8月1日早上，我独自来到图书馆，选择了一个靠窗的座位。外面的阳光透过窗户洒进来，给人一种温暖的感觉。然而，我的心情却很沉重。刚开始翻开书本，我试图专心学习，但脑海中不断浮现各种杂念，担心自己无法适应大学的高强度学习。几次深呼吸后依然无法平静下来，焦虑感越来越强烈。身边的其他同学似乎都在专心学习，这让我更加自卑和无助。",
+        "metadata": {
+            "node_id": "node_123",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我一定无法适应大学的高强度学习，最终会失败。",
+            "emotion": "焦虑和自卑",
+            "behavior": "无法专心学习，陷入自我怀疑，最终可能选择放弃学习。",
+            "physiological_response": "心跳加快，呼吸急促，手心出汗。",
+            "created_at": "2024-08-01 10:00:00"
+        }
+    },
+    "node_122": {
+        "page_content": "2024年7月14日晚上19:30，我回到宿舍，躺在床上，墙上贴着几幅我喜欢的插画。我回想起与那位陌生人的交谈，内心感到无比矛盾和复杂。一方面，他的鼓励让我感到温暖和被关注；另一方面，我对自己的社交能力和自我价值产生了更多的怀疑。我想起他说的每一句话，心中既感到希望，又充满了对未来的恐惧。这种情绪进一步加深了我对社交的恐惧和自我怀疑。",
+        "metadata": {
+            "node_id": "node_122",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他人不会真正关心我的感受，我不值得被关心。",
+            "emotion": "焦虑和不安",
+            "behavior": "回避与他人接触，独自待在宿舍",
+            "physiological_response": "疲倦，心跳加速，胃部不适",
+            "created_at": "2024-07-14 19:30:00"
+        }
+    },
+    "node_121": {
+        "page_content": "2024年7月14日傍晚18:45，我在湖畔长椅旁遇到了一位热情的陌生人。他微笑着向我打招呼，并问我是否需要帮助。我们聊了一会儿，他鼓励我勇敢面对新环境，告诉我一切都会好起来的。他的热情让我感到一丝温暖，短暂地减轻了我的孤独感。但与此同时，我也意识到自己对社交的恐惧，担心无法与他人建立真正的联系。",
+        "metadata": {
+            "node_id": "node_121",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他只是礼貌地和我聊了一会儿，实际上他并不真的关心我。",
+            "emotion": "失落和焦虑",
+            "behavior": "回避进一步的交流，保持沉默。",
+            "physiological_response": "胃部不适，心跳加速。",
+            "created_at": "2024-07-14 18:45:00"
+        }
+    },
+    "node_120": {
+        "page_content": "2024年7月14日傍晚，我在校园周边的树影斑驳的小径上漫无目的地走着，试图通过散步来缓解内心的焦虑和孤独感。这里的环境虽然美丽，但却无法驱散我心中的孤寂。我不断地问自己，能否适应新的大学生活？走在安静的湖畔，我感到前所未有的孤独，内心的自我怀疑也愈加强烈。",
+        "metadata": {
+            "node_id": "node_120",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我不值得被关注，别人一定会发现我不够优秀。",
+            "emotion": "强烈的孤独感和自我怀疑",
+            "behavior": "继续孤独地漫步，回避与他人接触。",
+            "physiological_response": "心跳加速，胃部不适，感到疲惫和紧张。",
+            "created_at": "2024-07-14 18:30:00"
+        }
+    },
+    "node_119": {
+        "page_content": "回到宿舍后，我感觉自己需要找人倾诉，于是试图和室友聊聊。室友正在埋头写作业，偶尔看一眼手机。我小心翼翼地开口，但她只是点了点头，继续忙自己的事情。我感到一阵失落和无助，默默地回到自己的床上，眼神空洞地望着天花板。",
+        "metadata": {
+            "node_id": "node_119",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "她不关心我，我不值得被关注。",
+            "emotion": "失落和无助",
+            "behavior": "默默地回到自己的床上，不再主动与室友交流。",
+            "physiological_response": "感到疲倦，胸口有压迫感。",
+            "created_at": "2024-06-15 16:00:00"
+        }
+    },
+    "node_118": {
+        "page_content": "绘画课程结束后，同学们纷纷聚在一起讨论他们的作品，教室里洋溢着欢声笑语。我站在一旁，感到孤立和不安，心跳加速，手心冒汗。我试图挤出一个微笑，但最终还是转身离开了教室，匆匆走向楼梯间，感觉自己完全被忽视了。",
+        "metadata": {
+            "node_id": "node_118",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们都不在意我，我不值得被关心。",
+            "emotion": "孤独和不安",
+            "behavior": "离开教室，回避社交",
+            "physiological_response": "心跳加速，手心冒汗",
+            "created_at": "2024-06-15 15:30:00"
+        }
+    },
+    "node_117": {
+        "page_content": "2024年6月15日下午，在大学教室里，老师布置了一项需要在课堂上完成的绘画作业。我看着空白的画布，手不停地颤抖，脑海一片空白。同学们的笔刷在画纸上沙沙作响，我却怎么也无法集中注意力。时间一分一秒过去，我最终没能完成作业。老师走过来，轻声询问我的进度，但我只感到一阵羞愧和挫败。",
+        "metadata": {
+            "node_id": "node_117",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够优秀，所有人都会觉得我失败。",
+            "emotion": "强烈的羞愧和挫败感",
+            "behavior": "低下头，不敢与老师和同学对视，之后可能会回避课堂上的互动。",
+            "physiological_response": "手部颤抖加剧，心跳加快，胃部不适。",
+            "created_at": "2024-06-15 14:30:00"
+        }
+    },
+    "node_116": {
+        "page_content": "2024年5月12日晚上8点，我回到宿舍后，试图与室友交流。室友正在整理书桌，我鼓起勇气开口，希望能得到一些安慰。然而，由于我的不自信和紧张，我的表达显得非常拘束，结结巴巴的。室友只是简短地回应了几句，似乎并未理解我的情感需求。我感到更加孤单无助，心里的抑郁情绪愈发沉重。",
+        "metadata": {
+            "node_id": "node_116",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们不关心我，我是不值得被关心的。",
+            "emotion": "更加孤独和无助，情绪更加低落",
+            "behavior": "逐渐减少与室友的交流，更多地回避社交活动",
+            "physiological_response": "心跳加快，胃部不适，头痛",
+            "created_at": "2024-05-12 20:00:00"
+        }
+    },
+    "node_115": {
+        "page_content": "2024年5月12日晚上7点，我因为电话中的失落感决定外出散步以缓解情绪。我穿过校园的草坪和小径，周围的景色让我感到一丝宁静。我试图通过观察花草树木和远处的建筑来分散注意力，暂时忘却心中的孤独和压力。虽然这短暂的散步让我心情稍微好转，但回到宿舍后，那种孤独感又重新袭来。",
+        "metadata": {
+            "node_id": "node_115",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "没有人真正关心我，我始终是孤独的。",
+            "emotion": "深深的孤独感和无助感",
+            "behavior": "回到宿舍后，继续回避社交，不主动与室友交谈，沉浸在自己的世界中。",
+            "physiological_response": "感到疲倦，胸闷，注意力难以集中。",
+            "created_at": "2024-05-12 19:00:00"
+        }
+    },
+    "node_114": {
+        "page_content": "2024年5月12日傍晚，我在宿舍坐在床边，拿起手机拨通了父母的电话。电话接通后，我试图告诉他们我在大学里感到的压力和困惑，但他们似乎很忙，只是简单地安慰了几句便匆匆挂断了电话。我握着手机，眼泪不自觉地流了下来，心里感到无比的无助和孤独。",
+        "metadata": {
+            "node_id": "node_114",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们根本不关心我，我真的不值得被关心。",
+            "emotion": "极度的孤独和无助",
+            "behavior": "哭泣，回避与他人接触，沉浸在悲伤中",
+            "physiological_response": "胸口沉重，眼泪不停地流，头痛",
+            "created_at": "2024-05-12 18:30:00"
+        }
+    },
+    "node_113": {
+        "page_content": "2024年4月15日下午3:10，我回到了宿舍，试图通过绘画来排解情绪。我拿起画笔，面对着空白的纸张，但脑海中一片混乱，根本无法集中注意力。每一笔都显得那么无力，最终我放下了画笔，深深地叹了口气。看着桌上那些未完成的画作，我感到无比的沮丧和无助。那一刻，我觉得自己真的不够优秀，也不值得被关心。抑郁的情绪再次袭来，我感到自己被困在一个无形的牢笼里，无法逃脱。",
+        "metadata": {
+            "node_id": "node_113",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我根本无法完成这些画作，因为我不够优秀，我永远无法达到别人的期望。",
+            "emotion": "无比的沮丧和无助",
+            "behavior": "停下了绘画，叹气，无所事事地坐着。",
+            "physiological_response": "心情沉重，头痛，疲倦感加重。",
+            "created_at": "2024-04-15 15:10:00"
+        }
+    },
+    "node_112": {
+        "page_content": "2024年4月15日下午2:45，我离开了图书馆，沿着校园的小径走回宿舍。路上，春天的微风吹拂着我的脸庞，但我却感到无比的沉重和孤独。刚才在图书馆听到的那些对话在脑海中挥之不去，我开始怀疑自己是否有能力结交朋友。每一步都显得那么沉重，仿佛整个世界都在与我隔绝。我感到自己更加不值得被关注，内心的孤独感和失落感不断加深。",
+        "metadata": {
+            "node_id": "node_112",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我不值得被关注，其他人不会真正关心我的感受。",
+            "emotion": "深深的孤独感和情绪低落",
+            "behavior": "回避社交，避免与他人接触",
+            "physiological_response": "感觉身体沉重，步伐缓慢，疲惫",
+            "created_at": "2024-04-15 14:45:00"
+        }
+    },
+    "node_111": {
+        "page_content": "2024年4月15日下午2:20，我坐在图书馆的自习区，试图专注于学习。就在我翻开课本的时候，突然听到旁边两个同学在讨论他们的社交生活和朋友。她们的声音不大，但在安静的环境中显得格外清晰。我听到她们聊起了最近的一次聚会和共同的朋友，内心感到一阵孤独和失落。原本的学习计划因此中断，我的心情变得沉重，思绪也无法集中。",
+        "metadata": {
+            "node_id": "node_111",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "她们有很多朋友，而我没有人关心我。",
+            "emotion": "孤独和失落",
+            "behavior": "停止学习，陷入沉思。",
+            "physiological_response": "心情沉重，感到疲倦。",
+            "created_at": "2024-04-15 14:20:00"
+        }
+    },
+    "node_110": {
+        "page_content": "2024年3月12日下午，我站在校园的公告栏前，看到我的名字不在获奖名单上。我感到一阵强烈的失望和沮丧，仿佛心里有什么东西碎了。我独自走回宿舍，脚步沉重，头低垂着，觉得所有的努力都白费了。‘我不值得被关注’的念头不断在脑海中回荡，我对自己的插画事业产生了更多的怀疑。回到宿舍后，我坐在床边，泪水模糊了眼睛，情绪更加低落，抑郁症状加重。",
+        "metadata": {
+            "node_id": "node_110",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我不值得被关注，所有的努力都白费了。",
+            "emotion": "强烈的失望和沮丧",
+            "behavior": "独自走回宿舍，坐在床边，流泪。",
+            "physiological_response": "头低垂，脚步沉重，泪水模糊了眼睛。",
+            "created_at": "2024-03-12 14:00:00"
+        }
+    },
+    "node_109": {
+        "page_content": "2024年3月5日傍晚，我和室友在宿舍里聊天。她坐在她的床边，兴奋地谈论着她最近参加的社交活动和取得的成功。我感到一阵不安，心里不断想着‘我不值得被关注’和‘他人不会真正关心我的感受’。我努力微笑回应她，但内心却越发孤独和自卑。她的成功让我更加意识到自己的社交能力不足，这种感觉让我更加不安和孤独。",
+        "metadata": {
+            "node_id": "node_109",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我不值得被关注。他人不会真正关心我的感受。",
+            "emotion": "孤独、自卑、不安",
+            "behavior": "努力微笑回应室友，但内心退缩，不愿意分享自己的感受",
+            "physiological_response": "心跳加速，手心出汗，胃部不适",
+            "created_at": "2024-03-05 18:45:00"
+        }
+    },
+    "node_108": {
+        "page_content": "在2024年2月28日下午，我独自一人在宿舍里准备即将到来的绘画比赛。书桌上堆满了画具和纸张，房间里静得只有我的呼吸声。我一边画，一边想着这次比赛对我的重要性。我感到巨大的压力和焦虑，心里不断重复着‘我不够优秀’和‘我必须不断努力才能达到别人的期望’。这些想法让我感到更加紧张，手中的画笔似乎变得越来越重。",
+        "metadata": {
+            "node_id": "node_108",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够优秀，我必须不断努力才能达到别人的期望。",
+            "emotion": "极度焦虑和紧张",
+            "behavior": "画画时手抖，注意力难以集中，效率低下。",
+            "physiological_response": "心跳加快，手掌出汗，肌肉紧张，呼吸急促。",
+            "created_at": "2024-02-28 16:30:00"
+        }
+    },
+    "node_107": {
+        "page_content": "2024年01月20日晚上，我回到自己的房间，再次审视我的插画，但依旧觉得不满意。我决定将作品拍照发到网上的绘画论坛，希望能得到一些反馈和建议。许多用户为我的作品点赞并给予积极的反馈，但也有一些批评性意见。我对这些批评意见感到特别敏感，认为这些都是对我能力的否定。这让我更加自卑和焦虑，对未来的创作失去了信心，情绪变得更加低落。",
+        "metadata": {
+            "node_id": "node_107",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "这些批评意见说明我真的不够优秀。",
+            "emotion": "自卑和焦虑，情绪低落",
+            "behavior": "减少创作的动力，可能会避免再次上传作品",
+            "physiological_response": "胸口发闷，注意力难以集中，疲倦",
+            "created_at": "2024-01-20 20:45:00"
+        }
+    },
+    "node_106": {
+        "page_content": "2024年01月20日下午，我在画桌前不断修改我的插画，但无论怎么调整都不满意。我感到心烦意乱，决定去厨房喝杯水放松一下。母亲在厨房里忙碌，看到我进来，随口问了一句‘画得怎么样了？’我含糊地回答‘还行吧’，但内心却感到更加失落和不安。我不希望让母亲失望，但这种关心反而让我感到压力和焦虑。",
+        "metadata": {
+            "node_id": "node_106",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我画得不好，母亲会失望的。",
+            "emotion": "失落和焦虑",
+            "behavior": "逃避进一步的交流和继续画画。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "2024-01-20 17:00:00"
+        }
+    },
+    "node_105": {
+        "page_content": "2024年01月20日下午，我坐在家中的画桌前，桌上摆满了画具和草稿。我深吸一口气，拿起画笔开始绘画。我希望这次能画出一幅让我满意的作品。然而，随着时间的推移，我开始感到自己的技艺不够精湛，总觉得作品达不到我心目中的理想状态。每一笔都显得那么笨拙和无力，这种感觉让我非常沮丧和焦虑。",
+        "metadata": {
+            "node_id": "node_105",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够优秀，永远达不到别人的期望。",
+            "emotion": "沮丧和焦虑",
+            "behavior": "停止绘画，感到无力，可能回避再尝试。",
+            "physiological_response": "心跳加快，呼吸急促，疲惫感增加。",
+            "created_at": "2024-01-20 15:30:00"
+        }
+    },
+    "node_104": {
+        "page_content": "2024年1月15日下午，我在房间里独自画画。母亲突然进来询问我的学业情况。我很兴奋地想与她分享我的绘画作品，但她显得心不在焉，匆匆看了一眼后就离开了去处理工作。我当时感到非常失望和被忽视，觉得自己的努力和兴趣得不到认可。",
+        "metadata": {
+            "node_id": "node_104",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "母亲根本不关心我的兴趣和努力，我不值得被关注。",
+            "emotion": "失望、被忽视、悲伤",
+            "behavior": "停止绘画，躺在床上发呆，避免与母亲进一步接触。",
+            "physiological_response": "心情沉重，感到无力和疲倦。",
+            "created_at": "2024-01-15 16:45:00"
+        }
+    },
+    "node_103": {
+        "page_content": "2024年1月10日晚上，我和父母一起吃晚饭。我试图和他们聊聊学校的事情，但他们因为工作上的事情一直在打电话，几乎没有与我交流。我几次试图加入他们的对话，但总是被打断或忽视。桌上的饭菜显得冷清，我内心感到越来越疏离和孤独。",
+        "metadata": {
+            "node_id": "node_103",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们根本不关心我的感受，我不值得被关注。",
+            "emotion": "孤独和失落",
+            "behavior": "停止尝试与父母交流，沉默不语。",
+            "physiological_response": "胃部不适，食欲减退，感到疲倦。",
+            "created_at": "2024-01-10 19:00:00"
+        }
+    },
+    "node_102": {
+        "page_content": "2024年1月5日下午，我回到家中，父母因为工作忙碌，几乎没有时间陪伴我。我一个人坐在客厅的沙发上，试图通过阅读和绘画来打发时间。但不管我怎么努力，总感觉内心的孤独感挥之不去。看着四周父母留下的工作文件，我感到自己在这个家中显得那么渺小和无助。",
+        "metadata": {
+            "node_id": "node_102",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够优秀，连父母都不愿意花时间陪我。",
+            "emotion": "悲伤和孤独",
+            "behavior": "停止阅读和绘画，陷入自责和消极情绪。",
+            "physiological_response": "感觉胸口压抑，头痛，疲倦感增加。",
+            "created_at": "2024-01-05 15:30:00"
+        }
+    },
+    "node_101": {
+        "page_content": "2023年12月20日下午，我站在校园的公告栏前，看着上面贴出的期中考试成绩单。看到自己的成绩时，我的心情瞬间跌入谷底，感到无比的失望和自责。我觉得自己在学术上也不够优秀，脑海中不断浮现父母和老师失望的表情。我站在公告栏前，周围的同学们议论纷纷，但我只觉得耳边嗡嗡作响，仿佛整个世界都在嘲笑我的失败。",
+        "metadata": {
+            "node_id": "node_101",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我果然不够优秀，大家都在嘲笑我的失败。",
+            "emotion": "极度失望和自责",
+            "behavior": "避免与同学交流，迅速离开公告栏，回避社交",
+            "physiological_response": "心跳加快，头晕目眩，耳鸣",
+            "created_at": "2023-12-20 14:00:00"
+        }
+    },
+    "node_100": {
+        "page_content": "2023年12月15日上午，我坐在校园的考场里，教室里一片寂静，只有笔尖在纸上划过的声音。我紧张得手心冒汗，脑子里一片空白，连最简单的题目都频频出错。我感到自己的心跳越来越快，头脑一片混乱，无法集中注意力。每当看见周围的同学专注答题的样子，我的焦虑感就更加强烈。考试结束铃声响起时，我的心情跌入谷底，觉得自己完全失败了。",
+        "metadata": {
+            "node_id": "node_100",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我怎么这么差，肯定考不好，大家都会觉得我很无能。",
+            "emotion": "极度焦虑和沮丧",
+            "behavior": "陷入自责，考试结束后不愿与同学交流，回避与人接触。",
+            "physiological_response": "心跳加快，手心冒汗，头脑混乱，注意力难以集中。",
+            "created_at": "2023-12-15 09:00:00"
+        }
+    },
+    "node_99": {
+        "page_content": "2023年12月10日傍晚，我在图书馆的一个安静角落里复习。桌上堆满了厚厚的教材和笔记本，窗外的天色渐渐暗下来，图书馆的灯光显得有些昏黄。我感到自己的心跳加快，思绪纷乱，无法专注于眼前的书本。我不断担心自己的努力不够，害怕无法达到老师和家长的期望。每当想到这些，我的胃就像被紧紧揪住一样，感到无比的焦虑和疲惫。",
+        "metadata": {
+            "node_id": "node_99",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够努力，无法达到老师和家长的期望。",
+            "emotion": "焦虑和疲惫",
+            "behavior": "停止复习，陷入思绪的漩涡，无法专注。",
+            "physiological_response": "心跳加快，胃部紧张，感到极度疲惫。",
+            "created_at": "2023-12-10 17:30:00"
+        }
+    },
+    "node_98": {
+        "page_content": "2023年11月15日深夜，我躺在床上，翻来覆去怎么也睡不着。争吵的场景不断在我脑海中重现，我反复思考着自己为什么会这样，为什么总是与人相处不来。我开始怀疑自己是否真的有能力适应大学生活，是否能实现成为优秀插画师的梦想。未来变得一片黑暗和模糊，我感到迷茫和恐惧，似乎看不到任何希望。泪水无声地滑落，我感到极度的疲惫和无助。",
+        "metadata": {
+            "node_id": "node_98",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我真的不够优秀，我无法适应大学生活，也无法成为优秀的插画师。",
+            "emotion": "极度的迷茫和恐惧，感到无助和疲惫。",
+            "behavior": "哭泣，回避社交活动，减少与他人的互动。",
+            "physiological_response": "心跳加快，呼吸急促，无法入睡。",
+            "created_at": "2023-11-15 23:45:00"
+        }
+    },
+    "node_97": {
+        "page_content": "2023年11月15日晚上，室友看到我情绪失控，觉得我反应过度，忍不住对我说：'你为什么这么敏感？这只是个小事而已。'她的话像刀子一样刺进我的心里，让我感到更加孤独和不被理解。我开始怀疑自己，觉得是不是自己真的太敏感了，不值得被人理解和关注。我默默地低下头，不再说话，只觉得眼前的一切都变得模糊不清。",
+        "metadata": {
+            "node_id": "node_97",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我是不是太敏感了，不值得被人理解和关注。",
+            "emotion": "极度孤独和不被理解，情绪低落",
+            "behavior": "沉默，不再表达自己，回避与室友的互动",
+            "physiological_response": "心跳加速，胃部不适，眼眶湿润",
+            "created_at": "2023-11-15 20:20:00"
+        }
+    },
+    "node_96": {
+        "page_content": "2023年11月15日晚上，我在宿舍里找那本丢失的书，心情糟糕透了。正当我焦急地翻找时，室友不小心碰到了我的书桌，书桌上堆积的书本纷纷掉落在地。看到这一幕，我的情绪彻底崩溃了。我大声质问室友为什么不能小心一点，她却一脸无辜地看着我。我感到室友完全不尊重我的私人空间，愤怒和无助感涌上心头，眼泪不由自主地流了下来。",
+        "metadata": {
+            "node_id": "node_96",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "她根本不在乎我的感受，我真的不值得被关心。",
+            "emotion": "极度愤怒和无助",
+            "behavior": "大声质问室友，情绪崩溃，哭泣",
+            "physiological_response": "心跳加速，呼吸急促，眼泪不由自主地流下来",
+            "created_at": "2023-11-15 20:15:00"
+        }
+    },
+    "node_95": {
+        "page_content": "2023年10月11日下午2:45，我在图书馆的一个安静角落，尝试着用绘画来平复心情。我拿起画笔，却怎么也无法集中注意力，脑海中不断回响着老师的批评。每当我想画出一笔，总觉得不够好、不够有创意。我感到自己仿佛陷入了一个无底洞，周围的寂静反而让我更加孤独和无助。最终，我颓然地放下画笔，双手抱头，感到前所未有的焦虑和绝望。",
+        "metadata": {
+            "node_id": "node_95",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够好，无法达到别人的期望。",
+            "emotion": "焦虑和绝望，情绪极度低落。",
+            "behavior": "放下画笔，停止绘画，抱头沉思。",
+            "physiological_response": "注意力难以集中，疲倦感加重，心跳加速。",
+            "created_at": "2023-10-11 14:45:00"
+        }
+    },
+    "node_94": {
+        "page_content": "2023年10月10日中午12:30，我回到宿舍，心情沉重地坐在自己的床边。室友正在看书，我犹豫了一下，还是决定向她倾诉。我说：'今天老师批评了我的作品，说不够有创意。'室友抬起头，淡淡地回应道：'哦，不要太在意了，下次会更好。'然后又低下头继续看书。我感到更加孤独和不被理解，心里像是被什么东西压着，喘不过气来。",
+        "metadata": {
+            "node_id": "node_94",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我真的不够好，连老师都觉得我的作品没有创意，室友也不在乎我的感受。",
+            "emotion": "失落、孤独和自卑",
+            "behavior": "更加回避社交，不再主动与室友交流，沉溺于负面情绪中。",
+            "physiological_response": "心跳加速，胸闷，感觉疲倦和无力。",
+            "created_at": "2023-10-10 12:30:00"
+        }
+    },
+    "node_93": {
+        "page_content": "2023年10月10日上午10:15，在大学的绘画教室里，学生们依次展示自己的创意作品。我紧张地站在讲台前，向大家展示我花了很多时间和精力完成的作品。老师在仔细看了一会儿后，皱起了眉头，说道：'你的作品不够有创意，需要更多的想象力。'我感觉脸上火辣辣的，心跳加速，眼泪在眼眶里打转。我低下头，不敢看同学们的反应，只希望这一切快点结束。",
+        "metadata": {
+            "node_id": "node_93",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "大家一定认为我的能力很差，我真的不够好。",
+            "emotion": "羞愧和焦虑",
+            "behavior": "低下头，不敢看同学们的反应，心里只希望这一切快点结束。",
+            "physiological_response": "脸上火辣辣的，心跳加速，眼泪在眼眶里打转。",
+            "created_at": "2023-10-10 10:15:00"
+        }
+    },
+    "node_92": {
+        "page_content": "下午4:30，活动接近尾声时，社团负责人请每位成员分享自己的一幅作品和创作灵感。我迟疑了一会儿，最终鼓起勇气展示了我的一幅插画。这是一幅我花了很多心思创作的作品，但当我展示时，其他同学似乎并不太感兴趣，只有少数几个人给予了简单的反馈。我感到非常失望和沮丧，内心像是被泼了一盆冷水，我开始怀疑自己是否真的有能力成为一个优秀的插画师。",
+        "metadata": {
+            "node_id": "node_92",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我的作品不够好，其他人都觉得我很平庸。",
+            "emotion": "失望和沮丧",
+            "behavior": "回避与他人交流，低头沉默不语",
+            "physiological_response": "心跳加快，胃部不适",
+            "created_at": "2023-09-10 16:30:00"
+        }
+    },
+    "node_91": {
+        "page_content": "活动在下午3:10正式开始，我鼓起勇气，尝试着主动与旁边的一位同学搭话。我微笑着介绍自己，并询问对方的绘画作品。对方简单回应了一句，然后便转向与其他人讨论作品。我顿时感到一阵失落，仿佛自己被忽视和孤立了一般。周围的热闹让我更显得孤单，我开始怀疑自己是否真的能融入这个群体。",
+        "metadata": {
+            "node_id": "node_91",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们不关心我，我不值得被注意。",
+            "emotion": "失落，孤独，焦虑",
+            "behavior": "停止与他人互动，回避社交活动，可能离开活动场地",
+            "physiological_response": "心跳加速，胃部不适，手心出汗",
+            "created_at": "2023-09-10 15:10:00"
+        }
+    },
+    "node_90": {
+        "page_content": "2023年9月10日下午，我决定参加大学的绘画社团活动，希望能结交一些志同道合的朋友。在活动室门口踌躇了片刻，我深吸一口气走了进去。当时是下午2:50，我比预定的时间提前了十分钟到达，但看到里面已经有很多同学在热烈讨论他们的作品，我不由得感到更加紧张。整个房间充满了绘画材料的气味，墙上挂满了各式各样的学生作品，而我站在门口，感到自己好像格格不入。",
+        "metadata": {
+            "node_id": "node_90",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "他们都这么优秀，我肯定不如他们。",
+            "emotion": "焦虑和自卑",
+            "behavior": "犹豫是否要进入房间，站在门口不敢上前与人交流。",
+            "physiological_response": "心跳加快，手心出汗，呼吸急促。",
+            "created_at": "2023-09-10 14:50:00"
+        }
+    },
+    "node_89": {
+        "page_content": "2023年5月20日晚，我在宿舍里打开了一个信封，里面是一封活动组织者的感谢信。他们感谢我的帮助，并邀请我加入活动策划团队。我感到无比开心和满足，因为我的努力得到了认可。这次邀请不仅让我感到自己被关注，还增强了我的自信心。我开始相信，世界真的充满了机会，只要我努力，就会被认可。这种感觉促使我更加积极地参与社交活动和校园生活。",
+        "metadata": {
+            "node_id": "node_89",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我的努力得到了认可，我确实有能力实现我的目标。",
+            "emotion": "开心和满足，自信增强",
+            "behavior": "更加积极地参与社交活动和校园生活",
+            "physiological_response": "心情愉悦，脸上露出笑容，身体感到轻松",
+            "created_at": "2023-05-20 18:00:00"
+        }
+    },
+    "node_88": {
+        "page_content": "2023年5月15日下午，我走到大学校园活动场地，那里布置得五彩缤纷，有各种装饰和道具。同学们忙碌地准备活动，欢笑声不断。他们的默契和快乐让我感到羡慕。我站在一旁犹豫了一会儿，最终鼓起勇气走上前去，询问是否需要帮忙。虽然心跳加速，手心冒汗，但活动组织者非常热情地欢迎了我，并给我分配了一些简单的任务。那一刻，我感到一丝自信在心中萌芽。",
+        "metadata": {
+            "node_id": "node_88",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们不会需要我，我不够好。",
+            "emotion": "焦虑和自卑",
+            "behavior": "犹豫不决，但最终决定尝试参与",
+            "physiological_response": "心跳加速，手心冒汗",
+            "created_at": "2023-05-15 16:45:00"
+        }
+    },
+    "node_87": {
+        "page_content": "2023年5月10日下午，我在大学图书馆自习，阳光透过窗户洒在书桌上，空气中充满了书香。突然，我听到旁边几位同学在讨论即将举办的校园活动，他们兴奋地分享过去参与活动的愉快经历和收获。我感到好奇，心中涌起了想要去看的念头。虽然内心有些紧张，但我决定去看看，想知道自己是否也能通过参与活动来获得认可。",
+        "metadata": {
+            "node_id": "node_87",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们不会真正关心我的感受，参与活动也不会得到认可。",
+            "emotion": "焦虑和不安",
+            "behavior": "犹豫是否要参加活动，最终可能选择放弃",
+            "physiological_response": "心跳加速，手心出汗",
+            "created_at": "2023-05-10 14:30:00"
+        }
+    },
+    "node_86": {
+        "page_content": "从教授的办公室出来后，我走在回宿舍的校园小径上，路旁的樱花树在微风中轻轻摇曳。几个同学迎面走来，其中一个同学微笑着对我说，她非常欣赏我的作品，并主动邀请我加入一个插画爱好者的社团。这是我第一次感受到同学们的认可和友善，我的内心温暖起来。",
+        "metadata": {
+            "node_id": "node_86",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "也许我真的有能力实现我的目标。",
+            "emotion": "内心温暖，感到被认可和激励",
+            "behavior": "稍稍放松了脚步，脸上露出微笑，可能会考虑接受邀请加入社团。",
+            "physiological_response": "心情愉悦，呼吸变得平稳，身体感觉轻松。",
+            "created_at": "2023-03-15 12:00:00"
+        }
+    },
+    "node_85": {
+        "page_content": "作品展示结束后，教授叫我去他的办公室谈话。办公室内摆满了艺术书籍和学生作品，氛围温馨而充满创意。他微笑着对我说，他非常欣赏我的创意和细节，鼓励我继续努力，并建议我参加一个即将举办的插画比赛。他还向我介绍了一些业界知名的插画师，建议我多学习他们的作品。教授的鼓励让我感到被认可和支持，我的自信心得到了极大的提升。",
+        "metadata": {
+            "node_id": "node_85",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "教授认可我的创意和细节，说明我确实有潜力成为一名优秀的插画师。",
+            "emotion": "自信心提升，感到被认可和支持",
+            "behavior": "决定认真考虑参加比赛，并开始研究业界知名插画师的作品。",
+            "physiological_response": "心情愉悦，身体感觉轻松，微笑",
+            "created_at": "2023-03-15 11:15:00"
+        }
+    },
+    "node_84": {
+        "page_content": "2023年3月15日上午，在大学的插画课上，教授在课堂上宣布了本周的优秀作品。当他走到我旁边，指着我的作品说这是一件杰作时，我的心跳加速，脸颊微微发烫。教室里响起了掌声，同学们的目光都集中在我身上。这是我第一次在这么多人面前被认可，我感到无比的骄傲和满足，仿佛所有的努力都没有白费。",
+        "metadata": {
+            "node_id": "node_84",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我的努力终于被认可了，但我必须继续努力，否则会让大家失望。",
+            "emotion": "骄傲和焦虑并存",
+            "behavior": "继续努力保持高水平表现，同时避免暴露自己的缺点",
+            "physiological_response": "心跳加速，脸颊发烫，手心出汗",
+            "created_at": "2023-03-15 10:30:00"
+        }
+    },
+    "node_83": {
+        "page_content": "2022年11月29日下午，我和那位外国同学在大学图书馆见面，继续我们的交流。在了解了他在适应新环境中的困难后，我决定帮他介绍一些朋友，并邀请大家一起学习。我们在图书馆的阅览区坐下，几本书散落在桌上，几名大学同学也加入了我们。通过这次交流，我感到自己的努力和善意得到了回报，同时也结交了几位新朋友。这让我意识到自己其实是值得被关注的，这种感觉增强了我的自信心。",
+        "metadata": {
+            "node_id": "node_83",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "原来我也可以被关注和认可。",
+            "emotion": "喜悦、自信心增强",
+            "behavior": "更愿意主动与同学交流，积极参与社交活动。",
+            "physiological_response": "面部放松，心跳和呼吸平稳。",
+            "created_at": "2022-11-29 16:00:00"
+        }
+    },
+    "node_82": {
+        "page_content": "2022年11月22日中午，我再次来到食堂，心里充满了紧张和不安。我看到那位外国同学依旧独自用餐，心想着也许我可以尝试和他交流。我鼓起勇气走到他的桌旁，微笑着用简单的英语向他打招呼。虽然我的心跳加速，但他的友好回应让我感到一种成就感。这次小小的交流让我意识到自己可以在面对挑战时采取主动。",
+        "metadata": {
+            "node_id": "node_82",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_8",
+            "auto_thought": "如果我主动面对挑战，我会成长。",
+            "emotion": "紧张但有成就感",
+            "behavior": "鼓起勇气与外国同学交流并得到积极回应。",
+            "physiological_response": "心跳加速，手心出汗。",
+            "created_at": "2022-11-22 12:45:00"
+        }
+    },
+    "node_81": {
+        "page_content": "2022年11月15日中午，我独自坐在大学食堂的一角，观察着周围的同学们。尽管食堂里热闹非凡，但我却感到无比的孤单。突然，我听到几名同学在嘲笑一位外国同学，嘲笑声夹杂着他们不理解的言语。我看到那位外国同学紧张地低下头，手足无措。这一幕让我心里一紧，感到深深的同情，同时也意识到自己并不是唯一感到孤独和不适应的人。",
+        "metadata": {
+            "node_id": "node_81",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我也会被同样对待，他们不会真正关心我的感受。",
+            "emotion": "焦虑和孤独感增强",
+            "behavior": "更加回避与同学接触，低下头避免引起注意",
+            "physiological_response": "心跳加速，胃部不适",
+            "created_at": "2022-11-15 12:30:00"
+        }
+    },
+    "node_80": {
+        "page_content": "2022年9月10日下午，我走进大学图书馆，选择了一个安静的角落坐下，拿出一本小说开始阅读。周围的同学们低声讨论着课题，而我沉浸在书中的世界里。虽然书中的故事让我暂时忘记了现实的烦恼，但心底的孤独感依然挥之不去。我叹了口气，继续翻阅着书页，希望能找到一丝安慰。",
+        "metadata": {
+            "node_id": "node_80",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "没有人关心我，我总是一个人。",
+            "emotion": "孤独和悲伤",
+            "behavior": "继续沉浸在书中，试图通过阅读逃避现实。",
+            "physiological_response": "胸口有压迫感，眼睛感到疲惫。",
+            "created_at": "2022-09-10 14:45:00"
+        }
+    },
+    "node_79": {
+        "page_content": "2022年9月7日上午，第一堂课上，老师提问‘有没有人想分享一下对这节课的看法？’我的心跳加速，手心冒汗，脑海里浮现出许多想法，但我最终选择了沉默。几个同学举手发言，教室里响起阵阵掌声，而我只能低头看着笔记本，感觉自己像被隔离在一个孤岛上，心中充满了焦虑和自卑。",
+        "metadata": {
+            "node_id": "node_79",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们不会真正关心我的看法，我的发言不会被重视。",
+            "emotion": "焦虑和自卑",
+            "behavior": "选择沉默，低头看着笔记本。",
+            "physiological_response": "心跳加速，手心冒汗。",
+            "created_at": "2022-09-07 10:00:00"
+        }
+    },
+    "node_78": {
+        "page_content": "2022年9月5日傍晚，我鼓起勇气对室友们说，‘我们一起去吃饭吧，顺便看看社团活动？’她们互相看了一眼，一个说‘我有事要先去图书馆’，另一个说‘我朋友约了我’，还有一个只是笑了笑没有回应。我心里一沉，强装笑脸说‘好吧’，然后独自走出宿舍，感到前所未有的失望和孤独。",
+        "metadata": {
+            "node_id": "node_78",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "她们不在乎我，我真的不值得被关心。",
+            "emotion": "失望和孤独",
+            "behavior": "独自离开宿舍，避免与室友进一步交流。",
+            "physiological_response": "心里一沉，感觉胸口发紧。",
+            "created_at": "2022-09-05 18:30:00"
+        }
+    },
+    "node_77": {
+        "page_content": "2022年7月23日晚上，晚餐时，我与父母聊起未来的大学生活。餐厅里灯光柔和，桌上的饭菜香气扑鼻，但我却没有什么胃口。我向父母表达了对未来的担忧，担心自己能否适应新的环境和挑战。父母安慰我，鼓励我相信自己的能力，父亲拍了拍我的肩膀，母亲握住了我的手。然而，这次谈话让我更加意识到自己内心深处的不安和对未知的恐惧。我感到必须不断努力，才能不辜负父母和老师的期望，这种情绪让我倍感压力。",
+        "metadata": {
+            "node_id": "node_77",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不不断努力，我会辜负父母和老师的期望。",
+            "emotion": "焦虑和压力",
+            "behavior": "试图掩饰自己的不安，保持沉默，避免进一步谈论自己的担忧。",
+            "physiological_response": "胃口减少，心跳加快，手心出汗。",
+            "created_at": "2022-07-23 19:00:00"
+        }
+    },
+    "node_76": {
+        "page_content": "2022年7月23日早晨，成绩公布后，我发现自己如愿考上了省会城市的一所大学。父母在客厅里等待着我的消息，当我把好消息告诉他们时，母亲的眼睛里闪烁着泪光，父亲也露出了难得的笑容。他们不断夸赞我的努力和成就，气氛充满了喜悦和骄傲。然而，我却感到一种莫名的空虚和不安。我开始质疑自己是否真正满足了内心的需求，尽管“我有潜力”的核心信念得到了确认，但新的焦虑也随之而来，担心大学生活的挑战和自己能否适应。",
+        "metadata": {
+            "node_id": "node_76",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "大学生活会很有挑战，我不确定自己能否应对。",
+            "emotion": "焦虑、不安",
+            "behavior": "开始回避社交活动，减少与他人的接触。",
+            "physiological_response": "心跳加快，胃部不适，手心出汗。",
+            "created_at": "2022-07-23 08:30:00"
+        }
+    },
+    "node_75": {
+        "page_content": "2022年7月23日早晨，我独自在卧室里等待高考成绩的公布。房间里的空气似乎凝固了，我的心跳加快，每一秒钟都显得无比漫长。我坐在书桌前，盯着手机屏幕，手心出汗，脑海中不断闪过各种可能的结果。我感觉到一种压迫感，仿佛整个世界都在注视着我，等待我的表现。焦虑和紧张几乎让我无法呼吸，担心自己是否能达到预期的成绩。",
+        "metadata": {
+            "node_id": "node_75",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我没有达到预期的成绩，我会让父母和老师失望，他们会认为我不够优秀。",
+            "emotion": "极度焦虑和紧张",
+            "behavior": "无法集中注意力，频繁查看手机屏幕，手心出汗。",
+            "physiological_response": "心跳加快，呼吸急促，甚至有些头晕目眩。",
+            "created_at": "2022-07-23 08:00:00"
+        }
+    },
+    "node_74": {
+        "page_content": "2022年6月8日下午，在家里的客厅。高考结束后，父母满怀期待地问我考试的情况。我低着头，觉得自己没有发挥好，心里充满了沮丧和内疚。我试图解释，但看到他们失望的表情，我的心更加沉重。我觉得自己辜负了他们的期望，内心的失败感无比强烈，开始怀疑自己的能力，情绪更加低落。",
+        "metadata": {
+            "node_id": "node_74",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我辜负了父母的期望，这次考试没有发挥好，证明我不够优秀。",
+            "emotion": "强烈的沮丧和内疚",
+            "behavior": "回避与父母的眼神接触，尽量减少交流",
+            "physiological_response": "胃部不适，心跳加快",
+            "created_at": "2022-06-08 17:00:00"
+        }
+    },
+    "node_73": {
+        "page_content": "2022年5月10日晚，在家里的我的房间门口。父母每天都在我的房间门口守着，确保我在学习，没有任何放松的时间。我坐在书桌前，感觉他们的目光像一座山压在我身上。我试图集中精力，但脑海中一片混乱，感到无比窒息和无助。我内心深处觉得自己不允许有任何失败，否则会让他们失望透顶。",
+        "metadata": {
+            "node_id": "node_73",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能达到他们的期望，我会让他们失望透顶。",
+            "emotion": "极度焦虑和无助",
+            "behavior": "试图集中精力但不断分心，难以专注于学习",
+            "physiological_response": "心跳加快，胸口发紧，呼吸困难",
+            "created_at": "2022-05-10 20:00:00"
+        }
+    },
+    "node_72": {
+        "page_content": "2022年2月15日傍晚，在家里的我的房间里。父母一遍又一遍地提醒我高考的重要性，并让我减少娱乐和休息时间。他们甚至取消了我最喜欢的每周一次的绘画课。我看着被收起来的画具，心里感到无比失落和被剥夺。我试图和他们解释绘画对我的重要性，但他们只是说，这段时间需要全力以赴。我感到压力倍增，焦虑不安，觉得自己必须不断努力才能满足他们的期望。",
+        "metadata": {
+            "node_id": "node_72",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我如果不努力，就会让父母失望，证明我真的不够优秀。",
+            "emotion": "焦虑、压力大、失落",
+            "behavior": "被迫停止绘画，增加学习时间，可能会哭泣或向朋友倾诉。",
+            "physiological_response": "心跳加快，胸闷，胃部不适，睡眠质量下降。",
+            "created_at": "2022-02-15 18:30:00"
+        }
+    },
+    "node_71": {
+        "page_content": "2021年9月18日14:45，在班会上，班主任提到那位辍学同学的情况，并鼓励我们在学习上互相帮助，共同面对挑战。教室里，阳光透过窗户洒在课桌上，同学们静静地听着班主任的话。我感到一种集体的力量和支持，这次经历让我更加坚定了‘我有能力实现我的目标’的信念，并且对同学关系有了一些新的看法。尽管我依然内向，但我开始尝试在学习上与同学们互相帮助。",
+        "metadata": {
+            "node_id": "node_71",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我可以通过和同学们互相帮助来实现我的目标。",
+            "emotion": "感到希望和些许自信",
+            "behavior": "开始主动与同学们交流，寻求互相帮助",
+            "physiological_response": "心跳稍微加快，但感觉温暖和舒适",
+            "created_at": "2021-09-18 14:45:00"
+        }
+    },
+    "node_70": {
+        "page_content": "2021年9月15日19:00，回到家后，我坐在餐桌旁，心情沉重地向父母提起了那位同学的情况。父母放下筷子，认真听我说完，他们表示理解，并鼓励我珍惜自己的学习机会。父亲轻轻拍了拍我的肩膀，母亲则微笑着点了点头。我感到了一丝安慰，但也更加珍惜自己的学习机会。",
+        "metadata": {
+            "node_id": "node_70",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "父母和老师总是期待我表现出色，我必须不断努力才能达到他们的期望。",
+            "emotion": "紧张和焦虑",
+            "behavior": "更加努力地学习，甚至牺牲休息时间来完成任务。",
+            "physiological_response": "心跳加快，肩膀紧绷，胃部不适。",
+            "created_at": "2021-09-15 19:00:00"
+        }
+    },
+    "node_69": {
+        "page_content": "2021年9月15日16:30，我独自走向学校门口，准备回家。突然听到一群同学在讨论，其中一位同学因为家庭经济困难，不得不辍学去打工。我感到震惊和同情，思绪万千。站在学校门口，看到同学们三三两两地走出校门，我意识到，自己所面对的学业压力并不算什么，这让对自己的处境有了新的理解。",
+        "metadata": {
+            "node_id": "node_69",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_8",
+            "auto_thought": "生活真的很残酷，我必须坚强面对自己的挑战。",
+            "emotion": "紧张和焦虑，但也有一丝自责和同情",
+            "behavior": "加快脚步回家，避免与同学接触，不敢将自己的情绪表现出来",
+            "physiological_response": "心跳加快，手心出汗，肌肉紧张",
+            "created_at": "2021-09-15 16:30:00"
+        }
+    },
+    "node_68": {
+        "page_content": "2021年5月10日晚上，我回到家，父母正在忙着各自的工作。看到我情绪低落，妈妈简单地问了一句：“今天怎么了？不开心吗？”我摇了摇头，勉强挤出一个笑容说：“没事。” 父母继续忙他们的，我感到更加孤独和无助。客厅里的电视开着，但没有人看，我坐在沙发上，觉得整个世界都抛弃了我。",
+        "metadata": {
+            "node_id": "node_68",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我不值得被关心。",
+            "emotion": "孤独和无助",
+            "behavior": "沉默不语，回避与父母进一步交流。",
+            "physiological_response": "胸口紧绷，疲惫感加重，眼眶湿润。",
+            "created_at": "2021-05-10 19:30:00"
+        }
+    },
+    "node_67": {
+        "page_content": "2021年5月10日下午，在放学后，我独自一人来到学校附近的公园散步。公园里的空气清新，柳树的枝条在风中摇曳。我走在小湖边，心里反复回想着课堂上的事情，感到无比羞愧和自责。为什么我总是这么紧张？我觉得自己真的很糟糕，眼泪不知不觉地流了下来。",
+        "metadata": {
+            "node_id": "node_67",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "为什么我总是这么紧张？我觉得自己真的很糟糕。",
+            "emotion": "羞愧、自责",
+            "behavior": "独自一人散步，避免与他人接触，流泪",
+            "physiological_response": "心跳加快，呼吸急促，眼泪流出",
+            "created_at": "2021-05-10 16:00:00"
+        }
+    },
+    "node_66": {
+        "page_content": "2021年5月10日下午，在学校的教室里，老师决定让同学们自愿回答一些复习问题。教室里充满了轻松的氛围，可是当老师叫到我的名字时，我的心跳开始加速，手心出汗。我站起来回答问题，可是因为太紧张，我竟然回答错了一个简单的问题。全班同学哄堂大笑，声音在教室里回荡。我感觉脸上火辣辣的，想要找个地缝钻进去。",
+        "metadata": {
+            "node_id": "node_66",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我表现得太糟糕了，同学们肯定会瞧不起我。",
+            "emotion": "羞愧和自卑，感到极度的尴尬和失落",
+            "behavior": "低下头，不敢直视同学，之后更不愿意在课堂上发言，甚至可能避免与同学们互动。",
+            "physiological_response": "心跳加速，手心出汗，脸部发热，胃部不适。",
+            "created_at": "2021-05-10 14:35:00"
+        }
+    },
+    "node_65": {
+        "page_content": "2021年3月12日下午4点半，在学校办公室，我与班主任进行了一次个别辅导。办公室里书架上摆满了各类书籍，办公桌上堆满了文件。我忐忑地向老师提起了我对演讲比赛的关注和自己的犹豫。老师微笑着看着我，耐心地听完我的话后，鼓励我尝试，并提供了一些准备演讲的建议和资源。老师的鼓励让我感到了一丝信心，但我仍然犹豫不决。我意识到自己的焦虑和不自信主要来源于害怕失败和被嘲笑的中间信念。老师的支持让我感到被关注和理解，这一事件逐渐改变了我‘我不值得被关注’的核心信念，并让我开始考虑勇敢地面对挑战。",
+        "metadata": {
+            "node_id": "node_65",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我在演讲比赛中失败了，我会失去他人的尊重。",
+            "emotion": "焦虑和不安",
+            "behavior": "犹豫不决地避免参加演讲比赛，即使有老师的鼓励和支持。",
+            "physiological_response": "心跳加快，手心出汗，呼吸变浅。",
+            "created_at": "2021-03-12 16:30:00"
+        }
+    },
+    "node_64": {
+        "page_content": "2021年3月10日下午2点，在学校礼堂里，我看到一位平时成绩一般的同学站在舞台上，满怀自信地进行演讲。礼堂内鸦雀无声，所有人的目光都集中在他身上。他的演讲结束时，掌声雷动，老师们也纷纷点头赞许。这一幕深深地震撼了我，让我开始重新审视自己‘不值得被关注’的信念。我感到既羡慕又希望，心中萌生了挑战自我的念头。我开始思考，是否自己也可以在其他领域尝试表现自己。",
+        "metadata": {
+            "node_id": "node_64",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他能够做到，我也许也能做到，但我不值得被关注。",
+            "emotion": "羡慕和希望混合的焦虑",
+            "behavior": "内心开始萌生挑战自我的念头，但因不自信而暂时没有行动。",
+            "physiological_response": "心跳加速，手心出汗，感到紧张。",
+            "created_at": "2021-03-10 14:00:00"
+        }
+    },
+    "node_63": {
+        "page_content": "2021年2月15日早上8:30，在学校操场上，老师站在讲台前，宣布即将举行的演讲比赛，鼓励所有学生参与。阳光透过树叶洒在操场上，学生们低声讨论起来，气氛一下子变得热闹起来。听到这个消息时，我的心里顿时感到紧张，手心开始出汗。我暗自思忖，自己是否有能力参加这样的活动，但内心的自我怀疑让我无法下定决心。看着周围同学们兴奋地讨论和准备，我感到越来越焦虑和不安。",
+        "metadata": {
+            "node_id": "node_63",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我如果参加演讲比赛，可能会表现得很糟糕，大家都会认为我不够优秀。",
+            "emotion": "极度焦虑和不安",
+            "behavior": "回避参加演讲比赛，避免与同学讨论相关话题。",
+            "physiological_response": "手心出汗，心跳加速，呼吸急促。",
+            "created_at": "2021-02-15 08:30:00"
+        }
+    },
+    "node_62": {
+        "page_content": "2020年10月12日下午，我和几位参赛同学坐在学校操场的长椅上，阳光洒在我们身上。我们聊起了比赛的经验和绘画技巧，彼此分享了创作的心得。放学后，我们有时会在教室里继续讨论，互相鼓励和支持。这些新的社交互动让我感到了一种归属感和支持，开始意识到社交并非完全无法克服的挑战。虽然我仍然对深入的社交关系感到不安，但这些经历让我感到不再那么孤单。",
+        "metadata": {
+            "node_id": "node_62",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "他们真的会理解和接受我吗？",
+            "emotion": "紧张和怀疑",
+            "behavior": "话语变得谨慎，避免透露太多个人信息。",
+            "physiological_response": "心跳加速，手心出汗。",
+            "created_at": "2020-10-12 16:30:00"
+        }
+    },
+    "node_61": {
+        "page_content": "2020年10月10日下午，在学校礼堂，我站在自己的作品前，手心冒汗，心跳加速。评委们仔细地审视每一幅作品，观众们安静地等待结果。当我的名字被宣布获得二等奖时，现场爆发出热烈的掌声。我激动得几乎说不出话来，感受到一种从未有过的成就感。这一刻，我的努力得到了认可，内心充满了喜悦和自豪。",
+        "metadata": {
+            "node_id": "node_61",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我有能力实现我的目标，我的努力得到了认可。",
+            "emotion": "喜悦和自豪，情感强烈。",
+            "behavior": "微笑，感谢评委和观众，可能会更加积极地参与未来的活动。",
+            "physiological_response": "心跳加速，手心出汗，脸上泛红。",
+            "created_at": "2020-10-10 14:45:00"
+        }
+    },
+    "node_60": {
+        "page_content": "2020年9月15日晚上，我坐在学校图书馆的角落，桌上堆满了各种艺术书籍。管理员走过来提醒我图书馆快要关门了，我才意识到时间已经很晚。回到家后，我关上房门，坐在画架前，开始通宵达旦地练习绘画技巧。父母看到我这么努力，也给予了鼓励和支持，但我内心感到非常焦虑，担心自己的努力是否足够。虽然疲惫不堪，但对绘画比赛的期待和父母的认可让我感到一丝安慰。",
+        "metadata": {
+            "node_id": "node_60",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不努力到极致，我会让父母和自己失望。",
+            "emotion": "焦虑，害怕失败",
+            "behavior": "继续通宵达旦地练习绘画，避免休息。",
+            "physiological_response": "心跳加快，胃部不适，头痛，疲惫不堪。",
+            "created_at": "2020-09-15 19:30:00"
+        }
+    },
+    "node_59": {
+        "page_content": "2020年2月18日下午，我在学校操场边的长椅上休息，听到同学们在讨论几天前的事件。有些人表达了对那位同学的同情和支持，但也有一些人嘲笑她的成绩。我默默听着，心里更加担心自己会成为被嘲笑的对象。这种担忧让我感到更加孤独和不安，害怕自己暴露出任何弱点会被同学们嘲笑。",
+        "metadata": {
+            "node_id": "node_59",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我暴露出任何弱点，我会被同学们嘲笑。",
+            "emotion": "焦虑和孤独",
+            "behavior": "尽量避免与同学们接触，减少参与讨论",
+            "physiological_response": "心跳加快，手心出汗，胃部不适",
+            "created_at": "2020-02-18 15:45:00"
+        }
+    },
+    "node_58": {
+        "page_content": "2020年2月15日晚上，我回到家，心情依然沉重。坐在书桌前，我无论如何也无法集中精力做作业，脑海里不断浮现同学在图书馆被责骂的情景。晚饭时，父母问我今天在学校的情况，我只能勉强挤出一句“还好”，不想让他们知道我的内心正在经历什么。尽管家里的氛围平静，但我内心的焦虑却在逐渐增加。",
+        "metadata": {
+            "node_id": "node_58",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "同学被责骂时，没人站出来帮忙，我也是一样的，没人会真正关心我。",
+            "emotion": "孤独和焦虑",
+            "behavior": "回避父母的询问，不愿透露心情",
+            "physiological_response": "胃部不适，心跳加速，呼吸急促",
+            "created_at": "2020-02-15 20:17:00"
+        }
+    },
+    "node_57": {
+        "page_content": "2020年2月15日下午，我在学校图书馆的一个僻静角落自习。突然，一阵激烈的争吵声打破了图书馆的宁静。我抬起头，看到一位同班同学正被她的父母责骂，因为她的成绩不理想。同学当场哭了出来，而我默默地看着，心里感到难过，同时也担心自己会有同样的遭遇。那一刻，我感到一股不安和焦虑涌上心头。",
+        "metadata": {
+            "node_id": "node_57",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我成绩不好，我也会被责骂。",
+            "emotion": "焦虑和不安",
+            "behavior": "开始回避学习，担心自己会犯错。",
+            "physiological_response": "心跳加快，手心出汗，呼吸急促。",
+            "created_at": "2020-02-15 14:35:00"
+        }
+    },
+    "node_56": {
+        "page_content": "2019年11月15日傍晚，我在家中书房接到了美术老师的通知，要求我们每位同学创作一幅以‘梦想’为主题的作品。墙上挂着我以前画的画，桌上摆满了画具。我感到一种内心的平静和专注，同时也因为对作品的期待感到了一丝焦虑。为了这次创作，我决定每天都花时间在这幅画上，希望能通过这次机会得到老师和同学们的认可。",
+        "metadata": {
+            "node_id": "node_56",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我这次作品表现不好，老师和同学们会失望，我会失去他们的尊重。",
+            "emotion": "焦虑和压力",
+            "behavior": "长时间专注于画作，反复修改细节，避免与他人交流。",
+            "physiological_response": "心跳加快，手心出汗，呼吸变浅。",
+            "created_at": "2019-11-15 18:30:00"
+        }
+    },
+    "node_55": {
+        "page_content": "2019年5月20日下午，我在学校图书馆独自看书时，看到那群女生再次聚在一起，笑声不断。我本来想走近，但想到之前她们的评论，犹豫了片刻后选择了远远避开。我走到图书馆的一个安静角落，坐在一张孤零零的桌子旁，继续埋头看书。尽管眼睛盯着书本，心里那种被排斥的感觉却挥之不去。我感到自己在同学中的位置更加边缘，内心的孤独感也愈发强烈。",
+        "metadata": {
+            "node_id": "node_55",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "她们不喜欢我，我不值得被关心。",
+            "emotion": "孤独、悲伤、被排斥",
+            "behavior": "远离她们，选择一个安静的角落独自看书。",
+            "physiological_response": "心情沉重，眼神疲惫，身体僵硬。",
+            "created_at": "2019-05-20 16:10:00"
+        }
+    },
+    "node_54": {
+        "page_content": "2019年5月15日晚上，我回到家后依然难以释怀，于是把学校发生的事情告诉了母亲，希望得到安慰。然而，母亲只是简单地告诉我不要在意别人的看法，并建议我专注于学习。她的回应虽然是出于好意，但并未真正理解我的感受，反而让我觉得自己的情感被忽视。坐在客厅的沙发上，看着母亲忙碌的身影，我感到更加孤独和无助，甚至觉得自己不值得被关注。",
+        "metadata": {
+            "node_id": "node_54",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的情感被忽视了，我不值得被关心。",
+            "emotion": "孤独、无助、沮丧",
+            "behavior": "回避与母亲进一步交流，独自待在房间里",
+            "physiological_response": "心情沉重，胃部不适，疲惫感加重",
+            "created_at": "2019-05-15 18:45:00"
+        }
+    },
+    "node_53": {
+        "page_content": "2019年5月15日下午，在学校教室外的走廊上，我独自一人走着，想着刚刚结束的班级活动。身上穿着一件母亲给我挑的旧衣服，显得有些过时。突然，我听到身后有窃窃私语的声音，是一群同班的女生。她们在评论我的穿着和性格，说我太安静、太奇怪了。听到这些话，我感到脸颊发烫，内心充满了羞愧和无助。我加快了步伐，想要逃离那些刺耳的评论，心中感到深深的孤立和不被理解。",
+        "metadata": {
+            "node_id": "node_53",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "她们肯定觉得我很怪，我真的不够好。",
+            "emotion": "羞愧和无助",
+            "behavior": "加快步伐，逃离那些刺耳的评论",
+            "physiological_response": "脸颊发烫，心跳加快",
+            "created_at": "2019-05-15 15:30:00"
+        }
+    },
+    "node_52": {
+        "page_content": "2019年3月3日晚上，我回到家后，父母对我的成绩表示了赞赏。客厅里灯光柔和，父母坐在沙发上微笑着看向我，他们说着鼓励的话，希望我继续努力。父母的表扬让我感到被关注，内心有些许的满足，但同时也感到无形的压力。我担心如果不能继续保持优异的成绩，将失去他们的关注和认可。",
+        "metadata": {
+            "node_id": "node_52",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_4",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能继续保持优异的成绩，我将失去父母的关注和认可。",
+            "emotion": "焦虑和压力",
+            "behavior": "开始更加努力地学习，减少社交活动以专注于学业。",
+            "physiological_response": "心跳加快，胃部紧张，手心出汗。",
+            "created_at": "2019-03-03 19:00:00"
+        }
+    },
+    "node_51": {
+        "page_content": "2019年3月3日上午，考试成绩公布后，我得知自己取得了全班第一名。黑板上还留有老师的笔迹，同学们的目光都集中在我身上。老师微笑着在全班面前表扬了我，我感到短暂的开心和自豪。同学们的掌声让我有些不知所措，但内心的喜悦还是涌上心头。然而，这种感觉很快被一种无形的压力所取代，我开始担心未来是否能继续保持这样的成绩。",
+        "metadata": {
+            "node_id": "node_51",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能继续保持这样的成绩，我会让大家失望。",
+            "emotion": "焦虑和压力",
+            "behavior": "开始更加努力地学习，减少社交活动，避免与同学谈论成绩。",
+            "physiological_response": "心跳加快，头痛，胃部不适。",
+            "created_at": "2019-03-03 10:00:00"
+        }
+    },
+    "node_50": {
+        "page_content": "2019年3月1日早上，我走进学校的教室，心跳加速，手心出汗。教室里光线明亮，座位排列整齐。同学们都在紧张地翻阅笔记，这让我感到更加焦虑。我坐在座位上，感觉到心脏在胸腔里狂跳不止。我不断地回想复习内容，担心自己会出错。这一刻，我感到自己仿佛被孤立在一个焦虑的漩涡中，无法呼吸。",
+        "metadata": {
+            "node_id": "node_50",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我一定不能出错，否则我会让父母和老师失望。",
+            "emotion": "极度焦虑和恐惧",
+            "behavior": "坐在座位上不敢与同学交流，只专注于复习内容，避免任何可能的干扰。",
+            "physiological_response": "心跳加快，手心出汗，呼吸急促，感觉胸闷。",
+            "created_at": "2019-03-01 08:00:00"
+        }
+    },
+    "node_49": {
+        "page_content": "2019年2月20日晚上，我在家里的书桌前复习数学考试。台灯的光芒温暖而柔和，但我心中的焦虑却无法平息。我每天晚上都挑灯夜读，甚至牺牲了周末的休息时间。我的父母看到我这么努力，有时会过来轻声叮嘱我早点休息，但更多的时候，他们只是默默地注视着我。我感觉到他们的期望和关心，却也感到无形的压力。",
+        "metadata": {
+            "node_id": "node_49",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能达到父母和老师的期望，我就不够优秀。",
+            "emotion": "焦虑和自责",
+            "behavior": "继续挑灯夜读，甚至牺牲休息时间来复习。",
+            "physiological_response": "心跳加快，胃部不适，头痛。",
+            "created_at": "2019-02-20 20:00:00"
+        }
+    },
+    "node_48": {
+        "page_content": "2018年10月10日上午，第一次月考后的成绩公布时，黑板上写着成绩排名，教室里充满了学生们窃窃私语的声音。我虽然取得了很好的成绩，但同学们并没有因此对我表示更多的关注或友好。我站在成绩单前，发现自己依然没有融入这个集体，心里感到一阵失落。",
+        "metadata": {
+            "node_id": "node_48",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_6",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "即使我取得好成绩，同学们也不会关心我。",
+            "emotion": "失落和孤独",
+            "behavior": "避免与同学交流，迅速离开教室。",
+            "physiological_response": "胸口闷闷的，感觉到轻微的胃痛。",
+            "created_at": "2018-10-10 10:30:00"
+        }
+    },
+    "node_47": {
+        "page_content": "2018年9月8日晚上，开学的第一周末，我回到家中，父母在餐桌旁询问我在学校的情况。桌上摆着晚餐，父母坐在对面，关切地看着我。我感到无法向他们表达自己的孤独和焦虑，只是简单地说了一句‘还好’，内心却充满了无奈和失落。",
+        "metadata": {
+            "node_id": "node_47",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_5",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们真的关心我的感受吗？我不值得被关心。",
+            "emotion": "失落和孤独",
+            "behavior": "避免深入交流，简单回答",
+            "physiological_response": "心情沉重，眼神呆滞",
+            "created_at": "2018-09-08 19:00:00"
+        }
+    },
+    "node_46": {
+        "page_content": "2018年9月7日上午，第一周的班会课上，班主任要求每个同学进行自我介绍。黑板上写着‘班会课’三个大字，老师站在讲台上，注视着每一个同学。轮到我时，我感到极度紧张和焦虑，不知道该如何介绍自己。我的手心冒汗，声音颤抖，最终我的自我介绍显得非常拘谨和不自然。",
+        "metadata": {
+            "node_id": "node_46",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_4",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我会表现得很糟糕，大家会注意到我的不足。",
+            "emotion": "焦虑、害怕",
+            "behavior": "声音颤抖，言辞拘谨，不自然地完成自我介绍",
+            "physiological_response": "手心冒汗，心跳加速，呼吸急促",
+            "created_at": "2018-09-07 09:00:00"
+        }
+    },
+    "node_45": {
+        "page_content": "2018年9月3日下午放学后，我独自走在回家的路上，看到其他同学结伴而行，互相谈笑。我默默地走在他们后面，感到自己与他们格格不入。街道两旁的树叶在微风中轻轻摇摆，夕阳的余晖洒在地面上，我的心情却格外沉重。",
+        "metadata": {
+            "node_id": "node_45",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我不值得被关心，他们不会真正关心我的感受。",
+            "emotion": "孤独、悲伤",
+            "behavior": "低头走路，不与他人接触，避免交流。",
+            "physiological_response": "心跳减慢，感觉疲惫，呼吸沉重。",
+            "created_at": "2018-09-03 16:00:00"
+        }
+    },
+    "node_44": {
+        "page_content": "2018年9月3日中午，开学第一天的午餐时间，我站在食堂门口，看到其他同学结伴走进食堂，而我则独自一人找了个角落坐下，默默地吃着饭。食堂里人声鼎沸，餐桌上摆满了各式各样的饭菜。尽管有同学注意到我，但他们并没有主动邀请我加入，我感到更加孤单。",
+        "metadata": {
+            "node_id": "node_44",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们都不关心我，我不值得被关注。",
+            "emotion": "孤独，悲伤",
+            "behavior": "尽量避免与他人接触，独自坐在角落里吃饭。",
+            "physiological_response": "胃部不适，食欲不振。",
+            "created_at": "2018-09-03 12:30:00"
+        }
+    },
+    "node_43": {
+        "page_content": "2018年9月3日早晨，开学的第一天，我走进新的教室，发现自己在这个班级里没有一个认识的人。为了不显得孤单，我选择坐在教室的角落里，默默观察其他同学的互动。教室里阳光透过窗户洒进来，课桌整齐地排列着，黑板上写着欢迎词。尽管心里很想加入他们，但我害怕被拒绝或嘲笑。",
+        "metadata": {
+            "node_id": "node_43",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "没有人会真正关心我，我不值得被关注。",
+            "emotion": "孤独和焦虑",
+            "behavior": "保持沉默，避免与他人接触。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "2018-09-03 08:15:00"
+        }
+    },
+    "node_42": {
+        "page_content": "2014年10月15日下午6点45分，我坐在书桌前做作业，窗外的夕阳正缓缓落下，房间里充满了温暖的橘黄色光芒。母亲轻轻敲了敲门，走进来坐在我的床边，温柔地问我在学校过得怎么样。我犹豫了一下，最终决定把今天在体育课上的经历告诉她。我讲述了看到同学在跑步比赛中表现出色的情景以及我内心的感受。母亲听完后，温柔地鼓励我：'你也可以做到的，只要你努力。'她的话让我感到一丝温暖，但我内心的自我怀疑并未完全消除。我依然觉得自己不够优秀，不值得被关注。",
+        "metadata": {
+            "node_id": "node_42",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够优秀，努力也没有用。",
+            "emotion": "失落和焦虑",
+            "behavior": "低下头，不再继续谈论体育课的事情。",
+            "physiological_response": "心跳加速，胃部不适。",
+            "created_at": "2014-10-15 18:45:00"
+        }
+    },
+    "node_41": {
+        "page_content": "体育课结束后，我们排着队走在学校的走廊上。走廊两侧是挂满学生作品的布告板，窗外的阳光洒进来，照在地面上。我低着头，心里反复问自己：'我能做到吗？我也能得到大家的认可吗？'虽然周围的同学们在谈笑风生，但我却感到一种莫名的紧张和不安。从小我就觉得自己不够优秀，不值得被关注。尽管我渴望得到认可，但这些负面的想法总是让我感到自卑和焦虑。",
+        "metadata": {
+            "node_id": "node_41",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够优秀，大家不会认可我。",
+            "emotion": "焦虑和自卑",
+            "behavior": "回避与同学交流，低头走路，不敢抬头看别人。",
+            "physiological_response": "心跳加快，手心出汗，呼吸变浅。",
+            "created_at": "2014-10-15 10:10:00"
+        }
+    },
+    "node_40": {
+        "page_content": "2014年10月15日早上9点35分，阳光洒在操场上，空气中弥漫着新鲜的草香。我们所有人都站在起跑线上，紧张地等待着发令枪响。我站在一旁，心里充满了焦虑和不安。比赛开始后，我看到一个平时成绩并不突出的同学跑得很快，最终赢得了比赛，得到了老师和同学们的赞扬。我站在操场边，默默地观察着这一切，心里一边感到羡慕，一边也感到一丝希望。或许，我也可以通过努力得到认可。但与此同时，我也感到了一种深深的焦虑和怀疑，担心自己能否做到。",
+        "metadata": {
+            "node_id": "node_40",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能表现得比他好，我就会让自己和他人失望。",
+            "emotion": "焦虑和不安",
+            "behavior": "站在一旁默默观察，犹豫是否要付出努力。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "2014-10-15 09:35:00"
+        }
+    },
+    "node_39": {
+        "page_content": "2012年8月12日下午，阳光透过窗户洒在客厅的地板上。我坐在客厅的角落里，专心致志地画画。父亲刚刚结束了一天的工作，走进客厅，看了一眼我的画作，轻描淡写地说了声'不错'。虽然他的语气很平淡，但我感到心里一阵暖流涌过，觉得自己得到了认可。这让我感到非常开心和满足，内心充满了成就感。父亲的认可让我更加坚定了对绘画的热爱。",
+        "metadata": {
+            "node_id": "node_39",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "爸爸认可了我的画，我有能力实现我的目标。",
+            "emotion": "开心和满足，内心充满成就感。",
+            "behavior": "更加专注和热情地继续画画，决心要在绘画上取得更多的进步。",
+            "physiological_response": "感觉到一阵温暖，心跳变得平稳，呼吸也更加放松。",
+            "created_at": "2012-08-12 15:23:00"
+        }
+    },
+    "node_38": {
+        "page_content": "2013年6月18日下午，我在学校图书馆里寻找一本书时，看到那个同学一个人坐在角落里哭泣。看到他的悲伤，我犹豫了一会儿，最终还是走过去，轻轻地坐在他旁边，试图给予一些安慰。同学感激地看了我一眼，我们开始聊起各自的困扰。这次短暂的交流让我感到一丝温暖，意识到即使自己有时感到孤独，但还是有机会去帮助和关心别人。这种温暖的感觉虽然短暂，但让我明白人与人之间的关心和支持是多么重要。",
+        "metadata": {
+            "node_id": "node_38",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他人不会真正关心我的感受，但我可以尝试关心别人。",
+            "emotion": "短暂的温暖和满足感，伴随一些不确定感",
+            "behavior": "与同学展开交流，试图理解并安慰对方",
+            "physiological_response": "心跳稍微加快，呼吸变得平稳",
+            "created_at": "2013-06-18 14:30:00"
+        }
+    },
+    "node_37": {
+        "page_content": "2013年6月15日晚上，我回到家后，心中无法平静。晚饭时，我试图向母亲提起在学校看到的同学被责骂的事情，但母亲因为工作疲惫，眼神中透露出倦意，她只是简单地说了一句‘每个孩子都应该努力学习’。听到这句话，我感到一种深深的失落和孤独，期望能从母亲那里得到更多的安慰和支持，但她的冷淡让我觉得自己不值得被关心。我默默地吃完晚饭，心中充满了失望和无助。",
+        "metadata": {
+            "node_id": "node_37",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "母亲根本不关心我的感受，我不值得被关心。",
+            "emotion": "失落、孤独、失望",
+            "behavior": "默默吃完晚饭，不再尝试与母亲交流。",
+            "physiological_response": "心情沉重，胃口减退，感觉疲惫。",
+            "created_at": "2013-06-15 19:00:00"
+        }
+    },
+    "node_36": {
+        "page_content": "2013年6月15日下午，我在学校的操场上独自散步，享受着放学后的宁静。操场边的长椅旁，我看到一个同学被他的父母责骂，因为他的成绩不理想。同学低着头，父母的语气严厉而冰冷，我感受到了他们对孩子的失望和愤怒。当时我感到非常同情这个同学，但同时也感到一种深深的恐惧，担心自己也会遇到同样的情况。这个场景触动了我心中的不安和焦虑，我开始更加害怕失败，认为如果不能表现得足够优秀，自己也会遭到类似的责骂和失望。",
+        "metadata": {
+            "node_id": "node_36",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能表现得足够优秀，我的父母也会像这样责骂我并对我失望。",
+            "emotion": "焦虑和恐惧",
+            "behavior": "尽量避免让父母知道自己的不足，努力表现得更好。",
+            "physiological_response": "手心出汗，胃部不适，心跳加快。",
+            "created_at": "2013-06-15 16:45:00"
+        }
+    },
+    "node_35": {
+        "page_content": "2015年4月25日上午，学校大厅里挤满了人，我的作品也被展示在其中。评委们在各个作品间穿梭，细细评审。我站在一旁，手心冒汗，心里充满了紧张和期待。时间似乎过得特别慢，每一秒都像是一个世纪。终于，评委宣布了获奖名单，当听到自己获得二等奖时，我感到无比开心和自豪，暂时提升了我的自信心。",
+        "metadata": {
+            "node_id": "node_35",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我终于被认可了一次，但我必须继续努力，否则下次就不会这么幸运了。",
+            "emotion": "既开心又紧张",
+            "behavior": "心里暗自决定要更加努力，避免再次经历这种紧张的时刻，同时在之后的日子里更加努力地练习和学习。",
+            "physiological_response": "心跳加快，手心冒汗，呼吸急促。",
+            "created_at": "2015-04-25 10:00:00"
+        }
+    },
+    "node_34": {
+        "page_content": "2015年4月5日傍晚，我像往常一样留在教室里绘画，教室里静悄悄的，只有我一个人。突然，父亲出现在教室门口，他带着微笑走过来，看了看我的画，然后拍了拍我的肩膀，对我说‘你做得很好，加油，我相信你能行！’我感到一阵温暖涌上心头，父亲的支持暂时缓解了我的焦虑。",
+        "metadata": {
+            "node_id": "node_34",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "父亲相信我，但我必须更加努力表现得更好，才能不让他失望。",
+            "emotion": "温暖、感动，但仍有些焦虑",
+            "behavior": "更加专注地继续绘画，心中暗下决心要更加努力。",
+            "physiological_response": "心跳略微加快，感到一阵暖流在胸口流动。",
+            "created_at": "2015-04-05 18:45:00"
+        }
+    },
+    "node_33": {
+        "page_content": "2015年3月20日下午的美术课上，美术老师站在讲台前宣布了一次全校性的绘画比赛，并鼓励我们踊跃参加。当时教室里顿时变得热闹起来，同学们纷纷讨论着比赛的事情。我的心却开始狂跳，手心也出了汗。尽管内心充满了焦虑，我还是决定参加比赛，希望通过努力获得认可。",
+        "metadata": {
+            "node_id": "node_33",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不参加比赛，我会被认为不够优秀。",
+            "emotion": "焦虑、紧张",
+            "behavior": "决定参加比赛，希望通过努力获得认可。",
+            "physiological_response": "心跳加速，手心出汗",
+            "created_at": "2015-03-20 15:30:00"
+        }
+    },
+    "node_32": {
+        "page_content": "2012年11月15日下午，学校在礼堂举行了家长会。礼堂内座无虚席，灯光明亮。当老师在台上再次表扬那位成绩优异的同学时，我的心情沉重，低着头不敢看父母的表情。老师接着说，其他同学也要更加努力，争取达到他的水平。我感到一阵窒息，觉得自己让父母失望了。父母虽然没有说什么，但我能感受到他们的失望和无奈。这次家长会让我更加焦虑和自卑，我觉得自己永远无法达到老师和父母的期望。",
+        "metadata": {
+            "node_id": "node_32",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我让父母失望了，我永远无法达到他们的期望。",
+            "emotion": "焦虑、自卑和沉重",
+            "behavior": "低着头，不敢看父母的表情，回避和他人的眼神接触。",
+            "physiological_response": "心跳加快，呼吸急促，感到一阵窒息。",
+            "created_at": "2012-11-15 14:00:00"
+        }
+    },
+    "node_31": {
+        "page_content": "2012年11月10日傍晚，我回到家，母亲正在客厅里等我。她关心地问我今天在学校的情况，我勉强挤出一个笑容，告诉她我的成绩很一般，还提到了那位被老师表扬的同学。母亲轻轻拍了拍我的肩膀，说：‘别灰心，只要努力就会有进步。’虽然母亲的话让我感到一丝温暖，但我内心的自卑感依然如影随形。我觉得母亲只是安慰我，她可能根本不知道我有多难过。",
+        "metadata": {
+            "node_id": "node_31",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够优秀，我让妈妈失望了。",
+            "emotion": "自卑、难过",
+            "behavior": "回避与母亲进一步的交流，独自回房间。",
+            "physiological_response": "胃部不适，肩膀紧绷。",
+            "created_at": "2012-11-10 18:00:00"
+        }
+    },
+    "node_30": {
+        "page_content": "2012年11月10日下午，在学校的教室里，老师站在讲台上，手里拿着成绩单宣布考试结果。当老师念到那位成绩优异的同学的名字时，教室里响起了掌声。老师满脸笑容地称赞他，说他是我们班的榜样。我坐在教室的后排，心情复杂，既羡慕又自卑。我的手心开始出汗，心里默默地问自己，为什么我不能像他一样优秀。",
+        "metadata": {
+            "node_id": "node_30",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "为什么我不能像他一样优秀，我是不是不够努力？",
+            "emotion": "自卑、焦虑",
+            "behavior": "低下头，不敢与他人目光接触，回避社交。",
+            "physiological_response": "手心出汗，心跳加快。",
+            "created_at": "2012-11-10 15:30:00"
+        }
+    },
+    "node_29": {
+        "page_content": "2014年5月18日上午的课间休息时，我在学校操场上散步，希望能放松一下心情。走到靠近篮球场的一片草地上时，我看到几天前在图书馆讨论我的那群同学又聚在一起，正说着什么。我顿时感到一阵焦虑，心跳加速，仿佛他们的目光随时会投向我，继续讨论我。我匆匆转身离开，走到一个角落里，尽量让自己不被他们看到。从那天起，我开始有意避开他们，甚至减少在操场和其他公共场合出现的时间。我觉得这样做可以避免再次被议论，但内心却越来越孤独。",
+        "metadata": {
+            "node_id": "node_29",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们一定在说我的坏话，没人会真正在乎我的感受。",
+            "emotion": "焦虑和孤独",
+            "behavior": "匆匆转身离开并躲避那些同学，减少在公共场合出现的时间。",
+            "physiological_response": "心跳加速，呼吸急促。",
+            "created_at": "2014-05-18 10:15:00"
+        }
+    },
+    "node_28": {
+        "page_content": "2014年5月15日下午，我回到家中，母亲在厨房准备晚餐，父亲坐在客厅的沙发上看报纸。我努力保持平静，不让他们看出我的情绪变化。我走到自己的房间，关上门，靠在门上深呼吸，试图把在图书馆发生的事情抛到脑后。但内心的孤独和被误解的感觉却怎么也挥之不去。我坐在床上，抱着膝盖，眼泪默默流下来。我知道父母很忙，他们不会理解我内心的这些感受，我也不敢与他们倾诉。",
+        "metadata": {
+            "node_id": "node_28",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们根本不会关心我的感受，我不值得被关心。",
+            "emotion": "悲伤、孤独、无助",
+            "behavior": "躲在房间里哭泣，不敢与父母倾诉。",
+            "physiological_response": "心情沉重，胸口发闷，眼泪不断流出。",
+            "created_at": "2014-05-15 17:00:00"
+        }
+    },
+    "node_27": {
+        "page_content": "2014年5月15日下午，我独自在图书馆靠窗的桌子上看书。阳光柔和地洒在书页上，图书馆内安静得只能听见翻书的声音。突然，我听到几名同学在不远处窃窃私语，他们的声音越来越大，话题竟然是我。其中一个女生说：“你们注意到吗？邬瑞霭总是一个人，真的好奇怪。”我听到这些话，心里像被针刺一般，难过极了。我低下头，努力继续看书，但眼泪却在眼眶里打转。我不明白为什么他们会这么想我。",
+        "metadata": {
+            "node_id": "node_27",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们说的是真的，我不值得被关心，大家都觉得我很奇怪。",
+            "emotion": "悲伤和羞愧",
+            "behavior": "努力继续看书，但无法集中注意力，最终放弃阅读，独自离开图书馆。",
+            "physiological_response": "心跳加快，眼泪在眼眶里打转，喉咙紧缩。",
+            "created_at": "2014-05-15 14:30:00"
+        }
+    },
+    "node_26": {
+        "page_content": "我站在那儿，看着母亲，想要说些什么安慰她，却一时语塞，只能默默地站在一旁。母亲继续忙碌着，好像什么都没发生过一样。我感到自己不够优秀，无法帮助母亲。这一刻让我觉得自己真的很无能，进一步强化了我‘我不值得被关注’的信念。",
+        "metadata": {
+            "node_id": "node_26",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我真的很无能，无法帮助母亲。",
+            "emotion": "自责和无力感",
+            "behavior": "默默站在一旁，不敢表达自己的想法或情感。",
+            "physiological_response": "胸口闷痛，身体僵硬，呼吸变浅。",
+            "created_at": "2010-05-15 18:50:00"
+        }
+    },
+    "node_25": {
+        "page_content": "母亲听到我的脚步声，转过身来连忙擦干眼泪，强行挤出一个微笑，轻声对我说：“妈妈只是工作压力太大了，不用担心。”她的微笑和轻描淡写的话语让我感到困惑和无助。我能感受到她的坚强，但也能感受到她的脆弱。那一刻，我心里更加确信，或许我也应该隐藏自己的脆弱。",
+        "metadata": {
+            "node_id": "node_25",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "或许我也应该隐藏自己的脆弱。",
+            "emotion": "困惑和无助",
+            "behavior": "避免表达自己的脆弱，试图掩饰自己的情感。",
+            "physiological_response": "心情沉重，胃部不适，呼吸变浅。",
+            "created_at": "2010-05-15 18:47:00"
+        }
+    },
+    "node_24": {
+        "page_content": "2010年5月15日傍晚，我正在房间里做作业，听到厨房里传来低声的抽泣声。走廊昏暗，厨房的灯光微弱，我小心翼翼地走过去。看到母亲在洗碗时偷偷抹眼泪，我感到无比心疼，但又觉得无力，害怕自己的关心会让母亲更加难过。我站在门口，眼眶也湿润了。",
+        "metadata": {
+            "node_id": "node_24",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我不该让妈妈看到我也难过，她会更难过的。",
+            "emotion": "内疚和无助",
+            "behavior": "站在门口不敢上前安慰母亲。",
+            "physiological_response": "眼眶湿润，心情沉重，感觉胸口压抑。",
+            "created_at": "2010-05-15 18:45:00"
+        }
+    },
+    "node_23": {
+        "page_content": "2011年9月15日晚上，我独自一人躲在房间里，床边放着我最喜欢的玩具熊。我把头埋在枕头里，眼泪不停地流，心里充满了无助和失落。我感到没有人真正理解我，整个世界仿佛都在与我作对。那一刻，我觉得自己被孤立了，似乎没有人会关心我的感受。",
+        "metadata": {
+            "node_id": "node_23",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "没有人真正关心我，我是一个不值得被关心的人。",
+            "emotion": "极度的孤独和无助",
+            "behavior": "继续哭泣，避免与他人交流，隐藏自己的情感",
+            "physiological_response": "心跳加快，胸口发紧，呼吸变浅",
+            "created_at": "2011-09-15 19:30:00"
+        }
+    },
+    "node_22": {
+        "page_content": "2011年9月15日晚上，家里的餐桌上，灯光昏暗。父母发现我没有完成作业，父亲的声音严厉地责备我，母亲则在一旁附和。我低着头，耳边回荡着他们的责备声，心里满是愧疚和压力。我努力不让眼泪流下来，但那种无力感却无处可逃。",
+        "metadata": {
+            "node_id": "node_22",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我真的是个失败者，他们对我很失望。",
+            "emotion": "强烈的愧疚和压力",
+            "behavior": "低着头，努力不让眼泪流下来",
+            "physiological_response": "心跳加快，胃部紧缩，感觉无力",
+            "created_at": "2011-09-15 19:00:00"
+        }
+    },
+    "node_21": {
+        "page_content": "2011年9月15日傍晚，在家里的客厅。父母坐在沙发上，桌上堆满了他们带回来的工作文件。父亲皱着眉头，母亲一边整理文件一边问我今天学校的情况。当我提到考试成绩不理想时，他们的脸色立刻变了。父亲叹了口气，母亲则开始絮絮叨叨地说着我需要更加努力。那一刻，我感受到一股无形的压力，仿佛空气都变得沉重了。",
+        "metadata": {
+            "node_id": "node_21",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够优秀，我让他们失望了。",
+            "emotion": "内疚和焦虑",
+            "behavior": "低头沉默，不敢直视父母，内心自责",
+            "physiological_response": "心跳加快，胃部不适，手心出汗",
+            "created_at": "2011-09-15 18:30:00"
+        }
+    },
+    "node_20": {
+        "page_content": "2012年4月12日晚上，家中的餐厅里灯光温暖，母亲正端着一盘菜走过来。我们坐在餐桌旁，开始吃晚饭。母亲一边夹菜一边问我今天在学校过得怎么样。我犹豫了一下，心里有点挣扎，但最终还是决定没有告诉她课堂上的事情。我觉得母亲不会理解我的感受，而且不想让她担心。我低着头摆弄着碗里的饭菜，回答说：‘还好，没什么特别的。’母亲笑了笑，继续聊些其他的事情，但我的心里却感到一阵孤独和无助。",
+        "metadata": {
+            "node_id": "node_20",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "她不会理解我的感受，也不会真正关心我。",
+            "emotion": "孤独和无助",
+            "behavior": "低头摆弄碗里的饭菜，不与母亲分享真实的感受。",
+            "physiological_response": "心里一阵揪痛，胃部不适，食欲下降。",
+            "created_at": "2012-04-12 19:00:00"
+        }
+    },
+    "node_19": {
+        "page_content": "2012年4月12日下午放学后，我独自一人走在回家的路上。小路两旁的梧桐树在微风中轻轻摇曳，但我却无心欣赏这一切。脑海中反复回想着课堂上的情景，心里充满了失落和自责。我觉得自己错过了一个表现自我的机会，心里不断想象着同学们会怎么看我。他们会不会觉得我很懦弱？内心充满了自我否定，脚步也变得沉重了许多。",
+        "metadata": {
+            "node_id": "node_19",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们会觉得我很懦弱，我总是无法抓住机会表现自己。",
+            "emotion": "失落和自责",
+            "behavior": "低着头快步走回家，避免与他人接触。",
+            "physiological_response": "胸口发闷，胃部不适，步伐沉重。",
+            "created_at": "2012-04-12 16:10:00"
+        }
+    },
+    "node_18": {
+        "page_content": "2012年4月12日下午，在学校的数学课上，老师正在黑板上讲解一道数学题。突然，他转过头来提出一个问题，目光扫视全班。我心里清楚地知道答案，但手心却开始冒汗，心跳加速。我拼命想让自己举手，但最终还是没能鼓起勇气。我害怕如果回答错误，同学们会嘲笑我。看到其他同学纷纷举手，老师最终叫了一个同学回答，我顿时松了一口气，但心里却充满了懊悔和自责。",
+        "metadata": {
+            "node_id": "node_18",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果回答错误，同学们会嘲笑我，我会让人失望。",
+            "emotion": "焦虑、害怕、懊悔",
+            "behavior": "没有举手回答问题，最终松了一口气，但内心自责。",
+            "physiological_response": "手心冒汗，心跳加速。",
+            "created_at": "2012-04-12 14:35:00"
+        }
+    },
+    "node_17": {
+        "page_content": "2013年3月15日晚上7:00，我回到家，母亲看到我情绪低落，关切地问我在学校里发生了什么事。我犹豫了一下，最终还是没有告诉她，只是简单地说了一句‘没事’。母亲的眼神中充满了担忧，但她没有继续追问。我心里感到一阵内疚和孤独，担心如果告诉母亲真相，会让她失望。我坐在餐桌前，默默地吃着晚餐，心里却翻江倒海。",
+        "metadata": {
+            "node_id": "node_17",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "如果我告诉母亲真相，她不会真正关心我的感受。",
+            "emotion": "内疚和孤独",
+            "behavior": "沉默，不敢与母亲交流。",
+            "physiological_response": "心情沉重，胃口不佳。",
+            "created_at": "2013-03-15 19:00:00"
+        }
+    },
+    "node_16": {
+        "page_content": "2013年3月15日下午4:30，放学后，我和邻居小伙伴一起走在回家的路上。她在旁边开心地聊着学校的趣事，但我心不在焉，只想着今天在学校里看到的那个同学被嘲笑的情景。心里感到一阵沉重和不安，觉得自己也可能会有那样的一天。我默默地想着，不想参与到她的谈话中。",
+        "metadata": {
+            "node_id": "node_16",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "如果我在学校也被嘲笑，那会很糟糕。",
+            "emotion": "焦虑和不安",
+            "behavior": "避免参与谈话，沉默不语。",
+            "physiological_response": "心跳加速，胃部不适，手心出汗。",
+            "created_at": "2013-03-15 16:30:00"
+        }
+    },
+    "node_15": {
+        "page_content": "2013年3月15日上午10:45，数学老师在教室里公布了班级成绩。一个成绩不好的同学一脸沮丧地坐在座位上，其他同学在课间休息时开始嘲笑他，说他笨。邬瑞霭看到这一幕，心里非常同情那个同学，但她不敢出声，害怕自己也会成为被嘲笑的对象。她感到一阵焦虑，低下头，假装在看书，但心里却久久不能平静。",
+        "metadata": {
+            "node_id": "node_15",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "如果我出声，我也会被嘲笑。",
+            "emotion": "焦虑和同情",
+            "behavior": "低下头，假装在看书，不敢出声。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "2013-03-15 10:45:00"
+        }
+    },
+    "node_14": {
+        "page_content": "2011年11月12日傍晚，聚会结束后，我们回到了家中。母亲在客厅里再次夸奖我的画作，并鼓励我继续画画，脸上的微笑让我感到温暖。父亲则说，下次可以带我去美术馆参观，让我能够见识更多优秀的作品。那一刻，我感受到来自家庭的支持和认可，内心充满了动力和信心，同时也感到了一些压力，担心如果下次画得不好会让父母失望。",
+        "metadata": {
+            "node_id": "node_14",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我下次画得不好，会让父母失望。",
+            "emotion": "焦虑和不安",
+            "behavior": "更加努力地练习绘画，避免让父母失望。",
+            "physiological_response": "心跳加快，胃部有紧绷感。",
+            "created_at": "2011-11-12 18:00:00"
+        }
+    },
+    "node_13": {
+        "page_content": "2011年11月12日下午，当我终于完成了那幅画后，我内心忐忑地把画递给爷爷奶奶。看到他们眼中的光芒和由衷的笑容，我的心情顿时好了很多。爷爷奶奶连连称赞我的画，说我有很大的潜力。母亲也微笑着夸奖我，父亲则拍了拍我的肩膀，表示对我的鼓励。那个瞬间，我感到巨大的满足感和自豪感，仿佛所有的焦虑和不安都得到了释放。",
+        "metadata": {
+            "node_id": "node_13",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我真的有潜力，如果我继续努力，我会取得更大的成功。",
+            "emotion": "满足感和自豪感",
+            "behavior": "我会更加努力地绘画，争取更多的认可。",
+            "physiological_response": "心跳平稳，感到轻松愉快。",
+            "created_at": "2011-11-12 15:00:00"
+        }
+    },
+    "node_12": {
+        "page_content": "2011年11月12日下午，在爷爷奶奶家的起居室里，大家围坐在一起，谈着工作和生活中的趣事，气氛温馨而热闹。我坐在角落里，手中握着画笔，心里想着要给爷爷奶奶一个惊喜。虽然房间里充满了欢笑声和谈话声，但我感到自己被忽视了。画着画的同时，我的心中充满了焦虑，担心自己的作品无法获得认可。",
+        "metadata": {
+            "node_id": "node_12",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们根本不会注意到我，也不会关心我的画。",
+            "emotion": "焦虑和失落",
+            "behavior": "默默地继续画画，不与家人交流。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "2011-11-12 14:30:00"
+        }
+    },
+    "node_11": {
+        "page_content": "2010年8月15日下午，我回到家，母亲正在客厅的沙发上看书。她看到我情绪低落，放下书，轻声问我发生了什么。我摇了摇头，勉强挤出一个微笑，说没事。母亲似乎想再问些什么，但看我这样，也就没有再追问。我径直走进自己的房间，关上门，心里却感到更加孤独和无助。",
+        "metadata": {
+            "node_id": "node_11",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我不值得被关心，她只是表面上的关心而已。",
+            "emotion": "孤独和无助",
+            "behavior": "避开母亲，躲进自己的房间",
+            "physiological_response": "全身无力，胸口沉重",
+            "created_at": "2010-08-15 15:00:00"
+        }
+    },
+    "node_10": {
+        "page_content": "2010年8月15日下午，我从邻居家出来，独自走在回家的路上。小巷里安静得只听得到我的脚步声。我低着头，脑海里一直回放着小伙伴推倒积木塔的画面，心里感到委屈和无助。没有人可以说话，这种孤独感让我愈发低落。",
+        "metadata": {
+            "node_id": "node_10",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "没有人关心我，他人不会理解我的感受。",
+            "emotion": "孤独感和委屈的强烈情绪",
+            "behavior": "低头走路，不与他人交流，回避社交",
+            "physiological_response": "胸口发闷，眼眶湿润",
+            "created_at": "2010-08-15 14:45:00"
+        }
+    },
+    "node_9": {
+        "page_content": "2010年8月15日下午，我和邻居小伙伴在他家的客厅玩积木。地毯上铺满了五颜六色的积木，阳光透过窗帘洒在地上，给房间带来一丝温暖。但就在我搭起一个高高的积木塔时，小伙伴突然伸手一推，积木瞬间倒塌，他还嘲笑我手笨。我愣住了，脸颊发烫，心里感到愤怒和委屈，但却不敢说什么，只能默默收拾散落的积木。",
+        "metadata": {
+            "node_id": "node_9",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我的缺点被看到了，我真的很笨。",
+            "emotion": "愤怒和委屈",
+            "behavior": "默默收拾积木，不敢反驳",
+            "physiological_response": "脸颊发烫，心跳加快",
+            "created_at": "2010-08-15 14:30:00"
+        }
+    },
+    "node_8": {
+        "page_content": "几天后，父亲试图弥补争吵带来的影响，下午5点，他带我去家附近的公园散步。我们沿着铺满落叶的小路走着，父亲试图找话题和我聊天。他说起了工作上的一些趣事，还问我学校的情况。我能感觉到他在努力让我放松，但我心里的担忧并没有完全消失。虽然父亲的关心让我感受到一些温暖，但我仍然无法完全放下对家庭问题的担忧。我心里想着，或许父亲是在勉强自己，这让我更加坚定了“我不值得被关注”的想法，焦虑和自卑情绪进一步加深。",
+        "metadata": {
+            "node_id": "node_8",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "或许父亲是在勉强自己，这让我更加坚定了‘我不值得被关注’的想法。",
+            "emotion": "焦虑和自卑",
+            "behavior": "沉默寡言，避免与父亲有深入的对话。",
+            "physiological_response": "心情沉重，胃部不适，感到疲惫。",
+            "created_at": "2011-02-18 17:00:00"
+        }
+    },
+    "node_7": {
+        "page_content": "父母争吵过后，母亲轻轻敲了我的房门，走进来试图安慰我。她坐在我的床边，握着我的手，温柔地说：“别担心，宝贝，爸爸妈妈只是有点压力大，不是你的错。”虽然我点了点头，表示理解，但内心依然感到不安。我害怕再次听到他们的争吵，心里充满了焦虑和恐惧。母亲离开后，我躺在床上，泪水默默流下，心里想着自己必须隐藏自己的情绪，避免让他们担心。",
+        "metadata": {
+            "node_id": "node_7",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我必须隐藏自己的情绪，避免让他们担心。",
+            "emotion": "焦虑和恐惧",
+            "behavior": "默默流泪，隐藏自己的情绪，不向母亲表达内心的不安。",
+            "physiological_response": "心跳加快，胃部不适，身体微微颤抖。",
+            "created_at": "2011-02-15 21:00:00"
+        }
+    },
+    "node_6": {
+        "page_content": "2011年2月15日晚上，家里一片寂静，我坐在房间里写作业。忽然，客厅传来父母的争执声，他们因为工作的压力和分担家庭责任的问题开始争吵。父亲的声音低沉有力，母亲的声音则带着哭腔，我听得心里一阵阵难受。房间的门没有完全关上，我能看到客厅里父亲焦躁地走来走去，母亲则坐在沙发上，眼里含着泪水。那一刻，我感到家庭氛围的紧张，心里默默地想着自己不应该增加他们的负担，感到孤单和无助。",
+        "metadata": {
+            "node_id": "node_6",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "他们不会在意我的感受，我不值得被关心。",
+            "emotion": "孤单和无助",
+            "behavior": "默默地想着自己不应该增加他们的负担，减少与父母的沟通。",
+            "physiological_response": "心里一阵阵难受，胃部紧张，头脑发沉。",
+            "created_at": "2011-02-15 20:30:00"
+        }
+    },
+    "node_5": {
+        "page_content": "2013年12月15日傍晚，我回到家后，径直走进自己的房间，关上门，躲在床上哭泣。母亲听到我的抽泣声，轻轻敲门走了进来。她坐在床边，轻声问我发生了什么事，并试图安慰我。但我心中充满了自责和无助，觉得自己让所有人失望了，不值得被关心。我把头埋进枕头里，不愿和母亲交流。",
+        "metadata": {
+            "node_id": "node_5",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我让所有人失望了，不值得被关心。",
+            "emotion": "自责、无助",
+            "behavior": "拒绝与母亲交流，埋头哭泣",
+            "physiological_response": "全身无力，哭泣导致呼吸急促",
+            "created_at": "2013-12-15 19:00:00"
+        }
+    },
+    "node_4": {
+        "page_content": "2013年12月15日上午，我坐在教室里，心情忐忑地等待着考试成绩的公布。班主任走进教室，严肃地宣布了成绩，当他提到我的名字时，声音变得更加严厉。他指责我没有努力，辜负了老师和父母的期望。全班同学的目光齐刷刷地投向我，我感到脸颊发烫，羞愧和自责涌上心头。",
+        "metadata": {
+            "node_id": "node_4",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够优秀，辜负了大家的期望。",
+            "emotion": "羞愧和自责，强烈的焦虑",
+            "behavior": "低头不敢看同学，想要逃避这片刻",
+            "physiological_response": "脸颊发烫，心跳加速，手心出汗",
+            "created_at": "2013-12-15 10:30:00"
+        }
+    },
+    "node_3": {
+        "page_content": "2013年12月10日晚上，我在家里的书桌前学习。母亲在厨房忙着做晚饭，房间里只听到我的翻书声和母亲切菜的声音。我心里想着要通过好成绩来得到父母的认可，脑海中不断重复着‘我不够优秀’的念头。晚饭后，我继续埋头苦读，直到深夜，感到越来越疲惫和焦虑。",
+        "metadata": {
+            "node_id": "node_3",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不努力，我永远都得不到父母的认可。",
+            "emotion": "焦虑和无助",
+            "behavior": "继续拼命学习，尽量不让自己停下来。",
+            "physiological_response": "心跳加速，头痛，身体疲惫不堪。",
+            "created_at": "2013-12-10 20:00:00"
+        }
+    },
+    "node_2": {
+        "page_content": "2012年6月18日晚上，我回到家后情绪低落地躺在床上，房间里贴满了我喜欢的画作，床上散乱着几本画册。母亲发现了我的异常，轻轻推开房门，走到我身边坐下，温柔地对我说：‘不要灰心，你已经画得很好了，下次会更好。’她的声音温暖了我一时，但我心里却依然觉得自己不够优秀。我勉强挤出一个笑容，点了点头，但内心深处的失落感并没有完全消失。",
+        "metadata": {
+            "node_id": "node_2",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "无论我多么努力，我还是不够好。",
+            "emotion": "失落和自卑",
+            "behavior": "勉强挤出一个笑容，点头回应，但内心深处的失落感没有完全消失。",
+            "physiological_response": "眼神疲惫，身体感觉沉重。",
+            "created_at": "2012-06-18 19:00:00"
+        }
+    },
+    "node_1": {
+        "page_content": "2012年6月18日下午3点半，我在教室里坐立不安，脑海里全是自己的绘画作品。阳光透过窗户照在桌面上，但我却觉得心里一片阴暗。老师开始宣布比赛结果，我的心跳得厉害。当听到自己的名字没有被叫到时，我的心情瞬间跌入谷底。周围同学在窃窃私语，似乎在讨论获奖者的作品，而我只能低着头，眼泪在眼眶里打转。我感到非常失落，觉得自己不够优秀，甚至怀疑自己的能力。",
+        "metadata": {
+            "node_id": "node_1",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不够优秀，我的作品不值得被认可。",
+            "emotion": "非常失落，怀疑自己的能力",
+            "behavior": "低头，避免与同学交流，默默流泪",
+            "physiological_response": "心跳加快，眼泪在眼眶里打转",
+            "created_at": "2012-06-18 15:30:00"
+        }
+    },
+    "node_0": {
+        "page_content": "2012年6月15日傍晚，我一个人坐在家里的客厅里，餐桌上散乱地堆放着画纸和颜料。父母还在工作，没有人陪伴我。我拿着画笔，一边画一边想着即将到来的绘画比赛。尽管我对比赛充满了期待，但心里却总是有些不安和孤独。房间里静得只能听到我自己的呼吸声和笔尖在纸上划过的声音。我希望父母能来看我画画，给我一些鼓励，但他们总是那么忙碌。",
+        "metadata": {
+            "node_id": "node_0",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "父母并不真正关心我的感受，我对他们来说并不重要。",
+            "emotion": "孤独和失落",
+            "behavior": "继续画画，但心不在焉，作品质量下降。",
+            "physiological_response": "心情沉重，肩膀僵硬，呼吸变浅。",
+            "created_at": "2012-06-15 17:00:00"
+        }
+    }
+}

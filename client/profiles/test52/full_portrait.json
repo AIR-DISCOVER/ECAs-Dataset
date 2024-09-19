@@ -1,0 +1,175 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "缺乏自信",
+            "容易烦躁",
+            "情绪化"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "面色苍白",
+            "眼神疲惫",
+            "头发略显凌乱"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "看电视剧",
+                "看小说",
+                "听音乐"
+            ],
+            "activity": [
+                "独自待在房间",
+                "偶尔散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "找到一份满意的工作，完成毕业设计",
+            "long_term_goals": "在职业生涯中找到自己的价值，获得认可"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后感到疲倦，难以集中注意力，常常在床上躺很久。白天大部分时间在宿舍里度过，偶尔去图书馆但很快感到烦躁。晚上睡眠时间正常，但白天依然感到疲倦。",
+            "weekends": "周末通常待在宿舍里，不愿意与人交往，偶尔会出去散步，但大部分时间都在看手机或发呆。"
+        },
+        "past_experiences": {
+            "childhood": "童年时期性格内向，喜欢独自玩耍，成绩中等。",
+            "adolescence": "中学时期成绩有所提升，但依然不太自信，常常感到压力大。与母亲关系较为紧张，母亲对其期望较高。",
+            "recent_events": "最近保研失败，找工作不顺利，导致情绪低落。与母亲因考研问题发生争吵，关系更加紧张。"
+        },
+        "environment": "出生在一个小城市，家庭经济状况一般。高中毕业后考入省城的一所大学，目前在大四，面临毕业和找工作的压力。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "陶学力的母亲对他期望很高，从小就对他的学习成绩非常关注。虽然母亲的关心有时让他感到压力，但他依然依赖母亲的支持。"
+                    ]
+                },
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "陶学力的父亲性格温和，对他的要求不多，更多的是默默支持。父亲在家庭中扮演着调和母子关系的角色。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        3
+                    ],
+                    "description": [
+                        "童年时期，陶学力有两个比较要好的朋友，他们常常一起玩耍，但由于陶学力性格内向，这些友谊并不深厚。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "中学时期，母亲对陶学力的期望更高，导致两人关系紧张。母亲希望他考上好大学，这让陶学力感到很大压力。"
+                    ]
+                },
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "父亲依然是家庭中的调和者，但由于工作忙碌，陪伴陶学力的时间减少。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "中学时期，陶学力结交了几位新朋友，但由于自卑和缺乏自信，他很难与他们建立深厚的友谊。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "有两位老师对陶学力的学习给予了很多帮助，但他总觉得自己达不到他们的期望。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "最近，陶学力与母亲因考研问题发生争吵，关系更加紧张。他觉得母亲不理解他的感受。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "大学期间，陶学力有一个比较要好的朋友，但由于最近情绪低落，他与朋友的联系减少了。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "带他的导师对他的毕业设计有很高的期望，但陶学力觉得自己无法达到这些期望，导致他感到压力很大。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "陶学力在不同阶段的社会关系发生了显著变化。童年时期，他依赖母亲的支持，但也感受到母亲的高期望带来的压力。中学时期，母亲的期望进一步增加，导致两人关系紧张。尽管父亲一直是家庭中的调和者，但由于工作忙碌，陪伴陶学力的时间减少。大学期间，陶学力的社会关系变得更加复杂，他与母亲的关系因考研问题进一步恶化，与朋友和导师的关系也因情绪低落和自卑感而受到影响。总体来看，陶学力的社会关系在各个阶段都受到他内向、敏感和缺乏自信的性格影响，导致他在建立和维持深厚友谊方面遇到困难。"
+    }
+}

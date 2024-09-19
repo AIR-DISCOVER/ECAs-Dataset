@@ -1,0 +1,175 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自我要求高",
+            "容易焦虑",
+            "善良"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "皮肤较白",
+            "头发略长"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "看电影",
+                "散步"
+            ],
+            "activity": [
+                "和朋友一起去图书馆",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "顺利通过考研，进入理想的研究生院",
+            "long_term_goals": "成为一名优秀的学者，能够在学术领域有所建树"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，吃完早餐后去图书馆或自习室学习，午饭后继续学习，晚上回宿舍休息。",
+            "weekends": "周末会稍微放松一下，可能会和朋友出去散步，或者在宿舍看电影、听音乐。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，从小就被要求好好学习。",
+            "adolescence": "中学时期成绩优异，但也因此感受到很大的压力，常常为了考试而熬夜。",
+            "recent_events": "最近因为考研压力，感到注意力难以集中，自信心下降，情绪焦躁。"
+        },
+        "environment": "出生在一个小城市，家庭环境较为普通。高中毕业后考入省会城市的一所大学，目前正在准备考研。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "俞彬豪的父亲是一名工厂工人，工作繁忙，但对儿子的学习非常关心。父亲常常在工作之余陪伴俞彬豪做作业，虽然时间有限，但每次的陪伴都让俞彬豪感到温暖。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "俞彬豪的母亲是一名小学教师，对儿子的教育非常严格。她常常在俞彬豪的学习上给予指导和帮助，但也因此给了他很大的压力。母亲的期望让俞彬豪既感到动力，也感到负担。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "俞彬豪在小学时有两个好朋友，他们常常一起玩耍和学习。虽然关系亲密，但随着时间的推移和学业的压力，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入中学后，俞彬豪与父亲的交流减少，父亲的工作依然繁忙，但他依然关心儿子的学习成绩。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲在俞彬豪的中学时期依然严格要求他，但也开始注意到儿子的压力，尝试给予更多的心理支持。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "俞彬豪在中学时期结识了几位同学，他们一起学习和讨论问题，但由于俞彬豪的内向性格，深交的朋友不多。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "考研期间，俞彬豪与父亲的交流更少，父亲依然关心他的学习，但俞彬豪不愿意让父亲知道自己的压力。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲依然关注俞彬豪的学习情况，但俞彬豪不愿意让母亲知道自己的焦虑和压力，害怕让她失望。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "俞彬豪有两位考研的朋友，他们偶尔会一起讨论学习问题，但俞彬豪因为自信心下降，逐渐减少了与他们的交流。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "俞彬豪最近开始与心理咨询师交流，咨询师给予了他很多支持和建议，帮助他缓解焦虑情绪。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "俞彬豪的社交关系在不同阶段有明显变化。童年时期，他与父母和朋友的关系较为亲密，但随着学业压力的增加，特别是进入中学和大学后，他的社交圈逐渐缩小。考研期间，俞彬豪的社交活动进一步减少，主要因为自信心下降和焦虑情绪。他开始依赖心理咨询师的帮助，尝试重新建立自信和社交联系。"
+    }
+}

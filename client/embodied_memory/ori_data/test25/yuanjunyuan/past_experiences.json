@@ -1,0 +1,440 @@
+{
+    "childhood": {
+        "name": "袁珺园",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "当我五岁生日那天，爸爸忘记了我的生日，妈妈却在晚上给我准备了一个小蛋糕。虽然妈妈很努力地补救，但我还是感到失落。我问妈妈，为什么爸爸不记得我的生日。妈妈安慰我说，爸爸工作很忙，但我还是忍不住哭了。",
+                "location": "家里的客厅",
+                "happen_time": "2009年08月",
+                "participants": "袁珺园，妈妈",
+                "impact": "我开始觉得自己不够重要，形成了“我不够好”的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学一年级的期末考试，我得了全班第一。老师在全班同学面前表扬了我，但有几个同学在课后嘲笑我，说我是老师的宠儿。我感到很困惑，不知道是该高兴还是伤心。",
+                "location": "小学教室",
+                "happen_time": "2010年01月",
+                "participants": "袁珺园，老师，同学们",
+                "impact": "我开始认为，即使我表现得很好，也可能会被他人误解和嘲笑，形成了“他人不会真正理解我”的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我参加了学校的数学比赛，尽管努力准备，但是只得了第三名。回家后，我告诉妈妈，她虽然鼓励我，但我能看出她有些失望。我心里觉得自己没能达到她的期望。",
+                "location": "家里的厨房",
+                "happen_time": "2012年06月",
+                "participants": "袁珺园，妈妈",
+                "impact": "我开始认为自己需要不断努力，才能弥补自己的不足，形成了“我需要依靠自己”的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，我的好朋友李倩和我闹翻了，只因为我在一次小测验中得了比她高的分数。她说我太爱出风头了，不再和我说话。那段时间我非常孤单，不知道该如何处理友谊和竞争之间的关系。",
+                "location": "小学操场",
+                "happen_time": "2013年11月",
+                "participants": "袁珺园，李倩",
+                "impact": "我开始对友谊产生怀疑，认为朋友们可能不可靠，形成了“朋友们可能不可靠”的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，妈妈生病住院，我和爸爸一起去医院照顾她。那段时间，爸爸让我自己做作业，自己准备午饭。我感到很疲惫，但也觉得自己在变得更独立。",
+                "location": "家里和医院",
+                "happen_time": "2014年05月",
+                "participants": "袁珺园，爸爸，妈妈",
+                "impact": "我开始觉得自己必须独立解决问题，不能依靠别人，进一步强化了“我需要依靠自己”的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我在一次全校公开演讲比赛中获得第一名。老师和父母都为我感到骄傲，那一刻我觉得自己真的有能力达成目标。",
+                "location": "学校礼堂",
+                "happen_time": "2015年10月",
+                "participants": "袁珺园，老师，父母，同学们",
+                "impact": "我增强了对自己能力的信心，形成了“我有能力达成目标”的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我坐在房间里，听见客厅里爸爸和妈妈又开始吵架了。那天他们吵得特别凶，妈妈声音都哑了。我透过门缝偷偷看见，爸爸摔了杯子，玻璃碎了一地。",
+                "location": "家里客厅",
+                "happen_time": "2012年03月",
+                "participants": "袁珺园，爸爸，妈妈",
+                "impact": "我开始觉得情感问题是复杂和痛苦的，世界对我的感受并不关心，形成了“世界对我的感受并不关心”的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "小学二年级时，我的老师在一次班会上公开表扬了我的作文，说我是班里写得最好的。这让我感到非常自豪，也让我相信自己的努力是值得的。",
+                "location": "小学教室",
+                "happen_time": "2011年04月",
+                "participants": "袁珺园，老师，同学们",
+                "impact": "我开始相信自己的能力，形成了“我有能力达成目标”的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班里一个同学因为考试成绩不好，被老师当众批评。他低着头，眼泪在眼眶里打转，我看到他的难过，心里也感到不安。",
+                "location": "小学教室",
+                "happen_time": "2012年10月",
+                "participants": "袁珺园，老师，同学",
+                "impact": "我开始害怕犯错，担心自己如果表现不好也会被批评，形成了“我必须尽量避免犯错”的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，我一次数学测验中只得了60分，回家后妈妈非常生气，她说我最近学习态度不端正，让我反省。那天晚上，我独自一个人在房间里哭泣，感到非常失落。",
+                "location": "家里的厨房",
+                "happen_time": "2013年06月",
+                "participants": "袁珺园，妈妈",
+                "impact": "我开始认为自己不够好，总是做得不够好，无法达到父母的期望，形成了“我总是做得不够好，无法达到父母的期望”的中间信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我和朋友们一起去郊游。在一次攀爬活动中，我差点从高处摔下来，幸亏朋友及时拉住了我。那一刻，我感到朋友的重要性和依赖的价值。",
+                "location": "郊外",
+                "happen_time": "2014年09月",
+                "participants": "袁珺园，朋友们",
+                "impact": "我开始重新思考依赖和独立的关系，尽管依靠别人让我感到软弱，但也意识到有时候寻求帮助是必要的。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我的父母为我举办了一次生日派对，邀请了几个好朋友。那天，我感到非常幸福，觉得自己是被爱和关心的。",
+                "location": "家里客厅",
+                "happen_time": "2015年08月",
+                "participants": "袁珺园，父母，朋友们",
+                "impact": "我感受到亲情和友情的重要性，虽然有时觉得他人不会真正理解我，但还是感受到被关心的温暖。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我在一次学校的大型活动中担任主持人。尽管一开始非常紧张，但在父母和老师的鼓励下，我顺利完成了任务，赢得了大家的掌声。",
+                "location": "学校礼堂",
+                "happen_time": "2015年12月",
+                "participants": "袁珺园，父母，老师，同学们",
+                "impact": "我增强了自信心，认为自己有能力面对挑战和取得成功，进一步强化了“我有能力达成目标”的核心信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的小孩因为不听话，被家长打骂。那个小孩哭得很厉害，我感到非常难过，觉得世界对孩子们很苛刻。",
+                "location": "邻居家门口",
+                "happen_time": "2011年08月",
+                "participants": "袁珺园，邻居家的小孩",
+                "impact": "我开始觉得世界对我的要求很高，很难满足，形成了“世界对我的要求很高，我很难满足”的中间信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到妈妈在晚上偷偷流泪，我问她发生了什么事，她只是说没事，让我早点睡觉。我感到很无助，也开始觉得有些事情是我无法理解和解决的。",
+                "location": "家里的客厅",
+                "happen_time": "2013年12月",
+                "participants": "袁珺园，妈妈",
+                "impact": "我开始觉得情感问题是复杂和痛苦的，形成了“我应该避免向父母和朋友透露真实感受”的中间信念。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "袁珺园",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在初中毕业考试中，我的数学成绩出人意料地低于预期。这让我感到非常失望和沮丧，觉得自己不够好，无法达到自己的期望。",
+                "location": "学校考场",
+                "happen_time": "2017年6月",
+                "participants": "班主任、同学",
+                "impact": "这次考试失败强化了我对自己的负面信念，觉得自己总是做得不够好，开始对自己失去信心。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "进入高中后，我发现学习压力骤然增大，尤其是面对大量的作业和考试，感到非常焦虑和紧张。",
+                "location": "高中的教室和宿舍",
+                "happen_time": "2017年9月",
+                "participants": "高中同学、老师",
+                "impact": "这种压力让我更加坚信世界对我的要求很高，我必须不断努力才能弥补自己的不足。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "在一次班级讨论中，我提出了一个自己的观点，但被同学们否定和嘲笑，令我感到非常尴尬和难过。",
+                "location": "高中的教室",
+                "happen_time": "2018年3月",
+                "participants": "同班同学",
+                "impact": "这次经历让我感到他人不会真正理解我，我开始回避在公开场合表达自己。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "高二时的一次月考，我的成绩排在了全班前三名，老师公开表扬了我。",
+                "location": "高中的教室",
+                "happen_time": "2019年5月",
+                "participants": "班主任、同学",
+                "impact": "这次表扬让我短暂地感受到被认可的喜悦，但同时也给我带来了更大的压力，觉得必须全力以赴才能保持这种成绩。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在一次实验课上，我独自解决了一个难题，得到老师的称赞。",
+                "location": "高中的实验室",
+                "happen_time": "2019年10月",
+                "participants": "实验课老师、同学",
+                "impact": "这次成功让我感受到自己有能力面对挑战，增强了我的信心，但同时也让我更倾向于独立解决问题，不愿寻求帮助。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次我看到好朋友在课间哭泣，她告诉我她因为成绩不佳被父母责骂。",
+                "location": "高中的走廊",
+                "happen_time": "2020年1月",
+                "participants": "好朋友",
+                "impact": "这次经历让我意识到他人的苦恼和压力，但也强化了我对世界苛刻的认知，认为自己不能犯错，否则会面临同样的责难。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "看到一位同学因为在课堂上回答错误而被老师批评，他显得非常尴尬和无助。",
+                "location": "高中的教室",
+                "happen_time": "2020年3月",
+                "participants": "老师、同学",
+                "impact": "这次事件让我更加害怕在公众场合犯错，担心自己会被批评和贬低。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "高三时，我的一位好朋友因为家庭原因转学离开，这让我感到非常失落和孤独。",
+                "location": "高中的教室和宿舍",
+                "happen_time": "2020年9月",
+                "participants": "好朋友、班主任",
+                "impact": "这次离别让我更加觉得他人不会真正理解我，开始更加封闭自己，不愿意轻易与人建立深厚的关系。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "高考前夕，我感到巨大的压力和焦虑，几乎每天夜里都失眠，生怕自己会考不好。",
+                "location": "高中的宿舍",
+                "happen_time": "2021年5月",
+                "participants": "室友、父母",
+                "impact": "这种高压状态让我更加坚定必须全力以赴才能有好结果的信念，同时也感到他人无法真正理解我的感受。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "高考结束后，我的成绩超出了预期，这让我感到非常欣喜，但也感到一种前所未有的空虚和迷茫。",
+                "location": "高中的教室和家中",
+                "happen_time": "2021年6月",
+                "participants": "父母、老师",
+                "impact": "这次成功让我短暂地感到满足，但同时也让我怀疑自己在没有压力的情况下是否还能表现出色。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会中，我看到父母因为琐事争吵，感到家庭关系并不如表面那么和谐。",
+                "location": "家中",
+                "happen_time": "2021年8月",
+                "participants": "父母",
+                "impact": "这次争吵让我对依赖他人产生了更大的怀疑，认为只有依靠自己才能解决问题。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "进入大学后，生活环境的变化和新的学业挑战使我感到前所未有的压力和不适应。",
+                "location": "大学校园",
+                "happen_time": "2021年9月",
+                "participants": "大学同学、教授",
+                "impact": "这种适应不良让我更加依赖自己的能力，认为必须独自面对和解决所有问题，同时感到与他人难以建立深厚的联系。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在一次科研项目中，我因为实验数据错误而受到教授的批评，感到非常沮丧和自责。",
+                "location": "大学实验室",
+                "happen_time": "2022年3月",
+                "participants": "教授、科研团队成员",
+                "impact": "这次批评让我更加害怕犯错，强化了我必须避免错误才能减少批评的信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "我看到一位室友因为科研进展缓慢而崩溃大哭，她的情绪失控让我感到科研压力的巨大。",
+                "location": "大学宿舍",
+                "happen_time": "2022年5月",
+                "participants": "室友",
+                "impact": "这次观察让我对科研压力的认知更为深刻，同时也增强了我对自己独立应对挑战的决心。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "在一次与朋友的聚餐中，我感到自己对很多话题失去了兴趣，整个人显得心不在焉。",
+                "location": "大学附近的餐厅",
+                "happen_time": "2022年7月",
+                "participants": "朋友",
+                "impact": "这次聚餐让我意识到自己兴趣的减少和社交能力的退化，感到非常困惑和无奈。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "袁珺园",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我进入大学后的第一次期中考试成绩不理想，感到非常沮丧和焦虑。",
+                "location": "大学校园",
+                "happen_time": "2022年10月",
+                "participants": "袁珺园，大学同学",
+                "impact": "这次考试结果强化了她的核心信念'我不够好'，加重了她的焦虑和抑郁情绪。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "参加实验室的科研项目，感到压力巨大，无法完成任务。",
+                "location": "大学实验室",
+                "happen_time": "2023年1月",
+                "participants": "袁珺园，导师",
+                "impact": "科研压力使她的核心信念'我需要依靠自己'变得更强烈，进一步加重了抑郁状态。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次学术讨论会上，发现自己无法跟上讨论的节奏，感到极度自卑。",
+                "location": "大学会议室",
+                "happen_time": "2023年3月",
+                "participants": "袁珺园，导师，学姐，其他同学",
+                "impact": "这种自卑感强化了她的中间信念'我总是做得不够好，无法达到别人的期望'，导致她进一步封闭自己。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "与舍友发生了矛盾，感到被孤立和误解。",
+                "location": "大学宿舍",
+                "happen_time": "2023年5月",
+                "participants": "袁珺园，舍友",
+                "impact": "与舍友的矛盾让她的核心信念'他人不会真正理解我'变得更强烈，进一步加重了孤独感。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在导师的压力下，感到自己无法完成科研项目，产生了强烈的无力感。",
+                "location": "大学实验室",
+                "happen_time": "2023年7月",
+                "participants": "袁珺园，导师",
+                "impact": "无力感强化了她的中间信念'我需要不断努力，才能弥补自己的不足'，导致她过度劳累和精神紧张。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与学姐的聊天中，学姐表示对她的科研项目有帮助，但她不敢主动寻求。",
+                "location": "大学咖啡厅",
+                "happen_time": "2023年9月",
+                "participants": "袁珺园，学姐",
+                "impact": "她的核心信念'我需要依靠自己'阻碍了她寻求有效的社交支持，增加了孤独感和压力。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "导师对她的科研进展表示不满，感到极度挫败。",
+                "location": "大学实验室",
+                "happen_time": "2023年11月",
+                "participants": "袁珺园，导师",
+                "impact": "挫败感强化了她的中间信念'如果我失败，我会被贬低'，进一步加重了她的抑郁状态。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次聚餐中，朋友们谈论各自的兴趣爱好，她发现自己对任何事情都提不起兴趣。",
+                "location": "餐厅",
+                "happen_time": "2024年1月",
+                "participants": "袁珺园，朋友们",
+                "impact": "兴趣低下让她的核心信念'我不够好'更加坚定，进一步加重了抑郁状态。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次重要的科研展示会上，感到自己表现不佳，感到羞愧和无力。",
+                "location": "大学会议中心",
+                "happen_time": "2024年3月",
+                "participants": "袁珺园，导师，其他科研人员",
+                "impact": "羞愧和无力感强化了她的中间信念'他人会注意到我的错误'，进一步加重了焦虑和抑郁。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到学姐在实验室里也感到压力巨大，但学姐能够积极应对，感到自己不如她。",
+                "location": "大学实验室",
+                "happen_time": "2024年4月",
+                "participants": "袁珺园，学姐",
+                "impact": "她的核心信念'我不够好'被进一步强化，感到自己无法应对压力，增加了无力感。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "观察到舍友与家人视频通话，感到自己与家人沟通不足，产生孤独感。",
+                "location": "大学宿舍",
+                "happen_time": "2024年5月",
+                "participants": "袁珺园，舍友",
+                "impact": "孤独感强化了她的核心信念'他人不会真正理解我'，进一步加重了抑郁状态。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次实验失败后，感到自己再也无法坚持下去，产生极度的挫败感。",
+                "location": "大学实验室",
+                "happen_time": "2024年6月",
+                "participants": "袁珺园，导师",
+                "impact": "挫败感强化了她的中间信念'如果我失败，我会被贬低'，导致抑郁情绪更加严重。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到同学在社交媒体上分享快乐的时光，感到自己的生活黯淡无光。",
+                "location": "大学宿舍",
+                "happen_time": "2024年7月",
+                "participants": "袁珺园，同学",
+                "impact": "她的核心信念'我不够好'被进一步强化，感到生活缺乏意义，增加了抑郁情绪。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在学期结束时，发现自己的科研项目没有达到预期，感到极度挫败和无助。",
+                "location": "大学实验室",
+                "happen_time": "2024年8月",
+                "participants": "袁珺园，导师",
+                "impact": "挫败感使她的核心信念'我不够好'和'我需要依靠自己'变得更加坚定，进一步加重了抑郁状态。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到导师对其他同学的赞扬，感到自己得不到认可，产生强烈的自卑感。",
+                "location": "大学实验室",
+                "happen_time": "2024年9月",
+                "participants": "袁珺园，导师，其他同学",
+                "impact": "自卑感强化了她的中间信念'我总是做得不够好，无法达到别人的期望'，进一步加重了抑郁情绪。"
+            }
+        ]
+    }
+}

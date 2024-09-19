@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不值得被爱。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我是无能的。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我必须完美才能被接受。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我有能力面对挑战。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不被爱，那是因为我不值得被爱。",
+                "others": "他人不会真正爱我。",
+                "world": "这个世界上没有人会无条件地爱我。"
+            },
+            "rules": "我应该避免与他人建立深厚的情感联系。",
+            "positive_assumption": "如果我避免深厚的情感联系，我就不会受伤。",
+            "negative_assumption": "如果我尝试建立深厚的情感联系，我会被拒绝和伤害。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得被爱，因此我不应该期待他人对我好。",
+                "others": "他人会发现我不值得被爱，最终会离开我。",
+                "world": "这个世界对我来说是冷漠和无情的。"
+            },
+            "rules": "我应该降低对他人好意的期待。",
+            "positive_assumption": "如果我降低期待，我就不会感到失望。",
+            "negative_assumption": "如果我对他人期待过高，我会被抛弃。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法胜任自己的工作和生活。",
+                "others": "他人比我更有能力。",
+                "world": "这个世界充满了我无法应对的挑战。"
+            },
+            "rules": "我应该避免承担过多责任。",
+            "positive_assumption": "如果我避免承担责任，我就不会失败。",
+            "negative_assumption": "如果我承担责任，我会显得无能并失败。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我没有能力做好自己的工作。",
+                "others": "他人对我没有信心。",
+                "world": "这个世界对无能的人没有容忍。"
+            },
+            "rules": "我应该尽量避免暴露我的无能。",
+            "positive_assumption": "如果我隐藏我的无能，别人就不会看低我。",
+            "negative_assumption": "如果我暴露我的无能，我会被轻视和排斥。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我只有表现得完美才能被接受。",
+                "others": "他人只会接受完美的人。",
+                "world": "这个世界对不完美的人没有耐心。"
+            },
+            "rules": "我应该尽量表现得完美。",
+            "positive_assumption": "如果我完美，我就会被接受和认可。",
+            "negative_assumption": "如果我不完美，我会被拒绝和批评。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不能容忍自己的错误。",
+                "others": "他人会因为我的错误而拒绝我。",
+                "world": "这个世界对错误没有宽容。"
+            },
+            "rules": "我应该避免犯错。",
+            "positive_assumption": "如果我不犯错，我就会被认可。",
+            "negative_assumption": "如果我犯错，我会被拒绝和批评。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力解决问题，并面对生活中的挑战。",
+                "others": "他人可以给予我帮助，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我能克服困难，实现我的目标。",
+                "others": "他人可以提供帮助，但最终需要依靠自己。",
+                "world": "世界充满挑战，但我有能力克服。"
+            },
+            "rules": "我应该积极主动地应对生活中的问题。",
+            "positive_assumption": "如果我积极应对，我就会取得成功。",
+            "negative_assumption": "如果我消极回避，我将错失成功的机会。"
+        }
+    ]
+}

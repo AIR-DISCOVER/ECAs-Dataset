@@ -1,0 +1,142 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "悲观",
+            "缺乏自信",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "瘦弱",
+            "面色苍白",
+            "眼神疲惫",
+            "头发略显凌乱"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐"
+            ],
+            "activity": [
+                "独自一人听音乐",
+                "在安静的地方阅读",
+                "偶尔画画"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "能够顺利完成学业，恢复正常的学习状态",
+            "long_term_goals": "找到一份自己喜欢的工作，能够自信地面对生活"
+        },
+        "daily_life": {
+            "routine": "每天早上勉强起床，强迫自己去上课，但注意力难以集中。下午通常在图书馆或宿舍里独自待着，晚上回到宿舍后常常失眠或做噩梦。",
+            "weekends": "周末大部分时间都在宿舍里，偶尔会去图书馆，但很少与同学交流。"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格活泼，但由于父母工作忙碌，缺乏足够的陪伴和关爱。",
+            "adolescence": "中学时期成绩优异，但由于学习压力大，逐渐变得内向和自卑。",
+            "recent_events": "最近由于课程难度增加，感到无力应对，逐渐失去对学习和生活的兴趣。"
+        },
+        "environment": "出生在一个小城市，父母都是普通职员。高中毕业后考入省城的一所大学，但由于适应不良和学习压力，逐渐陷入抑郁。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "父母工作忙碌，缺乏足够的陪伴和关爱。尽管如此，他们仍然关心和琰思的成长，但由于时间有限，和琰思常常感到孤独。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "小时候性格活泼，和琰思有几个亲密的朋友。她们常常一起玩耍，分享秘密，但随着时间的推移，这些友谊逐渐淡化。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期成绩优异，但由于学习压力大，和琰思逐渐变得内向和自卑。她与同学的关系变得疏远，更多时间独自学习。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "和琰思的老师们对她的学业表现给予了高度评价，但由于她的内向性格，师生之间的互动较少。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "description": [
+                        "进入大学后，和琰思由于适应不良和学习压力，逐渐陷入抑郁。她与大学同学的关系非常疏远，几乎没有社交活动。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "和琰思开始寻求心理咨询师的帮助，希望能够通过专业的指导来缓解自己的抑郁症状。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "和琰思的社交能力和意愿在不同阶段发生了显著变化。童年时期，她性格活泼，有几个亲密的朋友，但由于父母工作忙碌，缺乏足够的陪伴和关爱。进入中学后，学习压力使她逐渐变得内向和自卑，与同学的关系变得疏远。进入大学后，适应不良和学习压力使她陷入抑郁，与大学同学的关系非常疏远，几乎没有社交活动。最近，她开始寻求心理咨询师的帮助，希望能够通过专业的指导来缓解自己的抑郁症状。"
+    }
+}

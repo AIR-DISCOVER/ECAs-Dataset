@@ -1,0 +1,192 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "自我要求高",
+            "敏感"
+        ],
+        "appearance": [
+            "中等身高",
+            "纤细",
+            "清秀",
+            "长发",
+            "穿着简约"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "绘画",
+                "听音乐",
+                "散步"
+            ],
+            "activity": [
+                "和朋友聊天",
+                "周末去公园散步",
+                "在家里画画"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提升自我价值感，找到自己擅长的领域",
+            "long_term_goals": "成为一个对社会有贡献的人，找到一份自己热爱的工作"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，进行简单的晨练，然后开始一天的学习或工作。晚上会花时间阅读或写作，10点左右上床睡觉。",
+            "weekends": "周末通常会和朋友见面，去公园散步，或者在家里画画和听音乐。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但因为自我要求高，经常感到压力大。曾经因为一次考试失利而感到非常沮丧。",
+            "recent_events": "最近在工作中遇到了一些挑战，虽然能够完成任务，但总觉得自己做得不够好，导致心情低落。"
+        },
+        "environment": "出生在一个中等城市，从小在这里长大。中学和大学都在本地完成，家庭环境相对稳定，但父母对她的期望较高。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "水亚悦的父亲是一位严肃但关心家庭的人，他对女儿的期望很高，经常督促她学习。虽然父亲的严厉让她感到压力，但她也知道这是出于爱。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "水亚悦的母亲温柔体贴，总是尽力支持她的梦想。母亲是她的避风港，在她感到压力时，总能给予安慰和鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "童年的朋友们和她一起玩耍、学习，虽然关系没有特别深厚，但在她的成长过程中扮演了重要角色。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "在中学时期，父亲的期望和压力让水亚悦感到更加紧张，父女关系变得有些紧张。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是她的支持者，但有时也会因为父亲的严厉而感到无奈。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        5
+                    ],
+                    "description": [
+                        "中学时期的朋友们和她一起度过了许多难忘的时光，特别是一个最好的朋友，总是能理解她的感受，给予她支持。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "一些老师对她的表现给予了肯定和鼓励，帮助她在学业上取得进步。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "虽然父亲依然对她有很高的期望，但随着她的成长，父女关系有所缓和。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲依然是她最亲近的人，总是关心她的生活和情感状态。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        5,
+                        3
+                    ],
+                    "description": [
+                        "她的朋友们依然是她生活中重要的一部分，特别是一个最好的朋友，总是能在她需要时给予支持和鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "工作中的同事们和她保持着良好的关系，虽然不算特别亲密，但在工作上给予了她不少帮助。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "水亚悦的社交关系在不同阶段有着明显的变化。童年时期，她的社交圈主要集中在家庭和少数朋友之间。进入中学后，随着学业压力的增加，她的社交圈逐渐扩大，但也因为自我要求高而感到压力。最近，她的社交关系更加多样化，除了家庭和朋友外，工作中的同事也成为她生活中的一部分。尽管她在社交方面有时感到不自信，但她依然努力维持和发展这些关系。"
+    }
+}

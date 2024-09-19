@@ -1,0 +1,183 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "善良",
+            "有责任心",
+            "有些害羞"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "写作",
+                "散步"
+            ],
+            "activity": [
+                "周末去公园散步",
+                "和朋友一起看电影"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能和喜欢的人有更多的交流，改善自己的睡眠质量",
+            "long_term_goals": "成为一名成功的作家，写出能够打动人心的作品"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，白天上课和自习，晚上10点左右上床睡觉，但通常需要两个小时才能入睡",
+            "weekends": "周末喜欢去公园散步，偶尔和朋友一起看电影，更多时间用来阅读和写作"
+        },
+        "past_experiences": {
+            "childhood": "小时候在一个小城市长大，家庭和睦，父母对他期望很高",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多，更多时间用在学习和阅读上",
+            "recent_events": "最近喜欢上一个人，但对方似乎对他不太积极，这让他有些失落，导致了轻微的情绪波动和睡眠问题"
+        },
+        "environment": "出生在一个小城市，家庭和睦，父母对他期望很高。现在在一所大学读书，住在学校宿舍，生活环境相对稳定。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "郝力胜的父亲是一名工程师，工作繁忙，但总是尽量抽出时间陪伴他。父亲对郝力胜的期望很高，希望他能在学业上取得优异成绩。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "郝力胜的母亲是一名小学教师，性格温和，对郝力胜的关爱无微不至。她常常鼓励郝力胜追求自己的兴趣爱好，尤其是阅读和写作。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "郝力胜在小学时有两个好朋友，他们经常一起玩耍和学习。虽然关系不错，但由于郝力胜性格内向，朋友之间的互动相对有限。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "进入中学后，郝力胜与父亲的关系稍有疏远，主要是因为学业压力增大，父亲对他的期望也更高。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲依然是郝力胜最亲近的人，她在郝力胜的学习和生活中给予了很多支持和鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "中学时期，郝力胜的朋友不多，只有一个关系较好的同学。他们经常一起讨论学习问题，但郝力胜更喜欢独处。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "郝力胜的两位老师对他影响很大，一位是语文老师，另一位是数学老师。他们不仅在学业上给予指导，还在生活中给予关心。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "喜欢的人",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "郝力胜最近喜欢上了一个同班同学，但对方对他的态度不太积极，这让他感到有些失落。"
+                    ]
+                },
+                {
+                    "relationship": "室友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "郝力胜的两位室友关系一般，虽然住在一起，但互动不多。室友们性格外向，喜欢参加各种社交活动，而郝力胜则更喜欢安静的环境。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "郝力胜有一个关系较好的朋友，他们经常一起去公园散步和看电影。这个朋友是郝力胜在大学里为数不多的知心人。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "郝力胜的导师对他非常关心，不仅在学业上给予指导，还在生活中提供建议。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "郝力胜在不同阶段的社交关系有明显变化。童年时期，他与父母和朋友的关系较为亲密，但进入中学后，由于学业压力和性格内向，他的社交圈逐渐缩小。进入大学后，虽然结识了一些新朋友，但他依然更喜欢独处。最近的情感波动让他更加敏感和内向，但他也在努力通过阅读、写作和散步来排解内心的忧虑。"
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我是没有价值的。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我需要依赖他人。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我不值得被关心。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我可以找到生活的意义。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法完成任何有意义的事情。",
+                "others": "他人不会真正认可我的价值。",
+                "world": "这个世界对我来说是无望的。"
+            },
+            "rules": "我应该避免尝试新的事情，以免失败。",
+            "positive_assumption": "如果我不尝试，我就不会失败。",
+            "negative_assumption": "如果我尝试了，我一定会失败并证明自己没有价值。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是觉得自己不够好。",
+                "others": "他人总是在审视我的缺点。",
+                "world": "这个世界对我来说充满了批评。"
+            },
+            "rules": "我应该尽量隐藏自己的缺点，避免被发现。",
+            "positive_assumption": "如果我隐藏我的缺点，我就不会被批评。",
+            "negative_assumption": "如果我的缺点被发现，我会被他人看不起。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法独立解决问题。",
+                "others": "他人比我更有能力和智慧。",
+                "world": "这个世界对我来说太复杂了，我需要他人的帮助。"
+            },
+            "rules": "我应该尽量依赖他人，避免自己做决定。",
+            "positive_assumption": "如果我依赖他人，我会更安全。",
+            "negative_assumption": "如果我自己做决定，我会犯错误并陷入困境。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要他人的支持才能度过难关。",
+                "others": "他人是我生活中不可或缺的一部分。",
+                "world": "这个世界对我来说是陌生和充满挑战的。"
+            },
+            "rules": "我应该尽量寻求他人的帮助和支持。",
+            "positive_assumption": "如果我寻求帮助，我会得到支持。",
+            "negative_assumption": "如果我不寻求帮助，我会感到孤立无援。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得被别人关心。",
+                "others": "他人不会真心关心我。",
+                "world": "这个世界对我来说是冷漠的。"
+            },
+            "rules": "我应该尽量避免依赖他人的关心。",
+            "positive_assumption": "如果我不依赖他人的关心，我就不会失望。",
+            "negative_assumption": "如果我依赖他人的关心，我会被忽视。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法让别人真正关心我。",
+                "others": "他人对我的关心只是表面的。",
+                "world": "这个世界上没有真正的关心。"
+            },
+            "rules": "我应该尽量独立，不期望他人的关心。",
+            "positive_assumption": "如果我不期望他人的关心，我就不会受伤。",
+            "negative_assumption": "如果我期望他人的关心，我会感到失望。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力找到自己的价值。",
+                "others": "他人可以帮助我发现生活的意义。",
+                "world": "这个世界充满了机会和可能性。"
+            },
+            "rules": "我应该主动寻找能够让我感到有意义的事情。",
+            "positive_assumption": "如果我主动寻找，我会找到生活的意义。",
+            "negative_assumption": "如果我不主动寻找，我会一直感到空虚。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力恢复自信。",
+                "others": "他人愿意支持我。",
+                "world": "这个世界对我来说是充满希望的。"
+            },
+            "rules": "我应该积极尝试新的事情，逐步建立自信。",
+            "positive_assumption": "如果我积极尝试，我会逐步恢复自信。",
+            "negative_assumption": "如果我不尝试，我会一直缺乏自信。"
+        }
+    ]
+}

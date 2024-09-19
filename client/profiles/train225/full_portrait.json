@@ -1,0 +1,165 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "有点缺乏自信"
+        ],
+        "appearance": [
+            "中等身高",
+            "苗条",
+            "清秀",
+            "有一双大眼睛"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "跑步",
+                "阅读",
+                "烹饪",
+                "听音乐"
+            ],
+            "activity": [
+                "和朋友一起跑步",
+                "周末去公园散步",
+                "尝试新食谱"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "找到一个合适的男朋友，提升自信心",
+            "long_term_goals": "建立一个幸福的家庭，找到一份自己喜欢的工作"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，跑步半小时，然后吃早餐。白天在家里做一些家务，阅读书籍，或者尝试新食谱。晚上会听音乐放松自己。",
+            "weekends": "周末通常会和朋友一起去公园散步，或者参加一些社交活动。偶尔会去看电影或者参加一些兴趣班。"
+        },
+        "past_experiences": {
+            "childhood": "在一个普通的家庭长大，父母关系和睦，从小就喜欢跑步和阅读。",
+            "adolescence": "中学时期成绩中等，但有几个好朋友。曾经参加过学校的跑步比赛并获得奖项。",
+            "recent_events": "最近几次相亲失败，导致自信心有所下降，但仍然保持积极的生活态度。"
+        },
+        "environment": "出生在一个小城市，家庭环境温馨。中学毕业后一直在家里生活，偶尔会去大城市旅游。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "蒋枫舒的父母关系和睦，对她非常关爱。父亲是一名教师，母亲是一名护士，他们从小就鼓励她追求自己的兴趣和梦想。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "蒋枫舒在小学时有三个好朋友，他们经常一起玩耍和学习。虽然其中一个朋友后来搬家了，但他们仍然保持联系。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "在中学时期，蒋枫舒的父母依然是她最亲近的人。他们支持她参加跑步比赛，并为她的每一次进步感到骄傲。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学时期，蒋枫舒结交了几个新朋友，他们一起学习、跑步和参加学校活动。这些朋友对她的成长起到了积极的影响。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "蒋枫舒的班主任和体育老师对她的成长有很大帮助。班主任鼓励她在学业上努力，而体育老师则帮助她在跑步方面取得了优异的成绩。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "蒋枫舒的父母依然是她生活中的重要支柱。他们关心她的情感生活，并鼓励她保持积极的心态。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "蒋枫舒的朋友们依然是她的重要支持系统。他们经常一起跑步、散步和参加社交活动，帮助她缓解压力。"
+                    ]
+                },
+                {
+                    "relationship": "相亲对象",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "最近的几次相亲经历让蒋枫舒感到有些失落。虽然她和这些男生并没有深入了解，但这些经历让她对自己的情感生活产生了怀疑。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "蒋枫舒的社交圈在不同阶段有一定的变化。童年时期，她主要依赖父母和几个好朋友。进入中学后，她的社交圈扩大，结交了更多的朋友和老师。最近，她的社交活动更多集中在相亲和与朋友的互动上。虽然相亲经历让她有些失落，但她依然保持积极的心态，并通过与朋友和家人的互动来缓解压力。"
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "诚实",
+            "有责任感",
+            "内向"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "黑发",
+            "戴眼镜",
+            "普通"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "茶艺",
+                "阅读",
+                "音乐",
+                "散步"
+            ],
+            "activity": [
+                "和朋友一起品茶",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "让女朋友的家人接受自己的职业",
+            "long_term_goals": "成为一名知名的调茶师，开一家自己的茶馆"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单锻炼后去茶馆工作。工作时间从上午9点到下午6点，晚上会阅读或听音乐放松。",
+            "weekends": "周末会和朋友一起品茶，或者去公园散步，有时也会参加一些茶艺交流活动。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，从小对茶文化有浓厚兴趣。",
+            "adolescence": "高中时期开始学习茶艺，参加了多次茶艺比赛并获得奖项。",
+            "recent_events": "最近因为女朋友家人对自己职业的不认可而感到压力和焦虑。"
+        },
+        "environment": "出生在南方的一个小城市，大学毕业后在省城的一家茶馆工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "王中富的父亲是一名普通的工人，虽然工作繁忙，但总是尽力抽出时间陪伴儿子。父亲是王中富茶艺兴趣的启蒙者，经常带他去茶馆，讲述茶文化的故事。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "王中富的母亲是一名家庭主妇，温柔而细心。她总是鼓励王中富追求自己的兴趣，并在他参加茶艺比赛时给予全力支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "王中富在小学时结识了两个好朋友，他们经常一起玩耍，分享彼此的秘密。虽然后来因为升学分开，但他们的友谊一直保持到现在。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "茶艺老师",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "王中富在高中时遇到了一位茶艺老师，这位老师不仅教会了他茶艺的技巧，还在精神上给予了他很大的支持和鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "王中富在高中时结识了几位志同道合的同学，他们一起参加茶艺比赛，共同进步。这些同学在他成长过程中扮演了重要角色。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "女朋友",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "王中富的女朋友是他在大学时认识的，他们在一起已经两年了。虽然她的家人对王中富的职业有些不认可，但她一直在他身边支持他。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "王中富在茶馆工作时结识了两位同事，他们不仅在工作上互相帮助，还经常一起讨论茶艺，分享心得。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "王中富有一位从小到大的好朋友，他们经常一起品茶、散步，这位朋友在他感到压力和焦虑时给予了很多建议和支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "王中富的社交圈在不同阶段有明显的变化。童年时期，他的社交圈主要集中在家庭和少数朋友上，关系紧密且稳定。进入青春期后，他的社交圈逐渐扩大，结识了更多志同道合的朋友和老师，这些人对他的成长和兴趣发展起到了重要作用。最近，由于职业和感情问题，他的社交圈再次发生变化，更多地依赖于女朋友和工作中的同事，同时也在努力争取女朋友家人的认可。总体来说，王中富的社交能力和意愿在不同阶段都有所提升，但目前面临的压力和焦虑也对他的社交关系产生了一定影响。"
+    }
+}

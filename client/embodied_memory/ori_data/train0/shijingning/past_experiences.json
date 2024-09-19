@@ -1,0 +1,396 @@
+{
+    "childhood": {
+        "name": "史菁凝",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在小学一年级的第一天，我很紧张，担心自己表现不好。妈妈在校门口对我说：‘菁凝，不要怕，你一定能行的。’我当时感觉温暖，但还是无法摆脱紧张感。",
+                "location": "小学门口",
+                "happen_time": "2010年9月",
+                "participants": "母亲",
+                "impact": "事件强化了‘我需要别人的肯定’的核心信念，让我感到获得他人的支持非常重要。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "三年级时，我参加了学校的演讲比赛，非常紧张怕失败。比赛结束后，虽然没有拿到名次，爸爸却对我说：‘你已经很棒了，下一次会更好。’",
+                "location": "学校礼堂",
+                "happen_time": "2012年5月",
+                "participants": "父亲",
+                "impact": "这次经历让我感受到父亲的支持，但也加深了‘我需要不断努力才能不辜负父母的期望’的中间信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "五年级时，我的数学成绩下滑，老师在班会中批评了我。我感到非常难过，回家后告诉了妈妈，她安慰我说：‘下次努力，你会做得更好。’",
+                "location": "教室和家中",
+                "happen_time": "2014年11月",
+                "participants": "老师、母亲",
+                "impact": "感受到失败的压力，但也得到母亲的情感支持，强化了‘我需要别人的肯定’的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "有一天，我在家里听到父母讨论他们的工作和生活压力，感到他们对未来也有很多不确定性。",
+                "location": "家里客厅",
+                "happen_time": "2013年3月",
+                "participants": "父母",
+                "impact": "这个观察让我意识到世界充满了不确定性，强化了‘未来是不确定的’的核心信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "小学毕业时，我获得了全班第一名，父母特别高兴。父亲对我说：‘你让我们非常骄傲。’",
+                "location": "学校和家中",
+                "happen_time": "2015年6月",
+                "participants": "父母",
+                "impact": "获得认可让我感到自信，强化了‘如果我变得更优秀，我会让父母和老师感到骄傲’的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到小学好友在考试中失利，她哭得很伤心，老师和同学们都没有过多关注。",
+                "location": "教室",
+                "happen_time": "2013年10月",
+                "participants": "小学好友、老师、同学",
+                "impact": "这个观察让我感到如果不够优秀会被忽视和批评，强化了‘如果我不够优秀，我会被忽视和批评’的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "四年级时，我参加了一个科学竞赛，获得了二等奖。虽然不是第一名，但父母依然鼓励我说：‘你做得很好，我们为你感到骄傲。’",
+                "location": "学校和家中",
+                "happen_time": "2013年12月",
+                "participants": "父母",
+                "impact": "这个事件让我感到即使没有达到最高成就，父母依然认可我，稍微缓解了‘我不够优秀’的核心信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的孩子因为成绩不好被父母责骂，感到非常害怕。",
+                "location": "邻居家门口",
+                "happen_time": "2014年5月",
+                "participants": "邻居家的孩子及其父母",
+                "impact": "这个观察让我进一步认识到‘世界对那些不努力的孩子没有宽容’，强化了‘我必须不断提升自己，以达到父母和老师的期望’的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "六岁时，我第一次在家里独立完成了一幅画，母亲看后非常开心，称赞我‘你真是个小艺术家’。",
+                "location": "家中",
+                "happen_time": "2009年8月",
+                "participants": "母亲",
+                "impact": "这次经历让我感受到成就感和母亲的认可，进一步强化了‘我有能力面对挑战’的核心信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在电视上看到一个新闻报道，说某个小学生因为压力过大而晕倒。我感到非常震惊。",
+                "location": "家中电视前",
+                "happen_time": "2012年3月",
+                "participants": "电视新闻",
+                "impact": "这个观察让我认识到压力对人的影响，强化了‘我应该尽量控制可以控制的事情’的中间信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "八岁时，我参加了学校的合唱团，第一次在众人面前演唱，感到非常紧张，但演出成功后得到了大家的掌声。",
+                "location": "学校礼堂",
+                "happen_time": "2011年6月",
+                "participants": "合唱团成员、学校老师、观众",
+                "impact": "这个经历让我感受到面对挑战的成就感，强化了‘我有能力面对挑战’的核心信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一天，我看到妈妈在厨房里忙碌，面带疲惫，但还是微笑着为我准备晚餐。",
+                "location": "家中厨房",
+                "happen_time": "2010年5月",
+                "participants": "母亲",
+                "impact": "这个观察让我意识到父母的辛苦和对我的关爱，强化了‘我需要不断努力才能不辜负父母的期望’的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在二年级的一次期末考试中，我拿了全班第一名，老师在全班表扬了我，我感到非常自豪。",
+                "location": "教室",
+                "happen_time": "2011年12月",
+                "participants": "老师、同学",
+                "impact": "这个经历让我感受到被认可的重要性，强化了‘如果我获得了父母和老师的肯定，我会感到自信和满足’的中间信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看见我的小学好友因为没有完成作业被老师批评，她非常沮丧。",
+                "location": "教室",
+                "happen_time": "2012年9月",
+                "participants": "小学好友、老师",
+                "impact": "这个观察让我感到如果不努力，就会失去老师的信任和支持，强化了‘如果我不努力，我会失去父母和老师的信任和支持’的中间信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "十一岁时，我和父母一起去旅行，途中遇到了一些小困难，但我们一起克服了。我感到很开心，也觉得自己有能力面对挑战。",
+                "location": "旅行地点",
+                "happen_time": "2014年7月",
+                "participants": "父母",
+                "impact": "这个经历让我感受到家庭的支持和自己面对挑战的能力，强化了‘我有能力面对生活中的挑战’的核心信念。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "史菁凝",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中入学第一天，我发现自己不认识任何人，感觉非常孤独和不安。我想尝试与同学交谈，但却不知道如何开始。",
+                "location": "南京某中学",
+                "happen_time": "2016年9月",
+                "participants": "史菁凝, 班级同学",
+                "impact": "增加了史菁凝对社交的焦虑，强化了她“我不够优秀”和“我需要别人的肯定”的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "一次期中考试成绩不理想，我感到非常失落，认为自己不够好，害怕被父母和同学忽视。",
+                "location": "南京某中学",
+                "happen_time": "2016年11月",
+                "participants": "史菁凝, 父母, 同学",
+                "impact": "进一步强化了她的核心信念“我不够优秀”，并导致她更努力地去争取别人的认可。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班上一位成绩优异的同学在课堂上受到老师的表扬，其他同学也纷纷向他表示祝贺。",
+                "location": "南京某中学",
+                "happen_time": "2017年3月",
+                "participants": "史菁凝, 同学, 老师",
+                "impact": "史菁凝意识到优秀的表现能够带来他人的认可和关注，进一步强化了她对“努力成为最优秀”的追求。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "初三毕业典礼上，我被评为优秀学生代表，父母前来参加并为我感到骄傲。",
+                "location": "南京某中学",
+                "happen_time": "2018年6月",
+                "participants": "史菁凝, 父母, 老师, 同学",
+                "impact": "获得了父母和老师的肯定，暂时提升了自信心，但也增加了对未来表现的压力。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到母亲因为工作上的不顺心而流泪，我感到非常心疼也感到无助。",
+                "location": "家中",
+                "happen_time": "2018年9月",
+                "participants": "史菁凝, 母亲",
+                "impact": "强化了她“世界充满不确定性”的信念，并开始担心未来的职业生涯。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高一开学后，我加入了学校的文学社，开始写作并逐渐获得了老师和同学的认可。",
+                "location": "南京某高中",
+                "happen_time": "2018年9月",
+                "participants": "史菁凝, 文学社同学, 指导老师",
+                "impact": "增强了她对写作的兴趣和信心，部分缓解了自我价值感的缺乏。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "在一次班会上，我看到一位同学因为家庭经济困难而被其他同学嘲笑。",
+                "location": "南京某高中",
+                "happen_time": "2019年3月",
+                "participants": "史菁凝, 同学, 班主任",
+                "impact": "这个事件让她更加意识到社会的冷漠，强化了“世界对不够优秀的人很冷漠”的信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "高二下学期，我在一次校级作文比赛中获奖，受到了校领导的表彰，并在全校师生面前发言。",
+                "location": "南京某高中",
+                "happen_time": "2019年6月",
+                "participants": "史菁凝, 校领导, 老师, 同学",
+                "impact": "获得了极大的满足感和自信心，但也增加了对未来表现的担忧。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一天我看到父亲深夜加班工作，感到他为了家庭付出了很多，让我感到责任重大。",
+                "location": "家中",
+                "happen_time": "2019年11月",
+                "participants": "史菁凝, 父亲",
+                "impact": "这次观察让她更加意识到责任感的重要性，强化了“我需要不断努力才能被认可”的信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "高考前夕，我因为压力过大导致失眠，感到非常焦虑和无助。",
+                "location": "家中",
+                "happen_time": "2020年6月",
+                "participants": "史菁凝, 母亲",
+                "impact": "加剧了她对未来的不确定感，并对自己的能力产生怀疑。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "高考成绩公布后，我如愿考上了上海的一所理想大学，全家为我感到自豪。",
+                "location": "家中",
+                "happen_time": "2020年8月",
+                "participants": "史菁凝, 父母",
+                "impact": "极大提升了她的自信心，但也带来了新的对未来的焦虑和不确定感。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "大一开学，我看到许多同学都非常优秀，感到自己与他们相比有很多不足。",
+                "location": "上海某大学",
+                "happen_time": "2020年9月",
+                "participants": "史菁凝, 大学同学",
+                "impact": "强化了她“我不够优秀”的核心信念，增加了自我怀疑和焦虑感。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "大一学期末，我在一次小组合作项目中担任组长，成功完成任务并获得老师的表扬。",
+                "location": "上海某大学",
+                "happen_time": "2021年1月",
+                "participants": "史菁凝, 小组成员, 指导老师",
+                "impact": "增强了她的领导能力和自信心，部分缓解了对未来的不确定感。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "大二暑假，我参加了一次社会实践活动，亲眼见到了许多社会问题，感到震撼和无力。",
+                "location": "某社会实践地点",
+                "happen_time": "2021年7月",
+                "participants": "史菁凝, 社会实践团队成员",
+                "impact": "进一步强化了她对世界复杂性的认识，增加了对未来的不确定感。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "在一次课外活动中，我看到一位同学因为创业失败而情绪低落，感到非常同情。",
+                "location": "上海某大学",
+                "happen_time": "2021年10月",
+                "participants": "史菁凝, 同学",
+                "impact": "让她意识到未来的职业生涯充满挑战，进一步强化了“未来是不确定的”核心信念。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "史菁凝",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在大四上学期，史菁凝参加了一次重要的企业招聘会，结果面试失败。她感到非常失落，觉得自己不够优秀，无法达到别人的期望。",
+                "location": "上海某大学",
+                "happen_time": "2023年10月",
+                "participants": "史菁凝、招聘企业HR",
+                "impact": "负面影响，加剧了她的核心信念‘我不够优秀’，增强了她的中间信念‘如果我不够优秀，我就会失败’。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "母亲通过视频通话鼓励史菁凝继续努力，并提到考研或许是更好的选择。史菁凝感到温暖，但同时也感到压力，她不想让母亲失望。",
+                "location": "学生宿舍",
+                "happen_time": "2023年11月",
+                "participants": "史菁凝、母亲",
+                "impact": "正面和负面并存，正面影响增加了她的动力，但负面影响增加了她的压力，强化了她的中间信念‘我需要不断努力才能达到别人的期望’。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "史菁凝的室友成功拿到了一家大公司的offer，大家为她庆祝。史菁凝感到欣慰，但也感到自卑和焦虑，担心自己无法达到同样的成就。",
+                "happen_time": "2023年12月",
+                "participants": "史菁凝、室友",
+                "impact": "负面影响，增加了她的焦虑感，强化了她的核心信念‘我不够优秀’和中间信念‘如果我不够优秀，我会被拒绝和批评’。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "史菁凝决定报考研究生，但在复习过程中感到非常疲惫和焦虑，时常怀疑自己的能力。",
+                "location": "图书馆",
+                "happen_time": "2024年1月",
+                "participants": "史菁凝",
+                "impact": "负面影响，增加了她的压力和焦虑，强化了她的中间信念‘如果我不够优秀，我会失败’。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "史菁凝听说了一位学长因找不到工作而陷入抑郁，她感到震惊和担忧，开始担心自己未来的心理健康。",
+                "happen_time": "2024年2月",
+                "participants": "史菁凝、学长",
+                "impact": "负面影响，增加了她对未来的不确定感，强化了她的核心信念‘未来是不确定的’。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次模拟考研考试中，史菁凝的成绩不理想，她感到非常沮丧，甚至考虑放弃考研。",
+                "location": "考场",
+                "happen_time": "2024年3月",
+                "participants": "史菁凝",
+                "impact": "负面影响，增加了她的挫败感和无力感，强化了她的中间信念‘如果我得不到别人的肯定，我会感到失落和无价值’。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "史菁凝的导师与她进行了一次关于未来规划的谈话，建议她不要放弃考研，并提供了一些实用的复习方法。",
+                "location": "导师办公室",
+                "happen_time": "2024年4月",
+                "participants": "史菁凝、导师",
+                "impact": "正面影响，增加了她的信心和动力，部分缓解了她的焦虑感。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "史菁凝看到一篇关于成功考研经验的文章，感到受到激励，但也感到压力，担心自己无法达到同样的成就。",
+                "happen_time": "2024年5月",
+                "participants": "史菁凝",
+                "impact": "正面和负面并存，正面影响增加了她的动力，但负面影响增加了她的压力，强化了她的中间信念‘我必须不断提升自己，以达到别人的期望’。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "史菁凝在考研复习中感到非常疲惫，身体出现了不适，她开始担心自己的健康状况。",
+                "location": "宿舍",
+                "happen_time": "2024年6月",
+                "participants": "史菁凝",
+                "impact": "负面影响，增加了她的焦虑和疲惫感，强化了她的中间信念‘如果我无法应对不确定性，我会感到焦虑和无助’。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "史菁凝注意到一位朋友在考研准备过程中表现得非常从容，她感到羡慕但也更加怀疑自己的能力。",
+                "happen_time": "2024年7月",
+                "participants": "史菁凝、朋友",
+                "impact": "负面影响，增加了她的自卑感和焦虑感，强化了她的核心信念‘我不够优秀’。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "史菁凝在考研前夕感到极度焦虑，甚至失眠，她开始怀疑自己的选择是否正确。",
+                "location": "宿舍",
+                "happen_time": "2024年8月",
+                "participants": "史菁凝",
+                "impact": "负面影响，增加了她的焦虑和不安，强化了她的中间信念‘如果我无法应对不确定性，我会感到焦虑和无助’。"
+            }
+        ]
+    }
+}

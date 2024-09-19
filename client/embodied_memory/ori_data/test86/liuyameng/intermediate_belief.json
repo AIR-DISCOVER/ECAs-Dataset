@@ -1,0 +1,326 @@
+{
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我有权利得到他人的关心和帮助。",
+                "others": "有些人会愿意帮助我。",
+                "world": "世界上有很多人愿意伸出援手。"
+            },
+            "rules": "我应该主动表达我的需求，以便得到他人的帮助。",
+            "positive_assumption": "如果我主动表达需求，我会得到他人的支持。",
+            "negative_assumption": "如果我不表达需求，我可能会错失得到帮助的机会。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我有时也值得被关心和帮助。",
+                "others": "有些人是愿意理解和帮助我的。",
+                "world": "这个世界上也有一些善良的人。"
+            },
+            "rules": "我应该勇敢地寻求帮助，尤其是在我需要的时候。",
+            "positive_assumption": "如果我寻求帮助，我会得到支持和理解。",
+            "negative_assumption": "如果我不寻求帮助，我会陷入更深的困境。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力掌控自己的生活，任何努力都是徒劳的。",
+                "others": "别人不会支持我，他们也有自己的问题。",
+                "world": "这个世界对我充满敌意和挑战。"
+            },
+            "rules": "我应该尽量减少对生活的期望，以避免失望。",
+            "positive_assumption": "如果我减少对生活的期望，我就不会感到失望。",
+            "negative_assumption": "如果我对生活有期望，我就会不断失望。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法控制我的生活，事情总是出乎我的意料。",
+                "others": "别人不会理解我所面对的困境。",
+                "world": "这个世界充满了不可预知的挑战和困难。"
+            },
+            "rules": "我应该尽量避免做出决定，因为我总会出错。",
+            "positive_assumption": "如果我避免做决定，我就不会犯错。",
+            "negative_assumption": "如果我做决定，我就会犯错并且失败。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断提高自己，否则我就不配得到他人的尊重。",
+                "others": "别人只尊重那些表现出色的人。",
+                "world": "这个世界是竞争激烈的，只有最好的人才能生存。"
+            },
+            "rules": "我需要不断提高自己，避免被他人看不起。",
+            "positive_assumption": "如果我不断提高自己，我就会被尊重。",
+            "negative_assumption": "如果我停滞不前，我就会被别人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我做得不够好，我就没有价值。",
+                "others": "别人会看不起我，因为我不够好。",
+                "world": "这个世界只认可成功的人。"
+            },
+            "rules": "我必须不断努力，避免犯错，才能被认可。",
+            "positive_assumption": "如果我努力并且不犯错，我就会被认可和接受。",
+            "negative_assumption": "如果我犯错或表现不好，别人就会看不起我。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有权利得到老师和朋友的关心和帮助。",
+                "others": "有些人会愿意帮助我。",
+                "world": "世界上有很多人愿意伸出援手。"
+            },
+            "rules": "我应该主动表达我的需求，以便得到他人的帮助。",
+            "positive_assumption": "如果我主动表达需求，我会得到他人的支持。",
+            "negative_assumption": "如果我不表达需求，我可能会错失得到帮助的机会。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被老师和朋友关心和帮助。",
+                "others": "有些老师和朋友愿意理解和帮助我。",
+                "world": "这个世界上也有一些善良的人。"
+            },
+            "rules": "我应该勇敢地寻求帮助，尤其是在我需要的时候。",
+            "positive_assumption": "如果我寻求帮助，我会得到支持和理解。",
+            "negative_assumption": "如果我不寻求帮助，我会陷入更深的困境。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力掌控我的学习成绩。",
+                "others": "别人也无法帮助我提高成绩。",
+                "world": "这个世界对成绩不佳的人不友好。"
+            },
+            "rules": "我应该尽量减少对成绩的期望，以避免失望。",
+            "positive_assumption": "如果我不对成绩抱有期望，我就不会感到失望。",
+            "negative_assumption": "如果我对成绩有期望，我就会因为未达到目标而失望。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法控制我的考试成绩。",
+                "others": "别人不会理解我考试失利的原因。",
+                "world": "这个世界充满了不可预知的考试压力。"
+            },
+            "rules": "我应该尽量避免对考试结果抱有期望。",
+            "positive_assumption": "如果我不对考试结果抱有期望，我就不会失望。",
+            "negative_assumption": "如果我对考试结果抱有期望，我会因为失利而感到失望。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须表现得完美才能被接受。",
+                "others": "别人只尊重完美的人。",
+                "world": "这个世界对表现不佳的人是苛刻的。"
+            },
+            "rules": "我需要表现完美，避免犯错。",
+            "positive_assumption": "如果我表现完美，我就会被尊重。",
+            "negative_assumption": "如果我犯错或表现不佳，别人就会看不起我。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不取得好成绩，我就没有价值。",
+                "others": "别人会认为我不够优秀。",
+                "world": "这个世界只认可成绩优秀的人。"
+            },
+            "rules": "我必须不断努力学习，才能被认可。",
+            "positive_assumption": "如果我取得好成绩，我就会被认可和接受。",
+            "negative_assumption": "如果我成绩不理想，别人就会看不起我。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我有权利得到父母的关心和帮助。",
+                "others": "父母愿意帮助我，只要我主动表达需求。",
+                "world": "世界上有很多人愿意伸出援手，尤其是父母。"
+            },
+            "rules": "我应该主动表达我的需求，以便得到父母的帮助。",
+            "positive_assumption": "如果我主动表达需求，我会得到父母的支持。",
+            "negative_assumption": "如果我不表达需求，我可能会错失得到帮助的机会。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有时也值得父母的关心和帮助。",
+                "others": "父母也会在我需要时给予帮助和理解。",
+                "world": "这个世界上也有善良的人愿意帮助我。"
+            },
+            "rules": "我应该勇敢地向父母表达我的需求，尤其是在学习和生活上遇到困难时。",
+            "positive_assumption": "如果我寻求父母的帮助，我会得到支持和理解。",
+            "negative_assumption": "如果我不寻求帮助，我会陷入更大的困境。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力完全满足父母的期望，任何努力都不够。",
+                "others": "父母对我的期望总是很高，他们不会轻易满足。",
+                "world": "这个世界对我充满了高不可攀的期望。"
+            },
+            "rules": "我应该减少对生活的期望，以避免失望和自责。",
+            "positive_assumption": "如果我减少对生活的期望，我就不会感到那么大的失望和自责。",
+            "negative_assumption": "如果我对生活有期望，我就会不断感到失望和自责。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法控制我的生活，父母的期望总是让我感到压力。",
+                "others": "父母不会理解我的困扰和压力。",
+                "world": "这个世界充满了无法预测的压力和挑战。"
+            },
+            "rules": "我应该尽量避免让父母失望，以减少压力。",
+            "positive_assumption": "如果我避免让父母失望，我就不会感到那么多压力。",
+            "negative_assumption": "如果我让父母失望，我就会感到更大的压力和自责。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在学习上表现优异，否则我就不配得到父母的爱。",
+                "others": "父母只爱那些成绩优秀的孩子。",
+                "world": "这个世界是竞争激烈的，只有最优秀的人才能获得关注。"
+            },
+            "rules": "我需要在学习上不断进步，避免被父母责备。",
+            "positive_assumption": "如果我在学习上不断进步，我就会被尊重和爱护。",
+            "negative_assumption": "如果我在学习上停滞不前，父母就会失望。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我表现得不够好，父母会失望。",
+                "others": "父母只会认可那些表现出色的孩子。",
+                "world": "这个世界只有完美的人才能得到认可。"
+            },
+            "rules": "我必须不断努力，避免犯错，才能让父母满意。",
+            "positive_assumption": "如果我努力并且不犯错，我就会让父母骄傲。",
+            "negative_assumption": "如果我犯错或表现不好，父母就会失望。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

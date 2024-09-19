@@ -1,0 +1,99 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我有能力实现我的目标。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我需要他人的支持。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不能保持高效工作，那我就是失败的。",
+                "others": "他人会认为我不够努力或不够优秀。",
+                "world": "世界对失败者没有宽容。"
+            },
+            "rules": "我必须不断努力，不然我就会被视为失败者。",
+            "positive_assumption": "如果我一直努力工作，我会被认可和尊重。",
+            "negative_assumption": "如果我放松下来，我会被人看不起。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的写作状态不好，说明我不够好。",
+                "others": "他人会失望于我的表现。",
+                "world": "世界对成功有严格的标准。"
+            },
+            "rules": "我必须保持高水平的写作，不然我就不值得被认可。",
+            "positive_assumption": "如果我持续改进我的写作，我会变得更好。",
+            "negative_assumption": "如果我不能维持高水平的写作，我就不会被认可。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力完成我的目标。",
+                "others": "他人会支持和帮助我实现我的目标。",
+                "world": "世界充满机会，我可以把握它们。"
+            },
+            "rules": "我应该积极追求我的目标，并寻求他人的支持。",
+            "positive_assumption": "如果我努力并寻求帮助，我会实现我的目标。",
+            "negative_assumption": "如果我不努力或不寻求帮助，我会错失机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力克服当前的困难。",
+                "others": "他人会理解和支持我。",
+                "world": "世界上有解决问题的方法。"
+            },
+            "rules": "我应该积极寻求解决方法，而不是逃避问题。",
+            "positive_assumption": "如果我积极寻求解决方法，我会克服困难。",
+            "negative_assumption": "如果我逃避问题，我会被困难击倒。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要他人的支持来度过难关。",
+                "others": "他人愿意并能够帮助我。",
+                "world": "世界上有许多人愿意提供帮助。"
+            },
+            "rules": "我应该主动寻求他人的帮助。",
+            "positive_assumption": "如果我寻求帮助，我会得到支持并度过难关。",
+            "negative_assumption": "如果我不寻求帮助，我会感到孤立和无助。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的精神状态需要他人的关心和帮助。",
+                "others": "他人会理解并关心我的精神状态。",
+                "world": "世界上有许多人在乎别人的幸福和健康。"
+            },
+            "rules": "我应该向信任的人表达我的困扰和需求。",
+            "positive_assumption": "如果我表达需求，我会得到理解和帮助。",
+            "negative_assumption": "如果我不表达需求，我会感到孤立和不被理解。"
+        }
+    ]
+}

@@ -1,0 +1,445 @@
+{
+    "childhood": {
+        "name": "喻竹佳",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我记得在小学一年级的时候，妈妈给我报了一个钢琴班。刚开始我很兴奋，但一次练习时，因为总是弹错，老师批评了我。妈妈在旁边看到我哭了，也有点生气，后来我就对弹钢琴产生了抗拒。",
+                "location": "钢琴教室",
+                "happen_time": "2011年秋季",
+                "participants": "妈妈，钢琴老师",
+                "impact": "这次经历让我感到自己不够好，开始怀疑自己的能力，形成了'我总是无法达到父母的期望'的中间信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我在班里参加了一次演讲比赛。尽管我准备得很充分，但在演讲过程中我紧张得忘了词。老师和同学们虽然没有责备，但我看到了妈妈失望的眼神。",
+                "location": "小学教室",
+                "happen_time": "2013年春季",
+                "participants": "老师，同学，妈妈",
+                "impact": "这次经历强化了我的核心信念'我不够好'，以及中间信念'父母和老师会觉得我不够好'。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我听见隔壁家的小朋友因为成绩不好被爸爸妈妈责骂，甚至挨了打。我感到很害怕，担心自己有一天也会这样。",
+                "location": "邻居家",
+                "happen_time": "2014年夏季",
+                "participants": "邻居家小朋友，邻居的父母",
+                "impact": "这次经历让我更加害怕失败，形成了'我应该尽量避免失败，以免被父母和老师看不起'的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我参加了学校的舞蹈队表演。尽管我练习得很辛苦，但在表演当天，我不小心踩错了步伐，感到非常尴尬。",
+                "location": "学校礼堂",
+                "happen_time": "2015年冬季",
+                "participants": "同学，老师，家长",
+                "impact": "这次经历让我更加不自信，形成了'我缺乏自信，总是怀疑自己的能力'的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "我有一次在家里看到爸爸和妈妈讨论我的成绩，爸爸说希望我能拿到全班第一，妈妈则表示我已经很努力了，不要给我太大压力。",
+                "location": "家中客厅",
+                "happen_time": "2016年春季",
+                "participants": "爸爸，妈妈",
+                "impact": "这次经历让我感到父母对我的期望很高，形成了'我必须在学业上取得优异成绩，才能被父母认可'的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "有一次我在学校的数学考试中得了满分，回到家后，爸爸非常高兴，说这是我应该达到的水平。",
+                "location": "学校教室，家中客厅",
+                "happen_time": "2016年秋季",
+                "participants": "爸爸，老师",
+                "impact": "这次经历让我感到成功能带来父母的认可，形成了'如果我成功了，我会获得父母的认可和尊重'的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我参加了一个科学展览，通过自己的努力获得了一等奖，父母非常高兴，带我去吃了顿大餐庆祝。",
+                "location": "学校科学实验室",
+                "happen_time": "2017年春季",
+                "participants": "父母，老师，同学",
+                "impact": "这次经历增强了我的自信，形成了'我有能力解决问题'的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次我在书店看到一个同学偷偷拿了书没有付钱，被店员抓住了。后来他被叫到了家长那里，家长非常生气，大家都在议论他。",
+                "location": "书店",
+                "happen_time": "2017年夏季",
+                "participants": "同学，店员，同学的家长",
+                "impact": "这次经历让我对失败和犯错有了更深的恐惧，形成了'如果我失败了，我会被视为无能'的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "有一次我和朋友一起参加了一次小型的读书会，大家讨论了一本我们都喜欢的书。我发现自己在这个过程中很享受，朋友也对我的见解表示赞同。",
+                "location": "图书馆",
+                "happen_time": "2017年秋季",
+                "participants": "朋友，其他读书会成员",
+                "impact": "这次经历让我感受到朋友的支持和认同，增强了我的自信，形成了'朋友和家人会尊重我解决问题的能力'的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次我看到妈妈在厨房里准备晚餐，爸爸下班回家后主动帮忙，两人一起说笑，让我感受到了家庭的温馨。",
+                "location": "家中厨房",
+                "happen_time": "2017年冬季",
+                "participants": "爸爸，妈妈",
+                "impact": "这次经历让我感受到家庭的温暖和支持，形成了'朋友和家人可以给予我帮助，但我有信心自己处理大部分事情'的中间信念。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "喻竹佳",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "进入初中后的第一次考试成绩不理想，导致自信心受挫。老师在班级面前公布成绩时，我感到非常羞愧，心里不断重复着‘我不够好’。",
+                "location": "初中教室",
+                "happen_time": "2018年10月",
+                "participants": "老师、班上的同学",
+                "impact": "这次经历强化了喻竹佳的核心信念‘我不够好’，并使她产生了避免失败和隐藏缺点的中间信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "参加学校的舞蹈表演，但因为紧张而失误，表演结束后听到同学的嘲笑声，我感到非常难过和自责。",
+                "location": "学校大礼堂",
+                "happen_time": "2019年5月",
+                "participants": "同学、老师",
+                "impact": "这次失误使喻竹佳对自己的能力产生怀疑，进一步强化了‘我不够好’的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "在一次数学竞赛中获得了全校第一名，老师和同学们都对我赞不绝口，我感受到了一种前所未有的自豪感。",
+                "location": "学校",
+                "happen_time": "2019年12月",
+                "participants": "数学老师、同学",
+                "impact": "这次成功让喻竹佳短暂地感受到被认可，但也加强了‘我必须成功才能被认可’的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在高三时，父母对我的期望越来越高，每次考试前都会叮嘱我一定要考好，这让我感到很大的压力。",
+                "location": "家中",
+                "happen_time": "2021年1月",
+                "participants": "父母",
+                "impact": "父母的高期望使喻竹佳感到必须不断努力以取得优异成绩，进一步强化了‘我必须成功才能被认可’的核心信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "高考成绩揭晓，我考上了省城的一所大学，父母和亲友们都为我感到自豪，我也终于松了一口气。",
+                "location": "家中",
+                "happen_time": "2022年7月",
+                "participants": "父母、亲友",
+                "impact": "这次成功再次强化了‘我必须成功才能被认可’的核心信念，同时也带来了短暂的自信。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "进入大学后，发现自己对所选专业没有兴趣，开始对未来感到迷茫，情绪低落。",
+                "location": "大学校园",
+                "happen_time": "2022年9月",
+                "participants": "大学同学、老师",
+                "impact": "对专业的失望使喻竹佳的自信再次受到打击，强化了‘世界对我充满了挑战，我很难应对’的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在一次社团活动中，结识了几位志同道合的朋友，他们让我感受到被理解和支持。",
+                "location": "大学社团活动室",
+                "happen_time": "2023年3月",
+                "participants": "大学朋友",
+                "impact": "新朋友的支持帮助喻竹佳暂时缓解了对未来的迷茫，增强了‘我有能力面对挑战’的核心信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "一次在图书馆自习时，看到一位同学因为成绩不理想而痛哭，感到自己也有可能面对同样的失败。",
+                "location": "大学图书馆",
+                "happen_time": "2023年4月",
+                "participants": "同学",
+                "impact": "这次观察强化了喻竹佳对失败的恐惧，进一步加深了‘我应该尽量避免失败，以免被别人看不起’的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会上，听到表姐分享她在职场上的成功经验，让我感到自己也需要不断努力才能获得认可。",
+                "location": "家中",
+                "happen_time": "2023年6月",
+                "participants": "表姐、家庭成员",
+                "impact": "表姐的成功故事强化了喻竹佳‘我必须成功才能被认可’的核心信念，同时也带来了很大的压力。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在一次课程作业中，由于时间紧张未能完成，遭到老师的批评，感到非常自责和无助。",
+                "location": "大学教室",
+                "happen_time": "2023年7月",
+                "participants": "老师、同学",
+                "impact": "这次失败让喻竹佳再次质疑自己的能力，强化了‘如果我失败了，我会被视为无能’的中间信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在一次心理咨询课上，咨询师让我反思自己的核心信念，开始意识到自己对成功和失败的极端看法。",
+                "location": "大学心理咨询室",
+                "happen_time": "2023年9月",
+                "participants": "心理咨询师",
+                "impact": "这次反思让喻竹佳开始意识到自己核心信念的问题，并开始尝试改变这些信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在一次班级活动中，担任了小组负责人，虽然过程中遇到了一些困难，但最终顺利完成，感到非常有成就感。",
+                "location": "大学校园",
+                "happen_time": "2023年10月",
+                "participants": "同学、老师",
+                "impact": "这次成功的经历增强了喻竹佳‘我有能力面对挑战’的核心信念，并带来了正面的自我认知。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "一次在家里，听到父母讨论他们年轻时的奋斗经历，感到他们的成功也并非一蹴而就。",
+                "location": "家中",
+                "happen_time": "2023年11月",
+                "participants": "父母",
+                "impact": "父母的故事让喻竹佳开始重新审视成功的定义，减轻了对立刻成功的压力。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在一次舞蹈比赛中获得了二等奖，虽然不是第一名，但感到自己已经有所进步。",
+                "location": "大学大礼堂",
+                "happen_time": "2023年12月",
+                "participants": "同学、老师",
+                "impact": "这次比赛让喻竹佳意识到成功不一定是唯一的目标，重要的是自己的进步和努力。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "看到一位朋友在学术上遇到挫折后，通过努力和坚持最终取得了好成绩，感到非常励志。",
+                "location": "大学图书馆",
+                "happen_time": "2023年12月",
+                "participants": "朋友",
+                "impact": "朋友的经历让喻竹佳更加相信‘我有能力面对挑战’的核心信念，并获得了新的动力。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "喻竹佳",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次期末考试前的复习中，我发现自己无法集中注意力，总是忘记刚刚看的内容。焦虑感瞬间涌上心头，脑海中反复浮现“我不够好”的念头。",
+                "location": "大学宿舍",
+                "happen_time": "2023年12月",
+                "participants": "无（个人独处）",
+                "impact": "负面影响：加剧了喻竹佳的焦虑和自我怀疑，导致记忆力进一步恶化。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与父母的视频通话中，我表达了对学业的困惑和压力。父母表示理解，并建议可以考虑转专业。这让我感到些许宽慰，但仍然觉得自己不够好。",
+                "location": "宿舍内通过视频通话",
+                "happen_time": "2024年1月",
+                "participants": "父母",
+                "impact": "正面影响：暂时缓解了一些压力。负面影响：核心信念“我不够好”依然存在，转专业的决定增加了对未来的担忧。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在参加一场舞蹈比赛时，我因为紧张而失误，未能进入决赛。感觉自己再次失败，内心深处的“我不够好”信念被强化。",
+                "location": "大学舞蹈比赛场地",
+                "happen_time": "2024年2月",
+                "participants": "舞蹈比赛的评委和观众",
+                "impact": "负面影响：进一步强化了自我怀疑和不自信的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次课堂上，我观察到一位成绩优异的同学被老师表扬，感受到自己与她的差距。心中再次涌现“我必须成功才能被认可”的信念。",
+                "location": "教室",
+                "happen_time": "2024年3月",
+                "participants": "老师和同学",
+                "impact": "负面影响：增强了对成功的执念，进一步加重了学业压力。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次朋友聚会上，我发现自己无法积极参与讨论，总是感到自己话题不够有趣、不够好，渐渐封闭自己。",
+                "location": "校园咖啡厅",
+                "happen_time": "2024年4月",
+                "participants": "大学朋友",
+                "impact": "负面影响：增加了社交焦虑和自我怀疑，导致与朋友的关系变得疏远。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在期中考试后，我的成绩不理想，感到非常失落。觉得自己再次失败，内心的“我不够好”和“我必须成功才能被认可”信念被进一步强化。",
+                "location": "大学考场",
+                "happen_time": "2024年5月",
+                "participants": "无（个人独处）",
+                "impact": "负面影响：进一步加剧了自我怀疑和焦虑，导致决断困难和记忆力问题加重。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "导师在一次一对一的辅导中鼓励我参加一个学术项目，但我因为缺乏自信而拒绝，觉得自己无法胜任。",
+                "location": "导师办公室",
+                "happen_time": "2024年6月",
+                "participants": "导师",
+                "impact": "负面影响：错失了一次提升自信和能力的机会，进一步陷入自我怀疑。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次校园讲座上，我看到一位成功的校友分享她的奋斗历程，感到自己与她的差距很大，心中再次涌现“我不够好”的想法。",
+                "location": "大学礼堂",
+                "happen_time": "2024年7月",
+                "participants": "校友讲师和其他学生",
+                "impact": "负面影响：增强了对成功的执念和自我怀疑，进一步加重了心理负担。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会中，亲戚们询问我的学业和未来计划，我感到非常压力，觉得自己无法满足他们的期望。",
+                "location": "家中",
+                "happen_time": "2024年8月",
+                "participants": "父母和亲戚",
+                "impact": "负面影响：加重了对未来的不确定感和自我怀疑，进一步强化了“我不够好”的核心信念。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在学期结束前的最后一次舞蹈课上，我表现得比平时更好，老师给予了肯定，感到一些自信，但依然觉得自己还有很多不足。",
+                "location": "大学舞蹈教室",
+                "happen_time": "2024年8月",
+                "participants": "舞蹈老师和同学",
+                "impact": "正面影响：暂时提升了一些自信。负面影响：核心信念“我不够好”依然存在。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "有一天早上，我发现自己很难从床上爬起来，觉得一切都没有意义，虽然没有自杀的念头，但感到非常无助和绝望。",
+                "location": "大学宿舍",
+                "happen_time": "2024年9月",
+                "participants": "无（个人独处）",
+                "impact": "负面影响：精神运动性迟滞加重，进一步影响了日常生活和心理状态。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与朋友的谈话中，我坦白了自己最近的困惑和压力，朋友们表示理解和支持。这让我感到一些安慰，但仍然觉得自己不够好。",
+                "location": "校园操场",
+                "happen_time": "2024年9月",
+                "participants": "大学朋友",
+                "impact": "正面影响：暂时缓解了一些压力。负面影响：核心信念“我不够好”依然存在。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次校园活动中，我看到一位同学因表现出色而被大家赞扬，心中再次涌现“我必须成功才能被认可”的想法。",
+                "location": "校园活动场地",
+                "happen_time": "2024年10月",
+                "participants": "其他同学和活动参与者",
+                "impact": "负面影响：增强了对成功的执念，进一步加重了心理负担。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次学术交流会上，我因为紧张而无法顺利表达自己的观点，感到非常尴尬和自卑。",
+                "location": "大学会议室",
+                "happen_time": "2024年10月",
+                "participants": "导师和其他学生",
+                "impact": "负面影响：增强了自我怀疑和不自信，进一步影响了学业表现。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与导师的谈话中，导师建议我可以尝试更多的学术活动，提升自己的综合能力。我感到一些鼓励，但仍然怀疑自己的能力。",
+                "location": "导师办公室",
+                "happen_time": "2024年11月",
+                "participants": "导师",
+                "impact": "正面影响：鼓励我尝试新事物。负面影响：自我怀疑和不自信仍然存在。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次与朋友的闲聊中，我听到一位朋友谈论她在实习中的成功经验，心中再次涌现“我不够好”的想法。",
+                "location": "校园食堂",
+                "happen_time": "2024年12月",
+                "participants": "大学朋友",
+                "impact": "负面影响：进一步强化了自我怀疑和焦虑。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭电话中，父母再次询问我的学业和未来计划，我感到非常压力，觉得自己无法满足他们的期望。",
+                "location": "大学宿舍",
+                "happen_time": "2024年12月",
+                "participants": "父母",
+                "impact": "负面影响：加重了对未来的不确定感和自我怀疑，进一步强化了“我不够好”的核心信念。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次期末考试前，我发现自己无法集中注意力，记忆力变差，感到非常困惑和焦虑。",
+                "location": "大学自习室",
+                "happen_time": "2024年12月",
+                "participants": "无（个人独处）",
+                "impact": "负面影响：加剧了喻竹佳的焦虑和自我怀疑，导致记忆力进一步恶化。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次考试后，我的成绩再次不理想，内心深处的“我不够好”和“我必须成功才能被认可”信念被进一步强化。",
+                "location": "大学考场",
+                "happen_time": "2024年12月",
+                "participants": "无（个人独处）",
+                "impact": "负面影响：进一步加剧了自我怀疑和焦虑，导致决断困难和记忆力问题加重。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与朋友的聚会中，我发现自己无法积极参与讨论，总是感到自己话题不够有趣、不够好，渐渐封闭自己。",
+                "location": "校园咖啡厅",
+                "happen_time": "2024年12月",
+                "participants": "大学朋友",
+                "impact": "负面影响：增加了社交焦虑和自我怀疑，导致与朋友的关系变得疏远。"
+            }
+        ]
+    }
+}

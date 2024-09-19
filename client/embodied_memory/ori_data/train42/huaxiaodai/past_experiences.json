@@ -1,0 +1,586 @@
+{
+    "childhood": {
+        "name": "花晓黛",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我在小学三年级的一次期中考试中只考了班级第十名，回家后父亲非常生气，严厉地批评了我。他说我没有尽力，辜负了他的期望。我感到非常内疚和失望，觉得自己是个失败者。",
+                "location": "家里的客厅",
+                "happen_time": "1995年5月",
+                "participants": "花晓黛，父亲",
+                "impact": "这一事件强化了花晓黛“我必须满足父母的期望”的核心信念，以及“如果我不能满足父母的期望，我就是一个失败者”的中间信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学四年级的一次体育比赛中，我得了第一名。母亲看到我拿到奖状时非常高兴，称赞我是她的骄傲。这让我感到自己是有价值的，也更坚定了要通过表现和成就来获得认可的信念。",
+                "location": "学校操场",
+                "happen_time": "1996年10月",
+                "participants": "花晓黛，母亲，老师，同学",
+                "impact": "这一事件强化了花晓黛“我的价值在于我的表现和成就”的核心信念，以及“如果我取得成就，父母会更爱我”的中间信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我坐在房间里，听见客厅里爸爸和妈妈又开始吵架了。那天他们吵得特别凶，妈妈声音都哑了。我透过门缝偷偷看见，爸爸摔了杯子，玻璃碎了一地。",
+                "location": "家里的客厅",
+                "happen_time": "1993年3月",
+                "participants": "花晓黛，父亲，母亲",
+                "impact": "这一事件让花晓黛感到家庭的不安定，也让她更加努力地想通过自己的表现来缓解家庭的紧张气氛，进一步强化了她的核心信念和中间信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学六年级的时候，我在一次数学竞赛中表现不佳，没能进入决赛。父亲非常失望，甚至没有和我说话。我感到自己彻底失败了。",
+                "location": "家里的客厅",
+                "happen_time": "1998年4月",
+                "participants": "花晓黛，父亲",
+                "impact": "这一事件进一步强化了花晓黛“如果我不努力，我就会让父母失望”的核心信念，以及“如果我不努力学习和表现，父母会对我失望”的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "小学一年级的期末考试我考了全班第一名，父母带我去吃了我最喜欢的冰淇淋。那天我感到非常幸福，觉得自己的努力得到了回报。",
+                "location": "家附近的冰淇淋店",
+                "happen_time": "1991年6月",
+                "participants": "花晓黛，父亲，母亲",
+                "impact": "这一事件让花晓黛感受到通过努力获得成就带来的认可和奖励，进一步巩固了她“努力是获得认可的唯一途径”的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到表姐小芳因为考试成绩不好被她的妈妈责骂。小芳哭得很伤心，我感到非常同情她，同时也感到害怕自己会有同样的遭遇。",
+                "location": "表姐家",
+                "happen_time": "1994年9月",
+                "participants": "花晓黛，表姐小芳，表姐的妈妈",
+                "impact": "这一事件让花晓黛更加害怕失败，强化了她“我应该全力以赴在学业上取得好成绩”的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "一次周末的家庭聚会上，父亲夸奖了我的表妹，因为她在钢琴比赛中获得了奖项。我感到非常嫉妒和失落，觉得自己不如她。",
+                "location": "爷爷奶奶家",
+                "happen_time": "1995年11月",
+                "participants": "花晓黛，父亲，表妹，其他家庭成员",
+                "impact": "这一事件让花晓黛感受到来自同龄人的竞争压力，强化了她“我的价值在于我的表现和成就”的核心信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一天，我在学校的操场上看到同学小丽因为没有完成作业而被老师责骂。小丽低着头，不敢看老师的眼睛。我感到害怕，担心自己也会犯同样的错误。",
+                "location": "学校操场",
+                "happen_time": "1993年5月",
+                "participants": "花晓黛，小丽，老师",
+                "impact": "这一事件让花晓黛更加坚信她需要努力完成所有任务以避免惩罚，强化了她“我应该通过努力工作来避免让父母失望”的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "小学五年级的期末考试，我考了全班第一名，班主任在全班同学面前表扬了我，还让我代表班级参加市里的数学竞赛。我感到非常自豪和开心。",
+                "location": "学校教室",
+                "happen_time": "1997年6月",
+                "participants": "花晓黛，班主任，同学们",
+                "impact": "这一事件让花晓黛感受到通过学业成就获得的认可，进一步巩固了她“如果我的学业成绩好，父母会对我更满意”的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居小明因为没有完成家庭作业而被父亲打了一巴掌。我感到非常震惊和害怕，想着自己绝不能让父母失望。",
+                "location": "邻居小明家",
+                "happen_time": "1992年4月",
+                "participants": "花晓黛，邻居小明，小明的父亲",
+                "impact": "这一事件让花晓黛更加害怕失败，强化了她“只有努力才能成功”的中间信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "小学二年级的时候，我在学校的绘画比赛中获得了二等奖。母亲看到我的奖状时非常高兴，夸我是她的骄傲。我感到非常自豪和开心。",
+                "location": "家里的客厅",
+                "happen_time": "1993年12月",
+                "participants": "花晓黛，母亲",
+                "impact": "这一事件让花晓黛感受到通过表现和成就获得的认可，进一步巩固了她“如果我取得成就，父母会更爱我”的中间信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在公园里看到一位母亲在表扬她的孩子，因为他在学校取得了好成绩。孩子的脸上充满了自豪和喜悦。我感到自己也应该努力取得好成绩，让父母为我感到自豪。",
+                "location": "公园",
+                "happen_time": "1994年11月",
+                "participants": "花晓黛，陌生的母亲，陌生的孩子",
+                "impact": "这一事件让花晓黛更加坚定了通过学业成就获得认可的信念，强化了她“我应该全力以赴在学业上取得好成绩”的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "小学四年级的时候，我在一次语文考试中只考了70分。父亲非常生气，批评我没有尽力，母亲虽然没有批评我，但也显得很失望。我感到非常内疚。",
+                "location": "家里的客厅",
+                "happen_time": "1996年5月",
+                "participants": "花晓黛，父亲，母亲",
+                "impact": "这一事件让花晓黛感到自己必须更加努力，以避免让父母失望，进一步巩固了她“我应该通过努力工作来避免让父母失望”的中间信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班上的一位同学因为没有完成作业而被老师罚站。同学的脸上满是羞愧和难过。我感到自己绝不能让这种事情发生在自己身上。",
+                "location": "学校教室",
+                "happen_time": "1993年10月",
+                "participants": "花晓黛，同学，老师",
+                "impact": "这一事件让花晓黛更加坚定了要通过努力获得认可，避免惩罚，强化了她“我应该努力学习和表现，以获得父母的认可”的中间信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "小学一年级的时候，我在一次班级演讲比赛中获得了第一名。母亲看到我的奖状时非常高兴，称赞我是她的骄傲。我感到非常自豪和开心。",
+                "location": "家里的客厅",
+                "happen_time": "1992年4月",
+                "participants": "花晓黛，母亲",
+                "impact": "这一事件让花晓黛感受到通过表现和成就获得的认可，进一步巩固了她“如果我取得成就，父母会更爱我”的中间信念。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "花晓黛",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在中学的时候，我为了准备期末考试，几乎不出去玩。有一天晚上，妈妈过来对我说：'晓黛，你这么努力，妈妈很高兴，但也要注意身体啊。' 我点了点头，但内心深处感到压力越来越大。",
+                "location": "家里的书房",
+                "happen_time": "2000年6月",
+                "participants": "妈妈",
+                "impact": "这次对话加深了我对好成绩的执着，我更加相信只有通过努力学习才能满足父母的期望，但同时也感受到压力和焦虑。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次班级排名揭晓后，我的成绩排在了前五名。同学们纷纷过来祝贺，小红拍着我的肩膀说：'晓黛，你真厉害！' 这种被认可的感觉让我心情大好。",
+                "location": "学校教室",
+                "happen_time": "2001年3月",
+                "participants": "小红，其他同学",
+                "impact": "这次经历强化了我对成绩的依赖，认为学业上的成功能带来尊重和认可，进一步巩固了我的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里听到父母在谈论我的未来。爸爸说：'晓黛如果能考上好大学，我们家就有希望了。' 妈妈则回应说：'她一直很努力，我们要多支持她。' 这番对话让我明白父母对我的期望有多高。",
+                "location": "家里的客厅",
+                "happen_time": "2002年8月",
+                "participants": "父母",
+                "impact": "这次旁听让我更加强化了对父母期望的认同，觉得自己必须努力才能不辜负他们的期望。这增加了我的责任感，但也带来了更多的压力。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "一次期中考试后，我的成绩下降了。回到家后，爸爸严厉地问：'你最近在干什么？怎么成绩下滑了？' 我低头不语，只能默默忍受责备。",
+                "location": "家里的客厅",
+                "happen_time": "2003年4月",
+                "participants": "爸爸",
+                "impact": "这次事件让我感到失败和自责，进一步强化了如果成绩不好就会失去父母认可的负面信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，听到小刚和其他同学在谈论考试作弊的事情。小刚说：'如果不作弊，我肯定考不好。' 我心里暗自庆幸自己一直诚实，但也增加了对自己成绩的忧虑。",
+                "location": "学校教室",
+                "happen_time": "2003年11月",
+                "participants": "小刚，其他同学",
+                "impact": "这次观察让我对学业竞争的压力有了更深的理解，同时也更加坚定了自己的努力才是唯一途径的信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在高考前夕，我和小红、小刚一起讨论复习计划。小红说：'我们都要加油，考上好大学才有未来。' 这句话让我更加坚定了拼搏的信念。",
+                "location": "学校图书馆",
+                "happen_time": "2004年5月",
+                "participants": "小红，小刚",
+                "impact": "这次讨论进一步强化了我的核心信念，认为学业成功是唯一的出路。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "一天晚上，我看到父母在讨论家庭经济问题。爸爸说：'晓黛如果能考上好大学，我们的压力会小很多。' 我默默听着，感到沉重的责任。",
+                "location": "家里的餐厅",
+                "happen_time": "2004年6月",
+                "participants": "父母",
+                "impact": "这次听到父母的对话让我更加意识到自己的学业成绩对家庭的重要性，增加了我的负担感。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "高考成绩公布后，我虽然没有考上理想的大学，但也顺利进入了一所本地的普通院校。父母虽然没有过多责备，但我心里始终无法释怀。",
+                "location": "家里的客厅",
+                "happen_time": "2004年7月",
+                "participants": "父母",
+                "impact": "这次经历让我感到失落和自责，进一步强化了如果不能达到期望就无法满足父母的信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到小李在组织班级活动时受到大家的称赞和拥护。我意识到，除了成绩，组织能力和领导才能也是被认可的标准。",
+                "location": "学校操场",
+                "happen_time": "2003年5月",
+                "participants": "小李，其他同学",
+                "impact": "这次观察让我开始反思自己的价值不仅仅在于学业成绩，但同时也感到自己其他方面的能力不足。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "一次在班级活动中，我尝试主动和同学们交流，并成功组织了一次小型聚会，得到了大家的认可。这让我第一次体会到除了成绩以外的成就感。",
+                "location": "学校教室",
+                "happen_time": "2003年10月",
+                "participants": "班级同学",
+                "impact": "这次经历让我感受到朋友的认可是另一种重要的价值来源，增强了我的自信心。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里看到邻居小芳和她的父母在院子里开心地聊天，父母对她的学习成绩并没有过多要求，这让我感到羡慕和迷茫。",
+                "location": "家附近的院子",
+                "happen_time": "2002年9月",
+                "participants": "小芳，邻居",
+                "impact": "这次观察让我意识到不同家庭对孩子的期望不同，开始反思自己的压力来源，但也感到无力改变现状。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在一次和小刚的谈话中，他说：'晓黛，其实你可以不用这么拼命，生活不只有学习。' 我当时没有多想，但这话在我心里埋下了种子。",
+                "location": "学校操场",
+                "happen_time": "2004年4月",
+                "participants": "小刚",
+                "impact": "这次谈话让我开始怀疑自己一直以来的信念，也让我第一次思考生活的其他可能性。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在高中毕业晚会上，我和小红、小刚、小李、小芳一起拍了很多照片，大家都很开心。这是我第一次感受到友情的温暖。",
+                "location": "学校礼堂",
+                "happen_time": "2004年6月",
+                "participants": "小红、小刚、小李、小芳",
+                "impact": "这次经历让我意识到友谊的重要性，感受到朋友的支持和认可，但也让我更加依赖朋友的认可。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在校外看到一群学生在街头表演才艺，吸引了很多观众的赞赏。这让我意识到，除了学习，才艺和兴趣也能带来认可。",
+                "location": "校外街道",
+                "happen_time": "2003年12月",
+                "participants": "街头表演的学生",
+                "impact": "这次观察让我对自己的兴趣和爱好有了新的认识，开始思考是否可以通过其他方式获得认可。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "在大学入学的第一天，我感到既兴奋又紧张。虽然不是理想的大学，但我仍然决心要在这里努力学习，证明自己的价值。",
+                "location": "大学校园",
+                "happen_time": "2004年9月",
+                "participants": "大学新同学",
+                "impact": "这次经历让我对未来充满希望，同时也感到新的压力，进一步强化了我必须通过学习来证明自己的信念。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "花晓黛",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "大学毕业后的第一个项目失败，我感到非常失落，认为自己不够优秀。当时我的上司对我说：'晓黛，你要更加努力，不能让团队失望。'这让我更加坚信自己必须在工作中表现出色才能被认可。",
+                "location": "银行办公室",
+                "happen_time": "2005年7月",
+                "participants": "上司",
+                "impact": "这次失败强化了花晓黛的核心信念'我是一个不称职的人'，并促使她更加努力工作，试图通过工作表现来获得认可。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "结婚后，我发现丈夫对于家务事的期望与我不同。他曾对我说：'你怎么连家务都做不好？'这让我更加觉得自己必须满足他人的期望，不然他们会对我失望。",
+                "location": "家中",
+                "happen_time": "2008年5月",
+                "participants": "丈夫",
+                "impact": "这次事件使花晓黛更加觉得自己必须满足他人的期望，强化了她的核心信念'我必须满足他人的期望'。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看见同事小王因为没有完成任务而被上司责备。小王非常失落，甚至流下了眼泪。我心里一紧，觉得自己绝不能犯同样的错误，否则也会被责备。",
+                "location": "银行办公室",
+                "happen_time": "2010年3月",
+                "participants": "同事小王，上司",
+                "impact": "这次观察强化了花晓黛的负面假设'如果我在学业和社交上表现不好，那就是我的失败'，让她更加害怕失败。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "女儿出生后，我感到压力很大，担心自己不能成为一个好母亲。丈夫对我说：'你要多学着怎么照顾孩子。'这让我觉得自己的价值在于为家人付出一切。",
+                "location": "家中",
+                "happen_time": "2013年6月",
+                "participants": "丈夫，女儿",
+                "impact": "这次事件强化了花晓黛的核心信念'我的价值在于我为他人付出的一切'，让她更加关注家庭的需求，而忽视了自己的需求。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次在社区活动中，我看到邻居小芳因为意见不同而与其他人发生了争执。小芳后来被孤立，我心里暗想：'我绝不能表达自己的意见，否则也会被排斥。'",
+                "location": "社区活动中心",
+                "happen_time": "2015年4月",
+                "participants": "邻居小芳，社区成员",
+                "impact": "这次观察强化了花晓黛的中间信念'我不应该有自己的意见和需求'，让她更加避免表达自己的意见。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在一次聚会上，我的朋友小张说：'晓黛，你真是个好朋友，总是能理解和支持我们。'这让我觉得我必须理解朋友的兴趣，才能维持良好的关系。",
+                "location": "朋友家中",
+                "happen_time": "2017年8月",
+                "participants": "朋友小张",
+                "impact": "这次事件强化了花晓黛的中间信念'如果我能理解朋友的兴趣，我们的关系会更好'，让她更加关注朋友的需求和兴趣。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "在单位的一次培训会上，我看到同事小刘因为在讨论中提出不同意见而被大家忽视。我心里更加坚定了不应表达自己意见的想法。",
+                "location": "银行培训室",
+                "happen_time": "2018年11月",
+                "participants": "同事小刘，培训讲师，同事们",
+                "impact": "这次观察强化了花晓黛的中间信念'我应该避免表达自己的意见，以免与朋友和家人产生冲突'，让她更加小心翼翼地避免冲突。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我的嫂子对我说：'晓黛，你真是个贤妻良母。'我感到很高兴，但同时也觉得自己必须继续满足家庭所有人的需求。",
+                "location": "家中",
+                "happen_time": "2019年2月",
+                "participants": "嫂子",
+                "impact": "这次事件强化了花晓黛的核心信念'我的价值在于我为他人付出的一切'，让她进一步忽视自己的需求。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到社区活动中的小陈因为总是帮助别人而受到大家的称赞。我心里想，只有为他人付出，才能得到认可。",
+                "location": "社区活动中心",
+                "happen_time": "2020年6月",
+                "participants": "社区成员小陈，其他社区成员",
+                "impact": "这次观察强化了花晓黛的核心信念'我的价值在于我为他人付出的一切'，让她更加坚定了为他人付出的信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "与女儿因为追星问题发生了矛盾，我感到非常烦躁和无助。女儿对我说：'妈妈，你根本不理解我！'这让我反省自己是否真的理解和满足家人的需求。",
+                "location": "家中",
+                "happen_time": "2021年3月",
+                "participants": "女儿",
+                "impact": "这次事件让花晓黛意识到自己的中间信念'我应该把朋友和家人的需求放在首位'可能并不总是正确的，开始反思自己的行为。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "花晓黛",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我和女儿在厨房里发生了争执，因为她想参加一个偶像的演唱会，而我觉得这个偶像对她的学业没有任何帮助。她说我不理解她，最后摔门而出。",
+                "location": "家里的厨房",
+                "happen_time": "2024年1月",
+                "participants": "花晓黛，女儿",
+                "impact": "这次争执让花晓黛觉得自己是个不称职的母亲，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，花晓黛的母亲提到她父亲的健康状况越来越糟糕。花晓黛感到非常无助，觉得自己无法平衡家庭和工作。",
+                "location": "父母家",
+                "happen_time": "2024年2月",
+                "participants": "花晓黛，父母",
+                "impact": "这次谈话让花晓黛感到压力倍增，觉得自己必须满足所有人的期望，导致情绪更加低落。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "花晓黛在工作中因一个错误被上司批评，她感到非常沮丧，觉得自己对家庭和工作都没有价值。",
+                "location": "银行工作地点",
+                "happen_time": "2024年3月",
+                "participants": "花晓黛，上司",
+                "impact": "这次批评让她对自己的价值产生了怀疑，进一步加剧了她的抑郁情绪。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "花晓黛在社区活动中遇到了一位老朋友，两人聊起了各自的家庭。朋友提到她的孩子和她关系很好，这让花晓黛感到非常羡慕和自责。",
+                "location": "社区活动场所",
+                "happen_time": "2024年4月",
+                "participants": "花晓黛，老朋友",
+                "impact": "这次谈话让她更加确信自己是一个不称职的母亲，情绪更加低落。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "花晓黛尝试和女儿一起看她喜欢的偶像的节目，但女儿觉得她只是敷衍，结果两人又发生了争执。",
+                "location": "家里的客厅",
+                "happen_time": "2024年5月",
+                "participants": "花晓黛，女儿",
+                "impact": "这次争执让花晓黛感到自己无法理解和支持女儿，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "花晓黛的丈夫提到他觉得她最近情绪不稳定，建议她去看心理医生。这让花晓黛感到非常无助和失望。",
+                "location": "家里",
+                "happen_time": "2024年6月",
+                "participants": "花晓黛，丈夫",
+                "impact": "这次谈话让她觉得自己在家庭中的地位受到了威胁，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "花晓黛决定辞去工作，专心照顾家庭，但她发现自己的情绪并没有好转，反而更加焦虑和抑郁。",
+                "location": "家里",
+                "happen_time": "2024年7月",
+                "participants": "花晓黛",
+                "impact": "这次辞职让她觉得自己失去了自我价值，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "花晓黛在一次家庭聚会上因为女儿的表现和亲戚发生了争执，她感到非常尴尬和无助。",
+                "location": "父母家",
+                "happen_time": "2024年8月",
+                "participants": "花晓黛，女儿，亲戚",
+                "impact": "这次争执让她觉得自己无法满足家人的期望，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "花晓黛在社区活动中观察到其他家庭和谐的互动，她感到非常羡慕和失落。",
+                "location": "社区活动场所",
+                "happen_time": "2023年12月",
+                "participants": "花晓黛，社区活动成员",
+                "impact": "这次观察让她更加觉得自己是一个不称职的母亲，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "花晓黛在公司年会上看到同事因为工作表现出色而受到表彰，她感到非常自卑和无助。",
+                "location": "公司年会场所",
+                "happen_time": "2023年11月",
+                "participants": "花晓黛，同事",
+                "impact": "这次观察让她觉得自己在工作中也没有价值，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "花晓黛在一次与丈夫的谈话中提到自己感到非常疲惫和无助，但丈夫并没有给予足够的关心和支持。",
+                "location": "家里",
+                "happen_time": "2023年10月",
+                "participants": "花晓黛，丈夫",
+                "impact": "这次谈话让她觉得自己在家庭中也得不到支持，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "花晓黛在一次家庭聚会上因为女儿的表现和亲戚发生了争执，她感到非常尴尬和无助。",
+                "location": "父母家",
+                "happen_time": "2023年9月",
+                "participants": "花晓黛，女儿，亲戚",
+                "impact": "这次争执让她觉得自己无法满足家人的期望，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "花晓黛在一次家庭聚会上因为女儿的表现和亲戚发生了争执，她感到非常尴尬和无助。",
+                "location": "父母家",
+                "happen_time": "2023年8月",
+                "participants": "花晓黛，女儿，亲戚",
+                "impact": "这次争执让她觉得自己无法满足家人的期望，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "花晓黛在社区活动中观察到其他家庭和谐的互动，她感到非常羡慕和失落。",
+                "location": "社区活动场所",
+                "happen_time": "2023年7月",
+                "participants": "花晓黛，社区活动成员",
+                "impact": "这次观察让她更加觉得自己是一个不称职的母亲，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "花晓黛在公司年会上看到同事因为工作表现出色而受到表彰，她感到非常自卑和无助。",
+                "location": "公司年会场所",
+                "happen_time": "2023年6月",
+                "participants": "花晓黛，同事",
+                "impact": "这次观察让她觉得自己在工作中也没有价值，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "花晓黛在一次家庭聚会上因为女儿的表现和亲戚发生了争执，她感到非常尴尬和无助。",
+                "location": "父母家",
+                "happen_time": "2023年5月",
+                "participants": "花晓黛，女儿，亲戚",
+                "impact": "这次争执让她觉得自己无法满足家人的期望，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "花晓黛在社区活动中观察到其他家庭和谐的互动，她感到非常羡慕和失落。",
+                "location": "社区活动场所",
+                "happen_time": "2023年4月",
+                "participants": "花晓黛，社区活动成员",
+                "impact": "这次观察让她更加觉得自己是一个不称职的母亲，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "花晓黛在公司年会上看到同事因为工作表现出色而受到表彰，她感到非常自卑和无助。",
+                "location": "公司年会场所",
+                "happen_time": "2023年3月",
+                "participants": "花晓黛，同事",
+                "impact": "这次观察让她觉得自己在工作中也没有价值，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "花晓黛在一次家庭聚会上因为女儿的表现和亲戚发生了争执，她感到非常尴尬和无助。",
+                "location": "父母家",
+                "happen_time": "2023年2月",
+                "participants": "花晓黛，女儿，亲戚",
+                "impact": "这次争执让她觉得自己无法满足家人的期望，进一步加重了她的抑郁情绪。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "花晓黛在社区活动中观察到其他家庭和谐的互动，她感到非常羡慕和失落。",
+                "location": "社区活动场所",
+                "happen_time": "2023年1月",
+                "participants": "花晓黛，社区活动成员",
+                "impact": "这次观察让她更加觉得自己是一个不称职的母亲，进一步加重了她的抑郁情绪。"
+            }
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我需要别人的认可。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我可以适应新的环境。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我表现得不好，我就是失败者。",
+                "others": "他人会因为我的不足而看不起我。",
+                "world": "世界是竞争激烈而无情的。"
+            },
+            "rules": "我必须努力避免犯错。",
+            "positive_assumption": "如果我不犯错，我就可以避免被人看不起。",
+            "negative_assumption": "如果我犯了错，我会被视为失败者。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是需要改进自己。",
+                "others": "他人很容易发现我的缺点。",
+                "world": "这个世界对不完美的人不宽容。"
+            },
+            "rules": "我应该不断努力提高自己。",
+            "positive_assumption": "如果我不断改进自己，我会变得更好。",
+            "negative_assumption": "如果我没有进步，我会被他人看不起。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须得到他人的认可才能感到自信。",
+                "others": "他人的评价对我很重要。",
+                "world": "世界是基于他人的评价来决定价值的。"
+            },
+            "rules": "我应该努力让别人满意。",
+            "positive_assumption": "如果别人认可我，我会感到有价值。",
+            "negative_assumption": "如果别人不认可我，我会觉得自己没有价值。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要他人的支持才能成功。",
+                "others": "他人能给我提供重要的帮助。",
+                "world": "世界是一个互相依赖的地方。"
+            },
+            "rules": "我应该寻求他人的支持和认可。",
+            "positive_assumption": "如果我得到他人的支持，我会更容易成功。",
+            "negative_assumption": "如果我得不到他人的支持，我会感到孤立和无助。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力适应新的环境。",
+                "others": "他人也在努力适应新的环境。",
+                "world": "世界是充满挑战和机遇的。"
+            },
+            "rules": "我应该积极面对新的挑战。",
+            "positive_assumption": "如果我积极面对挑战，我会逐渐适应并成长。",
+            "negative_assumption": "如果我逃避挑战，我会错过成长的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我能找到解决问题的方法。",
+                "others": "他人也在不断寻找解决之道。",
+                "world": "世界上总会有办法解决问题。"
+            },
+            "rules": "我应该保持积极的心态去寻找解决问题的方法。",
+            "positive_assumption": "如果我保持积极的心态，我会找到解决问题的方法。",
+            "negative_assumption": "如果我失去信心，我会错过解决问题的机会。"
+        }
+    ]
+}

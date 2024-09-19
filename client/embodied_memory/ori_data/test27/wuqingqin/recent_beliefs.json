@@ -1,0 +1,99 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须努力工作才能得到认可。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有能力克服困难。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我犯错误，那就证明我不够好。",
+                "others": "他人会认为我不值得信任。",
+                "world": "世界对失败者没有宽容。"
+            },
+            "rules": "我应该避免犯错。",
+            "positive_assumption": "如果我避免犯错，我就不会被批评。",
+            "negative_assumption": "如果我犯错，我会被认为不够好。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须证明自己，否则我就不够好。",
+                "others": "他人不会轻易认可我。",
+                "world": "成功者是少数，我必须更加努力。"
+            },
+            "rules": "我要时刻保持高标准。",
+            "positive_assumption": "如果我始终保持高标准，人们会认可我。",
+            "negative_assumption": "如果我达不到高标准，我会被认为不够好。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须比别人更努力才能被认可。",
+                "others": "他人只会认可那些付出极大努力的人。",
+                "world": "世界是竞争激烈的，只有努力工作才能成功。"
+            },
+            "rules": "我应该尽可能多地工作。",
+            "positive_assumption": "如果我努力工作，我会得到认可。",
+            "negative_assumption": "如果我不努力工作，我会被忽视。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须不断提升自己才能被认可。",
+                "others": "他人会认可那些不断进步的人。",
+                "world": "世界是不断变化的，我必须跟上变化。"
+            },
+            "rules": "我应该不断学习和成长。",
+            "positive_assumption": "如果我不断学习和成长，我会被认可。",
+            "negative_assumption": "如果我停止学习和成长，我会被遗忘。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力解决问题并面对挑战。",
+                "others": "他人可以提供帮助，但我能够独立应对大部分问题。",
+                "world": "世界充满机会和挑战，我有能力应对。"
+            },
+            "rules": "当遇到问题时，我应该积极应对并采取行动。",
+            "positive_assumption": "如果我面对问题，我会变得更强大并获得新的经验。",
+            "negative_assumption": "如果我回避问题，我会失去成长和发展的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我能够从错误中学习并改进。",
+                "others": "他人会理解并支持我的学习和改进过程。",
+                "world": "世界是一个学习和成长的地方。"
+            },
+            "rules": "当犯错误时，我应该反思并改进。",
+            "positive_assumption": "如果我从错误中学习，我会变得更强大。",
+            "negative_assumption": "如果我不反思并改进，我会重复同样的错误。"
+        }
+    ]
+}

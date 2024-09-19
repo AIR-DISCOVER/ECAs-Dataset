@@ -1,0 +1,160 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "内向",
+            "敏感",
+            "缺乏自信",
+            "勤奋"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "长发",
+            "戴眼镜",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "绘画",
+                "看电影",
+                "玩游戏"
+            ],
+            "activity": [
+                "和朋友一起看电影",
+                "周末去图书馆",
+                "在家听音乐放松"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "通过即将到来的考试，提升自己的学术成绩",
+            "long_term_goals": "找到一份自己喜欢的工作，能够独立生活"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到学校上课，下午4点放学后在图书馆自习，晚上10点回宿舍休息。",
+            "weekends": "周末通常会在家里休息，偶尔会和朋友出去看电影或逛街。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母工作忙碌，小时候常常一个人在家。",
+            "adolescence": "中学时期成绩一般，曾因为成绩不理想而感到自卑。",
+            "recent_events": "今年暑假确诊为双相情感障碍，但不愿意接受药物治疗。最近因为考试临近而感到紧张和焦虑。"
+        },
+        "environment": "出生在一个小城市，家庭经济状况一般。高中毕业后考入了一所普通大学，目前在大学里学习。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "华聪婷的父母工作忙碌，但他们尽量在有限的时间里关心她的成长。尽管他们的陪伴时间不多，但他们的爱和支持一直是她的精神支柱。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "华聪婷在小学时有一个好朋友，两人经常一起玩耍和学习。虽然她们后来因为升学分开了，但这段友谊对她的童年有着重要的意义。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "进入中学后，华聪婷与父母的关系变得有些疏远，主要是因为她开始有了自己的小秘密和独立的想法。尽管如此，父母依然是她最重要的支持者。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "在中学时期，华聪婷的成绩一般，这让她感到自卑，不太愿意与同学们交流。她有几个普通朋友，但关系并不深厚。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "华聪婷的班主任是一位非常关心学生的老师，曾多次鼓励她努力学习，并在她成绩不理想时给予了很多帮助。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "华聪婷在大学期间与父母的联系减少了，但他们依然关心她的生活和学习情况。她不愿意告诉父母自己确诊双相情感障碍的事情，担心他们会过于担心。"
+                    ]
+                },
+                {
+                    "relationship": "室友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "华聪婷的室友是她在大学里最亲近的人，她们经常一起学习和娱乐。尽管她们并不知道华聪婷的心理问题，但她们的陪伴让她感到温暖。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "华聪婷在大学里结交了几个朋友，她们偶尔会一起出去看电影或逛街。这些朋友虽然关系不算特别亲密，但在她感到孤独时提供了一些支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "华聪婷的社交关系在不同阶段有明显的变化。童年时期，她主要依赖父母和一个好朋友。进入中学后，她的自卑情绪让她与同学和父母的关系变得疏远。到了大学，她开始结交新朋友和室友，但依然保持一定的距离。她的社交能力和意愿在不同阶段都有所变化，主要受到自信心和心理状态的影响。"
+    }
+}

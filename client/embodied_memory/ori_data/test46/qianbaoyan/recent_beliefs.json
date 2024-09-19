@@ -1,0 +1,161 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我不值得被爱。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我没有价值。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我需要别人的认可。"
+        },
+        {
+            "belief_id": "core_belief_5",
+            "stage_key": "recent_events",
+            "belief": "我有能力面对挑战。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不够好，我就不会成功。",
+                "others": "他人会因为我的不足而看不起我。",
+                "world": "世界对不够好的人非常苛刻。"
+            },
+            "rules": "我必须努力掩盖我的不足。",
+            "positive_assumption": "如果我掩盖不足，他人会认可我。",
+            "negative_assumption": "如果我暴露不足，我会被他人鄙视。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我永远达不到别人的期望。",
+                "others": "别人总是期待我完美无缺。",
+                "world": "这个世界对我的要求太高。"
+            },
+            "rules": "我应该永远追求完美。",
+            "positive_assumption": "如果我追求完美，我会被认可。",
+            "negative_assumption": "如果我不追求完美，我就会失败。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我被爱，那只是暂时的。",
+                "others": "他人不会长久地爱我。",
+                "world": "爱是短暂的，随时可能失去。"
+            },
+            "rules": "我必须不断证明自己值得被爱。",
+            "positive_assumption": "如果我不断证明自己，我会保持被爱。",
+            "negative_assumption": "如果我停止证明自己，我就会被抛弃。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得他人的关心和支持。",
+                "others": "他人不可能真正关心我。",
+                "world": "世界是冷漠的，对我不关心。"
+            },
+            "rules": "我应该避免依赖他人的关心。",
+            "positive_assumption": "如果我避免依赖，我会更坚强。",
+            "negative_assumption": "如果我依赖他人，我会失望。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我对任何事情都没有价值。",
+                "others": "别人看不到我的价值。",
+                "world": "世界对我毫无价值可言。"
+            },
+            "rules": "我不应该期待自己有价值。",
+            "positive_assumption": "如果我不期待自己有价值，我就不会失望。",
+            "negative_assumption": "如果我期待自己有价值，我会发现自己一无是处。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的存在没有意义。",
+                "others": "别人不会在乎我的存在。",
+                "world": "世界不会因为我的存在而改变。"
+            },
+            "rules": "我不应该期待自己有任何意义。",
+            "positive_assumption": "如果我不期待意义，我会更平静。",
+            "negative_assumption": "如果我期待意义，我会发现自己毫无意义。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我只有在被认可时才有价值。",
+                "others": "他人的认可决定我的价值。",
+                "world": "世界上的一切都取决于他人的眼光。"
+            },
+            "rules": "我必须追求他人的认可。",
+            "positive_assumption": "如果我被认可，我会感到有价值。",
+            "negative_assumption": "如果我得不到认可，我会觉得自己毫无价值。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须不断努力以获得认可。",
+                "others": "他人只会认可我的成就。",
+                "world": "世界对平庸的人没有耐心。"
+            },
+            "rules": "我应该一直努力工作。",
+            "positive_assumption": "如果我努力工作，我会被认可。",
+            "negative_assumption": "如果我不努力工作，我会被忽视。"
+        },
+        {
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力解决问题。",
+                "others": "他人可以给予我帮助，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我可以应对生活中的变化。",
+                "others": "他人可能会质疑我，但我有信心应对。",
+                "world": "世界是动态变化的，但我有足够的能力适应。"
+            },
+            "rules": "我应该始终保持积极的心态。",
+            "positive_assumption": "如果我保持积极，我会更好地适应变化。",
+            "negative_assumption": "如果我消极，我会被生活中的变化压倒。"
+        }
+    ]
+}

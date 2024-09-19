@@ -1,0 +1,162 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "细腻",
+            "缺乏自信",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "纤细",
+            "皮肤白皙",
+            "长发",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "独自散步",
+                "在图书馆学习",
+                "和朋友聊天"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "改善睡眠质量，提升注意力和记忆力，完成学业",
+            "long_term_goals": "找到一份稳定的工作，能够独立生活，提升自信心"
+        },
+        "daily_life": {
+            "routine": "早上7点起床，8点到学校上课，下午在图书馆自习，晚上10点回宿舍，尝试在11点前入睡。",
+            "weekends": "周末通常在宿舍休息，偶尔会和朋友出去看电影或逛街，但更多时候会选择在图书馆看书或画画。"
+        },
+        "past_experiences": {
+            "childhood": "小时候在一个小城市长大，父母工作忙碌，常常独自一人在家。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多，常常感到孤独。",
+            "recent_events": "最近因为学业压力大，睡眠质量下降，注意力和记忆力变差，情绪波动较大。"
+        },
+        "environment": "出生在一个小城市，家庭经济状况一般。高中毕业后考入省城的一所大学，目前住在学校宿舍。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "费悦媛的父母工作忙碌，虽然他们尽力在有限的时间里陪伴她，但她常常独自一人在家。父母对她的关心更多体现在物质上，而不是情感上的交流。"
+                    ]
+                },
+                {
+                    "relationship": "祖父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "费悦媛的祖父母住在同一个小城市，偶尔会来照顾她。虽然他们的关心让她感到温暖，但由于代沟，交流并不深入。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "费悦媛在小学时有一个好朋友，但由于性格内向，她们的友谊并不深厚。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期，费悦媛成绩优异，但因为性格内向，朋友不多。她与同学的关系大多停留在表面，缺乏深层次的交流。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "费悦媛的老师们对她的学业表现非常满意，但由于她的内向性格，师生之间的交流也较为有限。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "大学同学",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "在大学里，费悦媛结识了几位同学，她们偶尔会一起学习和聊天，但由于费悦媛的内向性格，这些关系并不算特别亲密。"
+                    ]
+                },
+                {
+                    "relationship": "室友",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "费悦媛的室友是她在大学里最亲近的人之一，她们经常一起讨论学业和生活中的问题。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "费悦媛最近开始定期看心理咨询师，虽然时间不长，但她已经开始感受到一些帮助。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "费悦媛的社交能力和意愿在不同阶段有明显变化。童年时期，她的社交圈子主要限于家庭成员，缺乏同龄人的陪伴。进入中学后，虽然成绩优异，但内向的性格使她难以建立深厚的友谊。最近，由于学业压力和情绪波动，她的社交活动进一步减少，更多时间选择独处或与少数亲近的人交流。心理咨询师的介入让她开始尝试改善自己的社交状况，但效果尚不明显。"
+    }
+}

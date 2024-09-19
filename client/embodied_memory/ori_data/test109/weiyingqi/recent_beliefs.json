@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须满足别人的期望。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我无法控制自己的生活。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我可以通过努力改善自己的情况。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我失败，就证明我真的不够好。",
+                "others": "他人会看不起我，认为我无能。",
+                "world": "世界充满了对我的评判和期待。"
+            },
+            "rules": "我必须避免失败。",
+            "positive_assumption": "如果我避免失败，我就不会被看不起。",
+            "negative_assumption": "如果我失败了，我会被视为无能。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要不断努力，才能证明自己。",
+                "others": "他人只会认可成功的人。",
+                "world": "成功是获得认可的唯一途径。"
+            },
+            "rules": "我应该一直努力，不断追求成功。",
+            "positive_assumption": "如果我成功了，我会被认可和尊重。",
+            "negative_assumption": "如果我不努力，我会被视为失败者。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须满足别人的期待，才能被认可。",
+                "others": "他人对我的期望很高，我不能让他们失望。",
+                "world": "世界上只有通过满足他人期望才能获得认可。"
+            },
+            "rules": "我应该竭尽全力满足他人的期望。",
+            "positive_assumption": "如果我满足了别人的期望，我会被认可和接受。",
+            "negative_assumption": "如果我无法满足别人的期望，我会被拒绝和忽视。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要不断努力，才能符合别人的期望。",
+                "others": "他人会因为我的努力而认可我。",
+                "world": "只有通过不断努力才能获得他人的认可。"
+            },
+            "rules": "我应该一直努力，争取符合他人的期望。",
+            "positive_assumption": "如果我不断努力，我会被认可和尊重。",
+            "negative_assumption": "如果我放弃努力，我会被视为不值得认可。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法改变现状，生活对我不公平。",
+                "others": "他人不会理解我所处的困境。",
+                "world": "世界对我充满了不公平和挑战。"
+            },
+            "rules": "我不应该期望过多，因为我无法控制生活。",
+            "positive_assumption": "如果我降低期望，我会减少失望。",
+            "negative_assumption": "如果我期望过高，我会感到更失望。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我对生活的控制力很弱，经常感到无助。",
+                "others": "他人无法帮助我改变我的处境。",
+                "world": "世界对我充满了不可控的因素。"
+            },
+            "rules": "我应该尽量避免冒险和改变。",
+            "positive_assumption": "如果我避免冒险，我会减少失败的可能。",
+            "negative_assumption": "如果我尝试改变，我可能会失败得更惨。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我可以通过努力改善自己的状况。",
+                "others": "他人可能会帮助我，但我主要依靠自己。",
+                "world": "世界虽然充满挑战，但也充满机会。"
+            },
+            "rules": "我应该主动采取行动，努力改变现状。",
+            "positive_assumption": "如果我努力，我会看到积极的改变。",
+            "negative_assumption": "如果我不努力，我的状况会继续恶化。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力面对挑战，并找到解决问题的方法。",
+                "others": "他人可能会给予我支持，但我需要依靠自己。",
+                "world": "世界充满机会，我有能力去发掘。"
+            },
+            "rules": "我应该积极面对挑战，寻找解决办法。",
+            "positive_assumption": "如果我积极面对，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "犹豫不决",
+            "自卑",
+            "善良",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "皮肤白皙",
+            "长发",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "看电影",
+                "写日记"
+            ],
+            "activity": [
+                "偶尔看短视频",
+                "散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "找到一份适合自己的工作，能够平衡学习和家庭责任",
+            "long_term_goals": "成为一名心理咨询师，帮助像自己一样的人走出困境"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后感到特别沉重，勉强完成日常的学习任务，下午稍微好一些，但仍然感到疲倦。晚上入睡困难，经常做噩梦。",
+            "weekends": "周末大部分时间在家，偶尔会出去散步，但更多时候是躺在床上看短视频，试图让自己放松。"
+        },
+        "past_experiences": {
+            "childhood": "小时候家庭和睦，但父母对她的期望很高，常常感到压力。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多。高考失利后，开始对自己产生怀疑。",
+            "recent_events": "最近家里长辈生病需要手术，手术后需要照顾老人，这与她找工作的计划产生冲突，家人不理解她的困境，认为她懒惰，这让她感到更加无助和自责。"
+        },
+        "environment": "出生在一个小城市，家庭经济状况一般。大学在省会城市就读，现居住在学校宿舍。",
+        "persona_summary": "柳亚梦，23岁，未婚学生，性格内向、敏感、自卑且有责任感。近期因家里长辈生病需手术，与找工作计划冲突，家人不理解，她感到无助和自责。症状包括情绪低落、兴趣减退、精力不足、睡眠障碍、自罪感及自杀风险高。她的短期目标是找到适合的工作，长期目标是成为心理咨询师。日常生活中感到疲倦，偶尔散步或看短视频放松。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父母对她的期望很高，常常感到压力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "有几个玩伴，但关系一般。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "父母对她的期望依然很高，关系有些紧张。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "有一个比较亲密的朋友，但因为性格内向，朋友不多。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "与几位老师关系较好，老师们对她的成绩有很高的期望。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "父母对她的理解不多，认为她懒惰，关系变得更加紧张。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "与朋友的联系减少，几乎不再交流。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "与同学的关系一般，偶尔交流，但不深入。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "与心理咨询师的交流较多，感到一定的支持和理解。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "柳亚梦在不同阶段的社交关系发生了显著变化。童年时期，她与父母关系紧密，但感到压力。青春期，她的朋友不多，主要依赖父母和老师的支持。最近，她的社交关系进一步退缩，与父母和朋友的关系变得紧张，几乎不再与朋友交流。她开始依赖心理咨询师的支持，感到一定的理解和帮助。"
+    }
+}

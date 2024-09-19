@@ -1,0 +1,500 @@
+{
+    "childhood": {
+        "name": "周全岩",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "5岁时，我第一次参加幼儿园的表演活动。妈妈在台下微笑着看我。我努力表现得最好，表演结束后，她抱着我说：'岩岩真棒，妈妈为你骄傲。'那一刻，我感受到了极大的幸福感。",
+                "location": "幼儿园",
+                "happen_time": "1992年5月",
+                "participants": "妈妈、幼儿园同学、老师",
+                "impact": "这次经历强化了我对优秀表现的追求，让我相信努力会得到认可和爱。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "7岁时，我在一次数学竞赛中得了第一名，老师在全班面前表扬了我。回到家后，父亲特意为我做了我最喜欢的菜，并且对我说：'你是爸爸的骄傲。'我感到非常自豪。",
+                "location": "小学教室和家里",
+                "happen_time": "1994年3月",
+                "participants": "父亲、老师、同学",
+                "impact": "这次成功让我更加坚定了要在学业上表现优秀的信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "8岁时，我在一次考试中考得不理想，回家后父母非常生气，父亲严厉地对我说：'你怎么能考这么差？你必须更努力。'我感到非常内疚和失望。",
+                "location": "家里",
+                "happen_time": "1995年6月",
+                "participants": "父母",
+                "impact": "这次失败让我感到如果不够优秀，就会让父母失望，从而强化了我内心对优秀表现的执着。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的孩子因为考试成绩不好，被父母责骂。父母的严厉态度让我心生畏惧，害怕自己也会遭遇同样的情况。",
+                "location": "邻居家",
+                "happen_time": "1995年10月",
+                "participants": "邻居家的孩子及其父母",
+                "impact": "这次观察让我对考试成绩的重视进一步加深，担心会遭到批评和失望。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "9岁时，我和几个好朋友一起参加了学校的科学展览，我们的项目得了奖。父母对我说：'团队合作也很重要。'我感到非常开心。",
+                "location": "小学科学展览",
+                "happen_time": "1996年4月",
+                "participants": "父母、好朋友、老师",
+                "impact": "这次成功让我意识到团队合作的重要性，也让我对自己的能力更有信心。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次我在家里听到父母讨论经济上的困难，母亲说：'我们必须更加努力工作，才能给孩子提供更好的生活。'我在房间里默默地听着，感到非常心疼。",
+                "location": "家里",
+                "happen_time": "1996年7月",
+                "participants": "父母",
+                "impact": "这次观察让我更加明白了父母的期望和家庭责任感的重要性，激励我更加努力。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "10岁时，我生了一场病，母亲整夜陪在我身边照顾我。她温柔地对我说：'你一定会好起来的，我们都在你身边。'我感到非常温暖和安全。",
+                "location": "家里",
+                "happen_time": "1997年3月",
+                "participants": "母亲",
+                "impact": "这次经历让我感受到母爱的力量，也让我更加坚定了对家庭责任感的信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "11岁时，我在学校的运动会上摔倒了，没能完成比赛。我感到非常沮丧，但父母安慰我说：'没关系，重要的是你已经尽力了。'我感到一丝宽慰。",
+                "location": "学校运动场",
+                "happen_time": "1998年5月",
+                "participants": "父母、同学、老师",
+                "impact": "这次失败虽然让我感到痛苦，但也让我学会了接受失败，并理解努力比结果更重要。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父亲在工厂里加班到很晚，回家时满身疲惫。母亲给他端上热汤，他感激地笑了。我在一旁静静地看着，感到非常心疼。",
+                "location": "家里",
+                "happen_time": "1998年8月",
+                "participants": "父亲、母亲",
+                "impact": "这次观察让我更加理解了父母为家庭所付出的努力，也让我感到自己有责任为家庭分担压力。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "12岁时，我在一次科学竞赛中取得了全国一等奖，学校为我举行了颁奖典礼。父母激动地对我说：'我们为你感到自豪。'我感到无比的骄傲和幸福。",
+                "location": "学校礼堂",
+                "happen_time": "1999年5月",
+                "participants": "父母、老师、同学",
+                "impact": "这次巨大的成功让我对自己的能力有了更强的信心，也进一步坚定了我必须表现优秀的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个同学因为成绩不理想被老师当众批评，他低着头，眼中闪烁着泪光。我感到非常难过和同情，也更加害怕自己会遭遇同样的情况。",
+                "location": "学校教室",
+                "happen_time": "1999年10月",
+                "participants": "同学、老师",
+                "impact": "这次观察让我对成绩的压力更加深重，也让我更加努力以避免被批评。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "周全岩",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在一次期中考试后，我拿到了全班第一的成绩。当我回到家告诉父母时，他们脸上露出了骄傲的笑容，父亲拍了拍我的肩膀说：‘全岩，干得好！继续保持！’",
+                "location": "家里",
+                "happen_time": "2001年11月",
+                "participants": "父母",
+                "impact": "这次事件强化了我的核心信念‘我必须是完美的’，因为我感受到了父母对我成绩的认可和期望。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次化学实验中，我不小心把试剂弄洒了，导致实验失败。老师把我叫到一边，语重心长地说：‘周全岩，实验室里需要精确和细心，不能有任何差错。’",
+                "location": "学校实验室",
+                "happen_time": "2002年3月",
+                "participants": "化学老师",
+                "impact": "这次事件让我感受到失败和自责，强化了我的中间信念‘如果我不高效和准确，我会失去老师和同学的信任’。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家中听见父母讨论家庭经济问题。父亲叹气说：‘我们得省吃俭用，为了让全岩上好大学，我们得多存点钱。’",
+                "location": "家里",
+                "happen_time": "2002年5月",
+                "participants": "父母",
+                "impact": "这次事件让我意识到家庭对我学业的期望和经济压力，进一步强化了我的核心信念‘我需要对家人和学业负责’。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在一次班级学术竞赛中，我和我的同学们合作，最终获得了第一名。班主任在全班面前表扬我们，并特地提到我的领导能力。",
+                "location": "学校教室",
+                "happen_time": "2003年4月",
+                "participants": "同学们、班主任",
+                "impact": "这次成功让我增强了自信，强化了我的核心信念‘我有能力解决问题’，并进一步巩固了我对完美和责任的追求。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一天，我看到一位同学因为成绩不好而被老师批评，他低头默默流泪。那一刻，我感受到深深的同情和压力。",
+                "location": "学校教室",
+                "happen_time": "2003年6月",
+                "participants": "同学、老师",
+                "impact": "这次观察让我更加坚定了追求完美的必要性，以避免自己陷入同样的境地，强化了‘如果我不完美，我会被视为无能和失败’的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，亲戚们纷纷问我未来的打算，我坚定地说‘我要成为一名医生’。大家纷纷赞许，父母也显得特别自豪。",
+                "location": "家庭聚会",
+                "happen_time": "2004年2月",
+                "participants": "亲戚、父母",
+                "impact": "这次事件让我感受到来自家庭和社会的期望，进一步加深了‘我需要对家人和学业负责’的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在高考前的最后一次模拟考试中，我因压力过大导致成绩不理想。当我告诉父母时，他们虽然安慰我，但我能感受到他们的失望。",
+                "location": "家里",
+                "happen_time": "2005年5月",
+                "participants": "父母",
+                "impact": "这次事件让我感受到巨大的压力和自责，强化了‘如果我不完美，我会被视为无能和失败’的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我注意到班主任在课堂上表扬了一位同学的进步，并鼓励大家向他学习。这让我意识到努力和进步的重要性。",
+                "location": "学校教室",
+                "happen_time": "2005年3月",
+                "participants": "同学、班主任",
+                "impact": "这次观察让我意识到即使不是完美，只要努力和进步也是值得被认可的，稍微缓解了对完美的极端追求。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "在高考成绩出来后，我成功考入了理想的医学院。父母激动地拥抱我，母亲甚至流下了眼泪。",
+                "location": "家里",
+                "happen_time": "2005年7月",
+                "participants": "父母",
+                "impact": "这次事件让我感受到巨大的成就感和满足感，强化了‘我有能力解决问题’的核心信念。同时，也感受到承担家庭和学业责任的重要性。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "在医院实习期间，我目睹了一位资深医生在处理紧急情况时的从容和专业。这让我对未来的职业有了更深的向往。",
+                "location": "医院",
+                "happen_time": "2005年8月",
+                "participants": "资深医生",
+                "impact": "这次观察让我对未来的职业有了更明确的目标和动力，强化了‘我必须是完美的’和‘我有能力解决问题’的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在我第一次独立处理病患时，虽然紧张但最终顺利完成。病人对我表示感谢，这让我感受到作为医生的责任和成就感。",
+                "location": "医院",
+                "happen_time": "2005年9月",
+                "participants": "病人",
+                "impact": "这次经历让我更加坚定了‘我有能力解决问题’的核心信念，并进一步巩固了对学业和职业责任的追求。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "周全岩",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我在大学期间第一次参加了全国性医学竞赛，并获得了一等奖。颁奖仪式上，导师拍了拍我的肩膀，说我很有潜力，这给了我极大的信心。",
+                "location": "大学校园",
+                "happen_time": "2008年5月",
+                "participants": "导师，同学",
+                "impact": "正面影响，增强了我对学术能力的自信，强化了核心信念'我有能力解决问题'。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在医院实习期间，我第一次独立处理了一个复杂的病例。尽管压力很大，但最后病人的康复让我感到非常满足，导师和同事们也对我表示了肯定。",
+                "location": "大型医院",
+                "happen_time": "2010年8月",
+                "participants": "导师，同事，病人",
+                "impact": "正面影响，进一步加深了核心信念'我有能力解决问题'和中间信念'如果我面对挑战并解决问题，我会变得更强大'。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "我的父亲突然生病住院，我需要在学业和照顾家庭之间找到平衡。这段时间我倍感压力，但最终通过合理安排时间，顺利完成了学业并照顾好了父亲。",
+                "location": "家庭和医院",
+                "happen_time": "2012年3月",
+                "participants": "家人，导师，同学",
+                "impact": "正面和负面影响并存，强化了核心信念'我需要对家人和工作负责'，但也增加了心理负担，可能引发了焦虑。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "一次，我看到导师因为一个同学的研究报告不合格而大发雷霆。这让我意识到学术界的竞争和压力，也加深了我对完美主义的追求。",
+                "location": "大学实验室",
+                "happen_time": "2013年5月",
+                "participants": "导师，同学",
+                "impact": "负面影响，强化了中间信念'如果我不完美，我会被视为无能和失败'，增加了对完美主义的焦虑。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在一次重要的学术会议上，我的论文被选为重点发言之一。虽然准备过程极其辛苦，但获得了广泛的认可和赞赏。",
+                "location": "学术会议",
+                "happen_time": "2014年10月",
+                "participants": "学术界同行，导师",
+                "impact": "正面影响，增强了自信心，并强化了核心信念'我必须是完美的'和中间信念'如果我做到完美，我会得到导师和同学的认可和尊重'。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "我和妻子结婚，婚礼上看着家人和朋友们的祝福，我感受到责任的沉重和幸福的交织。",
+                "location": "婚礼现场",
+                "happen_time": "2015年6月",
+                "participants": "家人，朋友，妻子",
+                "impact": "正面影响，加强了核心信念'我需要对家人和工作负责'，但也增加了责任感。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "我第一次因为工作压力过大而失眠，这让我开始意识到自己可能需要更多关注心理健康。",
+                "location": "家中",
+                "happen_time": "2017年2月",
+                "participants": "无",
+                "impact": "负面影响，使我开始怀疑中间信念'我有能力面对并解决学术和生活中的问题'，感到压力和焦虑增加。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "我目睹了一个同事因为长时间高强度工作而崩溃，这让我开始反思自己是否也在走向同样的道路。",
+                "location": "医院",
+                "happen_time": "2018年7月",
+                "participants": "同事",
+                "impact": "负面影响，促使我反思自己的工作方式和心理状态，开始怀疑长时间高强度工作的可持续性。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "我和妻子迎来了我们的第一个孩子，作为新手父母，我们感到既兴奋又紧张。",
+                "location": "医院",
+                "happen_time": "2019年4月",
+                "participants": "妻子，孩子",
+                "impact": "正面影响，增加了生活的幸福感，但也增加了责任感，强化了核心信念'我需要对家人和工作负责'。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "我在一次学术研究中遇到了瓶颈，无法找到解决方案，这让我感到非常沮丧。",
+                "location": "实验室",
+                "happen_time": "2020年11月",
+                "participants": "导师，同事",
+                "impact": "负面影响，使我开始怀疑中间信念'我有能力面对并解决学术和生活中的问题'，感到挫败和焦虑。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "因为疫情的影响，医院工作量剧增，我不得不加班加点工作，这导致我身体和心理上的双重疲惫。",
+                "location": "医院",
+                "happen_time": "2021年4月",
+                "participants": "同事，病人",
+                "impact": "负面影响，增加了心理和身体的压力，强化了中间信念'我必须时刻照顾好家人并完成学业任务'，但也增加了焦虑和倦怠感。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "我在一次家庭聚会上发现自己与家人的交流变得少了，感到自己在工作和家庭之间的平衡失去了。",
+                "location": "家庭聚会",
+                "happen_time": "2021年12月",
+                "participants": "家人",
+                "impact": "负面影响，使我开始反思自己的生活方式和优先级，感到内疚和自责。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "我决定参加一个心理健康讲座，希望能找到缓解压力的方法。",
+                "location": "心理健康讲座",
+                "happen_time": "2022年3月",
+                "participants": "讲座导师，其他参与者",
+                "impact": "正面影响，开始认识到心理健康的重要性，尝试寻找新的应对策略。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "在医院的一次会议上，我看到一位同事因为提出了一个创新的治疗方案而获得了广泛的认可，这让我意识到创新的重要性。",
+                "location": "医院会议室",
+                "happen_time": "2022年7月",
+                "participants": "同事，医院领导",
+                "impact": "正面影响，促使我重新思考自己在医学领域的目标，激发了追求创新的动力。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "周全岩",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2022年12月，周全岩在年度工作评审中被评为医院的优秀员工，但他却感到明显的压力，担心自己无法在未来继续保持这种高标准。",
+                "location": "医院会议室",
+                "happen_time": "2022年12月",
+                "participants": "医院领导，同事",
+                "impact": "正面影响：短期内激励了周全岩继续努力工作。负面影响：加剧了他的完美主义倾向，增加了心理压力。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年3月，周全岩发现自己在诊断一个复杂病例时出现了失误，这让他感到非常沮丧和自责。",
+                "location": "医院诊室",
+                "happen_time": "2023年3月",
+                "participants": "患者，同事",
+                "impact": "负面影响：进一步强化了他对完美主义的执着，增加了对自己专业能力的不信任感。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年6月，周全岩在医院观察到一位同事因工作压力过大而辞职，这让他开始反思自己的工作状态和生活质量。",
+                "location": "医院办公室",
+                "happen_time": "2023年6月",
+                "participants": "同事，医院领导",
+                "impact": "负面影响：让周全岩意识到工作压力对健康的潜在威胁，增加了对自己的担忧和焦虑感。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年8月，周全岩的妻子怀疑他因工作忙碌而忽视了家庭，这引发了一场家庭争吵。",
+                "location": "家中客厅",
+                "happen_time": "2023年8月",
+                "participants": "妻子",
+                "impact": "负面影响：让周全岩感到内疚和自责，增加了他对家庭责任的焦虑。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年11月，周全岩在医院看到一个因肥胖导致健康问题的患者，这让他开始关注自己的体重问题。",
+                "location": "医院诊室",
+                "happen_time": "2023年11月",
+                "participants": "患者",
+                "impact": "负面影响：让他对自己的健康状况产生了更多的担忧和焦虑。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年1月，周全岩感到记忆力下降，开始在工作中频繁出错，这让他非常焦虑。",
+                "location": "医院诊室",
+                "happen_time": "2024年1月",
+                "participants": "同事，患者",
+                "impact": "负面影响：进一步加剧了他的自我怀疑和焦虑情绪。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年3月，周全岩发现体重剧烈增加，开始对自己的健康状况产生严重担忧。",
+                "location": "家中卫生间",
+                "happen_time": "2024年3月",
+                "participants": "妻子",
+                "impact": "负面影响：增加了他的健康焦虑，并导致进一步的心理压力。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年5月，周全岩在一次家庭聚会上因过度疲劳而失态，这让他感到非常尴尬和自责。",
+                "location": "家中客厅",
+                "happen_time": "2024年5月",
+                "participants": "家人",
+                "impact": "负面影响：强化了他对自己健康状况的担忧，并增加了心理压力。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年6月，周全岩在医院看到另一个同事因健康问题不得不长期休假，这让他更加担心自己的健康。",
+                "location": "医院办公室",
+                "happen_time": "2024年6月",
+                "participants": "同事，医院领导",
+                "impact": "负面影响：加剧了他的健康焦虑，增加了对自己身体状况的担忧。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年8月，周全岩因长期睡眠不足和过度工作而在医院晕倒，被同事送往急诊。",
+                "location": "医院走廊",
+                "happen_time": "2024年8月",
+                "participants": "同事，急诊医生",
+                "impact": "负面影响：让他意识到自己需要更加关注健康问题，增加了对未来的担忧和焦虑。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "周全岩的孩子在学校成绩下降，老师约谈家长，这让他感到自责，认为自己未能尽到照顾家庭的责任。",
+                "location": "学校办公室",
+                "happen_time": "2024年4月",
+                "participants": "孩子，老师，妻子",
+                "impact": "负面影响：增加了他对家庭责任的焦虑，进一步加剧了心理压力。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年5月，周全岩在家中无意中听到妻子和朋友讨论他的健康问题，这让他感到非常不安和焦虑。",
+                "location": "家中厨房",
+                "happen_time": "2024年5月",
+                "participants": "妻子，朋友",
+                "impact": "负面影响：增加了他对自己健康问题的担忧，并进一步加剧了心理压力。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年6月，周全岩在一次家庭聚会上因体重问题遭受亲戚的调侃，这让他感到非常尴尬和自卑。",
+                "location": "家中客厅",
+                "happen_time": "2024年6月",
+                "participants": "亲戚，家人",
+                "impact": "负面影响：加剧了他的自卑感和对自己身体状况的不满。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年7月，周全岩看到一位老同学在社交媒体上分享了自己成功减肥和改善生活方式的经历，这让他感到内心的压力和自责。",
+                "location": "家中书房",
+                "happen_time": "2024年7月",
+                "participants": "老同学",
+                "impact": "负面影响：让他感到自己在健康管理方面失败，进一步加剧了对自己健康的焦虑。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年8月，周全岩在一次家庭医生的例行检查中被告知需要进行生活方式的重大调整，否则可能面临严重的健康问题。",
+                "location": "家庭医生诊所",
+                "happen_time": "2024年8月",
+                "participants": "家庭医生",
+                "impact": "负面影响：让他感到极大的压力和焦虑，迫使他开始思考如何调整自己的生活方式。"
+            }
+        ]
+    }
+}

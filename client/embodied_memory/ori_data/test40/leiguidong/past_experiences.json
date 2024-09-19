@@ -1,0 +1,491 @@
+{
+    "childhood": {
+        "name": "雷桂冬",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "有一次，我不小心打碎了妈妈最喜欢的花瓶。妈妈当时在厨房做饭，听到声音急忙赶来，看到地上的碎片，脸色变了。我低着头，准备迎接责备，但妈妈只是叹了口气，摸了摸我的头，说：'桂冬，下次小心点。'我当时很惊讶，但心里却觉得暖暖的。",
+                "location": "家里的客厅",
+                "happen_time": "1985年5月",
+                "participants": "妈妈",
+                "impact": "这个事件让我感受到母亲的宽容和爱，短暂减轻了我对自己不值得被爱的核心信念，但也强化了我做事要小心、避免犯错的中间信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学三年级的一次班级活动中，我的作文被老师当众表扬，但有个同学不服气，当众嘲笑我：'她只是运气好而已。'我当时非常尴尬，心里觉得别人并不真正认可我。",
+                "location": "小学教室",
+                "happen_time": "1987年10月",
+                "participants": "老师，同学",
+                "impact": "这次经历加深了我不值得被人尊重的中间信念，也使我更加害怕引起别人的注意。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我坐在房间里，听见客厅里爸爸和妈妈在讨论工作上的难题。爸爸说：'我们只能靠自己，没人会帮我们。'妈妈点头表示同意。我透过门缝看到他们满脸的疲惫和无奈。",
+                "location": "家里的客厅",
+                "happen_time": "1986年6月",
+                "participants": "爸爸，妈妈",
+                "impact": "这次对话让我感觉到父母也在独自承受生活的压力，强化了我必须依赖自己解决所有问题的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "六岁时的一天，我因为发烧在家休息，妈妈请假在家照顾我。她为我煮粥，给我讲故事。虽然身体不舒服，但我感受到母亲的无微不至的关爱。",
+                "location": "家里的卧室",
+                "happen_time": "1985年3月",
+                "participants": "妈妈",
+                "impact": "这次经历让我感受到家庭的温暖，但同时也让我觉得只有在生病或需要特别照顾的时候，才值得被关爱，增强了我不值得被爱和关心的核心信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校门口等爸爸来接我，看到一个同学的父母因为迟到而吵架。同学站在一旁，眼里满是泪水。我感到心疼，但又觉得无能为力。",
+                "location": "小学门口",
+                "happen_time": "1988年9月",
+                "participants": "同学，他的父母",
+                "impact": "这次观察让我意识到，有时候即使在家庭中，爱和关心也会因为生活的压力而变得脆弱，进一步强化了我对世界对我没有太多关心的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "有一天，我和几个朋友在一起玩耍时，她们决定去一个我觉得危险的地方。我提出反对，但她们不理会我，甚至嘲笑我胆小。我感到孤立无援，最终选择独自回家。",
+                "location": "家附近的小巷",
+                "happen_time": "1987年7月",
+                "participants": "朋友们",
+                "impact": "这次经历让我觉得别人不会真正关心和爱我，进一步加深了我不值得被爱和关心的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "一次家庭聚会上，我看到一个远房亲戚因为没有完成工作任务而受到父母的严厉责备。他低着头，不敢反驳，眼泪在眼眶里打转。",
+                "location": "亲戚家",
+                "happen_time": "1989年1月",
+                "participants": "远房亲戚，他的父母",
+                "impact": "这个场景让我对完美主义的压力有了更深的理解，强化了我不能犯错，必须做到最好的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校的考试中获得了全班第一名，回家后兴奋地告诉爸爸妈妈。爸爸笑了，说：'桂冬真棒，我们的努力没有白费。'妈妈也表扬了我，但随即提醒我不要骄傲，要继续努力。",
+                "location": "家里的客厅",
+                "happen_time": "1989年6月",
+                "participants": "爸爸，妈妈",
+                "impact": "这次经历让我感受到家庭的认可和期望，同时也增加了我对自己必须独立解决问题、不能依赖别人的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，在街头看到一个乞丐被人驱逐，他无助地看着周围来来往往的人，却没有一个人停下来帮他。",
+                "location": "南京市街头",
+                "happen_time": "1990年3月",
+                "participants": "乞丐，路人",
+                "impact": "这个场景让我对世界的冷漠有了更深的体会，进一步强化了我只能依靠自己的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "有一次，我在家里做作业时遇到难题，向爸爸求助。爸爸虽然在忙，但还是停下手中的工作，耐心地帮我解答。解决问题后，爸爸说：'桂冬，有什么问题就告诉爸爸，不要一个人硬撑。'",
+                "location": "家里的书房",
+                "happen_time": "1990年12月",
+                "participants": "爸爸",
+                "impact": "这次经历让我感到父亲的关爱，但也让我觉得在向别人寻求帮助时会打扰他们，进一步强化了我不应该期望从别人那里获得支持和关爱的中间信念。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "雷桂冬",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在初一的一次语文课上，我的作文《家乡的四季》被语文老师当作范文在全班朗读。当时我非常紧张，但老师温柔地鼓励我，让我感到一丝温暖和被认可的感觉。",
+                "location": "学校教室",
+                "happen_time": "1992年9月",
+                "participants": "语文老师，全班同学",
+                "impact": "这次经历增强了我对写作的信心，也让我感受到了一种被认可的喜悦，开始意识到自己在学习上的努力是有价值的。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次数学竞赛中，我获得了全校第一名。然而，在领奖台上，我看到其他同学和家长们欢呼雀跃，而我的父母却没有到场。我感到一种失落和孤独。",
+                "location": "学校礼堂",
+                "happen_time": "1993年5月",
+                "participants": "学校老师，竞赛参赛者，其他家长",
+                "impact": "尽管我取得了好成绩，但父母的缺席加深了我‘我不值得被爱和关心’的核心信念，增添了内心的孤独感。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会上，我听见父母在厨房低声讨论家庭经济问题。母亲担忧地说：‘我们要节省一些，给孩子存些教育费用。’",
+                "location": "家中厨房",
+                "happen_time": "1993年12月",
+                "participants": "父母",
+                "impact": "这次偷听的经历让我感觉到家中的经济压力，也强化了‘我必须依赖自己解决所有问题’的核心信念，我更加努力学习以减轻父母的负担。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "中考前夕，我把自己关在房间里复习，拒绝了同学们的聚会邀请。父母虽然关心，但也没有过多干涉。",
+                "location": "家中",
+                "happen_time": "1994年6月",
+                "participants": "父母，同学",
+                "impact": "这次孤立的复习经历强化了‘我必须通过成绩证明自己的价值’的核心信念，同时也让我感到孤独和压力。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "一次上课时，我注意到班里一个成绩不好的同学被老师当众批评，其他同学也在窃窃私语。这让我心里一紧，暗自决定绝不能让自己陷入那种境地。",
+                "location": "学校教室",
+                "happen_time": "1994年10月",
+                "participants": "老师，班级同学",
+                "impact": "这次目睹事件加深了‘我的价值在于我的成绩和表现’的核心信念，让我更加执着于学业，害怕失败和被批评。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高一时，我在一次化学实验中犯了一个小错误，导致实验失败。老师没有责备我，反而鼓励我重新尝试，这让我心里感到一丝温暖。",
+                "location": "实验室",
+                "happen_time": "1995年3月",
+                "participants": "化学老师，同学",
+                "impact": "老师的鼓励缓解了我对犯错的恐惧，让我明白错误并不可怕，但核心信念的根深蒂固使我依旧对成绩和表现充满压力。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "高二的一次班会课上，班主任公开表扬了我在班级事务中的积极表现，并授予我‘优秀班干部’的称号。",
+                "location": "学校教室",
+                "happen_time": "1996年5月",
+                "participants": "班主任，同学",
+                "impact": "这次表扬增强了我的自信心，让我感受到自己的努力得到了认可，同时也强化了‘我的价值在于我的成绩和表现’的核心信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "在一次社团活动中，我看到一位同学因为家庭困难不得不辍学，这让我感到震惊和同情。",
+                "location": "学校操场",
+                "happen_time": "1996年10月",
+                "participants": "社团成员，同学",
+                "impact": "这次经历让我意识到外界的压力和家庭经济问题对人的影响，进一步强化了‘我必须依赖自己解决所有问题’的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "高三时，我因为学习压力大而出现了身体不适，班主任关心地询问我的情况，并建议我适当放松。",
+                "location": "学校教室",
+                "happen_time": "1997年3月",
+                "participants": "班主任",
+                "impact": "班主任的关心让我感受到了一丝温暖，但也让我意识到自己的身体状况需要关注，缓解了一些压力。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "高考结束后，我感到一阵轻松，但也对未来感到迷茫。父母鼓励我选择师范学院，继续追求我的梦想。",
+                "location": "家中",
+                "happen_time": "1997年7月",
+                "participants": "父母",
+                "impact": "父母的鼓励让我坚定了成为教师的梦想，同时也让我感受到了一定的家庭支持，减轻了内心的孤独感。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "雷桂冬",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "大学入学第一天，我紧张地走进校园，看到人来人往的学生们。我努力让自己镇定，告诉自己必须独立完成所有事情。宿舍里，室友们热情地打招呼，而我却不敢多说话，怕自己显得软弱。",
+                "location": "南京师范学院",
+                "happen_time": "1998年9月",
+                "participants": "宿舍室友",
+                "impact": "这次经历强化了她的中间信念，即必须独立完成所有任务，不依赖他人。她感到既孤独又坚强。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "大一的期末考试前夕，我熬夜复习，生怕自己考不好。考试结束后，我和同学们一起庆祝，但内心一直担心成绩。这种压力让我更加坚定，必须把所有事情都做得完美。",
+                "location": "南京师范学院",
+                "happen_time": "1999年1月",
+                "participants": "大学同学",
+                "impact": "这种对完美的追求强化了她的中间信念，认为如果犯错会被看不起，进一步加重了她的压力。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "一次在图书馆里，我看到一个同学因为复习压力大而崩溃大哭。她的朋友们围过来安慰她，帮她整理笔记。我看到这种场景，心里既羡慕又怀疑，觉得自己也应该尝试接受别人的关爱。",
+                "location": "南京师范学院图书馆",
+                "happen_time": "1999年5月",
+                "participants": "大学同学",
+                "impact": "这次观察让她对‘接受关爱’的中间信念有所动摇，开始思考是否应该开放自己，接受他人的帮助。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "大二时，我在一个学术项目中担任组长，必须协调各成员的工作。有一次，我独自加班完成了项目的难点部分，虽然大家都感谢我，但我感到非常疲惫。",
+                "location": "南京师范学院",
+                "happen_time": "2000年10月",
+                "participants": "项目成员",
+                "impact": "这次经历加强了她的信念，即必须依赖自己解决所有问题，同时也让她感到孤独和压力。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "大三期间，我遇到了我的爱人，我们一起参加了许多活动，逐渐彼此了解。他的关心和支持让我感受到了被爱和关怀的重要性。",
+                "location": "南京师范学院",
+                "happen_time": "2001年10月",
+                "participants": "未来的爱人",
+                "impact": "这段感情让她重新认识到‘我值得被爱和关心’的核心信念，增强了她的自信心。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "在一次校园活动中，我看到有同学因成绩不佳而被老师批评，但其他同学们都纷纷安慰他，帮他找回信心。",
+                "location": "南京师范学院",
+                "happen_time": "2002年3月",
+                "participants": "大学同学和老师",
+                "impact": "这次观察让她重新思考‘世界对失败毫不宽容’的中间信念，开始意识到失败并不可怕，有时反而能得到更多的关爱和帮助。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "大学毕业那天，我和爱人一起拍了毕业照，并互相承诺未来的生活。那一刻，我感到无比幸福，觉得自己值得感受幸福和爱。",
+                "location": "南京师范学院校园",
+                "happen_time": "2003年6月",
+                "participants": "爱人",
+                "impact": "这次经历进一步强化了她的核心信念，即她值得被爱和关心，增强了对未来生活的信心。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "毕业后，我成为了一名教师，第一次站在讲台上时，我感到紧张，但也充满了责任感和使命感。",
+                "location": "南京市某中学",
+                "happen_time": "2003年9月",
+                "participants": "学生",
+                "impact": "这次经历让她意识到自己在教育行业中的价值，增强了‘我应该努力工作，为他人付出’的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "结婚后，我和爱人一起搬进了新家，生活幸福美满。我们一起布置新房，规划未来的生活。",
+                "location": "南京市新家",
+                "happen_time": "2004年5月",
+                "participants": "爱人",
+                "impact": "这次经历进一步强化了她的核心信念，即她值得被爱和关心，感受到了家庭生活的幸福。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "一次学校的家长会上，家长们对我的教学方法给予了高度评价，让我感到非常自豪和满足。",
+                "location": "南京市某中学",
+                "happen_time": "2006年4月",
+                "participants": "学生家长",
+                "impact": "这次经历增强了她的自信心，让她更加坚定‘我的努力值得被认可’的中间信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "有一次，我的爱人因为工作压力大，情绪低落。我陪他散步，开导他。我们一起度过了那段艰难的时光，感情更加深厚。",
+                "location": "南京市某公园",
+                "happen_time": "2008年10月",
+                "participants": "爱人",
+                "impact": "这次经历让她感受到关爱和支持的重要性，进一步强化了‘我应该开放自己，接受他人的关爱’的中间信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "在一次朋友聚会上，我观察到一位朋友因为工作繁忙，忽略了家庭，导致夫妻关系紧张。其他朋友们一起帮他分析问题，给他建议。",
+                "location": "南京市某餐厅",
+                "happen_time": "2010年5月",
+                "participants": "大学同学",
+                "impact": "这次观察让她意识到工作与家庭平衡的重要性，重新思考自己的生活方式和优先级。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在一次学校的教学评比中，我获得了优秀教师的称号。这让我感到非常自豪和满足，觉得自己的努力得到了认可。",
+                "location": "南京市某中学",
+                "happen_time": "2012年11月",
+                "participants": "学校领导和同事",
+                "impact": "这次经历进一步强化了她的中间信念，即‘我的努力值得被认可’，增加了她对工作的热情和动力。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个同事因为家庭问题而情绪低落，其他同事们纷纷给予支持和帮助，帮助她度过了难关。",
+                "location": "南京市某中学",
+                "happen_time": "2013年3月",
+                "participants": "同事",
+                "impact": "这次观察让她意识到接受他人帮助和关爱的必要性，进一步动摇了‘我必须依赖自己解决所有问题’的中间信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我的爱人突然感到身体不适，我们紧急送他去医院，诊断出他患有严重的疾病。我感到非常痛苦和无助，但也更加坚定地陪伴他度过难关。",
+                "location": "南京市某医院",
+                "happen_time": "2014年5月",
+                "participants": "爱人和家人",
+                "impact": "这次经历让她感受到生命的脆弱和家庭的重要性，强化了她对家庭和爱的重视，但也增加了她的心理压力。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "雷桂冬",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2024年1月的一天，我的爱人因突发心脏病去世。那天我正在家里准备晚饭，他突然倒在地上，我立刻拨打了急救电话，但医生到达时他已经没有了生命体征。",
+                "location": "家中",
+                "happen_time": "2024年1月",
+                "participants": "雷桂冬, 其爱人",
+                "impact": "这件事对我的情绪造成了巨大的冲击，我感到失去了生活的意义，开始对所有事情失去了兴趣。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "爱人去世后的几天，我的儿子从外地赶回家，他尽力安慰我并帮助处理后事。但我发现自己无法从悲痛中走出来，甚至觉得儿子的安慰也无法缓解我的痛苦。",
+                "location": "家中",
+                "happen_time": "2024年1月",
+                "participants": "雷桂冬, 其儿子",
+                "impact": "我开始觉得别人无法真正理解我的痛苦，这加重了我对生活的绝望感。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年2月，我的同事们为了让我分散注意力，邀请我参加了一次聚会。尽管我去参加了，但整个过程中我都感到心不在焉，无法融入大家的欢乐氛围。",
+                "location": "同事家中",
+                "happen_time": "2024年2月",
+                "participants": "雷桂冬, 其同事们",
+                "impact": "这次聚会让我更加确信我已经无法再享受生活中的任何事物，别人也无法真正帮助我恢复正常生活。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年3月的一天，我在学校上课时，突然想起了爱人去世的那一刻，情绪失控，当着学生的面哭了出来。学生们纷纷围过来安慰我，但我感到非常尴尬和无助。",
+                "location": "学校教室",
+                "happen_time": "2024年3月",
+                "participants": "雷桂冬, 学生们",
+                "impact": "这次事件让我感到自己在学生面前失去了威信，我开始怀疑自己的价值和能力。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年4月，我的朋友们为了让我放松，邀请我一起去做园艺活动。我曾经非常喜欢园艺，但这次我却感到兴致缺缺，整个过程中几乎没有说话。",
+                "location": "朋友家中花园",
+                "happen_time": "2024年4月",
+                "participants": "雷桂冬, 朋友们",
+                "impact": "这次经历让我更加感到生活再也不会带给我快乐，我对未来的希望也逐渐消失。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年5月的一天，我的儿子因为工作原因需要外出一段时间，他非常担心我一个人会孤单，但我却告诉他我可以自己解决问题。",
+                "location": "家中",
+                "happen_time": "2024年5月",
+                "participants": "雷桂冬, 其儿子",
+                "impact": "我开始感到自己必须依赖自己解决所有问题，不能再给别人添麻烦，这种想法让我感到更加孤独和无助。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年6月的一天，我的记忆力突然变得很差，连最简单的事情也经常忘记。这让我在工作中频频出错，感到非常沮丧和无力。",
+                "location": "学校办公室",
+                "happen_time": "2024年6月",
+                "participants": "雷桂冬, 其同事们",
+                "impact": "这次经历让我更加怀疑自己的能力和价值，觉得自己不值得被尊重。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年7月，我的朋友们再次邀请我参加一次聚会，这次我拒绝了，因为我觉得自己不值得被爱和关心，不想给别人带来负担。",
+                "location": "家中",
+                "happen_time": "2024年7月",
+                "participants": "雷桂冬, 朋友们",
+                "impact": "这次拒绝让我感到自己越来越孤立无援，内心的痛苦愈发深重。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年8月的一天，我在家中整理爱人的遗物，看到一些旧照片和纪念品，情绪再次崩溃，整整一天下来都无法平静下来。",
+                "location": "家中",
+                "happen_time": "2024年8月",
+                "participants": "雷桂冬",
+                "impact": "这次经历让我再次感到失去了生活的意义，无法从痛苦中恢复过来。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年3月，我在学校看到一位同事因为家庭问题情绪崩溃，全体同事都在安慰她并提供帮助。这让我联想到自己的处境，感到自己也需要这样的支持，但又觉得自己不值得被关心。",
+                "location": "学校办公室",
+                "happen_time": "2024年3月",
+                "participants": "雷桂冬, 其同事们",
+                "impact": "这次观察让我更加坚信自己不值得被爱和关心，内心的孤独感进一步加深。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年4月，我在公园散步时看到一对老年夫妇手牵手走过，他们之间的亲密关系让我感到非常羡慕和痛苦，因为我再也无法拥有这样的幸福。",
+                "location": "公园",
+                "happen_time": "2024年4月",
+                "participants": "雷桂冬, 老年夫妇",
+                "impact": "这次观察让我更加感到自己不值得拥有幸福，生活再也不会带给我快乐。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年5月，我在新闻中看到一则关于心脏病突发的报道，联想到爱人的去世，情绪再次失控，感到非常无助和绝望。",
+                "location": "家中",
+                "happen_time": "2024年5月",
+                "participants": "雷桂冬",
+                "impact": "这次观察让我更加确信世界对我失去了色彩，我无法从痛苦中恢复过来。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年6月，我试图通过阅读来分散注意力，但发现自己无法集中精神，读书的乐趣也已不复存在。",
+                "location": "家中",
+                "happen_time": "2024年6月",
+                "participants": "雷桂冬",
+                "impact": "这次经历让我感到生活中的所有乐趣都已经消失，我再也无法享受曾经喜欢的事情。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年7月，我决定尝试做一些新的菜品，希望通过烹饪来调节情绪，但发现自己没有任何动力，做出的菜也没有以前的味道。",
+                "location": "家中",
+                "happen_time": "2024年7月",
+                "participants": "雷桂冬",
+                "impact": "这次经历让我感到自己再也无法找到新的兴趣，生活中的乐趣彻底消失。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年8月，我在社区活动中看到一个曾经的学生来探望我，他对我的关心让我感到意外，但同时也感到自己不值得被这样关心。",
+                "location": "社区活动中心",
+                "happen_time": "2024年8月",
+                "participants": "雷桂冬, 其学生",
+                "impact": "这次观察让我更加确信自己不值得被尊重和关心，内心的孤独感进一步加深。"
+            }
+        ]
+    }
+}

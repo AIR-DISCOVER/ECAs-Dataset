@@ -1,0 +1,74 @@
+{
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断努力才能应对生活中的挑战。",
+                "others": "他人也面对着各种各样的挑战。",
+                "world": "生活中的挑战是不可避免的。"
+            },
+            "rules": "我应该不断提升自己，准备应对各种挑战。",
+            "positive_assumption": "如果我面对并克服挑战，我会变得更强大。",
+            "negative_assumption": "如果我逃避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力通过努力改善自己的状况。",
+                "others": "家人和真正的朋友会支持我的改变。",
+                "world": "世界上有很多机会等待我去抓住。"
+            },
+            "rules": "我应该积极面对问题并采取行动。",
+            "positive_assumption": "如果我努力，我会变得更自信和成功。",
+            "negative_assumption": "如果我放弃努力，我会一事无成。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得被关注和关心。",
+                "others": "他人不会真正关心我的感受。",
+                "world": "人们通常不会重视不重要的人。"
+            },
+            "rules": "我应该尽量不引起别人的注意。",
+            "positive_assumption": "如果我低调行事，我就不会感到失望。",
+            "negative_assumption": "如果我试图引起注意，我会被忽视或嘲笑。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须改变自己的外貌，才能被同学接受。",
+                "others": "同学们只看重我的外表。",
+                "world": "这个世界对外表有很多偏见。"
+            },
+            "rules": "我应该尽量减肥，以得到同学的认可。",
+            "positive_assumption": "如果我减肥成功，我会变得更受欢迎。",
+            "negative_assumption": "如果我不减肥，我会继续被嘲笑和排斥。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    }
+}

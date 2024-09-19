@@ -1,0 +1,129 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "缺乏自信",
+            "容易焦虑",
+            "有时会话唠"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "面色苍白",
+            "眼神疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "绘画"
+            ],
+            "activity": [
+                "独自待在房间里听音乐",
+                "偶尔在家里画画"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能恢复正常的学习状态，集中注意力完成学业",
+            "long_term_goals": "考上理想的大学，找到一份自己喜欢的工作"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后感到特别疲倦，勉强去上学。上课时注意力难以集中，放学后回家基本上待在房间里，不太与家人交流。",
+            "weekends": "周末大部分时间在家里，偶尔会被父母带出去散步，但大多数时间还是独自待在房间里。"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格活泼开朗，但随着学业压力增加，逐渐变得内向和敏感。",
+            "recent_events": "最近因为学习成绩下降，老师多次找他谈话，感到压力巨大。与好朋友吵架后，情绪更加低落。"
+        },
+        "environment": "出生在一个普通的城市家庭，父母对他的期望很高，家庭氛围较为严肃。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "赵茂会的父亲是一位严肃而传统的人，对儿子的期望很高。小时候，父亲常常陪他玩耍，但随着赵茂会长大，父亲对他的学业要求越来越严格，导致他们之间的关系变得紧张。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "赵茂会的母亲温柔而关心他，但也对他的学业有很高的期望。小时候，母亲常常给他讲故事，陪他做作业，但随着学业压力增加，母亲也变得更加严厉。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "赵茂会小时候有几个好朋友，他们常常一起玩耍，分享快乐和烦恼。但随着时间的推移，赵茂会变得越来越内向，与朋友的关系也逐渐疏远。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "赵茂会的老师对他的学习成绩非常关注，最近因为成绩下降，多次找他谈话。这些谈话让赵茂会感到压力巨大，进一步加重了他的抑郁情绪。"
+                    ]
+                },
+                {
+                    "relationship": "好朋友",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "赵茂会最近与好朋友吵了一架，这让他感到非常难过和孤独。他们曾经是无话不谈的朋友，但现在关系变得紧张。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "赵茂会最近开始看心理咨询师，希望能通过专业的帮助来缓解自己的抑郁情绪。虽然他对咨询师还不太熟悉，但他愿意尝试。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "赵茂会的社交关系在不同阶段发生了显著变化。小时候，他性格活泼开朗，与家人和朋友关系密切。但随着学业压力增加，他变得越来越内向和敏感，与家人和朋友的关系逐渐疏远。最近的学习压力和与好朋友的争吵进一步加重了他的抑郁情绪，使他更加孤立无援。"
+    }
+}

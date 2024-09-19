@@ -1,0 +1,531 @@
+{
+    "childhood": {
+        "name": "喻欣莉",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在小学一年级的时候，我生了一次重病，住院了一个星期。那时候妈妈每天都会来医院照顾我，陪我说话，让我感觉到很温暖。她告诉我一定要注意健康，保持良好的生活习惯。",
+                "location": "南京市儿童医院",
+                "happen_time": "1978年3月",
+                "participants": "喻欣莉、妈妈",
+                "impact": "这次经历让我形成了'我需要保持健康的生活方式'的核心信念，并且相信'如果我保持健康的生活习惯，我会变得更强壮'。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "五年级时，我参加了学校的数学竞赛，并且获得了一等奖。父母和老师都夸我很聪明，努力学习有很好的结果。",
+                "location": "小学校园",
+                "happen_time": "1982年5月",
+                "participants": "喻欣莉、父母、老师、同学",
+                "impact": "这次成功让我更加坚定了'我的学习和努力对未来有价值'的核心信念，并且形成了'如果我努力学习，我会有更好的前途'的中间信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "有一次，邻居家的小朋友受伤了，我主动帮他清理伤口并陪他去医院。回来后，他的家人特意来感谢我。",
+                "location": "邻居家和医院",
+                "happen_time": "1980年6月",
+                "participants": "喻欣莉、邻居小朋友、邻居小朋友的家人",
+                "impact": "这次经历让我意识到'我应该关心和支持他人'的核心信念，同时也让'如果我帮助他人，我会有更多的朋友'的中间信念得到了验证。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在家里，我经常帮妈妈做家务，有一次妈妈心情不好，我主动帮她分担了很多事情，她很感激。",
+                "location": "家里",
+                "happen_time": "1981年10月",
+                "participants": "喻欣莉、妈妈",
+                "impact": "这次事件强化了'我有责任帮助家庭和谐'的核心信念，并且让我更相信'如果我帮助家人，家庭会更和谐'的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，有一次我和朋友一起做作业，她突然哭了，因为题目太难了。我安慰她并帮她解答，她后来笑了起来。",
+                "location": "朋友家",
+                "happen_time": "1980年9月",
+                "participants": "喻欣莉、朋友",
+                "impact": "这次事件让我更加确认了'关心他人能让世界变得更温暖'的信念，并且形成了'如果我帮助他人，我会有更多的朋友'的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的一对夫妻因为经济问题吵得很厉害，最后丈夫摔门而去，妻子在家里哭泣。",
+                "location": "邻居家",
+                "happen_time": "1981年5月",
+                "participants": "喻欣莉、邻居夫妻",
+                "impact": "这次观察让我意识到家庭和谐的重要性，并且强化了'我有责任帮助家庭和谐'的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父母因为生活琐事争吵，但他们很快就通过沟通解决了问题，恢复了和谐。",
+                "location": "家里",
+                "happen_time": "1982年2月",
+                "participants": "喻欣莉、父母",
+                "impact": "这次观察让我更加相信'沟通是解决家庭问题的重要方法'，并且形成了'如果我与家人沟通，问题会更容易解决'的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "有一次，学校组织的春游活动中，我主动帮老师照顾了几个年幼的同学，老师夸我很有责任感。",
+                "location": "春游目的地",
+                "happen_time": "1983年4月",
+                "participants": "喻欣莉、老师、同学",
+                "impact": "这次经历让我更加坚定了'我有责任帮助家庭和谐'和'我应该关心和支持他人'的核心信念，并且形成了'如果我照顾他人，大家会更信任我'的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班上的一个同学因为成绩不好被父母责骂，他很沮丧。",
+                "location": "学校",
+                "happen_time": "1982年11月",
+                "participants": "喻欣莉、班上同学、同学的父母",
+                "impact": "这次观察让我意识到努力学习的重要性，并且进一步强化了'我应该尽最大努力学习'的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "小学毕业时，我以优异的成绩被重点中学录取，父母非常高兴，奖励了我一辆自行车。",
+                "location": "家里",
+                "happen_time": "1984年7月",
+                "participants": "喻欣莉、父母",
+                "impact": "这次事件强化了'我的学习和努力对未来有价值'的核心信念，并且让我更加相信'如果我努力学习，我会有更好的前途'的中间信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的小孩因为没有完成作业被父母责骂，他哭得很伤心。",
+                "location": "邻居家",
+                "happen_time": "1982年3月",
+                "participants": "喻欣莉、邻居家的小孩、邻居家的小孩父母",
+                "impact": "这次观察强化了我对学习的重视，并且让我形成了'如果我不努力学习，我会辜负父母的期望'的中间信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "有一次，父亲因为工作压力大发雷霆，我主动和他沟通，帮助他缓解压力。",
+                "location": "家里",
+                "happen_time": "1983年8月",
+                "participants": "喻欣莉、父亲",
+                "impact": "这次经历让我更加相信'我应该积极与家人沟通'，并且形成了'如果我与家人沟通，问题会更容易解决'的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到妈妈因为太劳累而生病，我意识到家庭成员之间需要互相帮助。",
+                "location": "家里",
+                "happen_time": "1981年12月",
+                "participants": "喻欣莉、妈妈",
+                "impact": "这次观察让我更加坚定了'我有责任照顾家人'的核心信念，并且形成了'如果我照顾家人，家庭会更幸福'的中间信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "有一次，我和父母一起在家里种花，大家其乐融融，我感受到了家庭的温暖。",
+                "location": "家里",
+                "happen_time": "1983年5月",
+                "participants": "喻欣莉、父母",
+                "impact": "这次经历让我更加坚定了'我有责任帮助家庭和谐'的核心信念，并且形成了'如果我帮助家人，家庭会更和谐'的中间信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个朋友因为没有得到家长的支持而放弃了自己的兴趣爱好，我感到很难过。",
+                "location": "朋友家",
+                "happen_time": "1983年10月",
+                "participants": "喻欣莉、朋友",
+                "impact": "这次观察让我更加意识到家人支持的重要性，并且形成了'父母会支持我的健康选择'的中间信念。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "喻欣莉",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在初中第一次期末考试中，喻欣莉取得了年级第一名。班主任在班会上表扬了她，并鼓励她继续努力。",
+                "location": "学校教室",
+                "happen_time": "1985年1月",
+                "participants": "班主任，同学们",
+                "impact": "正面。增强了她的自信心，坚定了她努力学习成为优秀教师的目标。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "喻欣莉在一次数学竞赛中获得了全市第一名，数学老师特地在课堂上表扬了她并鼓励其他同学向她学习。",
+                "location": "学校教室",
+                "happen_time": "1986年5月",
+                "participants": "数学老师，同学们",
+                "impact": "正面。进一步增强了她的学术自信心和对教学的热爱。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "在高中一年级时，喻欣莉参加了学校的演讲比赛，并获得了二等奖。她的班主任和同学们都为她感到骄傲。",
+                "location": "学校礼堂",
+                "happen_time": "1987年10月",
+                "participants": "班主任，同学们",
+                "impact": "正面。提升了她的公众表现能力和自信心。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在高中二年级时，喻欣莉的父亲因病住院，她每天放学后去医院陪伴父亲，努力在学业和家庭责任之间找到平衡。",
+                "location": "医院",
+                "happen_time": "1988年3月",
+                "participants": "父亲，母亲",
+                "impact": "负面。增加了她的压力，但也增强了她的责任感和家庭和谐的信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在高考前夕，喻欣莉感到极大的压力，母亲安慰她并带她去散步，帮助她减轻了焦虑。",
+                "location": "家附近的公园",
+                "happen_time": "1990年6月",
+                "participants": "母亲",
+                "impact": "正面。学习到通过健康的方式来应对压力。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，喻欣莉在学校看到一位同学因没有完成作业被老师严厉批评，感到非常同情并主动帮助这位同学补习。",
+                "location": "学校教室",
+                "happen_time": "1988年11月",
+                "participants": "同学，老师",
+                "impact": "正面。加强了她关心和支持他人的信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "在一次班级活动中，喻欣莉看到班主任因班级表现优秀而感到自豪，她感受到了集体荣誉感的重要性。",
+                "location": "学校操场",
+                "happen_time": "1989年5月",
+                "participants": "班主任，同学们",
+                "impact": "正面。增强了她参与集体活动的意愿和对集体荣誉的重视。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在高中三年级时，喻欣莉组织了一次班级郊游活动，大家都玩得很开心，她感受到组织活动的成就感。",
+                "location": "郊外公园",
+                "happen_time": "1989年9月",
+                "participants": "同学们",
+                "impact": "正面。增强了她的组织能力和对集体活动的热情。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "喻欣莉在高中毕业典礼上作为学生代表发言，得到了老师和同学们的热烈掌声。",
+                "location": "学校礼堂",
+                "happen_time": "1990年7月",
+                "participants": "老师，同学们",
+                "impact": "正面。进一步增强了她的自信心和表达能力。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，喻欣莉在家中看到父母因为经济问题发生争吵，深感家庭和谐的重要性。",
+                "location": "家中客厅",
+                "happen_time": "1987年8月",
+                "participants": "父母",
+                "impact": "负面。使她更加重视家庭和谐，增强了她的家庭责任感。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "在学校举办的校运会上，喻欣莉看到一位同学在比赛中受伤，但其他同学们迅速给予帮助和鼓励，这让她深受感动。",
+                "location": "学校操场",
+                "happen_time": "1987年10月",
+                "participants": "同学们",
+                "impact": "正面。增强了她对集体协作和关心他人的信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "喻欣莉在一次家庭聚会上，听到亲戚们对她未来的期望和祝福，感到自己肩负着家庭的期望。",
+                "location": "家中客厅",
+                "happen_time": "1989年春节",
+                "participants": "亲戚们",
+                "impact": "正面。增强了她的责任感和对未来的信心。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "在一次社区活动中，喻欣莉看到社区志愿者们积极帮助有需要的人，感受到社会责任的重要性。",
+                "location": "社区中心",
+                "happen_time": "1990年4月",
+                "participants": "社区志愿者，居民",
+                "impact": "正面。增强了她对参与社会公益活动的热情和责任感。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在高中期间，喻欣莉因一位同学的误会感到委屈，但通过沟通解决了问题，双方关系更加紧密。",
+                "location": "学校教室",
+                "happen_time": "1988年12月",
+                "participants": "同学",
+                "impact": "正面。学会了通过沟通解决问题，增强了她的社交能力。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "在高中最后一次期中考试中，喻欣莉的成绩有所下滑，她感到压力很大，但数学老师的鼓励让她重新振作起来。",
+                "location": "学校教室",
+                "happen_time": "1990年3月",
+                "participants": "数学老师",
+                "impact": "正面。学会了面对挫折，并通过他人的支持重拾信心。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "喻欣莉",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "大学毕业后的第一个教师岗位，我站在讲台上，看着下面一双双充满期待的眼睛，心里既紧张又兴奋。那一天，我第一次感受到作为教师的责任与荣光。",
+                "location": "南京某中学教室",
+                "happen_time": "1994年9月",
+                "participants": "学生、校长、同事",
+                "impact": "这次经历强化了我的核心信念‘我的教育经验对社会有价值’，并激发了我不断提升教育能力的信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "婚礼上，我和丈夫互相交换誓言，承诺一生相守。当时，我心里充满了对家庭和谐生活的期待。",
+                "location": "南京某酒店",
+                "happen_time": "1996年5月",
+                "participants": "丈夫、家人、朋友",
+                "impact": "这次婚礼让我更加坚定了‘我有责任保持家庭和谐’的核心信念，并努力在婚姻生活中贯彻这一信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "怀孕期间，我变得更加关注自己的健康，每天坚持散步和做孕妇瑜伽，同时保持营养均衡的饮食。",
+                "location": "南京家中及附近公园",
+                "happen_time": "1998年3月-1998年12月",
+                "participants": "丈夫、医生、朋友",
+                "impact": "这段时间强化了‘我需要保持健康的生活方式’的核心信念，并让我更加注重身体和心理的健康。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "孩子出生后，我经历了初为人母的喜悦和疲惫，每晚喂奶和哄睡让我既幸福又辛苦。",
+                "location": "南京家中",
+                "happen_time": "1998年12月",
+                "participants": "丈夫、孩子、家人",
+                "impact": "这次经历让我深刻体会到‘我有责任保持家庭和谐’的核心信念，同时也让我更加注重家庭成员的幸福感。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "有一次，班上的一个学生因为家庭问题情绪低落，我主动找他谈心，帮助他解决困扰。",
+                "location": "南京某中学教室",
+                "happen_time": "2001年5月",
+                "participants": "学生、同事",
+                "impact": "这次帮助学生的经历强化了‘我应该关心和支持他人’的核心信念，并让我感受到关心他人的重要性和成就感。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "社区活动中，我主动组织了一次健康生活讲座，向邻居们分享如何保持健康的生活方式。",
+                "location": "南京某社区活动中心",
+                "happen_time": "2003年4月",
+                "participants": "社区居民、朋友",
+                "impact": "这次活动让我更加坚定‘我需要保持健康的生活方式’的核心信念，并感受到传播健康生活理念的意义。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一位同事因为工作压力大而生病住院，这让我意识到健康生活的重要性。",
+                "location": "南京某医院",
+                "happen_time": "2005年3月",
+                "participants": "同事、医生、朋友",
+                "impact": "这次观察让我更加坚定‘健康的生活方式是幸福生活的基础’的信念，并提醒自己时刻注意身体健康。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "在一次家长会上，我听到一位家长对老师的辛勤付出表示感谢，这让我意识到教育工作的社会价值。",
+                "location": "南京某中学会议室",
+                "happen_time": "2006年10月",
+                "participants": "家长、同事、学生",
+                "impact": "这次观察让我更加坚定‘我的教育经验对社会有价值’的核心信念，并激励我继续努力提升教育水平。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我发现丈夫和孩子因为一些琐事发生了争执，我主动调解，化解了矛盾。",
+                "location": "南京家中",
+                "happen_time": "2007年2月",
+                "participants": "丈夫、孩子、家人",
+                "impact": "这次经历让我更加坚定‘我有责任保持家庭和谐’的核心信念，并使我在家庭生活中更加注重沟通和理解。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到社区里一位老人因为得不到子女的关心而感到孤独，这让我意识到关心他人的重要性。",
+                "location": "南京某社区",
+                "happen_time": "2007年8月",
+                "participants": "社区老人、朋友",
+                "impact": "这次观察让我更加坚定‘我应该关心和支持他人’的核心信念，并让我更加注重关心周围的人。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "喻欣莉",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2007年，我的儿子小鹏考上了大学。这是一个家庭的喜讯，但我也感到空巢期逐渐临近。虽然我和丈夫都为他感到骄傲，但晚上回到空荡荡的家时，我常常感到一种深深的孤独感。",
+                "location": "南京的家",
+                "happen_time": "2007年9月",
+                "participants": "丈夫，小鹏",
+                "impact": "这个事件让喻欣莉开始意识到孩子的独立与自己的空巢期，产生了初步的焦虑感。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2011年，丈夫因工作调动需要长时间出差。每当他离开的时候，我都感到一种深深的孤独和不安，有时甚至会失眠。",
+                "location": "南京的家",
+                "happen_time": "2011年全年",
+                "participants": "丈夫",
+                "impact": "丈夫的长期出差加剧了喻欣莉的孤独感，并开始影响她的睡眠质量，增加了焦虑的情绪。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2014年，我的好朋友李老师因癌症去世。她是我在学校最亲密的同事，她的去世让我深刻体会到了生命的脆弱和无常。",
+                "happen_time": "2014年3月",
+                "participants": "李老师",
+                "impact": "李老师的去世让喻欣莉对生命的脆弱有了更深的认知，增加了她对健康生活方式的重视。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2016年，儿子小鹏结婚了。作为母亲，我既高兴又担心他的婚后生活。婚礼当天，我看着他和新娘走进婚礼现场，泪流满面，心中充满了复杂的情感。",
+                "location": "南京的婚礼现场",
+                "happen_time": "2016年5月",
+                "participants": "儿子小鹏，新娘，丈夫",
+                "impact": "儿子的婚礼让喻欣莉感受到家庭角色的转变，虽然高兴但也增加了对未来的不确定感。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2018年，新来的年轻教师小张在教学上遇到了很多困难，导致学生的成绩下滑。我作为她的指导老师，帮助她度过了这段困难时期。",
+                "happen_time": "2018年全年",
+                "participants": "小张",
+                "impact": "帮助小张度过困难让喻欣莉感受到自己教育经验的价值，增强了她的自我价值感。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2020年，我参加了社区的志愿服务活动，帮助社区中的老人和需要帮助的人群。这让我感受到充实和满足。",
+                "location": "南京的社区",
+                "happen_time": "2020年全年",
+                "participants": "社区老人和志愿者",
+                "impact": "志愿服务活动增强了喻欣莉的满足感和社会价值感，减轻了她的孤独感。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2021年，年轻教师小李在教学比赛中取得了优异成绩，她感谢我的指导。这让我感到非常欣慰。",
+                "happen_time": "2021年6月",
+                "participants": "小李",
+                "impact": "小李的成功让喻欣莉感受到自己教育工作的成就感，进一步增强了自我价值感。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2022年，我的母亲因病去世。我感到非常悲痛，这让我更加意识到健康和家庭的重要性。",
+                "location": "南京的医院",
+                "happen_time": "2022年3月",
+                "participants": "母亲，家人",
+                "impact": "母亲的去世让喻欣莉更加重视家庭和健康，增加了她对健康生活方式的坚持。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2023年，社区活动中一位老朋友因心脏病突发住院。看到她的痛苦和家人的焦虑，我开始更加关注自己的健康问题。",
+                "happen_time": "2023年5月",
+                "participants": "老朋友，社区成员",
+                "impact": "老朋友的突发疾病让喻欣莉对健康问题更加敏感，加剧了她的焦虑感。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年，我开始出现焦躁情绪，怀疑是更年期症状。我尝试通过散步和阅读来放松自己，但效果不明显。",
+                "location": "南京的家和社区",
+                "happen_time": "2023年全年",
+                "participants": "家人，社区朋友",
+                "impact": "更年期症状和焦躁情绪让喻欣莉感到困扰，影响了她的生活质量。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年1月，我看到社区里一位独居老人因无人照顾而病倒。我意识到自己也要为未来做好准备，保持健康和积极的生活方式。",
+                "happen_time": "2024年1月",
+                "participants": "社区独居老人",
+                "impact": "独居老人的情况让喻欣莉更加重视健康生活方式，同时也感到了一些对孤独生活的恐惧。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年3月，我的丈夫因为工作压力过大，情绪变得很暴躁。我们发生了几次激烈的争吵，这让我感到非常痛苦和困惑。",
+                "location": "南京的家",
+                "happen_time": "2024年3月",
+                "participants": "丈夫",
+                "impact": "丈夫的暴躁情绪和激烈争吵让喻欣莉感到家庭关系紧张，增加了她的心理压力和焦虑感。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年5月，我的孩子小鹏和媳妇因为经济问题发生了争执，甚至提到了离婚。我感到非常担心和无助，不知道该如何帮他们。",
+                "location": "南京的家",
+                "happen_time": "2024年5月",
+                "participants": "小鹏，媳妇",
+                "impact": "孩子的婚姻问题让喻欣莉感到无助和焦虑，进一步加剧了她的情绪波动。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年7月，社区活动中，我和几位老朋友一起讨论退休后的生活规划。大家都表示希望能继续发挥自己的价值，这让我感到了一些安慰和激励。",
+                "location": "南京的社区活动中心",
+                "happen_time": "2024年7月",
+                "participants": "老朋友，社区成员",
+                "impact": "讨论退休规划让喻欣莉感受到了一些安慰，增强了她继续发挥价值的信心。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年8月，我和丈夫决定一起参加社区的健身活动，尝试通过运动来缓解我们的压力和焦躁情绪。",
+                "location": "南京的社区健身中心",
+                "happen_time": "2024年8月",
+                "participants": "丈夫，社区健身教练",
+                "impact": "社区健身活动让喻欣莉感受到了一些身体上的放松和心理上的安慰，开始逐步缓解焦躁情绪。"
+            }
+        ]
+    }
+}

@@ -1,0 +1,500 @@
+{
+    "childhood": {
+        "name": "康娅珍",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我记得有一次小学三年级的时候，我拿了一张数学试卷回家，成绩只有60分。父亲看到后，皱着眉头严厉地说：'你这样怎么能有出息？'我低着头，不敢看他的眼睛，心中感到无比的失落和羞愧。",
+                "location": "家中的客厅",
+                "happen_time": "1975年03月",
+                "participants": "父亲",
+                "impact": "这个事件强化了我对自己没有价值的核心信念，认为自己无法让父母满意。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "有一次妈妈生病了，我尝试自己做饭，结果不小心把厨房弄得一团糟。妈妈虽然虚弱，但还是过来帮忙。她温柔地说：'你还太小，不用勉强自己。'我感到无助，觉得自己不能独立解决问题。",
+                "location": "家中的厨房",
+                "happen_time": "1972年08月",
+                "participants": "母亲",
+                "impact": "这个事件加深了我对自己需要依赖他人的核心信念，认为自己无法独立解决问题。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "有一天，我在学校被同学们嘲笑，因为我的衣服看起来旧旧的。我回家后告诉妈妈，她只是轻轻地拥抱了我，说：'别在意那些孩子的看法。'但我心里还是很难过，觉得自己不值得被关心。",
+                "location": "家中的卧室",
+                "happen_time": "1974年11月",
+                "participants": "母亲",
+                "impact": "这个事件加强了我对自己不值得被关心的核心信念，觉得这个世界对我来说是冷漠的。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "有一次，我在花园里种花，妈妈走过来夸我种得很好。我感到非常开心，觉得自己也可以找到生活的意义。",
+                "location": "家中的花园",
+                "happen_time": "1976年04月",
+                "participants": "母亲",
+                "impact": "这个事件给了我一些希望，让我觉得自己有能力找到生活的意义。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "我唯一的童年朋友因为家庭搬迁而离开了，我感到非常孤独。那天晚上，我在床上哭了很久，觉得自己不值得被关心，没有人会在乎我。",
+                "location": "家中的卧室",
+                "happen_time": "1970年09月",
+                "participants": "朋友",
+                "impact": "这个事件进一步加深了我对自己不值得被关心的核心信念，觉得自己被孤立，没有人会在乎我。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "有一次，父亲带我去公园玩，他难得地和我聊了一会儿。虽然时间很短，但我感到非常开心，那时我觉得父亲也关心我。",
+                "location": "附近的公园",
+                "happen_time": "1973年05月",
+                "participants": "父亲",
+                "impact": "这个事件稍微减轻了我对父母不关心我的核心信念，让我感到有时他们还是关心我的。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我听见父母在客厅里讨论工作上的问题，他们的声音很低，但从他们的表情中，我可以看出他们都很累。那时我意识到，父母的工作压力很大，他们也有自己的难处。",
+                "location": "家中的客厅",
+                "happen_time": "1971年10月",
+                "participants": "父母",
+                "impact": "这个事件让我理解了父母为什么没有太多时间陪我，但也加深了我对世界是冷漠的认知。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校参加了一次绘画比赛，虽然没有得奖，但老师夸奖了我的努力。那时我感到很开心，觉得自己有能力恢复自信。",
+                "location": "学校",
+                "happen_time": "1977年06月",
+                "participants": "老师",
+                "impact": "这个事件给了我一些信心，让我觉得自己有能力恢复自信，世界也充满了希望。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一天，我看到邻居家的孩子和父母在一起玩耍，他们看起来很开心。我感到有些嫉妒，同时也觉得自己的家庭缺乏这样的温暖。",
+                "location": "邻居家门口",
+                "happen_time": "1975年09月",
+                "participants": "邻居家的孩子及其父母",
+                "impact": "这个事件让我更加觉得自己家庭的情感交流不够，进一步加深了我对自己不值得被关心的核心信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "有一次，父母吵架时我在旁边哭泣，母亲看到后抱着我说：'别怕，一切都会好起来的。'虽然她这样安慰我，但我还是感到非常害怕和无助。",
+                "location": "家中的客厅",
+                "happen_time": "1973年12月",
+                "participants": "父母",
+                "impact": "这个事件让我的安全感进一步减弱，觉得需要依赖他人才能感到安全。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父母为了经济问题争吵，父亲摔了一些东西，母亲则默默流泪。我当时感到非常害怕，觉得生活充满了不确定性。",
+                "location": "家中的厨房",
+                "happen_time": "1974年02月",
+                "participants": "父母",
+                "impact": "这个事件让我觉得世界是复杂和充满挑战的，进一步加深了我对需要依赖他人的核心信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "有一天，我在家里做作业时，母亲走进来给我端了一杯热牛奶，说：'你做得很好，继续努力。'我感到非常温暖，觉得自己也能找到生活的意义。",
+                "location": "家中的卧室",
+                "happen_time": "1976年10月",
+                "participants": "母亲",
+                "impact": "这个事件让我感到被关心和支持，增强了我对自己有能力找到生活意义的信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父亲在厨房里默默地修理坏掉的水龙头，母亲站在一旁递工具。他们没有多说什么，但我能感受到他们之间的默契和支持。",
+                "location": "家中的厨房",
+                "happen_time": "1978年03月",
+                "participants": "父母",
+                "impact": "这个事件让我意识到，尽管父母平时忙碌，他们之间还是有一种默默的支持，这给了我一些安全感。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "有一次，我生病了，妈妈请了一天假在家照顾我。她给我讲故事、喂我吃药，那时我感到非常被关心。",
+                "location": "家中的卧室",
+                "happen_time": "1971年04月",
+                "participants": "母亲",
+                "impact": "这个事件让我觉得自己有时还是值得被关心的，稍微减轻了我对自己不值得被关心的核心信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的孩子和他的父母一起在院子里搭帐篷，他们看起来非常开心。我感到羡慕，同时也觉得自己的家庭缺乏这种温暖和互动。",
+                "location": "邻居家的院子",
+                "happen_time": "1977年07月",
+                "participants": "邻居家的孩子及其父母",
+                "impact": "这个事件让我更加觉得自己家庭的情感交流不足，进一步加深了我对自己不值得被关心的核心信念。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "康娅珍",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在一次语文课上，语文老师鼓励我在班级前朗读自己的作文。我非常紧张，担心自己会读错或者被同学嘲笑。但在老师温柔的目光下，我还是鼓起勇气读完了。虽然读完后心跳加速，但看到老师的赞许，我感觉到了一丝自信。",
+                "location": "学校教室",
+                "happen_time": "1980年4月",
+                "participants": "语文老师，同学们",
+                "impact": "这次经历增强了我的自信心，开始相信自己有能力在某些方面表现出色。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次数学考试中，我因为过度紧张导致发挥失常，成绩非常糟糕。回到家后，我感到非常沮丧，不敢告诉父母。晚上，我在被窝里偷偷哭泣，觉得自己真的很无能。",
+                "location": "学校考场和家里",
+                "happen_time": "1981年5月",
+                "participants": "父母（未直接参与，但对心理有影响）",
+                "impact": "这次失败强化了我对自己能力的怀疑，进一步加深了‘我无法在学业上取得好成绩’的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班上最受欢迎的女同学在放学后被一群男生围着，她看起来非常开心和自信。我站在远处默默观察，心里羡慕却感到自己永远无法成为那样受欢迎的人。",
+                "location": "学校操场",
+                "happen_time": "1982年9月",
+                "participants": "班上受欢迎的女同学及一些男生",
+                "impact": "这次观察让我感受到自己的社交能力差距，进一步强化了‘我不如别人’的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "一次家里举办家庭聚会，亲戚们夸赞我的表妹成绩优异。我虽然表面上微笑，但内心感到强烈的自卑和失落，觉得自己永远也无法达到他们的期望。",
+                "location": "家里客厅",
+                "happen_time": "1983年3月",
+                "participants": "亲戚们，表妹",
+                "impact": "这次经历加深了‘我总是觉得自己不如别人’的信念，进一步影响了自信心。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "一次在放学回家途中，我看到一位同学摔倒了，其他同学纷纷上前帮忙。我站在远处，犹豫着是否应该过去帮忙，最终还是没有动。回家后，我感到很内疚，责备自己的冷漠。",
+                "location": "学校门口",
+                "happen_time": "1983年10月",
+                "participants": "摔倒的同学，其他同学",
+                "impact": "这次观察让我意识到自己的社交被动性，进一步加深了‘我不值得被关心’的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "一次在家里的晚饭桌上，父母讨论我未来的职业规划，提到希望我能成为一名老师。我内心感到迷茫和压力，觉得自己可能无法胜任这样的角色。",
+                "location": "家里餐厅",
+                "happen_time": "1984年5月",
+                "participants": "父母",
+                "impact": "这次讨论让我感受到未来的压力，进一步强化了‘我无法独立解决学业问题’的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在图书馆看到一位同学在努力复习功课，她的专注和努力让我感到钦佩。我开始思考自己是否也应该这样努力，寻找自己的价值。",
+                "location": "学校图书馆",
+                "happen_time": "1984年7月",
+                "participants": "努力复习的同学",
+                "impact": "这次观察让我意识到努力的重要性，激发了‘我有能力通过努力找到自己的价值’的核心信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在一次班级活动中，我尝试主动与其他同学交流，结果获得了意外的友好回应。这让我感到非常开心，开始相信自己有能力建立友谊。",
+                "location": "学校活动室",
+                "happen_time": "1984年9月",
+                "participants": "班级同学",
+                "impact": "这次积极的社交体验增强了我的自信心，部分缓解了‘我无法让同学真正关心我’的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "一次在家里，我独自完成了一次复杂的编织项目，成果得到了家人的赞赏。这让我感到非常自豪，开始相信自己有能力完成一些事情。",
+                "location": "家里客厅",
+                "happen_time": "1984年10月",
+                "participants": "家人",
+                "impact": "这次成功的经历增强了我的自信心，让我开始相信自己有能力通过努力找到自己的价值。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里听到父母讨论他们的经济困难，尽管他们试图不让我听到，但我心里感到很不安和焦虑。",
+                "location": "家里",
+                "happen_time": "1984年12月",
+                "participants": "父母",
+                "impact": "这次观察让我对未来充满了不确定感，进一步加深了‘这个世界对我来说是陌生和充满挑战的’的中间信念。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "康娅珍",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "1985年，我和丈夫刚结婚不久，他的公司安排他去外地出差一周。这是我们结婚以来第一次分开，我非常焦虑。每天晚上，我一个人在家里，心里空空的，担心着他的安全。我试图打电话给他，但是电话总是占线。",
+                "location": "家中",
+                "happen_time": "1985年3月",
+                "participants": "康娅珍, 丈夫",
+                "impact": "这种经历加深了她对依赖他人的需求（core_belief_2）和对孤独的恐惧（intermediate_belief_4），也让她更加不自信（core_belief_1），害怕自己无法独自面对生活中的挑战。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "1987年，我的第一个孩子出生了。起初，我感到非常幸福，但不久之后，我开始感到无助和疲惫。孩子晚上经常哭闹，我几乎睡不着觉。有一天晚上，我实在太累了，忍不住对孩子发了脾气，之后我感到非常内疚和自责。",
+                "location": "家中",
+                "happen_time": "1987年8月",
+                "participants": "康娅珍, 孩子",
+                "impact": "这次经历让康娅珍更加坚定地认为自己不够好（intermediate_belief_2），并加深了她对自己能力的质疑（core_belief_1），认为自己无法胜任母亲的角色。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "1989年，孩子生病住院，我和丈夫轮流照顾。一天晚上，丈夫因工作原因无法陪伴孩子，我独自一人在医院陪了整整一夜。那一夜，我感到非常孤独和无助，不知道该如何应对孩子的病情。",
+                "location": "医院",
+                "happen_time": "1989年12月",
+                "participants": "康娅珍, 孩子",
+                "impact": "这次经历强化了她对自己无法独立解决问题的信念（intermediate_belief_3），也让她感到更加依赖他人的支持（core_belief_2）。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "1991年，我的第二个孩子出生了。因为有了第一次的经验，这次我感到稍微轻松了一些，但在照顾两个孩子的过程中，我仍然感到非常疲惫和压力大。有一次，我在厨房里做饭，突然感到头晕目眩，差点晕倒。",
+                "location": "家中厨房",
+                "happen_time": "1991年5月",
+                "participants": "康娅珍, 孩子们",
+                "impact": "这次事件让她更加怀疑自己的能力（core_belief_1），并且对自己能否胜任母亲的角色产生更多的不安（intermediate_belief_2）。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "1993年，我和丈夫因为孩子的教育问题发生了一次激烈的争吵。他认为我对孩子太过溺爱，而我觉得他对孩子太过严格。争吵之后，我感到非常难过和无助，觉得自己在家庭中没有发言权。",
+                "location": "家中客厅",
+                "happen_time": "1993年10月",
+                "participants": "康娅珍, 丈夫",
+                "impact": "这次争吵加深了她对自己不值得被关心的信念（core_belief_3），也让她更加怀疑自己在家庭中的价值（core_belief_1）。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "1995年，我的孩子们开始上小学，我有了更多的空闲时间。我决定尝试一些新的活动，比如参加编织班和园艺俱乐部。尽管一开始感到有点紧张，但慢慢地我发现自己在这些活动中找到了乐趣和成就感。",
+                "location": "社区活动中心",
+                "happen_time": "1995年4月",
+                "participants": "康娅珍, 社区成员",
+                "impact": "这次经历让她开始挑战自己的核心信念（core_belief_4），尝试寻找生活的意义和自信（intermediate_belief_7）。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "1996年，我的一个老朋友搬回了小区，我们重新建立了联系。她鼓励我多参加社区活动，并且邀请我一起去旅行。虽然我一开始很犹豫，但最终决定和她一起去了一次短途旅行。",
+                "location": "旅行地点",
+                "happen_time": "1996年8月",
+                "participants": "康娅珍, 老朋友",
+                "impact": "这次旅行增强了她的自信（core_belief_4），也让她意识到他人的支持和鼓励对自己有多么重要（intermediate_belief_8）。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "1998年，我的孩子们开始进入青春期，情绪变得不稳定。有一次，我的大儿子因为成绩不好而和我大吵一架，他指责我对他的期望太高。当时我感到非常无助和伤心，不知道如何与他沟通。",
+                "location": "家中",
+                "happen_time": "1998年11月",
+                "participants": "康娅珍, 大儿子",
+                "impact": "这次冲突让她更加怀疑自己在孩子心目中的价值（core_belief_1），并且对自己的教育方式产生了更多的质疑（intermediate_belief_2）。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "1999年，我的邻居家发生了一起严重的家庭矛盾，丈夫因为饮酒过量与妻子发生了激烈的争吵，我透过窗户看见他们的孩子在一旁哭泣。那一刻，我深深地感受到家庭和谐的重要性。",
+                "location": "邻居家",
+                "happen_time": "1999年6月",
+                "participants": "邻居家庭",
+                "impact": "这次观察让她更加珍惜自己的家庭关系，也激发了她对维持家庭和谐的决心（intermediate_belief_7）。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "2000年，我的丈夫因为工作压力大，经常加班，导致我们之间的交流越来越少。有一次，我主动提出一起出去散步，希望能缓解他的压力并增进我们的感情。尽管他一开始有些不情愿，但最终还是同意了。",
+                "location": "社区公园",
+                "happen_time": "2000年9月",
+                "participants": "康娅珍, 丈夫",
+                "impact": "这次经历让她感受到主动沟通的重要性，也增强了她在家庭中找到自信和价值的决心（core_belief_4）。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "2001年，我在社区活动中心看见一位老年妇女独自坐在角落里，看起来非常孤独和无助。我走过去与她聊天，发现她因为丈夫去世而感到无比痛苦和孤独。她的故事让我深深感受到失去亲人的痛苦。",
+                "location": "社区活动中心",
+                "happen_time": "2001年3月",
+                "participants": "康娅珍, 老年妇女",
+                "impact": "这次观察让她更加珍惜与家人和朋友的关系，也激发了她对建立和维护社会连接的渴望（intermediate_belief_8）。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "康娅珍",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "孩子们先后结婚搬出家门，我感到家里突然变得很空旷，心里也失去了重心。",
+                "location": "家中",
+                "happen_time": "2018年-2019年",
+                "participants": "康娅珍，孩子们",
+                "impact": "这种变化使我感到无所适从，增加了内心的空虚感，进一步加剧了自我价值感的缺乏。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一天晚上，我独自一人在家，突然感到极度的孤独和无助，甚至有了自残的冲动。",
+                "location": "家中",
+                "happen_time": "2020年5月",
+                "participants": "康娅珍",
+                "impact": "这种情感的爆发让我更加确信自己无法独立面对生活，增加了对他人依赖的感觉。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "和丈夫的一次争吵中，他无意中提到我从未做过什么有意义的事情，这句话深深刺痛了我。",
+                "location": "家中",
+                "happen_time": "2021年3月",
+                "participants": "康娅珍，丈夫",
+                "impact": "这次争吵加剧了我对自己价值的怀疑，进一步强化了'我是没有价值的'核心信念。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我尝试加入一个园艺俱乐部，但在第一次活动中因太过紧张而表现失常，感觉非常丢脸。",
+                "location": "社区园艺俱乐部",
+                "happen_time": "2022年4月",
+                "participants": "康娅珍，俱乐部成员",
+                "impact": "这次失败的尝试使我更加害怕尝试新事物，强化了'我应该避免尝试新的事情，以免失败'的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在看电视时，看到一个关于自杀幸存者的纪录片，感到这些幸存者的痛苦和挣扎。",
+                "location": "家中",
+                "happen_time": "2022年10月",
+                "participants": "康娅珍",
+                "impact": "这个事件让我思考自己的自杀冲动，增加了对自我伤害的恐惧，同时也让我感到自己并不孤单。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，听到孩子们讨论他们的工作和生活，感到自己完全无法参与其中。",
+                "location": "家中",
+                "happen_time": "2023年1月",
+                "participants": "康娅珍，孩子们",
+                "impact": "这种隔阂感让我更加觉得自己与他们的生活脱节，感到自己不值得被关心。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "丈夫出差一周，我独自一人在家，感到极度的孤立无援，甚至产生了自杀的念头。",
+                "location": "家中",
+                "happen_time": "2023年3月",
+                "participants": "康娅珍",
+                "impact": "这次孤立的经历强化了我对他人依赖的需求和对自我独立能力的怀疑。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在社区活动中，看到一位老朋友因健康问题变得孤独无助，感到非常同情和害怕。",
+                "location": "社区中心",
+                "happen_time": "2023年5月",
+                "participants": "康娅珍，老朋友",
+                "impact": "这种观察使我更加担心自己未来的健康和独立性，加剧了对未来的无望感。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "尝试联系老朋友，但被告知他们已经有了新的社交圈，感到非常失落。",
+                "location": "电话联系",
+                "happen_time": "2023年7月",
+                "participants": "康娅珍，老朋友",
+                "impact": "这种被拒绝的感觉强化了'我不值得被关心'的核心信念，使我更加孤立。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2024年春节期间，孩子们来家里过节，但我感到自己只是一个旁观者，无法真正融入他们的生活。",
+                "location": "家中",
+                "happen_time": "2024年1月",
+                "participants": "康娅珍，孩子们，丈夫",
+                "impact": "这种疏离感加剧了我的孤独和无助感，使我更加怀疑自己的价值。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次编织活动中，我完成了一条非常漂亮的围巾，得到了邻居的赞赏，感到自己有了一些价值。",
+                "location": "社区活动中心",
+                "happen_time": "2024年3月",
+                "participants": "康娅珍，邻居",
+                "impact": "这种积极的反馈让我感受到了一丝成就感，稍微缓解了内心的无望感。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "孩子们提议帮助我找个心理咨询师，我感到自己被关心，但也有些抵触。",
+                "location": "家中",
+                "happen_time": "2024年4月",
+                "participants": "康娅珍，孩子们",
+                "impact": "这次对话让我感到自己还是有被关心的，但也让我意识到自己需要帮助，内心有些矛盾。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在公园散步时看到一对老年夫妇互相扶持，感到非常羡慕和失落。",
+                "location": "社区公园",
+                "happen_time": "2024年5月",
+                "participants": "康娅珍，老年夫妇",
+                "impact": "这种观察让我更加感到自己缺乏支持和关爱，强化了对他人依赖的渴望。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我终于决定去见心理咨询师，但在第一次咨询时因过度紧张而感到非常尴尬和无助。",
+                "location": "心理咨询室",
+                "happen_time": "2024年6月",
+                "participants": "康娅珍，心理咨询师",
+                "impact": "这次经历让我感到自己的脆弱和无力，但也意识到自己需要专业的帮助。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在心理咨询过程中，我开始了解到自己的核心信念和中间信念，感到有些许的希望。",
+                "location": "心理咨询室",
+                "happen_time": "2024年8月",
+                "participants": "康娅珍，心理咨询师",
+                "impact": "这次咨询让我开始正视自己的问题，并尝试改变自己的思维方式，内心感到有一丝希望。"
+            }
+        ]
+    }
+}

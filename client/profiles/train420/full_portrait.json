@@ -1,0 +1,141 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "善良",
+            "细腻"
+        ],
+        "appearance": [
+            "瘦弱",
+            "中等身高",
+            "皮肤白皙",
+            "长发",
+            "眼神忧郁"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐"
+            ],
+            "activity": [
+                "独自散步",
+                "在房间里画画",
+                "听舒缓的音乐"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高学习成绩，减轻对家人的负担",
+            "long_term_goals": "找到自己真正的兴趣和热情，过上平静幸福的生活"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到校上课，下午4点放学后回家做作业，晚上10点左右睡觉。周末通常在家里复习功课或画画。",
+            "weekends": "周末大部分时间在家里，偶尔会去附近的公园散步，或者在房间里听音乐和画画。"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格活泼，但随着年龄增长和学业压力增加，逐渐变得内向和敏感。",
+            "recent_events": "最近一个月学习成绩明显下降，情绪低落，对未来感到无望，觉得自己是家人的负担。"
+        },
+        "environment": "出生在一个普通的城市家庭，父母对她的期望很高。她在当地的一所中学就读，学业压力较大，家里氛围相对紧张。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "花晓璐的父亲是一位严肃但关心家庭的男人，他对女儿的期望很高，希望她能在学业上取得优异成绩。尽管他很少表达情感，但他总是默默地支持着女儿。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "花晓璐的母亲是一位温柔而细心的女人，她对女儿的关爱无微不至。她总是尽力理解和支持女儿，但有时也会因为学业问题而感到焦虑。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "小时候，花晓璐有两个好朋友，她们经常一起玩耍和学习。随着年龄的增长和学业压力的增加，她们的联系逐渐减少，但友谊的基础依然存在。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "最近，花晓璐和父亲的关系变得有些紧张。父亲对她的学习成绩下降感到失望，这让她感到更加自责和无望。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然关心和支持花晓璐，但她也开始感到无力和焦虑，不知道如何帮助女儿走出困境。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "花晓璐的班主任是一位严格但关心学生的老师。她注意到花晓璐的情绪变化和成绩下降，试图与她沟通，但效果不大。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "花晓璐的同学们大多忙于自己的学业，很少有人注意到她的情绪变化。她感到自己与同学们的距离越来越远。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "花晓璐在童年时期有着较为活跃的社交生活，但随着年龄的增长和学业压力的增加，她逐渐变得内向和敏感。她与父母的关系也因为学业问题而变得紧张，尤其是与父亲的关系。她的朋友和同学们大多忙于自己的学业，很少有人注意到她的情绪变化，这让她感到孤独和无助。"
+    }
+}

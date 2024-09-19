@@ -1,0 +1,211 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "坚强",
+            "乐观",
+            "关心他人",
+            "责任感强",
+            "耐心",
+            "有爱心"
+        ],
+        "appearance": [
+            "中等身材",
+            "短发",
+            "戴眼镜",
+            "面容和蔼",
+            "穿着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "唱歌",
+                "阅读",
+                "园艺"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步",
+                "参加社区活动"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "尽快确诊并治疗脑肿瘤，恢复健康",
+            "long_term_goals": "继续教书育人，帮助学生们顺利毕业，为儿子攒够首付"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，准备早餐，7点出门上班。白天在学校教书，下午4点回家。晚上备课、批改作业，10点左右休息。",
+            "weekends": "周末会和家人一起做饭，去公园散步，有时参加社区活动或和朋友聚会。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工人家庭，父母勤劳朴实，从小受到良好的教育。",
+            "adolescence": "中学时期成绩优异，积极参加学校活动，曾担任班长。",
+            "youth": "大学毕业后成为一名教师，热爱教育事业，深受学生喜爱。",
+            "recent_events": "最近在单位体检中发现脑肿瘤，内心彷徨但依然保持乐观，积极面对治疗。"
+        },
+        "environment": "出生在一个小县城，大学毕业后在省城工作和生活。家庭和睦，丈夫和儿子都很支持她的工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "昌冬璐的父母是普通的工人，勤劳朴实，从小对她严格要求，给予了她良好的教育。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "昌冬璐在小学时有几个要好的朋友，他们一起玩耍、学习，度过了快乐的童年时光。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "中学时期，昌冬璐成绩优异，积极参加学校活动，结交了许多志同道合的同学。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        4
+                    ],
+                    "description": [
+                        "昌冬璐的班主任和数学老师对她影响深远，他们不仅在学业上给予了她极大的帮助，还在生活中给予了她很多关怀。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "大学期间，昌冬璐结识了一些志同道合的朋友，他们一起学习、一起探讨人生，建立了深厚的友谊。"
+                    ]
+                },
+                {
+                    "relationship": "恋人",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "昌冬璐在大学期间认识了她的丈夫，他们相互扶持，共同面对生活中的挑战。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "家人",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        5,
+                        4
+                    ],
+                    "description": [
+                        "昌冬璐的丈夫和儿子是她生活中的重要支柱，他们在她发现脑肿瘤后给予了她极大的支持和鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "昌冬璐在学校的同事们对她非常关心，他们在她生病后主动分担了她的一些工作。"
+                    ]
+                },
+                {
+                    "relationship": "学生",
+                    "count": 30,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "昌冬璐的学生们非常喜欢她，他们在得知她生病后纷纷表示关心和祝福。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "昌冬璐在不同阶段的社会关系中表现出强大的社交能力和适应能力。童年时期，她在父母的严格教育下形成了良好的品格和学习习惯；青春期，她通过积极参加学校活动结交了许多朋友；成年后，她在大学期间建立了深厚的友谊，并找到了终身伴侣。最近，她在面对脑肿瘤的挑战时，得到了家人、同事和学生们的支持，显示出她在社会关系中的坚韧和乐观。"
+    }
+}

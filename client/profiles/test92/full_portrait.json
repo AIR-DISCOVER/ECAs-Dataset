@@ -1,0 +1,172 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "缺乏自信",
+            "容易受伤",
+            "善良",
+            "有时会变得烦躁"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "面色苍白",
+            "眼神疲惫",
+            "头发有些凌乱"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "打篮球",
+                "听音乐"
+            ],
+            "activity": [
+                "独自散步",
+                "在图书馆看书"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复正常的学习状态，重新找回对学习的兴趣",
+            "long_term_goals": "成为一名成功的专业人士，能够自信地面对生活"
+        },
+        "daily_life": {
+            "routine": "早上很早醒来，通常在宿舍里度过大部分时间，白天上课但注意力难以集中，晚上难以入睡，经常做噩梦。",
+            "weekends": "周末通常待在宿舍，偶尔会去图书馆，但大部分时间感到疲惫和无所事事。"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格活泼，但随着年龄增长变得越来越内向。",
+            "adolescence": "中学时期成绩优异，但人际关系一般，常常感到孤独。",
+            "recent_events": "最近一个月被舍友孤立，导致情绪低落，学习和生活受到严重影响。"
+        },
+        "environment": "出生在一个小城市，家庭环境一般，父母对他期望较高。现在在一所大学就读，但由于抑郁症状，生活和学习都受到很大影响。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "沈武伯的父亲是一名工人，工作繁忙，但对儿子的教育非常重视。父子关系较为亲密，父亲常常在工作之余陪伴沈武伯，教他打篮球。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "沈武伯的母亲是一名小学教师，性格温和，对儿子关爱有加。母子关系非常亲密，母亲常常在家里辅导沈武伯的功课，鼓励他多阅读。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "沈武伯小时候有几个玩伴，常常一起玩耍，但随着年龄增长，这些朋友逐渐疏远。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入中学后，沈武伯的父亲对他的期望更高，但由于工作繁忙，陪伴时间减少。父子关系变得有些疏远。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然关心沈武伯的学习，但由于沈武伯变得内向，母子之间的交流减少。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期，沈武伯成绩优异，但人际关系一般，常常感到孤独。与同学的关系较为表面化，缺乏深层次的交流。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "舍友",
+                    "count": 4,
+                    "familiarity": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "description": [
+                        "最近一个月，沈武伯被舍友孤立，导致情绪低落。舍友们开始疏远他，不再带他一起打球或吃饭，回宿舍也不与他交流。"
+                    ]
+                },
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "虽然沈武伯与父母的关系依然存在，但由于他不愿意与他们交流，关系变得更加疏远。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "沈武伯的老师对他的学习情况有所关注，但由于沈武伯的情绪低落和注意力不集中，老师们也感到无能为力。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "沈武伯的社交能力和意愿在不同阶段发生了显著变化。小时候，他性格活泼，与父母和朋友关系较为亲密。进入中学后，他变得内向，与同学的关系变得表面化，常常感到孤独。最近一个月，由于舍友的孤立，他的情绪低落，社交意愿进一步下降，与父母和老师的关系也变得疏远。"
+    }
+}

@@ -1,0 +1,434 @@
+{
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我不应该有自己的意见和需求。",
+                "others": "他人会认为我倔强，如果我有自己的意见。",
+                "world": "为了被接受，我必须迎合他人。"
+            },
+            "rules": "我应该避免表达自己的意见，以免与他人产生冲突。",
+            "positive_assumption": "如果我不表达自己的意见，我会被更多人接受。",
+            "negative_assumption": "如果我表达自己的意见，我会被他人排斥。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须满足所有人的期望。",
+                "others": "如果我不能满足他们的期望，他们会对我失望。",
+                "world": "人们会因为我能满足他们的期望而认可我。"
+            },
+            "rules": "我应该尽一切努力满足他人的期望。",
+            "positive_assumption": "如果我满足了他人的期望，他们会更喜欢我。",
+            "negative_assumption": "如果我不能满足他人的期望，我会被拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我不应该有自己的需求和兴趣。",
+                "others": "家人会认为我自私，如果我有自己的需求。",
+                "world": "一个好的家庭成员不应该有自己的需求。"
+            },
+            "rules": "我应该把家人的需求放在首位。",
+            "positive_assumption": "如果我满足家人的需求，他们会幸福。",
+            "negative_assumption": "如果我有自己的需求，我会让家人失望。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值在于我为家庭付出的一切。",
+                "others": "家人会因为我付出而感激我。",
+                "world": "一个好的家庭成员应该为家庭付出很多。"
+            },
+            "rules": "我应该尽一切努力为家庭付出。",
+            "positive_assumption": "如果我为家庭付出，我的家人会幸福。",
+            "negative_assumption": "如果我不能为家庭付出，我就没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该能够理解和支持女儿的兴趣。",
+                "others": "家人会因为我不能理解女儿而失望。",
+                "world": "每个母亲都应该理解自己的孩子。"
+            },
+            "rules": "我应该多花时间了解女儿的兴趣和想法。",
+            "positive_assumption": "如果我能理解女儿的兴趣，我们的关系会更好。",
+            "negative_assumption": "如果我不能理解女儿的兴趣，我们的关系会变得更糟。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我和女儿关系不好，那就是我的失败。",
+                "others": "我的家人会认为我不称职。",
+                "world": "好母亲应该总是能和孩子保持良好关系。"
+            },
+            "rules": "我应该努力改善与女儿的关系。",
+            "positive_assumption": "如果我改善和女儿的关系，我会成为一个称职的母亲。",
+            "negative_assumption": "如果我和女儿关系不好，我就是一个失败的母亲。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我不应该有自己的意见和需求。",
+                "others": "朋友和家人会认为我倔强，如果我有自己的意见。",
+                "world": "为了被接受，我必须迎合他人。"
+            },
+            "rules": "我应该避免表达自己的意见，以免与朋友和家人产生冲突。",
+            "positive_assumption": "如果我不表达自己的意见，我会被更多人接受。",
+            "negative_assumption": "如果我表达自己的意见，我会被朋友和家人排斥。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须满足朋友和家人的期望。",
+                "others": "如果我不能满足他们的期望，他们会对我失望。",
+                "world": "朋友和家人会因为我能满足他们的期望而认可我。"
+            },
+            "rules": "我应该尽一切努力满足朋友和家人的期望。",
+            "positive_assumption": "如果我满足了朋友和家人的期望，他们会更喜欢我。",
+            "negative_assumption": "如果我不能满足朋友和家人的期望，我会被拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我不应该有自己的需求和兴趣。",
+                "others": "朋友和家人会认为我自私，如果我有自己的需求。",
+                "world": "一个好的朋友和家庭成员不应该有自己的需求。"
+            },
+            "rules": "我应该把朋友和家人的需求放在首位。",
+            "positive_assumption": "如果我满足朋友和家人的需求，他们会幸福。",
+            "negative_assumption": "如果我有自己的需求，我会让朋友和家人失望。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值在于我为朋友和家人付出的一切。",
+                "others": "朋友和家人会因为我付出而感激我。",
+                "world": "一个好的朋友和家庭成员应该为他人付出很多。"
+            },
+            "rules": "我应该尽一切努力为朋友和家人付出。",
+            "positive_assumption": "如果我为朋友和家人付出，他们会幸福。",
+            "negative_assumption": "如果我不能为朋友和家人付出，我就没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该能够理解和支持朋友的兴趣。",
+                "others": "朋友会因为我不能理解他们而失望。",
+                "world": "每个人都应该理解和支持自己的朋友。"
+            },
+            "rules": "我应该多花时间了解朋友的兴趣和想法。",
+            "positive_assumption": "如果我能理解朋友的兴趣，我们的关系会更好。",
+            "negative_assumption": "如果我不能理解朋友的兴趣，我们的关系会变得更糟。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我在学业或社交上表现不好，那就是我的失败。",
+                "others": "我的朋友和家人会认为我不称职。",
+                "world": "成功的人应该在学业和社交上都表现出色。"
+            },
+            "rules": "我应该努力在学业和社交上表现出色。",
+            "positive_assumption": "如果我在学业和社交上表现好，我会被认可。",
+            "negative_assumption": "如果我在学业和社交上表现不好，我就是一个失败的人。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我不应该表现得与众不同。",
+                "others": "朋友会因为我与他们不同而疏远我。",
+                "world": "融入朋友的圈子是非常重要的。"
+            },
+            "rules": "我应该尽量和朋友保持一致。",
+            "positive_assumption": "如果我和朋友保持一致，我们的关系会更好。",
+            "negative_assumption": "如果我表现得与众不同，我会被朋友排斥。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要朋友的认可和支持。",
+                "others": "朋友之间应该互相支持和理解。",
+                "world": "友谊对我的成长很重要。"
+            },
+            "rules": "我应该努力维持和朋友之间的关系。",
+            "positive_assumption": "如果我得到朋友的认可，我会更有信心。",
+            "negative_assumption": "如果我失去朋友的认可，我会觉得孤独和不安。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我不应该有太多的娱乐时间。",
+                "others": "别人会认为我不够努力，如果我花太多时间娱乐。",
+                "world": "努力学习才能取得好成绩。"
+            },
+            "rules": "我应该减少娱乐时间，专注于学习。",
+            "positive_assumption": "如果我专注于学习，我会取得更好的成绩。",
+            "negative_assumption": "如果我花太多时间娱乐，我的成绩会下滑。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值体现在我的成绩上。",
+                "others": "老师和同学会因为我的成绩而尊重我。",
+                "world": "好成绩是获得认可和尊重的关键。"
+            },
+            "rules": "我应该全力以赴地学习。",
+            "positive_assumption": "如果我有好成绩，我会得到更多的机会和认可。",
+            "negative_assumption": "如果我的成绩不好，我会失去尊重和机会。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该听从父母的安排。",
+                "others": "父母知道什么对我最好。",
+                "world": "遵循父母的期望可以让我生活得更好。"
+            },
+            "rules": "我应该听从父母的建议和安排。",
+            "positive_assumption": "如果我听从父母的安排，我的人生会更顺利。",
+            "negative_assumption": "如果我不听从父母的安排，我会遇到很多问题。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不努力学习，父母会对我失望。",
+                "others": "我的父母对我的期望很高。",
+                "world": "为了被接受，我必须满足父母的期望。"
+            },
+            "rules": "我应该努力学习，取得好成绩。",
+            "positive_assumption": "如果我取得好成绩，父母会为我感到骄傲。",
+            "negative_assumption": "如果我成绩不好，父母会失望并责备我。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能让自己放松下来。",
+                "others": "父母会认为我懒惰，如果我不努力。",
+                "world": "放松和休息是浪费时间。"
+            },
+            "rules": "我应该时刻保持努力工作和学习。",
+            "positive_assumption": "如果我不放松，我会取得更大的成就。",
+            "negative_assumption": "如果我放松下来，我会让父母失望。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须付出最大的努力。",
+                "others": "父母会因为我的努力而感到满意。",
+                "world": "只有努力才能成功。"
+            },
+            "rules": "我应该通过努力工作来避免让父母失望。",
+            "positive_assumption": "如果我付出最大的努力，父母会认可我。",
+            "negative_assumption": "如果我不努力，我会让父母失望。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在学业上表现出色。",
+                "others": "父母会因为我的学业成绩而感到自豪。",
+                "world": "学业成绩决定一个人的未来。"
+            },
+            "rules": "我应该全力以赴在学业上取得好成绩。",
+            "positive_assumption": "如果我的学业成绩好，父母会对我更满意。",
+            "negative_assumption": "如果我的学业成绩不好，我就会让父母失望。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值在于我的表现和成就。",
+                "others": "父母会因为我的成就而感到骄傲。",
+                "world": "成功的人才是有价值的。"
+            },
+            "rules": "我应该不断取得成就，以证明我的价值。",
+            "positive_assumption": "如果我取得成就，父母会更爱我。",
+            "negative_assumption": "如果我没有成就，我就没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该始终努力，以证明自己值得父母的爱。",
+                "others": "父母会因为我的努力而感到满意。",
+                "world": "努力是获得认可的唯一途径。"
+            },
+            "rules": "我应该努力学习和表现，以获得父母的认可。",
+            "positive_assumption": "如果我努力学习和表现，父母会为我感到骄傲。",
+            "negative_assumption": "如果我不努力学习和表现，父母会对我失望。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能满足父母的期望，我就是一个失败者。",
+                "others": "父母会因为我达不到他们的期望而失望。",
+                "world": "孩子应该总是努力满足父母的期望。"
+            },
+            "rules": "我应该尽一切努力满足父母的期望。",
+            "positive_assumption": "如果我满足了父母的期望，他们会更爱我。",
+            "negative_assumption": "如果我不能满足父母的期望，我就会被认为是失败的。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

@@ -1,0 +1,524 @@
+{
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该多与家人沟通。",
+                "others": "家人会理解并支持我的沟通努力。",
+                "world": "沟通是解决家庭问题的重要手段。"
+            },
+            "rules": "我应该定期与家人进行有效沟通。",
+            "positive_assumption": "如果我与家人沟通，家庭问题会更容易解决。",
+            "negative_assumption": "如果我不与家人沟通，家庭问题会恶化。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任维护家庭的和谐。",
+                "others": "家人会支持和理解我的努力。",
+                "world": "家庭和谐是幸福生活的基础。"
+            },
+            "rules": "我应该主动解决家庭中的问题。",
+            "positive_assumption": "如果我维护家庭和谐，家庭生活会更幸福。",
+            "negative_assumption": "如果我不维护家庭和谐，家庭关系会变得紧张。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过帮助他人来获得满足感。",
+                "others": "他人会感激我的帮助。",
+                "world": "帮助他人是让世界变得更好的方式。"
+            },
+            "rules": "我应该积极参与社区和志愿活动。",
+            "positive_assumption": "如果我参与社区活动，我会感受到更多的满足感。",
+            "negative_assumption": "如果我不参与社区活动，我会感到缺乏成就感。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力关心和帮助他人。",
+                "others": "他人会因为我的关心而感到温暖。",
+                "world": "这个世界需要更多的关心和支持。"
+            },
+            "rules": "我应该尽量多关心和帮助他人。",
+            "positive_assumption": "如果我关心他人，我会建立更紧密的人际关系。",
+            "negative_assumption": "如果我不关心他人，我会感到孤立和内疚。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我退休后仍能找到发挥教育经验的机会。",
+                "others": "社区和社会会需要我的教育经验。",
+                "world": "即使退休了，社会仍然需要经验丰富的教育者。"
+            },
+            "rules": "我应该积极寻找发挥自己教育经验的机会。",
+            "positive_assumption": "如果我积极寻找机会，我会继续感受到自己的价值。",
+            "negative_assumption": "如果我不寻找机会，我会感到失落和无用。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过教育帮助更多的孩子。",
+                "others": "孩子们会受益于我的教育经验。",
+                "world": "教育是塑造未来的重要力量。"
+            },
+            "rules": "我应该继续发挥自己的教育经验。",
+            "positive_assumption": "如果我继续教育工作，我会对社会产生积极影响。",
+            "negative_assumption": "如果我停止教育工作，我的价值感会下降。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我焦虑时需要找到合适的放松方法。",
+                "others": "他人会理解我在更年期的情绪波动。",
+                "world": "生活中充满了挑战，但可以通过健康的方式应对。"
+            },
+            "rules": "我应该在出现焦躁情绪时主动采取放松措施。",
+            "positive_assumption": "如果我主动放松，我的情绪会得到缓解。",
+            "negative_assumption": "如果我不采取放松措施，焦躁情绪会影响我的生活质量。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须每天坚持锻炼和健康饮食。",
+                "others": "他人会尊重并支持我的健康选择。",
+                "world": "世界上有很多健康的生活方式，我需要找到适合自己的。"
+            },
+            "rules": "我应该严格遵循健康的生活习惯。",
+            "positive_assumption": "如果我坚持健康的生活习惯，我会保持身体和心理的良好状态。",
+            "negative_assumption": "如果我不坚持健康的生活习惯，我的身体和心理状态会变差。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该多与家人沟通。",
+                "others": "家人会理解并支持我的沟通努力。",
+                "world": "沟通是解决家庭问题的重要手段。"
+            },
+            "rules": "我应该定期与家人进行有效沟通。",
+            "positive_assumption": "如果我与家人沟通，家庭问题会更容易解决。",
+            "negative_assumption": "如果我不与家人沟通，家庭问题会恶化。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任维护家庭的和谐。",
+                "others": "家人会理解并支持我的努力。",
+                "world": "家庭和谐是幸福生活的基础。"
+            },
+            "rules": "我应该主动解决家庭中的问题，保持家庭和谐。",
+            "positive_assumption": "如果我维护家庭和谐，家庭生活会更幸福。",
+            "negative_assumption": "如果我不维护家庭和谐，家庭关系会变得紧张。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过帮助他人来获得满足感。",
+                "others": "他人会感念我的帮助和支持。",
+                "world": "帮助他人是让世界变得更好的方式。"
+            },
+            "rules": "我应该积极参加志愿服务和社区活动。",
+            "positive_assumption": "如果我积极参与社区活动，我会感到更多的满足感和成就感。",
+            "negative_assumption": "如果我不参与社区活动，我会感到缺乏成就感和疏离感。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够给予他人关爱和支持。",
+                "others": "他人会感激我的关心和帮助。",
+                "world": "关心他人是建立良好关系的基础。"
+            },
+            "rules": "我应该随时关注他人的需求。",
+            "positive_assumption": "如果我关心他人，我会建立更紧密的人际关系。",
+            "negative_assumption": "如果我不关心他人，我会感到孤单和内疚。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力成为一名优秀的教师。",
+                "others": "同事和学生会尊重我的专业能力。",
+                "world": "教学是需要热情和奉献的职业。"
+            },
+            "rules": "我应该不断提升自己的教学技能和知识。",
+            "positive_assumption": "如果我提升自己的教学能力，我会成为更好的教师。",
+            "negative_assumption": "如果我不提升自己的教学能力，我会被学生和同事看轻。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过教育改变学生的未来。",
+                "others": "学生和家长会感激我的努力。",
+                "world": "教育是改变社会的力量。"
+            },
+            "rules": "我应该尽全力教好每一个学生。",
+            "positive_assumption": "如果我尽力教育学生，我会对社会产生积极的影响。",
+            "negative_assumption": "如果我不努力教育学生，我会辜负他们的期望。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须保持良好的身体和精神状态。",
+                "others": "朋友和家人会关心我的健康。",
+                "world": "健康是成功的基础。"
+            },
+            "rules": "我应该坚持锻炼和健康饮食。",
+            "positive_assumption": "如果我保持健康的生活方式，我会有更多的精力投入工作和生活。",
+            "negative_assumption": "如果我不保持健康的生活方式，我的工作和生活质量会下降。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该多与家人沟通。",
+                "others": "家人会理解并支持我的沟通努力。",
+                "world": "沟通是解决家庭问题的重要手段。"
+            },
+            "rules": "我应该定期与家人进行有效沟通。",
+            "positive_assumption": "如果我与家人沟通，家庭问题会更容易解决。",
+            "negative_assumption": "如果我不与家人沟通，家庭问题会恶化。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任保持家庭的和谐。",
+                "others": "家人会支持和理解我的努力。",
+                "world": "家庭和谐是幸福生活的基础。"
+            },
+            "rules": "我应该主动解决家庭中的问题。",
+            "positive_assumption": "如果我维护家庭和谐，家庭生活会更幸福。",
+            "negative_assumption": "如果我不维护家庭和谐，家庭关系会变得紧张。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我乐于参与集体活动并贡献自己的力量。",
+                "others": "同学们会感激我的参与和贡献。",
+                "world": "参与集体活动是帮助他人的好方式。"
+            },
+            "rules": "我应该积极参与学校的集体活动。",
+            "positive_assumption": "如果我参与集体活动，我会感到满足和成就感。",
+            "negative_assumption": "如果我不参与集体活动，我会感到缺乏成就感。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力关心和帮助同学。",
+                "others": "同学们会因为我的帮助而感到温暖。",
+                "world": "关心和帮助他人是建立良好人际关系的重要方式。"
+            },
+            "rules": "我应该尽量帮助需要帮助的同学。",
+            "positive_assumption": "如果我帮助同学，我会建立更紧密的友谊。",
+            "negative_assumption": "如果我不帮助同学，我会感到孤立。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过参与学校活动提升教育经验。",
+                "others": "老师和同学会支持我的参加。",
+                "world": "参与学校活动是积累教育经验的好方法。"
+            },
+            "rules": "我应该积极参加学校的各类活动。",
+            "positive_assumption": "如果我积极参加活动，我会积累更多的教育经验。",
+            "negative_assumption": "如果我不参加活动，我会错失很多教育机会。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力成为一名优秀的教师。",
+                "others": "老师和同学会认可我的教育潜力。",
+                "world": "教育是改变世界的重要力量。"
+            },
+            "rules": "我应该努力学习，积累教育经验。",
+            "positive_assumption": "如果我努力学习，我会成为一名优秀的教师。",
+            "negative_assumption": "如果我不努力学习，我的教育梦想会受挫。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过健康的方式应对压力。",
+                "others": "他人会理解我的健康选择。",
+                "world": "生活中的压力可以通过健康的生活方式来缓解。"
+            },
+            "rules": "我应该在感到压力时采取健康的放松方法。",
+            "positive_assumption": "如果我采取健康的放松方法，我的压力会得到缓解。",
+            "negative_assumption": "如果我不采取健康的放松方法，我的压力会增加。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该保持良好的身体和心理状态。",
+                "others": "他人会看到并赞赏我的健康习惯。",
+                "world": "健康的生活方式是成功的基础。"
+            },
+            "rules": "我应该每天锻炼并保持健康的饮食。",
+            "positive_assumption": "如果我坚持健康的生活习惯，我会在学业和生活中表现更好。",
+            "negative_assumption": "如果我不保持健康的生活习惯，我的学业和生活会受到影响。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任照顾家人。",
+                "others": "家人会感激我的付出。",
+                "world": "家庭和谐是幸福生活的基础。"
+            },
+            "rules": "我应该尽力照顾家人的需求。",
+            "positive_assumption": "如果我照顾家人，家庭会更幸福。",
+            "negative_assumption": "如果我不照顾家人，家庭关系会受影响。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该积极与家人沟通。",
+                "others": "家人会理解并支持我的想法。",
+                "world": "沟通是解决家庭问题的重要方法。"
+            },
+            "rules": "我应该定期与家人交流。",
+            "positive_assumption": "如果我与家人沟通，问题会更容易解决。",
+            "negative_assumption": "如果我不沟通，问题会变得更严重。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过帮助家人来表现自己。",
+                "others": "家人会感激我的帮助。",
+                "world": "帮助家人是我的责任。"
+            },
+            "rules": "我应该在家中主动分担家务。",
+            "positive_assumption": "如果我帮助家人，家庭会更和谐。",
+            "negative_assumption": "如果我不帮助家人，家庭关系会变得紧张。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该关心和帮助朋友。",
+                "others": "朋友们会因为我的关心而感到高兴。",
+                "world": "关心他人能让世界变得更温暖。"
+            },
+            "rules": "我应该主动帮助需要帮助的朋友。",
+            "positive_assumption": "如果我帮助他人，我会有更多的朋友。",
+            "negative_assumption": "如果我不关心他人，我会感到孤单。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该努力学习，取得好成绩。",
+                "others": "父母和老师会认可我的努力。",
+                "world": "努力学习可以为我带来更好的未来。"
+            },
+            "rules": "我应该尽最大努力学习。",
+            "positive_assumption": "如果我努力学习，我会有更好的前途。",
+            "negative_assumption": "如果我不努力学习，我会辜负父母的期望。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该积极锻炼和保持健康饮食。",
+                "others": "父母会支持我的健康选择。",
+                "world": "健康的生活方式可以让我更有活力。"
+            },
+            "rules": "我应该保持健康的生活习惯。",
+            "positive_assumption": "如果我保持健康的生活习惯，我会变得更强壮。",
+            "negative_assumption": "如果我不保持健康的生活习惯，我会经常生病。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

@@ -1,0 +1,290 @@
+{
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法独立处理问题。",
+                "others": "他人是我的依靠。",
+                "world": "世界是一个需要依赖他人的地方。"
+            },
+            "rules": "我应该依赖他人来解决我的问题。",
+            "positive_assumption": "如果我依赖他人，我可以获得支持和帮助。",
+            "negative_assumption": "如果我独立行动，我会失败和感到无助。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我很容易感到疲惫和压力。",
+                "others": "他人不会理解我的困境。",
+                "world": "世界对我来说是一个充满压力和挑战的地方。"
+            },
+            "rules": "我应该尽量减少压力，避免承担过多的责任。",
+            "positive_assumption": "如果我减少压力，我可以保持心理健康。",
+            "negative_assumption": "如果我承担过多责任，我会崩溃和失败。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力解决问题。",
+                "others": "他人比我更有能力。",
+                "world": "世界充满了我无法应对的挑战。"
+            },
+            "rules": "我应该避免面对那些我无法解决的问题。",
+            "positive_assumption": "如果我避免挑战，我就不会失败。",
+            "negative_assumption": "如果我尝试解决问题，我会失败并证明自己无能。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我缺乏吸引力和价值。",
+                "others": "他人不会真正关心我。",
+                "world": "世界是冷漠的，我不值得被爱和关心。"
+            },
+            "rules": "我应该避免依赖他人的关心和支持。",
+            "positive_assumption": "如果我不依赖他人，我就不会受到伤害。",
+            "negative_assumption": "如果我依赖他人，我会被抛弃和忽视。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得拥有成功和幸福。",
+                "others": "他人不会真正为我感到高兴。",
+                "world": "世界对我是不公平的，我必须努力才能获得一点点认可。"
+            },
+            "rules": "我不应该期望自己会有太多成就和幸福。",
+            "positive_assumption": "如果我降低期望，我就不会感到那么多的失望。",
+            "negative_assumption": "如果我期望太多，我只会感到更多的失败和痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须表现得完美才能被认可。",
+                "others": "他人会批判和否定我的错误。",
+                "world": "世界对我的要求是极高的，我必须满足这些要求。"
+            },
+            "rules": "我应该避免犯错，并尽量不让他人失望。",
+            "positive_assumption": "如果我表现得完美，我会被认可和接受。",
+            "negative_assumption": "如果我犯了错误，我会被他人否定和批评。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我很容易感到疲惫和压力。",
+                "others": "他人不会理解我的困境。",
+                "world": "世界对我来说是一个充满压力和挑战的地方。"
+            },
+            "rules": "我应该尽量减少压力，避免承担过多的责任。",
+            "positive_assumption": "如果我减少压力，我可以保持心理健康。",
+            "negative_assumption": "如果我承担过多责任，我会崩溃和失败。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力解决问题。",
+                "others": "他人比我更有能力。",
+                "world": "世界充满了我无法应对的挑战。"
+            },
+            "rules": "我应该避免面对那些我无法解决的问题。",
+            "positive_assumption": "如果我避免挑战，我就不会失败。",
+            "negative_assumption": "如果我尝试解决问题，我会失败并证明自己无能。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我缺乏吸引力和价值。",
+                "others": "他人不会真正关心我。",
+                "world": "世界是冷漠的，我不值得被爱和关心。"
+            },
+            "rules": "我应该避免依赖他人的关心和支持。",
+            "positive_assumption": "如果我不依赖他人，我就不会受到伤害。",
+            "negative_assumption": "如果我依赖他人，我会被抛弃和忽视。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得拥有成功和幸福。",
+                "others": "他人不会真正为我感到高兴。",
+                "world": "世界对我是不公平的，我必须努力才能获得一点点认可。"
+            },
+            "rules": "我不应该期望自己会有太多成就和幸福。",
+            "positive_assumption": "如果我降低期望，我就不会感到那么多的失望。",
+            "negative_assumption": "如果我期望太多，我只会感到更多的失败和痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须表现得完美才能被认可。",
+                "others": "他人会批判和否定我的错误。",
+                "world": "世界对我的要求是极高的，我必须满足这些要求。"
+            },
+            "rules": "我应该避免犯错，并尽量不让他人失望。",
+            "positive_assumption": "如果我表现得完美，我会被认可和接受。",
+            "negative_assumption": "如果我犯了错误，我会被他人否定和批评。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法独立处理问题。",
+                "others": "父母是我的依靠。",
+                "world": "世界是一个需要依赖他人的地方。"
+            },
+            "rules": "我应该依赖父母来解决我的问题。",
+            "positive_assumption": "如果我依赖父母，我可以获得支持和帮助。",
+            "negative_assumption": "如果我独立行动，我会失败和感到无助。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力解决问题。",
+                "others": "父母和老师比我更有能力。",
+                "world": "世界充满了我无法应对的挑战。"
+            },
+            "rules": "我应该避免面对那些我无法解决的问题。",
+            "positive_assumption": "如果我避免挑战，我就不会失败。",
+            "negative_assumption": "如果我尝试解决问题，我会失败并证明自己无能。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我缺乏吸引力和价值。",
+                "others": "同学们不会真正关心我。",
+                "world": "世界是冷漠的，我不值得被爱和关心。"
+            },
+            "rules": "我应该避免依赖他人的关心和支持。",
+            "positive_assumption": "如果我不依赖他人，我就不会受到伤害。",
+            "negative_assumption": "如果我依赖他人，我会被抛弃和忽视。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得拥有成功和快乐。",
+                "others": "同学们不会真正为我感到高兴。",
+                "world": "世界对我是不公平的，我必须努力才能获得一点点认可。"
+            },
+            "rules": "我不应该期望自己会有太多成就和幸福。",
+            "positive_assumption": "如果我降低期望，我就不会感到那么多的失望。",
+            "negative_assumption": "如果我期望太多，我只会感到更多的失败和痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须表现得完美才能被认可。",
+                "others": "父母和老师会批判和否定我的错误。",
+                "world": "世界对我的要求是极高的，我必须满足这些要求。"
+            },
+            "rules": "我应该避免犯错，并尽量不让父母和老师失望。",
+            "positive_assumption": "如果我表现得完美，我会被认可和接受。",
+            "negative_assumption": "如果我犯了错误，我会被父母和老师否定和批评。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

@@ -1,0 +1,174 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "耐心",
+            "细心",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身高",
+            "苗条",
+            "温柔的面容",
+            "长发",
+            "朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "烹饪",
+                "园艺",
+                "手工艺"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步",
+                "和孩子一起做手工"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望孩子能早日康复，家庭生活更加和谐",
+            "long_term_goals": "希望能够在孩子长大后重返职场，找到一份自己喜欢的工作"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，准备早餐，送孩子上学，白天照顾孩子和做家务，晚上和家人一起吃晚饭，陪孩子玩耍和学习，晚上10点左右休息。",
+            "weekends": "周末会带孩子去公园散步，或者和家人一起做一些家庭活动，比如做手工、看电影等。"
+        },
+        "past_experiences": {
+            "childhood": "在一个小城市长大，家庭和睦，父母对她的教育非常重视。",
+            "adolescence": "中学时期成绩优异，参加了很多课外活动，结交了很多朋友。",
+            "recent_events": "最近因为孩子生病，感到非常疲劳和压力，但家人对她的理解和支持不够，导致情绪低落。"
+        },
+        "environment": "出生在一个小城市，大学毕业后在大城市工作，结婚后成为全职妈妈，现居住在一个中等规模的城市。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "元育晓的父母非常关心她的成长，给予了她无微不至的关怀和支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "元育晓在小学和中学期间结交了几位亲密的朋友，他们经常一起玩耍和学习。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "尽管进入青春期，元育晓与父母的关系依然紧密，父母对她的学业和生活给予了极大的支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "元育晓在中学时期参加了许多课外活动，结交了更多的朋友，他们一起度过了许多美好的时光。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "元育晓的几位老师对她的学业和个人发展给予了重要的指导和帮助。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "元育晓的丈夫虽然忙于工作，但在她的生活中仍然扮演着重要角色。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "元育晓的孩子是她生活的重心，她对孩子的关爱无微不至。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "元育晓与几位老朋友保持联系，但由于生活忙碌，见面的机会不多。"
+                    ]
+                },
+                {
+                    "relationship": "邻居",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "元育晓与邻居关系和睦，偶尔会一起聊天或帮忙。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "元育晓的社交圈在不同阶段发生了显著变化。童年时期，她的社交圈主要集中在家庭和几位亲密的朋友。进入青春期后，她的社交圈扩大，结交了更多的朋友和老师。结婚后，元育晓的社交圈再次发生变化，主要集中在家庭和少数几位老朋友。成为全职妈妈后，她的社交活动减少，更多时间花在家庭和孩子身上。最近，由于孩子生病，她感到压力和疲劳，社交活动进一步减少。"
+    }
+}

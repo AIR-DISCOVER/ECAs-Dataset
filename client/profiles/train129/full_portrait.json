@@ -1,0 +1,207 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "谨慎",
+            "有责任心"
+        ],
+        "appearance": [
+            "中等身高",
+            "苗条",
+            "黑发",
+            "戴眼镜",
+            "普通"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "烹饪",
+                "园艺"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "改善自己的睡眠质量，减轻工作压力",
+            "long_term_goals": "在工作中获得更多的认可，提升自信心"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单锻炼后准备早餐。8点半到公司上班，工作到下午5点。晚上回家后做晚饭，和家人一起吃饭。晚饭后会看书或做一些轻松的家务，10点左右上床准备睡觉。",
+            "weekends": "周末通常会和家人一起去公园散步，或者在家里做一些园艺和烹饪。偶尔会和朋友聚会，但大部分时间喜欢安静地待在家里。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多。高考后考入了一所不错的大学。",
+            "youth": "大学毕业后进入国企工作，工作稳定但压力较大。结婚后生活相对平静，但工作上的压力逐渐积累。",
+            "recent_events": "最近工作任务繁重，导致压力增大，出现了睡眠困难和记忆力下降的问题。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书，毕业后回到南京工作和生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工人，性格严厉，对方勤娅的学习要求很高。",
+                        "母亲是一名小学教师，温柔但也对她有很高的期望。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "一个是邻居家的小女孩，从小一起玩耍，但关系一般。",
+                        "另一个是小学同学，成绩优秀，但因为性格内向，交往不多。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "父亲对她的期望更高，常常督促她学习。",
+                        "母亲则在她情绪低落时给予安慰，但也希望她能考上好大学。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "班主任对她的成绩很满意，经常鼓励她。",
+                        "数学老师对她有些严厉，但也给予了很多帮助。",
+                        "英语老师则比较和蔼，常常和她谈心。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "中学时期的一个好朋友，成绩也很好，但因为性格内向，交往不多。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "一个是她的直属上司，工作上给予了很多指导。",
+                        "两个是同部门的同事，关系一般。",
+                        "另外两个是其他部门的同事，偶尔有工作上的接触。"
+                    ]
+                },
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "丈夫是一名工程师，性格温和，对她很关心。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "大学时期的两个好朋友，毕业后联系较少，但偶尔会聚会。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "工作任务繁重，和同事的关系变得紧张。",
+                        "上司对她的表现有些不满，增加了她的压力。",
+                        "同部门的两个同事关系一般，偶尔会有小摩擦。",
+                        "其他部门的两个同事关系较为冷淡。"
+                    ]
+                },
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "丈夫依然对她很关心，但因为她的情绪低落，关系有些紧张。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "最近和大学时期的一个好朋友联系较多，对方给予了很多安慰和支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "方勤娅在不同阶段的社会关系有明显变化。童年时期，她主要依赖父母和少数朋友。青春期，她的社交圈扩大，但依然以学习为主。成年后，工作和家庭成为她的主要社交圈，但工作压力和情绪问题导致她的社交能力和意愿有所下降。最近，她的社会关系变得更加紧张，尤其是工作上的关系，但她也在努力通过与朋友的联系来缓解压力。"
+    }
+}

@@ -1,0 +1,480 @@
+{
+    "childhood": {
+        "name": "水全若",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在小学一年级的期末考试中，我得了全班第一。妈妈知道后非常高兴，奖励了我一个玩具机器人。她告诉我，只有好好学习才能有好前途。",
+                "location": "家里和学校",
+                "happen_time": "2007年6月",
+                "participants": "妈妈",
+                "impact": "强化了水全若的核心信念'我可以通过努力取得成功'和'我必须完美才能被认可'，同时增加了对学业成功的期望。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在二年级时，我的一次语文考试成绩并不理想，只得了75分。回家后，妈妈虽然没有责备我，但明显有些失望。她只是轻声说：'下次要更努力啊，全若。' 我感到非常自责。",
+                "location": "家里和学校",
+                "happen_time": "2008年11月",
+                "participants": "妈妈",
+                "impact": "强化了水全若的中间信念'如果我不够好，我就不会被认可'，增加了对失败的恐惧。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一天，我在家里听见父母在客厅里讨论学费问题。妈妈声音里夹杂着担忧，爸爸则显得有些疲惫。虽然他们没有吵架，但我能感觉到他们为我付出了很多。",
+                "location": "家里",
+                "happen_time": "2009年3月",
+                "participants": "父母",
+                "impact": "强化了水全若的核心信念'我可以通过努力取得成功'，同时增加了对学业和未来的责任感。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在三年级时，我参加了学校的数学竞赛，最终获得了二等奖。虽然不是第一名，但妈妈依旧很高兴，鼓励我继续努力。",
+                "location": "学校和家里",
+                "happen_time": "2009年12月",
+                "participants": "妈妈",
+                "impact": "强化了水全若的核心信念'我可以通过努力取得成功'，并减轻了部分对完美的焦虑。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校被同班同学嘲笑，因为我穿了一件旧衣服。回家后，我告诉妈妈，她安慰我，但我仍感到很难堪。",
+                "location": "学校和家里",
+                "happen_time": "2010年4月",
+                "participants": "妈妈、同班同学",
+                "impact": "强化了水全若的中间信念'他人只有在我足够优秀时才会接受我'，增加了对外表和表现的关注。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "四年级时，我在学校目睹了一位同学因为成绩不好，被老师当众批评。那位同学脸色苍白，低着头，我感到非常同情他。",
+                "location": "学校教室",
+                "happen_time": "2010年9月",
+                "participants": "老师、同学",
+                "impact": "强化了水全若的中间信念'这个世界对不够好的人是苛刻的'，增添了对学业压力的恐惧。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "五年级时，我在一次班级演讲比赛中因为紧张而忘词，结果没有得到名次。回家后，妈妈虽然安慰我，但我自己感到非常失败。",
+                "location": "学校和家里",
+                "happen_time": "2011年5月",
+                "participants": "妈妈、同学",
+                "impact": "强化了水全若的中间信念'我必须做到完美，不能有任何失误'，增加了对公开场合表现的焦虑。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里看到妈妈在厨房里偷偷擦眼泪。我问她怎么了，她只是说没事，让我去做作业。那一刻，我感到非常无助和焦虑。",
+                "location": "家里",
+                "happen_time": "2011年7月",
+                "participants": "妈妈",
+                "impact": "强化了水全若的中间信念'世界充满了无法应对的压力和挑战'，增加了对家庭问题的担忧。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "六年级时，我参加了学校的科学展览，展示了自己做的小发明。虽然没有获奖，但很多同学和老师都对我的作品表示了赞赏。",
+                "location": "学校",
+                "happen_time": "2012年10月",
+                "participants": "同学、老师",
+                "impact": "增强了水全若的自信心，强化了核心信念'尽管我有困难，但我有能力解决问题'。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在小学毕业典礼上，我被评为优秀学生代表。妈妈和爸爸都来参加了典礼，他们看上去特别自豪。那一刻，我感受到了前所未有的成就感。",
+                "location": "学校礼堂",
+                "happen_time": "2013年6月",
+                "participants": "妈妈、爸爸",
+                "impact": "强化了水全若的核心信念'我可以通过努力取得成功'和'尽管我有困难，但我有能力解决问题'，提升了自我认同感。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到爸爸在加班后回到家，显得非常疲惫。妈妈帮他脱下外套，问他要不要吃点东西，他只是摇摇头。",
+                "location": "家里",
+                "happen_time": "2012年12月",
+                "participants": "爸爸、妈妈",
+                "impact": "强化了水全若的中间信念'他人可能不知道我有多么难以应对压力'，增加了对家庭压力的理解和同情。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在小学五年级的一次家长会上，老师当着所有家长的面夸奖了我，说我是班里的榜样。我看到妈妈脸上露出了骄傲的笑容。",
+                "location": "学校教室",
+                "happen_time": "2011年11月",
+                "participants": "老师、妈妈",
+                "impact": "强化了水全若的核心信念'我必须完美才能被认可'，增加了对学业成就的追求。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校看到一位同学因为家庭贫困而被其他同学嘲笑。他低着头，眼神中充满了无助和委屈。",
+                "location": "学校操场",
+                "happen_time": "2011年6月",
+                "participants": "同学",
+                "impact": "强化了水全若的中间信念'世界对不完美的人不宽容'，增加了对社会压力的认识。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "有一次，我在家里尝试修理一个坏掉的玩具，虽然费了很大的劲，但最终还是修好了。妈妈看见后欣慰地笑了，对我说：'你真棒，自己动手解决了问题。'",
+                "location": "家里",
+                "happen_time": "2010年8月",
+                "participants": "妈妈",
+                "impact": "强化了水全若的核心信念'尽管我有困难，但我有能力解决问题'，提升了自我效能感。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一天，我在家里看到电视新闻上报道了一位因学业压力而自杀的学生。我感到非常震惊和难过，对未来的压力感到担忧。",
+                "location": "家里",
+                "happen_time": "2012年5月",
+                "participants": "无",
+                "impact": "强化了水全若的中间信念'世界充满了无法应对的压力和挑战'，增加了对学业和未来的焦虑。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "水全若",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在初中毕业典礼上，我获得了全校第一名的成绩，但在上台领奖时，我的手不停颤抖，心跳加速，脑海里不断浮现着自己可能会出错的画面。虽然最终顺利领取奖项，但我内心充满了自我怀疑。",
+                "location": "初中学校礼堂",
+                "happen_time": "2014年6月",
+                "participants": "同学、老师、家长",
+                "impact": "这个事件加深了我对自己不够好的核心信念，认为自己即使有成绩也无法应对压力。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "高一时，我参加了全市的编程比赛并获得了二等奖。尽管这是一个很大的成就，但我因为不是一等奖而感到失落，觉得自己不够完美。",
+                "location": "市科技馆",
+                "happen_time": "2015年11月",
+                "participants": "同学、老师、其他参赛者",
+                "impact": "这个事件强化了我必须完美才能被认可的中间信念，让我更加苛求自己。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "高二时，我的班主任在家长会上公开表扬了我的学术表现，但也提到我在社交方面的不足。这让我感到既骄傲又羞愧，担心自己在其他方面不够好。",
+                "location": "高中教室",
+                "happen_time": "2017年3月",
+                "participants": "班主任、同学、家长",
+                "impact": "这个事件让我的自我怀疑加剧，觉得自己在某些方面的不足会被放大和批评。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "高三准备高考期间，我每天花大量时间复习，几乎没有休息。有一次，在深夜的自习室，我感到头晕目眩，几乎晕倒在书桌上。",
+                "location": "学校自习室",
+                "happen_time": "2018年5月",
+                "participants": "同学",
+                "impact": "这个事件让我认识到自己无法应对高强度的压力，但仍然坚持继续复习，强化了我对压力的恐惧。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "高考结束后，我的成绩优异，成功考入重点大学。但在拿到录取通知书的那一刻，我感到极大的空虚和不安，担心自己在大学里无法表现得同样出色。",
+                "location": "家中",
+                "happen_time": "2018年7月",
+                "participants": "父母",
+                "impact": "这个事件加深了我对未来的焦虑和自我怀疑，觉得自己必须继续努力才能不被淘汰。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "进入大学后，我因为学业压力和自我怀疑，逐渐减少了社交活动。有一次，室友邀请我参加一个社交活动，但我以需要学习为借口拒绝了。",
+                "location": "大学宿舍",
+                "happen_time": "2019年10月",
+                "participants": "室友",
+                "impact": "这个事件使我更加孤立，减少了与他人的互动，强化了自己必须不断努力避免显露不足的信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在大学的一次期中考试中，我因为过度紧张而失常发挥，成绩不理想。回到宿舍后，我感到极大的沮丧和失落，甚至产生了放弃的念头。",
+                "location": "大学宿舍",
+                "happen_time": "2019年12月",
+                "participants": "室友",
+                "impact": "这个事件让我更加相信自己无法应对压力，增强了对失败的恐惧。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在图书馆看到一个同学因为学术压力崩溃大哭，周围的人都在安慰他。这让我意识到自己并不是唯一一个感到无法应对压力的人。",
+                "location": "大学图书馆",
+                "happen_time": "2019年3月",
+                "participants": "同学、图书馆工作人员",
+                "impact": "这个事件让我稍微减轻了对压力的恐惧，开始思考自己是否也需要寻求帮助。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "在一次校园讲座中，演讲者分享了自己从失败中学习和成长的经历。这让我对自己的完美主义态度产生了反思，开始思考失败是否真的那么可怕。",
+                "location": "大学礼堂",
+                "happen_time": "2019年5月",
+                "participants": "讲座演讲者、同学",
+                "impact": "这个事件让我对完美主义的中间信念产生了怀疑，开始接受失败也是成长的一部分。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "在一次朋友聚会上，我注意到一个朋友因为在学术上取得了巨大成就，而成为了大家关注的焦点，这让我感到极度的压力和自我怀疑。",
+                "location": "朋友家中",
+                "happen_time": "2019年8月",
+                "participants": "朋友",
+                "impact": "这个事件强化了我必须通过努力取得成功才能被认可的信念，增加了我对不努力的恐惧。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在高三的一次模拟考试中，我因为一个小失误导致了成绩下滑，班主任在班会上提到我时语气中带有失望，这让我感到极大的羞愧和压力。",
+                "location": "高中教室",
+                "happen_time": "2018年4月",
+                "participants": "班主任、同学",
+                "impact": "这个事件加深了我的自我怀疑和对完美的追求，认为自己不能有任何失误。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校的走廊上看到几个同学因为成绩不理想被老师批评，他们低着头，神情沮丧。这让我感到害怕，担心自己也会成为其中一员。",
+                "location": "高中走廊",
+                "happen_time": "2017年9月",
+                "participants": "同学、老师",
+                "impact": "这个事件强化了我对失败的恐惧，认为如果不完美就会被批评和拒绝。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在高中时，我的一位好友因为家庭原因转学离开，这让我感到孤独和无助，开始更加封闭自己，不再轻易与他人建立深厚的关系。",
+                "location": "高中校园",
+                "happen_time": "2016年12月",
+                "participants": "好友",
+                "impact": "这个事件让我更加内向和孤立，减少了社交活动，增加了自我怀疑。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在一次期末考试过后，我的父母为了庆祝我的好成绩带我去了一家高级餐厅。这让我感到被认可和鼓励，但也增加了我对未来保持高成绩的压力。",
+                "location": "高级餐厅",
+                "happen_time": "2017年1月",
+                "participants": "父母",
+                "impact": "这个事件让我感到自己必须不断取得好成绩才能得到认可，增加了学术压力。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会上，我注意到表兄因为考上名牌大学而受到家族的赞赏和羡慕，这让我感到极大的压力和自我怀疑，担心自己无法达到那样的成就。",
+                "location": "家族聚会地点",
+                "happen_time": "2018年8月",
+                "participants": "家族成员",
+                "impact": "这个事件强化了我对成功的渴望和对失败的恐惧，增加了自我怀疑。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "水全若",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "博士阶段开始时，我第一次见到导师。导师对我的研究计划提出了大量的批评，让我觉得自己的准备非常不足。",
+                "location": "导师办公室",
+                "happen_time": "2019年9月",
+                "participants": "水全若, 导师",
+                "impact": "这一事件加重了我的自我怀疑和焦虑情绪，使我更加觉得自己不够好。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "与实验室同学一起参加项目讨论，尽管我提出了一些意见，但觉得同学们的反应平淡，认为他们对我的意见不感兴趣。",
+                "location": "实验室会议室",
+                "happen_time": "2020年1月",
+                "participants": "水全若, 实验室同学",
+                "impact": "这次经历让我更加觉得自己不如他人，不敢再主动发表意见，进一步封闭自己。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "实验室的一个同学在学术会议上获得了优秀论文奖，成为大家的焦点。",
+                "location": "学术会议",
+                "happen_time": "2020年5月",
+                "participants": "水全若, 实验室同学, 其他参会者",
+                "impact": "看到别人成功让我更加觉得自己不够好，进一步强化了我必须完美才能被认可的信念。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "导师在一次会议上公开批评了我的研究进展，众多同学在场。",
+                "location": "实验室会议室",
+                "happen_time": "2020年11月",
+                "participants": "水全若, 导师, 实验室同学",
+                "impact": "这次公开批评让我感到极度羞愧和无助，认为自己无法应对学术压力。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "大学朋友提议出去聚会，但因为学术压力太大，我推掉了邀请。",
+                "location": "宿舍",
+                "happen_time": "2021年3月",
+                "participants": "水全若, 大学朋友（电话中）",
+                "impact": "推掉聚会让我感到孤独和自责，进一步减少了社交活动，感到更加封闭。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到实验室一位同学因为学术压力而休学，听说他在休学期间得到了很好的休息和调整。",
+                "location": "实验室",
+                "happen_time": "2021年7月",
+                "participants": "水全若, 实验室同学",
+                "impact": "这次观察让我意识到压力的严重性，但也让我觉得自己不应该休学，否则会被认为是懦弱的表现。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "导师对我的研究提出了新的更高的要求，我感到压力更大。",
+                "location": "导师办公室",
+                "happen_time": "2021年11月",
+                "participants": "水全若, 导师",
+                "impact": "导师的高要求让我更加觉得自己不够好，必须完美才能被认可，焦虑情绪加重。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次重要的实验中，我因为操作失误导致数据丢失，导师非常生气。",
+                "location": "实验室",
+                "happen_time": "2022年3月",
+                "participants": "水全若, 导师",
+                "impact": "操作失误让我感到极度自责和无能，进一步强化了自己无法应对压力的信念。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到导师对其他同学的赞扬，觉得自己永远达不到那样的水平。",
+                "location": "实验室",
+                "happen_time": "2022年7月",
+                "participants": "水全若, 导师, 实验室同学",
+                "impact": "这次观察让我更加觉得自己不够好，必须完美才能被认可。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次学术会议上，我的报告受到质疑，回答问题时表现得很紧张。",
+                "location": "学术会议",
+                "happen_time": "2022年11月",
+                "participants": "水全若, 会议参会者",
+                "impact": "这次事件让我更加觉得自己不应该面对压力，避免压力的想法更强烈。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "与家人通话时，父母表达了对我博士学位的期望和担忧。",
+                "location": "宿舍",
+                "happen_time": "2023年2月",
+                "participants": "水全若, 父母（电话中）",
+                "impact": "家人的期望让我感到更加焦虑，觉得自己无法达到他们的期望。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到一位同学因为研究成果被导师夸奖，获得了保研机会。",
+                "location": "实验室",
+                "happen_time": "2023年5月",
+                "participants": "水全若, 实验室同学, 导师",
+                "impact": "这次观察让我更加觉得自己不够好，必须完美才能被认可。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次深夜加班中，我感到身体极度疲惫，但仍然坚持完成任务。",
+                "location": "实验室",
+                "happen_time": "2023年8月",
+                "participants": "水全若",
+                "impact": "这次经历让我意识到自己的努力可能会取得成功，但也感到身体和心理的双重压力。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在导师的督促下，我完成了一篇重要的论文，并提交给期刊。",
+                "location": "宿舍",
+                "happen_time": "2023年11月",
+                "participants": "水全若",
+                "impact": "提交论文让我感到一些成就感，但也担心论文是否会被接受，压力依然存在。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年1月，我收到期刊的回复，指出论文需要大幅修改。",
+                "location": "宿舍",
+                "happen_time": "2024年1月",
+                "participants": "水全若",
+                "impact": "需要修改的通知让我感到失望和沮丧，认为自己的努力没有得到认可。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "导师对我的论文修改意见提出了更多的要求，我感到无所适从。",
+                "location": "导师办公室",
+                "happen_time": "2024年3月",
+                "participants": "水全若, 导师",
+                "impact": "导师的要求让我感到更加焦虑和无力，认为自己无法应对这些挑战。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次实验中，我的数据再次出现错误，导师对我大发雷霆。",
+                "location": "实验室",
+                "happen_time": "2024年5月",
+                "participants": "水全若, 导师",
+                "impact": "这次事件让我感到极度自责和无能，进一步强化了自己无法应对压力的信念。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次深夜加班中，我突然感到心悸和呼吸急促，不得不暂停工作。",
+                "location": "实验室",
+                "happen_time": "2024年7月",
+                "participants": "水全若",
+                "impact": "这次身体的反应让我意识到自己可能已经接近心理和身体的极限，进一步加重了焦虑情绪。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到实验室的一位同学因为过度劳累而住院。",
+                "location": "实验室",
+                "happen_time": "2024年8月",
+                "participants": "水全若, 实验室同学",
+                "impact": "这次观察让我更加担心自己的健康状况，但仍然感到必须继续努力，否则会被认为是懦弱的表现。"
+            }
+        ]
+    }
+}

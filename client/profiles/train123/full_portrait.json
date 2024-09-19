@@ -1,0 +1,201 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "细心",
+            "谨慎",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身材",
+            "短发",
+            "戴眼镜",
+            "穿着朴素",
+            "面容和善"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "烹饪",
+                "园艺",
+                "散步"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "适应新的工作岗位，提升自己的专业技能",
+            "long_term_goals": "在国企中获得更高的职位，给家人提供更好的生活"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，准备早餐，8点出门上班。工作时间是9点到5点，晚上回家后做晚饭，和家人一起吃饭，之后会看书或做一些家务，晚上10点左右上床休息。",
+            "weekends": "周末通常会和家人一起去公园散步，或者在家里做一些园艺和烹饪。偶尔会和朋友聚会，聊聊天。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母都是工人，从小生活比较稳定。",
+            "adolescence": "中学时期成绩优异，但性格内向，不太喜欢参加集体活动。",
+            "youth": "大学毕业后进入国企工作，结婚生子，生活平稳。",
+            "recent_events": "最近公司效益不好，可能要转岗，这让她感到有些不安和犹豫。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在本地读书，毕业后留在南京工作和生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "袁育莺的父母都是工人，工作稳定，家庭氛围和谐。父亲性格严肃，但对她的学习非常关心；母亲温柔体贴，常常在生活上给予她无微不至的照顾。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "袁育莺在小学和中学时期有几个要好的朋友，虽然性格内向，但她的善良和细心让她在小圈子里很受欢迎。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "在中学时期，袁育莺的父母依然是她最亲近的人。父亲对她的学业要求严格，母亲则在生活上给予她更多的支持。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "袁育莺在中学时期的班主任和数学老师对她的影响很大，他们不仅在学业上给予她指导，还在生活上给予她关心。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "虽然性格内向，但袁育莺在中学时期依然有几个要好的朋友，他们常常一起学习和讨论问题。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "袁育莺在大学毕业后不久结婚，丈夫是她大学时期的同学，两人感情深厚，互相支持。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "袁育莺进入国企工作后，与同事们建立了良好的关系，特别是与几个同事关系较为亲近，常常一起讨论工作和生活。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "袁育莺在大学时期结交了一些朋友，虽然毕业后联系不多，但依然保持着一定的联系。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "袁育莺的丈夫在她最近的工作变动中给予了她很多支持和鼓励，两人的关系更加紧密。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "由于公司效益不好，袁育莺和同事们的关系也受到了影响，大家都在为自己的未来担忧。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "袁育莺最近和几个朋友聚会，聊了很多关于工作的事情，朋友们也给予了她一些建议和支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "袁育莺在不同阶段的社会关系有一定的变化。童年时期，她主要依赖父母和少数朋友；青春期，她的社交圈扩大，老师和更多的朋友进入她的生活；成年后，丈夫和同事成为她生活中的重要部分。最近的工作变动让她的社交关系发生了一些变化，但她依然能够依靠家人和朋友的支持。"
+    }
+}

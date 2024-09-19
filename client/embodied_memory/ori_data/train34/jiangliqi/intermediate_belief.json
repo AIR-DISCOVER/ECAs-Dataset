@@ -1,0 +1,236 @@
+{
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断提升自己的能力和知识。",
+                "others": "他人也在不断进步，我不能落后。",
+                "world": "世界是一个竞争激烈的地方，需要不断提升才能立足。"
+            },
+            "rules": "我应该不断学习和提升自己。",
+            "positive_assumption": "如果我不断提升自己，我会变得更强大和有价值。",
+            "negative_assumption": "如果我停止提升自己，我会被淘汰和忽视。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力取得成功。",
+                "others": "他人会认可我的努力和成就。",
+                "world": "世界是一个可以通过努力取得成功的地方。"
+            },
+            "rules": "我应该坚持不懈地追求我的目标。",
+            "positive_assumption": "如果我坚持努力，我会取得成功。",
+            "negative_assumption": "如果我放弃努力，我将会失败。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要他人的认可来确认我的价值。",
+                "others": "他人对我的评价非常重要。",
+                "world": "世界是一个需要不断证明自己的地方。"
+            },
+            "rules": "我应该努力表现出色以获得他人的认可。",
+            "positive_assumption": "如果我表现出色，我会得到认可和尊重。",
+            "negative_assumption": "如果我表现不佳，我会被忽视和否定。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力应对求职过程中的挑战。",
+                "others": "他人能够看到并认可我的能力。",
+                "world": "世界充满机会，我能够抓住这些机会。"
+            },
+            "rules": "我应该积极展现我的能力和才华。",
+            "positive_assumption": "如果我展示自己的能力，我会得到更多的机会。",
+            "negative_assumption": "如果我不展示自己的能力，我会被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断提升自己的设计能力和知识。",
+                "others": "老师和同学也在不断进步，我不能落后。",
+                "world": "设计领域是一个竞争激烈的地方，需要不断提升才能立足。"
+            },
+            "rules": "我应该不断学习和提升自己的设计能力和知识。",
+            "positive_assumption": "如果我不断提升自己，我会变得更强大和有价值。",
+            "negative_assumption": "如果我停止提升自己，我会被淘汰和忽视。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在设计领域取得成功。",
+                "others": "老师和同学会认可我的设计才华和努力。",
+                "world": "世界是一个可以通过努力和才华取得成功的地方。"
+            },
+            "rules": "我应该坚持不懈地在设计领域追求我的目标。",
+            "positive_assumption": "如果我坚持努力并展示我的才华，我会在设计领域取得成功。",
+            "negative_assumption": "如果我放弃努力，我将失去在设计领域取得成功的机会。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要老师和同学的认可来确认我的价值。",
+                "others": "老师和同学的评价对我非常重要。",
+                "world": "世界是一个需要不断证明自己的地方。"
+            },
+            "rules": "我应该努力在设计比赛和学业中表现出色以获得认可。",
+            "positive_assumption": "如果我表现出色，我会得到老师和同学的认可和尊重。",
+            "negative_assumption": "如果我表现不佳，我会被忽视和否定。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力应对学业和设计项目的挑战。",
+                "others": "同学和老师会认可我的努力和成绩。",
+                "world": "世界是一个可以通过努力和才华取得成功的地方。"
+            },
+            "rules": "我应该努力在学业和设计项目中表现出色。",
+            "positive_assumption": "如果我努力并展示我的才华，我会获得成功和认可。",
+            "negative_assumption": "如果我不努力，我会失去成功的机会。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在设计比赛中表现出色。",
+                "others": "老师和同学能够看到我的设计才华。",
+                "world": "设计世界充满机会，我可以在其中找到自己的位置。"
+            },
+            "rules": "我应该积极参加设计比赛和社团活动。",
+            "positive_assumption": "如果我展示自己的设计才能，我会获得更多的认可和机会。",
+            "negative_assumption": "如果我不展示自己的设计才能，我会被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断学习新的设计技巧。",
+                "others": "朋友们也在不断进步，我不能落后。",
+                "world": "世界是一个需要不断提升才能立足的地方。"
+            },
+            "rules": "我应该不断学习和提升自己的设计技巧。",
+            "positive_assumption": "如果我不断提升自己的技术，我会变得更强大。",
+            "negative_assumption": "如果我停止提升自己，我会被淘汰和忽视。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在设计比赛中取得好成绩。",
+                "others": "父母和朋友会为我的成绩感到骄傲。",
+                "world": "世界是一个通过努力可以取得成功的地方。"
+            },
+            "rules": "我应该积极参加设计比赛。",
+            "positive_assumption": "如果我努力，我会在设计比赛中取得好成绩。",
+            "negative_assumption": "如果我不努力，我将无法取得成功。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要得到父母和朋友的认可。",
+                "others": "父母和朋友的评价对我很重要。",
+                "world": "世界是一个需要不断证明自己的地方。"
+            },
+            "rules": "我应该努力制作出色的小饰品以获得认可。",
+            "positive_assumption": "如果我的小饰品制作得好，我会得到父母和朋友的赞赏。",
+            "negative_assumption": "如果我的小饰品制作得不好，我会被忽视和否定。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力制作漂亮的小饰品。",
+                "others": "父母和朋友会赞赏我的作品。",
+                "world": "世界充满了可以让我展示自己能力的机会。"
+            },
+            "rules": "我应该不断动手制作小饰品来展示我的能力。",
+            "positive_assumption": "如果我展示我的作品，别人会认可我的能力。",
+            "negative_assumption": "如果我不展示我的作品，我的能力会被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

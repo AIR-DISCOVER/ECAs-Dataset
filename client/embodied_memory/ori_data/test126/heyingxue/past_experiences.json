@@ -1,0 +1,410 @@
+{
+    "childhood": {
+        "name": "贺影雪",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我跑过去想要抱住爸爸，但爸爸冷冷地推开了我，说‘别烦我’。我当时感到非常伤心，觉得自己不被爱。",
+                "location": "家庭客厅",
+                "happen_time": "1998年12月",
+                "participants": "贺影雪, 爸爸",
+                "impact": "这次事件强化了‘我不值得被爱’的核心信念，使她更加内向和自卑。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "上小学时，班级里有一次小组活动，我提了一个建议，但同学们都没有采纳，还嘲笑我。老师也没有站出来帮我。",
+                "location": "小学教室",
+                "happen_time": "2001年3月",
+                "participants": "贺影雪, 同学们, 老师",
+                "impact": "这次经历让她感觉‘我是无能的’，并开始避免发表自己的意见。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我坐在房间里，听见客厅里爸爸和妈妈又开始吵架了。那天他们吵得特别凶，妈妈声音都哑了。我透过门缝偷偷看见，爸爸摔了杯子，玻璃碎了一地。",
+                "location": "家庭客厅",
+                "happen_time": "2002年5月",
+                "participants": "贺影雪, 爸爸, 妈妈",
+                "impact": "这种家庭环境让她觉得‘世界是一个冷漠和拒绝的地方’，进而加深了她对世界的不信任感。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在一次期末考试中，我因为紧张而发挥失常，成绩很差。回家后妈妈非常生气，责骂我没有用心学习。",
+                "location": "家庭书房",
+                "happen_time": "2003年6月",
+                "participants": "贺影雪, 妈妈",
+                "impact": "这次事件让她更加相信‘我必须完美才能被认可’，并因此对自己要求更加严格。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到妈妈因为家务事和邻居吵架后情绪崩溃，独自在厨房里哭泣。",
+                "location": "家庭厨房",
+                "happen_time": "2004年8月",
+                "participants": "贺影雪, 妈妈",
+                "impact": "这次观察让她觉得‘我孤立无援’，认为自己在家庭中没有可以依靠的人。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在一次运动会上，我摔倒了，膝盖受伤。虽然不严重，但没有人过来安慰我，我感到非常孤独。",
+                "location": "学校操场",
+                "happen_time": "2005年10月",
+                "participants": "贺影雪, 同学们",
+                "impact": "这次事件进一步强化了她的‘我不值得被关心’的信念，使她更加封闭自己。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "一次，听见妈妈在和亲戚通电话时抱怨生活的艰辛，以及对家庭的不满。我在旁边偷偷听着，感到很无助。",
+                "location": "家庭客厅",
+                "happen_time": "2006年3月",
+                "participants": "贺影雪, 妈妈, 亲戚",
+                "impact": "这次事件让她感到‘世界是一个孤立无援的地方’，增加了她对生活的无力感。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在一次美术课上，我的画作被老师当众批评，说我没有天赋。我感到非常羞愧，不敢再画画。",
+                "location": "学校美术教室",
+                "happen_time": "2006年11月",
+                "participants": "贺影雪, 美术老师, 同学们",
+                "impact": "这次事件让她更加相信‘我无法完成任何事情’，进一步降低了自信心。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到妈妈和爸爸因为经济问题吵架，妈妈情绪崩溃，摔了家里的东西。我感到非常害怕和无助。",
+                "location": "家庭客厅",
+                "happen_time": "2007年1月",
+                "participants": "贺影雪, 爸爸, 妈妈",
+                "impact": "这次事件让她更深刻地体会到‘我没有人可以依靠’，增加了她的孤独感。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "一次，我在班级表演中因为忘词被同学们嘲笑，从那以后我再也不敢在公众面前说话。",
+                "location": "学校礼堂",
+                "happen_time": "2007年5月",
+                "participants": "贺影雪, 同学们",
+                "impact": "这次事件让她更加害怕犯错，形成了‘如果我不完美，我就会失败’的信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到爸爸在和其他家长交流时，对我表现出明显的失望和不满。",
+                "location": "学校操场",
+                "happen_time": "2007年6月",
+                "participants": "贺影雪, 爸爸, 其他家长",
+                "impact": "这次观察让她觉得‘他人不会认可我的努力’，进一步降低了她的自信心。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "贺影雪",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初二的一天，贺影雪因为数学考试不及格，回家后遭到父母的责骂。父亲说她太懒惰，母亲则抱怨她不够聪明。贺影雪感到深深的无助和自责，觉得自己永远无法达到父母的期望。",
+                "location": "家中客厅",
+                "happen_time": "2009年5月",
+                "participants": "父母",
+                "impact": "这次事件加深了贺影雪对自己无能的核心信念，认为自己不配得到父母的爱和认可，形成了中间信念——'我无法完成任何事情。'"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "初三时，贺影雪参加了一次语文竞赛，最终获得了二等奖。语文老师在全班面前表扬了她。虽然感到短暂的满足，但她心里仍然觉得自己不够好，因为没有拿到一等奖。",
+                "location": "学校教室",
+                "happen_time": "2010年11月",
+                "participants": "语文老师，同学",
+                "impact": "这次经历强化了她的核心信念——'我必须完美才能被认可'。虽然得到了表扬，但她依然觉得自己不够完美，不值得被真正认可。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，贺影雪在家中偷偷听到父母在卧室里争吵，父亲抱怨母亲不关心家庭，母亲则指责父亲不负责任。这让贺影雪感到家庭是一个充满冲突和不稳定的地方。",
+                "location": "家中卧室外",
+                "happen_time": "2011年2月",
+                "participants": "父母",
+                "impact": "这次观察让她更加相信自己是孤立无援的，形成了中间信念——'我没有人可以依靠。'"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在高一的一次班会课上，班主任点名批评贺影雪没有完成作业，贺影雪觉得全班同学都在嘲笑她。她感到极度的羞愧和自责。",
+                "location": "学校教室",
+                "happen_time": "2012年3月",
+                "participants": "班主任，同学",
+                "impact": "这次事件强化了她的核心信念——'我是无能的'，以及中间信念——'如果我不完美，我就会被批评和拒绝。'"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，贺影雪在课间听到同学们在讨论一位同学因为成绩不好被父母责骂的事情，她感到深深的共鸣和无助。",
+                "location": "学校走廊",
+                "happen_time": "2012年5月",
+                "participants": "同学",
+                "impact": "这次观察让她更加确信世界是充满压力和不公平的，形成了中间信念——'世界上没有人会无条件地关心我。'"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高二的一次校运动会上，贺影雪由于紧张导致短跑比赛失利，她在赛后哭泣，觉得自己再次证明了自己的无能。",
+                "location": "学校操场",
+                "happen_time": "2013年4月",
+                "participants": "同学，体育老师",
+                "impact": "这次事件进一步强化了她的核心信念——'我是无能的'，以及中间信念——'如果我尝试挑战，我只会失败和证明自己的无能。'"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "有一次，贺影雪在家中试图向母亲表达自己的情感困扰，但母亲却敷衍了事，甚至责备她胡思乱想。贺影雪感到自己不被理解和关心。",
+                "location": "家中客厅",
+                "happen_time": "2011年9月",
+                "participants": "母亲",
+                "impact": "这次事件强化了她的核心信念——'我不值得被爱'，以及中间信念——'如果我不付出所有努力，别人就不会关心我。'"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "在一次家族聚会上，贺影雪观察到表姐因为成绩优秀而受到长辈们的夸奖和关注，而自己却被冷落。她感到自己不如表姐，心里非常失落。",
+                "location": "亲戚家",
+                "happen_time": "2010年12月",
+                "participants": "表姐，长辈",
+                "impact": "这次观察让她更加相信自己不值得被爱和关注，强化了中间信念——'他人只会在我对他们有用时才会关心我。'"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "在高三的一次模拟考试中，贺影雪成绩不理想，她感到极度的焦虑和自责，认为自己无法考上理想的大学。",
+                "location": "学校教室",
+                "happen_time": "2013年11月",
+                "participants": "同学，班主任",
+                "impact": "这次事件进一步强化了她的核心信念——'我是无能的'，以及中间信念——'如果我不期待成功，我就不会失望。'"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，她的同学因为家庭问题在课堂上哭泣，老师和同学们都给予了安慰和支持。贺影雪觉得自己也想要这样的关心，但又认为自己不值得。",
+                "location": "学校教室",
+                "happen_time": "2012年10月",
+                "participants": "老师，同学",
+                "impact": "这次观察让她更加相信自己不值得被关心，强化了中间信念——'我不值得被关心。'"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在一次朋友的生日聚会上，贺影雪感到自己与他人格格不入，因而早早离开。她回到家后感到孤独和失落。",
+                "location": "朋友家",
+                "happen_time": "2011年7月",
+                "participants": "同学，朋友",
+                "impact": "这次经历强化了她的核心信念——'我孤立无援'，以及中间信念——'我无法与他人建立真正的联系。'"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，她看到学校里一位同学因为家庭贫困而被老师和同学们帮助，她感到世界并不是完全冷漠的，但仍然不觉得自己能得到这样的关心。",
+                "location": "学校",
+                "happen_time": "2013年2月",
+                "participants": "老师，同学，受助同学",
+                "impact": "这次观察让她产生了短暂的希望，但很快被自身的核心信念——'我不值得被爱'所否定，形成了中间信念——'如果我避免依赖他人，我就不会被伤害。'"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，贺影雪尝试向长辈们展示自己的一幅画作，但遭到了冷漠的回应，她感到自己不被认可。",
+                "location": "亲戚家",
+                "happen_time": "2012年8月",
+                "participants": "长辈，亲戚",
+                "impact": "这次事件强化了她的核心信念——'我不值得被爱'，以及中间信念——'他人不会认可我的努力。'"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，她看到一位同学在校门口被父母接走，父母对同学表现出极大的关心和爱护。贺影雪感到羡慕，但又觉得自己永远不会得到这样的爱。",
+                "location": "学校校门口",
+                "happen_time": "2011年5月",
+                "participants": "同学，同学的父母",
+                "impact": "这次观察让她更加相信自己不值得被爱，形成了中间信念——'世界上没有人会无条件地关心我。'"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "高三时，贺影雪的好朋友因为搬家而转学，她感到失去了唯一的依靠和支持，情绪低落了很长一段时间。",
+                "location": "学校",
+                "happen_time": "2013年6月",
+                "participants": "好朋友",
+                "impact": "这次事件强化了她的核心信念——'我孤立无援'，以及中间信念——'我没有人可以依靠。'"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "贺影雪",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我第一次因工作压力大而失眠，整夜无法入睡，第二天在公司开会时情绪失控，突然哭了起来。",
+                "location": "公司会议室",
+                "happen_time": "2016年3月",
+                "participants": "同事、上司",
+                "impact": "这次情绪失控让我更加感到自己无能，担心同事和上司对我的评价，进一步加深了自卑感和焦虑。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我与第二任男友因我频繁情绪低落而分手，当时我感觉自己再也不会被爱。",
+                "location": "男友家",
+                "happen_time": "2017年7月",
+                "participants": "男友",
+                "impact": "这次分手进一步强化了我不值得被爱的核心信念，让我对未来的恋情感到绝望。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次品牌发布会上，我因准备不充分而出现失误，遭到上司的公开批评。",
+                "location": "品牌发布会现场",
+                "happen_time": "2018年10月",
+                "participants": "上司、同事、客户",
+                "impact": "这次失误让我更加觉得自己无能，害怕再次面对公众场合，影响了我的职业自信心。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位同事因工作压力大而辞职，感到非常焦虑，也开始怀疑自己能否继续承受这份工作。",
+                "happen_time": "2019年4月",
+                "participants": "同事",
+                "impact": "这次观察让我感到自己的工作环境非常不稳定，进一步加剧了我的焦虑和无助感。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在网络上与陌生人聊天时受到攻击性的言语，感到非常受伤。",
+                "location": "家中",
+                "happen_time": "2020年6月",
+                "participants": "网络陌生人",
+                "impact": "这次经历让我更加相信世界是冷漠和拒绝的，进一步加深了自我封闭和孤立感。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在工作中因焦虑而犯了一个严重错误，导致项目被推迟。",
+                "location": "公司",
+                "happen_time": "2021年11月",
+                "participants": "上司、同事",
+                "impact": "这次错误让我更加坚定了自己无能的信念，进一步加重了我的焦虑和自卑。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我因长期抑郁和焦虑而第一次尝试自残，感到极度的无助和绝望。",
+                "location": "家中",
+                "happen_time": "2022年2月",
+                "participants": "无",
+                "impact": "这次自残行为进一步加剧了我的无助感和抑郁症状，让我感到自己已经无法控制自己的情绪。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位朋友在社交媒体上展示她成功的职业生涯，感到极度的嫉妒和自卑。",
+                "happen_time": "2022年12月",
+                "participants": "朋友",
+                "impact": "这次观察进一步强化了我对自己的负面评价，让我更加觉得自己无能且不值得被认可。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在公司年会上因情绪低落而无法融入集体，独自一人待在角落。",
+                "location": "公司年会现场",
+                "happen_time": "2023年1月",
+                "participants": "同事、上司",
+                "impact": "这次经历让我更加感到自己被孤立和无助，进一步加重了我的抑郁和焦虑。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次团队合作中因沟通不畅而与同事发生冲突，感到非常挫败。",
+                "location": "公司",
+                "happen_time": "2023年6月",
+                "participants": "同事",
+                "impact": "这次冲突让我更加坚定了自己无法与他人建立良好关系的信念，进一步加重了我的孤立感。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次心理咨询中首次向咨询师透露了自己有自残倾向，感到一丝轻松但更多的是无助。",
+                "location": "心理咨询室",
+                "happen_time": "2023年10月",
+                "participants": "心理咨询师",
+                "impact": "这次经历让我感到自己得到了暂时的支持，但也意识到自己的问题非常严重，进一步加重了无助感。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我目睹了一位同事因表现优异而得到升职，感到极度的嫉妒和失落。",
+                "happen_time": "2024年1月",
+                "participants": "同事、上司",
+                "impact": "这次观察让我更加觉得自己无能，不值得被认可，进一步加重了我的自卑和抑郁。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在公司一次重要的品牌发布会上因紧张而再次出现失误，感到极度的羞愧和自责。",
+                "location": "品牌发布会现场",
+                "happen_time": "2024年3月",
+                "participants": "上司、同事、客户",
+                "impact": "这次失误让我更加坚定了自己必须完美才能被认可的信念，进一步加重了我的焦虑和自卑。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次家庭聚会上因情绪低落而无法与家人交流，被家人误解为冷漠。",
+                "location": "家庭聚会现场",
+                "happen_time": "2024年5月",
+                "participants": "家人",
+                "impact": "这次经历让我感到更加孤立无援，进一步加重了我的无助感和抑郁。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我因长期抑郁和焦虑而再次尝试自残，被朋友发现并送往医院。",
+                "location": "家中",
+                "happen_time": "2024年7月",
+                "participants": "朋友",
+                "impact": "这次自残行为让我感到自己已经失去了控制，进一步加重了我的无助感和抑郁症状。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位同事因工作压力大而请假休息，感到自己也需要休息但又不敢提出。",
+                "happen_time": "2024年8月",
+                "participants": "同事",
+                "impact": "这次观察让我更加感到工作压力巨大，进一步加重了我的焦虑和无助感。"
+            }
+        ]
+    }
+}

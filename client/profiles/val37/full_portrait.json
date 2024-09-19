@@ -1,0 +1,165 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "诚实",
+            "有责任心",
+            "有耐心"
+        ],
+        "appearance": [
+            "中等身高",
+            "苗条",
+            "清秀",
+            "黑色长发",
+            "温和的眼神"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "美食",
+                "看电视",
+                "阅读",
+                "旅行"
+            ],
+            "activity": [
+                "和朋友一起吃饭",
+                "周末去公园散步",
+                "参加美食节"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "在工作中获得晋升，提升自己的专业技能。",
+            "long_term_goals": "找到一个理解和支持自己的伴侣，建立一个幸福的家庭。"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单锻炼后去上班。工作时间从9点到18点，晚上回家后会做饭，看电视或阅读。",
+            "weekends": "周末通常会和朋友聚会，去公园散步，或者参加一些美食活动。偶尔也会选择在家休息，享受独处的时光。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母对她的期望很高，从小就被教育要努力学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多。高考后考入了一所不错的大学。",
+            "recent_events": "最近一年因为家里人催婚感到烦躁，但通过朋友和家人的安慰，情绪有所缓解。"
+        },
+        "environment": "出生在一个中等城市，从小在这里长大。大学毕业后留在本地工作，生活环境相对稳定。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "雷枝荷的父亲是一位严肃但关心家庭的人。他对雷枝荷的期望很高，经常督促她努力学习。尽管父亲的严厉让雷枝荷感到压力，但她也知道这是出于爱。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "雷枝荷的母亲温柔且细心，总是关心她的生活和学习。母亲是她情感上的支柱，雷枝荷在遇到困难时总会向母亲倾诉。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "雷枝荷在童年时期有两个好朋友，一个是邻居家的小女孩，另一个是同班同学。她们经常一起玩耍，分享彼此的小秘密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "在中学时期，雷枝荷的父亲依然对她的学习成绩非常关注，但由于雷枝荷的成绩优异，父亲的态度有所缓和。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲依然是雷枝荷最亲近的人，她们的关系在雷枝荷的青春期更加紧密。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "雷枝荷在中学时期交了一个新朋友，这个朋友性格开朗，帮助雷枝荷逐渐变得不那么内向。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲现在更多地关心雷枝荷的婚姻问题，虽然依然严肃，但也会表达对她的支持。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲依然是雷枝荷的情感支柱，尤其在催婚问题上，母亲会安慰她，告诉她不要太过焦虑。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "雷枝荷有三个亲密的朋友，她们经常一起吃饭、散步和参加美食节。朋友们在她感到烦躁时会给予她安慰和支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "雷枝荷的社交关系在不同阶段有明显的变化。童年时期，她的社交圈主要是家庭和邻居。进入中学后，她的朋友数量减少，但关系更加紧密。最近一年，由于催婚问题，她与家人和朋友的交流更加频繁，朋友们的支持让她感到安慰。总体来说，雷枝荷的社交能力和意愿在逐渐增强，她学会了如何在压力下寻求支持和安慰。"
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "焦虑",
+            "缺乏自信",
+            "善良"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "皮肤白皙",
+            "黑色长发",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "独自散步",
+                "在家做简单的手工"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "找到一份稳定的工作，恢复自信心",
+            "long_term_goals": "建立一个幸福的家庭，找到生活的意义和价值"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后会花时间阅读或听音乐，偶尔会尝试投递简历，但大部分时间都在家中度过，感觉无所事事。",
+            "weekends": "周末通常和平时没有太大区别，偶尔会和家人一起吃饭，但大部分时间还是独自待在房间里。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母对她的期望很高，但她一直觉得自己达不到他们的期望。",
+            "adolescence": "中学时期成绩一般，性格内向，不太擅长与人交往，常常感到孤独。",
+            "recent_events": "一年前所在的企业倒闭，失业后一直未能找到合适的工作，导致自信心严重受挫。"
+        },
+        "environment": "出生在一个中等城市，家庭经济状况一般。中学和大学都在本地完成，毕业后在本地找到了一份工作，但由于企业倒闭而失业。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲是一个严肃而传统的人，对孙云瑗的期望很高，经常对她的成绩和表现提出严格要求。虽然父亲很少表达情感，但他对家庭的责任感和对女儿的关心是显而易见的。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲是一个温柔而细心的人，总是尽力照顾孙云瑗的生活起居。她对女儿的期望同样很高，但更多的是通过鼓励和支持来表达。母亲是孙云瑗在童年时期最亲近的人。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "童年时期的朋友主要是邻居家的孩子，虽然关系不错，但由于性格内向，孙云瑗并没有特别亲密的朋友。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "随着年龄的增长，孙云瑗和父亲的关系变得有些紧张。父亲对她的期望越来越高，而她却觉得自己难以达到这些期望。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是她的支持者，但由于学业压力和青春期的叛逆，孙云瑗有时会对母亲的关心感到烦躁。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "中学时期的朋友关系较为表面，孙云瑗因为内向和自卑，难以与同龄人建立深厚的友谊。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "有几位老师对她的学业表现给予了关注和鼓励，但她总觉得自己达不到他们的期望。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "失业后，父亲对她的失望和责备让她感到更加自卑和无助。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是她的支持者，但也开始担心她的未来。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "失业后，孙云瑗与朋友的联系变得更加稀疏，她觉得自己没有什么值得分享的。"
+                    ]
+                },
+                {
+                    "relationship": "前同事",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "与前同事的联系主要是通过社交媒体，但她很少主动联系他们，害怕被问及工作情况。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "孙云瑗的社会关系在不同阶段发生了显著变化。童年时期，她主要依赖家庭，尤其是母亲的支持。进入青春期后，学业压力和自卑感让她与父母的关系变得紧张，与朋友的关系也较为表面。最近的失业事件进一步加剧了她的孤独感和无助感，她与朋友和前同事的联系变得更加稀疏，主要依赖母亲的支持。总体来说，孙云瑗的社会关系在逐渐缩小，她的社交能力和意愿也在逐渐减弱。"
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "node_17": {
+        "page_content": "我能够找到生活的意义。",
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "core_belief_6",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": "我有能力面对困难和挑战。",
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": "我必须独自应对问题。",
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_14": {
+        "page_content": "世界是充满压力和挑战的。",
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": "我是无能的。",
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": "我不值得被爱。",
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": "我能够找到生活的意义。",
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "core_belief_6",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": "我有能力面对困难和挑战。",
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": "我必须独自应对问题。",
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": "世界是充满压力和挑战的。",
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": "我是无能的。",
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": "我不值得被爱。",
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": "我能够找到生活的意义。",
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "core_belief_6",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": "我有能力面对困难和挑战。",
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": "我必须独自应对问题。",
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": "世界是充满压力和挑战的。",
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": "我是无能的。",
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": "我不值得被爱。",
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

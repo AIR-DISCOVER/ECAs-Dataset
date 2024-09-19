@@ -1,0 +1,349 @@
+{
+    "childhood": {
+        "name": "金苑荔",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我记得有一天晚上，爸爸又喝醉了，他冲进房间对我大吼大叫，甚至动手打了我。我躲在角落里，心里充满了恐惧和无助。",
+                "location": "家中的卧室",
+                "happen_time": "2012年5月",
+                "participants": "父亲",
+                "impact": "这次事件强化了我对父亲的恐惧和对自己的不信任，使我更加觉得自己不值得被爱。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校被同学欺负，他们嘲笑我家庭破裂。我回家后哭着跟奶奶说，但她只是叹了口气，安慰了几句。",
+                "location": "学校和家中",
+                "happen_time": "2013年9月",
+                "participants": "同学，奶奶",
+                "impact": "这次事件让我更加觉得自己不够好，也觉得世界对我来说是冷漠的。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我坐在房间里，听见客厅里爸爸和妈妈又开始吵架了。那天他们吵得特别凶，妈妈声音都哑了。我透过门缝偷偷看见，爸爸摔了杯子，玻璃碎了一地。",
+                "location": "家中客厅",
+                "happen_time": "2011年12月",
+                "participants": "父母",
+                "impact": "这次事件让我对家庭关系产生了极大的失望和恐惧，觉得自己生活在一个充满威胁的世界。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "妈妈被拐卖的消息传来时，我还很小，但我记得奶奶哭得很伤心，我也跟着哭了。我不明白发生了什么，只知道妈妈不见了。",
+                "location": "家中",
+                "happen_time": "2010年6月",
+                "participants": "奶奶",
+                "impact": "这次事件给我带来了巨大的心理阴影，让我觉得自己是孤独的，也觉得自己需要依赖别人才能生存。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "我记得有一天，奶奶带我去市里见律师，讨论父亲的案件。奶奶看起来很疲惫，但她还是努力保持微笑。",
+                "location": "律师事务所",
+                "happen_time": "2015年3月",
+                "participants": "奶奶，律师",
+                "impact": "这次经历让我意识到奶奶为我付出了很多，也让我更加感到自己需要依赖她才能生存。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "有一次，我尝试参加学校的一个绘画比赛，但因为不自信，最终没有提交作品。",
+                "location": "学校",
+                "happen_time": "2016年4月",
+                "participants": "无",
+                "impact": "这次经历让我更加觉得自己不够好，害怕尝试新的挑战，担心会失败。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在学校的演讲比赛上，我因为紧张而忘词，同学们都在笑，我感到非常羞愧。",
+                "location": "学校礼堂",
+                "happen_time": "2017年9月",
+                "participants": "同学，老师",
+                "impact": "这次事件进一步削弱了我的自信心，让我觉得自己总是做不好事情。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到奶奶在深夜里为我缝补衣服，脸上满是疲惫和皱纹。",
+                "location": "家中",
+                "happen_time": "2018年11月",
+                "participants": "奶奶",
+                "impact": "这次观察让我更加感到内疚和无助，觉得自己需要依赖奶奶才能生存，也让我觉得自己不值得被爱。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "有一次，奶奶因为身体不适住院，我独自一人在家，非常害怕和孤独。",
+                "location": "家中",
+                "happen_time": "2019年8月",
+                "participants": "奶奶",
+                "impact": "这次事件让我更加感到孤独和无助，进一步强化了我需要依赖他人的信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "一次，邻居家的孩子过生日，邀请我过去，但我因为害怕与人接触而拒绝了，透过窗户看着他们玩得很开心。",
+                "location": "邻居家",
+                "happen_time": "2020年3月",
+                "participants": "邻居，邻居家的孩子",
+                "impact": "这次观察让我更加觉得自己不值得拥有朋友，也让我感到世界对孤独的人不友好。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "有一次，奶奶带我去城里买新衣服，我看到其他家庭其乐融融，心里感到很失落。",
+                "location": "城里的商场",
+                "happen_time": "2014年12月",
+                "participants": "奶奶",
+                "impact": "这次经历让我更加感到自己家庭的破裂和自己的孤独感。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到奶奶和邻居聊天，聊到我的未来，奶奶看起来很担忧。",
+                "location": "家门口",
+                "happen_time": "2018年4月",
+                "participants": "奶奶，邻居",
+                "impact": "这次观察让我意识到自己给奶奶带来了很多压力，也让我觉得自己不够好。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "有一次，我尝试向同学寻求帮助，但他们没有理我，我感到非常失望和伤心。",
+                "location": "学校",
+                "happen_time": "2017年5月",
+                "participants": "同学",
+                "impact": "这次经历让我更加觉得他人不会真正理解或关心我的感受，也让我不愿再寻求他人的帮助。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "有一次，奶奶给我讲了母亲的事情，她流泪了，我也跟着哭了。",
+                "location": "家中",
+                "happen_time": "2011年8月",
+                "participants": "奶奶",
+                "impact": "这次经历让我更加感到母亲的离开对自己造成的心理阴影，也让我更加觉得自己很孤独。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父亲在法庭上被判刑，他面无表情，而我感到非常害怕和难过。",
+                "location": "法庭",
+                "happen_time": "2015年11月",
+                "participants": "父亲，法官",
+                "impact": "这次观察让我对父亲的冷漠和暴力行为有了更深的理解，也让我更加觉得世界对我来说是充满威胁的。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "金苑荔",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一天放学后，我回到家，发现家里空无一人。等了几小时后，警察敲门告诉我，母亲因为涉黑被捕。",
+                "location": "家中",
+                "happen_time": "2024年1月",
+                "participants": "金苑荔, 警察",
+                "impact": "这一事件加深了我对被抛弃的恐惧，觉得自己不值得被爱，进一步退缩社交。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在学校，同学们开始对我指指点点，说我是罪犯的孩子，我试图解释却被嘲笑。",
+                "location": "学校",
+                "happen_time": "2024年2月",
+                "participants": "金苑荔, 同学",
+                "impact": "我感到极度孤立和羞愧，认为自己永远无法被他人接受和认可。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在父亲被捕的那天，我在家中看到他被警察带走，他冷漠地看了我一眼，没有任何解释。",
+                "location": "家中",
+                "happen_time": "2024年3月",
+                "participants": "金苑荔, 父亲, 警察",
+                "impact": "我感到自己被彻底抛弃，强化了'我不值得被爱'的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "奶奶试图安慰我，但我感到她的无力和无助，只能默默流泪。",
+                "location": "家中",
+                "happen_time": "2024年4月",
+                "participants": "金苑荔, 奶奶",
+                "impact": "虽然奶奶的关爱让我感到一丝温暖，但我依然觉得世界对我来说是冷漠的。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "老师在课堂上提到家庭的重要性，我突然感到一阵窒息，无法继续听课。",
+                "location": "学校",
+                "happen_time": "2024年5月",
+                "participants": "金苑荔, 老师, 同学",
+                "impact": "我感到极度焦虑和无助，认为自己的家庭永远无法像其他同学那样正常。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会上，我看到奶奶和其他亲戚讨论我的未来，他们的表情充满了担忧和无奈。",
+                "location": "家中",
+                "happen_time": "2024年6月",
+                "participants": "金苑荔, 奶奶, 亲戚",
+                "impact": "我感到自己是家庭的负担，进一步强化了'我不够好'的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一天，我在房间里发呆，奶奶进来问我怎么了，我却不知道如何回答，只能继续沉默。",
+                "location": "家中",
+                "happen_time": "2024年7月",
+                "participants": "金苑荔, 奶奶",
+                "impact": "我感到自己无法与人交流，认为他人不会理解我的感受。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在街上，我看到一对母女手牵手走过，母亲温柔地对女儿说话，女儿开心地笑。",
+                "location": "街上",
+                "happen_time": "2024年8月",
+                "participants": "金苑荔, 陌生母女",
+                "impact": "我感到极度的嫉妒和痛苦，认为自己永远无法拥有那样的幸福。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在同学一次聚会上，我被排除在外，独自坐在角落里，没人愿意跟我说话。",
+                "location": "学校",
+                "happen_time": "2023年12月",
+                "participants": "金苑荔, 同学",
+                "impact": "我感到自己非常孤独，觉得不值得拥有朋友。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次考试中，我因为过度紧张而发挥失常，老师批评我没有用心准备。",
+                "location": "学校",
+                "happen_time": "2023年11月",
+                "participants": "金苑荔, 老师, 同学",
+                "impact": "我觉得自己不够好，永远无法满足他人的期望。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次家长会上，我看到其他同学的父母对他们关爱有加，而我的父母却永远不会出现在这样的场合。",
+                "location": "学校",
+                "happen_time": "2023年10月",
+                "participants": "金苑荔, 同学, 其他家长",
+                "impact": "我感到极度的孤独和被抛弃，认为自己不值得被爱。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我的亲戚对我的未来感到担忧，讨论我的生活安排，而我只能默默听着。",
+                "location": "家中",
+                "happen_time": "2023年9月",
+                "participants": "金苑荔, 亲戚",
+                "impact": "我感到自己被控制和支配，没有自主权，进一步强化了依赖他人的信念。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在学校的集体活动中，我看到其他同学开心地互相合作，而我只能站在一旁。",
+                "location": "学校",
+                "happen_time": "2023年8月",
+                "participants": "金苑荔, 同学",
+                "impact": "我感到自己无法融入集体，进一步强化了孤独感和不值得被爱的信念。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭争吵中，父亲和母亲激烈争吵，最终母亲被警察带走。",
+                "location": "家中",
+                "happen_time": "2023年7月",
+                "participants": "金苑荔, 父亲, 母亲, 警察",
+                "impact": "我感到家庭的破裂，进一步加深了对被抛弃的恐惧。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在学校的期末考试中，我因为过度焦虑而无法集中注意力，成绩一落千丈。",
+                "location": "学校",
+                "happen_time": "2023年6月",
+                "participants": "金苑荔, 老师, 同学",
+                "impact": "我感到极度的自责和无力，认为自己永远无法成功。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次社区活动中，我看到其他家庭和睦相处，而我只能站在一旁观望。",
+                "location": "社区",
+                "happen_time": "2023年5月",
+                "participants": "金苑荔, 其他家庭",
+                "impact": "我感到极度的孤独和被排斥，认为自己永远无法拥有那样的幸福。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与奶奶的对话中，她无意间提到希望我将来能自立自强，但我感到极度的压力和无力。",
+                "location": "家中",
+                "happen_time": "2023年4月",
+                "participants": "金苑荔, 奶奶",
+                "impact": "我感到自己永远无法满足奶奶的期望，进一步强化了不够好的信念。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次新闻报道中，我看到有类似家庭背景的孩子成功逆袭，而我感到自己无法做到那样。",
+                "location": "家中",
+                "happen_time": "2023年3月",
+                "participants": "金苑荔, 新闻报道",
+                "impact": "我感到极度的自卑和无力，认为自己永远无法改变命运。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与同学的对话中，他们无意中提到我的家庭背景，让我感到极度的羞耻。",
+                "location": "学校",
+                "happen_time": "2023年2月",
+                "participants": "金苑荔, 同学",
+                "impact": "我感到自己被彻底孤立和排斥，认为自己永远无法被接受。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭探望中，我看到父亲在监狱中的冷漠表情，觉得自己被彻底抛弃。",
+                "location": "监狱",
+                "happen_time": "2023年1月",
+                "participants": "金苑荔, 父亲",
+                "impact": "我感到自己不值得被爱，进一步强化了对世界的冷漠和绝望。"
+            }
+        ]
+    }
+}

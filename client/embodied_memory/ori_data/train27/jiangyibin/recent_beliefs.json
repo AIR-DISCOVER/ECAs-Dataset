@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我必须成功才能证明自己。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我不够优秀。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有能力面对挑战。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我的家庭是我的支柱。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不能成功，就说明我没有价值。",
+                "others": "他人只会认可成功的人。",
+                "world": "世界是一个竞争激烈的地方，只有成功者才能得到尊重。"
+            },
+            "rules": "我必须全力以赴，避免失败。",
+            "positive_assumption": "如果我成功了，我会得到他人的认可和尊重。",
+            "negative_assumption": "如果我失败了，我会被视为无能和无价值。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须不断提升自己才能保持竞争力。",
+                "others": "他人总是在评判我的表现。",
+                "world": "世界是充满竞争的，我必须时刻准备迎接挑战。"
+            },
+            "rules": "我不能放松警惕，必须不断进步。",
+            "positive_assumption": "如果我不断提升自己，我会一直处于领先地位。",
+            "negative_assumption": "如果我不努力提升自己，我会被超越和遗忘。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是达不到别人的期望。",
+                "others": "他人对我不抱太大期望。",
+                "world": "世界对我是不公平的，我很难脱颖而出。"
+            },
+            "rules": "我应该尽量避免让他人失望。",
+            "positive_assumption": "如果我能避免让他人失望，我就不会感到那么失败。",
+            "negative_assumption": "如果我让他人失望了，我会更加证明自己不够优秀。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的努力经常得不到应有的回报。",
+                "others": "他人很难看到我的真实价值。",
+                "world": "世界是一个不公平的地方，需要不断争取才能得到一点认可。"
+            },
+            "rules": "我应该更加努力工作，以证明自己的价值。",
+            "positive_assumption": "如果我更加努力工作，我可能会最终获得认可。",
+            "negative_assumption": "如果我不更加努力工作，我的价值将永远得不到认可。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力应对工作的挑战。",
+                "others": "他人可以支持我，但我能独立解决问题。",
+                "world": "世界充满机会，我有能力抓住这些机会。"
+            },
+            "rules": "我应该积极面对挑战并寻找解决方案。",
+            "positive_assumption": "如果我成功应对挑战，我会变得更强大。",
+            "negative_assumption": "如果我逃避挑战，我会错过成长的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我能够适应各种变化。",
+                "others": "他人可能会提供帮助，但我应主要依靠自己。",
+                "world": "世界在不断变化，我必须保持灵活应对。"
+            },
+            "rules": "我应该不断学习和提升自己，以应对变化。",
+            "positive_assumption": "如果我能适应变化，我会有更多的机会。",
+            "negative_assumption": "如果我不能适应变化，我可能会被淘汰。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的家庭是我最大的支持。",
+                "others": "家人始终会理解和支持我。",
+                "world": "世界虽然充满挑战，但我总能依靠家庭的支持。"
+            },
+            "rules": "我应该花时间和家人在一起，保持家庭的紧密联系。",
+            "positive_assumption": "如果我保持和家人的联系，我会有更多的力量面对外界的挑战。",
+            "negative_assumption": "如果我忽视家庭，我可能会失去重要的支持和情感依靠。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "家庭是我生活的避风港。",
+                "others": "家人总是会在我需要时提供帮助。",
+                "world": "世界可能不总是友善，但家庭永远是可靠的。"
+            },
+            "rules": "我应该尽量与家人分享我的生活和感受。",
+            "positive_assumption": "如果我与家人分享我的生活，我会感到更加安心和幸福。",
+            "negative_assumption": "如果我不与家人分享，我可能会感到孤独和无助。"
+        }
+    ]
+}

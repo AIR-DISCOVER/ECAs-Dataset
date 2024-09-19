@@ -1,0 +1,178 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "谨慎",
+            "自我怀疑"
+        ],
+        "appearance": [
+            "中等身材",
+            "略显疲惫",
+            "头发有些花白",
+            "穿着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "园艺",
+                "烹饪"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复精神状态，能够更有效地完成工作",
+            "long_term_goals": "退休后能够安享晚年，继续从事自己喜欢的园艺和阅读"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，准备早餐，7点半出门上班。工作时间从8点到下午4点，回家后做晚饭，晚上看书或照顾花园，10点左右上床睡觉。",
+            "weekends": "周末通常会和家人一起做饭，或者去附近的公园散步，有时会参加社区的读书会。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工人家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多，常常感到孤独。",
+            "youth": "大学期间选择了师范专业，毕业后成为一名老师，工作认真负责，但也因此压力较大。",
+            "recent_events": "最近一个月因为工作上的一些小失误，开始对自己产生怀疑，情绪变得低落，反应迟钝。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在本地的师范学院就读，毕业后留在南京工作和生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "平枝涵的父亲是一名工人，工作繁忙，但对她的学习非常重视。虽然父亲不善言辞，但他总是默默支持她的学业。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "平枝涵的母亲是一名家庭主妇，性格温和，对她的照顾无微不至。母亲常常在她学习时陪伴在旁，给予她精神上的支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        3
+                    ],
+                    "description": [
+                        "平枝涵在小学时有两个好朋友，虽然关系不错，但由于她性格内向，朋友间的互动并不频繁。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "中学时期，平枝涵的几位老师对她的学业给予了很大的帮助和鼓励，尤其是班主任和数学老师，他们对她的期望很高。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        3,
+                        3,
+                        1
+                    ],
+                    "description": [
+                        "平枝涵在中学时的同学关系较为一般，虽然有几个关系较好的同学，但她依然感到孤独。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        4,
+                        2
+                    ],
+                    "description": [
+                        "在大学期间，平枝涵结识了几位志同道合的同学，他们一起学习、讨论，关系较为融洽。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "平枝涵的大学导师对她的学术发展给予了很大的支持和指导，帮助她顺利完成了学业。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "平枝涵在工作中与几位同事关系较为密切，尤其是与一位同事关系较好，常常互相帮助和交流。"
+                    ]
+                },
+                {
+                    "relationship": "家人",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "平枝涵的丈夫和两个孩子是她生活中的重要支柱，他们对她的关心和支持让她感到温暖。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "平枝涵在不同阶段的社会关系经历了显著变化。童年时期，她主要依赖父母的支持，朋友较少。进入中学后，虽然学业优秀，但由于性格内向，朋友依然不多。大学期间，她结识了一些志同道合的同学和导师，社会关系有所扩展。工作后，她与同事和家人的关系较为密切，但最近由于情绪低落和自我怀疑，她感到与同事的互动变得困难，社会功能受到影响。"
+    }
+}

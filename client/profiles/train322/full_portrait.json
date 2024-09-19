@@ -1,0 +1,229 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "责任心强",
+            "内向",
+            "有耐心",
+            "有些固执",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "微胖",
+            "头发有些花白",
+            "戴眼镜",
+            "穿着整洁"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "钓鱼",
+                "看电影"
+            ],
+            "activity": [
+                "周末去公园散步",
+                "和家人一起做饭"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能和家人关系更加和谐，尤其是和妻子和孩子的沟通",
+            "long_term_goals": "希望孩子能顺利考上大学，自己能在退休后过上平静的生活"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到单位上班，工作到下午5点，偶尔有应酬，晚上回家后会看书或看电视",
+            "weekends": "周末通常会和家人一起度过，有时会去公园散步或钓鱼"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工人家庭，父母对他要求严格，从小就养成了勤奋和责任心强的性格",
+            "adolescence": "中学时期成绩优异，但性格内向，不太善于交际",
+            "youth": "大学毕业后进入公务员系统工作，工作稳定但压力较大",
+            "recent_events": "最近因为工作应酬多，回家晚，和妻子发生争吵，孩子即将高考但不够努力，这些都让他感到烦闷"
+        },
+        "environment": "出生在一个小城市，大学毕业后在省城工作和生活，家庭环境稳定，但工作压力较大"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工人，性格严厉，对云文信要求严格。",
+                        "母亲温柔但也有些严肃，负责家庭的日常事务。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "邻居家的小伙伴，常一起玩耍。",
+                        "小学同学，关系一般。",
+                        "中学同学，成绩优异的竞争对手。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "父亲对他的期望很高，常常督促他学习。",
+                        "母亲则在生活上给予更多关心。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "班主任，严格但公正。",
+                        "数学老师，特别关注他的成绩。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "同桌，关系一般。",
+                        "隔壁班的同学，偶尔一起打篮球。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "父亲对他的职业选择有些失望，但仍然支持。",
+                        "母亲则希望他能找到一个稳定的工作。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "办公室的同事，关系一般。",
+                        "部门领导，严格但公正。",
+                        "一起参加培训的同事，关系较好。",
+                        "工作上的合作伙伴，偶尔一起吃饭。",
+                        "单位的老前辈，给予了很多指导。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "大学同学，关系很好。",
+                        "老乡，偶尔联系。",
+                        "邻居，关系一般。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "妻子",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "妻子对他的工作应酬不满，常常因为回家晚而争吵。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "孩子即将高考，但学习态度不够认真，让他感到焦虑。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "办公室的同事，关系一般。",
+                        "部门领导，严格但公正。",
+                        "一起参加培训的同事，关系较好。",
+                        "工作上的合作伙伴，偶尔一起吃饭。",
+                        "单位的老前辈，给予了很多指导。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "大学同学，关系很好。",
+                        "老乡，偶尔联系。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "云文信在不同阶段的社会关系中，逐渐从家庭和学校的圈子转向工作和家庭的双重压力。他的社交能力和意愿在工作压力和家庭责任的双重影响下有所变化，变得更加内向和焦虑。尽管他有一些朋友和同事，但他更倾向于独自处理问题，尤其是在面对家庭矛盾和孩子教育问题时。他的社交圈子相对稳定，但与家人的关系需要更多的沟通和理解。"
+    }
+}

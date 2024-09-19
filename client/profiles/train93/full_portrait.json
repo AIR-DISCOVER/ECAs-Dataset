@@ -1,0 +1,180 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "温和",
+            "内敛",
+            "有责任心",
+            "感性",
+            "有些怀旧"
+        ],
+        "appearance": [
+            "中等身材",
+            "略显疲惫",
+            "头发有些花白",
+            "穿着整洁"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "散步",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "改善睡眠质量，保持身心健康",
+            "long_term_goals": "在工作中继续发挥自己的价值，培养年轻一代"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到单位上班，下午5点下班后回家。晚饭后会和家人一起看电视或散步。",
+            "weekends": "周末通常会和家人一起外出，去公园散步或参加一些社区活动。偶尔会和朋友聚会，聊聊近况。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工人家庭，父母对他要求严格，从小就养成了自律的习惯。",
+            "adolescence": "中学时期成绩优异，但性格内向，不太善于表达自己。",
+            "youth": "大学毕业后进入公务员系统，工作稳定，但也感受到了一些职业倦怠。",
+            "recent_events": "最近单位上来了很多年轻人，让他感到时光飞逝，有些感叹和空虚。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书，毕业后回到南京工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "沈新轮的父亲是一名工厂工人，性格严厉但关心家庭。父亲对沈新轮的学业要求很高，常常在他做作业时监督他。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "沈新轮的母亲是一名家庭主妇，温柔体贴。她在沈新轮的成长过程中扮演了重要的支持角色，常常在他遇到困难时给予鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "沈新轮在小学时有两个好朋友，他们常常一起玩耍和学习。虽然关系亲密，但由于性格内向，沈新轮并不常向他们倾诉心事。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "沈新轮在中学时期的三位老师对他影响深远，尤其是班主任老师，常常鼓励他参加各种学术竞赛。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "沈新轮在中学时期的同学关系较为普通，虽然成绩优异，但由于性格内向，他并没有太多亲密的朋友。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "在大学期间，沈新轮结识了几位志同道合的同学，他们常常一起讨论学术问题和未来的职业规划。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "沈新轮的大学导师对他的职业生涯影响深远，导师不仅在学术上给予了他很多指导，还帮助他进入了公务员系统。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 6,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "沈新轮在单位的同事关系较为和谐，尤其是几位年轻同事，他们常常向沈新轮请教工作上的问题。"
+                    ]
+                },
+                {
+                    "relationship": "家人",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        5,
+                        4
+                    ],
+                    "description": [
+                        "沈新轮的妻子和两个孩子是他生活中的重要支柱，家庭生活和谐，常常一起做饭和散步。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "沈新轮的社交关系在不同阶段有明显变化。童年时期，他主要依赖家庭和少数朋友；青春期，他的社交圈扩大，但仍然以学业为主；成年后，工作和家庭成为他社交的主要内容。最近，他感受到年轻同事的朝气，虽然有些感叹时光飞逝，但他仍然保持积极的心态，努力在工作中发挥自己的价值。"
+    }
+}

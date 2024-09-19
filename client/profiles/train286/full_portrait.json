@@ -1,0 +1,140 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "焦虑",
+            "缺乏自信",
+            "容易疲惫"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "面色苍白",
+            "眼神疲惫",
+            "头发略显凌乱"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐"
+            ],
+            "activity": [
+                "独自散步",
+                "在家看电影"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能够找到一份稳定的工作，减轻经济压力。",
+            "long_term_goals": "希望能够战胜疾病，恢复健康，过上平静的生活。"
+        },
+        "daily_life": {
+            "routine": "每天早上早醒，通常在床上躺一会儿才起床。早餐后会尝试阅读或听音乐，但很快感到疲倦。午饭后会小憩一会儿，下午有时会出去散步，但大部分时间在家里休息。晚上会看电影或电视剧，但入睡困难。",
+            "weekends": "周末的生活与平时差别不大，偶尔会尝试做一些简单的家务，但很快感到疲惫。大部分时间还是在家里休息，偶尔会与朋友通过电话或网络联系。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母工作忙碌，童年时常感到孤独。",
+            "adolescence": "中学时期成绩一般，性格内向，不太擅长与人交往。高考失利后，进入了一所普通的大学。",
+            "recent_events": "大学毕业后一直在找工作，但未能如愿。两周前被诊断出脑肿瘤，开始感到极度焦虑和不安。"
+        },
+        "environment": "出生在一个小城市，家庭经济状况一般。大学毕业后回到家乡，暂时待业在家。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "父亲工作繁忙，常常出差，虽然关心但缺乏陪伴。",
+                        "母亲也忙于工作，但相对父亲更为关心和照顾。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "有一个关系较好的朋友，但由于性格内向，朋友不多。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "父母依旧忙碌，关系较为疏远，但在学业上给予了一定的支持。",
+                        "母亲在情感上给予了一些支持，但由于忙碌，交流不多。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        1
+                    ],
+                    "description": [
+                        "有几个同学关系较好，但由于性格内向，不太擅长与人交往。",
+                        "其中一个同学在学习上给予了一些帮助，但关系并不深。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "父母在她被诊断出脑肿瘤后给予了更多的关心和支持。",
+                        "母亲在情感上给予了更多的安慰，但父亲依旧忙碌。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "有一个朋友在她生病后经常打电话关心，但由于她的性格，交流不多。",
+                        "另一个朋友偶尔联系，但关系较为疏远。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "薛锦晓在不同阶段的社会关系变化较大。童年时由于父母忙碌，感到孤独，朋友不多。青春期时，虽然有了一些同学朋友，但由于性格内向，关系并不深厚。最近由于被诊断出脑肿瘤，父母给予了更多的关心和支持，但她依旧感到孤独和焦虑。整体来看，她的社会关系较为单一，缺乏深厚的情感支持，这也加剧了她的抑郁症状。"
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "责任感强",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "面色苍白",
+            "眼神疲惫",
+            "衣着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "散步"
+            ],
+            "activity": [
+                "独自散步",
+                "听舒缓的音乐"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "找到一份更适合自己的工作，减轻目前的工作压力。",
+            "long_term_goals": "提升学历，获得更好的职业发展机会，找到生活的意义和方向。"
+        },
+        "daily_life": {
+            "routine": "每天早晨情绪低落，勉强起床后去公园工作。工作中感到压力大，注意力难以集中。下班后回到住处，通常会独自待在房间里，听音乐或阅读来缓解情绪。",
+            "weekends": "周末大多时间独自待在家里，偶尔会去附近的公园散步，但很少与人交流。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通家庭，父母工作忙碌，童年时缺乏足够的关注和陪伴。",
+            "adolescence": "中学时期成绩中等，但由于性格内向，朋友不多。高考后考上了一所普通本科大学。",
+            "recent_events": "大学毕业后，费和亮花了很大努力才找到目前的工作，但工作环境让他感到失望和压抑。"
+        },
+        "environment": "出生在江苏省南通市的一个普通家庭，大学毕业后留在南通市工作。由于工作压力和对未来的迷茫，情绪逐渐低落。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "费和亮的父亲是一名工厂工人，工作繁忙，常常加班。虽然父亲对费和亮的学业有一定的期望，但由于工作原因，陪伴和沟通的时间较少。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "费和亮的母亲是一名护士，工作同样繁忙。母亲在费和亮的童年时期给予了更多的关爱和照顾，但由于工作压力大，情绪时常不稳定。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "费和亮在童年时期有两个玩伴，但由于性格内向，关系并不深厚。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "在中学时期，费和亮的同学关系较为普通，因性格内向，朋友不多。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "费和亮的老师对他的学业有一定的关注，但由于成绩中等，未能引起特别的重视。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 3,
+                    "familiarity": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "description": [
+                        "费和亮在公园工作的同事大多是溜须拍马之人，关系冷淡。"
+                    ]
+                },
+                {
+                    "relationship": "领导",
+                    "count": 1,
+                    "familiarity": [
+                        1
+                    ],
+                    "description": [
+                        "费和亮的领导对他要求严格，常常挑刺，导致他感到压力巨大。"
+                    ]
+                },
+                {
+                    "relationship": "家人",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "费和亮的父母虽然关心他的生活，但由于距离较远，沟通较少。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "费和亮在各个阶段的社交能力和意愿都有所变化。童年时期由于父母工作繁忙，缺乏足够的关注和陪伴，导致他性格内向，朋友不多。中学时期，虽然有一些同学和老师的关系，但由于性格原因，未能建立深厚的友谊。大学时期，费和亮努力学习，但社交圈依然狭窄。毕业后进入工作岗位，面对复杂的职场环境，他感到失望和压抑，进一步逃避社交，导致社会功能受损。"
+    }
+}

@@ -1,0 +1,501 @@
+{
+    "childhood": {
+        "name": "康瑾雪",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在我四岁的时候，一天妈妈在忙着做家务，我在旁边玩耍。突然，我不小心打翻了一个玻璃杯，玻璃碎片散落一地。妈妈很生气，冲我大喊：'你怎么这么不小心！' 我吓得哭了起来，觉得自己很糟糕，不值得被爱。",
+                "location": "家中的客厅",
+                "happen_time": "1986年5月",
+                "participants": "妈妈",
+                "impact": "这次事件强化了我不值得被爱的核心信念，并让我更加害怕犯错，担心被批评。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学一年级时，我参加了学校的演讲比赛，准备了很久。比赛当天，我站在台上，因为紧张忘词了。下台后，老师对我说：'你表现得很好，下次再接再厉。' 可我依然觉得自己失败了，不配得到老师的表扬。",
+                "location": "学校的礼堂",
+                "happen_time": "1988年10月",
+                "participants": "老师，同学",
+                "impact": "这次经历让我感到自己在公众场合表现不佳时，会被他人批评或失望，进一步加强了我必须完美表现的中间信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在房间里听到父母在客厅里激烈争吵。爸爸责怪妈妈没有把家务做好，妈妈则反驳说她已经尽力了。最终，爸爸摔门而去，妈妈坐在沙发上哭泣。",
+                "location": "家里的客厅",
+                "happen_time": "1989年3月",
+                "participants": "爸爸，妈妈",
+                "impact": "这一事件让我意识到即使是努力也可能不被认可，加深了我对世界的不公平和冷漠的认识。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我的数学考试得了满分，老师在全班同学面前表扬了我。那一刻，我感到非常自豪，觉得自己的努力得到了认可。",
+                "location": "学校的教室",
+                "happen_time": "1990年6月",
+                "participants": "老师，同学",
+                "impact": "这次经历增强了我对自己能力的信心，并让我相信只要努力学习，就能获得成功和认可。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "有一次，我看到同桌小明在数学题上遇到了困难，于是主动帮他讲解，直到他明白为止。小明对我说：'谢谢你，你真厉害！' 我感到非常开心。",
+                "location": "学校的教室",
+                "happen_time": "1991年2月",
+                "participants": "同桌小明",
+                "impact": "这次事件让我感到帮助他人是一件很有价值的事情，进一步强化了我有能力帮助他人的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "一次放学后，我看到班上的小红因为被同学欺负而哭泣。她的朋友们围在她身边安慰她，但她依然很难过。我站在一旁，感到无能为力。",
+                "location": "学校的操场",
+                "happen_time": "1991年10月",
+                "participants": "小红及其朋友们",
+                "impact": "这次经历让我感到即使有朋友安慰，也无法完全消除内心的痛苦，进一步加深了我对世界冷漠的看法。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，亲戚们纷纷夸奖我的成绩好，妈妈脸上露出了自豪的笑容。那一刻，我感到自己满足了父母的期望，非常开心。",
+                "location": "家中的客厅",
+                "happen_time": "1992年春节",
+                "participants": "父母，亲戚们",
+                "impact": "这次经历让我更加坚信满足父母和老师的期望能带来认可和满足感，强化了相关的核心和中间信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我在一次语文考试中只得了70分，回家后妈妈对我说：'你怎么考得这么差？你应该更努力才对。' 我感到非常失落和愧疚。",
+                "location": "家中的厨房",
+                "happen_time": "1993年4月",
+                "participants": "妈妈",
+                "impact": "这次经历让我更加害怕失败，担心辜负他人的期望，进一步强化了我必须完美表现的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，班主任在班会上批评了一位同学的行为，说他不遵守纪律。那位同学低着头不敢看老师，整个班级都很安静。",
+                "location": "学校的教室",
+                "happen_time": "1993年9月",
+                "participants": "班主任，同学们",
+                "impact": "这次经历让我意识到不符合期望会招致批评，进一步强化了我对自己必须表现完美的信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "小学六年级毕业时，我被评为三好学生，站在领奖台上接受校长的表扬和奖励。那一刻，我感到非常自豪和满足。",
+                "location": "学校的礼堂",
+                "happen_time": "1994年6月",
+                "participants": "校长，同学们",
+                "impact": "这次经历进一步增强了我的自信心，并让我更加相信努力学习和表现优秀能带来成功和认可。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "康瑾雪",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在一次语文课上，我的语文老师表扬了我的作文，说我的写作充满了真情实感，这让我感到非常自豪，同时也坚定了我对写作的热爱。",
+                "location": "中学语文教室",
+                "happen_time": "1995年9月",
+                "participants": "语文老师，同学",
+                "impact": "正面影响，增强了自我价值感和对写作的热爱，强化了‘我有能力帮助他人’和‘我需要尽力满足别人的期望’的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "由于班级里有一位同学在数学上遇到了困难，我主动帮她补习，一段时间后她的成绩有所提高，并对我表示感谢。",
+                "location": "中学教室",
+                "happen_time": "1996年3月",
+                "participants": "同学",
+                "impact": "正面影响，增加了自信，强化了‘我有能力帮助他人’的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "在一次期中考试中，我因压力过大导致考试失利，感到非常沮丧，认为自己无法应对学业上的压力。",
+                "location": "中学校园",
+                "happen_time": "1997年11月",
+                "participants": "无",
+                "impact": "负面影响，强化了‘我是一个无能的人’和‘我无法应对学业上的压力’的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在一次班级活动中，我尝试与同学们一起组织活动，但由于性格内向，感到自己被忽视。",
+                "location": "中学校园",
+                "happen_time": "1998年5月",
+                "participants": "同学",
+                "impact": "负面影响，强化了‘我不值得被爱’和‘我应该避免表达自己的情感，以免被忽视’的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在一次家长会后，妈妈告诉我老师对我的表现非常满意，希望我继续保持。虽然感到欣慰，但同时也觉得压力倍增。",
+                "location": "家里",
+                "happen_time": "1999年3月",
+                "participants": "妈妈",
+                "impact": "正面和负面影响并存，一方面增强了自信，另一方面增加了对满足别人期望的压力。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在一次语文比赛中，我获得了全校第一名，得到了全校师生的赞扬。",
+                "location": "中学校园",
+                "happen_time": "1999年10月",
+                "participants": "语文老师，同学",
+                "impact": "正面影响，增强了自我价值感和对写作的热爱，强化了‘我有能力帮助他人’和‘我需要尽力满足别人的期望’的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，亲戚们对我的成绩和表现表示赞赏，但也提到我应该多参加课外活动，这让我感到有些困惑和压力。",
+                "location": "亲戚家",
+                "happen_time": "2000年2月",
+                "participants": "亲戚",
+                "impact": "负面影响，增加了对满足别人期望的压力，强化了‘我需要尽力满足别人的期望’的核心信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班里一个成绩不好的同学因为考试失利而被父母责骂，他的眼泪让我感到心疼。",
+                "location": "中学校园",
+                "happen_time": "1997年12月",
+                "participants": "同学及其父母",
+                "impact": "负面影响，增加了对失败的恐惧，强化了‘我应避免尝试新的学科或活动，以免失败’的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "一次放学后，我看到一位同学因为在运动会上表现出色而被老师表扬，心里既羡慕又感到自己在体育方面的不足。",
+                "location": "中学校园操场",
+                "happen_time": "1998年4月",
+                "participants": "同学，体育老师",
+                "impact": "负面影响，增加了对自己能力的怀疑，强化了‘同学们比我更有能力’的核心信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在图书馆看见一位老师在教一个小朋友读书，老师的耐心和关怀让我对教师这个职业有了更深的理解和向往。",
+                "location": "图书馆",
+                "happen_time": "1999年7月",
+                "participants": "老师，小朋友",
+                "impact": "正面影响，增强了对帮助他人和成为教师的信心，强化了‘我有能力帮助他人’的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭晚餐时，我听到父母对我的未来充满期待，希望我能成为一名优秀的教师，这让我感到压力和责任。",
+                "location": "家里",
+                "happen_time": "1998年12月",
+                "participants": "父母",
+                "impact": "负面影响，增加了对满足别人期望的压力，强化了‘我需要尽力满足别人的期望’的核心信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "一次放学后，我看到一位同学因为在课堂上表现不好而被老师批评，他的难过让我觉得老师的期望有时候太高了。",
+                "location": "中学校园",
+                "happen_time": "1997年5月",
+                "participants": "同学，老师",
+                "impact": "负面影响，增加了对老师期望的恐惧，强化了‘我必须尽力满足老师的期望’的核心信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在图书馆看到一位同学因为没有借到想要的书而感到失望，这让我意识到资源的有限性和竞争的存在。",
+                "location": "图书馆",
+                "happen_time": "1998年10月",
+                "participants": "同学",
+                "impact": "负面影响，增加了对资源和机会的焦虑，强化了‘这个世界对我很冷漠’的中间信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "在一次集体活动中，我看到一位同学主动帮助另一位同学完成任务，感到非常温暖，也激发了我帮助他人的愿望。",
+                "location": "中学校园",
+                "happen_time": "1999年5月",
+                "participants": "同学",
+                "impact": "正面影响，增加了对帮助他人的信心，强化了‘我有能力帮助他人’的核心信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班主任在放学后独自整理教室，她的勤奋和责任感让我对教师这个职业有了更深的理解和尊敬。",
+                "location": "中学校园",
+                "happen_time": "2000年6月",
+                "participants": "班主任",
+                "impact": "正面影响，增强了对教师职业的尊敬和向往，强化了‘我有能力帮助他人’的核心信念。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "康瑾雪",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "大学期间，教授布置了一项重要的期末论文。我花了整整一个月时间准备，几乎每天都在图书馆查资料、写作。结果论文得了高分，教授在课堂上特别表扬了我。",
+                "location": "大学校园",
+                "happen_time": "2001年12月",
+                "participants": "康瑾雪, 教授, 同学",
+                "impact": "增强了她的核心信念‘我是有能力的’，并且让她感受到努力是有回报的，进一步坚定了她‘如果我努力学习，我会成功并得到认可’的中间信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "大学期间，我认识了我的前夫，他总是对我很温柔体贴。有一次，我们一起在校园散步，他突然停下来告诉我，他觉得我是一个非常特别和值得被爱的人。",
+                "location": "大学校园",
+                "happen_time": "2002年5月",
+                "participants": "康瑾雪, 前夫",
+                "impact": "这次经历让她第一次开始质疑自己的核心信念‘我不值得被爱’，但同时她对这种正面评价也感到不适应，内心有些矛盾。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "大学期间，有一次在自习室学习时，我看到一个同学因为考试没考好而哭泣，周围的同学都围过去安慰她，帮她分析问题。",
+                "location": "大学自习室",
+                "happen_time": "2003年3月",
+                "participants": "康瑾雪, 同学",
+                "impact": "这次观察让她感受到同学之间的关心和支持，增强了她‘我有能力帮助他人’的核心信念，也让她更加坚定了‘如果我帮助同学，我会感到有价值和满足’的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "毕业后，我成为了一名语文教师。第一次上课时，我感到非常紧张，但看到学生们专注听讲的神情，我的紧张慢慢消失了。",
+                "location": "中学教室",
+                "happen_time": "2004年9月",
+                "participants": "康瑾雪, 学生",
+                "impact": "这种积极的教学体验进一步强化了她‘我是有能力的’核心信念，并且让她感觉到自己选择这份职业是正确的。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "在工作期间，我注意到一位学生因为家庭问题情绪低落，学习成绩下降。我私下里与她谈心，得知她父母离异，情感上受到很大打击。",
+                "location": "中学办公室",
+                "happen_time": "2006年11月",
+                "participants": "康瑾雪, 学生",
+                "impact": "这次观察让她更加关注学生的心理健康，增强了她‘世界上有很多人需要帮助’的信念，并且进一步坚定了‘我有能力帮助他人’的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "结婚后，我们迎来了孩子的出生。当我第一次抱着他时，感受到一种从未有过的责任感和爱。",
+                "location": "医院",
+                "happen_time": "2009年3月",
+                "participants": "康瑾雪, 前夫, 孩子",
+                "impact": "这次经历让她的‘我需要尽力满足别人的期望’的核心信念变得更加复杂，因为她不仅要满足家人和老师的期望，还要尽力照顾孩子。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "有一次，孩子生病了，我连续几天没有休息好，工作也受到了影响。当时我感到非常疲惫和无助。",
+                "location": "家庭和学校",
+                "happen_time": "2012年6月",
+                "participants": "康瑾雪, 孩子",
+                "impact": "这次经历让她感到‘如果我不能满足家人和老师的期望，我会被批评和拒绝’，进一步加重了她的压力和自罪感。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次在学校，我看到一个学生因为成绩不理想被家长责备，当时学生情绪崩溃，哭得很伤心。",
+                "location": "学校校园",
+                "happen_time": "2013年5月",
+                "participants": "康瑾雪, 学生, 家长",
+                "impact": "这次观察让她回想起自己青春期时的压力，进一步强化了她‘我必须尽力满足家人和老师的期望’的核心信念，并且增加了对学生的同情心。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "有一次在课堂上，我发现自己难以集中注意力，讲课也有些心不在焉。下课后，一位学生悄悄对我说，‘老师，您今天好像不太开心。’",
+                "location": "中学教室",
+                "happen_time": "2015年10月",
+                "participants": "康瑾雪, 学生",
+                "impact": "这次经历让她意识到自己的情绪状态会影响到学生，增加了她的自罪感和自责情绪。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "离婚后，我独自抚养孩子，有一次孩子问我‘妈妈，我们为什么不能和爸爸在一起？’我一时不知怎么回答。",
+                "location": "家庭",
+                "happen_time": "2017年2月",
+                "participants": "康瑾雪, 孩子",
+                "impact": "这次经历让她感到深深的内疚和自责，进一步强化了‘如果我不能满足家人和老师的期望，我会被批评和拒绝’的核心信念。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "康瑾雪",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我与丈夫在2024年1月正式办理了离婚手续，独自抚养孩子。我感到无比的痛苦和孤独，回到家里面对孩子时，我不知道该如何解释这一切。",
+                "location": "家里",
+                "happen_time": "2024年1月",
+                "participants": "康瑾雪、丈夫、孩子",
+                "impact": "离婚手续的办理让康瑾雪的核心信念'我不值得被爱'和'我是一个无能的人'得到强化，增加了她的无望感和自责感。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我发现孩子最近变得很敏感，他不断问我是不是和他爸爸离婚了，我该怎么面对他？",
+                "location": "家里",
+                "happen_time": "2024年2月",
+                "participants": "康瑾雪、孩子",
+                "impact": "孩子的敏感反应加剧了康瑾雪的焦虑和无助感，进一步强化了她'我无法应对生活中的挑战'的中间信念。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在学校里，我的工作量不断增加，同事们也发现我最近状态不好，纷纷表示关心，但我觉得自己不能依赖他们。",
+                "location": "学校",
+                "happen_time": "2024年3月",
+                "participants": "康瑾雪、同事",
+                "impact": "同事的关心让康瑾雪感到一些温暖，但她的中间信念'他人不会真正关心我'使她难以接受这些关心，导致她更加孤立无援。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我开始感到身体不适，体重迅速增加，情绪也越来越低落，有时候甚至不想起床。",
+                "location": "家里",
+                "happen_time": "2024年4月",
+                "participants": "康瑾雪",
+                "impact": "身体不适和体重增加进一步加剧了康瑾雪的自责感和无望感，强化了她的核心信念'我是一个无能的人'。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "孩子的成绩开始下滑，我感到非常自责，觉得自己没有尽好母亲的责任。",
+                "location": "家里",
+                "happen_time": "2024年5月",
+                "participants": "康瑾雪、孩子",
+                "impact": "孩子成绩下滑让康瑾雪更加自责，强化了她的核心信念'我不值得被爱'和'我是一个无能的人'，增加了她的抑郁风险。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我开始频繁地失眠，半夜醒来后难以入睡，想起过去的种种事情，觉得未来毫无希望。",
+                "location": "卧室",
+                "happen_time": "2024年6月",
+                "participants": "康瑾雪",
+                "impact": "失眠和夜间思考让康瑾雪的无望感和自罪感加剧，增加了她的抑郁和自杀风险。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在学校的表现越来越差，校长找我谈话，表示担心我的状态，希望我能休息一段时间。",
+                "location": "校长办公室",
+                "happen_time": "2024年7月",
+                "participants": "康瑾雪、校长",
+                "impact": "校长的关心让康瑾雪感到些许温暖，但她的中间信念'我无法应对生活中的挑战'使她感到更加无助和无能。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在家里试图做一些园艺活动来放松自己，但总觉得无法集中注意力，甚至因为操作不当弄伤了手。",
+                "location": "家里的花园",
+                "happen_time": "2024年8月",
+                "participants": "康瑾雪",
+                "impact": "园艺活动的失败让康瑾雪的中间信念'我无法应对生活中的挑战'和'我是一个无能的人'得到进一步强化，增加了她的抑郁和自杀风险。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "孩子在学校因为家庭问题被同学欺负，我去接他时看到他在角落里哭泣，那一刻我觉得自己非常失败。",
+                "location": "学校",
+                "happen_time": "2024年3月",
+                "participants": "康瑾雪、孩子、孩子的同学",
+                "impact": "目睹孩子被欺负加剧了康瑾雪的自责感，强化了她的核心信念'我不值得被爱'和'我是一个无能的人'。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位同事在工作中表现出色，受到校长的赞扬，我感到自己远不如她，越来越觉得自己无能。",
+                "location": "学校",
+                "happen_time": "2023年12月",
+                "participants": "康瑾雪、同事、校长",
+                "impact": "同事的出色表现让康瑾雪感到自己更加无能，强化了她的核心信念'我是一个无能的人'。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "一次朋友聚会中，我看到朋友们聊得很开心，而我却觉得自己格格不入，无法融入他们。",
+                "location": "餐厅",
+                "happen_time": "2023年11月",
+                "participants": "康瑾雪、朋友们",
+                "impact": "聚会中的孤独感让康瑾雪的中间信念'他人不会真正关心我'得到强化，增加了她的孤立感和抑郁风险。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在图书馆看到一本关于抑郁症的书，书中描述的症状和自己非常相似，我感到一阵恐慌。",
+                "location": "图书馆",
+                "happen_time": "2024年4月",
+                "participants": "康瑾雪",
+                "impact": "看到书中的描述让康瑾雪意识到自己可能患有抑郁症，加剧了她的无望感和自责感。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我尝试写作来缓解情绪，但总是写不出满意的文字，觉得自己连这点事情都做不好。",
+                "location": "家里",
+                "happen_time": "2024年5月",
+                "participants": "康瑾雪",
+                "impact": "写作的失败让康瑾雪的核心信念'我是一个无能的人'得到进一步强化，增加了她的自责感和抑郁风险。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到邻居一家其乐融融地在花园里烧烤，感到自己的生活与他们相比是多么的悲惨。",
+                "location": "邻居的花园",
+                "happen_time": "2024年6月",
+                "participants": "康瑾雪、邻居",
+                "impact": "邻居的幸福生活让康瑾雪的核心信念'我不值得被爱'和'我是一个无能的人'得到强化，增加了她的无望感和抑郁风险。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我在一次家长会上看到其他家长对孩子的关心和支持，而我却感到自己对孩子的关心不够，觉得自己是个失败的母亲。",
+                "location": "学校",
+                "happen_time": "2024年7月",
+                "participants": "康瑾雪、其他家长",
+                "impact": "家长会上的对比让康瑾雪的核心信念'我是一个无能的人'和'我不值得被爱'得到进一步强化，增加了她的自责感和无望感。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我试图与朋友们谈心，但总觉得他们无法理解我的痛苦，感到更加孤独。",
+                "location": "朋友家",
+                "happen_time": "2024年8月",
+                "participants": "康瑾雪、朋友们",
+                "impact": "朋友无法理解她的痛苦让康瑾雪的中间信念'他人不会真正关心我'和'这个世界不欢迎我'得到强化，增加了她的抑郁和自杀风险。"
+            }
+        ]
+    }
+}

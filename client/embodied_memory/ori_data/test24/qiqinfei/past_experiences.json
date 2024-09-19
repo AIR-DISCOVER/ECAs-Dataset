@@ -1,0 +1,208 @@
+{
+    "recent_events": {
+        "name": "齐勤菲",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在期中考试成绩出来后，发现自己数学成绩不及格，老师在课堂上点名批评我。",
+                "location": "教室",
+                "happen_time": "2024年1月",
+                "participants": "齐勤菲, 老师, 同学",
+                "impact": "自信心大幅下降，产生“我不够好”的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "母亲在家里发现我的日记，看到我对成绩的焦虑后，责备我没有好好学习。",
+                "location": "家里",
+                "happen_time": "2024年2月",
+                "participants": "齐勤菲, 母亲",
+                "impact": "感到被家庭忽视和批评，强化“我必须完美”的核心信念，并认为自己不够好。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "小美邀请我去参加她的生日派对，但我因为担心成绩而拒绝，感到与朋友的距离拉远。",
+                "location": "学校",
+                "happen_time": "2024年3月",
+                "participants": "齐勤菲, 小美, 其他同学",
+                "impact": "社交兴趣下降，感到孤独和未能满足他人期望的压力。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次美术课上，我的画作没有得到老师的表扬，而是被指出许多缺陷。",
+                "location": "美术教室",
+                "happen_time": "2024年4月",
+                "participants": "齐勤菲, 美术老师, 同学",
+                "impact": "怀疑自己的绘画能力，影响对未来梦想的信心。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "父亲在晚饭时提到我需要更努力学习，不然将来会很难成功。",
+                "location": "家里",
+                "happen_time": "2024年5月",
+                "participants": "齐勤菲, 父亲, 母亲",
+                "impact": "感受到家庭对自己的高期望，增加了压力和自我怀疑。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家长会上，老师在父母面前提到我的成绩波动，父母表情严肃。",
+                "location": "学校",
+                "happen_time": "2024年6月",
+                "participants": "齐勤菲, 父母, 老师, 其他家长",
+                "impact": "感到被批评和失望，强化“如果我不努力并失败，我会被忽视和批评”的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次数学考试中，我因紧张而无法集中注意力，结果考试成绩很差。",
+                "location": "教室",
+                "happen_time": "2024年7月",
+                "participants": "齐勤菲, 同学, 数学老师",
+                "impact": "产生“我有能力取得成功”的核心信念动摇，增加了焦虑感。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在家尝试做一个复杂的画作，但因为不满意自己的作品而撕毁，感到非常沮丧。",
+                "location": "家里",
+                "happen_time": "2024年8月",
+                "participants": "齐勤菲",
+                "impact": "怀疑自己的绘画能力，影响对成为画家的信心。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在学校观察到其他同学因为成绩好而受到老师的表扬和奖励。",
+                "location": "学校",
+                "happen_time": "2024年1月-2024年8月",
+                "participants": "齐勤菲, 同学, 老师",
+                "impact": "感到自己不如其他同学，强化“我必须完美”和“我被他人所期待”的核心信念。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次家长会上，看到其他家长对自己孩子的成绩感到满意并夸奖他们。",
+                "location": "学校",
+                "happen_time": "2024年1月-2024年8月",
+                "participants": "齐勤菲, 父母, 其他家长, 老师",
+                "impact": "感到自己未能满足父母的期望，增加了自我怀疑和压力。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次放学后，看到同学们开心地一起玩耍，而自己因为成绩不佳而感到难受，不愿加入。",
+                "location": "学校操场",
+                "happen_time": "2024年1月-2024年8月",
+                "participants": "齐勤菲, 同学",
+                "impact": "感到孤独和社交隔绝，增加内向和敏感的情绪。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到父母因为工作上的问题而感到压力，并对我的成绩更加严厉。",
+                "location": "家里",
+                "happen_time": "2024年1月-2024年8月",
+                "participants": "齐勤菲, 父母",
+                "impact": "感受到家庭环境的压力，进一步强化“我必须满足他人的期望”的核心信念。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在图书馆看到其他小朋友开心地阅读和交流，而自己却因为成绩不佳感到焦虑。",
+                "location": "图书馆",
+                "happen_time": "2024年1月-2024年8月",
+                "participants": "齐勤菲, 其他小朋友",
+                "impact": "感到自己与其他人有差距，增加了自我怀疑和焦虑感。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次班级活动中，我的表现没有得到期望中的认可，感到非常失望。",
+                "location": "学校",
+                "happen_time": "2024年1月-2024年8月",
+                "participants": "齐勤菲, 同学, 老师",
+                "impact": "感到自己不够好，增加了内向和敏感的情绪。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "观察到父母对我的学习成绩非常关注，并在与其他家长讨论时表现出对我的期望。",
+                "location": "家里",
+                "happen_time": "2024年1月-2024年8月",
+                "participants": "齐勤菲, 父母, 其他家长",
+                "impact": "感受到巨大的家庭期望压力，增加了自我怀疑和焦虑感。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在学校里看到其他同学因为成绩优异而获得奖状和奖励。",
+                "location": "学校",
+                "happen_time": "2024年1月-2024年8月",
+                "participants": "齐勤菲, 同学, 老师",
+                "impact": "感到自己不如其他同学，强化了“我必须完美”的核心信念。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在家里看到父母因为经济问题而感到压力，对我的成绩更加严厉。",
+                "location": "家里",
+                "happen_time": "2024年1月-2024年8月",
+                "participants": "齐勤菲, 父母",
+                "impact": "感受到家庭环境的压力，进一步强化了“我必须满足他人的期望”的核心信念。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家长会上，老师当着家长的面批评了我的学习态度，父母表情严肃。",
+                "location": "学校",
+                "happen_time": "2024年1月-2024年8月",
+                "participants": "齐勤菲, 父母, 老师",
+                "impact": "感到被批评和失望，强化了“我不够好”的核心信念，并增加了自我怀疑和压力。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，亲戚们对我的成绩表现出很高的期望，并询问我的学习情况。",
+                "location": "家里",
+                "happen_time": "2024年1月-2024年8月",
+                "participants": "齐勤菲, 父母, 亲戚",
+                "impact": "感受到巨大的家庭期望压力，增加了自我怀疑和焦虑感。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在学校里看到其他同学因为成绩优异而获得奖状和奖励。",
+                "location": "学校",
+                "happen_time": "2024年1月-2024年8月",
+                "participants": "齐勤菲, 同学, 老师",
+                "impact": "感到自己不如其他同学，强化了“我必须完美”的核心信念。"
+            }
+        ]
+    }
+}

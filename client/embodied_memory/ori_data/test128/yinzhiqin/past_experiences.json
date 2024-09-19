@@ -1,0 +1,440 @@
+{
+    "childhood": {
+        "name": "尹枝勤",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我记得那是我五岁的时候，妈妈带我去游乐园玩。我在旋转木马上玩得很开心。妈妈站在旁边看着我，笑得很开心。当时我觉得自己被爱着，很幸福。",
+                "location": "游乐园",
+                "happen_time": "2006年5月",
+                "participants": "妈妈",
+                "impact": "这次经历让我感受到母爱的温暖，增强了我对家庭的依赖和对母亲的信任。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学二年级时，有一次我在课堂上回答问题，结果说错了。全班同学都笑我，我感到脸红耳赤，难以承受这种羞辱。",
+                "location": "小学教室",
+                "happen_time": "2008年3月",
+                "participants": "同学们，老师",
+                "impact": "这次事件让我产生了‘我不够好，无法让别人喜欢我’的中间信念，逐渐变得不自信。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在房间里听见妈妈和爸爸在客厅吵架。妈妈声音哑了，爸爸摔了杯子，玻璃碎了一地。我透过门缝偷看，觉得害怕和无助。",
+                "location": "家里客厅",
+                "happen_time": "2009年7月",
+                "participants": "妈妈，爸爸",
+                "impact": "这次吵架让我感到家庭的不稳定，增强了‘我无法控制自己的生活’的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，有一次我画了一幅画，老师夸我画得很好，贴到了教室的墙上。我觉得自己有价值，心里很高兴。",
+                "location": "小学教室",
+                "happen_time": "2010年10月",
+                "participants": "老师，同学",
+                "impact": "这次肯定让我产生了‘我有能力应对挑战’的核心信念，增强了自信心。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "五年级时，我喜欢上了班上的一个男生，但他却公开嘲笑我，说我是‘丑小鸭’。我非常伤心，从此不敢再表达自己的感情。",
+                "location": "小学教室",
+                "happen_time": "2011年5月",
+                "participants": "喜欢的男生，同学",
+                "impact": "这次经历强化了‘我不值得被爱’的核心信念，让我更加内向和自卑。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到同学们在操场上一起玩耍，而我却一个人坐在角落里看书。我感到自己被排挤，不属于他们的世界。",
+                "location": "小学操场",
+                "happen_time": "2011年9月",
+                "participants": "同学们",
+                "impact": "这次观察让我产生了‘我不值得拥有朋友’的中间信念，减少了与同龄人交往的意愿。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "六年级时，妈妈告诉我她和爸爸要离婚。我感到震惊和难过，觉得自己的世界崩塌了。",
+                "location": "家里客厅",
+                "happen_time": "2012年3月",
+                "participants": "妈妈，爸爸",
+                "impact": "这次事件强化了‘我无法控制自己的生活’的核心信念，让我感到生活更加无助和混乱。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到妈妈独自坐在客厅里哭泣。我感到心疼，但不知道怎么安慰她。",
+                "location": "家里客厅",
+                "happen_time": "2012年6月",
+                "participants": "妈妈",
+                "impact": "这次观察让我感到家庭的脆弱和母亲的孤独，增强了‘我不值得被关心和爱护’的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "六年级时，我参加了学校的绘画比赛，虽然没有得奖，但老师和同学们都夸我画得很好。",
+                "location": "学校",
+                "happen_time": "2012年10月",
+                "participants": "老师，同学",
+                "impact": "这次经历增强了‘我可以找到自己的价值’的核心信念，让我感到自己的努力有意义。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "有一次，妈妈因为工作忙忘记了我的生日。我一个人过了一整天，感到特别失落和孤独。",
+                "location": "家里",
+                "happen_time": "2012年12月",
+                "participants": "妈妈",
+                "impact": "这次经历强化了‘我不值得被他人关注’的中间信念，让我更加感到被忽视和不重要。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到妈妈在工作上受到同事的夸奖，她脸上露出了久违的笑容。我感到她在工作中找到了自己的价值。",
+                "location": "妈妈的工作单位",
+                "happen_time": "2013年3月",
+                "participants": "妈妈，同事",
+                "impact": "这次观察让我意识到努力工作可以带来认可和成就感，增强了‘我可以通过学习和成长找到价值’的核心信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "小学毕业典礼上，老师点名表扬了我的绘画作品，我感到自豪和开心。",
+                "location": "学校礼堂",
+                "happen_time": "2013年6月",
+                "participants": "老师，同学们",
+                "impact": "这次经历增强了‘我有潜力找到自己的价值’的核心信念，让我对未来有了更多的期待和信心。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到同学们在讨论放学后去哪里玩，而没人邀请我。我感到自己被排挤在外，心里很难受。",
+                "location": "学校操场",
+                "happen_time": "2013年5月",
+                "participants": "同学们",
+                "impact": "这次观察强化了‘同学们不会真心对待我’的中间信念，让我更加不愿意靠近他人。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "有一次，我在家里画画，妈妈走过来看了一眼，说了一句‘画得不错’，然后就走开了。我感到她的夸奖很敷衍，心里很失落。",
+                "location": "家里",
+                "happen_time": "2013年8月",
+                "participants": "妈妈",
+                "impact": "这次经历强化了‘我不值得被他人关注’的中间信念，让我感到自己的努力没有被重视。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校的汇报演出中演唱了一首歌，台下的掌声让我感到自己被认可和鼓励。",
+                "location": "学校礼堂",
+                "happen_time": "2013年11月",
+                "participants": "老师，同学们",
+                "impact": "这次经历增强了‘我可以找到自己的价值’的核心信念，让我对自己的能力有了更多的信心。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "尹枝勤",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "父母离婚的那天，我坐在家里的沙发上，妈妈眼圈红红地告诉我，爸爸要搬出去住了。我感觉世界瞬间崩塌，眼泪不停地流下来。我心里想，为什么会这样，是不是我做错了什么。",
+                "location": "家里的客厅",
+                "happen_time": "2014年6月",
+                "participants": "妈妈，爸爸",
+                "impact": "这件事深深地影响了我，使我产生了自己不值得被爱和生活失控的核心信念。我开始变得内向，不再愿意与人交往。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "初中时的一次考试，我因为紧张没有发挥好。老师在课堂上批评了我，说我没有做到她期望的那样好。同学们都在看我，我觉得无地自容。",
+                "location": "教室",
+                "happen_time": "2015年5月",
+                "participants": "老师，同学",
+                "impact": "这次经历强化了我认为自己不够好、无法完成任务的信念，导致我更加害怕失败，避免尝试新的事情。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校被几个同学嘲笑，说我爸爸不要我了。我气得脸都红了，但却一句话也说不出来，只能咬着牙忍着眼泪。",
+                "location": "学校操场",
+                "happen_time": "2016年9月",
+                "participants": "同学",
+                "impact": "这次事件让我更加确信自己不值得被爱和关心，进一步加深了对人际关系的恐惧和疏远感。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "有一天，我发现妈妈在房间里偷偷哭泣。她平时总是坚强的样子，但那天她显得特别脆弱。我站在门外，心里很难受，但不知道该怎么安慰她。",
+                "location": "家里的卧室外",
+                "happen_time": "2017年3月",
+                "participants": "妈妈",
+                "impact": "看到妈妈的脆弱让我感到生活的无力感，进一步强化了我对生活失控和世界对我来说是不可控的信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "高中时的一次班会上，老师让我分享我的学习经验。我站在讲台上，紧张得说不出话来，最后只好匆匆结束。回到座位时，同学们的窃窃私语让我感觉自己特别无价值。",
+                "location": "教室",
+                "happen_time": "2018年5月",
+                "participants": "老师，同学",
+                "impact": "这次经历让我更加觉得自己不值得被关注和认可，进一步加深了自我评价低的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "一次放学回家，我看到邻居家的孩子和妈妈一起开心地做饭。他们的笑声传出来，让我感到一阵酸楚和羡慕。",
+                "location": "邻居家门口",
+                "happen_time": "2019年4月",
+                "participants": "邻居家孩子和妈妈",
+                "impact": "这个场景让我意识到自己渴望的家庭温暖，但也让我更加相信自己不值得被爱和关心，强化了孤独感。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "有一次，我在美术课上画了一幅画，得到了老师的表扬。这是我难得的一次感受到认可和成就感，让我觉得自己是有能力的。",
+                "location": "美术教室",
+                "happen_time": "2017年11月",
+                "participants": "美术老师，同学",
+                "impact": "这次经历让我短暂地找到了自己的价值，增强了我面对挑战的信心，但这份自信很快被其他负面事件掩盖。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "我曾在学校见到一位同学因为成绩不好被父母责骂，他低着头不敢说话。我在旁边看着，心里觉得很难过，但也觉得这似乎是我的未来。",
+                "location": "学校走廊",
+                "happen_time": "2016年12月",
+                "participants": "同学，他的父母",
+                "impact": "这个事件让我更加确信自己无法控制生活，也无法满足他人的期望，进一步加深了对失败的恐惧。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "一次期中考试，我考得很好，得到了一张奖状。我拿着奖状回家，妈妈开心地夸奖我，让我感到一丝温暖和自豪。",
+                "location": "家里",
+                "happen_time": "2018年6月",
+                "participants": "妈妈",
+                "impact": "这次经历让我短暂地感受到自己有能力应对挑战和找到自己的价值，但这种积极感受很快被其他负面事件冲淡。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在校门口看到一对情侣吵架，女孩哭得很伤心，男孩却显得很冷漠。我心里觉得，这个世界对感情真的很冷漠。",
+                "location": "学校门口",
+                "happen_time": "2019年3月",
+                "participants": "一对情侣",
+                "impact": "这个事件进一步强化了我对世界冷漠和自己不值得被爱的信念，增加了对人际关系的疏离感。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "有一次，我在母亲的帮助下成功完成了一项学习任务，感受到了一种成就感和自信。",
+                "location": "家里",
+                "happen_time": "2017年10月",
+                "participants": "妈妈",
+                "impact": "这次经历让我意识到自己有能力应对挑战，但也依赖母亲的支持，进一步确认了自己在某些情况下是有能力的。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在公园里看到一个小女孩独自玩耍，她的父母在远处看着。我心里想，这个世界上还有人能那么无忧无虑地玩耍，为什么我不能呢？",
+                "location": "公园",
+                "happen_time": "2018年8月",
+                "participants": "小女孩，她的父母",
+                "impact": "这个事件让我对自己无法控制生活的感觉更加深刻，也让我感到一种莫名的失望和无力。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "有一次，母亲生病了，我照顾她的那段时间让我感到自己是有价值的，也让我意识到自己可以承担责任。",
+                "location": "家里",
+                "happen_time": "2019年2月",
+                "participants": "妈妈",
+                "impact": "这次经历让我短暂地找到了一种自己的价值感，但也加深了对母亲依赖的感觉。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一天，我在学校图书馆看到一个同学因为家庭问题而哭泣，周围的同学都在安慰她。我感到一种羡慕和孤独，觉得自己没有那样的支持。",
+                "location": "学校图书馆",
+                "happen_time": "2017年5月",
+                "participants": "同学，其他同学",
+                "impact": "这个事件让我更加觉得自己不值得被关心和爱护，进一步加深了孤独感和对人际关系的疏远。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "有一次，我在画画时沉浸在自己的世界里，感到一种难得的平静和快乐。那一刻，我觉得自己是有价值的。",
+                "location": "美术教室",
+                "happen_time": "2018年11月",
+                "participants": "无",
+                "impact": "这次经历让我短暂地找到了自己的价值和内心的平静，但这种感觉很快被学业压力和人际问题所取代。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "尹枝勤",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次考试中，我感到极度紧张，手心出汗，心跳加速。尽管我提前复习了很久，但当我看到试卷上的题目时，大脑一片空白，无法集中注意力。这次考试对我来说非常重要，但我感到自己完全无法应对压力。",
+                "location": "大学教室",
+                "happen_time": "2023年3月",
+                "participants": "大学同学、监考老师",
+                "impact": "这次失败加深了我的无价值感和无助感，让我更加相信自己不够好，无法完成任务。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "因为学业压力巨大，我开始熬夜复习，导致睡眠严重不足。每晚辗转反侧，难以入睡，白天上课时精神恍惚，注意力无法集中。",
+                "location": "宿舍",
+                "happen_time": "2023年4月-2023年5月",
+                "participants": "大学室友",
+                "impact": "长期的睡眠不足使我更加疲倦，情绪低落，进一步影响了我的学习效率和情绪稳定。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次课间，我听到几位同学在讨论我，说我总是独来独往，不合群，甚至怀疑我有心理问题。",
+                "location": "大学教室走廊",
+                "happen_time": "2023年6月",
+                "participants": "大学同学",
+                "impact": "这些话语让我感到深深的孤独和被排斥，强化了我对自己不值得被爱的信念，进一步加重了我的自卑感。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "因为长期压力和情绪低落，我开始暴饮暴食，试图通过食物来缓解内心的焦虑和痛苦。每次暴食后，我都会感到深深的自责和羞愧。",
+                "location": "宿舍",
+                "happen_time": "2023年7月-2023年8月",
+                "participants": "无",
+                "impact": "暴饮暴食不仅没有缓解我的情绪，反而让我更加厌恶自己，觉得自己毫无自控力，生活失控。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与母亲的通话中，她表示对我的学业和生活非常担忧，但也无力提供更多帮助。这让我感到深深的无助和绝望。",
+                "location": "宿舍",
+                "happen_time": "2023年9月",
+                "participants": "母亲",
+                "impact": "母亲的担忧加重了我的内疚感和无力感，让我更加觉得自己无法掌控生活。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次绘画课上，老师表扬了我的作品，说我的画作有很深的情感表达。这是我少有的感受到认可的时刻。",
+                "location": "大学画室",
+                "happen_time": "2023年10月",
+                "participants": "绘画老师、同学",
+                "impact": "这次表扬短暂地提升了我的自信心，让我觉得自己还是有价值的，但这种感觉很快被日常的压力和负面情绪所淹没。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "因为情绪低落和缺乏动力，我多次缺席重要的课程和考试，导致学业成绩进一步下滑。",
+                "location": "大学教室",
+                "happen_time": "2023年11月-2023年12月",
+                "participants": "无",
+                "impact": "成绩的下滑进一步证实了我对自己无价值的信念，让我更加绝望和无助。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年1月，我开始频繁地思考自杀，甚至计划了几次自杀方式。每当想到母亲时，我的内心充满矛盾和痛苦，不知道如何面对她。",
+                "location": "宿舍",
+                "happen_time": "2024年1月",
+                "participants": "无",
+                "impact": "自杀想法频繁出现，使我的心理状态更加恶化，情绪更加绝望和无助。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年2月，母亲来到学校看望我，发现我的状态非常糟糕。她试图安慰我，但我却觉得她无法理解我的痛苦。",
+                "location": "学校宿舍",
+                "happen_time": "2024年2月",
+                "participants": "母亲",
+                "impact": "母亲的安慰未能减轻我的痛苦，反而让我更加觉得自己的问题无解，加重了无助感。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年3月，我参加了一次心理辅导，试图寻求帮助。但在咨询过程中，我感到难以表达自己的真实感受，觉得自己被误解。",
+                "location": "大学心理咨询室",
+                "happen_time": "2024年3月",
+                "participants": "心理咨询师",
+                "impact": "这次咨询未能带来显著的改善，反而让我觉得自己的问题更加复杂和难以解决。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2024年4月的一次考试中，我再次感到巨大的压力和焦虑，考试结果不理想，进一步加深了我的无力感。",
+                "location": "大学教室",
+                "happen_time": "2024年4月",
+                "participants": "无",
+                "impact": "考试失败进一步强化了我对自己无价值和无能的信念，让我更加绝望。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次同学聚会上，我看到其他同学谈笑风生，分享他们的成功和快乐。虽然我坐在一旁，但却感到自己格格不入，无法融入他们的世界。",
+                "location": "大学餐厅",
+                "happen_time": "2024年5月",
+                "participants": "大学同学",
+                "impact": "这次聚会让我更加感到孤独和被排斥，强化了我对自己不值得被爱的信念。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年6月，我尝试了一次自我救助，通过阅读心理学书籍来理解自己的问题。但这些书籍并未带来实际的帮助，反而让我感到信息过载和更加困惑。",
+                "location": "宿舍",
+                "happen_time": "2024年6月",
+                "participants": "无",
+                "impact": "自我救助的失败让我更加觉得自己无能为力，强化了无助感。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次课堂讨论中，我观察到一位同学因为积极参与讨论而获得了老师的赞扬和同学的认可。这让我感到深深的嫉妒和自卑。",
+                "location": "大学教室",
+                "happen_time": "2024年7月",
+                "participants": "大学同学、老师",
+                "impact": "这次观察让我更加觉得自己无价值，无法获得他人的认可，进一步加深了自卑感。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年8月，我终于鼓起勇气向母亲坦诚了自己的抑郁和自杀想法。母亲非常震惊和痛心，但她表示会全力支持我寻求专业帮助。",
+                "location": "宿舍",
+                "happen_time": "2024年8月",
+                "participants": "母亲",
+                "impact": "这次坦诚让我的内心得到了一些释放，但也让我更加意识到问题的严重性，决定寻求专业的心理治疗。"
+            }
+        ]
+    }
+}

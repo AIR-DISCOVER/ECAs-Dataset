@@ -1,0 +1,440 @@
+{
+    "childhood": {
+        "name": "孔薇倩",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我在幼儿园的表演比赛中获得了第一名，老师和同学们都为我鼓掌。老师还特意表扬了我，并给我颁发了奖状。",
+                "location": "幼儿园礼堂",
+                "happen_time": "2008年5月",
+                "participants": "老师、同学们、父母",
+                "impact": "这次经历让我感到自己是有价值的，并且认可了'如果我表现得好，我就是有价值的'这一信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学一年级，我的数学考试得了满分，老师在全班面前表扬了我，还把我的试卷贴在了教室墙上。",
+                "location": "小学教室",
+                "happen_time": "2010年3月",
+                "participants": "老师、同学们",
+                "impact": "这次表扬强化了我的核心信念'我是有价值的'和中间信念'我必须保持成绩优秀，才能证明自己的价值'。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "三年级时，我因为生病住院，老师带着同学们来医院看望我，送来了很多礼物和问候卡片。",
+                "location": "医院",
+                "happen_time": "2012年11月",
+                "participants": "老师、同学们、父母",
+                "impact": "这次经历让我感到自己是被关心和爱的，强化了'我值得被关心'的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里听见父母在厨房里争吵，声音非常大，妈妈还哭了。我透过门缝看到爸爸摔了一个碗，碎片撒了一地。",
+                "location": "家中厨房",
+                "happen_time": "2013年5月",
+                "participants": "父母",
+                "impact": "这次经历让我感到家庭并不总是安全的地方，开始对父母产生了信任危机，影响了'我应该信任并依靠周围的人'的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，我参加了学校的绘画比赛，虽然没有得奖，但同学们还是夸奖了我的作品，说很有创意。",
+                "location": "学校教室",
+                "happen_time": "2014年10月",
+                "participants": "同学们、老师",
+                "impact": "尽管没有获奖，但同学们的夸奖让我感到自己的创意被认可，强化了'我有创造力和才能'的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "五年级时，我在班级里演讲，虽然很紧张，但得到了老师和同学们的鼓励，最终顺利完成。",
+                "location": "学校教室",
+                "happen_time": "2015年4月",
+                "participants": "老师、同学",
+                "impact": "这次经历让我感到自己能够应对生活中的挑战，强化了'我能够应对生活中的挑战'的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，学校里有同学因为成绩不好而被老师批评，那个同学很沮丧，很多同学都在嘲笑他。",
+                "location": "学校教室",
+                "happen_time": "2015年11月",
+                "participants": "同学、老师",
+                "impact": "这次经历让我对'如果我表现不好，我将被忽视和看不起'的中间信念产生了深刻的印象，增加了对成绩的压力感。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "六年级时，我的数学成绩下滑，爸爸非常严厉地批评了我，并罚我不能看电视。",
+                "location": "家中客厅",
+                "happen_time": "2016年3月",
+                "participants": "父母",
+                "impact": "这次经历让我感到如果我不努力学习，就会失去父母的认可，强化了'我必须努力学习，才能被认可'的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "有一次，妈妈带我去参加一个亲戚的婚礼，我见到了很多不常见的亲戚，大家都夸我长得漂亮、成绩好。",
+                "location": "婚宴大厅",
+                "happen_time": "2016年8月",
+                "participants": "母亲、亲戚们",
+                "impact": "这次经历让我感到自己是被认可和关心的，强化了'我值得被关心'的核心信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个同学在操场上摔倒了，很多同学都跑过去帮忙，把他扶起来，还带他去医务室。",
+                "location": "学校操场",
+                "happen_time": "2016年10月",
+                "participants": "同学们",
+                "impact": "这次经历让我感到世界上有很多关心我的人，强化了'我值得被关心'的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "小学毕业典礼上，我因为表现优异获得了优秀学生奖，老师在全校师生面前颁发了奖状。",
+                "location": "学校礼堂",
+                "happen_time": "2016年6月",
+                "participants": "老师、同学们、父母",
+                "impact": "这次经历让我感到自己是有价值的，并且认可了'如果我表现得好，我就是有价值的'这一信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，我的一个好朋友转学了，我感到非常失落和孤独。",
+                "location": "学校教室",
+                "happen_time": "2014年9月",
+                "participants": "好朋友、老师",
+                "impact": "这次经历让我感到失去朋友的痛苦，影响了'如果我不表达需求，我会感到孤独和被忽视'的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个同学在学校里被其他同学欺负，老师发现后进行了严厉的批评，并保护了被欺负的同学。",
+                "location": "学校操场",
+                "happen_time": "2015年5月",
+                "participants": "同学、老师",
+                "impact": "这次经历让我感到勇敢面对问题的重要性，强化了'我应该勇敢面对挑战'的中间信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我在班级里被选为班长，老师和同学们都很支持我。",
+                "location": "学校教室",
+                "happen_time": "2015年9月",
+                "participants": "老师、同学们",
+                "impact": "这次经历让我感到自己能够承担责任，并且得到了大家的认可，强化了'我能够应对生活中的挑战'的核心信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "六年级时，我参加了学校的才艺表演，虽然很紧张，但得到了老师和同学们的鼓励，最终顺利完成。",
+                "location": "学校礼堂",
+                "happen_time": "2016年4月",
+                "participants": "老师、同学们",
+                "impact": "这次经历让我感到自己能够应对生活中的挑战，强化了'我能够应对生活中的挑战'的核心信念。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "孔薇倩",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中期末考试成绩不理想，回家后父母对她表示失望并责备她没有努力学习。",
+                "location": "家里客厅",
+                "happen_time": "2017年6月",
+                "participants": "孔薇倩，父母",
+                "impact": "加重了孔薇倩的自卑感，强化了她‘我是没有价值的’核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "一次班级活动中，她尝试与同学们交流，但被冷落和忽视，感到非常孤独。",
+                "location": "学校操场",
+                "happen_time": "2017年9月",
+                "participants": "孔薇倩，同学们",
+                "impact": "强化了她‘我不值得被关心’的核心信念，开始回避社交活动。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "她看到班主任对成绩优异的同学给予表扬，而对成绩较差的同学则态度冷淡。",
+                "location": "教室",
+                "happen_time": "2018年3月",
+                "participants": "孔薇倩，班主任，其他同学",
+                "impact": "加深了她‘世界对失败者没有宽容’的中间信念，进一步自我否定。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在一次家长会上，父母公开批评她的成绩不够好，让她感到极度尴尬和自卑。",
+                "location": "学校礼堂",
+                "happen_time": "2018年6月",
+                "participants": "孔薇倩，父母，老师，同学家长",
+                "impact": "强化了她‘如果我不能达到高标准，那我就是失败者’的中间信念，感到巨大的压力。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "她看到一个同学因为表达自己的需求而被老师忽视和批评。",
+                "location": "教室",
+                "happen_time": "2018年11月",
+                "participants": "孔薇倩，同学，老师",
+                "impact": "强化了她‘如果我表达自己的需求，就会被忽视’的中间信念，变得更加沉默寡言。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高考失利，未能进入理想的大学，感到前途黯淡和自我价值的全面否定。",
+                "location": "高考成绩发布现场",
+                "happen_time": "2020年7月",
+                "participants": "孔薇倩",
+                "impact": "加深了她‘我无法应对生活中的挑战’的核心信念，陷入抑郁。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "她注意到一些同学因为成绩不理想而得不到父母的关心和支持。",
+                "location": "教室",
+                "happen_time": "2020年8月",
+                "participants": "孔薇倩，同学，父母",
+                "impact": "加强了她‘他人不会关心我的感受’的中间信念，对父母的期望降低。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "进入大学后，尝试参加社团活动，但由于性格内向，未能融入，感到被排斥。",
+                "location": "大学校园",
+                "happen_time": "2020年10月",
+                "participants": "孔薇倩，大学同学",
+                "impact": "进一步强化了她‘我不值得被关心’的核心信念，减少社交活动。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "她看到一个学长因为追求梦想而成功，得到了广泛的认可和尊重。",
+                "location": "大学报告厅",
+                "happen_time": "2021年3月",
+                "participants": "孔薇倩，学长，其他学生",
+                "impact": "激发了她‘我有能力实现我的梦想’的核心信念，开始考虑追求插画师的梦想。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "她在一次插画比赛中获得了奖项，得到了老师和同学们的赞扬。",
+                "location": "大学艺术展览厅",
+                "happen_time": "2021年6月",
+                "participants": "孔薇倩，老师，同学",
+                "impact": "增强了她‘我有创造力和才能’的中间信念，增加了自信心。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "她看到一个同学因为压力大而崩溃，导致情绪失控。",
+                "location": "大学宿舍",
+                "happen_time": "2021年10月",
+                "participants": "孔薇倩，同学",
+                "impact": "强化了她‘我无法处理压力’的中间信念，害怕面对压力。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在一次重要的课堂展示中，她因紧张而表现失常，感到极度失望和自责。",
+                "location": "大学教室",
+                "happen_time": "2022年3月",
+                "participants": "孔薇倩，老师，同学",
+                "impact": "加深了她‘我总是失败’的中间信念，自信心受到打击。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "她听说一位同学因为持续的努力最终实现了自己的梦想，得到了认可。",
+                "location": "大学校园",
+                "happen_time": "2022年6月",
+                "participants": "孔薇倩，同学",
+                "impact": "激发了她‘我应该积极追求自己的梦想’的中间信念，重新燃起追梦的希望。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "她在一次插画展示会上得到了业内人士的肯定和鼓励，感到非常激动和自豪。",
+                "location": "城市艺术展览馆",
+                "happen_time": "2022年11月",
+                "participants": "孔薇倩，业内人士，观众",
+                "impact": "增强了她‘如果我展示我的作品，别人会欣赏我’的中间信念，提高了自信心。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "她看到一个朋友因为不断坚持创作，逐渐在业内获得认可和尊重。",
+                "location": "大学艺术工作室",
+                "happen_time": "2022年12月",
+                "participants": "孔薇倩，朋友",
+                "impact": "进一步激发了她‘我应该继续创作，展示我的才能’的中间信念，坚定了追求插画师梦想的决心。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "孔薇倩",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次期末考试中，我因为复习不充分，考得很差。老师在课堂上点名批评了我。",
+                "location": "大学教室",
+                "happen_time": "2023年6月",
+                "participants": "老师, 同学",
+                "impact": "这次事件加深了我的自卑感和无价值感。我觉得自己无法应对学业上的挑战，认为自己是个失败者。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家务分配的问题上，我和室友发生了争执。她指责我不负责任。",
+                "location": "宿舍",
+                "happen_time": "2023年7月",
+                "participants": "室友",
+                "impact": "这次争执让我感到自己不被关心和理解，进一步加深了对人际关系的负面看法，认为自己不值得被关心。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我独自去看了一场电影，想放松一下，但整个过程中感到孤独和无聊。",
+                "location": "电影院",
+                "happen_time": "2023年8月",
+                "participants": "无",
+                "impact": "这次经历让我感到自己与世界隔绝，进一步加重了抑郁症状，觉得生活没有意义。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "父母打电话给我，询问我的学习情况。我感到压力巨大，但没有向他们表露内心的痛苦。",
+                "location": "宿舍",
+                "happen_time": "2023年9月",
+                "participants": "父母",
+                "impact": "父母的期望让我感到巨大的压力和无力感，进一步加深了对自己无法应对生活挑战的信念。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次绘画练习中，我觉得自己的作品没有达到预期效果，感到非常沮丧。",
+                "location": "宿舍",
+                "happen_time": "2023年10月",
+                "participants": "无",
+                "impact": "这次失败让我对自己成为插画师的梦想产生了怀疑，进一步加深了对自我能力的否定。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我尝试向一个同学表达我的困扰，但对方显得漠不关心。",
+                "location": "校园",
+                "happen_time": "2023年11月",
+                "participants": "同学",
+                "impact": "这次交流让我觉得自己不值得被关心和理解，加重了对人际关系的负面看法。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一个插画比赛中，我的作品没有入选。",
+                "location": "校园",
+                "happen_time": "2023年12月",
+                "participants": "比赛评委",
+                "impact": "这次失败让我对自己实现梦想的能力产生了深深的怀疑，进一步加重了抑郁症状。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年新年期间，我独自一人在宿舍，没有回家与家人团聚，感到非常孤独。",
+                "location": "宿舍",
+                "happen_time": "2024年1月",
+                "participants": "无",
+                "impact": "这段时间让我感到自己与世界隔绝，进一步加重了抑郁症状和无价值感。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次与心理咨询师的谈话中，我第一次尝试表达自己的内心痛苦。",
+                "location": "心理咨询室",
+                "happen_time": "2024年2月",
+                "participants": "心理咨询师",
+                "impact": "这次谈话让我感到一些释放，但也让我更加意识到自己的心理问题的严重性。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我观察到其他同学在社交活动中非常开心，而我感到自己无法融入。",
+                "location": "校园",
+                "happen_time": "2024年3月",
+                "participants": "同学",
+                "impact": "这次观察让我感到自己与他人之间的巨大差距，进一步加重了自卑感和孤独感。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "父母再次打电话给我，询问我的未来计划。我感到压力很大，但没有向他们表露真实想法。",
+                "location": "宿舍",
+                "happen_time": "2024年4月",
+                "participants": "父母",
+                "impact": "这次通话加重了我对未来的焦虑和无力感，进一步加重了抑郁症状。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次课堂讨论中，我没有勇气发表自己的意见，感到非常失落。",
+                "location": "大学教室",
+                "happen_time": "2024年5月",
+                "participants": "老师, 同学",
+                "impact": "这次事件让我觉得自己不值得被听取和关心，进一步加重了自卑感和无价值感。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次小组作业中感到自己无法胜任任务，最终被其他同学取代了工作。",
+                "location": "校园",
+                "happen_time": "2024年6月",
+                "participants": "同学",
+                "impact": "这次事件让我觉得自己无法应对生活中的挑战，进一步加重了抑郁症状和无力感。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次身体检查中，医生告诉我需要注意休息，我感到非常疲惫和无力。",
+                "location": "医院",
+                "happen_time": "2024年7月",
+                "participants": "医生",
+                "impact": "这次事件让我意识到自己身体状况的恶化，进一步加重了抑郁症状和无价值感。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次朋友的生日聚会上感到自己格格不入，最终提前离开。",
+                "location": "朋友家",
+                "happen_time": "2024年8月",
+                "participants": "朋友",
+                "impact": "这次聚会让我感到自己无法融入社交圈子，进一步加重了孤独感和抑郁症状。"
+            }
+        ]
+    }
+}

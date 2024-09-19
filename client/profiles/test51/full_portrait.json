@@ -1,0 +1,188 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "善良",
+            "有责任心",
+            "自我怀疑"
+        ],
+        "appearance": [
+            "中等身高",
+            "纤细",
+            "长发",
+            "清秀",
+            "略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "看电视剧",
+                "写作",
+                "绘画"
+            ],
+            "activity": [
+                "和朋友一起看电影",
+                "周末去图书馆",
+                "独自散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复对学习和生活的兴趣，顺利完成学业。",
+            "long_term_goals": "找到一份自己热爱的工作，过上平静而充实的生活。"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，按时上课，下午在图书馆自习，晚上10点左右睡觉。",
+            "weekends": "周末通常会在宿舍休息，偶尔会和朋友出去看电影或逛街。"
+        },
+        "past_experiences": {
+            "childhood": "在一个普通的家庭长大，父母对她的期望很高，从小成绩优异。",
+            "adolescence": "高中时期曾因为学习压力大而感到焦虑，但通过努力克服了。",
+            "recent_events": "刚进入大学，适应新环境的过程中感到压力和孤独，逐渐失去了对学习和生活的兴趣。"
+        },
+        "environment": "出生在一个小城市，家庭和睦，父母都是普通职员。高中毕业后考入了一所省会城市的大学，开始独立生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "褚琴雪的父亲是一名普通职员，性格温和，对女儿的期望很高。小时候，父亲经常陪她做作业，带她去公园玩耍。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "褚琴雪的母亲是一名普通职员，性格开朗，善于沟通。母亲在褚琴雪的成长过程中扮演了重要的角色，常常鼓励她追求自己的梦想。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "褚琴雪在小学和初中时期有几个要好的朋友，她们经常一起玩耍、学习，分享彼此的秘密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "进入高中后，褚琴雪与父亲的关系稍有疏远，主要是因为学习压力增大，父亲对她的期望也更高了。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲在褚琴雪的高中时期依然是她的支持者，但由于学习压力，母女之间偶尔也会有些小摩擦。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "高中时期，褚琴雪的朋友圈子有所缩小，但她依然有两个非常要好的朋友，彼此支持，共同面对学习压力。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "褚琴雪在高中时期与几位老师关系较好，特别是班主任和数学老师，他们对她的学习和生活给予了很多帮助。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入大学后，褚琴雪与父亲的联系减少了，但父亲依然关心她的学习和生活。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲依然是褚琴雪的重要支持者，但由于距离和生活节奏的变化，母女之间的交流也减少了。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "大学里，褚琴雪结识了一位新朋友，她们偶尔会一起看电影、逛街，但褚琴雪的内向性格让她难以完全敞开心扉。"
+                    ]
+                },
+                {
+                    "relationship": "室友",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "褚琴雪与室友们的关系一般，大家相处和谐，但并不亲密。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "褚琴雪在不同阶段的社会关系发生了显著变化。童年时期，她与父母和朋友的关系非常亲密，充满了温暖和支持。进入青春期后，学习压力增大，她与父母的关系稍有疏远，但依然保持着较高的亲密度。朋友圈子有所缩小，但依然有几个要好的朋友。进入大学后，褚琴雪的社会关系发生了较大变化，与父母的联系减少，新的朋友和室友关系较为一般。她的内向性格和自我怀疑让她难以建立新的亲密关系，感到孤独和压力。"
+    }
+}

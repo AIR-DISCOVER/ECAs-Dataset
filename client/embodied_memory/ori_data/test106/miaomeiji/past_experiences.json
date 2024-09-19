@@ -1,0 +1,308 @@
+{
+    "childhood": {
+        "name": "苗眉姬",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在小学一年级时，我因为回答问题错误，被老师当众批评。感觉全班同学的目光都集中在我身上，脸上火辣辣的。",
+                "location": "小学教室",
+                "happen_time": "2014年9月",
+                "participants": "苗眉姬, 老师, 同学",
+                "impact": "这次事件让我产生了强烈的羞耻感，开始相信自己不够好，害怕在公共场合犯错（核心信念：我不够好）。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "一次，妈妈因为工作压力大，在家里发脾气。我尝试安慰她，却被她责骂，说我只会添乱。",
+                "location": "家里客厅",
+                "happen_time": "2015年3月",
+                "participants": "苗眉姬, 妈妈",
+                "impact": "这次经历让我觉得自己不值得被爱和关心（核心信念：我不值得被爱），也让我开始回避表达自己的情感需求。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，邻居家的姐姐因为考试成绩好，得到了父母的奖励和赞美。我看着他们一家欢笑的样子，感到非常羡慕。",
+                "location": "邻居家",
+                "happen_time": "2015年6月",
+                "participants": "苗眉姬, 邻居家的姐姐, 邻居父母",
+                "impact": "这次观察到的情景让我加深了对自身的负面评价，觉得只有表现出色才能获得认可和爱（中间信念：我必须努力才能证明自己）。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，因为一次考试成绩不理想，我的好朋友开始疏远我。",
+                "location": "小学教室",
+                "happen_time": "2017年5月",
+                "participants": "苗眉姬, 好朋友",
+                "impact": "这次事件让我感到非常孤独和被排斥，开始怀疑自己的人际关系能力（核心信念：我不值得被爱）。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "一次放学后，我看到几个成绩优异的同学在一起讨论问题，他们看起来非常开心和自信。",
+                "location": "学校操场",
+                "happen_time": "2017年10月",
+                "participants": "苗眉姬, 成绩优异的同学们",
+                "impact": "这次观察让我觉得自己不够聪明，无法融入这样的圈子（中间信念：我不够聪明）。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "有一次，我在班会上因为紧张说话结巴，引来了同学们的嘲笑。",
+                "location": "小学教室",
+                "happen_time": "2018年3月",
+                "participants": "苗眉姬, 同学们",
+                "impact": "这次事件加深了我对自己的负面评价，觉得自己在社交场合很无能（核心信念：我没有能力应对挑战）。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班主任对一个成绩优异的同学给予特别关照和鼓励。",
+                "location": "小学教室",
+                "happen_time": "2018年9月",
+                "participants": "苗眉姬, 成绩优异的同学, 班主任",
+                "impact": "这次观察让我觉得只有成绩好才能得到老师的认可和关爱（中间信念：同学们和老师只会在我表现出色时才会认可我）。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "小学六年级，一次家庭聚会上，亲戚们都在夸奖表姐的优秀，而我被忽视。",
+                "location": "亲戚家",
+                "happen_time": "2019年5月",
+                "participants": "苗眉姬, 表姐, 亲戚们",
+                "impact": "这次事件让我感到自己很无足轻重，进一步强化了我不值得被爱的信念（核心信念：我不值得被爱）。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "一次，我看到一位同学因为犯错被老师严厉批评，感到非常害怕。",
+                "location": "小学教室",
+                "happen_time": "2019年11月",
+                "participants": "苗眉姬, 被批评的同学, 老师",
+                "impact": "这次观察让我更加害怕犯错，认为犯错会导致严重的后果（中间信念：我必须避免犯错）。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在小学毕业时，我没有获得任何奖励或表扬，感到非常失落。",
+                "location": "小学礼堂",
+                "happen_time": "2020年6月",
+                "participants": "苗眉姬, 同学们, 老师",
+                "impact": "这次事件让我觉得自己在任何方面都不如别人，进一步加深了我的自卑感（核心信念：我不够好）。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "小学毕业后的暑假，我和家人一起去旅游，但他们一直忙于工作，几乎没有陪我。",
+                "location": "旅游景点",
+                "happen_time": "2020年7月",
+                "participants": "苗眉姬, 父母",
+                "impact": "这次经历让我感到非常孤独，觉得自己不值得被关心和陪伴（核心信念：我不值得被爱）。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "苗眉姬",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "刚进入高中的第一天，我发现自己完全跟不上老师的讲课节奏。同学们都显得很熟练，而我感到非常茫然和无助。老师的问题我答不上来，同桌也没有主动帮我。我感觉自己很差劲。",
+                "location": "高中教室",
+                "happen_time": "2020年9月",
+                "participants": "老师、同桌",
+                "impact": "加重了苗眉姬对自己能力不足的认知，强化了核心信念'我不够好'和中间信念'如果我犯错，别人就会看不起我'。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次数学考试中，我只考了60分，老师在班级里批评了我的成绩。同学们窃窃私语，我觉得他们在嘲笑我。",
+                "location": "高中教室",
+                "happen_time": "2020年11月",
+                "participants": "老师、同学们",
+                "impact": "进一步加深了苗眉姬对自己能力不足和被排斥的感受，强化了核心信念'我不够好'和'我不值得被爱'。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到班上的一个同学因为成绩优秀被老师和同学们称赞，而我却从未得到过这样的认可。",
+                "happen_time": "2020年12月",
+                "participants": "老师、同学",
+                "impact": "强化了苗眉姬的中间信念'他人只会在我表现出色时才会认可我'，加重了她的自卑和无价值感。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "父母因为工作忙碌，很少有时间陪我。我想和他们谈谈我的困扰，却被他们以忙为借口推脱。我感到被忽视和不重要。",
+                "location": "家中",
+                "happen_time": "2021年1月",
+                "participants": "父母",
+                "impact": "强化了苗眉姬的核心信念'我不值得被爱'和中间信念'他人不会真正关心我的需求'，加剧了她的孤独感。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次体育课上，同学们在组队打篮球，没有人愿意选我加入他们的队伍，我感到被孤立和排斥。",
+                "location": "学校操场",
+                "happen_time": "2021年4月",
+                "participants": "同学们",
+                "impact": "强化了苗眉姬的核心信念'我不值得被爱'和中间信念'他人不会接纳我'，加重了她的自卑感和社交焦虑。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次晚自习，我因为无法集中注意力而无法完成作业，被老师批评后，我感到非常挫败和无助。",
+                "location": "教室",
+                "happen_time": "2021年6月",
+                "participants": "老师",
+                "impact": "加重了苗眉姬的核心信念'我没有能力应对挑战'和中间信念'我无法应对学习压力'，进一步导致她的情绪低落。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在学校里看到一个同学因为成绩差而被家长训斥，我感同身受，觉得自己如果成绩不好也会遭遇同样的对待。",
+                "happen_time": "2021年9月",
+                "participants": "同学、家长",
+                "impact": "强化了苗眉姬的中间信念'如果我不够努力，我就会被忽视'，加剧了她对学习的压力和焦虑。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "因为成绩下降，我越来越不想去上学，常常找借口请假。一天，妈妈发现了我在家里偷偷哭泣，但只是冷冷地说了句'你要振作起来'。",
+                "location": "家中",
+                "happen_time": "2022年1月",
+                "participants": "母亲",
+                "impact": "加重了苗眉姬的核心信念'我不值得被爱'和中间信念'我应该避免寻求帮助'，进一步加深了她的孤独和无助感。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在学校的一次集体活动中，我因为不擅长社交而被同学孤立，大家都在聊得很开心，而我一个人站在角落里。",
+                "location": "学校活动场地",
+                "happen_time": "2022年5月",
+                "participants": "同学们",
+                "impact": "加深了苗眉姬的核心信念'我不值得被爱'和中间信念'他人不会接纳我'，加剧了她的社交焦虑和孤独感。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到一个成绩优异的同学因为压力过大而崩溃，我开始怀疑即使我努力，也可能无法承受这种压力。",
+                "happen_time": "2022年9月",
+                "participants": "同学",
+                "impact": "强化了苗眉姬的中间信念'我无法应对学习压力'，加重了她对未来的担忧和无力感。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家长会上，老师向父母反馈我的成绩和表现，父母当着老师的面批评我不够努力，我感到非常羞愧和难过。",
+                "location": "学校",
+                "happen_time": "2023年1月",
+                "participants": "父母、老师",
+                "impact": "加深了苗眉姬的核心信念'我不值得被爱'和中间信念'他人只会在我表现出色时才会认可我'，进一步加重了她的自卑感和压力。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次上课时，我因注意力不集中而被老师点名批评，同学们都在看着我，我感到非常尴尬和无助。",
+                "location": "教室",
+                "happen_time": "2023年3月",
+                "participants": "老师、同学们",
+                "impact": "加重了苗眉姬的核心信念'我不够好'和中间信念'如果我犯错，别人就会看不起我'，进一步导致她的情绪低落和自我怀疑。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "目睹一个同学因为成绩不好而被同学们嘲笑，我感到非常同情，同时也担心自己会成为下一个被嘲笑的对象。",
+                "happen_time": "2023年5月",
+                "participants": "同学们",
+                "impact": "加重了苗眉姬的中间信念'他人会挑剔我的缺点'，进一步加深了她的焦虑和自卑感。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次晚自习后，我因为无法集中注意力而感到非常沮丧，回家后独自躲在房间里哭泣，觉得自己非常无能。",
+                "location": "家中",
+                "happen_time": "2023年8月",
+                "participants": "无",
+                "impact": "加重了苗眉姬的核心信念'我没有能力应对挑战'和中间信念'我无法应对学习压力'，进一步导致她的情绪低落和无助感。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在高三的一次模拟考试中，我的成绩再次不理想，老师当众批评我没有努力学习，父母回家后也责备我。",
+                "location": "学校、家中",
+                "happen_time": "2023年11月",
+                "participants": "老师、父母",
+                "impact": "加重了苗眉姬的核心信念'我不值得被爱'和中间信念'我必须比别人更努力'，进一步加深了她的自卑感和无助感。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到同学们在课间休息时快乐地聊天和嬉笑，我感到自己完全被排斥在外，无法融入他们的圈子。",
+                "happen_time": "2023年12月",
+                "participants": "同学们",
+                "impact": "加重了苗眉姬的核心信念'我无法适应新的环境'和中间信念'我应该尽量减少与新环境的接触'，进一步加深了她的孤独感和社交焦虑。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年1月的一天，我因为成绩和压力问题情绪崩溃，开始有自杀的念头，并在日记里写下了自己的绝望和无助。",
+                "location": "家中",
+                "happen_time": "2024年1月",
+                "participants": "无",
+                "impact": "进一步加重了苗眉姬的抑郁和自杀风险，强化了核心信念'我不值得被爱'和中间信念'如果我寻求帮助，我会被视为无能'。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年3月，父母发现了我的日记，但他们并没有表现出真正的关心，只是责备我不该有这样的想法。我感到更加绝望和孤独。",
+                "location": "家中",
+                "happen_time": "2024年3月",
+                "participants": "父母",
+                "impact": "进一步加重了苗眉姬的核心信念'我不值得被爱'和中间信念'他人不会真正关心我的需求'，加剧了她的抑郁和自杀风险。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年6月，因为学习压力和情绪问题，我开始无法正常入睡，常常彻夜失眠，白天也感到精神恍惚。",
+                "location": "家中",
+                "happen_time": "2024年6月",
+                "participants": "无",
+                "impact": "加重了苗眉姬的核心信念'我无法适应新的环境'和中间信念'我无法应对学习压力'，进一步加剧了她的抑郁和焦虑症状。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年8月的一天，我终于决定向学校的心理咨询老师寻求帮助，虽然内心非常害怕被视为无能，但我知道自己需要帮助。",
+                "location": "学校心理咨询室",
+                "happen_time": "2024年8月",
+                "participants": "心理咨询老师",
+                "impact": "这是苗眉姬开始面对自己问题的重要一步，虽然她仍然感到害怕和无助，但这是一个积极的转变，可能有助于她逐步摆脱抑郁和焦虑。"
+            }
+        ]
+    }
+}

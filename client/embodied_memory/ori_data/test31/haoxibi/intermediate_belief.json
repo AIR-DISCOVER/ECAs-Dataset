@@ -1,0 +1,326 @@
+{
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我的精神状态需要他人的关心和帮助。",
+                "others": "他人会理解并关心我的精神状态。",
+                "world": "世界上有许多人在乎别人的幸福和健康。"
+            },
+            "rules": "我应该向信任的人表达我的困扰和需求。",
+            "positive_assumption": "如果我表达需求，我会得到理解和帮助。",
+            "negative_assumption": "如果我不表达需求，我会感到孤立和不被理解。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要他人的支持来度过难关。",
+                "others": "他人愿意并能够帮助我。",
+                "world": "世界上有许多人愿意提供帮助。"
+            },
+            "rules": "我应该主动寻求他人的帮助。",
+            "positive_assumption": "如果我寻求帮助，我会得到支持并度过难关。",
+            "negative_assumption": "如果我不寻求帮助，我会感到孤立和无助。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力克服当前的困难。",
+                "others": "他人会理解和支持我。",
+                "world": "世界上有解决问题的方法。"
+            },
+            "rules": "我应该积极寻求解决方法，而不是逃避问题。",
+            "positive_assumption": "如果我积极寻求解决方法，我会克服困难。",
+            "negative_assumption": "如果我逃避问题，我会被困难击倒。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力完成我的目标。",
+                "others": "他人会支持和帮助我实现我的目标。",
+                "world": "世界充满机会，我可以把握它们。"
+            },
+            "rules": "我应该积极追求我的目标，并寻求他人的支持。",
+            "positive_assumption": "如果我努力并寻求帮助，我会实现我的目标。",
+            "negative_assumption": "如果我不努力或不寻求帮助，我会错失机会。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我的写作状态不好，说明我不够好。",
+                "others": "他人会失望于我的表现。",
+                "world": "世界对成功有严格的标准。"
+            },
+            "rules": "我必须保持高水平的写作，不然我就不值得被认可。",
+            "positive_assumption": "如果我持续改进我的写作，我会变得更好。",
+            "negative_assumption": "如果我不能维持高水平的写作，我就不会被认可。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能保持高效工作，那我就是失败的。",
+                "others": "他人会认为我不够努力或不够优秀。",
+                "world": "世界对失败者没有宽容。"
+            },
+            "rules": "我必须不断努力，不然我就会被视为失败者。",
+            "positive_assumption": "如果我一直努力工作，我会被认可和尊重。",
+            "negative_assumption": "如果我放松下来，我会被人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我的写作需要老师和朋友的指导和帮助。",
+                "others": "老师和朋友会理解并关心我的写作进展。",
+                "world": "世界上有许多人在乎别人的成功和成长。"
+            },
+            "rules": "我应该向信任的老师和朋友表达我的写作困扰和需求。",
+            "positive_assumption": "如果我表达需求，我会得到理解和帮助。",
+            "negative_assumption": "如果我不表达需求，我会感到孤立和不被理解。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要老师和朋友的支持来提升我的写作。",
+                "others": "老师和朋友愿意并能够帮助我。",
+                "world": "世界上有许多人愿意提供帮助。"
+            },
+            "rules": "我应该主动寻求老师和朋友的帮助。",
+            "positive_assumption": "如果我寻求帮助，我会得到支持并提升我的写作。",
+            "negative_assumption": "如果我不寻求帮助，我会感到孤立和无助。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力克服写作上的困难。",
+                "others": "老师和朋友会理解和支持我。",
+                "world": "世界上有解决问题的方法。"
+            },
+            "rules": "我应该积极寻求解决写作问题的方法，而不是逃避。",
+            "positive_assumption": "如果我积极寻求解决方法，我会克服写作上的困难。",
+            "negative_assumption": "如果我逃避问题，我会被写作上的困难击倒。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力完成我的写作目标。",
+                "others": "老师和朋友会支持和帮助我。",
+                "world": "世界充满机会，我可以把握它们。"
+            },
+            "rules": "我应该积极追求我的写作梦想，并寻求他人的支持。",
+            "positive_assumption": "如果我努力并寻求帮助，我会实现我的写作目标。",
+            "negative_assumption": "如果我不努力或不寻求帮助，我会错失机会。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我的写作水平不好，说明我不够好。",
+                "others": "他人会失望于我的作品。",
+                "world": "世界对成功有严格的标准。"
+            },
+            "rules": "我必须保持高水平的写作，不然我就不值得被认可。",
+            "positive_assumption": "如果我持续改进我的写作，我会变得更好。",
+            "negative_assumption": "如果我不能维持高水平的写作，我就不会被认可。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能写出好作品，那我就是失败的。",
+                "others": "他人会认为我的写作水平不够好。",
+                "world": "世界对失败者没有宽容。"
+            },
+            "rules": "我必须不断提升我的写作水平，不然我就会被视为失败者。",
+            "positive_assumption": "如果我一直努力写作，我会被认可和尊重。",
+            "negative_assumption": "如果我放松下来，我会被人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我的情感和学习状态需要他人的关心和帮助。",
+                "others": "家人和朋友会理解并关心我的状态。",
+                "world": "世界上有许多人在乎别人的幸福和成功。"
+            },
+            "rules": "我应该向家人和朋友表达我的困扰和需求。",
+            "positive_assumption": "如果我表达需求，我会得到理解和帮助。",
+            "negative_assumption": "如果我不表达需求，我会感到孤立和不被理解。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要家人和朋友的支持来度过学习和生活中的难关。",
+                "others": "家人和朋友愿意并能够帮助我。",
+                "world": "世界上有许多人愿意提供帮助。"
+            },
+            "rules": "我应该主动寻求家人和朋友的帮助。",
+            "positive_assumption": "如果我寻求帮助，我会得到支持并度过难关。",
+            "negative_assumption": "如果我不寻求帮助，我会感到孤立和无助。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力克服学习和生活中的困难。",
+                "others": "家人和朋友会理解和支持我。",
+                "world": "世界上有解决问题的方法。"
+            },
+            "rules": "我应该积极寻求解决学习和生活中的问题，而不是逃避。",
+            "positive_assumption": "如果我积极寻求解决方法，我会克服困难。",
+            "negative_assumption": "如果我逃避问题，我会被困难击倒。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在学业和写作上取得好成绩。",
+                "others": "家人和老师会支持我实现我的目标。",
+                "world": "世界上有许多机会，我可以抓住它们。"
+            },
+            "rules": "我应该努力学习和写作，并寻求家人和老师的帮助。",
+            "positive_assumption": "如果我努力并寻求帮助，我会在学业和写作上取得好成绩。",
+            "negative_assumption": "如果我不努力或不寻求帮助，我会错失很多机会。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我的写作水平不够好，说明我不够优秀。",
+                "others": "家人和朋友会对我的写作失望。",
+                "world": "世界只会认可高水平的作品。"
+            },
+            "rules": "我必须不断提高我的写作水平，不然我就不会被认可。",
+            "positive_assumption": "如果我提高我的写作水平，我会得到认可。",
+            "negative_assumption": "如果我不能提高我的写作水平，我就不会被认可。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能在学校表现优异，那我就是不够优秀的。",
+                "others": "同学和老师会认为我不够聪明或不够努力。",
+                "world": "世界只会认可那些表现优异的人。"
+            },
+            "rules": "我必须在学校表现优异，不然我就不会被认可。",
+            "positive_assumption": "如果我在学校表现优异，我会被同学和老师认可。",
+            "negative_assumption": "如果我在学校表现不好，我会被忽视和看不起。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

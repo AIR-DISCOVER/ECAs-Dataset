@@ -1,0 +1,168 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "细腻"
+        ],
+        "appearance": [
+            "中等身高",
+            "稍显肥胖",
+            "皮肤白皙",
+            "长发",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐"
+            ],
+            "activity": [
+                "独自一人画画",
+                "在图书馆安静地阅读"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高自己的学业成绩，找到学习的乐趣",
+            "long_term_goals": "成为一名优秀的插画师，能够通过自己的作品表达内心的情感"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到教室上课，下午在图书馆自习，晚上回宿舍后尝试入睡，但常常失眠。",
+            "weekends": "周末大部分时间在宿舍画画或阅读，有时会去校园附近的咖啡馆放松一下。"
+        },
+        "past_experiences": {
+            "childhood": "小时候在一个小城市长大，父母工作忙碌，常常独自一人玩耍。",
+            "adolescence": "中学时期成绩优异，但由于性格内向，朋友不多。高考失利后进入现在的大学，开始感到自信心下降。",
+            "recent_events": "最近因为想家和成绩不理想，情绪低落，开始出现抑郁症状。"
+        },
+        "environment": "出生在一个小城市，父母工作忙碌，家庭经济状况一般。高中毕业后考入省城的一所大学，目前住在学校宿舍。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "父亲：工作忙碌，虽然关心但缺乏陪伴，偶尔会带她去公园玩。",
+                        "母亲：同样工作繁忙，但会在晚上抽时间陪她做作业，关系较为亲密。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "唯一的朋友是邻居家的小女孩，两人经常一起玩耍，但关系并不深厚。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "父亲：依旧忙碌，偶尔会关心她的学习成绩。",
+                        "母亲：对她的学习成绩非常关注，常常督促她学习。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "班主任：对她的学习成绩非常关注，给予了很多帮助。",
+                        "数学老师：对她的数学成绩有很高的期望，关系较为亲密。",
+                        "英语老师：关系一般，但会在课后给予一些辅导。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "同班同学：关系一般，偶尔会一起讨论学习问题。",
+                        "邻居：关系一般，偶尔会一起玩耍。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "父亲：依旧忙碌，但会通过电话关心她的生活和学习。",
+                        "母亲：对她的情绪变化非常关注，常常打电话询问她的情况。"
+                    ]
+                },
+                {
+                    "relationship": "室友",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "室友A：关系一般，偶尔会一起吃饭。",
+                        "室友B：关系一般，偶尔会一起讨论学习问题。",
+                        "室友C：关系一般，偶尔会一起去图书馆。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "辅导员：对她的情绪变化有所察觉，给予了一些心理上的支持。",
+                        "专业课老师：关系一般，但会在课后给予一些学习上的指导。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "魏冬霭在不同阶段的社交关系变化较大。童年时期由于父母忙碌，社交圈子较小，主要依赖于家庭和邻居。进入青春期后，随着学业压力的增加，她的社交圈子逐渐扩展到学校，但由于性格内向，朋友不多。最近由于抑郁症状的出现，她的社交意愿进一步降低，主要依赖于室友和少数老师的支持。总体来看，她的社交能力和意愿在不同阶段都有所变化，受情绪和环境的影响较大。"
+    }
+}

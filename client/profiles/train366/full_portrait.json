@@ -1,0 +1,179 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "上进",
+            "焦虑",
+            "自卑"
+        ],
+        "appearance": [
+            "清秀",
+            "中等身材",
+            "黑发",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "推理小说",
+                "电影",
+                "写作",
+                "社交活动"
+            ],
+            "activity": [
+                "和朋友一起讨论推理小说",
+                "参加推理社活动",
+                "周末看电影"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "找到一份满意的工作，减轻对未来的焦虑",
+            "long_term_goals": "在职场上有所成就，能够自信地面对生活"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到学校上课，下午参加推理社活动或自习，晚上10点左右睡觉",
+            "weekends": "周末会和朋友一起看电影或讨论推理小说，有时会去图书馆看书"
+        },
+        "past_experiences": {
+            "childhood": "小时候在一个小城市长大，父母对她期望很高",
+            "adolescence": "中学时期成绩优异，但因为一次考试失利开始对自己产生怀疑",
+            "recent_events": "最近面临毕业和找工作压力，觉得自己简历不够出色，产生了自卑和焦虑情绪"
+        },
+        "environment": "出生在一个小城市，父母都是普通职工，从小被教育要努力学习。大学在大城市读书，面临更大的竞争压力。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父母对她期望很高，从小教育她要努力学习。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "小时候有几个玩伴，关系较好，但随着时间推移联系减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "中学时期父母对她的期望依然很高，但她开始对自己产生怀疑。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期成绩优异，但因为一次考试失利开始对自己产生怀疑，和同学的关系变得有些疏远。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "有两位老师对她影响较大，一位是班主任，另一位是数学老师。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "父母依然是她的坚强后盾，但她不想成为他们的负担。"
+                    ]
+                },
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "大学期间结交了几位好友，尤其是在推理社活动中建立了深厚的友谊。"
+                    ]
+                },
+                {
+                    "relationship": "推理社成员",
+                    "count": 6,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "推理社的成员们是她的重要社交圈子，他们经常一起讨论推理小说和参加活动。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "最近开始寻求心理支持，和心理咨询师建立了初步的信任关系。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "时妍纯的社交圈子在不同阶段有明显变化。童年时期主要依赖父母和几个玩伴，进入中学后，因学业压力和自我怀疑，社交关系变得疏远。大学期间，她通过推理社活动结交了新朋友，建立了新的社交圈子。面对毕业和找工作的压力，她开始寻求心理支持，尝试通过与心理咨询师的对话来缓解焦虑。总体来看，她的社交能力和意愿在不同阶段有所波动，但她始终在努力维持和建立有意义的社交关系。"
+    }
+}

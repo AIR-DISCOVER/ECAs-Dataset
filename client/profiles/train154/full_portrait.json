@@ -1,0 +1,168 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "谨慎",
+            "责任心强",
+            "有些完美主义",
+            "情绪化"
+        ],
+        "appearance": [
+            "中等身高",
+            "稍微有些发胖",
+            "黑色长发",
+            "皮肤白皙",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "看电影",
+                "烹饪"
+            ],
+            "activity": [
+                "周末去图书馆",
+                "尝试新食谱",
+                "和朋友一起看电影"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "顺利升职，提升工作能力",
+            "long_term_goals": "成为一名成功的职业女性，拥有自己的小家庭"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到公司上班，工作到下午5点，晚上回家后做饭，偶尔加班。",
+            "weekends": "周末通常会去图书馆看书，或者在家尝试新食谱，有时会和朋友一起看电影。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多。高考后考入了一所不错的大学。",
+            "recent_events": "最近在公司表现出色，正在争取升职，但也因此感到压力很大，导致情绪波动。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书，毕业后回到南京工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工程师，对何涵姣的学业要求非常严格，经常在她的学习上给予指导和压力。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲是一名小学教师，性格温和，但对何涵姣的期望也很高，经常在生活上给予关心和照顾。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "何涵姣在小学时有两个好朋友，虽然关系不错，但由于性格内向，她并不常与他们分享内心的想法。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "随着学业压力的增加，父亲对何涵姣的要求更加严格，导致两人之间的关系有些紧张。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是她生活中的重要支持者，但由于学业压力，何涵姣与母亲的交流也有所减少。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "中学时期，何涵姣的朋友不多，只有一位关系较好的同学，但她们之间的交流也主要集中在学习上。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "何涵姣在公司有几位同事关系较好，但由于工作压力大，她与同事的交流主要集中在工作上。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "何涵姣有两位大学时期的朋友，虽然工作后联系不多，但她们依然是她重要的情感支持。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "何涵姣最近开始定期看心理咨询师，希望通过专业帮助来缓解自己的情绪问题。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "何涵姣在不同阶段的社会关系有明显变化。童年时期，她的主要社会关系集中在家庭，父母对她的学业和生活有很大影响。进入青春期后，学业压力增加，她与父母的关系变得紧张，朋友也不多。进入职场后，她的社会关系主要集中在同事和少数几位大学朋友上。由于工作压力大，她的社交活动减少，情绪波动也影响了她的社交意愿。最近，她开始寻求心理咨询，希望通过专业帮助来改善自己的情绪和社交能力。"
+    }
+}

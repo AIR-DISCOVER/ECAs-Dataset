@@ -1,0 +1,326 @@
+{
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断学习和成长，才能实现自己的潜力。",
+                "others": "他人可能会提供帮助，但最终还是要靠自己。",
+                "world": "世界充满了学习和成长的机会，我需要抓住这些机会。"
+            },
+            "rules": "我应该不断学习和成长，以实现自己的潜力。",
+            "positive_assumption": "如果我不断学习和成长，我会变得更强大，并实现自己的潜力。",
+            "negative_assumption": "如果我停止学习和成长，我会停滞不前，失去实现潜力的机会。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我有潜力，但需要付出更多努力去实现。",
+                "others": "他人可能会帮助我，但最终还是要靠自己。",
+                "world": "世界充满机会，我需要抓住这些机会。"
+            },
+            "rules": "我应该积极寻找和抓住机会，努力实现自己的潜力。",
+            "positive_assumption": "如果我努力抓住机会，我会实现自己的潜力，并获得成功。",
+            "negative_assumption": "如果我错过机会，我会失去实现潜力的可能性，进而失败。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断提高自己，才能不被淘汰。",
+                "others": "他人总是期望我表现得更好。",
+                "world": "世界是一个不断变化的地方，我必须不断进步才能跟上。"
+            },
+            "rules": "我应该不断提升自己的能力，以应对各种挑战。",
+            "positive_assumption": "如果我不断提升自己，我会变得更强大和自信。",
+            "negative_assumption": "如果我停滞不前，我将会被他人超越和淘汰。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要表现完美，才能被他人认可。",
+                "others": "他人只会认可那些表现出色的人。",
+                "world": "世界充满了竞争，我只有做到最好才能立足。"
+            },
+            "rules": "我必须尽全力达到高标准，才能获得认可。",
+            "positive_assumption": "如果我达到高标准，我会被他人认可和尊重。",
+            "negative_assumption": "如果我未能达到高标准，我将被忽视和轻视。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我容易犯错，不值得被信任。",
+                "others": "他人会发现我的缺陷，进而远离我。",
+                "world": "世界是一个充满竞争和高要求的地方，我很难在其中立足。"
+            },
+            "rules": "我应该尽量避免犯错，以减少他人的失望。",
+            "positive_assumption": "如果我尽量避免犯错，我可能会被更多人接受。",
+            "negative_assumption": "如果我犯了错，我将被他人拒绝和批评。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是达不到自己的期望。",
+                "others": "他人会因为我的不足而失望。",
+                "world": "世界对我的要求很高，我总是很难满足。"
+            },
+            "rules": "我应该不断努力，以弥补我的不足。",
+            "positive_assumption": "如果我不断努力，我也许能逐渐改善自己。",
+            "negative_assumption": "如果我无法改善自己，我将永远达不到他人和自己的期望。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断学习和成长，才能实现自己的潜力。",
+                "others": "他人可能会提供帮助，但最终还是要靠自己。",
+                "world": "世界充满了学习和成长的机会，我需要抓住这些机会。"
+            },
+            "rules": "我应该不断学习和成长，以实现自己的潜力。",
+            "positive_assumption": "如果我不断学习和成长，我会变得更强大，并实现自己的潜力。",
+            "negative_assumption": "如果我停止学习和成长，我会停滞不前，失去实现潜力的机会。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我有潜力，但需要付出更多努力去实现。",
+                "others": "他人可能会帮助我，但最终还是要靠自己。",
+                "world": "世界充满机会，我需要抓住这些机会。"
+            },
+            "rules": "我应该积极寻找和抓住机会，努力实现自己的潜力。",
+            "positive_assumption": "如果我努力抓住机会，我会实现自己的潜力，并获得成功。",
+            "negative_assumption": "如果我错过机会，我会失去实现潜力的可能性，进而失败。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断提高自己，才能不被淘汰。",
+                "others": "他人总是期望我表现得更好。",
+                "world": "世界是一个不断变化的地方，我必须不断进步才能跟上。"
+            },
+            "rules": "我应该不断提升自己的能力，以应对各种挑战。",
+            "positive_assumption": "如果我不断提升自己，我会变得更强大和自信。",
+            "negative_assumption": "如果我停滞不前，我将会被他人超越和淘汰。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要表现完美，才能被他人认可。",
+                "others": "他人只会认可那些表现出色的人。",
+                "world": "世界充满了竞争，我只有做到最好才能立足。"
+            },
+            "rules": "我必须尽全力达到高标准，才能获得认可。",
+            "positive_assumption": "如果我达到高标准，我会被他人认可和尊重。",
+            "negative_assumption": "如果我未能达到高标准，我将被忽视和轻视。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我容易犯错，不值得被信任。",
+                "others": "他人会发现我的缺陷，进而远离我。",
+                "world": "世界是一个充满竞争和高要求的地方，我很难在其中立足。"
+            },
+            "rules": "我应该尽量避免犯错，以减少他人的失望。",
+            "positive_assumption": "如果我尽量避免犯错，我可能会被更多人接受。",
+            "negative_assumption": "如果我犯了错，我将被他人拒绝和批评。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是觉得自己不够好。",
+                "others": "他人会因为我的不足而失望。",
+                "world": "世界对我的要求很高，我总是很难满足。"
+            },
+            "rules": "我应该不断努力，以弥补我的不足。",
+            "positive_assumption": "如果我不断努力，我也许能逐渐改善自己。",
+            "negative_assumption": "如果我无法改善自己，我将永远达不到他人和自己的期望。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断学习和成长，才能实现自己的潜力。",
+                "others": "父母可能会提供帮助，但最终还是要靠自己。",
+                "world": "世界充满了学习和成长的机会，我需要抓住这些机会。"
+            },
+            "rules": "我应该不断学习和成长，以实现自己的潜力。",
+            "positive_assumption": "如果我不断学习和成长，我会变得更强大，并实现自己的潜力。",
+            "negative_assumption": "如果我停止学习和成长，我会停滞不前，失去实现潜力的机会。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有潜力，但需要付出更多努力去实现。",
+                "others": "父母可能会帮助我，但最终还是要靠自己。",
+                "world": "世界充满机会，我需要抓住这些机会。"
+            },
+            "rules": "我应该积极寻找和抓住机会，努力实现自己的潜力。",
+            "positive_assumption": "如果我努力抓住机会，我会实现自己的潜力，并获得成功。",
+            "negative_assumption": "如果我错过机会，我会失去实现潜力的可能性，进而失败。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断提高自己，才能不被淘汰。",
+                "others": "父母总是期望我表现得更好。",
+                "world": "世界是一个不断变化的地方，我必须不断进步才能跟上。"
+            },
+            "rules": "我应该不断提升自己的能力，以应对各种挑战。",
+            "positive_assumption": "如果我不断提升自己，我会变得更强大和自信。",
+            "negative_assumption": "如果我停滞不前，我将会被他人超越和淘汰。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要表现完美，才能被父母认可。",
+                "others": "父母只会认可那些表现出色的孩子。",
+                "world": "世界充满了竞争，我只有做到最好才能立足。"
+            },
+            "rules": "我必须尽全力达到高标准，才能获得父母的认可。",
+            "positive_assumption": "如果我达到高标准，我会被父母认可和尊重。",
+            "negative_assumption": "如果我未能达到高标准，我将被忽视和轻视。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我容易犯错，不值得被父母信任。",
+                "others": "父母会发现我的缺陷，进而失望。",
+                "world": "世界是一个充满竞争和高要求的地方，我很难在其中立足。"
+            },
+            "rules": "我应该尽量避免犯错，以减少父母的失望。",
+            "positive_assumption": "如果我尽量避免犯错，我可能会被父母接受。",
+            "negative_assumption": "如果我犯了错，我将被父母拒绝和批评。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是达不到父母的期望。",
+                "others": "父母会因为我成绩不理想而失望。",
+                "world": "世界对我的要求很高，我总是很难满足。"
+            },
+            "rules": "我应该不断努力，以弥补我的不足。",
+            "positive_assumption": "如果我不断努力，我也许能逐渐改善自己。",
+            "negative_assumption": "如果我无法改善自己，我将永远达不到父母和自己的期望。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

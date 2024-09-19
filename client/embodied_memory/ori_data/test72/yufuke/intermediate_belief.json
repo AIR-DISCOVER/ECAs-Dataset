@@ -1,0 +1,488 @@
+{
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须隐藏我的脆弱，不让他人看到。",
+                "others": "他人不会真正关心我的感受。",
+                "world": "在这个世界上，只有强者才能生存。"
+            },
+            "rules": "我应该隐藏我的情感，不让别人知道我的困难。",
+            "positive_assumption": "如果我隐藏困难，我会被看作坚强和独立。",
+            "negative_assumption": "如果我暴露脆弱，我会被认为是无能和软弱。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能依赖他人，必须独立解决问题。",
+                "others": "他人不会真正理解我的困难。",
+                "world": "这个世界是冷漠的，每个人都得自己承担责任。"
+            },
+            "rules": "我应该独自面对和解决所有问题。",
+            "positive_assumption": "如果我独自解决问题，我会证明自己的能力。",
+            "negative_assumption": "如果我依赖他人，我会显得软弱和无能。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我能找到解决问题的方法。",
+                "others": "他人也会遇到困难，但我们可以互相支持。",
+                "world": "这个世界是公平的，努力会有回报。"
+            },
+            "rules": "我应该积极寻找解决问题的办法。",
+            "positive_assumption": "如果我积极面对，我会找到解决问题的途径。",
+            "negative_assumption": "如果我放弃，我会失去解决问题的机会。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对生活中的挑战。",
+                "others": "他人在关键时刻会给予我支持。",
+                "world": "世界虽然充满挑战，但我可以应对。"
+            },
+            "rules": "我应该保持乐观，并积极应对生活中的困难。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须承担起照顾母亲的责任。",
+                "others": "他人无法理解我的责任。",
+                "world": "在这个世界上，只有我能照顾好母亲。"
+            },
+            "rules": "我应该把母亲的需要放在首位。",
+            "positive_assumption": "如果我照顾好母亲，我会感到安心和满足。",
+            "negative_assumption": "如果我无法照顾好母亲，我会感到内疚和自责。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断提升自己。",
+                "others": "他人可能会看不起我。",
+                "world": "在这个竞争激烈的世界，我必须不断进步。"
+            },
+            "rules": "我不能懈怠，必须保持进步。",
+            "positive_assumption": "如果我保持努力，我会赢得他人的认可。",
+            "negative_assumption": "如果我停滞不前，我会被他人抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断努力，才能证明自己。",
+                "others": "他人总是比我优秀。",
+                "world": "世界对我来说充满了挑战，我必须时刻准备应对。"
+            },
+            "rules": "我必须拼尽全力，无论如何都不能失败。",
+            "positive_assumption": "如果我不断努力，我会变得更好。",
+            "negative_assumption": "如果我失败了，那就证明我真的不够好。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须隐藏我的脆弱，不让他人看到。",
+                "others": "他人不会真正关心我的感受。",
+                "world": "在这个世界上，只有强者才能生存。"
+            },
+            "rules": "我应该隐藏我的情感，不让别人知道我的困难。",
+            "positive_assumption": "如果我隐藏困难，我会被看作坚强和独立。",
+            "negative_assumption": "如果我暴露脆弱，我会被认为是无能和软弱。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能依赖他人，必须独立解决问题。",
+                "others": "他人不会真正理解我的困难。",
+                "world": "这个世界是冷漠的，每个人都得自己承担责任。"
+            },
+            "rules": "我应该独自面对和解决所有问题。",
+            "positive_assumption": "如果我独自解决问题，我会证明自己的能力。",
+            "negative_assumption": "如果我依赖他人，我会显得软弱和无能。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我能找到解决问题的方法。",
+                "others": "他人也会遇到困难，但我们可以互相支持。",
+                "world": "这个世界是公平的，努力会有回报。"
+            },
+            "rules": "我应该积极寻找解决问题的办法。",
+            "positive_assumption": "如果我积极面对，我会找到解决问题的途径。",
+            "negative_assumption": "如果我放弃，我会失去解决问题的机会。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对生活中的挑战。",
+                "others": "他人在关键时刻会给予我支持。",
+                "world": "世界虽然充满挑战，但我可以应对。"
+            },
+            "rules": "我应该保持乐观，并积极应对生活中的困难。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须承担起照顾母亲的责任。",
+                "others": "他人无法理解我的责任。",
+                "world": "在这个世界上，只有我能照顾好母亲。"
+            },
+            "rules": "我应该把母亲的需要放在首位。",
+            "positive_assumption": "如果我照顾好母亲，我会感到安心和满足。",
+            "negative_assumption": "如果我无法照顾好母亲，我会感到内疚和自责。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断提升自己。",
+                "others": "他人可能会看不起我。",
+                "world": "在这个竞争激烈的世界，我必须不断进步。"
+            },
+            "rules": "我不能懈怠，必须保持进步。",
+            "positive_assumption": "如果我保持努力，我会赢得他人的认可。",
+            "negative_assumption": "如果我停滞不前，我会被他人抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断努力，才能证明自己。",
+                "others": "他人总是比我优秀。",
+                "world": "世界对我来说充满了挑战，我必须时刻准备应对。"
+            },
+            "rules": "我必须拼尽全力，无论如何都不能失败。",
+            "positive_assumption": "如果我不断努力，我会变得更好。",
+            "negative_assumption": "如果我失败了，那就证明我真的不够好。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须隐藏我的脆弱，不让他人看到。",
+                "others": "他人不会真正关心我的感受。",
+                "world": "在这个世界上，只有强者才能生存。"
+            },
+            "rules": "我应该隐藏我的情感，不让别人知道我的困难。",
+            "positive_assumption": "如果我隐藏困难，我会被看作坚强和独立。",
+            "negative_assumption": "如果我暴露脆弱，我会被认为是无能和软弱。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能依赖他人，必须独立解决问题。",
+                "others": "同学和朋友不会真正理解我的困难。",
+                "world": "这个世界是冷漠的，每个人都得自己承担责任。"
+            },
+            "rules": "我应该独自面对和解决所有问题。",
+            "positive_assumption": "如果我独自解决问题，我会证明自己的能力。",
+            "negative_assumption": "如果我依赖他人，我会显得软弱和无能。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我能找到解决问题的方法。",
+                "others": "他人也会遇到困难，但我们可以互相支持。",
+                "world": "这个世界是公平的，努力会有回报。"
+            },
+            "rules": "我应该积极寻找解决问题的办法。",
+            "positive_assumption": "如果我积极面对，我会找到解决问题的途径。",
+            "negative_assumption": "如果我放弃，我会失去解决问题的机会。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对生活中的挑战。",
+                "others": "老师和家人会在关键时刻给予我支持。",
+                "world": "世界虽然充满挑战，但我可以应对。"
+            },
+            "rules": "我应该保持乐观，并积极应对生活中的困难。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须承担起照顾家庭的责任。",
+                "others": "他人不会理解我所承担的责任。",
+                "world": "在这个世界上，只有我能照顾好家人。"
+            },
+            "rules": "我应该把家庭的需要放在首位。",
+            "positive_assumption": "如果我照顾好家庭，我会感到安心和满足。",
+            "negative_assumption": "如果我无法照顾好家庭，我会感到内疚和自责。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断提升自己。",
+                "others": "他人可能会看不起我的家庭条件。",
+                "world": "在这个竞争激烈的世界，我必须不断进步。"
+            },
+            "rules": "我不能懈怠，必须保持进步。",
+            "positive_assumption": "如果我保持努力，我会赢得他人的认可。",
+            "negative_assumption": "如果我停滞不前，我会被他人抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在学业上取得优异成绩，才能证明自己。",
+                "others": "他人总是比我更有条件。",
+                "world": "世界对我来说充满了不公平，我必须加倍努力。"
+            },
+            "rules": "我必须拼尽全力，在学业上取得最好成绩。",
+            "positive_assumption": "如果我在学业上取得优异成绩，我会变得更好。",
+            "negative_assumption": "如果我在学业上失败了，那就证明我真的不够好。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我能找到解决问题的方法。",
+                "others": "母亲也会遇到困难，但我们可以互相支持。",
+                "world": "这个世界虽然艰难，但努力会有回报。"
+            },
+            "rules": "我应该积极寻找解决问题的办法。",
+            "positive_assumption": "如果我积极面对，我会找到解决问题的途径。",
+            "negative_assumption": "如果我放弃，我会失去解决问题的机会。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对学业和家庭的挑战。",
+                "others": "母亲在关键时刻会支持我。",
+                "world": "虽然生活充满挑战，但我可以应对。"
+            },
+            "rules": "我应该保持积极，并努力克服困难。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须尽力让母亲生活得更好。",
+                "others": "他人无法理解我和母亲的生活状况。",
+                "world": "在这个世界上，只有我能让母亲过得更好。"
+            },
+            "rules": "我应该努力让母亲开心和满意。",
+            "positive_assumption": "如果我让母亲开心，我会感到成就感。",
+            "negative_assumption": "如果我无法让母亲开心，我会感到失败。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须帮助母亲分担家庭的重担。",
+                "others": "他人不会理解我的家庭责任。",
+                "world": "在这个世界上，我必须承担照顾母亲的责任。"
+            },
+            "rules": "我应该把家庭责任放在首位。",
+            "positive_assumption": "如果我帮助母亲，我会感到安心和满足。",
+            "negative_assumption": "如果我无法帮助母亲，我会感到内疚和自责。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要在家务上帮助母亲，以证明我的价值。",
+                "others": "其他家庭的孩子可能比我过得更轻松。",
+                "world": "在这个家庭中，我必须承担更多责任。"
+            },
+            "rules": "我不能懈怠，必须在家务上帮助母亲。",
+            "positive_assumption": "如果我帮助母亲，我会赢得她的认可和爱。",
+            "negative_assumption": "如果我不帮母亲，我会被认为是不孝和不负责。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在学业上表现得很好，才能证明自己。",
+                "others": "同学们总是比我优秀。",
+                "world": "这个世界对我来说充满了挑战，我必须时刻努力。"
+            },
+            "rules": "我必须努力学习，无论如何都不能表现得差。",
+            "positive_assumption": "如果我在学业上努力，我会变得更好。",
+            "negative_assumption": "如果我在学业上失败了，那就证明我真的不够好。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我无法掌控我的生活。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我值得被关心和帮助。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我做得不够好，我就没有价值。",
+                "others": "别人会看不起我，因为我不够好。",
+                "world": "这个世界只认可成功的人。"
+            },
+            "rules": "我必须不断努力，避免犯错，才能被认可。",
+            "positive_assumption": "如果我努力并且不犯错，我就会被认可和接受。",
+            "negative_assumption": "如果我犯错或表现不好，别人就会看不起我。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须不断提高自己，否则我就不配得到他人的尊重。",
+                "others": "别人只尊重那些表现出色的人。",
+                "world": "这个世界是竞争激烈的，只有最好的人才能生存。"
+            },
+            "rules": "我需要不断提高自己，避免被他人看不起。",
+            "positive_assumption": "如果我不断提高自己，我就会被尊重。",
+            "negative_assumption": "如果我停滞不前，我就会被别人看不起。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法控制我的生活，事情总是出乎我的意料。",
+                "others": "别人不会理解我所面对的困境。",
+                "world": "这个世界充满了不可预知的挑战和困难。"
+            },
+            "rules": "我应该尽量避免做出决定，因为我总会出错。",
+            "positive_assumption": "如果我避免做决定，我就不会犯错。",
+            "negative_assumption": "如果我做决定，我就会犯错并且失败。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我没有能力掌控自己的生活，任何努力都是徒劳的。",
+                "others": "别人不会支持我，他们也有自己的问题。",
+                "world": "这个世界对我充满敌意和挑战。"
+            },
+            "rules": "我应该尽量减少对生活的期望，以避免失望。",
+            "positive_assumption": "如果我减少对生活的期望，我就不会感到失望。",
+            "negative_assumption": "如果我对生活有期望，我就会不断失望。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有时也值得被关心和帮助。",
+                "others": "有些人是愿意理解和帮助我的。",
+                "world": "这个世界上也有一些善良的人。"
+            },
+            "rules": "我应该勇敢地寻求帮助，尤其是在我需要的时候。",
+            "positive_assumption": "如果我寻求帮助，我会得到支持和理解。",
+            "negative_assumption": "如果我不寻求帮助，我会陷入更深的困境。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有权利得到他人的关心和帮助。",
+                "others": "有些人会愿意帮助我。",
+                "world": "世界上有很多人愿意伸出援手。"
+            },
+            "rules": "我应该主动表达我的需求，以便得到他人的帮助。",
+            "positive_assumption": "如果我主动表达需求，我会得到他人的支持。",
+            "negative_assumption": "如果我不表达需求，我可能会错失得到帮助的机会。"
+        }
+    ]
+}

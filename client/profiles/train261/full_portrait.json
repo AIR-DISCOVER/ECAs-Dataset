@@ -1,0 +1,165 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "勤奋",
+            "有责任心",
+            "内向",
+            "有些焦虑",
+            "自我要求高"
+        ],
+        "appearance": [
+            "中等身高",
+            "苗条",
+            "长发",
+            "戴眼镜",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "看电影",
+                "散步"
+            ],
+            "activity": [
+                "周末去公园散步",
+                "和朋友一起看电影",
+                "独自阅读"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "找到一份更满意的工作",
+            "long_term_goals": "在技术领域有所成就，成为一名技术专家"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点上班，晚上6点下班后回家做饭，晚上10点左右睡觉。",
+            "weekends": "周末通常会去公园散步，或者和朋友一起看电影，有时会在家里阅读和听音乐。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，考上了985大学，大学期间一直保持着优异的成绩。",
+            "recent_events": "最近工作压力较大，感觉付出和收入不成正比，导致记忆力下降和疲倦感增加。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书，毕业后回到南京工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "潘丹冬的父亲是一名工厂工人，工作辛苦但对家庭非常负责。潘丹冬从小就受到父亲的严格教育，父亲希望她能通过努力学习改变家庭的命运。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "潘丹冬的母亲是一名小学教师，温柔而有耐心。母亲在潘丹冬的成长过程中给予了她很多情感上的支持和鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "潘丹冬在小学时有两个好朋友，一个是邻居家的小女孩，另一个是班上的同学。她们经常一起玩耍，分享彼此的小秘密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "在中学时期，潘丹冬与班上的几位同学关系较好。她们一起学习、讨论问题，也会在课余时间一起参加课外活动。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "潘丹冬的几位老师对她的学习和成长起到了重要的指导作用。特别是班主任和数学老师，他们不仅在学业上给予了她很多帮助，也在生活中关心她的成长。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "潘丹冬在工作中与几位同事关系较为密切。虽然工作压力大，但她们会在工作之余互相支持和鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "潘丹冬在南京有几位大学时期的朋友，虽然大家工作忙碌，但仍会在周末或节假日聚会，分享彼此的生活和工作经历。"
+                    ]
+                },
+                {
+                    "relationship": "家人",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "潘丹冬与父母的关系依然非常亲密。虽然工作后回家的时间少了，但她会经常打电话与父母沟通，分享自己的生活和工作情况。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "潘丹冬的社交圈在不同阶段有明显的变化。童年时期，她的社交主要集中在家庭和邻里之间；中学时期，她的社交圈扩大到学校和课外活动；进入职场后，她的社交圈主要集中在工作和少数几位大学朋友之间。尽管工作压力大，但她依然保持着与家人和朋友的紧密联系。"
+    }
+}

@@ -1,0 +1,1770 @@
+{
+    "node_103": {
+        "page_content": "2024年8月10日下午2:20，在医院的走廊上，我看到父母又因为我的事情争吵起来。走廊里冷白的灯光让他们的脸显得更加紧绷。母亲焦急地对父亲说他不关心我的心理状况，父亲则反驳说母亲的过度关心反而让情况更糟。两人声音越来越大，吸引了周围病人的目光。我站在一旁，手心冒汗，心里充满了自责和无助，觉得自己是他们争吵的根源。母亲气得转身离开，父亲则双手插兜，站在原地叹气。我觉得自己的未来没有希望，也不值得被爱，感到深深的无力和绝望。",
+        "metadata": {
+            "node_id": "node_103",
+            "node_type": "long_term",
+            "event_id": "20",
+            "extended_event_id": "20_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不值得被爱，我是他们争吵的根源。",
+            "emotion": "深深的无力和绝望",
+            "behavior": "沉默不语，避免与他们对视，想要逃离现场。",
+            "physiological_response": "手心冒汗，身体疲倦，头晕，出冷汗。",
+            "created_at": "2024-08-10 14:20:00"
+        }
+    },
+    "node_102": {
+        "page_content": "2024年3月15日晚上8:45，晚饭后的餐桌旁，父母因为我的未来规划问题再次发生争吵。桌上还摆着未收拾的餐具，气氛紧张得令人窒息。母亲坚决主张我去补习班，说这对我未来有帮助。父亲却认为我需要时间调整，不能再给我更多的压力。两人争得面红耳赤，声音越来越大。我坐在椅子上，低着头，心里觉得自己是家庭矛盾的中心，感到无比的自责和无助。母亲甚至开始哭泣，父亲则烦躁地站起身，拿起衣服就出了门。我觉得自己没有能力应对生活中的挑战，也无法做到完美，心情更加低落。",
+        "metadata": {
+            "node_id": "node_102",
+            "node_type": "long_term",
+            "event_id": "20",
+            "extended_event_id": "20_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我没有这些问题，父母就不会争吵，我真是个累赘。",
+            "emotion": "强烈的自责和无助感",
+            "behavior": "沉默不语，低着头，不敢与父母对视",
+            "physiological_response": "心跳加快，呼吸急促，出冷汗",
+            "created_at": "2024-03-15 20:45:00"
+        }
+    },
+    "node_101": {
+        "page_content": "2023年6月25日上午10:30，在家中的客厅里，父母因为我的高考成绩不理想而发生了激烈的争吵。母亲站在客厅中央，指责父亲没有尽到教育责任，声音尖锐刺耳。父亲则站在一旁，脸色铁青，反驳说母亲对我的期望太高，给我施加了太大的压力。我站在一旁，手足无措，感觉自己就是他们争吵的根源。母亲愤怒地挥手打翻了桌上的杯子，水洒了一地，父亲也气得摔门而出。我感到一阵阵的无助和自责，眼泪不由自主地流下来，心里想着自己是不是不值得被爱，未来也毫无希望。",
+        "metadata": {
+            "node_id": "node_101",
+            "node_type": "long_term",
+            "event_id": "20",
+            "extended_event_id": "20_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我成绩好一点，他们就不会吵架，是不是因为我不值得被爱。",
+            "emotion": "极度的无助和自责，强烈的悲伤",
+            "behavior": "哭泣，躲到自己的房间里不愿意与人交流",
+            "physiological_response": "心跳加快，出冷汗，头晕",
+            "created_at": "2023-06-25 10:30:00"
+        }
+    },
+    "node_100": {
+        "page_content": "2024年8月5日凌晨，我独自一人坐在浴室里，心中充满了绝望和无助。我拿起了刀片，眼泪模糊了视线，手也在颤抖。割腕的瞬间，我感到一阵剧痛，但内心却有一种解脱的感觉。然而，血流得越来越多，我开始感到头晕目眩。就在这时，父母发现了我，他们惊慌失措地将我送往医院。在急救室里，医护人员忙碌地抢救着我，我恍惚间感受到父母的恐慌和担忧。这次经历让我感到自己达到了心理的极限，同时也意识到父母对我的重视，但内心的无望感依然挥之不去。",
+        "metadata": {
+            "node_id": "node_100",
+            "node_type": "long_term",
+            "event_id": "19",
+            "extended_event_id": "19_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来毫无希望，所有的努力都是徒劳的。",
+            "emotion": "极度的绝望和无助",
+            "behavior": "割腕自杀",
+            "physiological_response": "头晕目眩，出冷汗",
+            "created_at": "2024-08-05 02:30:00"
+        }
+    },
+    "node_99": {
+        "page_content": "2024年7月15日晚，我在卧室里做功课，听到父母在客厅里又吵起来了。他们的声音越来越大，尖锐的话语穿透了房门，直接刺进我的心里。我蜷缩在床上，捂住耳朵，希望这些声音能消失。可是争吵声没有停止，反而变得更加激烈。我感到无比无助和孤独，眼泪止不住地流，心里觉得自己完全没有依靠，仿佛整个家庭都是冷漠无情的。",
+        "metadata": {
+            "node_id": "node_99",
+            "node_type": "long_term",
+            "event_id": "19",
+            "extended_event_id": "19_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不值得被爱，我的家庭是冷漠和无情的。",
+            "emotion": "极度无助和悲伤",
+            "behavior": "蜷缩在床上，捂住耳朵，哭泣",
+            "physiological_response": "心跳加速，出冷汗，头晕",
+            "created_at": "2024-07-15 21:45:00"
+        }
+    },
+    "node_98": {
+        "page_content": "2024年6月23日下午，成绩单一发布，我的心就沉到了谷底。我看着成绩单，感觉眼前一片模糊。父母坐在沙发上，满怀期待地看着我。当我告诉他们成绩时，父亲的脸色瞬间变了，母亲的眼神里充满了失望。我感到胸口一阵闷痛，仿佛整个世界都在嘲笑我。我低着头，眼泪不由自主地流了下来，内心深深自责，觉得自己辜负了所有人的期望。",
+        "metadata": {
+            "node_id": "node_98",
+            "node_type": "long_term",
+            "event_id": "19",
+            "extended_event_id": "19_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来毫无希望，我永远无法让父母满意。",
+            "emotion": "极度失望和绝望，深深的自责和内疚",
+            "behavior": "哭泣，回避与父母的眼神接触，可能会有自我伤害的行为",
+            "physiological_response": "胸口闷痛，心跳加速，出冷汗，头晕",
+            "created_at": "2024-06-23 14:30:00"
+        }
+    },
+    "node_97": {
+        "page_content": "2024年7月15日深夜，我在床上辗转反侧，脑海中不断回放着那则新闻和朋友们的反应。我开始怀疑自己的价值和未来的希望，感到自己不值得被爱，无法应对生活中的挑战。最终，我情绪崩溃，泪水模糊了双眼，负面情绪和自杀念头在夜晚尤为强烈，影响了我的睡眠和精神状态。",
+        "metadata": {
+            "node_id": "node_97",
+            "node_type": "long_term",
+            "event_id": "18",
+            "extended_event_id": "18_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不值得被爱，朋友们也不会真的关心我。",
+            "emotion": "深深的悲伤和绝望",
+            "behavior": "失控地哭泣，不愿与任何人交流，产生自杀念头。",
+            "physiological_response": "心跳加速，呼吸急促，出冷汗，头晕。",
+            "created_at": "2024-07-15 23:47:00"
+        }
+    },
+    "node_96": {
+        "page_content": "2024年7月10日中午，在学校的食堂，我和两个朋友聊起了那则新闻。她们看着我忧虑的表情，试图安慰我，说那只是个别案例，让我不要太担心。然而，我却觉得她们无法理解我的内心恐惧。她们的安慰虽然在表面上让我感到一丝温暖，但我内心深处依然感到孤独和无助。",
+        "metadata": {
+            "node_id": "node_96",
+            "node_type": "long_term",
+            "event_id": "18",
+            "extended_event_id": "18_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "她们根本无法理解我，也许她们只是表面上关心我，但内心并不在乎。",
+            "emotion": "孤独、无助",
+            "behavior": "沉默不语，避免进一步的交流。",
+            "physiological_response": "心情沉重，感到胃部不适，出冷汗。",
+            "created_at": "2024-07-10 12:30:00"
+        }
+    },
+    "node_95": {
+        "page_content": "2024年7月7日下午，我在家里的客厅随意地换着频道，突然一则新闻引起了我的注意：一位高三学生因抑郁症自杀。我愣住了，心跳加速，手中的遥控器差点掉到地上。这个新闻让我感到非常震惊和害怕，似乎那种绝望的情绪也在向我袭来。",
+        "metadata": {
+            "node_id": "node_95",
+            "node_type": "long_term",
+            "event_id": "18",
+            "extended_event_id": "18_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来也是毫无希望的，我可能也会走上这条路。",
+            "emotion": "极度恐惧和绝望",
+            "behavior": "失声痛哭，无法继续看电视，可能会试图逃避这些想法，躲进自己的房间。",
+            "physiological_response": "心跳加速，手抖，出冷汗，头晕目眩。",
+            "created_at": "2024-07-07 14:45:00"
+        }
+    },
+    "node_94": {
+        "page_content": "2024年6月5日晚上，在家里的卧室，我和互助群里的一位同龄女孩小丽聊得很投机。她和我的情况很相似，我们互相鼓励，分享彼此的感受。我感到一丝希望，觉得终于有人理解我了。但这种希望是短暂的，因为我知道她的情况也没有好转。",
+        "metadata": {
+            "node_id": "node_94",
+            "node_type": "long_term",
+            "event_id": "17",
+            "extended_event_id": "17_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "即使有人理解我，我们的未来还是没有希望。",
+            "emotion": "失望和无助",
+            "behavior": "减少与小丽的联系，回避其他社交活动",
+            "physiological_response": "感到胸闷，出冷汗",
+            "created_at": "2024-06-05 22:15:00"
+        }
+    },
+    "node_93": {
+        "page_content": "2024年1月10日晚上，在家里的卧室，我鼓起勇气第一次参与了抑郁症互助群的群聊。大家都在分享自己的经历，有些人比我还要痛苦。我一边看着屏幕上的文字，一边心里涌起一阵阵的无力感。我想要安慰他们，但又觉得自己也无能为力。",
+        "metadata": {
+            "node_id": "node_93",
+            "node_type": "long_term",
+            "event_id": "17",
+            "extended_event_id": "17_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我根本无法帮助别人，我连自己的问题都解决不了。",
+            "emotion": "无力感、沮丧",
+            "behavior": "停止参与群聊，回避与他人互动。",
+            "physiological_response": "心跳加快，感到疲倦，出冷汗。",
+            "created_at": "2024-01-10 21:30:00"
+        }
+    },
+    "node_92": {
+        "page_content": "2023年12月15日晚上，在家里的客厅，父母因为我最近的成绩和状态对我大发雷霆。我感到无比的压抑和无助，泪水不停地往下流。我走进房间，关上门，打开电脑，想要找个出口。我在搜索栏里输入了'抑郁症'，发现了一个互助群，里面有很多和我一样的人。我觉得自己找到了稍许的慰藉，但心中依然充满了无力感。",
+        "metadata": {
+            "node_id": "node_92",
+            "node_type": "long_term",
+            "event_id": "17",
+            "extended_event_id": "17_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们对我大发雷霆是因为我不值得被爱。",
+            "emotion": "悲伤、绝望、无助",
+            "behavior": "关上门，避免与父母交流，寻找互助群以寻求情感支持。",
+            "physiological_response": "泪水不断流，感觉胸口压抑，出冷汗，头晕。",
+            "created_at": "2023-12-15 20:45:00"
+        }
+    },
+    "node_91": {
+        "page_content": "2024年5月25日凌晨，我躺在家里的卧室床上，四周寂静，但我却无法入睡。失眠的问题越来越严重，整夜辗转反侧，脑海中满是对未来的担忧和自责。白天也无法正常休息，情绪变得更加不稳定。我开始觉得自己对家庭和学业都是一种负担，内心的自罪感和自杀观念逐渐浮现，觉得自己对未来彻底失去了希望。",
+        "metadata": {
+            "node_id": "node_91",
+            "node_type": "long_term",
+            "event_id": "16",
+            "extended_event_id": "16_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来毫无希望，我永远无法摆脱这种困境。",
+            "emotion": "绝望、无助、强烈的自责感",
+            "behavior": "辗转反侧，无法入睡，可能产生自伤或自杀行为",
+            "physiological_response": "心跳加快，出冷汗，头晕，胃部不适",
+            "created_at": "2024-05-25 02:00:00"
+        }
+    },
+    "node_90": {
+        "page_content": "2024年5月15日上午，我在学校的教室里上课。窗外阳光明亮，但我却感到昏昏欲睡。老师在讲台上讲解重要的考点，而我却频繁走神，根本无法集中注意力。老师看出了我的异样，点名批评了我。同学们的目光让我感到更加自卑和无助。我内心深深地自我怀疑，觉得自己没有能力应对生活中的挑战。",
+        "metadata": {
+            "node_id": "node_90",
+            "node_type": "long_term",
+            "event_id": "16",
+            "extended_event_id": "16_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我无法应对这些挑战，大家都在看我笑话。",
+            "emotion": "深深的自卑和无助",
+            "behavior": "停滞不前，无法继续听课，低头避免与同学们的目光接触。",
+            "physiological_response": "心跳加速，出冷汗，头晕目眩。",
+            "created_at": "2024-05-15 10:30:00"
+        }
+    },
+    "node_89": {
+        "page_content": "2024年5月1日晚，我在家里的书桌前奋战，桌上堆满了复习资料和练习册。每当我看向闹钟，发现时间已经接近午夜，但我依然没有完成当天的复习任务。眼皮越来越沉，但内心的焦虑却让我无法停下来。我感觉自己必须完美无缺，但现实中的疲惫和不完美让我倍感压力。",
+        "metadata": {
+            "node_id": "node_89",
+            "node_type": "long_term",
+            "event_id": "16",
+            "extended_event_id": "16_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我不能完美完成复习任务，我就是个失败者。",
+            "emotion": "强烈的焦虑和绝望",
+            "behavior": "继续强迫自己学习，尽管已经非常疲倦",
+            "physiological_response": "心跳加快，头晕，出冷汗",
+            "created_at": "2024-05-01 23:45:00"
+        }
+    },
+    "node_88": {
+        "page_content": "2024年4月15日下午4点，在学校教室里，我坐在课桌前，桌上堆满了各种作业和资料。老师刚刚布置了新的作业，但我却已经忘记了前几天布置的任务。记忆力的下降让我感到非常无力和无助，每当看到同学们都在认真学习，而我却连基本的作业都记不住，心里充满了自我怀疑和抑郁情绪。我越来越觉得自己无法应对生活中的挑战，对未来也感到无望。",
+        "metadata": {
+            "node_id": "node_88",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我无法应对这些挑战，我一定会失败。",
+            "emotion": "极度无助和沮丧",
+            "behavior": "停止了做作业，开始走神，甚至可能考虑放弃。",
+            "physiological_response": "心跳加快，感到头晕和出冷汗。",
+            "created_at": "2024-04-15 16:00:00"
+        }
+    },
+    "node_87": {
+        "page_content": "2024年1月8日晚上9点，我坐在家中的书桌前，台灯的光线照在堆满课本和笔记的桌面上。我试图复习期末考试的内容，但无论怎么努力，都记不住任何东西。我反复翻看课本，试图理解那些知识点，但脑子却像被堵住了一样，什么都进不去。我感到非常沮丧和无助，心里充满了自责和无望，觉得自己永远无法在学习上表现得完美。",
+        "metadata": {
+            "node_id": "node_87",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我永远无法在学习上表现得完美，所有人都会失望。",
+            "emotion": "非常沮丧和无助，强烈的内疚感。",
+            "behavior": "停止复习，长时间盯着课本发呆，甚至可能哭泣。",
+            "physiological_response": "心跳加快，呼吸急促，出冷汗，头晕。",
+            "created_at": "2024-01-08 21:00:00"
+        }
+    },
+    "node_86": {
+        "page_content": "2023年12月12日，上午10点30分，坐在学校教室里，阳光从窗外洒进来，照在我的课桌上。老师正在前面讲解一个重要的知识点，但我的脑子一片空白，完全无法集中注意力。我试图跟上老师的讲解，但越是努力，越是感到焦虑和恐慌。我看着周围的同学们认真听讲，心里充满了无助和绝望，感觉自己越来越无能，无法应对学习的挑战。",
+        "metadata": {
+            "node_id": "node_86",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我根本无法应对学习的挑战，我一定会失败。",
+            "emotion": "无助和绝望",
+            "behavior": "停止尝试跟上老师的讲解，陷入消极思维。",
+            "physiological_response": "心跳加快，出冷汗，头晕。",
+            "created_at": "2023-12-12 10:30:00"
+        }
+    },
+    "node_85": {
+        "page_content": "2024年3月15日早上，我坐在床边，感到身体异常沉重。镜子里的自己看起来比以前胖了很多，我不敢相信自己的眼睛。每次走路都觉得疲惫不堪，几乎没有力气去上学。我开始担心自己的身体状况，但又不知道该怎么办。看着床上的书本和衣物，我感到无比的自责和羞愧，觉得自己连最基本的事情都做不好。这种无力感和对未来的绝望感让我更加陷入抑郁情绪之中。",
+        "metadata": {
+            "node_id": "node_85",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我真的无能为力，未来是无望的。",
+            "emotion": "绝望、无助、羞愧",
+            "behavior": "持续躺在床上，不愿起床或去上学，避免任何任务或责任。",
+            "physiological_response": "疲倦感加重，身体沉重，出冷汗，头晕。",
+            "created_at": "2024-03-15 07:30:00"
+        }
+    },
+    "node_84": {
+        "page_content": "2024年1月10日晚，我紧张地拿着期末考试成绩单回到家。父母看到我的成绩后，脸色立刻变了。爸爸开始责备我不够努力，说我辜负了他们的期望。妈妈虽然没有说话，但她失望的眼神让我更加难受。我站在客厅里，感觉自己像是一个彻底的失败者，眼泪不由自主地流下来。我感到自己完全没有能力应对学业和生活中的挑战，内心充满了自我怀疑和无力感。",
+        "metadata": {
+            "node_id": "node_84",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我无法应对学业和生活中的挑战，我是一个彻底的失败者。",
+            "emotion": "极度失望、自我怀疑和无力感",
+            "behavior": "哭泣，退缩到自己的房间，拒绝与父母和朋友沟通",
+            "physiological_response": "心跳加快，呼吸急促，出冷汗，头晕",
+            "created_at": "2024-01-10 20:45:00"
+        }
+    },
+    "node_83": {
+        "page_content": "2023年12月25日晚上，我们一家人在餐厅里聚餐，本来应该是个温馨的时刻，但却充满了紧张的气氛。父母因为一些琐事开始争吵，声音越来越大，刺耳的争吵声在空气中回荡。我坐在桌旁，手心冒汗，心跳加速，不知道该怎么办。妈妈的眼泪在眼眶中打转，爸爸的脸色铁青。我感觉整个世界都变得不稳定，心中充满了无助和绝望。",
+        "metadata": {
+            "node_id": "node_83",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来毫无希望，一切都在崩溃。",
+            "emotion": "极度绝望和无助",
+            "behavior": "沉默不语，低头不敢看父母，尝试躲避争吵场面",
+            "physiological_response": "手心出汗，心跳加速，胸口闷痛",
+            "created_at": "2023-12-25 18:30:00"
+        }
+    },
+    "node_82": {
+        "page_content": "2024年2月5日下午，我坐在家里的书房里，发现自己对曾经喜欢的阅读和听音乐也失去了兴趣。书桌上堆满了书本和画具，但我却提不起任何精神去碰它们。音乐在耳边回荡，但却无法打动我，我感到生活毫无乐趣，变得更加空虚和无望。",
+        "metadata": {
+            "node_id": "node_82",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我对任何事都失去了兴趣，未来毫无希望。",
+            "emotion": "绝望和空虚，情感强烈",
+            "behavior": "停止任何活动，长时间发呆或者哭泣",
+            "physiological_response": "全身乏力，头晕，出冷汗",
+            "created_at": "2024-02-05 14:20:00"
+        }
+    },
+    "node_81": {
+        "page_content": "2024年1月20日晚，我一个人坐在房间的床边，回想着最近父母的争吵和他们对我的责备。房间里只有一盏昏黄的台灯，墙上的影子显得格外沉重。母亲的话在我脑海中不断回响，我感到前途一片黑暗，生活毫无希望。那一刻，我第一次产生了自杀的念头，觉得自己无法再继续下去。",
+        "metadata": {
+            "node_id": "node_81",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来毫无希望，生活再也没有意义了。",
+            "emotion": "极度悲伤和绝望",
+            "behavior": "长时间坐在床边，一动不动，头脑中反复出现自杀的想法。",
+            "physiological_response": "心跳减慢，感觉身体沉重，出冷汗，头晕。",
+            "created_at": "2024-01-20 22:30:00"
+        }
+    },
+    "node_80": {
+        "page_content": "2024年1月15日晚，我和母亲在家里的客厅发生了一次激烈的争吵。母亲看到我的高考成绩，脸色顿时变得阴沉。她指责我不够努力，说我让她失望。我试图解释，但话到嘴边又咽了下去，觉得自己被误解得厉害。母亲的声音越来越大，情绪激动。我感觉胸口堵得慌，眼泪在眼眶里打转。争吵后，我独自回到房间，感到被否定和孤立，心情非常低落。",
+        "metadata": {
+            "node_id": "node_80",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我没有做到完美，我就是个失败者。",
+            "emotion": "极度悲伤和自责",
+            "behavior": "独自回到房间，避免与母亲进一步交流，陷入自我怀疑和孤立。",
+            "physiological_response": "胸口堵得慌，眼泪在眼眶里打转，出冷汗，头晕。",
+            "created_at": "2024-01-15 19:45:00"
+        }
+    },
+    "node_79": {
+        "page_content": "2024年1月12日下午5点30分，我独自坐在学校图书馆的一角，四周安静，只有翻书的声音伴随着我。窗外天色渐暗，心中的孤独和无助感愈发强烈。我回想起前几天母亲的责备、同学的崩溃以及讲座上的无助感，情绪终于崩溃。我拿出日记本，开始写下自己的绝望和对生活的无望感。眼泪模糊了字迹，我写着写着，觉得自己已经无力改变现状，内心充满了无尽的悲伤和绝望。这一刻，我感觉自己走到了崩溃的边缘，深深陷入了抑郁的阴影中。",
+        "metadata": {
+            "node_id": "node_79",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_4",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来毫无希望，我永远无法逃离这种绝望的感觉。",
+            "emotion": "极度的悲伤和绝望",
+            "behavior": "开始写日记，哭泣，不再尝试与他人沟通或寻求帮助。",
+            "physiological_response": "心跳加快，浑身无力，出冷汗，头晕。",
+            "created_at": "2024-01-12 17:30:00"
+        }
+    },
+    "node_78": {
+        "page_content": "2024年1月5日晚9点，我结束晚自习回到家中，母亲坐在客厅里等着我。当我一进门，她就开始责备我最近成绩下滑，指责我不够努力。我站在客厅中央，眼泪在眼眶里打转，觉得非常委屈和无助。我努力解释自己的压力和努力，但母亲的责备让我感到无比的自责和无望。我觉得自己再怎么努力也无法满足父母的期望，内心充满了无力感和绝望。",
+        "metadata": {
+            "node_id": "node_78",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "无论我怎么努力，都无法满足父母的期望，我永远无法应对这些压力。",
+            "emotion": "极度自责，绝望，悲伤",
+            "behavior": "沉默，不再争辩，回到房间哭泣，可能会有自杀行为",
+            "physiological_response": "心跳加快，出冷汗，头晕",
+            "created_at": "2024-01-05 21:00:00"
+        }
+    },
+    "node_77": {
+        "page_content": "2023年12月21日上午10点30分，我们全班学生聚集在学校的礼堂里，参加心理健康讲座。老师站在讲台上，语重心长地谈论着考试压力和心理健康的重要性，并鼓励我们面对压力时要勇敢寻求帮助。然而，我的注意力无法集中，脑海里一直浮现着前一天同学情绪崩溃的画面。我害怕自己也会像她一样崩溃，感到无助和焦虑。虽然讲座提供了一些应对压力的方法，但我依然感到无助，对未来更加感到无望。",
+        "metadata": {
+            "node_id": "node_77",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "无论我怎么努力，我的未来依然没有希望。",
+            "emotion": "无助、绝望",
+            "behavior": "无法集中注意力，不愿与他人交流",
+            "physiological_response": "心跳加快，出冷汗，头晕",
+            "created_at": "2023-12-21 10:30:00"
+        }
+    },
+    "node_76": {
+        "page_content": "2023年12月20日下午3点45分，教室里一片安静，只有笔尖在纸上沙沙作响。突然，坐在我前排的同学情绪崩溃，开始大声哭泣。她的哭声打破了教室的安静，震惊了所有人。老师赶紧走过来，轻声安慰她，并把她带出了教室。我坐在座位上，感到心跳加速，手心冒汗。这一幕让我感到非常震惊和焦虑，我联想到自己也可能在高压下崩溃，尤其是在已经感受到家庭关系紧张和高考压力的双重压力下。",
+        "metadata": {
+            "node_id": "node_76",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我无法应对生活中的挑战，我也会像她一样崩溃。",
+            "emotion": "强烈的焦虑和恐惧",
+            "behavior": "无法集中注意力，可能会试图逃避教室或寻求安慰。",
+            "physiological_response": "心跳加速，手心冒汗，呼吸急促，头晕。",
+            "created_at": "2023-12-20 15:45:00"
+        }
+    },
+    "node_75": {
+        "page_content": "2023年12月15日夜里，我回到家，躲进自己的卧室。书桌上摊开着我的日记本，昏黄的灯光洒在纸页上。我拿起笔，试图写下我的感受和思绪，但我的手不停地颤抖，眼前的字迹变得模糊。我心中充满了无望感和自我怀疑，觉得未来的一切都是黑暗的。写日记本来是我唯一的情感宣泄的方式，但这次，我发现自己无法通过这种方式得到任何安慰。这种无望感让我更加绝望，对未来不再抱有任何期待。",
+        "metadata": {
+            "node_id": "node_75",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来毫无希望，写日记也不能帮助我。",
+            "emotion": "绝望，无助",
+            "behavior": "停止写日记，感到无力躺在床上。",
+            "physiological_response": "手颤抖，头晕，身体疲倦。",
+            "created_at": "2023-12-15 22:00:00"
+        }
+    },
+    "node_74": {
+        "page_content": "2023年12月15日晚上，我从家里出来，独自走向附近的公园。夜晚的凉风吹拂着我，公园里几乎没有人。我坐在一张长椅上，低头看着脚下的落叶，心中充满了无助和绝望。我反复思考着自己与父母的关系，觉得未来毫无希望。我感到自己被世界抛弃了，孤立无援。这种反复的消极思考让我更加抑郁和绝望。",
+        "metadata": {
+            "node_id": "node_74",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "没有人真正关心我，我不值得被爱。",
+            "emotion": "极度的孤独和绝望",
+            "behavior": "坐在长椅上发呆，回避与任何人接触",
+            "physiological_response": "心情沉重，感到疲倦和无力，出冷汗",
+            "created_at": "2023-12-15 21:00:00"
+        }
+    },
+    "node_73": {
+        "page_content": "2023年12月15日晚上，我坐在家里的沙发上，鼓起勇气向父母倾诉我最近的困惑和痛苦。我说话时，心跳加速，希望他们能理解并给予我支持。然而，父亲皱着眉头，母亲则一脸冷漠。他们觉得我在夸大其词，父亲甚至说我需要学会坚强，不要总是依赖别人。我感到心如刀割，眼泪忍不住流了下来，但我知道他们并没有真正明白我的感受。我感到更加孤立无援，抑郁情绪愈发严重。",
+        "metadata": {
+            "node_id": "node_73",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们根本不爱我，也不在乎我的感受。",
+            "emotion": "极度悲伤和绝望",
+            "behavior": "躲在房间里哭泣，避免与父母进一步交流。",
+            "physiological_response": "心跳加速，胸闷，头晕，出冷汗。",
+            "created_at": "2023-12-15 20:30:00"
+        }
+    },
+    "node_72": {
+        "page_content": "2023年11月18日晚上，在家里的客厅里，父母又在为一些琐事争吵。我鼓起勇气，将几幅自己精心绘制的画作拿给他们看，希望能得到一些鼓励和支持。然而，他们几乎没有注意到我的存在，对我的作品没有表现出任何兴趣。我感到非常失望和被忽视，心里一阵冰冷，仿佛被整个世界抛弃了一样，孤独和绝望的情绪再次袭来。",
+        "metadata": {
+            "node_id": "node_72",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们根本不在乎我，我不值得被爱。",
+            "emotion": "极度失望和孤独感",
+            "behavior": "默默收起画作，退回自己的房间，避免与父母交流。",
+            "physiological_response": "心里一阵冰冷，身体发抖，流泪。",
+            "created_at": "2023-11-18 19:00:00"
+        }
+    },
+    "node_71": {
+        "page_content": "2023年11月2日下午，在家里的房间里，窗外阳光明媚。我按照心理咨询师的建议，拿起了画笔，希望通过绘画来表达内心的情感，找到一些平静。刚开始画的时候，我感到一丝宁静，但很快我对自己的作品感到不满，觉得自己画得不够好。这种自我批评让我感到更加无助和自责，心中的焦虑和烦躁又一次涌上心头。",
+        "metadata": {
+            "node_id": "node_71",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我画得不够好，我永远无法达到完美。",
+            "emotion": "无助和自责，焦虑和烦躁",
+            "behavior": "停止绘画，陷入自我批评",
+            "physiological_response": "心跳加速，感到身体疲倦，出冷汗",
+            "created_at": "2023-11-02 14:30:00"
+        }
+    },
+    "node_70": {
+        "page_content": "2023年10月15日傍晚，在家里，桌上还摆着没收拾的晚餐。高考成绩公布后，我看到自己的成绩单，心一下子沉到了谷底。父母在旁边因为一些琐事又开始争吵，声音越来越大，我感到自己的存在几乎被忽视。我坐在桌旁，手里捏着成绩单，眼泪止不住地流下来，心里充满了无助和绝望。",
+        "metadata": {
+            "node_id": "node_70",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来毫无希望，我永远也无法摆脱这种困境。",
+            "emotion": "绝望、无助、悲伤",
+            "behavior": "哭泣，不再尝试与父母沟通，可能回避或逃避与他们的接触。",
+            "physiological_response": "身体疲倦，出冷汗，头晕，心跳加快。",
+            "created_at": "2023-10-15 17:45:00"
+        }
+    },
+    "node_69": {
+        "page_content": "2023年10月5日晚上，我坐在家里的书桌前，拿着笔在日记本上写下自己的感受。书桌上摆满了各种笔记本和书籍，台灯的柔和光线照在纸上。我写下了近期的困惑和情感，字里行间全是我的无助和孤独。每写一个字，我仿佛能感受到内心的痛苦稍稍缓解一些。虽然这种缓解是暂时的，但能让我在那一刻找到一些平静。",
+        "metadata": {
+            "node_id": "node_69",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来毫无希望，所有的努力都是徒劳的。",
+            "emotion": "深深的绝望和无助",
+            "behavior": "停止写作，陷入沉思和自责",
+            "physiological_response": "感到全身无力，头晕目眩",
+            "created_at": "2023-10-05 21:00:00"
+        }
+    },
+    "node_68": {
+        "page_content": "2023年9月20日下午，在学校的教室里，老师发下了模拟考试的成绩单。我看着自己那不理想的分数，心里一阵失落和自责。周围的同学在讨论成绩，而我却感到自己仿佛被整个世界抛弃了一样。我觉得自己辜负了父母的期望，他们辛苦为我付出，而我却无法回报。我的目光变得模糊，只能默默的坐在座位上，怀疑自己是否真的有能力应对即将到来的高考。",
+        "metadata": {
+            "node_id": "node_68",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我无法应对这次高考的挑战，我一定会失败。",
+            "emotion": "强烈的失落和自责，绝望感",
+            "behavior": "默默的坐在座位上，避免与同学互动，不愿意与任何人交流",
+            "physiological_response": "心跳加快，出冷汗，头晕",
+            "created_at": "2023-09-20 14:30:00"
+        }
+    },
+    "node_67": {
+        "page_content": "2023年9月10日晚上，家里的客厅弥漫着紧张的气氛。父母在争吵，他们的声音在房间里回荡，我坐在沙发的一角，感到无比的压抑和无助。父亲指责母亲不关心家庭，母亲则反驳父亲不负责任。争吵越来越激烈，我甚至能听到他们的咆哮声。我想插嘴，但不知道说什么好，只能默默承受着这份巨大的压力。",
+        "metadata": {
+            "node_id": "node_67",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我无法应对这样的家庭问题，甚至连插嘴都不知道该说什么。",
+            "emotion": "无助和绝望",
+            "behavior": "默默坐在沙发上，不敢干预父母的争吵。",
+            "physiological_response": "心跳加速，出冷汗，感觉头晕。",
+            "created_at": "2023-09-10 19:15:00"
+        }
+    },
+    "node_66": {
+        "page_content": "2023年9月30日上午，我走进学校的心理咨询室，手心冒汗，心情既紧张又忐忑。咨询师温柔地让我坐下，我开始慢慢地倾诉自己的困惑和痛苦。高考成绩不理想、家庭问题以及自杀念头都一一说了出来。咨询师耐心地倾听，让我感到一些希望。那次会面让我意识到自己需要专业的帮助，虽然仍然感到非常脆弱和不安，但我开始愿意面对自己的情绪和问题。",
+        "metadata": {
+            "node_id": "node_66",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来毫无希望，即使寻求帮助也无济于事。",
+            "emotion": "深深的绝望和无助",
+            "behavior": "缺乏动力继续寻求帮助或尝试改变现状，可能会继续回避人际交往",
+            "physiological_response": "持续的疲倦感、出冷汗、头晕",
+            "created_at": "2023-09-30 10:00:00"
+        }
+    },
+    "node_65": {
+        "page_content": "2023年9月15日晚上，家中的客厅里充满了紧张的气氛。父母因为经济问题和我的成绩再次发生激烈争吵，声音越来越大，甚至有摔东西的声音。我躲在房间里，心跳加速，感到自己是家庭冲突的主要原因之一，内心充满了自罪感和无助感。我趴在床上，耳边尽是父母争吵的声音，眼泪止不住地流下来，感到自己不值得被爱，情绪进一步恶化，产生了更强烈的自杀念头。",
+        "metadata": {
+            "node_id": "node_65",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们互相争吵是因为我不好，我不值得被爱。",
+            "emotion": "极度悲伤和无助，强烈的自罪感",
+            "behavior": "躲在房间里哭泣，不与任何人交流",
+            "physiological_response": "心跳加速，头晕，出冷汗",
+            "created_at": "2023-09-15 19:30:00"
+        }
+    },
+    "node_64": {
+        "page_content": "2023年9月1日下午，我一个人在家中的客厅，盯着刚刚打印出来的高考成绩单，眼泪不自觉地流了下来。成绩远低于预期，我感到自己辜负了父母的期望，心里充满了自责和无望。我无力地坐在沙发上，脑海中不断浮现父母失望的表情和未来模糊不清的大学和职业规划。那一刻，我感到自己完全被压垮了，甚至产生了自杀的念头。",
+        "metadata": {
+            "node_id": "node_64",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来毫无希望，我永远也不会成功。",
+            "emotion": "极度悲伤和绝望",
+            "behavior": "瘫坐在沙发上哭泣，不愿与人交谈或寻求帮助，甚至产生自杀的念头。",
+            "physiological_response": "全身无力，心跳加快，出冷汗，头晕",
+            "created_at": "2023-09-01 16:45:00"
+        }
+    },
+    "node_63": {
+        "page_content": "2023年7月15日晚上，在家里的客厅，父母因为我的期末考试成绩再次发生争吵。母亲指责父亲没有尽到教育的责任，父亲则反驳说母亲过度苛刻。争吵声越来越大，我站在一旁，心里充满了自责和无助。这次争吵让我感到自己是家庭不和的源头，内心的自罪感和无望感进一步加深。",
+        "metadata": {
+            "node_id": "node_63",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "都是我的错，如果我表现得更好，父母就不会吵架了。",
+            "emotion": "强烈的自责和无助感",
+            "behavior": "默默站在一旁，不敢插话或干预，甚至可能会跑回自己的房间。",
+            "physiological_response": "心跳加快，呼吸急促，头晕目眩，出冷汗。",
+            "created_at": "2023-07-15 19:30:00"
+        }
+    },
+    "node_62": {
+        "page_content": "2023年6月20日晚上，父母又一次在客厅激烈争吵后，我独自一人躲在卧室里。房间里只有昏暗的灯光，我坐在床上，感到无比的孤独和绝望。我开始思考自杀的具体方式，觉得只有这样才能结束我的痛苦。我感到未来毫无希望，只有离开这个世界才能解脱。",
+        "metadata": {
+            "node_id": "node_62",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来毫无希望，只有离开这个世界才能解脱。",
+            "emotion": "极度绝望和无助",
+            "behavior": "开始考虑具体的自杀方式，减少与他人的交流和互动。",
+            "physiological_response": "感到身体疲倦，出冷汗，头晕。",
+            "created_at": "2023-06-20 21:15:00"
+        }
+    },
+    "node_61": {
+        "page_content": "2023年5月15日上午，在学校的教室里，老师在发放考试成绩单时公开批评了我。她站在讲台前，说我没有尽力，成绩远远不如预期。我低着头，感觉脸上火辣辣的，耳朵嗡嗡作响，仿佛所有的目光都聚集在我身上。我觉得自己再次辜负了父母的期望，内心充满了自责和无能感，认为自己没有能力应对生活中的挑战。",
+        "metadata": {
+            "node_id": "node_61",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我没有能力应对生活中的挑战，我永远都不可能做好任何事情。",
+            "emotion": "强烈的自责感和无能感，伴有深深的绝望。",
+            "behavior": "避免与同学和老师接触，减少社交互动，可能会哭泣。",
+            "physiological_response": "出冷汗，头晕，心跳加快，耳鸣，胃部不适。",
+            "created_at": "2023-05-15 10:30:00"
+        }
+    },
+    "node_60": {
+        "page_content": "2023年4月12日晚上，我在家中的客厅听到父母正在激烈争吵。他们的声音穿透了整个房子，父亲指责母亲没有好好督促我的学习，母亲则反驳说父亲对我要求太高。我站在房间门口，感觉心脏在胸口猛烈跳动，眼泪不自觉地流下来。我觉得自己是他们争吵的核心原因，内心产生了强烈的自责感，觉得自己不值得被爱。",
+        "metadata": {
+            "node_id": "node_60",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们争吵是因为我没能做好，我不值得被爱。",
+            "emotion": "强烈的自责感和内疚感，深深的悲伤和绝望",
+            "behavior": "回避父母，躲进自己的房间，哭泣，可能写日记来倾诉情感",
+            "physiological_response": "心跳加快，呼吸急促，出冷汗，头晕",
+            "created_at": "2023-04-12 19:45:00"
+        }
+    },
+    "node_59": {
+        "page_content": "2023年3月1日下午，我决定不再参加学校的课外活动。成绩下滑和无法应对的压力让我感到无比绝望。我在课间休息时，看到朋友们在操场上愉快地玩耍，心里却涌起一股强烈的孤独感。我告诉自己：‘与其被大家看到自己无能的样子，不如避免与人交流。’于是，我开始减少与朋友的联系，逐渐远离了那些曾经关心我、支持我的人。这种孤独感使我感到更加无助，我的核心信念‘我不值得被爱’和‘我的未来是无望的’得到了进一步的强化。我感觉抑郁情绪越发沉重，甚至开始出现自罪感和自杀的念头。",
+        "metadata": {
+            "node_id": "node_59",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不值得被爱，朋友们也不是真的关心我。",
+            "emotion": "极度的孤独感和绝望感",
+            "behavior": "回避朋友和社交活动，减少与他人交流",
+            "physiological_response": "心跳加快，出冷汗，感到头晕",
+            "created_at": "2023-03-01 16:45:00"
+        }
+    },
+    "node_58": {
+        "page_content": "2023年2月15日下午，模拟考成绩公布后，我的成绩不理想，让我感到非常沮丧。老师在课堂上当着全班同学的面，严厉批评了我的表现，说我需要更加努力。那一刻，我觉得所有人的目光都集中在我身上，羞愧和无助感充斥着我的心。我低着头，努力忍住眼泪，但心里却在不断地自责和怀疑自己：‘我真的不配得到认可吗？’这种羞愧和无助感进一步强化了我的信念：‘我必须在所有事情上都表现得完美’和‘他人只会认可完美的表现’。我开始更加自我怀疑，觉得自己没有能力应对生活中的挑战。",
+        "metadata": {
+            "node_id": "node_58",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我真的不配得到认可吗？我必须在所有事情上都表现得完美，否则大家都会认为我很差劲。",
+            "emotion": "羞愧、无助、沮丧",
+            "behavior": "低头避免眼神接触，忍住眼泪，自我责备和怀疑，可能会进一步回避与他人交流。",
+            "physiological_response": "心跳加快，手心出汗，呼吸急促，感到头晕和疲倦。",
+            "created_at": "2023-02-15 14:30:00"
+        }
+    },
+    "node_57": {
+        "page_content": "2023年1月10日晚上，我坐在书房里，桌上堆满了复习资料，但我怎么也无法集中精力。父母在客厅里激烈争吵，声音穿透了墙壁，刺痛了我的耳膜和心脏。我感到无比无助和焦虑，心里想着：‘为什么他们不能停止争吵？’这些紧张的氛围让我感觉自己被孤立，无处可逃，进一步加剧了我的焦虑和抑郁情绪。我开始质疑自己的学习能力和未来的希望，心中充满了‘我不值得被爱’和‘我没有能力应对生活中的挑战’的念头。",
+        "metadata": {
+            "node_id": "node_57",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我无法应对这种压力和挑战，我一定会失败。",
+            "emotion": "无助和焦虑",
+            "behavior": "停止复习，开始哭泣，无法控制情绪。",
+            "physiological_response": "心跳加快，呼吸急促，出冷汗。",
+            "created_at": "2023-01-10 20:15:00"
+        }
+    },
+    "node_56": {
+        "page_content": "2022年12月20日晚8点45分，家里又陷入寂静，父母再次冷战。我独自坐在房间里，打开日记本，开始记录自己的感受：‘我感觉自己是个无用的人，无法让父母开心，也无法改变这种糟糕的局面。’写这些话的时候，我的心情无比沉重，眼泪不自觉地滴在日记本上。",
+        "metadata": {
+            "node_id": "node_56",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我无法应对生活中的挑战，特别是家庭问题。",
+            "emotion": "极度悲伤和无助",
+            "behavior": "停止写日记，独自哭泣，避免与家人互动",
+            "physiological_response": "心情沉重，流泪，胸闷",
+            "created_at": "2022-12-20 20:45:00"
+        }
+    },
+    "node_55": {
+        "page_content": "2022年3月10日早上7点15分，父母因为一件琐事突然爆发激烈争吵，他们的声音大到整个小区都能听见。我害怕极了，赶紧躲进自己的房间，捂住耳朵，不敢出去。我感到无比恐惧和绝望，心里想着，为什么我们的家会变成这样。",
+        "metadata": {
+            "node_id": "node_55",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来是无望的，家庭的状况只会越来越糟。",
+            "emotion": "恐惧和绝望",
+            "behavior": "躲进房间，捂住耳朵，不敢出去。",
+            "physiological_response": "心跳加快，身体发抖，出冷汗。",
+            "created_at": "2022-03-10 07:15:00"
+        }
+    },
+    "node_54": {
+        "page_content": "2022年1月5日晚上7点半，我回到家，看到父母坐在客厅两端，彼此不说话，气氛紧张到令人窒息。我试图缓解这种局面，走到妈妈身边，轻声问她晚饭吃什么。她却冷冷地回答‘随便’，然后转身进了厨房。我站在原地，不知道该怎么办，感到无助和夹在中间的压力。",
+        "metadata": {
+            "node_id": "node_54",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们不爱我，也不关心我。",
+            "emotion": "悲伤、孤独、无助",
+            "behavior": "沉默不语，回到自己的房间，避免与父母交流。",
+            "physiological_response": "心跳加速，胸口压抑，身体发冷，出冷汗。",
+            "created_at": "2022-01-05 19:30:00"
+        }
+    },
+    "node_53": {
+        "page_content": "2021年12月5日的晚上，我独自坐在房间里，拒绝了朋友们的聚会邀请。看着窗外黑暗的天空，我的心情也变得越来越沉重。我拿出日记本，写下了对未来的绝望和无力感：‘我感到生活毫无意义，每一天都像是煎熬。我真不知道该怎么继续下去。’泪水模糊了我的视线，我甚至开始思考自杀的念头，觉得那或许是解脱。我感到前所未有的孤独和无助，这种情绪像潮水般吞噬了我。",
+        "metadata": {
+            "node_id": "node_53",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来毫无希望，生活毫无意义，自杀或许是唯一的解脱。",
+            "emotion": "绝望、无助、孤独",
+            "behavior": "独自待在房间里，拒绝朋友的聚会邀请，写下绝望的日记，思考自杀的念头。",
+            "physiological_response": "泪水模糊视线，感到身体疲倦，出冷汗，头晕。",
+            "created_at": "2021-12-05 21:00:00"
+        }
+    },
+    "node_52": {
+        "page_content": "2021年4月10日下午，朋友们在社交媒体上发信息问我为什么最近不怎么跟她们联系。我看着手机上闪烁的消息通知，心里却感到一阵沉重。我告诉她们我很忙，有很多学习任务要完成。其实，我只是觉得自己不值得她们的关心，害怕她们会发现我的脆弱和无能。于是，我选择了逃避，把自己关在房间里，任由手机上的消息一个个变成未读。",
+        "metadata": {
+            "node_id": "node_52",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "朋友们不会真正关心我，他们只是出于礼貌才联系我。如果他们知道我的真实情况，会更加看不起我。",
+            "emotion": "无助和悲伤",
+            "behavior": "回避朋友的消息，把自己关在房间里，不与外界联系。",
+            "physiological_response": "心情沉重，感到胸闷，出冷汗。",
+            "created_at": "2021-04-10 16:30:00"
+        }
+    },
+    "node_51": {
+        "page_content": "2021年1月15日晚，父母又在客厅爆发了一场激烈的争吵，声音刺耳而尖锐。我躲在房间里，耳朵里充满了他们的喊叫声和摔东西的声音。每一次争吵都让我的心脏紧缩，我开始质疑自己的存在，觉得自己是个累赘、不值得被爱。我躺在床上，泪水无声地流下，感受到前所未有的孤独和无助。",
+        "metadata": {
+            "node_id": "node_51",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不值得被爱，这都是我的错。",
+            "emotion": "极度的孤独和无助，强烈的自责和悲伤。",
+            "behavior": "躲在房间里哭泣，避免与父母接触。",
+            "physiological_response": "心脏紧缩，出冷汗，头晕。",
+            "created_at": "2021-01-15 20:45:00"
+        }
+    },
+    "node_50": {
+        "page_content": "2020年12月25日晚8点，家庭聚会刚刚结束，父母又因为我的成绩问题发生了激烈的争吵。母亲指责父亲对我的教育不够关心，父亲则反驳母亲管得太多。我坐在客厅的角落，听着他们的争吵，感觉自己就是所有问题的根源。母亲的声音越来越高，父亲拍桌子的声音也越来越响，我感到深深的自责和痛苦，觉得自己不值得被爱，也看不到未来的希望。",
+        "metadata": {
+            "node_id": "node_50",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "都是因为我成绩不好，父母才会吵架。我真的不值得被爱。",
+            "emotion": "深深的自责和痛苦",
+            "behavior": "沉默地坐在角落，回避与父母的交流",
+            "physiological_response": "感到身体疲倦，出冷汗，头晕",
+            "created_at": "2020-12-25 20:00:00"
+        }
+    },
+    "node_49": {
+        "page_content": "2020年6月10日上午11:45，物理课上，老师正在讲解一道复杂的题目。突然，老师点了我的名字，要我回答问题。我站起来，脑子一片空白，根本不知道该怎么回答。老师的目光透出不满和失望，同学们则在窃窃私语。我脸红到了耳根，感到无地自容，下课铃响后，我匆匆收拾书包，逃离了教室。这种尴尬和无助的感觉让我害怕上课，甚至开始有了逃课的念头。",
+        "metadata": {
+            "node_id": "node_49",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我无法应对生活中的挑战，这次又失败了。",
+            "emotion": "极度的羞愧和自卑",
+            "behavior": "下课后迅速逃离教室，并有逃课的念头。",
+            "physiological_response": "心跳加快，脸红，出冷汗，头晕。",
+            "created_at": "2020-06-10 11:45:00"
+        }
+    },
+    "node_48": {
+        "page_content": "2020年2月15日上午10:30，我在学校的教室里，心情紧张地等待着数学测试的成绩。当老师将试卷发到我手上时，我看到上面醒目的50分，心里顿时像被锤了一下。我努力控制自己不哭出来，但心里却充满了自责和沮丧。同学们在讨论各自的成绩，老师在前面讲解错误的题目，而我只觉得自己无法应对这门课的难度，仿佛整个世界都在向我施压。",
+        "metadata": {
+            "node_id": "node_48",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我果然无法应对数学的挑战，我一定会失败。",
+            "emotion": "绝望和无助",
+            "behavior": "低下头，不参与讨论，避免与同学和老师的眼神接触。",
+            "physiological_response": "心跳加快，呼吸急促，胃部不适，出冷汗。",
+            "created_at": "2020-02-15 10:30:00"
+        }
+    },
+    "node_47": {
+        "page_content": "2019年12月20日晚上，晚饭后父母在客厅里继续争吵，争吵越来越激烈，互相指责对方的缺点和过失，母亲甚至摔碎了盘子。我在房间里瑟瑟发抖，不敢出来，感到极度的无助和绝望。我觉得自己完全失去了对生活的控制和希望，脑海里开始浮现出自杀的念头，想着这样或许就能结束这种痛苦。",
+        "metadata": {
+            "node_id": "node_47",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的未来毫无希望，这种痛苦永远不会结束。",
+            "emotion": "绝望、无助、强烈的悲伤",
+            "behavior": "瑟瑟发抖，回避与父母接触，可能会进一步产生自杀行为的冲动。",
+            "physiological_response": "心跳加快，呼吸急促，出冷汗，头晕",
+            "created_at": "2019-12-20 20:00:00"
+        }
+    },
+    "node_46": {
+        "page_content": "2019年08月10日晚上，晚饭时父母因为财务问题又开始争吵。母亲在争吵中提到要离婚，我听到后心情跌入谷底，眼泪立刻涌上来。我无法忍受这种痛苦，跑回自己的房间，关上门后大声哭泣，感到整个世界都崩溃了。我不停地问自己，是不是因为我不够好，才让父母的关系变得如此糟糕。",
+        "metadata": {
+            "node_id": "node_46",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "是不是因为我不够好，才让父母的关系变得如此糟糕。",
+            "emotion": "极度悲伤和内疚",
+            "behavior": "跑回房间大声哭泣，避免与他人接触",
+            "physiological_response": "心跳加速，呼吸急促，出冷汗",
+            "created_at": "2019-08-10 19:45:00"
+        }
+    },
+    "node_45": {
+        "page_content": "2019年01月15日晚上，我在房间里做作业，突然听到客厅传来父母的争吵声。他们因为父亲在外面花费了一大笔钱没有告诉母亲而争吵，声音越来越大。我感到心跳加速，手心冒汗，不敢出去，只能在房间里抱紧自己，感到极度不安和恐惧。",
+        "metadata": {
+            "node_id": "node_45",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们的争吵是因为我的存在，让他们不开心。我不值得被爱。",
+            "emotion": "极度不安和恐惧",
+            "behavior": "抱紧自己，回避父母，不敢出去",
+            "physiological_response": "心跳加速，手心冒汗",
+            "created_at": "2019-01-15 19:30:00"
+        }
+    },
+    "node_44": {
+        "page_content": "2019年6月5日晚上，讨论结束后，父母一同走向我，脸上带着微笑。他们告诉我，他们已经达成了共识，并决定一起努力为家庭创造更好的未来。父亲轻轻拍了拍我的肩膀，母亲则温柔地握住我的手，说他们会更加关注我的成长和教育问题。这让我感受到被重视和关爱，内心充满了温暖和安全感。我对未来充满了希望，觉得自己有能力面对未来的挑战。",
+        "metadata": {
+            "node_id": "node_44",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "父母终于达成了一致，他们真的在乎我。我值得被爱。",
+            "emotion": "内心充满了温暖和安全感，对未来充满了希望。",
+            "behavior": "微笑并主动拥抱父母，开始对未来的计划充满信心。",
+            "physiological_response": "心跳平稳，身体感到放松，脸上带着笑容。",
+            "created_at": "2019-06-05 20:00:00"
+        }
+    },
+    "node_43": {
+        "page_content": "2019年6月5日晚上，我坐在客厅的一个小角落里，靠近窗户的地方，默默地观察着父母。我看到父亲在讨论中表现得非常耐心，他的声音温和且坚定。而母亲则显得有些焦虑，不时地用手指拨弄着桌上的文件。我注意到他们的情绪变化，心里有些担心，但看到他们通过沟通最终解决了问题，让我松了一口气。这次观察让我感受到家庭成员之间通过沟通可以解决问题，增强了我对解决家庭内部矛盾的信心。",
+        "metadata": {
+            "node_id": "node_43",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果父母能够通过沟通解决问题，我也能面对和解决我的问题。",
+            "emotion": "安心和希望",
+            "behavior": "决定与父母谈谈自己的困扰，寻求他们的帮助和支持。",
+            "physiological_response": "心情放松，呼吸平稳。",
+            "created_at": "2019-06-05 19:45:00"
+        }
+    },
+    "node_42": {
+        "page_content": "2019年6月5日晚上，我放学回到家，看到父母在客厅的沙发上讨论问题，桌上堆满了各种文件和笔记本。他们的声音有时低沉有时激动，显然在讨论一些重要的事情。我站在门口听了一会儿，发现他们在讨论是否搬家、我的教育问题以及家庭经济预算。尽管一开始他们的意见有分歧，最终通过沟通，他们达成了共识，决定共同面对未来的挑战。这让我感受到家庭的稳固，增强了对家庭和睦的信心。",
+        "metadata": {
+            "node_id": "node_42",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我的父母虽然有分歧，但他们愿意通过沟通来解决问题。",
+            "emotion": "安心和希望",
+            "behavior": "默默地微笑，感受到家庭的稳固和温暖。",
+            "physiological_response": "心情放松，呼吸平稳，肌肉不再紧绷。",
+            "created_at": "2019-06-05 19:32:00"
+        }
+    },
+    "node_41": {
+        "page_content": "2016年11月15日上午9点30分，在作文课上，轮到我上讲台朗读自己的文章。我紧张地站在讲台上，手里紧握着作文稿，但当我开始读出第一句话时，内心的不安逐渐消散。朗读完毕，教室里响起了热烈的掌声，老师和同学们都给予了我高度的评价。我感到无比激动和自豪，觉得自己的努力得到了回报。这次的成功经历让我更加相信只要表现得优秀，就会被认可和接受，增强了我的自信心和对未来的希望。",
+        "metadata": {
+            "node_id": "node_41",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "只要我表现得优秀，就会被认可和接受。",
+            "emotion": "激动、自豪、自信",
+            "behavior": "更加努力地准备和表现，以期获得更多的认可。",
+            "physiological_response": "心跳加速，脸颊微微泛红，手心出汗。",
+            "created_at": "2016-11-15 09:30:00"
+        }
+    },
+    "node_40": {
+        "page_content": "2016年11月12日上午11点，我终于完成了作文，兴奋地把文章递给父母。他们仔细阅读后，脸上露出了满意的笑容，告诉我文章写得很好，并鼓励我继续努力。他们的话让我感到非常开心和自豪，内心充满了成就感和满足感。我感到被认可和接受，这种积极的情感体验让我更加相信只要努力，我就能实现目标。",
+        "metadata": {
+            "node_id": "node_40",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我被父母认可和爱护，我值得被爱。",
+            "emotion": "开心和自豪",
+            "behavior": "更加努力地写作和学习，以期获得更多的认可。",
+            "physiological_response": "心跳加速，脸上露出微笑，感到温暖和愉悦。",
+            "created_at": "2016-11-12 11:00:00"
+        }
+    },
+    "node_39": {
+        "page_content": "2016年11月12日上午，我坐在家庭书房的书桌前，窗外的树叶已经开始变黄，秋天的气息弥漫在空气中。我正写着一篇关于秋天的作文，时不时抬头向父母寻求意见。他们温柔地指导我，告诉我如何把句子写得更生动。我感到一股暖流在心中流淌，觉得家里是如此温暖和支持。父母的关心让我感到自己是值得被爱的，也让我相信通过努力可以实现目标。",
+        "metadata": {
+            "node_id": "node_39",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我的父母真的很爱我，我值得被爱。",
+            "emotion": "温暖和满足",
+            "behavior": "继续专心写作文，并时不时向父母请教。",
+            "physiological_response": "心情愉悦，身体放松。",
+            "created_at": "2016-11-12 10:15:00"
+        }
+    },
+    "node_38": {
+        "page_content": "2017年5月12日下午16:00，读书分享会在学校图书馆结束后，老师特别表扬了我的表现，称赞我的分享非常精彩。教室里的同学们也纷纷为我鼓掌，这让我感到非常自豪和满足。老师的表扬和同学们的认可让我感受到被接受和肯定的感觉。我开始对自己的未来充满希望，并相信通过努力可以实现自己的目标。这次经历对我的自我评价产生了深远影响，增强了我的自信心和对未来的积极期待。",
+        "metadata": {
+            "node_id": "node_38",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我在学业上表现得优秀，所以我被认可和接受了。",
+            "emotion": "自豪和满足",
+            "behavior": "微笑并感谢老师和同学",
+            "physiological_response": "心跳加速，脸上泛起红晕",
+            "created_at": "2017-05-12 16:00:00"
+        }
+    },
+    "node_37": {
+        "page_content": "2017年5月12日下午，我和几个朋友一起走进学校图书馆。图书馆里安静而温馨，书架上摆满了我们喜爱的书籍。我们坐在一张大桌子旁，互相鼓励，讨论各自要分享的书籍内容。这种互动让我感到非常愉快和放松。朋友们的支持和分享过程中的互动让我感受到友情的力量和读书的快乐。",
+        "metadata": {
+            "node_id": "node_37",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "朋友们的支持让我感到自己是值得被爱的。",
+            "emotion": "快乐和满足",
+            "behavior": "更积极地参与讨论，分享自己的想法和感受。",
+            "physiological_response": "心情愉悦，身体放松，微笑。",
+            "created_at": "2017-05-12 15:00:00"
+        }
+    },
+    "node_36": {
+        "page_content": "2017年4月28日下午，老师在学校教室里站在讲台上，微笑着宣布将举办一次读书分享会。教室里气氛非常热烈，同学们纷纷讨论起来。这让我既兴奋又紧张，内心有些矛盾。虽然我一直喜欢阅读，但想到要在全班同学面前发言，心里不免有些忐忑。老师的鼓励和同学们的热情参与，让我感受到集体的温暖和支持。",
+        "metadata": {
+            "node_id": "node_36",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我在读书分享会上表现不好，大家会认为我很差劲。",
+            "emotion": "焦虑和害怕",
+            "behavior": "犹豫是否要报名参加，可能会避免与同学和老师讨论这件事。",
+            "physiological_response": "心跳加速，手心出汗，胃部不适。",
+            "created_at": "2017-04-28 14:30:00"
+        }
+    },
+    "node_35": {
+        "page_content": "2015年11月10日上午，期中考试成绩公布的那一刻，教室里响起了热烈的掌声。我取得了优异的成绩，班主任和同学们纷纷向我表示祝贺。教室里挂满了学生们的绘画作品，气氛温馨而充满喜悦。我感到极大的成就感和满足感，意识到通过努力和他人的帮助，自己可以克服困难，实现目标。这次成功让我对未来充满了希望和动力。",
+        "metadata": {
+            "node_id": "node_35",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "通过努力和他人的帮助，我可以克服困难，实现目标。",
+            "emotion": "成就感和满足感",
+            "behavior": "对未来充满希望和动力，继续努力学习",
+            "physiological_response": "心跳加速，脸上露出笑容，感到轻松愉快",
+            "created_at": "2015-11-10 10:00:00"
+        }
+    },
+    "node_34": {
+        "page_content": "2015年10月15日中午，午休时间，我鼓起勇气走进了学校办公室，找班主任谈话。办公室里安静而整洁，桌上堆满了各类文件和书籍，空气中弥漫着茶水的香气。我表达了自己对学业上的一些困惑，班主任耐心地倾听了我的问题，并提供了具体的建议和指导。她的关心和建议让我感受到被关心和重视，我对未来的学业和生活充满了更多的希望和信心。这次谈话让我更加积极地面对学业上的挑战，增强了自信心。",
+        "metadata": {
+            "node_id": "node_34",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "班主任关心我，她真的在意我的问题。",
+            "emotion": "感到被关心和重视，安心且温暖",
+            "behavior": "更加积极地面对学业上的挑战，增强了自信心",
+            "physiological_response": "心情放松，呼吸变得平稳",
+            "created_at": "2015-10-15 12:30:00"
+        }
+    },
+    "node_33": {
+        "page_content": "2015年10月15日上午课间时分，班主任走进教室，看到一个成绩不好的同学独自坐在座位上，脸上满是沮丧。班主任走过去，亲切地询问他遇到了什么困难，并耐心地帮助他解答问题。周围的同学们也渐渐安静下来，关注着这一幕。我在座位上看到了这一切，感受到老师对每个学生的关爱。这让我感到温暖和安心，心中充满了对未来的希望。",
+        "metadata": {
+            "node_id": "node_33",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "老师对每个学生都充满关爱，我也值得被爱和关心。",
+            "emotion": "温暖和安心",
+            "behavior": "继续专心听课，感受到积极的氛围。",
+            "physiological_response": "心情舒畅，感觉轻松愉快。",
+            "created_at": "2015-10-15 09:45:00"
+        }
+    },
+    "node_32": {
+        "page_content": "2018年3月5日下午，班主任在学校办公室里注意到我情绪低落，便主动找我谈话。办公室里，几张办公桌上堆满了文件，墙上挂着奖状和学生作品。班主任温和地问我是不是遇到了什么困难，我感受到了她的关心，但内心的恐惧让我无法坦诚相待。我害怕再一次被误解和受伤，于是选择隐瞒真相，只说了一些无关痛痒的话。虽然她的关心让我感到一丝温暖，但我却依然沉浸在孤独和无助中。",
+        "metadata": {
+            "node_id": "node_32",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "即使班主任关心我，我也会被误解和受伤。",
+            "emotion": "害怕、孤独、无助",
+            "behavior": "隐瞒真相，只说无关痛痒的话",
+            "physiological_response": "心跳加快，胃部紧张",
+            "created_at": "2018-03-05 14:30:00"
+        }
+    },
+    "node_31": {
+        "page_content": "2018年3月2日傍晚，我回到家，心里满是白天在学校被孤立的痛苦。我想向父母倾诉，希望得到安慰。可是当我走进客厅时，却发现他们因为一件琐事在激烈争吵。父亲和母亲站在沙发旁，互相指责，声音越来越大。我站在一旁，感到无比无助和孤独，本想寻求支持的家却在关键时刻变得如此陌生和冷漠。",
+        "metadata": {
+            "node_id": "node_31",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我的父母不再关心我，我不值得被爱。",
+            "emotion": "极度的孤独和无助",
+            "behavior": "躲回自己的房间，不再和父母交流",
+            "physiological_response": "胸口发闷，眼泪不自觉地流下来",
+            "created_at": "2018-03-02 18:45:00"
+        }
+    },
+    "node_30": {
+        "page_content": "2018年3月2日上午，在学校的教室里，我们正在进行分组讨论。阳光透过窗户照进教室，空气中弥漫着讨论的声音。突然，我发现几位同学（张三和李四）突然不再和我说话，并且在背后窃窃私语。后来我才知道他们误以为我在背后说他们的坏话。被孤立的感觉让我非常孤独和无助，我的心仿佛被重重打了一拳，难以呼吸。",
+        "metadata": {
+            "node_id": "node_30",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们误会我了，我被孤立了，大家都不喜欢我了。",
+            "emotion": "极度孤独和无助，心情沉重",
+            "behavior": "沉默不语，避免与同学互动，可能会哭泣或离开教室",
+            "physiological_response": "心跳加快，呼吸急促，胸口发闷",
+            "created_at": "2018-03-02 10:15:00"
+        }
+    },
+    "node_29": {
+        "page_content": "2019年1月20日傍晚，我在客厅写作业，突然听到父母在一旁小声交谈。他们先是互相道歉，然后紧紧拥抱在一起，这一幕让我感到非常欣慰和满足。我心里的一块大石头终于落地，重新燃起了对家庭关系的希望。我觉得自己还是值得被爱的，这次和解给了我很大的安慰和信心。",
+        "metadata": {
+            "node_id": "node_29",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "父母终于和好了，我还是值得被爱的。",
+            "emotion": "欣慰和满足，重新燃起希望",
+            "behavior": "微笑，继续认真写作业",
+            "physiological_response": "心情放松，身体感觉轻松",
+            "created_at": "2019-01-20 18:45:00"
+        }
+    },
+    "node_28": {
+        "page_content": "2019年1月16日早晨，我早早地起来，想要通过做早餐来缓和父母之间的紧张气氛。我在厨房里忙碌着，做了煎蛋和吐司，并主动和他们打招呼。然而，父母只是冷冷地互相看了一眼，然后继续各自忙着自己的事情，完全没有回应我的努力。我感到更加孤独和无助，像是被忽视了一样，开始质疑自己是否值得被爱。",
+        "metadata": {
+            "node_id": "node_28",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我是否真的值得被爱？我努力了也得不到回应。",
+            "emotion": "孤独和无助，感到被忽视",
+            "behavior": "停止主动沟通，变得更加内向和沉默",
+            "physiological_response": "胸口发闷，胃部不适",
+            "created_at": "2019-01-16 07:15:00"
+        }
+    },
+    "node_27": {
+        "page_content": "2019年1月15日晚上，我在自己的房间里本来在看书，但突然听到客厅里传来父母激烈的争吵声。他们的声音越来越大，我躲在被子里，心跳加速，手心出汗。我感到非常害怕和无助，担心他们会因为争吵而离婚。我开始怀疑自己是不是争吵的原因，觉得自己不值得被爱。",
+        "metadata": {
+            "node_id": "node_27",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "父母争吵是因为我，我不值得被爱。",
+            "emotion": "害怕、无助、自责",
+            "behavior": "躲在被子里，尽量让自己不被发现，不敢出声或干预。",
+            "physiological_response": "心跳加速，手心出汗，呼吸急促，浑身颤抖。",
+            "created_at": "2019-01-15 20:30:00"
+        }
+    },
+    "node_26": {
+        "page_content": "2017年11月5日晚上，我回到家中，失望地对父母说我只获得了三等奖。母亲放下手中的活，温柔地拥抱我，父亲也拍拍我的肩膀，鼓励我下次再接再厉。虽然父母的话让我感到了一些安慰，但我内心仍然对自己感到失望和自责。这次经历让我真正体验到了失败的滋味，心里很难过，但我也知道，这只是成长过程中的一部分。",
+        "metadata": {
+            "node_id": "node_26",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我没有表现得足够优秀，我让父母失望了。",
+            "emotion": "失望，自责，内疚",
+            "behavior": "情绪低落，不愿与他人交流，可能会写日记来记录自己的感受。",
+            "physiological_response": "食欲不振，睡眠质量下降，头痛",
+            "created_at": "2017-11-05 19:00:00"
+        }
+    },
+    "node_25": {
+        "page_content": "2017年11月5日上午，在市艺术中心的大厅里，我和其他参赛者一起等待评委的评分。大厅里静悄悄的，只有评委们低声讨论的声音，我的手心开始出汗，心跳得很快。我不由得紧张起来，怀疑自己的作品是否足够优秀。我努力深呼吸，试图平复心情，可是焦虑感还是不断涌上心头。",
+        "metadata": {
+            "node_id": "node_25",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我的作品不够优秀，我会被忽视和否定。",
+            "emotion": "强烈的焦虑和害怕被否定",
+            "behavior": "不停地深呼吸，试图控制情绪，但无法集中注意力",
+            "physiological_response": "手心出汗，心跳加快，呼吸急促",
+            "created_at": "2017-11-05 10:00:00"
+        }
+    },
+    "node_24": {
+        "page_content": "2017年10月15日下午，在学校的教室里，老师宣布了绘画比赛的结果。当听到我的名字时，我的心跳加速，激动得脸颊发热。老师微笑着说我获得了一等奖，同学们也纷纷为我鼓掌。那一刻，我感到无比自豪和开心，仿佛所有的努力都得到了回报。老师的表扬和同学们的赞美让我觉得自己真的很优秀，值得被爱。",
+        "metadata": {
+            "node_id": "node_24",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我真的很优秀，值得被爱。",
+            "emotion": "无比自豪和开心",
+            "behavior": "微笑着接受了老师和同学们的赞美。",
+            "physiological_response": "心跳加速，脸颊发热。",
+            "created_at": "2017-10-15 14:30:00"
+        }
+    },
+    "node_23": {
+        "page_content": "2016年12月1日晚上7点，学校礼堂里灯火辉煌，我和合唱团的同学们站在舞台上，准备进行我们的表演。音乐响起，所有人都专注地唱着。我偷偷看了一眼台下，看到父母坐在前排，为我鼓掌加油，内心充满了自豪和幸福。那一刻，我觉得所有的努力和汗水都是值得的，父母的笑容和掌声是对我最好的奖励。",
+        "metadata": {
+            "node_id": "node_23",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我必须表现得非常优秀，父母才会为我感到自豪。",
+            "emotion": "自豪和压力并存",
+            "behavior": "更加努力地唱歌，力求完美。",
+            "physiological_response": "心跳加速，手心微微出汗。",
+            "created_at": "2016-12-01 19:00:00"
+        }
+    },
+    "node_22": {
+        "page_content": "2016年10月10日下午4点45分，合唱团的排练如期进行。那天我们练习一个难度较高的歌曲，我反复尝试却总是唱不好那个音调，心里充满了沮丧和无助。音乐老师走到我身边，耐心地给我讲解技巧，并带着我一遍又一遍地练习。同学们也纷纷鼓励我，让我不要气馁。经过不懈的努力，我终于成功掌握了那个音调，心中的成就感油然而生。",
+        "metadata": {
+            "node_id": "node_22",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我不能在合唱团表现得优秀，我会被忽视和否定。",
+            "emotion": "紧张和焦虑",
+            "behavior": "更加努力地练习，不断寻求老师和同学的帮助。",
+            "physiological_response": "呼吸急促，心跳加快，手心出汗。",
+            "created_at": "2016-10-10 16:45:00"
+        }
+    },
+    "node_21": {
+        "page_content": "2016年9月15日下午3点半，我第一次走进学校的音乐教室，心里充满了紧张和期待。音乐老师微笑着欢迎我，同学们也热情地和我打招呼。排练开始时，我的声音有些颤抖，但音乐老师温柔的眼神和同学们鼓励的笑容让我渐渐放松下来。我闭上眼睛，随着音乐的旋律唱起了歌，心里感到无比的快乐和满足。",
+        "metadata": {
+            "node_id": "node_21",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "老师和同学们真的在乎我，他们希望我表现好。",
+            "emotion": "快乐和满足",
+            "behavior": "更加投入地练习唱歌",
+            "physiological_response": "呼吸平稳，心情愉悦",
+            "created_at": "2016-09-15 15:30:00"
+        }
+    },
+    "node_20": {
+        "page_content": "2016年4月12日下午4:00，放学后，我站在学校门口等待家长接我。那个哭泣的同学走过来，脸上带着微笑，她轻声说：'谢谢你，郎瑞荔。你的安慰让我感觉好多了。'我听到她的感谢，心里感到无比温暖和被认可。这次经历让我更加坚定了对爱的信念，并对未来充满了希望。",
+        "metadata": {
+            "node_id": "node_20",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我的关心和爱让别人感到更好，这证明我值得被爱。",
+            "emotion": "温暖和被认可",
+            "behavior": "微笑着回应并感到自信",
+            "physiological_response": "心跳温和，呼吸平稳",
+            "created_at": "2016-04-12 16:00:00"
+        }
+    },
+    "node_19": {
+        "page_content": "2016年4月12日下午3:35，我和朋友们走近那个哭泣的同学，轻声地问她发生了什么。她抬起头，眼睛红红的，嘴唇颤抖着说出她家庭的问题。我们递上纸巾，轻轻拍着她的背，告诉她一切都会好起来的。我感到自己能够帮助她，心里充满了成就感和满足感。",
+        "metadata": {
+            "node_id": "node_19",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我能够帮助她，这让我感到自己是有价值的。",
+            "emotion": "成就感和满足感",
+            "behavior": "继续安慰和支持那个同学。",
+            "physiological_response": "心跳平稳，呼吸放松，感到温暖。",
+            "created_at": "2016-04-12 15:35:00"
+        }
+    },
+    "node_18": {
+        "page_content": "2016年4月12日下午3:30，在学校的操场上，阳光洒在我们身上。我和几个朋友正在玩耍，突然看到班上的一个同学独自坐在操场的一角，泪水不断从她的脸颊滑落。她的表情显得非常痛苦和无助。我感到心里有些难受，想要过去看看发生了什么。",
+        "metadata": {
+            "node_id": "node_18",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "她看起来很难过，我应该去关心她。她需要有人在她身边。",
+            "emotion": "同情和关心",
+            "behavior": "走过去询问她发生了什么，并试图安慰她。",
+            "physiological_response": "心跳加快，感觉胸口有些紧张。",
+            "created_at": "2016-04-12 15:30:00"
+        }
+    },
+    "node_17": {
+        "page_content": "2018年10月18日下午4:00，李老师在学校办公室对我进行了额外的辅导。每次辅导结束后，她都会给予我积极的反馈和鼓励。她耐心地讲解每一个知识点，并且不断鼓励我说：“你很聪明，只要努力一定能提高。”随着时间的推移，我的数学成绩逐渐提升，自信心也慢慢恢复。这个过程让我认识到，通过努力，我可以实现目标，并且我有能力应对生活中的挑战。",
+        "metadata": {
+            "node_id": "node_17",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_5",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "通过努力，我可以实现目标。",
+            "emotion": "自信，感到被鼓励",
+            "behavior": "更加专注和努力学习数学，积极面对挑战",
+            "physiological_response": "心情愉快，精力充沛",
+            "created_at": "2018-10-18 16:00:00"
+        }
+    },
+    "node_16": {
+        "page_content": "2018年10月16日下午4:00，放学后，我被班主任李老师叫到了办公室。李老师温柔地询问了我最近的学习状况，并表示愿意提供额外的辅导。她的眼神中充满了关切和鼓励，她告诉我不要因为一次失败而灰心，要相信自己可以通过努力取得好成绩。听到这些话，我心里感到一阵温暖，重新燃起了希望，觉得自己被支持和关心。",
+        "metadata": {
+            "node_id": "node_16",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "李老师真的关心我，我还是值得被爱的。",
+            "emotion": "温暖和希望",
+            "behavior": "开始考虑接受李老师的辅导，重新努力学习。",
+            "physiological_response": "心跳变得平稳，呼吸变得轻松。",
+            "created_at": "2018-10-16 16:00:00"
+        }
+    },
+    "node_15": {
+        "page_content": "2018年10月15日下午3:30，在学校教室内，我拿到了期中考试的成绩单。看到数学成绩骤然下降，我的心顿时沉到了谷底。四周的同学都在谈论自己的成绩，我只能低着头，感觉脸上火辣辣的。心里充满了自责和焦虑，害怕回家后父母会失望。我忍不住开始质疑自己的能力，觉得自己不够优秀。",
+        "metadata": {
+            "node_id": "node_15",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我的数学成绩这么差，父母一定会很失望，我真是个失败者。",
+            "emotion": "自责和焦虑",
+            "behavior": "低着头，不敢与同学交流，回家后可能会隐瞒成绩或逃避父母的询问。",
+            "physiological_response": "脸颊发烫，心跳加速，胃部不适。",
+            "created_at": "2018-10-15 15:30:00"
+        }
+    },
+    "node_14": {
+        "page_content": "第二天早上，空气中弥漫着一种压抑的沉默。父母坐在同一个餐桌前，彼此间没有任何交流。餐桌上的早餐显得格外冷清。我试图打破这种沉默，轻声说了一句：‘昨晚的事情...’，但他们都没有回应我，依旧各自沉默不语。这种冷漠的家庭氛围让我感到更加孤独和被忽视，内心有种说不出的酸楚和失落。",
+        "metadata": {
+            "node_id": "node_14",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们不爱我，不关心我。",
+            "emotion": "孤独，失落，酸楚",
+            "behavior": "低头沉默，避免眼神接触，迅速吃完早餐离开餐桌。",
+            "physiological_response": "胸口发紧，胃部不适，食欲减退。",
+            "created_at": "2018-05-16 07:45:00"
+        }
+    },
+    "node_13": {
+        "page_content": "争吵后，我躲在自己的房间里，尽量让自己不去听妈妈的哭声和爸爸愤怒的脚步声。爸爸摔门离开家的那一刻，我感到整个世界都在崩塌。我无助地蜷缩在床角，心里反复想着：家庭会不会破裂？我该怎么办？这种无力感和恐惧感让我感到难以呼吸，内心的焦虑和不安全感瞬间涌上心头。",
+        "metadata": {
+            "node_id": "node_13",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我的家庭在崩溃，我没有人爱我了。",
+            "emotion": "极度的恐惧和无助",
+            "behavior": "躲在房间里，不敢面对父母，避免与他们接触。",
+            "physiological_response": "心跳加速，呼吸急促，浑身发抖。",
+            "created_at": "2018-05-15 20:30:00"
+        }
+    },
+    "node_12": {
+        "page_content": "2018年5月15日晚上，我在房间里做作业，听到客厅里父母在讨论经济问题。起初，他们的声音只是有些提高，但很快就变成了激烈的争吵。爸爸突然爆发，把一个杯子摔在地上，玻璃碎片四散开来。妈妈开始哭泣，声音透过房门传到我的耳朵里。我感到心里一阵酸楚和无助，家庭不再像以前那样和谐，内心充满了惶恐和不安。",
+        "metadata": {
+            "node_id": "node_12",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "他们不再爱我了，家庭已经破碎。",
+            "emotion": "悲伤和孤独",
+            "behavior": "停止做作业，躲在房间里哭泣。",
+            "physiological_response": "心跳加快，胃部不适。",
+            "created_at": "2018-05-15 20:15:00"
+        }
+    },
+    "node_11": {
+        "page_content": "2017年6月24日下午，我坐在家中的客厅，阳光透过窗户洒进来，墙上挂满了我的画作。我独自一人拿起画笔，画了一幅两个人牵手的画，象征着我和朋友的友谊。我将这幅画挂在自己的房间里，每天看着它，感受到朋友的陪伴。通过画画，我将内心的情感表达出来，减轻了孤独感。",
+        "metadata": {
+            "node_id": "node_11",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "即使我和朋友画在一起，我还是感到孤独。",
+            "emotion": "悲伤、孤独感",
+            "behavior": "继续画画，但内心充满了失落感，可能会不愿意和现实中的朋友交流。",
+            "physiological_response": "心情沉重，胸口发闷，眼睛酸涩，可能流泪。",
+            "created_at": "2017-06-24 14:00:00"
+        }
+    },
+    "node_10": {
+        "page_content": "2017年6月18日晚上，她离开的最后一天，她送给我一封手写的信。我坐在卧室里，窗外的夕阳透过窗帘洒进房间，房间里静悄悄的。我打开信，读着她写下的每一个字，她表达了对我们友谊的珍惜和对未来保持联系的期望。我的心情复杂，从悲伤到感动，泪水模糊了我的视线。她的信让我感受到了一种深深的慰藉和认可，这种情感让我觉得我们即使分开，友谊仍然存在。",
+        "metadata": {
+            "node_id": "node_10",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "即使她离开了，我仍然被朋友所珍惜和爱护。",
+            "emotion": "感动和悲伤交织",
+            "behavior": "我忍不住流下了眼泪，紧紧握住那封信。",
+            "physiological_response": "心跳加速，眼眶湿润，呼吸稍微急促。",
+            "created_at": "2017-06-18 20:45:00"
+        }
+    },
+    "node_9": {
+        "page_content": "2017年6月15日下午，在学校操场上，阳光洒在我们身上，四周是欢笑的同学和热闹的嘈杂声。好朋友突然告诉我，她即将因为家庭搬迁而转学到另一所学校。我愣住了，眼泪不自觉地涌上眼眶。她的离开让我感到无助和悲伤，我不知道该如何面对这突如其来的变化，也担心失去这段珍贵的友谊。",
+        "metadata": {
+            "node_id": "node_9",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "她的离开让我感到无助和悲伤，我不知道该如何面对这突如其来的变化，也担心失去这段珍贵的友谊。",
+            "emotion": "悲伤和无助",
+            "behavior": "哭泣，试图挽留朋友，可能会变得更加孤僻和不愿意与其他同学交流。",
+            "physiological_response": "心跳加速，胸口发紧，眼泪不自觉地涌出，感觉胃部不适。",
+            "created_at": "2017-06-15 15:30:00"
+        }
+    },
+    "node_8": {
+        "page_content": "2015年5月6日早上，全校大会在学校礼堂举行。老师在台上拿着我的画作，向全校师生介绍了我的获奖情况。台下的同学们用热烈的掌声给予我祝贺，我站在座位上，脸上洋溢着微笑，心中充满了荣誉感和被认可的感觉。这次经历不仅让我感受到成就感，还让我对未来充满了希望。",
+        "metadata": {
+            "node_id": "node_8",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我的努力得到了认可，我真的很优秀。",
+            "emotion": "开心、自豪",
+            "behavior": "微笑并与同学们分享喜悦，积极投入到下一步的学习和创作中。",
+            "physiological_response": "心跳加速，脸部微微发热。",
+            "created_at": "2015-05-06 09:00:00"
+        }
+    },
+    "node_7": {
+        "page_content": "2015年5月5日上午，学校礼堂里人头攒动，充满了紧张和期待的氛围。我站在舞台上，心跳加速，手心冒汗。台下的父母和同学都在注视着我，父母的目光中充满了鼓励和期待。评委们在台下仔细地看着我的画作，随后一致给出了高分。当宣布我获得第一名的那一刻，我感受到了极大的成就感和满足感，心中的喜悦难以言表。",
+        "metadata": {
+            "node_id": "node_7",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我表现得很优秀，父母和老师会认可我。",
+            "emotion": "极大的成就感和满足感",
+            "behavior": "微笑着面对大家，感激地看向父母和评委",
+            "physiological_response": "心跳加速，手心冒汗，脸上露出喜悦的笑容",
+            "created_at": "2015-05-05 10:00:00"
+        }
+    },
+    "node_6": {
+        "page_content": "2015年4月10日下午，我坐在家中的客厅，手中握着画笔，专注地完成着绘画作品。母亲坐在一旁，细心地指导我每一个细节，父亲时不时地过来看看我的进展，给予鼓励。学校的美术教室里，我也常常在放学后留在那里练习，老师时而过来给我一些建议。准备期间，我感受到了父母特别是母亲的支持和爱护，这让我觉得自己是值得被爱的，也让我体会到了通过努力可以实现目标的成就感。",
+        "metadata": {
+            "node_id": "node_6",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "父母和老师都很关心我，我是值得被爱的。",
+            "emotion": "安心和幸福",
+            "behavior": "更加专注于绘画，接受父母和老师的指导",
+            "physiological_response": "心情舒畅，微笑",
+            "created_at": "2015-04-10 15:30:00"
+        }
+    },
+    "node_5": {
+        "page_content": "2012年2月1日晚上，我们在家中的餐厅共进晚餐。餐桌上摆满了丰盛的菜肴，香气四溢。晚餐进行中，父亲开始谈论未来的计划，并对我表达了很多期望。母亲则一边微笑着一边补充说无论我选择什么，他们都会支持我。他们的言语中充满了关爱和期待，这让我感到自己是被深深爱着的，也让我对未来充满了信心和动力。那一刻，我感受到父母对我的无限关爱和支持，心中充满了力量去面对未来的挑战。",
+        "metadata": {
+            "node_id": "node_5",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "父母真的很爱我，我值得被爱。",
+            "emotion": "温暖和快乐",
+            "behavior": "微笑并积极回应父母的话，心中充满希望。",
+            "physiological_response": "心跳平稳，身体放松，面部表情柔和。",
+            "created_at": "2012-02-01 19:00:00"
+        }
+    },
+    "node_4": {
+        "page_content": "2012年1月23日下午，大年初一，我们家举办了一场小型聚会。客厅里摆满了各种零食和饮料，气氛非常热闹。父亲提议我们玩传统的猜灯谜游戏，母亲则准备了许多小奖品。每当我猜对一个灯谜，父母都会鼓掌和欢呼，这让我感到非常开心和自豪。父母的鼓励和欣赏让我感受到了家庭的温暖和支持，心中充满了被爱和被认可的感觉。",
+        "metadata": {
+            "node_id": "node_4",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "父母都很爱我，我值得被爱。",
+            "emotion": "开心和自豪",
+            "behavior": "更加积极地参与游戏，微笑和欢笑。",
+            "physiological_response": "心跳加快，脸上泛起红晕，感到温暖。",
+            "created_at": "2012-01-23 14:15:00"
+        }
+    },
+    "node_3": {
+        "page_content": "2012年1月21日上午，我和父母在家中的客厅布置春节的装饰。红灯笼挂在墙上，窗花贴在玻璃上，整个房间充满了节日的氛围。父亲一边挂灯笼一边跟我讲述他小时候过年的故事，母亲则在一旁整理对联。父母的笑容和关心让我感到温暖和被爱，他们不停地夸奖我布置得很好，那一刻我感到自己是家庭的重要一员，心里充满了幸福。",
+        "metadata": {
+            "node_id": "node_3",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我真的值得被爱，我是家庭的一部分。",
+            "emotion": "幸福和满足",
+            "behavior": "主动帮忙布置春节装饰，更加积极参与家庭活动。",
+            "physiological_response": "心情愉快，微笑，身体感觉轻松舒适。",
+            "created_at": "2012-01-21 10:30:00"
+        }
+    },
+    "node_2": {
+        "page_content": "2013年9月10日晚上7点，我一回到家就迫不及待地告诉父母我得了第一名。父亲摸了摸我的头，笑着说他为我感到骄傲。母亲给了我一个大大的拥抱，说我真棒。那天晚上，母亲做了我最喜欢的红烧排骨，全家人一起庆祝。我感受到浓浓的爱意和支持，觉得自己是世界上最幸福的女孩。",
+        "metadata": {
+            "node_id": "node_2",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "父母真的很爱我，我值得被爱。",
+            "emotion": "幸福和满足",
+            "behavior": "与父母交流更多，享受家庭时光。",
+            "physiological_response": "心情愉悦，身体放松，笑容满面。",
+            "created_at": "2013-09-10 19:00:00"
+        }
+    },
+    "node_1": {
+        "page_content": "2013年9月10日上午11点，老师在讲台上宣读成绩。听到我的名字时，我的心跳加速，当老师说我是全班第一时，我感到无比自豪。同学们纷纷鼓掌祝贺，我的脸上露出了难以抑制的笑容。老师还送了我一个漂亮的铅笔盒，这让我觉得自己被认可和尊重。",
+        "metadata": {
+            "node_id": "node_1",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我的努力得到了认可，我必须继续保持优秀。",
+            "emotion": "自豪、满足",
+            "behavior": "微笑回应大家的祝贺，并下决心继续努力学习。",
+            "physiological_response": "心跳加速，脸上泛红，感到一阵温暖。",
+            "created_at": "2013-09-10 11:00:00"
+        }
+    },
+    "node_0": {
+        "page_content": "2013年9月10日上午9点，我坐在明亮的教室里，手心微微出汗。第一次数学考试让我有些紧张，但老师的微笑和鼓励让我安心不少。母亲昨晚对我说的话还在耳边回荡，她总是告诉我努力的重要性。考试开始后，我一题一题认真答题，心里想着要让妈妈为我骄傲。",
+        "metadata": {
+            "node_id": "node_0",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我在这次考试中表现不好，妈妈会对我失望。",
+            "emotion": "焦虑和紧张",
+            "behavior": "更加专注于答题，尽力做到最好。",
+            "physiological_response": "心跳加快，手心出汗更多。",
+            "created_at": "2013-09-10 09:00:00"
+        }
+    }
+}

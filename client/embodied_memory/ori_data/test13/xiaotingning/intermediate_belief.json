@@ -1,0 +1,218 @@
+{
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以依靠朋友的支持来应对压力。",
+                "others": "朋友会在我需要时给予帮助和鼓励。",
+                "world": "世界上有很多支持系统可以依靠。"
+            },
+            "rules": "我应该主动寻求朋友的支持和帮助。",
+            "positive_assumption": "如果我依靠朋友的支持，我会更有信心面对挑战。",
+            "negative_assumption": "如果我不寻求朋友的帮助，我会感到孤立无援。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力创作出优秀的作品。",
+                "others": "朋友和导师会支持我的创作。",
+                "world": "世界充满了展示和发展的机会。"
+            },
+            "rules": "我应该投入时间和精力在自己的创作中。",
+            "positive_assumption": "如果我努力创作，我会获得成就感和他人的赞赏。",
+            "negative_assumption": "如果我不坚持创作，我将错失展示自己才能的机会。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我表现得不好，我就会被忽视。",
+                "others": "他人只会关注我的成绩。",
+                "world": "世界对我的认可是基于我的表现。"
+            },
+            "rules": "我必须不断努力以获得他人的认可。",
+            "positive_assumption": "如果我表现好，我就能被认可。",
+            "negative_assumption": "如果我表现不好，我就会被忽视和轻视。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能顺利完成论文，我就是失败者。",
+                "others": "导师和父母会对我失望。",
+                "world": "世界对我充满了挑战，我可能无法应对。"
+            },
+            "rules": "我必须完美地完成任务，才能证明自己的能力。",
+            "positive_assumption": "如果我能完成任务，我就能证明自己的价值。",
+            "negative_assumption": "如果我不能完成任务，我将被视为无能。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以依靠朋友的支持来应对压力。",
+                "others": "朋友会在我需要时给予帮助和鼓励。",
+                "world": "世界上有很多支持系统可以依靠。"
+            },
+            "rules": "我应该主动寻求朋友的支持和帮助。",
+            "positive_assumption": "如果我依靠朋友的支持，我会更有信心面对挑战。",
+            "negative_assumption": "如果我不寻求朋友的帮助，我会感到孤立无援。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力创作出优秀的作品。",
+                "others": "朋友和老师会支持我的创作。",
+                "world": "世界充满了展示和发展的机会。"
+            },
+            "rules": "我应该投入时间和精力在自己的创作中。",
+            "positive_assumption": "如果我努力创作，我会获得成就感和他人的赞赏。",
+            "negative_assumption": "如果我不坚持创作，我将错失展示自己才能的机会。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我表现得不好，我就会被忽视。",
+                "others": "他人只会关注我的成绩。",
+                "world": "世界对我的认可是基于我的表现。"
+            },
+            "rules": "我必须不断努力以获得他人的认可。",
+            "positive_assumption": "如果我表现好，我就能被认可。",
+            "negative_assumption": "如果我表现不好，我就会被忽视和轻视。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能取得好成绩，我就是失败者。",
+                "others": "父母和老师会对我失望。",
+                "world": "世界对我充满了挑战，我可能无法应对。"
+            },
+            "rules": "我必须完美地完成学业，才能证明自己的能力。",
+            "positive_assumption": "如果我取得好成绩，我就能证明自己的价值。",
+            "negative_assumption": "如果我不能取得好成绩，我将被视为无能。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以依靠朋友的支持来应对压力。",
+                "others": "朋友会在我需要时给予帮助和鼓励。",
+                "world": "世界上有很多支持系统可以依靠。"
+            },
+            "rules": "我应该主动寻求朋友的支持和帮助。",
+            "positive_assumption": "如果我依靠朋友的支持，我会更有信心面对挑战。",
+            "negative_assumption": "如果我不寻求朋友的帮助，我会感到孤立无援。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力创作出优秀的作品。",
+                "others": "朋友和老师会喜欢我的创作。",
+                "world": "世界充满了展示和发展的机会。"
+            },
+            "rules": "我应该投入时间和精力在自己的创作中。",
+            "positive_assumption": "如果我努力创作，我会获得成就感和他人的赞赏。",
+            "negative_assumption": "如果我不坚持创作，我将错失展示自己才能的机会。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我表现得不好，我就会被忽视。",
+                "others": "他人只会关注我的成绩。",
+                "world": "世界对我的认可是基于我的表现。"
+            },
+            "rules": "我必须不断努力以获得他人的认可。",
+            "positive_assumption": "如果我表现好，我就能被认可。",
+            "negative_assumption": "如果我表现不好，我就会被忽视和轻视。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能按父母的期望做得好，我就是失败者。",
+                "others": "父母和老师会对我失望。",
+                "world": "世界对我充满了挑战，我可能无法应对。"
+            },
+            "rules": "我必须完美地完成任务，才能证明自己的能力。",
+            "positive_assumption": "如果我能完成任务，我就能证明自己的价值。",
+            "negative_assumption": "如果我不能完成任务，我将被视为无能。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

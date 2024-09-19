@@ -1,0 +1,434 @@
+{
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要为家人做出牺牲。",
+                "others": "家人依靠我的支持和努力。",
+                "world": "世界充满不确定性，我必须尽力保证家人的稳定。"
+            },
+            "rules": "我必须优先考虑家人的需求，甚至牺牲自己的需求。",
+            "positive_assumption": "如果我为家人牺牲，我会感到自我价值。",
+            "negative_assumption": "如果我不能为家人做出牺牲，我会感到自责。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我应当为家人的幸福负责。",
+                "others": "家人依赖我提供物质支持。",
+                "world": "世界充满挑战，我必须保护我的家人。"
+            },
+            "rules": "我必须努力工作，确保家人过上更好的生活。",
+            "positive_assumption": "如果我为家人提供更好的生活，他们会幸福。",
+            "negative_assumption": "如果我无法为家人提供良好的生活，我会感到愧疚。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是缺乏自信，无法满足自己的期望。",
+                "others": "他人对我的期望始终高于我的能力。",
+                "world": "世界总是在考验我的能力。"
+            },
+            "rules": "我必须设法提高自己的能力，尽量满足别人的期望。",
+            "positive_assumption": "如果我不断提升自己，我会逐渐接近别人的期望。",
+            "negative_assumption": "如果我无法满足别人的期望，我会被批评。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "无论我怎么努力，我都达不到期望。",
+                "others": "他人总是对我不满意。",
+                "world": "世界对我的要求总是过高。"
+            },
+            "rules": "我不能放松警惕，必须不断改进。",
+            "positive_assumption": "如果我继续努力，或许有一天我会让自己和别人满意。",
+            "negative_assumption": "如果我放松自己，我会让自己和别人失望。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要超越他人才能证明自己的价值。",
+                "others": "他人总是与我竞争。",
+                "world": "世界是一个竞争激烈的地方。"
+            },
+            "rules": "我必须比别人更努力、更出色。",
+            "positive_assumption": "如果我超越他人，我会得到认可。",
+            "negative_assumption": "如果我无法超越他人，我会被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不努力工作，我会失败。",
+                "others": "他人只会尊重那些成功的人。",
+                "world": "这个世界对失败者没有宽容。"
+            },
+            "rules": "我必须全力以赴，不能松懈。",
+            "positive_assumption": "如果我不断努力，我会取得成功。",
+            "negative_assumption": "如果我不够努力，我会被视为失败者。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要为家人做出牺牲。",
+                "others": "家人依靠我的支持和努力。",
+                "world": "世界充满不确定性，我必须尽力保证家人的稳定。"
+            },
+            "rules": "我必须优先考虑家人的需求，甚至牺牲自己的需求。",
+            "positive_assumption": "如果我为家人牺牲，我会感到自我价值。",
+            "negative_assumption": "如果我不能为家人做出牺牲，我会感到自责。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我应当为家人的幸福负责。",
+                "others": "家人依赖我提供物质支持。",
+                "world": "世界充满挑战，我必须保护我的家人。"
+            },
+            "rules": "我必须努力学习，将来努力工作，确保家人过上更好的生活。",
+            "positive_assumption": "如果我为家人提供更好的生活，他们会幸福。",
+            "negative_assumption": "如果我无法为家人提供良好的生活，我会感到愧疚。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是缺乏自信，无法满足父亲的期望。",
+                "others": "父亲的期望始终高于我的能力。",
+                "world": "世界总是在考验我的能力。"
+            },
+            "rules": "我必须设法提高自己的能力，尽量满足父亲的期望。",
+            "positive_assumption": "如果我不断提升自己，我会逐渐接近父亲的期望。",
+            "negative_assumption": "如果我无法满足父亲的期望，我会被批评。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "无论我怎么努力，我都达不到父亲的期望。",
+                "others": "父亲总是对我不满意。",
+                "world": "世界对我的要求总是过高。"
+            },
+            "rules": "我不能放松警惕，必须不断改进。",
+            "positive_assumption": "如果我继续努力，或许有一天我会让父亲满意。",
+            "negative_assumption": "如果我放松自己，我会让父亲失望。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要超越同学才能证明自己的价值。",
+                "others": "同学们总是与我竞争。",
+                "world": "世界是一个竞争激烈的地方。"
+            },
+            "rules": "我必须比别人更努力、更出色。",
+            "positive_assumption": "如果我超越他人，我会得到认可。",
+            "negative_assumption": "如果我无法超越他人，我会被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不努力学习，我会失败。",
+                "others": "他人只会尊重那些学业优异的人。",
+                "world": "这个世界对失败者没有宽容。"
+            },
+            "rules": "我必须全力以赴，不能松懈。",
+            "positive_assumption": "如果我不断努力，我会取得好成绩。",
+            "negative_assumption": "如果我不够努力，我会被视为失败者。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要为家庭做出牺牲。",
+                "others": "父母依靠我的学业表现和努力。",
+                "world": "世界充满不确定性，我必须尽力保证家庭的稳定。"
+            },
+            "rules": "我必须优先考虑家庭的需求，甚至牺牲自己的需求。",
+            "positive_assumption": "如果我为家庭牺牲，我会感到自我价值。",
+            "negative_assumption": "如果我不能为家庭做出牺牲，我会感到自责。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我应当为家庭的和谐负责。",
+                "others": "父母依赖我在学业上的表现。",
+                "world": "世界充满挑战，我必须保护我的家庭。"
+            },
+            "rules": "我必须努力学习，确保家庭和谐。",
+            "positive_assumption": "如果我在学业上表现好，家庭会幸福。",
+            "negative_assumption": "如果我在学业上失败，我会让家庭失望。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是缺乏自信，无法满足自己的期望。",
+                "others": "老师和同学对我的期望始终高于我的能力。",
+                "world": "世界总是在考验我的能力。"
+            },
+            "rules": "我必须设法提高自己的能力，尽量满足别人的期望。",
+            "positive_assumption": "如果我不断提升自己，我会逐渐接近别人的期望。",
+            "negative_assumption": "如果我无法满足别人的期望，我会被批评。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "无论我怎么努力，我都达不到父母的期望。",
+                "others": "父母总是对我的成绩不满意。",
+                "world": "世界对我的要求总是过高。"
+            },
+            "rules": "我不能放松警惕，必须不断改进。",
+            "positive_assumption": "如果我继续努力，或许有一天我会让父母满意。",
+            "negative_assumption": "如果我放松自己，我会让父母失望。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要超越他人才能证明自己的价值。",
+                "others": "同学们总是与我竞争。",
+                "world": "世界是一个竞争激烈的地方。"
+            },
+            "rules": "我必须比别人更努力、更出色。",
+            "positive_assumption": "如果我超越同学，我会得到认可。",
+            "negative_assumption": "如果我无法超越同学，我会被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不努力学习，我会失败。",
+                "others": "他人只会尊重那些成绩优秀的人。",
+                "world": "这个世界对失败者没有宽容。"
+            },
+            "rules": "我必须全力以赴，不能松懈。",
+            "positive_assumption": "如果我不断努力，我会取得好成绩。",
+            "negative_assumption": "如果我不够努力，我会被视为失败者。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要为家人做出牺牲。",
+                "others": "家人依靠我的支持和努力。",
+                "world": "世界充满不确定性，我必须尽力保证家人的稳定。"
+            },
+            "rules": "我必须优先考虑家人的需求，甚至牺牲自己的需求。",
+            "positive_assumption": "如果我为家人牺牲，我会感到自我价值。",
+            "negative_assumption": "如果我不能为家人做出牺牲，我会感到自责。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我应当为家人的幸福负责。",
+                "others": "家人依赖我提供物质支持。",
+                "world": "世界充满挑战，我必须保护我的家人。"
+            },
+            "rules": "我必须努力学习，确保将来能给家人更好的生活。",
+            "positive_assumption": "如果我为家人提供更好的生活，他们会幸福。",
+            "negative_assumption": "如果我无法为家人提供良好的生活，我会感到愧疚。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是缺乏自信，无法满足父母的期望。",
+                "others": "父母的期望始终高于我的能力。",
+                "world": "世界总是在考验我的能力。"
+            },
+            "rules": "我必须设法提高自己的能力，尽量满足父母的期望。",
+            "positive_assumption": "如果我不断提升自己，我会逐渐接近父母的期望。",
+            "negative_assumption": "如果我无法满足父母的期望，我会被批评。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "无论我怎么努力，我都达不到父母的期望。",
+                "others": "父母总是对我不满意。",
+                "world": "世界对我的要求总是过高。"
+            },
+            "rules": "我不能放松警惕，必须不断改进。",
+            "positive_assumption": "如果我继续努力，或许有一天我会让父母满意。",
+            "negative_assumption": "如果我放松自己，我会让父母失望。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要超越同学才能证明自己的价值。",
+                "others": "同学总是与我竞争。",
+                "world": "世界是一个竞争激烈的地方。"
+            },
+            "rules": "我必须比别人更努力、更出色。",
+            "positive_assumption": "如果我超越同学，我会得到认可。",
+            "negative_assumption": "如果我无法超越同学，我会被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不努力学习，我会失败。",
+                "others": "他人只会尊重那些学习成绩优异的人。",
+                "world": "这个世界对失败者没有宽容。"
+            },
+            "rules": "我必须全力以赴，不能松懈。",
+            "positive_assumption": "如果我不断努力，我会取得好成绩。",
+            "negative_assumption": "如果我不够努力，我会被视为失败者。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

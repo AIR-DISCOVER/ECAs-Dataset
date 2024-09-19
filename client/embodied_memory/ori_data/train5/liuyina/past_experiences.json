@@ -1,0 +1,546 @@
+{
+    "childhood": {
+        "name": "柳伊娜",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我五岁时，有一次我把一杯牛奶不小心打翻了，母亲看到后非常生气，责骂我不小心。我当时感到非常害怕和无助，眼泪止不住地流。母亲严厉地说：'你怎么这么不小心？你知道这牛奶有多贵吗？'",
+                "location": "家中的厨房",
+                "happen_time": "1983年05月",
+                "participants": "柳伊娜, 母亲",
+                "impact": "这个事件让我感到自己必须更加小心谨慎，表现得更好，以免让母亲失望。这强化了我'我需要得到父母的认可和理解'的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "我七岁时，有一次学校举办小测验，我得了全班第一名。回家后，我兴奋地告诉母亲这个好消息，她露出了一丝笑容，夸奖我：'这才是我的好孩子，继续努力。'",
+                "location": "家中的客厅",
+                "happen_time": "1985年11月",
+                "participants": "柳伊娜, 母亲",
+                "impact": "这个事件让我感到父母的认可是非常重要的，并且他们的认可让我感到有价值。这进一步强化了我的核心信念'我需要得到父母的认可和理解'和中间信念'我应该尽力表现出色以获得父母的认可'。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "我九岁时，有一次在操场上玩耍时摔倒了，膝盖流血。虽然很疼，但我没有哭，因为我记得母亲以前说过：'坚强的孩子才值得尊重。'",
+                "location": "学校的操场",
+                "happen_time": "1987年09月",
+                "participants": "柳伊娜, 同学们",
+                "impact": "这个事件让我更加坚信'我必须表现得坚强'，因为我想得到同学和父母的尊重。这强化了我'我必须表现得坚强'的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "我十岁时，有一次父母因为一些琐事吵架，我站在一旁手足无措，但内心告诉自己要坚强，不要被他们的争吵影响。",
+                "location": "家中的客厅",
+                "happen_time": "1988年02月",
+                "participants": "柳伊娜, 父亲, 母亲",
+                "impact": "这个事件让我觉得在面对困难和冲突时，坚强是唯一的选择。这进一步强化了我的核心信念'我必须表现得坚强'和中间信念'我应该始终表现得坚强'。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次我看到母亲在家里忙碌地做家务，父亲在一旁安静地看书，没有帮忙。我感到母亲是家里的支柱，父亲的温和让我觉得他有些软弱。",
+                "location": "家中的客厅和厨房",
+                "happen_time": "1984年03月",
+                "participants": "柳伊娜, 母亲, 父亲",
+                "impact": "这个事件让我内心对坚强和软弱有了更深的理解，我开始认为坚强的人才值得尊重，而软弱的人则不然。这强化了我的核心信念'我必须表现得坚强'。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "我十一岁时，学校举办了一个演讲比赛，我非常害怕站在众人面前，但母亲告诉我：'你必须站上去，这样才能证明你是坚强的。'我咬牙坚持完成了演讲。",
+                "location": "学校的礼堂",
+                "happen_time": "1989年06月",
+                "participants": "柳伊娜, 母亲, 同学们",
+                "impact": "这个事件让我明白了坚强不仅仅是面对疼痛，还包括面对恐惧和挑战。这进一步强化了我的核心信念'我必须表现得坚强'。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次我在家里看到母亲因为一些小事对父亲发火，父亲并没有反驳，只是默默地承受。我感到很困惑，但又觉得母亲的强势是她获得家庭地位的原因。",
+                "location": "家中的客厅",
+                "happen_time": "1986年04月",
+                "participants": "柳伊娜, 母亲, 父亲",
+                "impact": "这个事件让我对权威和强势有了新的认知，我开始认为只有强势的人才能在家庭中获得地位和尊重。这影响了我对自己和他人的期待，强化了我'我必须表现得坚强'的核心信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "我八岁时，有一次我考试成绩不太理想，母亲对我很失望，冷冷地说：'你这样怎么能有好未来？'我感到非常内疚和失落，暗下决心下次一定要考好。",
+                "location": "家中的厨房",
+                "happen_time": "1986年11月",
+                "participants": "柳伊娜, 母亲",
+                "impact": "这个事件让我更加意识到母亲对我未来的期望，我必须努力学习以确保未来是光明的。这强化了我的核心信念'我必须为我的未来负责'和中间信念'我应该努力学习以确保我的成功'。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "我六岁时，有一次在家里帮忙做家务，母亲看到后夸奖我：'真是个有责任感的好孩子。'我感到非常高兴和自豪。",
+                "location": "家中的客厅",
+                "happen_time": "1984年07月",
+                "participants": "柳伊娜, 母亲",
+                "impact": "这个事件让我感受到责任感的重要性，并且这种责任感能带来父母的认可。这强化了我的核心信念'我是一个有责任感的人'和中间信念'我应该听从父母的安排，尽全力履行我的责任'。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次我看到邻居家的孩子因为玩耍太晚被父母责骂，孩子不停地哭泣，我感到他很可怜，但也明白了遵守规矩的重要性。",
+                "location": "邻居家的院子",
+                "happen_time": "1984年09月",
+                "participants": "柳伊娜, 邻居家的孩子, 邻居的父母",
+                "impact": "这个事件让我更加明白了遵守规矩和责任感的重要性，我觉得自己也应该尽责，这强化了我的核心信念'我是一个有责任感的人'和中间信念'我应该听从父母的安排，尽全力履行我的责任'。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "我十二岁时，我的生日那天，父母送了我一个新书包，母亲说：'这是你努力学习的奖励。'我感到非常开心和满足。",
+                "location": "家中的客厅",
+                "happen_time": "1990年05月",
+                "participants": "柳伊娜, 父亲, 母亲",
+                "impact": "这个事件让我感受到努力学习的重要性以及父母对我的认可，这强化了我的核心信念'我需要得到父母的认可和理解'和中间信念'如果我努力学习，我会有光明的未来'。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次我在学校看到一个同学因为成绩不好被老师责骂，他低着头，眼里充满了泪水。我开始意识到成绩的重要性。",
+                "location": "学校的教室",
+                "happen_time": "1986年05月",
+                "participants": "柳伊娜, 同学, 老师",
+                "impact": "这个事件让我更加坚定了努力学习的重要性，以避免自己也遭受同样的责骂。这强化了我的核心信念'我必须为我的未来负责'和中间信念'我应该努力学习以确保我的成功'。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "我十岁时，有一次家里来了客人，我被要求表演钢琴曲。我很紧张，但母亲在一旁鼓励我：'你行的，表现得坚强一些。'我咬牙完成了表演，客人们都夸我。",
+                "location": "家中的客厅",
+                "happen_time": "1988年09月",
+                "participants": "柳伊娜, 母亲, 家中的客人",
+                "impact": "这个事件让我感到表现坚强和勇敢能带来别人的认可和赞赏，这强化了我的核心信念'我必须表现得坚强'和中间信念'如果我表现得坚强，我会受到尊重'。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次在家里，我看到父母为了我的学习问题争吵。父亲认为我已经够努力了，而母亲认为我还可以做得更好。",
+                "location": "家中的客厅",
+                "happen_time": "1987年12月",
+                "participants": "柳伊娜, 母亲, 父亲",
+                "impact": "这个事件让我意识到父母对我学习的期望和压力，并且我觉得自己必须更加努力以满足他们的期望。这强化了我的核心信念'我需要得到父母的认可和理解'和中间信念'我应该尽力表现出色以获得父母的认可'。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "我十二岁时，有一次我偷偷跑出去和朋友玩耍，被母亲发现后责骂：'你这样怎么能有好前途？'我感到非常内疚，决定以后不再做让母亲失望的事。",
+                "location": "家中的客厅",
+                "happen_time": "1990年03月",
+                "participants": "柳伊娜, 母亲",
+                "impact": "这个事件让我更加坚定了要为了未来努力学习的决心，并且避免做让母亲失望的事。这强化了我的核心信念'我必须为我的未来负责'和中间信念'如果我不努力学习，我的未来会很糟糕'。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "柳伊娜",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中升高中考试的前一天晚上，我在家里复习，感到非常紧张。妈妈进来安慰我，说无论结果如何，她都会为我感到骄傲。那一刻，我感受到了一种巨大的责任感，我也更加坚定了要为自己的未来负责。",
+                "location": "家中的书房",
+                "happen_time": "1991年6月",
+                "participants": "柳伊娜与母亲",
+                "impact": "这次事件强化了柳伊娜的责任感和对未来的重视，进一步巩固了她的核心信念‘我必须为自己的未来负责’。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "某次数学考试成绩公布，我只考了70分。回到家后，我感到非常失落，认为自己辜负了老师和同学的期望。班主任打电话鼓励我，说我已经很努力了，不要太苛责自己。",
+                "location": "家中客厅",
+                "happen_time": "1992年3月",
+                "participants": "柳伊娜与班主任",
+                "impact": "这次事件使柳伊娜认识到努力的重要性，同时也让她感受到老师的认可和理解，增强了她的自我价值感。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班上的一位同学因为成绩太差，被其他同学嘲笑和孤立。我没有参与，但心里感觉非常不舒服。",
+                "location": "学校教室",
+                "happen_time": "1992年5月",
+                "participants": "柳伊娜与班级同学",
+                "impact": "这次事件让柳伊娜更加坚定了‘我需要得到别人的认可和理解’的信念，害怕自己也会被忽视或嘲笑。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在学校运动会上，我参加了接力赛并拿到了第一名。老师和同学们都为我欢呼，这让我感到非常自豪和受尊重。",
+                "location": "学校操场",
+                "happen_time": "1993年10月",
+                "participants": "柳伊娜与老师、同学",
+                "impact": "这次事件让柳伊娜感受到‘如果我表现得坚强，我会受到尊重’，进一步强化了她表现坚强的信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "高考前夕，我连续几天熬夜复习，身体感到非常疲惫。妈妈看到后非常担心，提醒我要注意休息，但我坚持说必须表现出坚强，不能让她失望。",
+                "location": "家中的书房",
+                "happen_time": "1996年5月",
+                "participants": "柳伊娜与母亲",
+                "impact": "这次事件进一步强化了柳伊娜‘我必须表现得坚强’的信念，即使身体疲惫，也要坚持下去。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "一次家长会上，我看到一位同学的父母因为他成绩优秀而在老师面前非常自豪。我默默地希望自己的父母也能这样为我感到骄傲。",
+                "location": "学校教室",
+                "happen_time": "1994年10月",
+                "participants": "柳伊娜、同学与其父母",
+                "impact": "这次事件让柳伊娜更加渴望得到认可，进一步强化了她‘我需要得到别人的认可和理解’的信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "有一次，我在课堂上回答问题时答错了，全班同学都笑了。我感到非常尴尬和难堪，心里想着‘如果我表现不好，老师和同学会忽视我’。",
+                "location": "学校课堂",
+                "happen_time": "1993年4月",
+                "participants": "柳伊娜与同学、老师",
+                "impact": "这次事件加深了柳伊娜的负面假设，认为如果自己表现不好，会被同学和老师忽视。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在一次家庭晚餐时，父母谈到未来的规划，妈妈说希望我能考上好大学，我感到一种巨大的压力，同时也更加坚定了要为自己的未来负责。",
+                "location": "家中餐桌",
+                "happen_time": "1995年2月",
+                "participants": "柳伊娜与父母",
+                "impact": "这次事件进一步强化了柳伊娜的核心信念‘我必须为自己的未来负责’，并增加了她的压力感。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "我观察到邻居家的孩子因为成绩不好而被父母责骂，我感到非常不安，同时也更加坚定了要努力学习的决心。",
+                "location": "邻居家门前",
+                "happen_time": "1994年7月",
+                "participants": "柳伊娜与邻居家孩子及其父母",
+                "impact": "这次事件让柳伊娜更加坚定了‘我应该努力学习以确保自己的成功’的信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在高考结束后，我和朋友们一起去庆祝，但心里仍然担心成绩，害怕自己的未来会很糟糕。",
+                "location": "餐厅",
+                "happen_time": "1996年6月",
+                "participants": "柳伊娜与朋友",
+                "impact": "这次事件反映了柳伊娜的焦虑和负面假设，担心如果自己不努力，未来会很糟糕。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在一次班级评选中，我被选为班长，感受到同学和老师对我的信任和期待。",
+                "location": "学校教室",
+                "happen_time": "1994年9月",
+                "participants": "柳伊娜与同学、老师",
+                "impact": "这次事件增强了柳伊娜的自信心，并进一步强化了她的核心信念‘我是一个有责任感的人’。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "有一次，我发现自己在数学题上遇到困难，向数学老师请教后，他耐心地为我讲解，让我感到被理解和支持。",
+                "location": "学校教师办公室",
+                "happen_time": "1993年11月",
+                "participants": "柳伊娜与数学老师",
+                "impact": "这次事件让柳伊娜感受到老师的理解和支持，进一步巩固了她的核心信念‘我需要得到别人的认可和理解’。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "我在学校图书馆看到一位同学因为家里经济困难而努力打工赚学费，我感到非常敬佩，同时也意识到自己需要更加努力。",
+                "location": "学校图书馆",
+                "happen_time": "1995年3月",
+                "participants": "柳伊娜与同学",
+                "impact": "这次事件让柳伊娜更加坚定了‘我应该努力学习以确保自己的成功’的信念，并增强了她的责任感。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我的叔叔夸奖我最近成绩进步很大，我感到非常自豪。",
+                "location": "家中客厅",
+                "happen_time": "1993年12月",
+                "participants": "柳伊娜与叔叔",
+                "impact": "这次事件增强了柳伊娜的自信心，并进一步强化了她的核心信念‘我需要得到别人的认可和理解’。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "在一次班级辩论赛中，我因为发言出色而赢得了比赛，同学们纷纷为我鼓掌，老师也对我表示赞赏。",
+                "location": "学校教室",
+                "happen_time": "1995年6月",
+                "participants": "柳伊娜与同学、老师",
+                "impact": "这次事件让柳伊娜感受到被认可的喜悦，进一步强化了她的核心信念‘我需要得到别人的认可和理解’。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "柳伊娜",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "大学期间，我担任了学生会的会长。尽管工作繁忙，我依旧保持着优秀的学业成绩。有一次，一位同学因为个人问题无法完成社团任务，我主动帮助她完成了任务，得到了老师和同学们的高度赞扬。",
+                "location": "大学校园",
+                "happen_time": "1999年10月",
+                "participants": "同学、老师",
+                "impact": "这次经历强化了我对责任感的认同，增强了自信心，并使我更加坚信尽责的重要性。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "大学毕业时，我面临着找工作的压力。为了确保自己有一个光明的未来，我花了大量时间准备各种考试和面试，最终成功找到了一份自由职业的工作。",
+                "location": "大学校园及家中",
+                "happen_time": "2000年6月",
+                "participants": "家人、朋友",
+                "impact": "这次经历让我深刻体会到努力的重要性，并强化了我为未来负责的信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "一次，我在家中听到邻居家的孩子因为成绩不理想被父母责骂。孩子在房间里哭泣，父母在客厅里争吵。",
+                "location": "家中",
+                "happen_time": "2001年3月",
+                "participants": "邻居家孩子及其父母",
+                "impact": "这次观察让我意识到家庭环境对孩子成长的重要性，并增强了我对自己未来家庭的责任感。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "我和丈夫在2002年结婚后的第一年，经历了一段经济压力较大的时期。为了减轻丈夫的压力，我主动承担起家务和一些兼职工作。",
+                "location": "家中",
+                "happen_time": "2002年5月",
+                "participants": "丈夫",
+                "impact": "这段经历让我更加坚信自己需要表现得坚强，进一步巩固了我在家庭中的责任感。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "2004年，我的儿子出生了。这一事件让我感受到了做母亲的责任感，开始对儿子的未来充满了期望。",
+                "location": "医院及家中",
+                "happen_time": "2004年8月",
+                "participants": "丈夫、儿子",
+                "impact": "儿子的出生让我更加重视家庭责任，并强化了我对未来的期待。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "有一次，儿子在幼儿园表现出色，得到了老师的表扬。回家后，他很高兴地告诉了我，我也感到非常骄傲和快乐。",
+                "location": "家中",
+                "happen_time": "2009年4月",
+                "participants": "儿子",
+                "impact": "这次经历让我感受到认可和理解的重要性，并希望通过我的努力让儿子感受到同样的支持。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "2010年，我和丈夫的一次激烈争吵后，我感到非常失落和无助，但我没有在儿子面前表现出软弱，依旧保持坚强的态度。",
+                "location": "家中",
+                "happen_time": "2010年7月",
+                "participants": "丈夫、儿子",
+                "impact": "这次经历让我意识到在家庭中保持坚强的重要性，进一步巩固了我对坚强信念的认同。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "一次，我看到一位朋友因为工作压力大而崩溃，她在我们面前哭泣，显得非常脆弱。我在一旁安慰她，并感到自己必须更加坚强。",
+                "location": "朋友家中",
+                "happen_time": "2011年11月",
+                "participants": "朋友",
+                "impact": "这次观察让我更加坚定了自己必须坚强的信念，并更加重视自我管理和情绪控制。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "2012年，我参加了一次重要的自由职业者会议，并在会上发表了自己的工作成果，得到了同行们的认可和赞扬。",
+                "location": "会议场所",
+                "happen_time": "2012年5月",
+                "participants": "同行",
+                "impact": "这次经历让我感受到了认可和成就感，进一步强化了我对自我价值的认同。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "2013年，儿子进入初中后，我开始更加关注他的学习成绩，花更多时间和精力在他身上，帮助他解决学习上的问题。",
+                "location": "家中",
+                "happen_time": "2013年9月",
+                "participants": "儿子",
+                "impact": "这次经历让我更加感受到母亲的责任感，并希望通过我的努力让儿子有一个光明的未来。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "柳伊娜",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我发现孩子最近变得很敏感，他不断问我是不是和他爸爸离婚了，我该怎么面对他？",
+                "location": "家中",
+                "happen_time": "2023年3月",
+                "participants": "儿子",
+                "impact": "这件事加重了我对孩子的担忧和焦虑，觉得自己必须更加努力去保护孩子的未来。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "儿子在学校的期中考试成绩不理想，我感到非常失望和愤怒，忍不住打了他。",
+                "location": "家中",
+                "happen_time": "2023年5月",
+                "participants": "儿子",
+                "impact": "这次冲突让我感到极度内疚和伤心，觉得自己并不是一个合格的母亲，同时也更加坚定了要严格教育孩子的信念。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次与朋友的麻将局上，朋友们讨论孩子的教育问题，大家都说我儿子应该更加努力，这让我感到非常压力。",
+                "location": "朋友家",
+                "happen_time": "2023年6月",
+                "participants": "三位亲密朋友",
+                "impact": "朋友们的评价让我感到自己在教育孩子方面做得不够好，增加了我的焦虑感。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，丈夫对我为孩子教育付出的努力表示感谢，但也提到我太紧张了。",
+                "location": "家中",
+                "happen_time": "2023年8月",
+                "participants": "丈夫",
+                "impact": "丈夫的关心让我感到一丝安慰，但同时也让我意识到自己的紧张情绪对家庭的影响。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "儿子因为压力大而在学校与同学发生了冲突，被老师叫到家长会。",
+                "location": "学校",
+                "happen_time": "2023年9月",
+                "participants": "儿子、老师",
+                "impact": "这次事件让我感到非常焦虑和失望，觉得自己在教育孩子方面失败了。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "听到邻居家的孩子考上了名校，邻居在家门口庆祝。",
+                "location": "小区",
+                "happen_time": "2023年10月",
+                "participants": "邻居",
+                "impact": "邻居孩子的成功让我感到自卑和压力，觉得自己和孩子都不够优秀。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "儿子在家中抱怨学习压力大，情绪低落，不愿意和我交流。",
+                "location": "家中",
+                "happen_time": "2023年11月",
+                "participants": "儿子",
+                "impact": "儿子的情绪低落让我非常担心，觉得自己对他施加了太多压力，增加了我的内疚感。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "参加了儿子的家长会，老师评价儿子学习态度不够端正。",
+                "location": "学校",
+                "happen_time": "2023年12月",
+                "participants": "老师",
+                "impact": "老师的评价让我感到羞愧和失望，觉得自己在教育孩子方面做得不够。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在和朋友的聚会上，朋友们分享了他们孩子的优秀成绩，我感到非常压力。",
+                "location": "朋友家",
+                "happen_time": "2024年1月",
+                "participants": "三位亲密朋友",
+                "impact": "这种比较让我感到自卑和焦虑，觉得自己的孩子不够优秀，自己也没有尽到责任。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "儿子在家中因为学习压力大而情绪失控，哭诉自己压力太大。",
+                "location": "家中",
+                "happen_time": "2024年3月",
+                "participants": "儿子",
+                "impact": "这次情绪爆发让我感到非常内疚，觉得自己给孩子施加了太多压力，同时也更加坚定了要帮助他成功的信念。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与丈夫的谈话中，丈夫建议我放松一些，不要给孩子太多压力。",
+                "location": "家中",
+                "happen_time": "2024年4月",
+                "participants": "丈夫",
+                "impact": "丈夫的建议让我感到矛盾，一方面想放松自己，另一方面又担心孩子的未来。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "儿子在学校的模拟考中取得了不错的成绩，我感到很欣慰。",
+                "location": "家中",
+                "happen_time": "2024年5月",
+                "participants": "儿子",
+                "impact": "这次好成绩让我感到一丝安慰和希望，觉得自己的付出有了回报。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "儿子在一次晚自习后回家晚了，我非常担心，忍不住责备了他。",
+                "location": "家中",
+                "happen_time": "2024年6月",
+                "participants": "儿子",
+                "impact": "这次冲突让我感到内疚，觉得自己对孩子的关心方式不对，但又无法控制自己的情绪。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到电视上报道其他家长因为孩子高考压力大而患上抑郁症的新闻。",
+                "location": "家中",
+                "happen_time": "2024年6月",
+                "participants": "电视新闻",
+                "impact": "新闻让我感到担忧，害怕自己会因为过度焦虑而影响心理健康。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "儿子因为压力大而在家中大哭，我感到非常心疼和无助。",
+                "location": "家中",
+                "happen_time": "2024年7月",
+                "participants": "儿子",
+                "impact": "这次情绪爆发让我感到非常内疚和心疼，觉得自己对孩子的压力太大，同时也更加坚定了要帮助他减轻负担的决心。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2024年8月的高考结果出来后，儿子考上了理想的大学，我感到非常欣慰和解脱。",
+                "location": "家中",
+                "happen_time": "2024年8月",
+                "participants": "儿子",
+                "impact": "这次成功让我感到非常欣慰，觉得自己的付出终于有了回报，同时也减轻了大量的心理压力。"
+            }
+        ]
+    }
+}

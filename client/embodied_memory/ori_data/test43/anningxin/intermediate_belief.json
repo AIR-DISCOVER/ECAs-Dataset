@@ -1,0 +1,218 @@
+{
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被尊重和认可。",
+                "others": "别人会尊重那些有能力的人。",
+                "world": "这个世界对那些值得尊重的人是友善的。"
+            },
+            "rules": "我应该展现自己的能力和价值。",
+            "positive_assumption": "如果我展现自己的能力，我会得到别人的尊重。",
+            "negative_assumption": "如果我不展现自己的能力，别人不会尊重我。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力克服困难。",
+                "others": "他人可以帮助我，但我能独立解决问题。",
+                "world": "世界充满了机会和挑战，我可以应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须完美无缺，才能被认可。",
+                "others": "别人只会认可那些表现完美的人。",
+                "world": "这个世界对不完美的人苛刻。"
+            },
+            "rules": "我应该避免犯错，时刻保持完美。",
+            "positive_assumption": "如果我表现完美，我会得到认可和尊重。",
+            "negative_assumption": "如果我犯错，别人就会看不起我。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是达不到自己的期望。",
+                "others": "别人会认为我不够好。",
+                "world": "这个世界对我充满了挑战，我很难应对。"
+            },
+            "rules": "我应该不断努力，以证明自己是足够好的。",
+            "positive_assumption": "如果我不断努力，我最终会变得更好。",
+            "negative_assumption": "如果我不努力，我永远都不够好。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被父母和老师尊重。",
+                "others": "别人会尊重那些有能力的人。",
+                "world": "这个世界对那些值得尊重的人是友善的。"
+            },
+            "rules": "我应该展现自己的能力和价值。",
+            "positive_assumption": "如果我展现自己的能力，我会得到别人的尊重。",
+            "negative_assumption": "如果我不展现自己的能力，别人不会尊重我。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过努力克服学习上的困难。",
+                "others": "父母和老师可以帮助我，但我必须独立解决问题。",
+                "world": "世界充满了机会和挑战，我可以应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须完美无缺，才能被认可。",
+                "others": "别人只会认可那些表现完美的人。",
+                "world": "这个世界对不完美的人苛刻。"
+            },
+            "rules": "我应该避免犯错，时刻保持完美。",
+            "positive_assumption": "如果我表现完美，我会得到认可和尊重。",
+            "negative_assumption": "如果我犯错，别人就会看不起我。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是达不到父母和自己的期望。",
+                "others": "同学们不认为我是最优秀的。",
+                "world": "这个世界对我充满了挑战，我很难应对。"
+            },
+            "rules": "我应该不断努力，以证明自己是足够好的。",
+            "positive_assumption": "如果我不断努力，我最终会变得更好。",
+            "negative_assumption": "如果我不努力，我永远都不够好。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被父母和老师尊重和认可。",
+                "others": "父母和老师会尊重那些有学习能力的学生。",
+                "world": "这个世界对那些值得尊重的人是友善的。"
+            },
+            "rules": "我应该展现自己的学习能力和价值。",
+            "positive_assumption": "如果我展现自己的能力，我会得到父母和老师的尊重。",
+            "negative_assumption": "如果我不展现自己的能力，父母和老师不会尊重我。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力克服学习上的困难。",
+                "others": "父母可以帮助我，但我能独立解决问题。",
+                "world": "世界充满了机会和挑战，我可以应对。"
+            },
+            "rules": "当遇到学习上的挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须完美无缺，才能被认可。",
+                "others": "父母只会认可那些表现完美的孩子。",
+                "world": "这个世界对不完美的人苛刻。"
+            },
+            "rules": "我应该避免犯错，时刻保持完美。",
+            "positive_assumption": "如果我表现完美，我会得到父母和老师的认可。",
+            "negative_assumption": "如果我犯错，父母和老师就会看不起我。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是达不到父母的期望。",
+                "others": "父母会认为我不够好。",
+                "world": "这个世界对我充满了挑战，我很难应对。"
+            },
+            "rules": "我应该不断努力，以证明自己是足够好的。",
+            "positive_assumption": "如果我不断努力，我最终会变得更好。",
+            "negative_assumption": "如果我不努力，我永远都不够好。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

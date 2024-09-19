@@ -1,0 +1,179 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "谨慎",
+            "责任感强",
+            "自我要求高",
+            "情感细腻"
+        ],
+        "appearance": [
+            "中等身材",
+            "略显消瘦",
+            "黑发",
+            "眼神略显疲惫",
+            "穿着整洁但不讲究"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读财经书籍",
+                "听古典音乐",
+                "散步"
+            ],
+            "activity": [
+                "和家人一起看电影",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复工作状态，重新找回对工作的热情",
+            "long_term_goals": "在金融行业取得更高的成就，给家人提供更好的生活"
+        },
+        "daily_life": {
+            "routine": "早上7点起床，简单早餐后上班；工作时间较长，晚上8点左右回家；晚饭后通常会看书或听音乐，10点左右上床休息，但入睡困难。",
+            "weekends": "周末大部分时间在家休息，有时会和家人一起去公园散步，偶尔会处理一些工作上的事情。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但性格内向，不太擅长与人交往。",
+            "youth": "大学期间选择了金融专业，毕业后进入了一家知名的金融公司工作，工作表现一直很出色。",
+            "recent_events": "最近工作中连连出错，被领导当众批评，导致情绪低落，工作效率下降。"
+        },
+        "environment": "出生在华东地区的一个中等城市，大学毕业后留在省会城市工作和生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工人，母亲是一名教师。父母对王武之的期望很高，从小就要求他努力学习。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "王武之在小学时有几个玩伴，但由于性格内向，他并没有特别亲密的朋友。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "中学时期，父母对他的学习要求更加严格，导致他与父母的关系有些紧张。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期，王武之成绩优异，但由于性格内向，不太擅长与人交往，和同学的关系一般。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "大学期间，王武之选择了金融专业，结识了一些志同道合的同学，但关系并不特别亲密。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "王武之的导师对他的学术能力非常认可，给予了他很多指导和帮助。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "妻子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "王武之与妻子结婚多年，感情深厚，但最近由于工作压力大，夫妻间的交流减少。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 6,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "王武之在金融公司工作多年，与同事关系一般，最近由于工作失误，感到与同事的距离更远了。"
+                    ]
+                },
+                {
+                    "relationship": "领导",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "最近工作中连连出错，被领导当众批评，导致情绪低落，工作效率下降。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "王武之在不同阶段的社会关系变化较大。童年时期，他与父母关系亲密，但朋友不多。进入中学后，父母对他的期望增加，导致关系紧张。大学期间，他结识了一些同学和导师，但关系并不特别亲密。工作后，他与同事和领导的关系一般，最近由于工作失误，感到与同事和领导的距离更远了。总体来看，王武之的社会关系较为单一，缺乏深厚的社交网络，这可能加剧了他的抑郁症状。"
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "诚实",
+            "内向",
+            "细心"
+        ],
+        "appearance": [
+            "普通",
+            "中等身高",
+            "黑发",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "散步",
+                "烹饪"
+            ],
+            "activity": [
+                "和朋友一起喝咖啡",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "改善睡眠质量，提升工作效率",
+            "long_term_goals": "找到一份更稳定的工作，拥有自己的小家庭"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单吃早餐后去上班。工作时间从上午9点到下午5点。下班后会去超市买菜，回家做晚饭。晚上会看书或听音乐放松，10点左右上床睡觉。",
+            "weekends": "周末通常会和朋友见面，去咖啡馆聊天，或者去公园散步。有时会在家里尝试新菜谱，享受烹饪的乐趣。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母都很关心她的成长。小时候喜欢看书和画画。",
+            "adolescence": "中学时期成绩中等，性格内向，有几个要好的朋友。高中毕业后没有考上大学，选择了进入社会工作。",
+            "recent_events": "最近一周开始出现睡眠问题，但没有明显的情绪低落或其他身体不适。"
+        },
+        "environment": "出生在一个小城市，家庭环境温馨。高中毕业后到大城市打工，目前在一家餐厅做服务员。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "袁蓉园的父母一直非常关心她的成长，给予她温暖和支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "袁蓉园在小学和中学时期有几个要好的朋友，他们经常一起玩耍和学习。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "尽管袁蓉园在青春期经历了一些叛逆期，但她与父母的关系依然紧密。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "在中学时期，袁蓉园有两个非常亲密的朋友，他们一起度过了许多美好的时光。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "袁蓉园的班主任老师对她的学习和生活给予了很多帮助和指导。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "袁蓉园在餐厅工作，与同事们相处融洽，但关系较为普通。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "袁蓉园在大城市里结交了两个好朋友，他们经常一起喝咖啡和散步。"
+                    ]
+                },
+                {
+                    "relationship": "邻居",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "袁蓉园与邻居关系一般，但偶尔会互相帮助。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "袁蓉园的社交圈在不同阶段有明显变化。童年时期，她的社交圈主要集中在家庭和学校的朋友。进入青春期后，她的社交圈逐渐扩大，增加了老师和更多的朋友。高中毕业后，她进入社会工作，社交圈再次发生变化，主要以同事和新结交的朋友为主。尽管她性格内向，但她依然保持着与亲密朋友的联系，并在新的环境中逐渐适应和建立新的社交关系。"
+    }
+}

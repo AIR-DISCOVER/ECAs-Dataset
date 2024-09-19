@@ -1,0 +1,452 @@
+{
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被尊重。",
+                "others": "别人会尊重和爱护我。",
+                "world": "世界对值得尊重和爱护的人是友好的。"
+            },
+            "rules": "我应该积极与人交往，建立健康的关系。",
+            "positive_assumption": "如果我建立良好关系，我会感到幸福。",
+            "negative_assumption": "如果我不与人交往，我会感到孤独。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决问题。",
+                "others": "别人可以帮助我，但我有能力自我解决。",
+                "world": "世界充满机会和挑战。"
+            },
+            "rules": "当遇到挑战时，我应该积极面对。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长机会。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是拖累别人。",
+                "others": "别人会因为我而感到困扰。",
+                "world": "这个世界对负担没有耐心。"
+            },
+            "rules": "我应该尽量避免给别人添麻烦。",
+            "positive_assumption": "如果我避免给别人添麻烦，我会被容忍。",
+            "negative_assumption": "如果我成为负担，我会被抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须达到完美标准。",
+                "others": "别人只会接受完美的我。",
+                "world": "世界对不完美的人不宽容。"
+            },
+            "rules": "我应该尽力做到完美。",
+            "positive_assumption": "如果我做到完美，我会被接受。",
+            "negative_assumption": "如果我不完美，我会被拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有什么特别的才能。",
+                "others": "别人不会在意我的感受。",
+                "world": "这个世界对我没有给予足够的认可。"
+            },
+            "rules": "我应该低调行事，不引人注意。",
+            "positive_assumption": "如果我低调行事，我就不会被批评。",
+            "negative_assumption": "如果我引人注意，我会被发现没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法完成任务。",
+                "others": "别人会发现我的不足。",
+                "world": "这个世界对我充满挑战。"
+            },
+            "rules": "我应该避免尝试新的挑战。",
+            "positive_assumption": "如果我避免尝试，我就不会失败。",
+            "negative_assumption": "如果我尝试新的挑战，我会失败并被人嘲笑。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被尊重。",
+                "others": "别人会尊重和爱护我。",
+                "world": "世界对值得尊重和爱护的人是友好的。"
+            },
+            "rules": "我应该积极与人交往，建立健康的关系。",
+            "positive_assumption": "如果我建立良好关系，我会感到幸福。",
+            "negative_assumption": "如果我不与人交往，我会感到孤独。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决问题。",
+                "others": "别人可能会帮助我，但我有能力自我解决。",
+                "world": "世界充满机会和挑战。"
+            },
+            "rules": "当遇到挑战时，我应该积极面对。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长机会。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是拖累别人。",
+                "others": "别人会因为我而感到困扰。",
+                "world": "这个世界对负担没有耐心。"
+            },
+            "rules": "我应该尽量避免给别人添麻烦。",
+            "positive_assumption": "如果我避免给别人添麻烦，我会被容忍。",
+            "negative_assumption": "如果我成为负担，我会被抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须达到完美标准。",
+                "others": "别人只会接受完美的我。",
+                "world": "世界对不完美的人不宽容。"
+            },
+            "rules": "我应该尽力做到完美。",
+            "positive_assumption": "如果我做到完美，我会被接受。",
+            "negative_assumption": "如果我不完美，我会被拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有什么特别的才能。",
+                "others": "别人不会在意我的感受。",
+                "world": "这个世界对我没有给予足够的认可。"
+            },
+            "rules": "我应该尽量避免表达自我。",
+            "positive_assumption": "如果我不表达自我，我就不会受到批评。",
+            "negative_assumption": "如果我表达自我，我的不足会被暴露。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我不如别人优秀。",
+                "others": "别人会注意到我的不足。",
+                "world": "这个世界对我不公平。"
+            },
+            "rules": "我应该尽量低调，不引人注意。",
+            "positive_assumption": "如果我低调行事，我就不会被批评。",
+            "negative_assumption": "如果我引人注意，我会被发现不够好。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法达到期望。",
+                "others": "别人会发现我的不足。",
+                "world": "这个世界对我充满挑战。"
+            },
+            "rules": "我应该避免参与竞争性的活动。",
+            "positive_assumption": "如果我避免竞争，我就不会失败。",
+            "negative_assumption": "如果我参与竞争，我会失败并被人嘲笑。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有被爱的价值。",
+                "others": "别人会关心和爱护我。",
+                "world": "世界对值得被爱的人是温暖的。"
+            },
+            "rules": "我应该与他人建立亲密关系。",
+            "positive_assumption": "如果我建立亲密关系，我会感到被爱。",
+            "negative_assumption": "如果我疏远他人，我会感到孤独。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_12",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "childhood"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被尊重。",
+                "others": "别人会尊重和爱护我。",
+                "world": "世界对值得尊重和爱护的人是友好的。"
+            },
+            "rules": "我应该积极与人交往，建立健康的关系。",
+            "positive_assumption": "如果我建立良好关系，我会感到幸福。",
+            "negative_assumption": "如果我不与人交往，我会感到孤独。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_11",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "childhood"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以处理问题。",
+                "others": "别人可能会提供帮助，但我可以自己解决。",
+                "world": "世界对有能力的人是友好的。"
+            },
+            "rules": "我应该积极解决问题。",
+            "positive_assumption": "如果我解决问题，我会获得成就感。",
+            "negative_assumption": "如果我不解决问题，我会失去信心。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决问题。",
+                "others": "别人可以帮助我，但我有能力自我解决。",
+                "world": "世界充满机会和挑战。"
+            },
+            "rules": "当遇到挑战时，我应该积极面对。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长机会。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我不应该依赖他人。",
+                "others": "别人不喜欢被依赖。",
+                "world": "这个世界对依赖他人的人没有耐心。"
+            },
+            "rules": "我应该尽量独立解决问题。",
+            "positive_assumption": "如果我独立，我会被尊重。",
+            "negative_assumption": "如果我依赖他人，我会被看不起。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是拖累别人。",
+                "others": "别人会因为我而感到困扰。",
+                "world": "这个世界对负担没有耐心。"
+            },
+            "rules": "我应该尽量避免给别人添麻烦。",
+            "positive_assumption": "如果我避免给别人添麻烦，我会被容忍。",
+            "negative_assumption": "如果我成为负担，我会被抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能犯错。",
+                "others": "别人会批评我的缺点。",
+                "world": "这个世界对错误是无情的。"
+            },
+            "rules": "我应该避免任何错误。",
+            "positive_assumption": "如果我不犯错，我会被认可。",
+            "negative_assumption": "如果我犯错，我会被责备。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须表现得完美。",
+                "others": "别人只会接受完美的我。",
+                "world": "世界对不完美的人不宽容。"
+            },
+            "rules": "我应该尽力做到完美。",
+            "positive_assumption": "如果我做到完美，我会被接受。",
+            "negative_assumption": "如果我不完美，我会被拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我不会被特别对待。",
+                "others": "别人不会主动帮助我。",
+                "world": "这个世界对普通人是冷漠的。"
+            },
+            "rules": "我应该避免依赖他人。",
+            "positive_assumption": "如果我依靠自己，我就不会失望。",
+            "negative_assumption": "如果我依赖他人，我会被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有什么特别的才能。",
+                "others": "别人不会关注我的感受。",
+                "world": "这个世界对我没有给予足够的认可。"
+            },
+            "rules": "我应该尽量不引人注意。",
+            "positive_assumption": "如果我低调行事，我就不会被批评。",
+            "negative_assumption": "如果我引人注意，我会被发现没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是做得不够好。",
+                "others": "别人会对我的能力有怀疑。",
+                "world": "这个世界对不够好的人是苛刻的。"
+            },
+            "rules": "我应该不断努力提高自己。",
+            "positive_assumption": "如果我不断努力，我可能会被认可。",
+            "negative_assumption": "如果我不够好，我会被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能让别人失望。",
+                "others": "别人会发现我的弱点。",
+                "world": "这个世界对我充满期望。"
+            },
+            "rules": "我应该尽量避免犯错。",
+            "positive_assumption": "如果我避免犯错，我就不会被批评。",
+            "negative_assumption": "如果我犯错，我会被看不起。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "敏感",
+            "易怒",
+            "内向",
+            "有责任心",
+            "有时缺乏自信"
+        ],
+        "appearance": [
+            "中等身高",
+            "身材纤细",
+            "黑色长发",
+            "面容清秀",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "园艺",
+                "烹饪"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步",
+                "在家里种植花草"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "改善与婆婆的关系，恢复良好的睡眠",
+            "long_term_goals": "建立一个稳定的家庭环境，找到一份稳定的工作"
+        },
+        "daily_life": {
+            "routine": "早上早醒后，通常会在家里做一些家务或阅读。白天大部分时间在家，偶尔会出去散步或购物。晚上会尝试早睡，但常常难以入睡。",
+            "weekends": "周末会和家人一起做饭，或者去公园散步。偶尔会和朋友见面，但大部分时间还是在家里度过。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母关系和睦，童年生活相对平静。",
+            "adolescence": "中学时期成绩优异，但性格内向，不太擅长与人交往。",
+            "youth": "大学期间选择了自由职业，尝试过多种工作，但一直没有找到特别满意的职业。",
+            "recent_events": "最近婆婆搬来一起住，导致情绪波动较大，睡眠质量下降，记忆力变差。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学期间搬到北京生活。结婚后回到南京，目前和丈夫及婆婆一起生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "薛珍菲的父亲是一位温和而有耐心的人，总是鼓励她追求自己的梦想。父女关系非常亲密，父亲在她的童年中扮演了重要的角色。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "薛珍菲的母亲是一位严厉但关爱的女性，虽然有时会对她的学业和行为有较高的期望，但母女之间的感情依然深厚。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "薛珍菲在童年时期有两个好朋友，一个是邻居家的小女孩，另一个是小学同学。她们经常一起玩耍，分享彼此的小秘密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "进入青春期后，薛珍菲与父亲的关系依然亲密，但由于学业压力和青春期的叛逆，偶尔会有一些小摩擦。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "薛珍菲与母亲的关系在青春期变得有些紧张，母亲对她的期望和要求让她感到压力，但她也明白母亲是为了她好。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "中学时期，薛珍菲结交了几位新朋友，她们一起学习、一起玩耍，虽然性格各异，但彼此之间的友谊非常深厚。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "大学期间，薛珍菲与父亲的联系减少，但每次回家都会与父亲聊聊自己的生活和未来的计划。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "薛珍菲与母亲的关系在大学期间有所缓和，母亲开始更多地尊重她的选择和决定。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "大学期间，薛珍菲结识了几位志同道合的朋友，她们一起参加社团活动，一起讨论未来的职业规划。"
+                    ]
+                },
+                {
+                    "relationship": "恋人",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "在大学期间，薛珍菲遇到了她的丈夫，两人从相识到相恋，经历了许多美好的时光。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "薛珍菲与丈夫的关系非常亲密，丈夫是她生活中的重要支柱，两人共同面对生活中的各种挑战。"
+                    ]
+                },
+                {
+                    "relationship": "婆婆",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "婆婆的到来让薛珍菲感到压力和烦躁，两人性格不合，婆婆的唠叨让她感到非常不适。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "薛珍菲有两位亲密的朋友，她们经常在一起聊天、分享生活中的点滴，这些朋友是她情感上的重要支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "薛珍菲的社交关系在不同阶段有明显的变化。童年时期，她的社交圈主要是家庭和邻居，关系较为简单。进入青春期后，学业压力和青春期的叛逆让她的家庭关系变得紧张，但也结交了更多的朋友。大学期间，她的社交圈进一步扩大，结识了更多志同道合的朋友，并遇到了她的丈夫。最近，由于婆婆的到来，她的家庭关系再次变得复杂，情绪波动较大，但她依然保持着与朋友的联系，寻求情感上的支持。"
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "诚实",
+            "内向",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身材",
+            "黑发",
+            "戴眼镜",
+            "普通"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "散步",
+                "看电影"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "在工作中取得更好的业绩，减轻家庭的经济负担",
+            "long_term_goals": "为家人提供更好的生活条件，成为销售领域的专家"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单锻炼后吃早餐。8点出门上班，工作到下午6点。晚上回家和家人共进晚餐，之后会看书或听音乐放松。10点左右上床睡觉。",
+            "weekends": "周末通常会和家人一起做饭，去公园散步，偶尔会看电影或参加朋友聚会。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他要求严格，希望他能有出息。",
+            "adolescence": "中学时期成绩中等，但一直努力学习。高考后进入一所普通大学，选择了市场营销专业。",
+            "recent_events": "最近工作压力较大，感到疲倦和自我价值感低。尽管如此，他依然努力工作，希望能为家庭提供更好的生活。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学。大学毕业后留在南京工作，结婚后与妻子一起生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲是一名工人，对褚昌轮要求严格，希望他能有出息。尽管父亲的爱有时显得严厉，但褚昌轮知道父亲是为了他好。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲是一名家庭主妇，温柔体贴，总是关心褚昌轮的生活和学习。母亲是褚昌轮童年时期最亲近的人。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "童年时期的朋友，常常一起玩耍和学习。虽然现在联系不多，但这些朋友在褚昌轮的记忆中占有重要位置。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲在褚昌轮的青春期依然严格，但也开始更多地与他讨论未来的规划和职业选择。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲继续在生活上给予褚昌轮支持，尤其是在他面临学业压力时。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "中学时期的同学，虽然关系一般，但在学习上互相帮助。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "中学时期的班主任和数学老师，对褚昌轮的学习和成长有重要影响。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "妻子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "妻子是褚昌轮最亲近的人，给予他情感上的支持和理解。两人共同面对生活的压力和挑战。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "工作中的同事，虽然关系一般，但在工作上互相配合。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "大学时期的朋友，虽然联系不多，但在需要时依然会互相支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "褚昌轮的社交关系在不同阶段有明显变化。童年时期，他主要依赖家庭和少数朋友；青春期时，学校的同学和老师成为他的重要社交圈；进入职场后，妻子和同事成为他生活中的主要社交对象。尽管工作压力大，他依然保持与家人和朋友的联系，这些关系在他应对生活压力时起到了重要作用。"
+    }
+}

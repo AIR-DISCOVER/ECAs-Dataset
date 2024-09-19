@@ -1,0 +1,155 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "敏感",
+            "有责任心"
+        ],
+        "appearance": [
+            "中等身高",
+            "苗条",
+            "黑发",
+            "温和的面容",
+            "穿着得体"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "烹饪",
+                "园艺",
+                "瑜伽"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步",
+                "参加瑜伽课程"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复工作中的自信心，能够顺利完成任务",
+            "long_term_goals": "在支付行业中获得更高的职位，拥有一个幸福的家庭"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，做简单的瑜伽，8点出门上班。工作时间从9点到下午6点，晚上回家和家人一起吃饭，之后会看书或做一些家务。",
+            "weekends": "周末通常会和家人一起去公园散步，或者在家里做一些园艺和烹饪。偶尔会和朋友聚会，聊聊天。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母都是工薪阶层，从小就被教育要努力学习和工作。",
+            "adolescence": "中学时期成绩优异，但性格内向，不太擅长与人交往。大学选择了金融专业，毕业后进入支付行业工作。",
+            "recent_events": "最近刚过完三十岁生日，感到明显的年龄压力，担心自己在工作中的表现不如年轻同事。"
+        },
+        "environment": "出生在一个小城市，大学毕业后搬到大城市工作。结婚后和丈夫一起生活，丈夫在IT行业工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "皮亚伊的父母都是工薪阶层，从小就教育她要努力学习和工作。父母对她的关心和支持是她童年时期的重要支柱。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "皮亚伊在小学和中学时期有几个好朋友，虽然她性格内向，但这些朋友在她的成长过程中给予了她很多支持和陪伴。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期，皮亚伊成绩优异，但性格内向，不太擅长与人交往。她的同学们对她的学术能力很尊重，但她与他们的关系并不算特别亲密。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "皮亚伊的老师们对她的学术表现非常满意，并且在她的成长过程中给予了很多指导和帮助。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "皮亚伊的丈夫在IT行业工作，他们的关系非常亲密，丈夫在她的生活中扮演了重要的支持角色。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "皮亚伊在支付行业工作，她的同事们对她的工作表现有一定的期待，但最近她的状态不佳，同事们也会主动帮她分担一些工作。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "皮亚伊有几个亲密的朋友，虽然她性格内向，但这些朋友在她的生活中给予了她很多情感上的支持。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "皮亚伊在不同阶段的社会关系有一定的变化。童年时期，她主要依赖父母和少数朋友的支持。进入青春期后，她的社交圈扩大，但由于性格内向，她与同学和老师的关系并不算特别亲密。进入职场后，她的社交关系主要集中在家庭和工作同事之间。最近，由于年龄和工作压力，她的社交关系变得更加紧张，但她的丈夫和朋友们依然是她的重要支持来源。"
+    }
+}

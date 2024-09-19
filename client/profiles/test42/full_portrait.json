@@ -1,0 +1,158 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "善良",
+            "缺乏自信",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "皮肤白皙",
+            "长发",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐"
+            ],
+            "activity": [
+                "独自散步",
+                "在图书馆看书"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "适应大学生活，结交新朋友",
+            "long_term_goals": "成为一名优秀的插画师"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点上课，下午在图书馆自习，晚上10点左右睡觉。",
+            "weekends": "周末大部分时间在宿舍休息，偶尔会去校园周边散步或在咖啡馆看书。"
+        },
+        "past_experiences": {
+            "childhood": "在一个小城市长大，父母工作繁忙，小时候常常一个人玩耍。",
+            "adolescence": "中学时期成绩优异，但人际关系较为疏离，常常感到孤独。",
+            "recent_events": "刚刚进入大学，面对新的环境和人际关系感到不适应，情绪低落。"
+        },
+        "environment": "出生在一个小城市，家庭经济状况一般。中学时期在本地读书，大学考入省会城市的一所大学。",
+        "persona_summary": "邬瑞霭，19岁，女，学生，性格内向、敏感、善良但缺乏自信，容易焦虑。她身材瘦弱，皮肤白皙，眼神疲惫。兴趣包括阅读、绘画和听音乐，经常独自散步和在图书馆看书。她的短期目标是适应大学生活并结交新朋友，长期目标是成为优秀的插画师。目前她处于抑郁状态，情绪低落，回避社交，需适应新的大学环境和人际关系。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "父亲工作繁忙，但在有限的时间里尽量陪伴她。",
+                        "母亲虽然也很忙，但会在晚上和她聊聊学校的事情。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "有一个邻居小伙伴，偶尔一起玩耍，但关系并不特别亲密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "父母依旧忙碌，但会在她成绩优异时给予鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "与同学的关系较为疏离，主要是因为她内向和敏感。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "老师对她的成绩很满意，但她很少主动与老师交流。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "父母依旧忙碌，但会在她情绪低落时给予一些安慰。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 0,
+                    "familiarity": [],
+                    "description": [
+                        "刚进入大学，还没有交到新朋友。"
+                    ]
+                },
+                {
+                    "relationship": "室友",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "与室友的关系一般，主要是因为她不愿意主动社交。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "邬瑞霭在不同阶段的社交关系变化明显。童年时期，她主要依赖父母和一个邻居小伙伴。进入中学后，虽然成绩优异，但由于内向和敏感，她与同学和老师的关系较为疏离。进入大学后，她面临新的环境和人际关系，感到不适应，导致她的社交圈几乎为零。她的社交能力和意愿在不同阶段都有所变化，主要受到她内向性格和环境变化的影响。"
+    }
+}

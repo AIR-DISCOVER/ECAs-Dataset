@@ -1,0 +1,218 @@
+{
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有提升的潜力，但需要不断努力。",
+                "others": "他人可以帮助我，但最终的提升取决于自己。",
+                "world": "世界充满机会，但需要努力去抓住。"
+            },
+            "rules": "我需要不断学习和成长，才能实现自己的潜力。",
+            "positive_assumption": "如果我不断提升自己，我会变得更有价值。",
+            "negative_assumption": "如果我停滞不前，我会浪费自己的潜力。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法依靠他人，只能依靠自己。",
+                "others": "他人不一定会可靠或愿意帮助我。",
+                "world": "世界是一个需要自我奋斗的地方。"
+            },
+            "rules": "我必须自己解决问题，不能依赖他人。",
+            "positive_assumption": "如果我自己解决问题，我会变得更强大和独立。",
+            "negative_assumption": "如果我依赖他人，我会显得软弱和无助。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断努力才能被认可。",
+                "others": "他人只会认可那些表现出色的人。",
+                "world": "世界对努力和成就有着严格的标准。"
+            },
+            "rules": "我需要不断努力和提升，才能赢得他人的认可。",
+            "positive_assumption": "如果我努力工作，我会获得认可和尊重。",
+            "negative_assumption": "如果我不努力，我将被忽视和看不起。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我做得不好，那就证明我没有价值。",
+                "others": "他人会注意到我的不足，并因此轻视我。",
+                "world": "世界要求每个人都必须优秀才能被接受。"
+            },
+            "rules": "我必须避免任何错误，以证明自己的价值。",
+            "positive_assumption": "如果我表现完美，我会被认可和接受。",
+            "negative_assumption": "如果我犯错，我会被视为无能和没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我有提升的潜力，但需要不断努力。",
+                "others": "老师可以帮助我，但最终的提升取决于自己。",
+                "world": "世界充满机会，但需要努力去抓住。"
+            },
+            "rules": "我需要不断学习和成长，才能实现自己的潜力。",
+            "positive_assumption": "如果我不断提升自己，我会变得更有价值。",
+            "negative_assumption": "如果我停滞不前，我会浪费自己的潜力。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法依靠他人，只能依靠自己。",
+                "others": "同学们不一定会可靠或愿意帮助我。",
+                "world": "世界是一个需要自我奋斗的地方。"
+            },
+            "rules": "我必须自己解决问题，不能依赖同学。",
+            "positive_assumption": "如果我自己解决问题，我会变得更强大和独立。",
+            "negative_assumption": "如果我依赖同学，我会显得软弱和无助。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断努力才能被认可。",
+                "others": "老师只会认可那些表现出色的学生。",
+                "world": "世界对努力和成就有着严格的标准。"
+            },
+            "rules": "我需要不断努力和提升，才能赢得他人的认可。",
+            "positive_assumption": "如果我努力学习，我会获得老师和家长的认可。",
+            "negative_assumption": "如果我不努力，我将被忽视和看不起。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我表现不好，那就证明我没有价值。",
+                "others": "同学会注意到我的不足，并因此轻视我。",
+                "world": "世界要求每个人都必须优秀才能被接受。"
+            },
+            "rules": "我必须避免任何错误，以证明自己的价值。",
+            "positive_assumption": "如果我表现完美，我会被认可和接受。",
+            "negative_assumption": "如果我犯错，我会被视为无能和没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我有提升的潜力，但需要不断努力。",
+                "others": "他人可以帮助我，但最终的提升取决于自己。",
+                "world": "世界充满机会，但需要努力去抓住。"
+            },
+            "rules": "我需要不断学习和成长，才能实现自己的潜力。",
+            "positive_assumption": "如果我不断提升自己，我会变得更有价值。",
+            "negative_assumption": "如果我停滞不前，我会浪费自己的潜力。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法依靠他人，只能依靠自己。",
+                "others": "他人不一定会可靠或愿意帮助我。",
+                "world": "世界是一个需要自我奋斗的地方。"
+            },
+            "rules": "我必须自己解决问题，不能依赖他人。",
+            "positive_assumption": "如果我自己解决问题，我会变得更强大和独立。",
+            "negative_assumption": "如果我依赖他人，我会显得软弱和无助。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断努力才能被认可。",
+                "others": "他人只会认可那些表现出色的人。",
+                "world": "世界对努力和成就有着严格的标准。"
+            },
+            "rules": "我需要不断努力和提升，才能赢得他人的认可。",
+            "positive_assumption": "如果我努力工作，我会获得认可和尊重。",
+            "negative_assumption": "如果我不努力，我将被忽视和看不起。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我做得不好，那就证明我没有价值。",
+                "others": "他人会注意到我的不足，并因此轻视我。",
+                "world": "世界要求每个人都必须优秀才能被接受。"
+            },
+            "rules": "我必须避免任何错误，以证明自己的价值。",
+            "positive_assumption": "如果我表现完美，我会被认可和接受。",
+            "negative_assumption": "如果我犯错，我会被视为无能和没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "责任感强"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "黑发",
+            "皮肤白皙",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "听音乐"
+            ],
+            "activity": [
+                "和朋友一起喝咖啡",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复对阅读的兴趣，提升工作效率",
+            "long_term_goals": "找到一份更轻松的工作，建立稳定的人际关系"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，晚上11点睡觉。白天主要在工作，晚上会花时间处理个人事务。",
+            "weekends": "周末通常会在家休息，有时会和朋友出去喝咖啡或散步。"
+        },
+        "past_experiences": {
+            "childhood": "在一个普通的家庭长大，父母对她的期望很高。",
+            "adolescence": "中学时期成绩优异，但因为压力大，逐渐变得内向。",
+            "recent_events": "最近因为工作压力大，导致精神紧张，出现了抑郁症状。"
+        },
+        "environment": "出生在一个小城市，大学毕业后搬到大城市工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "萧蓓秋的父亲是一位严肃但关心家庭的男人，他对女儿的期望很高，希望她能在学业上取得优异成绩。尽管父亲的严厉让萧蓓秋感到压力，但她也知道父亲是出于对她的爱。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "萧蓓秋的母亲温柔体贴，总是尽力支持和理解她。母亲是她童年时期最亲密的朋友和倾诉对象，给了她很多情感上的支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "萧蓓秋在小学时有两个好朋友，她们经常一起玩耍和学习。虽然关系亲密，但随着时间的推移和升学的变化，这些友谊逐渐淡化。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        3,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "在中学时期，萧蓓秋的同学们大多是她的学习伙伴。她与其中几位关系较好，但由于学业压力大，她并没有太多时间和精力去维持深厚的友谊。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "萧蓓秋的几位老师对她的学业表现非常关注，尤其是班主任和数学老师。他们对她的期望很高，并给予了她很多指导和帮助。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        2,
+                        2,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "萧蓓秋在工作中有几位同事，他们之间的关系大多是工作上的合作。由于工作压力大，她与同事们的交流较少，关系也比较表面化。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "萧蓓秋有两位大学时期的朋友，虽然她们现在不常见面，但偶尔会通过社交媒体保持联系。这些朋友是她在大城市中为数不多的情感支持来源。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "萧蓓秋的社交关系在不同阶段发生了显著变化。童年时期，她与父母和朋友的关系较为亲密，但随着学业压力的增加和升学的变化，这些关系逐渐淡化。中学时期，她的社交圈主要集中在同学和老师之间，但由于学业压力，她并没有太多时间去维持深厚的友谊。最近，由于工作压力大，她的社交关系进一步退化，主要集中在工作上的同事和少数几位大学朋友之间。总体来看，萧蓓秋的社交关系随着时间的推移和压力的增加逐渐变得疏远和表面化。"
+    }
+}

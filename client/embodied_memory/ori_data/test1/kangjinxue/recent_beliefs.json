@@ -1,0 +1,78 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不值得被爱。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我是一个无能的人。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有能力帮助他人。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我需要尽力满足别人的期望。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我被拒绝，那是因为我不值得被爱。",
+                "others": "他人不会真正关心我。",
+                "world": "这个世界不欢迎我。"
+            },
+            "rules": "我应该避免表达自己的需求，以免被拒绝。",
+            "positive_assumption": "如果我避免表达需求，我就不会被拒绝。",
+            "negative_assumption": "如果我表达需求，我会被拒绝并感到更糟。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法应对生活中的挑战。",
+                "others": "他人比我更有能力。",
+                "world": "这个世界充满了我无法解决的问题。"
+            },
+            "rules": "我应避免尝试新的事情，以免失败。",
+            "positive_assumption": "如果我避免尝试，我就不会失败。",
+            "negative_assumption": "如果我尝试新的事情，我会失败并证明我的无能。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力帮助学生取得成功。",
+                "others": "学生们需要我的帮助。",
+                "world": "世界上有很多人需要帮助。"
+            },
+            "rules": "我应该积极帮助他人，特别是我的学生。",
+            "positive_assumption": "如果我帮助他人，我会感到有价值和满足。",
+            "negative_assumption": "如果我不帮助他人，我会感到失落和无用。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须尽力满足别人的期望。",
+                "others": "他人期望我表现得完美。",
+                "world": "这个世界对我有很高的期望。"
+            },
+            "rules": "我应该尽力满足别人的期望，不让他们失望。",
+            "positive_assumption": "如果我满足别人的期望，我会被认可和接受。",
+            "negative_assumption": "如果我不能满足别人的期望，我会被批评和拒绝。"
+        }
+    ]
+}

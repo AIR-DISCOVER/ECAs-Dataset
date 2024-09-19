@@ -1,0 +1,60 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不值得被爱。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我是没有价值的。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有能力应对挑战。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我被拒绝，那是因为我不值得被爱。",
+                "others": "他人不会真正珍惜和爱护我。",
+                "world": "世界是冷酷无情的，只有少数人值得被爱。"
+            },
+            "rules": "我应该避免暴露自己的情感以避免再次被拒绝。",
+            "positive_assumption": "如果我不表露情感，我就不会受伤。",
+            "negative_assumption": "如果我表露情感，我会再次被拒绝和伤害。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的价值取决于他人的认可。",
+                "others": "他人是评判我价值的标准。",
+                "world": "世界是一个需要不断证明自己价值的地方。"
+            },
+            "rules": "我必须不断努力以获得他人的认可。",
+            "positive_assumption": "如果我能得到别人的认可，我就会感觉有价值。",
+            "negative_assumption": "如果我得不到别人的认可，我就会感觉自己毫无价值。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力解决问题，并面对生活中的挑战。",
+                "others": "他人可以给予我帮助，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        }
+    ]
+}

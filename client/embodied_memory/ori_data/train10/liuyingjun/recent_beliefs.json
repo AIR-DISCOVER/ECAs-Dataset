@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我必须对他人负责。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须表现得完美。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有能力面对挑战。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我有责任帮助他人。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不能满足他人的需求，我就是失败的。",
+                "others": "他人需要我的帮助和指导。",
+                "world": "这个世界上，有些人需要依赖他人的支持。"
+            },
+            "rules": "我应该始终优先考虑他人的需求。",
+            "positive_assumption": "如果我对他人负责，我会被尊重和认可。",
+            "negative_assumption": "如果我不对他人负责，我会被认为是不负责任的。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不能有效帮助他人，我就是无用的。",
+                "others": "他人依赖我的支持和帮助。",
+                "world": "世界是复杂的，有些人需要更多的帮助。"
+            },
+            "rules": "我应该尽我所能去帮助他人。",
+            "positive_assumption": "如果我帮助他人，我会感到满足和有价值。",
+            "negative_assumption": "如果我不帮助他人，我会感到内疚和失落。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不完美，我就会失败。",
+                "others": "他人会根据我的表现来评判我。",
+                "world": "世界对不完美的人是不宽容的。"
+            },
+            "rules": "我应该尽力达到最高标准。",
+            "positive_assumption": "如果我表现完美，我会得到认可和尊重。",
+            "negative_assumption": "如果我不完美，我会被批评和否定。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我的工作不完美，我就是不合格的。",
+                "others": "他人期待我表现完美。",
+                "world": "这个世界对错误和缺陷是苛刻的。"
+            },
+            "rules": "我应该在工作中尽力避免错误。",
+            "positive_assumption": "如果我在工作中表现完美，我会获得认可和成就感。",
+            "negative_assumption": "如果我在工作中犯错，我会被批评和贬低。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力解决问题。",
+                "others": "他人可能会支持我，但我能自己应对。",
+                "world": "世界充满挑战，但我能够迎接这些挑战。"
+            },
+            "rules": "当遇到困难时，我应该主动解决。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我逃避挑战，我会失去成长的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力适应变化。",
+                "others": "他人可能会帮助我，但我能自己适应。",
+                "world": "世界在不断变化，但我能够应对。"
+            },
+            "rules": "我应该积极面对变化和挑战。",
+            "positive_assumption": "如果我适应变化，我会获得新的经验和成长。",
+            "negative_assumption": "如果我拒绝变化，我会错失发展的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不帮助他人，我就是自私的。",
+                "others": "他人需要我的帮助和支持。",
+                "world": "世界上有很多需要帮助的人。"
+            },
+            "rules": "我应该尽力去帮助那些需要帮助的人。",
+            "positive_assumption": "如果我帮助他人，我会感到充实和有意义。",
+            "negative_assumption": "如果我不帮助他人，我会感到内疚和不安。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不能帮助他人，我就是无用的。",
+                "others": "他人需要我的帮助来克服困难。",
+                "world": "世界上有很多困难需要解决。"
+            },
+            "rules": "我应该尽我所能去帮助他人。",
+            "positive_assumption": "如果我帮助他人，我会感到有成就感和满足。",
+            "negative_assumption": "如果我不能帮助他人，我会感到失落和无力。"
+        }
+    ]
+}

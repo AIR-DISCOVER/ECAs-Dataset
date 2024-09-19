@@ -1,0 +1,349 @@
+{
+    "childhood": {
+        "name": "昌嘉宁",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我第一次被父母表扬是在幼儿园的时候，当时我画了一幅画，老师展示给了全班看。回家后，妈妈看到我开心的样子，也夸奖了我的画，说我是个小艺术家。这让我觉得只要我表现好，父母就会开心。",
+                "location": "家中和幼儿园",
+                "happen_time": "2010年3月",
+                "participants": "昌嘉宁、母亲、幼儿园老师",
+                "impact": "正面影响：强化了昌嘉宁对获得认可的渴望，形成了她的核心信念‘我需要他人的认可’。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我在一次数学考试中只得了85分，回家后，妈妈看了我的成绩单，语气有些严厉地说我应该更加努力。我感到非常失落，从那以后我觉得自己不够好，必须更加努力才能被认可。",
+                "location": "家中和学校",
+                "happen_time": "2014年5月",
+                "participants": "昌嘉宁、母亲",
+                "impact": "负面影响：强化了昌嘉宁的核心信念‘我不够好’和中间信念‘如果我不能让父母满意，我就是失败的’。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，晚上我在房间里学习，听见父母在客厅里争吵。父亲因为工作上的压力，埋怨母亲没有好好照顾家庭。那天妈妈哭了，我在房间里默默流泪，觉得自己也有责任。",
+                "location": "家中",
+                "happen_time": "2015年10月",
+                "participants": "昌嘉宁、父母",
+                "impact": "负面影响：让昌嘉宁感到家庭的不稳定，强化了她需要通过完美表现来获得父母认可的信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我在一次演讲比赛中获得了第一名，老师和同学们都为我鼓掌。回家后，妈妈也为我感到骄傲。这个经历让我意识到，只要我表现完美，我就能被认可。",
+                "location": "学校和家中",
+                "happen_time": "2016年4月",
+                "participants": "昌嘉宁、母亲、老师、同学",
+                "impact": "正面影响：强化了昌嘉宁的核心信念‘我必须表现得完美才能被认可’。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "一次在学校，小美因为考试成绩不理想而被老师批评。她回到座位上哭泣，我看在眼里，心里感到难过，觉得我不能让自己也经历这样的事情。",
+                "location": "学校",
+                "happen_time": "2017年1月",
+                "participants": "昌嘉宁、小美、老师",
+                "impact": "负面影响：强化了昌嘉宁的中间信念‘我不允许自己犯错’。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "小学毕业考试时，我因为过度紧张而发挥失常，成绩并不理想。回家后，父母虽然没有责备我，但我自己感到非常失望，认为自己辜负了他们的期望。",
+                "location": "学校和家中",
+                "happen_time": "2018年6月",
+                "participants": "昌嘉宁、父母",
+                "impact": "负面影响：强化了昌嘉宁的核心信念‘我不够好’和中间信念‘如果我表现不好，父母会对我失望’。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "一次在家中，我和小美一起完成了一个科学项目，得到了全班的认可。那一刻我感到非常自信，觉得我有能力应对挑战。",
+                "location": "家中和学校",
+                "happen_time": "2017年9月",
+                "participants": "昌嘉宁、小美",
+                "impact": "正面影响：强化了昌嘉宁的核心信念‘我有能力应对挑战’。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家中听到邻居家的孩子因为成绩不好被父母责骂，孩子在哭泣。我感到非常害怕，觉得如果我成绩不好，我也会遭遇同样的情况。",
+                "location": "家中",
+                "happen_time": "2016年7月",
+                "participants": "昌嘉宁、邻居",
+                "impact": "负面影响：强化了昌嘉宁的中间信念‘世界对我的要求很高，我很难满足’。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "四年级的一次春游活动中，我在游乐场里因为害怕高空项目而哭了，觉得自己很没用。虽然小美一直在安慰我，但我还是觉得自己不够好。",
+                "location": "游乐场",
+                "happen_time": "2015年4月",
+                "participants": "昌嘉宁、小美",
+                "impact": "负面影响：强化了昌嘉宁的核心信念‘我不够好’。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家中看到电视节目里的孩子因为学业优秀而被父母夸奖和奖励，我很羡慕，觉得我也应该像他们一样优秀，才能被认可。",
+                "location": "家中",
+                "happen_time": "2014年11月",
+                "participants": "昌嘉宁",
+                "impact": "正面影响：强化了昌嘉宁的核心信念‘我需要他人的认可’和中间信念‘我必须不断努力，否则我就是不够好的’。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我参加了学校的绘画比赛，虽然没有获奖，但老师和同学们还是称赞了我的作品。这让我觉得即使没有完美的表现，只要努力了，也能得到认可。",
+                "location": "学校",
+                "happen_time": "2018年3月",
+                "participants": "昌嘉宁、老师、同学",
+                "impact": "正面影响：稍微减轻了昌嘉宁对完美主义的追求，但并未完全改变其核心信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "一次，我在学校里因为帮助同学解决了一道难题而受到了老师的表扬。这让我觉得我有能力面对和解决困难，增强了我的自信心。",
+                "location": "学校",
+                "happen_time": "2016年12月",
+                "participants": "昌嘉宁、老师、同学",
+                "impact": "正面影响：强化了昌嘉宁的核心信念‘我有能力应对挑战’。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里看到父母因为工作上的事情而彼此安慰，虽然他们很少有时间陪伴我，但那一刻我感受到他们对彼此的支持和理解。",
+                "location": "家中",
+                "happen_time": "2017年8月",
+                "participants": "昌嘉宁、父母",
+                "impact": "正面影响：让昌嘉宁感受到家庭的温暖，稍微减轻了她对父母工作忙碌的不满。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "一次，我在学校里被选为班级的图书管理员，这让我感到非常自豪，也让我觉得自己有能力承担责任。",
+                "location": "学校",
+                "happen_time": "2017年3月",
+                "participants": "昌嘉宁、老师、同学",
+                "impact": "正面影响：增强了昌嘉宁的自信心和责任感。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到小美因为考试成绩不理想而感到非常沮丧，但她的父母却没有责备她，反而鼓励她下次努力。这让我意识到，或许并不是每一次失败都是致命的。",
+                "location": "学校",
+                "happen_time": "2018年5月",
+                "participants": "昌嘉宁、小美、小美的父母",
+                "impact": "正面影响：稍微减轻了昌嘉宁对失败的恐惧，提供了一种不同的失败应对方式。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "昌嘉宁",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在高三上学期期中考试之后，我的成绩下滑了，老师在班会上点名批评了我。这让我感到非常难过和压力巨大，担心自己无法达到父母和老师的期望。",
+                "location": "学校教室",
+                "happen_time": "2023年11月",
+                "participants": "老师，同学们",
+                "impact": "负面影响：增加了自我怀疑和焦虑，加剧了头晕和恶心症状。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在与朋友一起学习时，我发现自己很难集中注意力，朋友注意到我的不适并问我是否需要帮助。这让我感到温暖，但同时也有些尴尬和无助。",
+                "location": "朋友家",
+                "happen_time": "2023年12月",
+                "participants": "朋友",
+                "impact": "正面影响：感受到了朋友的关心和支持。负面影响：自我怀疑和无助感增加。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "父母在一次晚饭时讨论我的期中考试成绩，并表示对我的表现不满意。他们没有提到我的身体状况，这让我感到失望和压力。",
+                "location": "家中餐桌",
+                "happen_time": "2023年12月",
+                "participants": "父母",
+                "impact": "负面影响：感到被忽视和不被理解，自信心进一步下降。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在心理咨询师的帮助下，我开始尝试放松练习和时间管理技巧，尽管效果有限，但让我感觉到了一些控制感。",
+                "location": "心理咨询师办公室",
+                "happen_time": "2024年1月",
+                "participants": "心理咨询师",
+                "impact": "正面影响：感受到了一些支持和控制感，开始学习新的应对策略。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次模拟考试中，我的成绩有了明显的提升，这让我感到非常高兴，但仍担心能否在正式考试中保持这个水平。",
+                "location": "学校教室",
+                "happen_time": "2024年2月",
+                "participants": "同学们",
+                "impact": "正面影响：自信心有所恢复。负面影响：担心成绩不稳定，仍有压力感。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，亲戚们询问我的学习情况，并对我的未来表示担忧，这让我感到非常大的压力。",
+                "location": "亲戚家",
+                "happen_time": "2024年2月",
+                "participants": "亲戚们",
+                "impact": "负面影响：感受到来自亲戚的压力和期望，增加了焦虑感。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次美术课上，我的绘画作品得到了老师的表扬，这让我感到非常自豪和开心。",
+                "location": "学校美术教室",
+                "happen_time": "2024年3月",
+                "participants": "美术老师，同学们",
+                "impact": "正面影响：增强了自信心，感受到认可。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与朋友的聚会中，我感到非常放松并且开心，暂时忘记了学习压力。",
+                "location": "咖啡馆",
+                "happen_time": "2024年3月",
+                "participants": "朋友",
+                "impact": "正面影响：感受到朋友的支持和理解，暂时缓解了压力。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家长会上，班主任向我父母汇报了我的进步和努力，这让我感到非常欣慰。",
+                "location": "学校会议室",
+                "happen_time": "2024年4月",
+                "participants": "班主任，父母",
+                "impact": "正面影响：感受到来自老师的认可和支持，增强了自信心。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次晚自习中，我因为过度劳累而晕倒，被同学送到医务室。这让我感到非常担心自己的健康状况。",
+                "location": "学校教室",
+                "happen_time": "2024年5月",
+                "participants": "同学们，校医",
+                "impact": "负面影响：增加了对自己身体健康的担忧，压力感进一步加剧。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与父母的谈话中，我试图向他们表达自己身体不适的状况，但他们更多关注我的学习成绩。",
+                "location": "家中客厅",
+                "happen_time": "2024年5月",
+                "participants": "父母",
+                "impact": "负面影响：感受到被忽视和不被理解，情绪低落。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次心理咨询中，我开始探讨自己的核心信念和中间信念，逐渐意识到自己对完美的追求和对他人认可的依赖。",
+                "location": "心理咨询师办公室",
+                "happen_time": "2024年6月",
+                "participants": "心理咨询师",
+                "impact": "正面影响：开始意识到自己的思维模式和行为模式，逐步调整。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次班级活动中，我主动参与了组织工作，得到了同学们的认可和赞赏，这让我感到非常开心和满足。",
+                "location": "学校操场",
+                "happen_time": "2024年6月",
+                "participants": "同学们",
+                "impact": "正面影响：增强了自信心和归属感，感受到集体的支持。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在高考前夕，我感到非常紧张和焦虑，甚至出现了失眠的情况。这让我感到非常无助和担忧。",
+                "location": "家中卧室",
+                "happen_time": "2024年7月",
+                "participants": "无",
+                "impact": "负面影响：加剧了焦虑和身体不适，情绪低落。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "高考结束后，我感到如释重负，但对成绩仍有些担心。",
+                "location": "考场",
+                "happen_time": "2024年8月",
+                "participants": "同学们",
+                "impact": "正面影响：暂时缓解了压力，开始期待未来。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一个同学因为考试成绩不理想而情绪崩溃，这让我感到非常心疼和共鸣。",
+                "location": "学校走廊",
+                "happen_time": "2024年3月",
+                "participants": "同学",
+                "impact": "负面影响：加剧了对自己表现的担忧，增加了压力感。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次班会中，老师分享了一位优秀校友的成功故事，这让我感到非常激励，但也感到一些压力。",
+                "location": "学校礼堂",
+                "happen_time": "2024年4月",
+                "participants": "老师，同学们",
+                "impact": "正面影响：激励了我的学习动力。负面影响：感受到更多的期望和压力。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到父母在一次争吵中提到我的学习表现，这让我感到非常内疚和压力。",
+                "location": "家中客厅",
+                "happen_time": "2024年5月",
+                "participants": "父母",
+                "impact": "负面影响：增加了自责和压力感，情绪低落。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我听到一位同学谈起自己的父母对他未来的期望，这让我想起了自己的父母和他们对我的期望，感到压力倍增。",
+                "location": "学校教室",
+                "happen_time": "2024年6月",
+                "participants": "同学",
+                "impact": "负面影响：加剧了对未来的焦虑和担忧，增加了学习压力。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次家长会上，我看到有的家长非常支持和理解自己的孩子，这让我感到非常羡慕和失落。",
+                "location": "学校会议室",
+                "happen_time": "2024年6月",
+                "participants": "其他家长，老师",
+                "impact": "负面影响：感受到缺乏家庭支持的孤独感，情绪低落。"
+            }
+        ]
+    }
+}

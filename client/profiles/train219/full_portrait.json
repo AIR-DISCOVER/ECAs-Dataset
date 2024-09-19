@@ -1,0 +1,190 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "细心",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身高",
+            "苗条",
+            "清秀",
+            "长发",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "绘画",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "和朋友一起去咖啡馆",
+                "周末去图书馆",
+                "在公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "在学业上取得好成绩，顺利完成学业",
+            "long_term_goals": "成为一名优秀的教师，帮助更多的学生"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到学校上课，下午4点放学后在图书馆自习，晚上10点回宿舍休息",
+            "weekends": "周末通常会和朋友一起去咖啡馆，或者去图书馆看书，有时会去公园散步"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求努力学习",
+            "adolescence": "中学时期成绩优异，但由于学习压力大，曾经有过短暂的焦虑情绪",
+            "recent_events": "最近两周由于学业压力，感觉记忆力有所下降，但整体状态还算稳定"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，目前在南京的一所大学就读"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "于婕蓓的父亲是一名工薪阶层，工作繁忙，但对女儿的教育非常重视。父亲在她的童年时期扮演了重要的角色，经常陪她做作业，带她去公园玩耍。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "于婕蓓的母亲是一名家庭主妇，温柔体贴。母亲在她的童年时期给予了她很多关爱和支持，尤其是在她遇到困难时，总是耐心地开导她。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "于婕蓓在小学时期有两个非常要好的朋友，她们经常一起玩耍、学习，分享彼此的秘密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "在中学时期，由于学业压力增大，父亲对她的期望也更高了。虽然父亲依然关心她，但有时会因为成绩问题而对她严厉。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲在她的青春期依然是她的坚强后盾，理解她的压力，并尽力为她减轻负担。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "在中学时期，于婕蓓结识了几位新朋友，她们一起参加课外活动，互相鼓励，共同面对学业压力。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "于婕蓓的班主任和数学老师对她的学业给予了很多帮助和指导，尤其是在她感到焦虑时，老师们会耐心地开导她。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "目前，于婕蓓的父亲依然关心她的学业，但由于她已经成年，父亲对她的管束有所放松，更多的是给予建议和支持。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲依然是她最亲近的人，时常打电话关心她的生活和学习情况。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        4,
+                        4,
+                        5
+                    ],
+                    "description": [
+                        "在大学里，于婕蓓结识了几位新朋友，她们经常一起去咖啡馆、图书馆，互相支持，共同面对学业压力。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "于婕蓓的大学导师对她的学业和未来职业规划给予了很多指导和帮助。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "于婕蓓的社会关系在不同阶段有明显的变化。童年时期，她的主要社会关系集中在家庭和少数朋友身上。进入中学后，随着学业压力的增加，她的社会关系扩展到老师和更多的朋友。最近，她在大学里结识了新的朋友和导师，这些关系帮助她应对学业压力和生活中的挑战。总体来说，她的社会关系逐渐丰富，社交能力和意愿也在不断增强。"
+    }
+}

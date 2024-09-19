@@ -1,0 +1,181 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "谨慎",
+            "自我怀疑",
+            "善良"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "皮肤较白",
+            "穿着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "独自去图书馆",
+                "在宿舍里写日记",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高自信心，能够在课堂上主动发言",
+            "long_term_goals": "成为一名优秀的教师，能够自信地站在讲台上"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到教室上课，下午在图书馆自习，晚上回宿舍写作和听音乐。",
+            "weekends": "周末通常会去公园散步，或者在宿舍里阅读和写作。偶尔会和朋友一起去看电影。"
+        },
+        "past_experiences": {
+            "childhood": "小时候在一个小县城长大，父母对他期望很高，但他总觉得自己达不到他们的期望。",
+            "adolescence": "中学时期成绩优异，但因为一次考试失利，开始对自己产生怀疑，逐渐变得内向。",
+            "recent_events": "最近一个学期开始，面对学业和社交压力，感到自信心严重不足，害怕失败。"
+        },
+        "environment": "出生在一个小县城，家庭环境较为传统。高中毕业后考入省城的一所大学，目前在大学里学习。",
+        "persona_summary": "酆谦诚，23岁男学生，性格内向、敏感、谨慎，常自我怀疑但善良。外貌中等身高、瘦削、戴眼镜。兴趣爱好包括阅读、写作、听音乐、看电影。日常生活规律，常独自活动。短期目标是提高自信心，勇于课堂发言，长期目标是成为自信的教师。童年在小县城长大，父母期望高，中学时因一次考试失利变得内向。近期面对学业和社交压力，自信心不足。无抑郁和自杀风险。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲是一个严厉但关心家庭的人，对酆谦诚的期望很高，经常督促他学习。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲温柔体贴，但也对酆谦诚有很高的期望。她经常在酆谦诚感到压力时给予安慰。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "酆谦诚在小学时有两个好朋友，他们经常一起玩耍，但随着时间的推移，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "随着酆谦诚进入中学，父亲的期望变得更加严格，导致他们之间的关系有些紧张。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是酆谦诚的支持者，但她也开始担心他的心理状态。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "酆谦诚在中学时结识了几位同学，但由于内向和自我怀疑，他与他们的关系并不深。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "有两位老师对酆谦诚的学业表现给予了关注和鼓励，但他总觉得自己达不到他们的期望。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "在大学里，酆谦诚结识了几位同学，但由于自信心不足，他很少主动与他们交流。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "导师对酆谦诚的学术能力有一定的期望，但酆谦诚总觉得自己无法达到这些期望。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "酆谦诚有两位较为亲近的朋友，他们经常鼓励他参加活动，但他总是感到害怕和不安。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "酆谦诚在不同阶段的社交关系发生了显著变化。童年时期，他与父母和朋友的关系较为亲密，但随着年龄的增长，父亲的严格要求和一次考试失利使他逐渐变得内向和自我怀疑。进入大学后，尽管结识了一些新朋友和导师，但由于自信心不足，他的社交能力和意愿都受到了限制，导致他在面对学业和社交压力时感到更加孤立和无助。"
+    }
+}

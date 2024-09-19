@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须满足别人的期望。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有能力克服困难。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我孤独且难以被理解。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不够聪明，无法完成任务。",
+                "others": "他人会发现我的不足，并因此不再信任我。",
+                "world": "世界对我充满挑战，我难以应对。"
+            },
+            "rules": "我应该尽量避免暴露我的不足。",
+            "positive_assumption": "如果我避免暴露不足，我就不会被他人批评。",
+            "negative_assumption": "如果我暴露了不足，我会被视为无能。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要不断努力才能证明自己。",
+                "others": "他人对我的期望很高，我必须满足他们。",
+                "world": "世界上每个人都在竞争，我必须比他们更努力。"
+            },
+            "rules": "我应该比别人更加努力。",
+            "positive_assumption": "如果我比别人更加努力，我就能证明自己。",
+            "negative_assumption": "如果我不比别人更加努力，我就会被视为失败者。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须达到他人的期望，否则我就会失去他们的认可。",
+                "others": "他人对我的期望是合理的，我应该尽力满足。",
+                "world": "世界对每个人都有高期待，我不能例外。"
+            },
+            "rules": "我应该尽量满足他人的期望。",
+            "positive_assumption": "如果我满足了他人的期望，我就能得到认可和支持。",
+            "negative_assumption": "如果我不能满足他人的期望，我就会失去他们的认可。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是要尽力去取悦他人。",
+                "others": "他人对我的评价非常重要。",
+                "world": "世界对每个人都有高要求，我必须达到这些要求。"
+            },
+            "rules": "我应该不断努力去满足他人的要求。",
+            "positive_assumption": "如果我满足了他人的要求，我会被认可和尊重。",
+            "negative_assumption": "如果我没有满足他人的要求，我会被忽视和批评。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力面对各种挑战。",
+                "others": "他人可以给予我支持，但最终我能依靠自己。",
+                "world": "世界充满了机会和挑战，我有能力应对。"
+            },
+            "rules": "我应该主动面对挑战，并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会得到成长和进步。",
+            "negative_assumption": "如果我逃避挑战，我会失去成长的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我可以克服任何困难。",
+                "others": "他人可以帮助我，但我能独自解决问题。",
+                "world": "世界上的困难是可以克服的，我有能力应对。"
+            },
+            "rules": "我应该积极面对困难，并寻找解决方案。",
+            "positive_assumption": "如果我克服了困难，我会变得更坚强。",
+            "negative_assumption": "如果我没有克服困难，我会失去自信。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我很难被他人理解。",
+                "others": "他人很难真正了解我的感受和想法。",
+                "world": "世界对我来说是孤独的，我很难找到真正的朋友。"
+            },
+            "rules": "我应该避免过多依赖他人。",
+            "positive_assumption": "如果我避免依赖他人，我就不会感到失望。",
+            "negative_assumption": "如果我依赖他人，我会被误解和忽视。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我总是感到孤独。",
+                "others": "他人不容易理解我。",
+                "world": "世界是孤立的，我很难融入其中。"
+            },
+            "rules": "我应该独自面对问题，而不是依赖他人。",
+            "positive_assumption": "如果我独自面对问题，我会变得更独立。",
+            "negative_assumption": "如果我依赖他人，我会感到更加孤独。"
+        }
+    ]
+}

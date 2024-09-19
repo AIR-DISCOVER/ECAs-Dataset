@@ -1,0 +1,179 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "善良",
+            "细心",
+            "有责任感",
+            "缺乏自信"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "皮肤较白",
+            "穿着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "编程",
+                "阅读科幻小说",
+                "玩电子游戏",
+                "看电影"
+            ],
+            "activity": [
+                "和朋友一起打游戏",
+                "周末去图书馆"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "改善自己的形象，提升自信心，尝试重新追求前女友。",
+            "long_term_goals": "成为一名优秀的程序员，开发出受欢迎的软件，找到一个理解和支持自己的伴侣。"
+        },
+        "daily_life": {
+            "routine": "每天早上8点起床，9点到公司上班，工作到晚上6点。下班后通常会回家继续编程或玩游戏。",
+            "weekends": "周末会和朋友一起打游戏，有时会去图书馆看书，偶尔会去看电影。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，从小就表现出对计算机的浓厚兴趣。",
+            "adolescence": "中学时期成绩优异，但性格内向，不太擅长与人交往。高考后考入了一所知名大学的计算机专业。",
+            "recent_events": "两周前因失恋导致心情低落，自信心下降。"
+        },
+        "environment": "出生在一个二线城市的普通家庭，大学毕业后在一线城市找到了一份程序员的工作，独自租房生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲是一名工厂工人，工作繁忙，但对史俊强的教育非常重视。父亲常常在晚饭后陪他一起做作业，虽然不太懂计算机，但总是鼓励他追求自己的兴趣。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲是一名小学教师，性格温和，对史俊强非常关心。她不仅在学业上给予帮助，还在生活中教会他很多做人做事的道理。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "童年时的两个好朋友，一个是邻居家的孩子，另一个是小学同学。他们常常一起玩耍，但随着时间的推移，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲在史俊强的中学时期依然非常支持他的学业，但由于工作压力大，陪伴的时间有所减少。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲在史俊强的中学时期依然是他最亲近的人，常常在他遇到困难时给予安慰和支持。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "中学时期的同学关系较为普通，史俊强因为性格内向，不太擅长与人交往，但有几个同学在学习上互相帮助。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "两位老师对史俊强的学业非常关注，尤其是计算机老师，发现了他的天赋并给予了很多指导。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "前女友",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "前女友是史俊强大学时期的同学，两人因为共同的兴趣爱好走到一起，但最终因为性格差异分手。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "工作中的同事关系较为普通，大家在工作上互相帮助，但私下交流不多。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "两个大学时期的好朋友，虽然毕业后各奔东西，但依然保持联系，偶尔会一起打游戏或聚会。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "史俊强的社交关系在不同阶段有明显变化。童年时期，他与父母和朋友的关系较为亲密，但随着时间推移，朋友的联系逐渐减少。中学时期，他的社交圈主要集中在家庭和学校，虽然有几个好朋友，但整体上社交能力较弱。进入大学后，他结识了前女友和一些志同道合的朋友，但毕业后，社交圈再次缩小，主要集中在工作和少数几个朋友之间。失恋事件对他的自信心造成了打击，但他依然保持对工作的热情，并希望通过改善形象和提升自信心来重新追求前女友或找到新的伴侣。"
+    }
+}

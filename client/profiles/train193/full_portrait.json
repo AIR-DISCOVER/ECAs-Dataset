@@ -1,0 +1,150 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "诚实",
+            "有责任心",
+            "内向"
+        ],
+        "appearance": [
+            "中等身高",
+            "微胖",
+            "长发",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "烹饪",
+                "园艺"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高工作绩效，获得上司的认可",
+            "long_term_goals": "成为公司的人事主管，拥有一个幸福的家庭"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到公司上班，晚上6点下班后回家做饭，晚上10点左右睡觉",
+            "weekends": "周末通常会和丈夫一起去公园散步，或者在家里做一些园艺和烹饪"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被教育要努力学习和工作",
+            "adolescence": "中学时期成绩优异，但性格内向，不太擅长与人交往",
+            "recent_events": "最近因为工作绩效不佳而感到压力，记忆力有所下降，体重增加"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在上海读书，毕业后回到南京工作"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工人，母亲是一名教师。父母对她的期望很高，从小就被教育要努力学习和工作。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "有几个玩伴，但由于性格内向，不太擅长与人交往。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学时期成绩优异，但性格内向，不太擅长与人交往。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "老师对她的期望很高，经常鼓励她。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "丈夫是她的大学同学，两人感情很好，经常一起做饭和散步。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "同事们关系一般，但由于工作绩效不佳，感到压力。"
+                    ]
+                },
+                {
+                    "relationship": "上司",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "上司对她的工作表现不满意，给她带来了很大的压力。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "云菁筠在不同阶段的社交关系有明显变化。童年时期，她的主要社交圈是家庭和少数朋友。进入青春期后，她的社交圈扩大到同学和老师，但由于性格内向，社交能力有限。最近，她的社交圈主要集中在家庭和工作环境中，尤其是与丈夫的关系非常亲密。然而，工作上的压力和绩效问题使她的社交关系变得紧张，尤其是与上司和同事的关系。"
+    }
+}

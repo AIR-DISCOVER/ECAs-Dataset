@@ -1,0 +1,200 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "细心",
+            "谨慎",
+            "内向",
+            "有责任感",
+            "有些优柔寡断"
+        ],
+        "appearance": [
+            "中等身高",
+            "身材匀称",
+            "黑色长发",
+            "戴眼镜",
+            "穿着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "烹饪",
+                "散步"
+            ],
+            "activity": [
+                "周末去公园散步",
+                "和朋友一起喝茶聊天",
+                "在家尝试新食谱"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高工作效率，减少决断困难",
+            "long_term_goals": "成为一名资深会计师，拥有自己的小家庭"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到公司上班，工作到下午5点。晚上回家后会做晚饭，吃完饭后会看书或听音乐，10点左右上床睡觉。",
+            "weekends": "周末通常会去公园散步，和朋友喝茶聊天，有时会在家尝试新食谱。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求认真学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多。高考后考入了一所不错的大学。",
+            "youth": "大学期间主修会计专业，毕业后顺利找到了一份会计工作。工作初期表现出色，但随着工作压力增大，开始出现决断困难的情况。",
+            "recent_events": "最近几个月，工作上的决断困难问题变得更加明显，影响了工作效率。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书，毕业后回到南京工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "潘冰纨的父亲是一名工厂工人，工作繁忙但对家庭非常负责。尽管他很少有时间陪伴潘冰纨，但他总是尽力在周末带她去公园玩耍，教她骑自行车。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "潘冰纨的母亲是一名小学教师，对她的学习要求非常严格。母亲经常在家里辅导她的功课，鼓励她参加各种课外活动。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "潘冰纨在小学时有两个好朋友，一个是邻居家的小女孩，另一个是班上的同学。她们经常一起玩耍，分享小秘密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "随着潘冰纨进入中学，父亲的工作压力也在增加，陪伴她的时间变得更少了。但父亲依然关心她的学习和生活，偶尔会带她去看电影。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲在潘冰纨的中学时期依然是她的主要支持者。她不仅关注潘冰纨的学习成绩，还关心她的心理健康，鼓励她多交朋友。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "由于性格内向，潘冰纨在中学时期的朋友不多。她有一个关系较好的同学，两人经常一起讨论学习问题，但很少谈及个人生活。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "大学期间，潘冰纨和父亲的联系减少了，但每次回家探亲时，父亲总是会关心她的生活和学习情况。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是潘冰纨的主要支持者，虽然两人不在同一个城市，但母亲经常打电话关心她的生活。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "大学期间，潘冰纨结识了两个好朋友，一个是同班同学，另一个是宿舍室友。她们经常一起学习、吃饭和参加校园活动。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "潘冰纨在工作中有几个关系较好的同事，她们经常一起讨论工作问题，有时也会一起吃午饭。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "潘冰纨有两个关系非常好的朋友，她们经常在周末一起喝茶聊天，分享生活中的点滴。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是潘冰纨的重要支持者，虽然两人不在同一个城市，但母亲经常打电话关心她的生活和工作。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "潘冰纨的社交关系在不同阶段有明显的变化。童年时期，她的主要社交对象是父母和几个朋友。进入中学后，由于性格内向，她的朋友数量减少，但与母亲的关系更加紧密。大学期间，她结识了新的朋友，但与父母的联系减少。工作后，她的社交圈主要是同事和几个亲密的朋友。尽管她在不同阶段的社交关系有所变化，但母亲一直是她的重要支持者。"
+    }
+}

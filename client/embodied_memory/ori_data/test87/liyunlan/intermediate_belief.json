@@ -1,0 +1,542 @@
+{
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力改变我的生活。",
+                "others": "他人可以给我建议，但我需要自己做决定。",
+                "world": "世界是可以被改变的，只要我努力。"
+            },
+            "rules": "我应该积极行动，为自己创造机会。",
+            "positive_assumption": "如果我积极行动，我会看到改变。",
+            "negative_assumption": "如果我不行动，我就会继续陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对挑战。",
+                "others": "他人可以提供帮助，但最终要靠自己。",
+                "world": "世界充满挑战，但我可以应对。"
+            },
+            "rules": "我应该主动面对挑战。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我逃避挑战，我会一直停滞不前。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法找到生活的意义。",
+                "others": "他人也不会帮助我找到意义。",
+                "world": "世界是无意义的。"
+            },
+            "rules": "我不应该浪费时间寻找意义。",
+            "positive_assumption": "如果我不寻找意义，我就不会感到迷茫。",
+            "negative_assumption": "如果我寻找意义，我会发现生活是多么的空虚。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我的存在没有意义。",
+                "others": "他人不会关心我的存在。",
+                "world": "生活是没有意义的。"
+            },
+            "rules": "我不应该期望生活有什么改变。",
+            "positive_assumption": "如果我不期望改变，我就不会感到失望。",
+            "negative_assumption": "如果我期望生活改变，我会发现一切都是徒劳。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我的努力永远不会有回报。",
+                "others": "他人都比我更容易成功。",
+                "world": "世界对我是不公平的。"
+            },
+            "rules": "我不应该浪费时间在努力上。",
+            "positive_assumption": "如果我不努力，我就不会失望。",
+            "negative_assumption": "如果我努力，我会发现自己有多无能。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力达到目标。",
+                "others": "他人都比我更有能力。",
+                "world": "成功是属于那些有能力的人。"
+            },
+            "rules": "我不应该尝试新的挑战。",
+            "positive_assumption": "如果我不尝试，我就不会失败。",
+            "negative_assumption": "如果我尝试，我一定会失败。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我不配拥有亲密的朋友。",
+                "others": "他人不会愿意接近我。",
+                "world": "我注定要孤独一生。"
+            },
+            "rules": "我不应该主动接近他人。",
+            "positive_assumption": "如果我不主动接近他人，我就不会被拒绝。",
+            "negative_assumption": "如果我主动接近他人，我会被嘲笑和拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得被人关心和爱护。",
+                "others": "他人不会真正爱我。",
+                "world": "这个世界上没有人会在乎我。"
+            },
+            "rules": "我应该避免与他人建立深厚的关系。",
+            "positive_assumption": "如果我不与他人建立深厚关系，我就不会被伤害。",
+            "negative_assumption": "如果我与他人建立深厚关系，我就会被抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我不配拥有好的生活。",
+                "others": "别人比我更值得拥有幸福。",
+                "world": "世界上的好事都不属于我。"
+            },
+            "rules": "我不应该奢望太多。",
+            "positive_assumption": "如果我降低期望，我就不会失望。",
+            "negative_assumption": "如果我有太多期望，我会一直感到痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得任何人的关注。",
+                "others": "他人不会真正关心我。",
+                "world": "这个世界上没有人会真正重视我。"
+            },
+            "rules": "我应该尽量不麻烦别人。",
+            "positive_assumption": "如果我不麻烦别人，我就不会被讨厌。",
+            "negative_assumption": "如果我麻烦别人，我就会被忽视和嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力改变我的生活。",
+                "others": "他人可以给我建议，但我需要自己做决定。",
+                "world": "世界是可以被改变的，只要我努力。"
+            },
+            "rules": "我应该积极行动，为自己创造机会。",
+            "positive_assumption": "如果我积极行动，我会看到改变。",
+            "negative_assumption": "如果我不行动，我就会继续陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对挑战。",
+                "others": "他人可以提供帮助，但最终要靠自己。",
+                "world": "世界充满挑战，但我可以应对。"
+            },
+            "rules": "我应该主动面对挑战。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我逃避挑战，我会一直停滞不前。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法找到生活的意义。",
+                "others": "他人也不会帮助我找到意义。",
+                "world": "世界是无意义的。"
+            },
+            "rules": "我不应该浪费时间寻找意义。",
+            "positive_assumption": "如果我不寻找意义，我就不会感到迷茫。",
+            "negative_assumption": "如果我寻找意义，我会发现生活是多么的空虚。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我的存在没有意义。",
+                "others": "他人不会关心我的存在。",
+                "world": "生活是没有意义的。"
+            },
+            "rules": "我不应该期望生活有什么改变。",
+            "positive_assumption": "如果我不期望改变，我就不会感到失望。",
+            "negative_assumption": "如果我期望生活改变，我会发现一切都是徒劳。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我的努力永远不会有回报。",
+                "others": "他人都比我更容易成功。",
+                "world": "世界对我是不公平的。"
+            },
+            "rules": "我不应该浪费时间在努力上。",
+            "positive_assumption": "如果我不努力，我就不会失望。",
+            "negative_assumption": "如果我努力，我会发现自己有多无能。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力达到目标。",
+                "others": "他人都比我更有能力。",
+                "world": "成功是属于那些有能力的人。"
+            },
+            "rules": "我不应该尝试新的挑战。",
+            "positive_assumption": "如果我不尝试，我就不会失败。",
+            "negative_assumption": "如果我尝试，我一定会失败。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我不配拥有亲密的朋友。",
+                "others": "他人不会愿意接近我。",
+                "world": "我注定要孤独一生。"
+            },
+            "rules": "我不应该主动接近他人。",
+            "positive_assumption": "如果我不主动接近他人，我就不会被拒绝。",
+            "negative_assumption": "如果我主动接近他人，我会被嘲笑和拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得被人关心和爱护。",
+                "others": "他人不会真正爱我。",
+                "world": "这个世界上没有人会在乎我。"
+            },
+            "rules": "我应该避免与他人建立深厚的关系。",
+            "positive_assumption": "如果我不与他人建立深厚关系，我就不会被伤害。",
+            "negative_assumption": "如果我与他人建立深厚关系，我就会被抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我不配拥有好的生活。",
+                "others": "别人比我更值得拥有幸福。",
+                "world": "世界上的好事都不属于我。"
+            },
+            "rules": "我不应该奢望太多。",
+            "positive_assumption": "如果我降低期望，我就不会失望。",
+            "negative_assumption": "如果我有太多期望，我会一直感到痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得任何人的关注。",
+                "others": "他人不会真正关心我。",
+                "world": "这个世界上没有人会真正重视我。"
+            },
+            "rules": "我应该尽量不麻烦别人。",
+            "positive_assumption": "如果我不麻烦别人，我就不会被讨厌。",
+            "negative_assumption": "如果我麻烦别人，我就会被忽视和嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力改变我的生活。",
+                "others": "他人可以给我建议，但我需要自己做决定。",
+                "world": "世界是可以被改变的，只要我努力。"
+            },
+            "rules": "我应该积极行动，为自己创造机会。",
+            "positive_assumption": "如果我积极行动，我会看到改变。",
+            "negative_assumption": "如果我不行动，我就会继续陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对挑战。",
+                "others": "他人可以提供帮助，但最终要靠自己。",
+                "world": "世界充满挑战，但我可以应对。"
+            },
+            "rules": "我应该主动面对挑战。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我逃避挑战，我会一直停滞不前。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法找到生活的意义。",
+                "others": "他人也不会帮助我找到意义。",
+                "world": "世界是无意义的。"
+            },
+            "rules": "我不应该浪费时间寻找意义。",
+            "positive_assumption": "如果我不寻找意义，我就不会感到迷茫。",
+            "negative_assumption": "如果我寻找意义，我会发现生活是多么的空虚。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我的存在没有意义。",
+                "others": "他人不会关心我的存在。",
+                "world": "生活是没有意义的。"
+            },
+            "rules": "我不应该期望生活有什么改变。",
+            "positive_assumption": "如果我不期望改变，我就不会感到失望。",
+            "negative_assumption": "如果我期望生活改变，我会发现一切都是徒劳。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我的努力永远不会有回报。",
+                "others": "他人都比我更容易成功。",
+                "world": "世界对我是不公平的。"
+            },
+            "rules": "我不应该浪费时间在努力上。",
+            "positive_assumption": "如果我不努力，我就不会失望。",
+            "negative_assumption": "如果我努力，我会发现自己有多无能。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力达到目标。",
+                "others": "他人都比我更有能力。",
+                "world": "成功是属于那些有能力的人。"
+            },
+            "rules": "我不应该尝试新的挑战。",
+            "positive_assumption": "如果我不尝试，我就不会失败。",
+            "negative_assumption": "如果我尝试，我一定会失败。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我不配拥有亲密的朋友。",
+                "others": "他人不会愿意接近我。",
+                "world": "我注定要孤独一生。"
+            },
+            "rules": "我不应该主动接近他人。",
+            "positive_assumption": "如果我不主动接近他人，我就不会被拒绝。",
+            "negative_assumption": "如果我主动接近他人，我会被嘲笑和拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得被人关心和爱护。",
+                "others": "父母不会真正爱我。",
+                "world": "这个世界上没有人会在乎我。"
+            },
+            "rules": "我应该避免与他人建立深厚的关系。",
+            "positive_assumption": "如果我不与他人建立深厚关系，我就不会被伤害。",
+            "negative_assumption": "如果我与他人建立深厚关系，我就会被抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我不配拥有好的生活。",
+                "others": "别人比我更值得拥有幸福。",
+                "world": "世界上的好事都不属于我。"
+            },
+            "rules": "我不应该奢望太多。",
+            "positive_assumption": "如果我降低期望，我就不会失望。",
+            "negative_assumption": "如果我有太多期望，我会一直感到痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得任何人的关注。",
+                "others": "父母不会真正关心我。",
+                "world": "这个世界上没有人会真正重视我。"
+            },
+            "rules": "我应该尽量不麻烦别人。",
+            "positive_assumption": "如果我不麻烦别人，我就不会被讨厌。",
+            "negative_assumption": "如果我麻烦别人，我就会被忽视和嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

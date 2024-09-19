@@ -1,0 +1,189 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "思维缜密",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "皮肤较白",
+            "穿着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "打游戏",
+                "看电影",
+                "阅读"
+            ],
+            "activity": [
+                "和朋友一起打游戏",
+                "独自看电影",
+                "在图书馆阅读"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高学习成绩，找到自己的兴趣点",
+            "long_term_goals": "找到一份稳定的工作，能够自立"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到教室上课，下午在图书馆自习，晚上回宿舍打游戏或看电影，11点左右睡觉。",
+            "weekends": "周末通常会和朋友一起打游戏，有时会去看电影或在图书馆阅读。"
+        },
+        "past_experiences": {
+            "childhood": "小时候在一个小城市长大，父母对他期望很高，但他总觉得自己达不到他们的期望。",
+            "adolescence": "中学时期成绩一般，常常感到压力大，进入大学后这种感觉更加明显。",
+            "recent_events": "最近一个月思维迟缓，记忆力下降，觉得自己很没用，但没有明显的情绪低落。"
+        },
+        "environment": "出生在一个小城市，父母都是普通职工。上大学后搬到大城市，住在学校宿舍。",
+        "persona_summary": "许豪河，21岁，男，未婚，学生，内向敏感，自卑但有责任感。外貌中等身高、瘦削、戴眼镜、皮肤较白，穿着朴素。喜欢打游戏、看电影和阅读。日常生活规律，学习成绩压力大，近期思维迟缓、记忆力下降，自我评价低但无抑郁症状。来自小城市，父母期望高，进入大学后压力加大，短期目标是提高成绩并找到兴趣点，长期目标是找到稳定工作并自立。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲是一个严肃但关心家庭的人，对许豪河的期望很高，经常督促他学习。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲温柔体贴，但也对许豪河有很高的期望。她经常在学习上给予支持，但也会因为成绩不理想而感到失望。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "小时候的朋友主要是邻居家的孩子，关系一般，主要一起玩耍，但没有深厚的情感交流。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "进入中学后，父亲对许豪河的期望更高，关系变得有些紧张。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然温柔，但对许豪河的成绩有些失望，关系稍有疏远。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期的朋友主要是同班同学，关系一般，偶尔一起学习或玩耍，但没有深厚的情感交流。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学老师对许豪河的期望很高，但他总觉得自己达不到他们的期望，关系较为紧张。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "上大学后，父亲对许豪河的期望依然很高，但由于距离的关系，交流减少，关系稍有缓和。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然关心许豪河的生活和学习，但由于距离的关系，交流减少，关系稍有疏远。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "大学时期的朋友主要是宿舍和班级同学，关系较为亲密，常常一起打游戏和看电影。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "大学导师对许豪河的学习有一定的指导，但由于许豪河自我评价低，关系较为疏远。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "许豪河的社会关系在不同阶段有明显变化。童年时期，他主要依赖父母和邻居朋友，关系较为简单。进入中学后，随着学业压力增加，他与父母和老师的关系变得紧张，朋友关系也较为表面。上大学后，他的社会关系有所扩展，结交了更多朋友，但由于自我评价低，他与导师和家人的关系依然较为疏远。总体来看，许豪河的社会关系在不同阶段都有所变化，但他始终感到自己无法达到他人期望，导致自我价值感低。"
+    }
+}

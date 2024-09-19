@@ -1,0 +1,577 @@
+{
+    "childhood": {
+        "name": "奚可卿",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我五岁时，有一天母亲生病了，家务全由我来承担。我记得那天我努力地扫地、洗碗，但还是有些做得不够好。母亲虽然虚弱，但还是对我说：'可卿，你做得很好，妈妈为你骄傲。'我心里无比自豪，觉得自己是个有用的人。",
+                "location": "家里",
+                "happen_time": "1985年4月",
+                "participants": "奚可卿、母亲",
+                "impact": "这次经历强化了她的核心信念'我必须努力工作才能证明自己的价值'，并形成了中间信念'父母会因为我的努力而爱我'。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "七岁时的一个周末，父母都去工作，我独自在家完成了所有的家务。当他们回来时，看见整洁的家，母亲抱着我，说：'可卿，你真是我们的好帮手。'我感到无比满足和自豪。",
+                "location": "家里",
+                "happen_time": "1987年6月",
+                "participants": "奚可卿、父母",
+                "impact": "这次经历进一步巩固了她的中间信念'如果我努力做家务，我会得到父母的认可和爱'。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "在小学三年级的一次班会上，老师问每个同学的梦想。我说想成为一名作家，但同学们笑我不切实际。当时我很受伤，但母亲安慰我说：'只要你努力，一切皆有可能。'这句话一直激励着我。",
+                "location": "小学教室",
+                "happen_time": "1988年9月",
+                "participants": "奚可卿、母亲、老师、同学",
+                "impact": "尽管受到了负面反馈，但母亲的支持帮助她保持了'我能够克服困难'的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "八岁时的一天，我在做家务时不小心打碎了一个玻璃杯。父亲并没有责怪我，而是温柔地对我说：'没关系，下一次小心点就好。'这让我觉得家人对我的宽容和爱是无条件的。",
+                "location": "家里",
+                "happen_time": "1988年11月",
+                "participants": "奚可卿、父亲",
+                "impact": "这次事件减轻了她的负面假设'如果我在家务上表现不佳，我会感到无价值'，并增强了她的自信。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "有一次，我和邻居小红一起扫落叶，她夸我扫得很干净，还说希望有我这样的妹妹。我感到非常开心，觉得自己是被需要的。",
+                "location": "邻居家院子",
+                "happen_time": "1989年3月",
+                "participants": "奚可卿、邻居小红",
+                "impact": "这次经历加强了她的中间信念'如果我帮助别人，我会感到满足'。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "九岁时，我在学校组织的演讲比赛中获得了第二名。虽然没有拿到第一，但父母仍然为我感到骄傲，给我买了我喜欢的书作为奖励。",
+                "location": "学校",
+                "happen_time": "1989年5月",
+                "participants": "奚可卿、父母、老师、同学",
+                "impact": "这次事件增强了她的核心信念'我能够克服困难'，让她相信只要努力，就会有收获。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一天，我看到父亲深夜回来，满身疲惫，但仍然坚持为我们准备早餐。我意识到父亲的辛勤劳动是为了我们全家，感到自己也应该承担起更多的责任。",
+                "location": "家里",
+                "happen_time": "1989年9月",
+                "participants": "奚可卿、父亲",
+                "impact": "这次观察强化了她的核心信念'我有责任照顾家人'，并形成了中间信念'家庭幸福取决于我的努力'。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，邻居家发生争吵，我看到小红的父母因为经济问题而激烈争吵。小红很伤心，我陪她度过了那个晚上。这让我更加珍惜自己的家庭，并感到自己有责任维护家庭的和谐。",
+                "location": "邻居家",
+                "happen_time": "1990年1月",
+                "participants": "奚可卿、邻居小红、小红的父母",
+                "impact": "这次观察加强了她的核心信念'我有责任照顾家人'，并形成中间信念'家庭责任是最重要的'。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "十岁时，我开始帮助母亲做更复杂的家务，如烹饪和洗衣。母亲教我做菜的技巧，并说：'可卿，你学得真快，将来一定能成为一个好厨师。'我感到非常自豪。",
+                "location": "家里厨房",
+                "happen_time": "1990年5月",
+                "participants": "奚可卿、母亲",
+                "impact": "这次经历加强了她的中间信念'我有能力为家人分担家务'，并增强了她的自信心。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "十一岁时，我和父亲一起修理家里的灯泡。当灯泡亮起时，父亲对我说：'你真是爸爸的小助手。'我感到自己是一个有用的人。",
+                "location": "家里",
+                "happen_time": "1991年3月",
+                "participants": "奚可卿、父亲",
+                "impact": "这次经历强化了她的核心信念'我能够克服困难'，让她相信自己能够解决问题。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里听到父母讨论经济困难的事情，母亲说：'我们要更加节省，不能让孩子们受苦。'这让我意识到家庭的经济压力，并感到自己有责任减轻父母的负担。",
+                "location": "家里",
+                "happen_time": "1991年7月",
+                "participants": "奚可卿、父母",
+                "impact": "这次观察加强了她的核心信念'我有责任照顾家人'，并形成中间信念'我应该优先考虑父母的需求'。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "有一次，我在家门口看到一个流浪的小猫，我把它带回家，照顾它。父母虽然起初担心，但看到我细心照顾小猫，最终同意让我收养它。",
+                "location": "家门口",
+                "happen_time": "1991年10月",
+                "participants": "奚可卿、父母",
+                "impact": "这次经历加强了她的中间信念'我有责任帮助那些需要帮助的'，并增强了她的同情心。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在小学毕业典礼上，我被评为'优秀学生'。父母为我感到骄傲，并鼓励我继续努力，为未来打好基础。",
+                "location": "小学礼堂",
+                "happen_time": "1992年6月",
+                "participants": "奚可卿、父母、老师、同学",
+                "impact": "这次经历进一步巩固了她的核心信念'我能够克服困难'，并增强了她的自信心。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班上的同学小丽因为考试成绩不好被父母责骂，她哭得很伤心。我感到非常难过，觉得自己有责任安慰她。",
+                "location": "小学教室",
+                "happen_time": "1992年4月",
+                "participants": "奚可卿、小丽、其他同学",
+                "impact": "这次观察加强了她的同情心，并形成中间信念'我应该帮助那些处于困境中的人'。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家门口看到邻居小明帮助他的母亲提重物，他母亲感激地笑了。我觉得自己也应该多帮助父母，减轻他们的负担。",
+                "location": "家门口",
+                "happen_time": "1992年5月",
+                "participants": "奚可卿、小明、小明的母亲",
+                "impact": "这次观察进一步巩固了她的核心信念'我有责任照顾家人'，并形成中间信念'我有能力为家人分担家务'。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "奚可卿",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在学校组织的作文比赛中，我的文章获得了二等奖。虽然没有拿到一等奖，但父母和语文老师给予了我很多鼓励，让我感到自己在写作方面有天赋。",
+                "location": "学校",
+                "happen_time": "1993年5月",
+                "participants": "父母, 语文老师, 同学",
+                "impact": "正面影响：增强了我的自信心和对写作的热爱，进一步强化了'我能够克服困难'的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次期末考试中，我的成绩比预期差，这让我感到非常失望和自责。父母虽然没有责备我，但我觉得自己辜负了他们的期望。",
+                "location": "家中",
+                "happen_time": "1994年1月",
+                "participants": "父母",
+                "impact": "负面影响：增强了'如果我不努力学习和工作，我就没有价值'的中间信念，增加了我的压力和焦虑感。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到小红在班级里被几个同学嘲笑，因为她穿了旧衣服。当时我没有站出来为她说话，只是默默地看着。",
+                "location": "学校",
+                "happen_time": "1994年6月",
+                "participants": "小红, 同学们",
+                "impact": "负面影响：让我感到内疚，意识到自己在面对不公时没有勇气站出来。这也强化了'我必须努力工作才能证明自己的价值'的信念，因为我不想成为被嘲笑的人。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在家庭聚会上，我听到叔叔夸奖我父母养育了一个好孩子，这让我感到非常自豪和幸福。",
+                "location": "家中",
+                "happen_time": "1995年春节",
+                "participants": "父母, 叔叔, 家人",
+                "impact": "正面影响：强化了'我有责任照顾家人'的核心信念，增加了对家庭责任感的认同。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在街上看到一个乞丐，他的生活看起来非常艰难。我感到非常同情，同时也意识到自己相比之下是多么幸运。",
+                "location": "南京市街头",
+                "happen_time": "1995年8月",
+                "participants": "乞丐, 路人",
+                "impact": "正面影响：增强了'我能够克服困难'的核心信念，让我更加珍惜自己的生活并更加努力。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在一次家务活中，我不小心打碎了妈妈最喜欢的花瓶，感到非常内疚。妈妈并没有责备我，但我仍然觉得自己做得不够好。",
+                "location": "家中",
+                "happen_time": "1996年2月",
+                "participants": "母亲",
+                "impact": "负面影响：增强了'如果我无法照顾好家人，我会感到内疚'的中间信念，让我更加小心翼翼地对待家庭事务。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在一次班级活动中，我主动担任了组织者，并成功地完成了任务。这让我感到非常自豪，同时也得到了同学和老师的认可。",
+                "location": "学校",
+                "happen_time": "1996年9月",
+                "participants": "同学, 班主任",
+                "impact": "正面影响：增强了'如果我努力学习和工作，我会得到他人的尊重和认可'的中间信念，提升了自我价值感。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父亲在深夜还在工作，他的背影显得非常疲惫。这让我意识到家庭生活的艰辛和父亲的付出。",
+                "location": "家中",
+                "happen_time": "1997年3月",
+                "participants": "父亲",
+                "impact": "正面影响：强化了'我有责任确保家人的幸福'的核心信念，让我更加努力地想为家人提供更好的生活。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "在一次家庭紧急情况下，我独自处理了问题，成功解决了。当时家人都不在家，我感到自己非常能干和可靠。",
+                "location": "家中",
+                "happen_time": "1997年7月",
+                "participants": "无",
+                "impact": "正面影响：增强了'我有能力解决遇到的问题'的中间信念，提升了自我效能感。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我听到邻居家发生了争吵，夫妻双方互相指责对方没有尽到家庭责任。这让我更加坚定了要照顾好家人的决心。",
+                "location": "邻居家",
+                "happen_time": "1997年12月",
+                "participants": "邻居",
+                "impact": "正面影响：强化了'我有责任照顾家人'的核心信念，让我更加重视家庭责任。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在高考前的复习阶段，我因为压力大而失眠。父母虽然没有强求我一定要考上大学，但我还是感到很大的压力。",
+                "location": "家中",
+                "happen_time": "1998年5月",
+                "participants": "父母",
+                "impact": "负面影响：增强了'如果我在学习和工作中表现不佳，我会感到无价值'的中间信念，增加了焦虑感。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在高考结束后，我选择了家政工作。虽然没有上大学，但我依然感到对未来充满希望，因为我可以通过自己的努力改善家人的生活。",
+                "location": "家中",
+                "happen_time": "1998年7月",
+                "participants": "父母",
+                "impact": "正面影响：增强了'我有能力为家人提供更好的生活'的中间信念，提升了对未来的期望和自信心。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "奚可卿",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "高中毕业后，我决定放弃上大学的梦想，开始工作以减轻家庭的经济负担。第一次找到一份超市收银员的工作时，我感到非常紧张，但也充满了责任感。",
+                "location": "南京市某超市",
+                "happen_time": "1999年7月",
+                "participants": "奚可卿, 超市经理, 同事",
+                "impact": "这次经历强化了我必须努力工作才能证明自己价值的核心信念，同时也增强了我照顾家庭的责任感。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在超市工作一年后，我意识到这份工作无法满足家庭的经济需求，于是尝试寻找更高薪的工作。最终，我成为了一名家政服务员。",
+                "location": "南京市某家庭",
+                "happen_time": "2000年8月",
+                "participants": "奚可卿, 雇主, 家政公司经理",
+                "impact": "这次转变让我明白，努力工作和不断提升技能是获得更好生活的关键。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "我曾目睹邻居家的孩子因为父母离婚而痛苦不堪，这让我更加坚定了要维持家庭和睦的决心。",
+                "location": "南京市某社区",
+                "happen_time": "2001年12月",
+                "participants": "奚可卿, 邻居家孩子",
+                "impact": "这次观察让我更加重视家庭责任，强化了我有责任照顾家人的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "我在工作中遇到了一位挑剔的雇主，尽管她经常批评我，但我坚持努力，最终得到了她的认可。",
+                "location": "南京市某家庭",
+                "happen_time": "2003年5月",
+                "participants": "奚可卿, 挑剔的雇主",
+                "impact": "这次经历让我意识到，即使面对困难，我也有能力克服，并且通过努力可以获得他人的尊重。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "我曾看到同事因为工作失误被解雇，这让我更加重视工作中的每一个细节。",
+                "location": "南京市某家政公司",
+                "happen_time": "2004年10月",
+                "participants": "奚可卿, 同事, 经理",
+                "impact": "这次观察让我更加谨慎和努力工作，强化了我的工作表现决定我价值的信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "我在工作中遇到了一位年迈的老人，她需要特别的照顾。通过与她的相处，我感受到帮助他人的快乐和自我价值的提升。",
+                "location": "南京市某家庭",
+                "happen_time": "2006年2月",
+                "participants": "奚可卿, 年迈的老人",
+                "impact": "这次经历让我更加坚定了我有责任照顾家人的信念，并且通过帮助他人，我感到非常满足。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "我在家政工作中不断学习新的技能，如烹饪和园艺，这让我感到自己在不断进步。",
+                "location": "南京市某家庭",
+                "happen_time": "2008年6月",
+                "participants": "奚可卿, 家政培训师, 同事",
+                "impact": "这次经历增强了我不断提升自己能力的信念，并且通过学习新技能，我感到自己更有能力应对生活中的挑战。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "我曾看到一位同事因为工作压力大而崩溃，这让我意识到需要找到工作与生活的平衡。",
+                "location": "南京市某家政公司",
+                "happen_time": "2010年3月",
+                "participants": "奚可卿, 同事, 经理",
+                "impact": "这次观察让我开始反思自己的工作方式，意识到需要更好地管理自己的工作压力，以维持心理健康。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "我的孩子生病住院，我需要在工作和照顾孩子之间找到平衡，这让我感到非常焦虑。",
+                "location": "南京市某医院",
+                "happen_time": "2011年11月",
+                "participants": "奚可卿, 孩子, 医生, 雇主",
+                "impact": "这次经历让我更加重视家庭责任，但同时也让我意识到自己在面对困难时的坚韧。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "我在工作中获得了一次晋升机会，这让我感到非常自豪和满足。",
+                "location": "南京市某家政公司",
+                "happen_time": "2013年4月",
+                "participants": "奚可卿, 经理, 同事",
+                "impact": "这次经历强化了我通过努力工作可以获得认可的信念，并且让我感到自己的价值被肯定。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "我曾看到一位朋友因为没有好好管理工作和家庭而导致婚姻破裂，这让我更加重视家庭的稳定。",
+                "location": "南京市某咖啡馆",
+                "happen_time": "2014年9月",
+                "participants": "奚可卿, 朋友",
+                "impact": "这次观察让我更加坚定了自己有责任照顾家人的信念，同时也提醒自己需要平衡工作与家庭之间的关系。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "我在一次家庭聚会上公开了自己在工作中的成就，得到了家人的认可和赞赏。",
+                "location": "南京市某家庭",
+                "happen_time": "2015年2月",
+                "participants": "奚可卿, 家人",
+                "impact": "这次经历让我感到非常自豪，同时也增强了我通过努力工作可以获得他人尊重的信念。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "奚可卿",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "客户李女士对我抱怨说我的工作效率太低，要求我加快速度。她的态度很强硬，让我感到非常压力。",
+                "location": "客户家中",
+                "happen_time": "2024年1月",
+                "participants": "客户李女士",
+                "impact": "这次经历让我感到自己不够好，怀疑自己的工作能力，增加了我的工作压力。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "丈夫加班回家很晚，我独自一人照顾孩子和处理家务，感到非常疲惫。",
+                "location": "家中",
+                "happen_time": "2024年2月",
+                "participants": "丈夫，孩子",
+                "impact": "让我感到自己承担了太多责任，增加了心理和身体的疲劳感。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "大儿子期末考试成绩不理想，看着他的失望表情，我感到非常内疚，认为是自己没有足够关注他的学习。",
+                "location": "家中",
+                "happen_time": "2024年3月",
+                "participants": "大儿子",
+                "impact": "增加了我的内疚感和对自己作为母亲的怀疑，强化了对家庭责任的压力。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "小红来家里探望我，聊起她最近在工作中的升职，虽然替她高兴，但也让我意识到自己职业发展停滞。",
+                "location": "家中",
+                "happen_time": "2024年4月",
+                "participants": "朋友小红",
+                "impact": "让我感到自卑和无力，怀疑自己选择的职业是否正确。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "客户王先生对我的工作表示赞赏，虽然让我一时感到开心，但也增加了我对其他客户不满的焦虑。",
+                "location": "客户家中",
+                "happen_time": "2024年5月",
+                "participants": "客户王先生",
+                "impact": "短暂的正面情感，但总体增加了对其他客户不满的敏感度和焦虑感。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在家中花园里种植新花卉时，发现自己忘记了很多关于植物护理的细节，感到记忆力下降带来的无力感。",
+                "location": "家中花园",
+                "happen_time": "2024年6月",
+                "participants": "无",
+                "impact": "让我深刻意识到自己记忆力的下降，增加了对自身能力的怀疑。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "小女儿生病，我忙于工作无法及时带她去看医生，感到深深的内疚和自责。",
+                "location": "家中",
+                "happen_time": "2024年7月",
+                "participants": "小女儿",
+                "impact": "加深了对家庭责任的压力和内疚感，增加了心理负担。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "客户张先生解雇了我，理由是我工作不够细致，这让我感到非常沮丧和无力。",
+                "location": "客户家中",
+                "happen_time": "2024年8月",
+                "participants": "客户张先生",
+                "impact": "极大地打击了我的自信心，让我对自己的工作能力产生了严重的怀疑。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "丈夫带我和孩子们去公园散心，希望我能放松一下，但我仍然无法摆脱内心的焦虑。",
+                "location": "公园",
+                "happen_time": "2024年8月",
+                "participants": "丈夫，孩子们",
+                "impact": "虽然短暂放松，但并没有真正缓解我的焦虑，反而让我感到自己无法放松。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在社区图书馆借书时，发现自己对阅读的兴趣减退，无法集中精神阅读。",
+                "location": "社区图书馆",
+                "happen_time": "2024年4月",
+                "participants": "无",
+                "impact": "让我意识到自己可能正在经历一些心理问题，增加了自我怀疑。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到邻居老张因为工作压力大而生病住院，我开始担心自己的健康状况。",
+                "location": "邻居家",
+                "happen_time": "2023年9月",
+                "participants": "邻居老张",
+                "impact": "让我更加关注自己的健康，但也增加了对工作压力的焦虑。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "朋友小红分享她通过学习新技能提升了工作能力，我开始反思自己是否也应该提升职业技能。",
+                "location": "朋友家",
+                "happen_time": "2023年11月",
+                "participants": "朋友小红",
+                "impact": "激发了我想要提升职业技能的动机，但也让我感到时间和精力不足的压力。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到大儿子因为学习压力而失眠，我感到很心疼，但也无力解决他的困境。",
+                "location": "家中",
+                "happen_time": "2024年3月",
+                "participants": "大儿子",
+                "impact": "增加了对家庭责任的压力和无力感，让我感到自己无法提供足够的支持。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "小女儿在学校的表演中表现出色，我感到无比自豪，但同时也开始担心她是否能持续保持这种表现。",
+                "location": "学校",
+                "happen_time": "2023年12月",
+                "participants": "小女儿",
+                "impact": "短暂的自豪感，但总体上增加了对孩子未来的担忧。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到朋友小红因为工作和家庭的双重压力而情绪崩溃，我开始反思自己的心理状态是否也在恶化。",
+                "location": "朋友家",
+                "happen_time": "2024年1月",
+                "participants": "朋友小红",
+                "impact": "增加了对自己心理健康的关注，但也加剧了对压力的焦虑。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "参加社区活动时，看到其他家庭的和睦相处，我感到自己的家庭关系也需要更加关注和维护。",
+                "location": "社区活动中心",
+                "happen_time": "2024年6月",
+                "participants": "社区成员",
+                "impact": "增加了对家庭关系的关注，但也让自己感到更多的责任和压力。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "观察到丈夫在工作中的疲惫和压力，我感到非常心疼，希望能为他分担更多，但自己也感到无力。",
+                "location": "家中",
+                "happen_time": "2024年2月",
+                "participants": "丈夫",
+                "impact": "增加了对家庭责任的压力和无力感，同时也感到对丈夫的关爱。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一个忙碌的工作日结束后，我感到极度疲惫和无力，开始怀疑自己的工作是否值得这么多付出。",
+                "location": "客户家中",
+                "happen_time": "2024年3月",
+                "participants": "无",
+                "impact": "增加了对工作的怀疑和对自己能力的自我怀疑。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "尝试通过阅读来放松自己，但发现自己无法集中注意力，感到非常焦虑和无助。",
+                "location": "家中",
+                "happen_time": "2024年5月",
+                "participants": "无",
+                "impact": "加剧了对自己记忆力和注意力的担忧，增加了焦虑感。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，与家人们讨论未来的计划，感到自己有很多事情需要完成，压力倍增。",
+                "location": "家中",
+                "happen_time": "2024年7月",
+                "participants": "家人",
+                "impact": "增加了对未来的不确定感和压力，感到自己肩负了太多责任。"
+            }
+        ]
+    }
+}

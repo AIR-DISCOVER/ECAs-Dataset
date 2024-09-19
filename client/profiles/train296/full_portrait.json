@@ -1,0 +1,187 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "皮肤白皙",
+            "长发",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "写作",
+                "绘画"
+            ],
+            "activity": [
+                "周末去公园散步",
+                "和朋友一起看电影",
+                "在家里听音乐放松"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能够顺利完成学业，减轻学业压力",
+            "long_term_goals": "找到一份自己喜欢的工作，过上平静而充实的生活"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到学校上课，下午放学后在图书馆自习，晚上回家继续学习，直到深夜。",
+            "weekends": "周末通常在家里完成作业，有时会和朋友出去散步或看电影，但大部分时间还是在学习。"
+        },
+        "past_experiences": {
+            "childhood": "小时候成绩一直很好，但父母对她的期望很高，常常感到压力。",
+            "adolescence": "初中时因为成绩下滑，开始对自己产生怀疑，逐渐变得内向和自卑。",
+            "recent_events": "最近因为高考压力巨大，情绪变得更加低落，开始有自杀的想法。"
+        },
+        "environment": "出生在一个小城市，父母都是普通职工，从小在一个相对稳定的家庭环境中长大。高中时搬到省城读书，适应新环境的过程中感到孤独和压力。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲是一个严肃但关心她的人，常常对她的学业有很高的期望。虽然父亲不常表达情感，但潘晶育能感受到他的爱。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲是一个温柔而细心的人，总是尽力支持她的学业和生活。母亲常常在她感到压力时给予安慰和鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "小时候有两个好朋友，一个是邻居家的小女孩，另一个是同班同学。她们常常一起玩耍，分享彼此的秘密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "随着学业压力的增加，父亲对她的期望也越来越高，导致他们之间的关系变得有些紧张。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是她的支持者，但有时也会因为学业问题而感到无力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "初中时结识了几个新朋友，但因为成绩下滑，她逐渐变得内向和自卑，与朋友的关系也变得疏远。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "有两位老师对她的学业和心理状态非常关心，常常给予她鼓励和帮助。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "高考压力巨大，父亲的期望让她感到更加沉重，导致他们之间的关系更加紧张。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲依然在她身边支持她，但也因为她的情绪低落而感到担忧。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "最近因为情绪低落，她与朋友的联系减少，但有一个好朋友依然在她身边，给予她支持。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "心理咨询师是她最近开始接触的人，帮助她应对学业压力和情绪问题。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "潘晶育在不同阶段的社交关系发生了显著变化。童年时，她与父母和朋友的关系较为亲密，但随着学业压力的增加，特别是在初中和高中阶段，她变得更加内向和自卑，与朋友和家人的关系也变得紧张。最近，她开始寻求心理咨询师的帮助，希望通过专业的指导来缓解自己的情绪问题。"
+    }
+}

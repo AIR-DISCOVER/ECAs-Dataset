@@ -1,0 +1,175 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "勤奋",
+            "有责任心",
+            "有些焦虑",
+            "自信"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "打游戏",
+                "阅读",
+                "篮球"
+            ],
+            "activity": [
+                "和室友一起打游戏",
+                "周末去图书馆自习",
+                "偶尔和朋友打篮球"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "考上研究生",
+            "long_term_goals": "成为一名优秀的学者，或者在专业领域找到一份理想的工作"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到教室上课，下午和晚上在图书馆自习，晚上10点回寝室休息",
+            "weekends": "周末通常会在图书馆自习，偶尔和朋友出去吃饭或者打篮球"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，从小就被要求好好学习",
+            "adolescence": "高中时期成绩优异，但也因为学习压力大而感到焦虑，曾经因为一次考试失利而失眠",
+            "recent_events": "最近因为考研压力大，记忆力下降，思维迟缓，但依然保持着对未来的信心"
+        },
+        "environment": "出生在一个中等城市，家庭环境温馨，父母对他关爱有加。大学在一所重点高校就读，周围同学都很优秀，竞争压力较大"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工厂工人，性格严肃但关心家庭。",
+                        "母亲是一名小学教师，温柔且细心。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "小明是邻居家的孩子，从小一起玩耍。",
+                        "小红是小学同学，喜欢一起做作业。",
+                        "小刚是班上的调皮鬼，但很讲义气。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲对他的学习要求很高，经常督促他。",
+                        "母亲则更多地关注他的心理健康，常常开导他。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "小明依然是他的好朋友，常常一起讨论学习。",
+                        "小红在初中时转学了，但依然保持联系。",
+                        "小刚在初中时变得更加调皮，但依然是他的朋友。",
+                        "新认识的小李，是班上的学霸，常常一起学习。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "班主任对他很关心，常常找他谈话。",
+                        "数学老师是他的偶像，激发了他对数学的兴趣。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲依然对他的学习很关注，但更多地给予支持。",
+                        "母亲则更加关注他的心理状态，常常打电话关心。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "小明现在在另一所大学，但依然保持联系。",
+                        "小红在外地读书，偶尔会视频聊天。",
+                        "小刚现在在工作，但依然是他的好朋友。",
+                        "大学室友小张，常常一起打游戏。",
+                        "大学同学小王，常常一起自习。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "导师对他的研究生申请给予了很多指导和帮助。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "花福奇的社交圈在不同阶段有明显变化。童年时期，他的社交圈主要集中在家庭和邻居朋友。进入青春期后，随着学习压力的增加，他的社交圈逐渐扩展到学校的老师和同学。最近，由于考研压力，他的社交圈更多地集中在大学的朋友和导师上。尽管他一直保持着与老朋友的联系，但新的社交关系也在不断建立。总体来说，他的社交能力较强，能够在不同环境中适应并建立新的关系。"
+    }
+}

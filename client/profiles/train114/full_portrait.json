@@ -1,0 +1,152 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "勤奋",
+            "有责任心",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "纤细",
+            "清秀",
+            "戴眼镜",
+            "皮肤白皙"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "绘画",
+                "看电影"
+            ],
+            "activity": [
+                "和朋友一起去咖啡馆",
+                "周末去图书馆自习",
+                "在校园里散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "顺利通过考试，取得好成绩",
+            "long_term_goals": "找到一份稳定且有意义的工作，能够自我实现"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到教室上课，下午在图书馆自习，晚上回宿舍复习和完成作业，11点左右睡觉。",
+            "weekends": "周末通常会在图书馆度过，偶尔和朋友出去吃饭或看电影，放松一下。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但也因此感受到很大的压力，常常为了考试而焦虑。",
+            "recent_events": "最近两周由于考试压力，记忆力下降，决断困难，情绪低落，自信心下降。"
+        },
+        "environment": "出生在一个小城市，大学在大城市就读，适应了城市的快节奏生活，但也感受到更多的竞争压力。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "蒋秀馨的父母对她的期望很高，从小就要求她努力学习。虽然他们的关心和支持是无条件的，但也给她带来了很大的压力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "蒋秀馨在小学和初中时有几个好朋友，他们一起玩耍和学习，但随着时间的推移和升学的压力，这些友谊逐渐淡化。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        4,
+                        2,
+                        3
+                    ],
+                    "description": [
+                        "在中学时期，蒋秀馨的同学们大多是竞争对手，虽然有一些友谊，但更多的是学业上的竞争。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "蒋秀馨的两位老师对她的学业给予了很大的帮助和指导，他们的鼓励让她在学业上取得了优异的成绩。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "室友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "蒋秀馨的室友们是她在大学生活中的重要支持者，她们一起学习、生活，虽然有时会有小摩擦，但总体上关系融洽。"
+                    ]
+                },
+                {
+                    "relationship": "闺蜜",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "蒋秀馨有一个非常亲密的闺蜜，她们经常一起出去吃饭、看电影，是彼此的情感支柱。"
+                    ]
+                },
+                {
+                    "relationship": "教授",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "蒋秀馨的教授对她的学术表现有很高的期望，虽然他们的关系较为正式，但教授的指导对她的学业有很大帮助。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "蒋秀馨在不同阶段的社会关系有明显的变化。童年时期，她的主要社会关系是家庭和几个好朋友。进入中学后，学业压力增加，她的社会关系更多地集中在同学和老师之间。最近，她在大学里建立了新的社会关系，包括室友、闺蜜和教授。虽然她的社会关系网络在不断扩大，但学业压力和自我价值感的下降让她在处理这些关系时感到困难。"
+    }
+}

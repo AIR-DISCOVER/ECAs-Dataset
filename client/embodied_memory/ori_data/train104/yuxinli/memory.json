@@ -1,0 +1,2688 @@
+{
+    "node_157": {
+        "page_content": "2024年8月5日下午，我和丈夫来到社区健身中心，准备开始我们的第一次健身活动。健身教练热情地接待了我们，详细讲解了健身计划和注意事项。我们跟着教练的指导做了一系列简单的运动。虽然一开始有些吃力，但随着运动的进行，我感觉身体逐渐放松，心情也有所好转。结束后，我和丈夫都感到心情愉快，身体也轻松了许多。这次健身活动让我看到了通过运动缓解压力的可能性，增强了我的信心。",
+        "metadata": {
+            "node_id": "node_157",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "通过坚持运动，我的身体和心理状态会变好。",
+            "emotion": "心情愉快，放松",
+            "behavior": "积极配合教练的指导进行运动，并计划继续锻炼。",
+            "physiological_response": "身体逐渐放松，焦躁情绪减轻，感觉身体轻松了许多。",
+            "created_at": "2024-08-05 17:30:00"
+        }
+    },
+    "node_156": {
+        "page_content": "2024年7月10日傍晚，我和丈夫参加了社区活动。在一个介绍社区健身项目的环节，我听到了这个项目可以帮助缓解压力和改善身体健康的消息。社区活动组织者热情地向我们介绍这个项目的细节。我对这个健身项目产生了浓厚的兴趣，觉得这可能是一个缓解压力和焦躁情绪的好方法。丈夫也表示支持，我们决定一起参加这个活动。我感到一丝希望，期待通过运动来改善我的身心健康。",
+        "metadata": {
+            "node_id": "node_156",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "这个健身项目可能真的能帮助我缓解焦躁情绪和保持健康。",
+            "emotion": "希望、期待",
+            "behavior": "积极了解并决定参加社区健身项目。",
+            "physiological_response": "心情愉悦，感到放松，身体轻松感增强。",
+            "created_at": "2024-07-10 18:45:00"
+        }
+    },
+    "node_155": {
+        "page_content": "2024年6月15日晚上，我和丈夫在家中的客厅里谈心。我告诉他最近感觉压力越来越大，尤其是面对即将退休和更年期症状的双重挑战。我说话时声音有些颤抖，眼眶也湿润了。丈夫握住我的手，轻声安慰我，说他会和我一起面对这些问题。我感到一丝安慰，但内心仍然充满焦虑，担心自己的情绪会影响家庭和工作。",
+        "metadata": {
+            "node_id": "node_155",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不采取放松措施，我的焦躁情绪会影响家庭和工作。",
+            "emotion": "焦虑和担忧",
+            "behavior": "试图抑制情绪，避免在家人面前表现出焦虑。",
+            "physiological_response": "心跳加快，手心出汗，肌肉紧张。",
+            "created_at": "2024-06-15 19:30:00"
+        }
+    },
+    "node_154": {
+        "page_content": "2024年7月25日上午，我参加了社区组织的晨练活动。我们在南京的某公园里散步，绿树成荫的小道上，空气清新。和老朋友一起走在公园里，我们一边散步一边交流各自的健康心得，彼此鼓励坚持锻炼。晨练结束后，我感到身体舒适，心情也变得放松了许多。",
+        "metadata": {
+            "node_id": "node_154",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "通过晨练和交流，我的焦躁情绪得到了缓解，我应该坚持这种健康的生活方式。",
+            "emotion": "放松和愉悦",
+            "behavior": "继续参与晨练活动，并积极与朋友交流健康心得。",
+            "physiological_response": "身体感觉舒适，心情变得更加平静，呼吸均匀。",
+            "created_at": "2024-07-25 09:30:00"
+        }
+    },
+    "node_153": {
+        "page_content": "2024年7月20日上午，我和几位老朋友在社区活动中心的会议室里聚在一起，讨论退休后的生活规划。我分享了自己在上次健康讲座中学到的健康生活方式，大家纷纷表示认同，并计划共同参与社区组织的健康活动。讨论过程中，大家的热情和支持让我感到非常温暖，增强了我继续保持健康生活方式的决心。",
+        "metadata": {
+            "node_id": "node_153",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "大家都支持我保持健康的生活方式，我必须每天坚持锻炼和健康饮食。",
+            "emotion": "感到温暖和鼓舞",
+            "behavior": "更加积极地参与健康活动，并严格遵循健康的生活习惯",
+            "physiological_response": "心情愉悦，体能增加",
+            "created_at": "2024-07-20 10:00:00"
+        }
+    },
+    "node_152": {
+        "page_content": "2024年7月15日下午，我来到南京的社区活动中心，参加了一次健康生活讲座。大厅里坐满了人，大家都在认真听讲。专家们介绍了各种适合退休后保持健康的生活方式，我一边听一边做笔记，感觉这些信息非常有用。讲座结束后，我带着满满的收获离开，心情变得轻松了许多。",
+        "metadata": {
+            "node_id": "node_152",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我能够按照这些建议去做，我的焦躁情绪会有所缓解。",
+            "emotion": "轻松和希望",
+            "behavior": "我开始计划如何将这些建议融入我的日常生活。",
+            "physiological_response": "肌肉放松，呼吸平稳。",
+            "created_at": "2024-07-15 15:30:00"
+        }
+    },
+    "node_151": {
+        "page_content": "2024年5月5日上午10点45分，我参加了一次社区活动，活动中心的墙上挂着各种社区活动的照片和宣传海报，桌子上摆放着茶点。我向朋友们倾诉了儿子和媳妇的经济争吵问题。朋友们听后纷纷给予我安慰和建议，虽然他们的支持让我暂时感到温暖，但内心的焦虑和无助依然挥之不去。我不断担心家庭的未来，情绪波动也越来越明显。",
+        "metadata": {
+            "node_id": "node_151",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "如果我不解决儿子和媳妇的经济争吵问题，家庭关系会变得紧张，甚至破裂。",
+            "emotion": "极度焦虑和无助",
+            "behavior": "不断思考如何解决儿子和媳妇的争吵问题，可能会在社区活动中分心，无法集中注意力。",
+            "physiological_response": "心跳加快，呼吸急促，感到胃部不适。",
+            "created_at": "2024-05-05 10:45:00"
+        }
+    },
+    "node_150": {
+        "page_content": "2024年5月3日下午2点30分，我决定在南京的家中与小鹏和媳妇坐下来沟通。客厅里摆放着我们一家人的合照，阳光从窗外洒进来，为紧张的气氛增添了一些温暖。我尽量用温和的语气谈论他们的经济问题，分享自己过去的经验和智慧，但他们的情绪越来越激动，甚至开始互相指责。我感到无比无助，仿佛自己多年的教育经验在此刻毫无用处。",
+        "metadata": {
+            "node_id": "node_150",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的教育经验在此刻毫无用处，我无法帮助他们解决问题。",
+            "emotion": "无助和挫败感",
+            "behavior": "试图安抚双方，保持冷静，避免冲突升级。",
+            "physiological_response": "心跳加速，双手微微颤抖，感觉胸口发紧。",
+            "created_at": "2024-05-03 14:30:00"
+        }
+    },
+    "node_149": {
+        "page_content": "2024年5月1日早上9点15分，我在南京的家中听到儿子小鹏和媳妇在卧室里因为经济问题发生了争吵。客厅里静得只能听到他们激烈的争论声。我感到心里非常担心和无助，不知道该如何帮他们。看到桌上的花盆和沙发上的书，我无力地坐在椅子上，手心冒汗，心跳加速。",
+        "metadata": {
+            "node_id": "node_149",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "如果我不能帮助小鹏和媳妇解决争吵，家庭关系会变得紧张。",
+            "emotion": "焦虑和无助",
+            "behavior": "坐在椅子上，无力地看着桌上的花盆和沙发上的书。",
+            "physiological_response": "手心冒汗，心跳加速。",
+            "created_at": "2024-05-01 09:15:00"
+        }
+    },
+    "node_148": {
+        "page_content": "2024年03月20日晚上，项目终于结束了，但丈夫的情绪依旧不稳定。我决定尝试一次深度沟通，希望能解决问题。我在卧室里找他，轻轻地关上门，坐在他身边，认真地问他最近的感受。然而，他的态度依然冷漠和暴躁，根本不愿意配合我的沟通。我们的对话很快变成了争吵，这是我们第三次激烈争吵。这次争吵使我感到极度的心力交瘁和失望。我开始感到家庭关系变得紧张和脆弱，强烈的无助感和挫败感让我的焦虑情绪进一步加剧，影响了我的日常生活和心理状态。",
+        "metadata": {
+            "node_id": "node_148",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "我无法维护家庭的和谐，家庭关系正在崩溃。",
+            "emotion": "极度的心力交瘁和失望，强烈的无助感和挫败感",
+            "behavior": "减少与丈夫的沟通，可能暂时回避家庭问题",
+            "physiological_response": "心跳加快，头痛，胃部不适",
+            "created_at": "2024-03-20 21:15:00"
+        }
+    },
+    "node_147": {
+        "page_content": "2024年03月10日晚上，我看到丈夫仍然为项目的事情焦头烂额，便想着安排一些家庭活动让他放松。我准备了一些小游戏和小吃，想让他放松一下。然而，当我建议一起玩游戏时，他突然脸色一变，认为我在干扰他的工作。他的情绪再次失控，我们又发生了激烈的争吵。这次争吵让我感到无助和沮丧，我的情绪波动加剧。我开始质疑自己在家庭和谐中的角色，并感到自己无法有效地支持他，从而导致焦虑感增加。",
+        "metadata": {
+            "node_id": "node_147",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "我无法有效地支持丈夫，家庭和谐的责任在我身上，我可能做得不够好。",
+            "emotion": "无助和沮丧，焦虑感增加",
+            "behavior": "停止了安排家庭活动，开始质疑自己的角色，变得更加焦虑和不安",
+            "physiological_response": "心跳加快，胃部不适，可能出现浅眠或失眠",
+            "created_at": "2024-03-10 20:45:00"
+        }
+    },
+    "node_146": {
+        "page_content": "2024年03月01日晚上，丈夫回到家中，一脸疲惫和沮丧。我看到他的样子，心里很担心，便试图与他沟通。我轻声问他发生了什么，他却突然情绪失控，大声责备我不懂他的压力。我感到十分痛苦和困惑，眼泪在眼眶里打转，但我还是尽量控制住自己，试图安慰他。然而，他的反应更加激烈，最终我们发生了第一次激烈的争吵。这次争吵让我感到非常痛苦和困惑，我尝试关心和安慰丈夫的行为被误解，增加了我的心理压力。我开始自我怀疑，认为自己在家庭和谐方面的努力不足。",
+        "metadata": {
+            "node_id": "node_146",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "我在家庭和谐方面的努力不足，我没有能力解决家庭问题。",
+            "emotion": "痛苦、困惑、自我怀疑，情绪强度较高",
+            "behavior": "试图安慰丈夫，但最终发生了激烈争吵，产生自我怀疑情绪",
+            "physiological_response": "眼泪在眼眶里打转，心跳加快，感到胸闷",
+            "created_at": "2024-03-01 19:30:00"
+        }
+    },
+    "node_145": {
+        "page_content": "2024年1月12日上午，我在社区会议室参加了一次紧急社区会议。会议主要讨论如何更好地照顾社区中的独居老人。会议室里坐满了社区居民和领导，大家都在积极地发表意见。我也不例外，提出了多项建议，比如组织志愿者定期探访独居老人、建立社区互助网络等。我的建议得到了大家的认可，我也自愿加入了新的志愿者小组，负责定期探访独居老人。通过积极参与社区活动，我感到了一些安慰和满足感，但内心的担忧并没有完全消除。我知道，只有继续努力，我才能更好地应对未来的生活挑战。",
+        "metadata": {
+            "node_id": "node_145",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "如果我不积极参与社区活动，我可能会感到孤立和内疚。",
+            "emotion": "焦虑和担忧",
+            "behavior": "更加频繁地参与社区活动和志愿者工作，尽力关心和帮助他人。",
+            "physiological_response": "心跳加速，感觉紧张，偶尔出现精神运动性激越。",
+            "created_at": "2024-01-12 10:15:00"
+        }
+    },
+    "node_144": {
+        "page_content": "2024年1月5日下午，我在社区花园散步时遇到了一位邻居。我们聊了几句，邻居突然告诉我，社区里的一位独居老人因无人照顾而病倒了。我感到非常震惊，心里一下子涌起了强烈的责任感和恐惧感。我和邻居急忙赶到老人的家中，发现老人躺在床上，情况非常糟糕。我立即拨打了急救电话，等待救护车的过程中，我不停地想着，如果我自己将来也变成这样该怎么办？这次经历让我更加担心自己的健康状况和未来的生活质量。",
+        "metadata": {
+            "node_id": "node_144",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不采取措施保持健康，我将来也可能会变得孤独无助。",
+            "emotion": "强烈的焦虑和恐惧",
+            "behavior": "立即开始计划更多的健康检查和锻炼安排。",
+            "physiological_response": "心跳加快，呼吸急促，手心出汗。",
+            "created_at": "2024-01-05 16:30:00"
+        }
+    },
+    "node_143": {
+        "page_content": "2023年12月25日下午，我在社区活动中心参加了一次健康讲座。讲座内容非常实用，讲师详细讲解了老年人的饮食、运动和心理健康等方面的建议。讲座结束后，我和几位社区朋友在大厅里聊了起来。我们谈到了社区里独居老人的生活状况，我心里不禁开始担忧起自己的未来。随着年龄的增长，我越来越意识到保持健康生活方式的重要性，特别是考虑到更年期带来的身体和情绪变化。",
+        "metadata": {
+            "node_id": "node_143",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不积极保持健康的生活方式，我的未来可能会像那些独居老人一样孤独和无助。",
+            "emotion": "焦虑和担忧，情绪波动较大",
+            "behavior": "更加严格地遵循健康饮食和锻炼计划，增加与家人和朋友的交流",
+            "physiological_response": "心跳加快，感到紧张和不安",
+            "created_at": "2023-12-25 14:45:00"
+        }
+    },
+    "node_142": {
+        "page_content": "2023年6月25日下午，我参加了社区活动中心的读书会，希望通过阅读和朋友们的交流来放松自己。会议室里，大家围坐在一起，讨论着书中的内容。我努力集中注意力，但脑海中依旧充满了焦虑的思绪。朋友们热烈的讨论声让我感到更加分心和无力。我开始担心自己的状态是否会影响到我的教育能力，心中的焦虑加剧了。",
+        "metadata": {
+            "node_id": "node_142",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "如果我继续这样焦虑，我的教育能力会下降，孩子们可能会因此受影响。",
+            "emotion": "焦虑和担忧",
+            "behavior": "努力集中注意力但难以参与讨论，甚至可能选择提前离开。",
+            "physiological_response": "心跳加快，头疼，胃部不适。",
+            "created_at": "2023-06-25 14:00:00"
+        }
+    },
+    "node_141": {
+        "page_content": "2023年3月10日早晨，我决定去社区公园散步，希望通过运动来缓解内心的焦躁。当我走在绿树成荫的小道上，耳边是清晨的鸟鸣，我却发现自己依旧无法平静下来。思绪不断涌现，焦躁感似乎没有任何减轻。我感到无助和失望，不知道该如何缓解这种情绪。",
+        "metadata": {
+            "node_id": "node_141",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "即使我采取了运动和放松措施，我的焦躁情绪仍然无法得到缓解，这让我感到无助和失望。",
+            "emotion": "无助和失望",
+            "behavior": "可能会减少或放弃运动和其他放松措施，或者依赖家人和朋友的安慰。",
+            "physiological_response": "心跳加快，呼吸急促，肌肉紧张。",
+            "created_at": "2023-03-10 07:00:00"
+        }
+    },
+    "node_140": {
+        "page_content": "2023年1月15日上午，在南京的家中，我起床后在厨房准备早餐时，发现自己对丈夫提出的一个小问题感到异常烦躁。我忍不住大声回答他，感到自己情绪失控。随后在社区花园散步时，遇到熟识的邻居打招呼，我也因对方的一句话而变得不耐烦。回到家后，我感到内心充满了困扰，开始怀疑是否与更年期有关。",
+        "metadata": {
+            "node_id": "node_140",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不采取放松措施，焦躁情绪会影响我的生活质量。",
+            "emotion": "焦躁和内疚，感到困扰",
+            "behavior": "对丈夫和邻居表现出不耐烦和烦躁情绪",
+            "physiological_response": "心跳加快，呼吸急促，可能出现头痛或肌肉紧张",
+            "created_at": "2023-01-15 08:30:00"
+        }
+    },
+    "node_139": {
+        "page_content": "2023年05月10日下午16:00，我参加了社区健康讲座。讲座中，我们讨论了老朋友的情况，这让我更加坚定了保持健康生活方式的决心。讲座专家讲解了许多关于心脏健康和定期体检的重要性，我决定开始定期锻炼和检查身体，尝试通过这种方式减轻焦虑。",
+        "metadata": {
+            "node_id": "node_139",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我需要立即开始定期锻炼和体检，否则我的健康可能会恶化。",
+            "emotion": "焦虑和紧迫感",
+            "behavior": "立即制定锻炼和体检计划，积极寻找健康生活方式的信息。",
+            "physiological_response": "心跳加快，胃部不适，出汗增多。",
+            "created_at": "2023-05-10 16:00:00"
+        }
+    },
+    "node_138": {
+        "page_content": "2023年05月03日下午14:45，我接到老朋友家人的电话，得知她因心脏病突发住院。我立刻赶到医院，看到她躺在病床上，显得十分虚弱。她的家人也在一旁焦急不安。我感到非常难过和不安，这种情感反应加剧了我对自身健康问题的担忧。",
+        "metadata": {
+            "node_id": "node_138",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不采取措施保持健康，我也可能会突然出现健康问题。",
+            "emotion": "极度焦虑和担忧",
+            "behavior": "立刻咨询医生关于更年期和心脏病的预防措施，增加健康检查的频率。",
+            "physiological_response": "心跳加快，出汗，呼吸浅快。",
+            "created_at": "2023-05-03 14:45:00"
+        }
+    },
+    "node_137": {
+        "page_content": "2023年05月01日上午10:30，我在社区活动中心参加活动时，和老朋友聊起了她的近况。她提到最近心脏有些不适，但没有太在意。我听了之后，心里一阵紧张，开始担心她的健康问题。这让我也反思起自己的健康状况，开始感到一丝焦虑。",
+        "metadata": {
+            "node_id": "node_137",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不坚持健康的生活习惯，我的健康也会出现问题。",
+            "emotion": "焦虑和紧张",
+            "behavior": "更严格地遵循健康饮食和锻炼计划，可能会增加健康检查的频率。",
+            "physiological_response": "心跳加速，感到一阵不适。",
+            "created_at": "2023-05-01 10:30:00"
+        }
+    },
+    "node_136": {
+        "page_content": "2022年6月15日晚上，我来到南京社区心理服务中心，寻求心理支持。这里的咨询室布置得温馨舒适，墙上挂着一些鼓励的话语。在咨询师的建议下，我参加了一些放松课程，学习如何通过呼吸练习和冥想来减轻焦躁情绪。每次课程结束后，我都感觉轻松了很多。通过这些课程，我逐渐学会了如何更好地应对情绪波动，也意识到寻求外部帮助的重要性。我决定在未来继续保持这些放松习惯，以维护自己的心理平衡。",
+        "metadata": {
+            "node_id": "node_136",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不采取放松措施，焦躁情绪会影响我的生活质量。",
+            "emotion": "焦虑和担忧",
+            "behavior": "积极参与放松课程，学习并实践呼吸练习和冥想。",
+            "physiological_response": "在焦虑时，可能会出现心跳加快和肌肉紧张，但通过放松练习，这些生理反应逐渐得到缓解。",
+            "created_at": "2022-06-15 19:00:00"
+        }
+    },
+    "node_135": {
+        "page_content": "2022年3月20日上午，在南京的殡仪馆，我们为母亲举办了葬礼。殡仪馆内布置得庄严肃穆，白色的菊花摆满了整个大厅。我站在母亲的遗像前，看到许多亲朋好友前来哀悼，他们的眼中充满了悲伤和怀念。大家握着我的手，给予我安慰和支持。母亲生前的影响力让我深感震撼，也让我更加明白了社会关系的重要性。我在心里暗暗下决心，要在退休后继续参与社区活动和教育工作，以延续母亲的精神。",
+        "metadata": {
+            "node_id": "node_135",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我需要像母亲一样关心和支持他人，这样才能延续她的精神。",
+            "emotion": "感到责任重大和焦虑",
+            "behavior": "更加积极地参与社区活动和志愿服务，试图帮助更多的人",
+            "physiological_response": "心跳加快，手心出汗",
+            "created_at": "2022-03-20 10:00:00"
+        }
+    },
+    "node_134": {
+        "page_content": "2022年3月10日凌晨，母亲的病情突然恶化，我和家人慌忙把母亲送到南京的医院。医院的病房里灯光昏暗，空气中弥漫着消毒水的味道。母亲躺在病床上，呼吸急促，脸色苍白。我和家人轮流守在床边，不敢闭眼。每一个夜晚都显得无比漫长，滴滴的机器声像是在提醒我们时间的流逝。看着母亲痛苦的样子，我的心里充满了焦虑和无助。",
+        "metadata": {
+            "node_id": "node_134",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不采取放松措施，我的焦躁情绪会影响我的生活质量。",
+            "emotion": "极度焦虑和无助",
+            "behavior": "无法集中精力休息或放松，过度担心母亲的病情。",
+            "physiological_response": "心跳加速，呼吸急促，身体感觉紧张和疲惫。",
+            "created_at": "2022-03-10 02:30:00"
+        }
+    },
+    "node_133": {
+        "page_content": "2021年6月25日上午，学校礼堂的舞台上摆满了奖杯和证书，观众席坐满了同事和学生。小李在颁奖仪式上获得了优异成绩，当她在舞台上特别感谢我的指导时，我的心里感到无比欣慰和自豪。我为她感到高兴，也为自己的努力感到值得。小李的成功让我感受到教育工作的成就感，进一步增强了我的自我价值感和幸福感。",
+        "metadata": {
+            "node_id": "node_133",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的教育经验对社会有价值，我的努力是值得的。",
+            "emotion": "欣慰和自豪，感受到成就感和自我价值",
+            "behavior": "微笑并鼓掌，积极回应同事和学生的祝贺，进一步投入到教育工作中",
+            "physiological_response": "心情愉快，感觉到身体轻松，呼吸平稳",
+            "created_at": "2021-06-25 10:00:00"
+        }
+    },
+    "node_132": {
+        "page_content": "2021年6月5日下午，我和小李在学校咖啡厅坐下来谈心。周围人不多，环境安静舒适。小李紧张地说她害怕比赛表现不好，我轻轻拍了拍她的肩膀，分享了我年轻时参加比赛的经验和如何减压的方法。我们聊了很久，她的脸上逐渐露出笑容。我鼓励她保持自信，相信自己的能力。这次谈话让我感到一种满足感和成就感，同时也减轻了我自己因更年期而产生的焦躁情绪。",
+        "metadata": {
+            "node_id": "node_132",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "通过帮助小李，我感到自己在关心和支持他人方面做得很好。",
+            "emotion": "满足感和成就感",
+            "behavior": "继续与小李交流，分享更多经验和建议。",
+            "physiological_response": "身体放松，焦躁情绪减轻。",
+            "created_at": "2021-06-05 14:00:00"
+        }
+    },
+    "node_131": {
+        "page_content": "2021年1月15日早上，我来到学校办公室，桌上堆满了教案和参考书，白板上写满了比赛的要点。小李显得有些紧张，我微笑着安慰她并开始详细分析比赛内容。我们一起制定了详细的指导计划，每周三下午定期沟通交流，讨论教学技巧的提升。我感到自己的教育经验得到了充分发挥，同时也希望小李能在比赛中取得好成绩。",
+        "metadata": {
+            "node_id": "node_131",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我必须继续发挥我的教育经验，否则我会觉得自己没有价值。",
+            "emotion": "焦虑和责任感",
+            "behavior": "更加投入地指导小李，确保她准备充分，并定期与她沟通。",
+            "physiological_response": "心跳加快，轻微的紧张感。",
+            "created_at": "2021-01-15 08:30:00"
+        }
+    },
+    "node_130": {
+        "page_content": "2020年12月20日晚，社区活动中心举办了一场盛大的志愿者表彰大会。礼堂布置得非常温馨，舞台上方悬挂着表彰大会的横幅。我的家人也来到了现场支持我。当我被宣布为'优秀志愿者'时，台下响起了热烈的掌声，我感到非常骄傲和自豪。这不仅提升了我的自尊心和成就感，还让我感受到自己对社区的贡献得到了认可，进一步缓解了我的孤独感和焦虑情绪。",
+        "metadata": {
+            "node_id": "node_130",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "我的努力得到了认可，帮助他人真的让人满足。",
+            "emotion": "骄傲、自豪和满足",
+            "behavior": "更加积极地参与社区活动和志愿者工作。",
+            "physiological_response": "心情愉悦，微笑，放松的身体姿态。",
+            "created_at": "2020-12-20 18:00:00"
+        }
+    },
+    "node_129": {
+        "page_content": "2020年6月10日下午，我如往常一样来到南京社区中心。当我走进温馨的大厅，看到长桌上摆放的茶水和点心，感到十分亲切。我帮助老人们做饭、打扫卫生，还陪他们聊天。特别是与一位名叫李奶奶的老人建立了深厚的感情。我们经常谈天说地，她的经历让我感受到生活的多样和坚韧。这些互动让我感受到了自己关心和支持他人的能力，增强了我的满足感和社会价值感。",
+        "metadata": {
+            "node_id": "node_129",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "通过帮助李奶奶和其他老人，我感到自己是有价值的，我的关心和支持能够让他们感受到温暖。",
+            "emotion": "满足和充实",
+            "behavior": "继续积极参与社区活动，关心他人，并与社区成员建立更深厚的关系。",
+            "physiological_response": "身心放松，感到内心的平静和愉悦。",
+            "created_at": "2020-06-10 14:00:00"
+        }
+    },
+    "node_128": {
+        "page_content": "2020年1月15日上午，我走进南京社区志愿者组织的办公室，心情既紧张又期待。办公室里挂满了各种志愿活动的照片和海报，充满了温暖和活力。在与负责人交流后，我报名参加了多项志愿服务活动。这个决定让我开始有了新的社会参与和互动机会，增强了我的社会价值感，缓解了生活中的孤独感。",
+        "metadata": {
+            "node_id": "node_128",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "即使退休了，我的教育经验依然可以帮助别人，社区和社会需要我。",
+            "emotion": "兴奋和满足",
+            "behavior": "积极参与志愿活动，与社区成员交流互动。",
+            "physiological_response": "心情愉悦，感觉精力充沛。",
+            "created_at": "2020-01-15 09:30:00"
+        }
+    },
+    "node_127": {
+        "page_content": "2018年12月20日下午，在学校的教师会议上，小张在她的发言中公开感谢了我的帮助。她提到我的指导让她的教学效果显著改善，学生成绩也有了明显提升。听到她的感谢，我感受到了极大的满足感和自我价值感。这种正向反馈增强了我继续帮助他人的动力，并减轻了我的焦躁情绪。会议室里，其他同事也纷纷表示赞同和认可，让我倍感温暖和欣慰。",
+        "metadata": {
+            "node_id": "node_127",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的教育经验对社会有很大的价值，我应该继续发挥我的教育经验。",
+            "emotion": "满足感和自我价值感",
+            "behavior": "更加积极地投入教育工作，寻找更多帮助他人的机会。",
+            "physiological_response": "心情愉悦，焦躁情绪减轻，身体感觉轻松。",
+            "created_at": "2018-12-20 14:30:00"
+        }
+    },
+    "node_126": {
+        "page_content": "2018年6月5日上午，我和小张在办公室里进行了一次教学讨论。这是我们每周例行的讨论之一。我们一起分析她最近的课堂表现，并讨论改进方案。随后，我们一起到她的教室进行课堂观察，仔细记录学生的反应和互动情况。通过一系列的指导和帮助，小张的教学水平逐渐提高。看到她的进步，我感受到了成就感和满足感，也缓解了我的焦躁情绪。",
+        "metadata": {
+            "node_id": "node_126",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的教育经验对小张的进步有帮助。",
+            "emotion": "成就感和满足感",
+            "behavior": "继续认真指导小张，并在日后更加积极地参与教学讨论和课堂观察。",
+            "physiological_response": "心情愉悦，呼吸平稳，焦躁情绪有所缓解。",
+            "created_at": "2018-06-05 10:00:00"
+        }
+    },
+    "node_125": {
+        "page_content": "2018年3月15日下午，小张走进我的办公室，显得非常焦虑。她告诉我自己在管理课堂纪律和制定教学计划方面遇到了许多困难。看着她紧张的神情，我感到非常理解和同情，决定主动帮助她。我们在教室和办公室里频繁交流，她总是迫切地寻求建议和指导。这让我感觉自己的经验得到了认可，提升了我的自我价值感。",
+        "metadata": {
+            "node_id": "node_125",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的教育经验真的对年轻老师有很大帮助。",
+            "emotion": "感到自我价值感增强，非常满足",
+            "behavior": "更加积极地提供建议和指导，愿意花更多时间帮助小张",
+            "physiological_response": "心情愉悦，精力充沛",
+            "created_at": "2018-03-15 15:30:00"
+        }
+    },
+    "node_124": {
+        "page_content": "2016年5月20日上午11:00，婚礼现场装饰得华丽而温馨。我看到儿子小鹏和新娘走进婚礼现场，瞬间泪流满面。回忆起儿子成长的点点滴滴，我感受到家庭角色的转变，内心充满了复杂的情感。既为儿子的幸福感到高兴，但也对未来的不确定性感到一丝担忧。丈夫在旁安慰我，我们共同度过了这一重要时刻。",
+        "metadata": {
+            "node_id": "node_124",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "儿子结婚了，我的家庭角色在发生变化，我有责任保持家庭的和谐，但未来可能会有很多挑战。",
+            "emotion": "复杂的情感，包括喜悦、感动和对未来的担忧",
+            "behavior": "流泪，接受丈夫的安慰，积极参与婚礼仪式",
+            "physiological_response": "心跳加快，眼泪流出，呼吸稍微急促",
+            "created_at": "2016-05-20 11:00:00"
+        }
+    },
+    "node_123": {
+        "page_content": "2016年5月19日下午2:45，婚礼现场布置得温馨而喜庆。我和儿子小鹏、新娘及亲友们一起进行婚礼彩排。看到儿子和新娘幸福的笑容，我感到一阵欣慰，但也难以抑制内心的担忧。我怕婚礼当天会有任何意外，心情非常复杂。彩排过程中，我不断提醒自己要保持冷静，不要让情绪影响到大家，但确实难以完全放松。",
+        "metadata": {
+            "node_id": "node_123",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "如果婚礼当天出问题，我会觉得自己没有尽到责任，家庭和谐会受到影响。",
+            "emotion": "焦虑和担忧",
+            "behavior": "频繁提醒自己保持冷静，过度关注细节，试图控制每个环节。",
+            "physiological_response": "心跳加快，肌肉紧张，头痛。",
+            "created_at": "2016-05-19 14:45:00"
+        }
+    },
+    "node_122": {
+        "page_content": "2016年3月12日上午10:30，我和丈夫在婚礼策划公司的办公室，与策划师讨论婚礼的细节。我们一起选定婚礼场地，安排宾客座位和确定婚宴菜单。每当有新的决定需要做时，我都会感到一阵紧张，担心是否一切都能顺利进行。丈夫在旁边不断安慰我，儿子小鹏也时不时打电话来确认进展。他们的支持让我感到温暖，但也让我意识到肩上的责任。",
+        "metadata": {
+            "node_id": "node_122",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "如果婚礼细节安排不周，会影响家庭和谐。",
+            "emotion": "焦虑和担忧",
+            "behavior": "不断检查细节并寻求家人的确认和支持。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "2016-03-12 10:30:00"
+        }
+    },
+    "node_121": {
+        "page_content": "2014年3月17日晚上，我和家人围坐在餐桌旁，讨论着李老师的去世带给我们的启示。我们一致认为健康生活方式的重要性不容忽视。于是，我们决定全家开始定期进行健康检查，并积极参加运动。这个决定让我们感到前所未有的团结和希望，焦虑情绪也有所缓解。通过这次讨论和行动，我感受到了一种掌控感和积极的变化，家庭的凝聚力和健康意识也因此增强了。",
+        "metadata": {
+            "node_id": "node_121",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不坚持健康的生活习惯，我的身体和心理状态会变差。",
+            "emotion": "焦虑，但有所缓解",
+            "behavior": "开始定期进行健康检查和积极参加运动",
+            "physiological_response": "心跳稍微加快，但整体感觉更加放松",
+            "created_at": "2014-03-17 19:00:00"
+        }
+    },
+    "node_120": {
+        "page_content": "2014年3月10日的上午，我和其他同事、朋友一同在南京市某公墓参加了李老师的葬礼。天空阴沉，空气中弥漫着哀伤的气息。我们围在李老师的墓前，聆听着她生前的故事和贡献，眼泪不自觉地流下来。每一个细节都让我感受到巨大的悲伤和失落，生命的脆弱和无常在这时显得格外清晰。这一事件让我更加重视健康生活方式，并且更关注身边人的健康和幸福。",
+        "metadata": {
+            "node_id": "node_120",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不坚持健康的生活习惯，我可能会像李老师一样突然离开。",
+            "emotion": "深深的焦虑和恐惧",
+            "behavior": "更加严格地遵循健康生活方式，增加锻炼时间，注重饮食健康。",
+            "physiological_response": "心跳加速，感觉胸闷，可能出现短暂的呼吸急促。",
+            "created_at": "2014-03-10 10:30:00"
+        }
+    },
+    "node_119": {
+        "page_content": "2014年2月20日下午，我得知李老师患癌的消息后，内心震惊又难过。那天放学后，我匆匆赶到医院，走进李老师的病房，看到她虚弱地躺在床上，心中一阵酸楚。我们坐在一起，回忆起曾经在学校的点滴，她微笑着讲述过去的故事，但我能感受到她内心的挣扎和痛苦。每次离开医院，我的心情都沉重无比，感受到深深的无力感和焦虑。我开始思考生命的意义和脆弱性，同时更加重视健康的生活方式。",
+        "metadata": {
+            "node_id": "node_119",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不坚持健康的生活习惯，我也可能会陷入这样的困境。",
+            "emotion": "深深的焦虑和无力感",
+            "behavior": "更加严格地遵循健康的生活习惯，每天坚持锻炼和健康饮食。",
+            "physiological_response": "心跳加快，手心出汗，胃部不适。",
+            "created_at": "2014-02-20 15:45:00"
+        }
+    },
+    "node_118": {
+        "page_content": "2011年12月5日晚上8:00，在南京的家中，丈夫终于结束了出差任务回到了家。我们在卧室里聊着这几个月的经历，但我发现自己依旧难以入睡。尽管丈夫回来了，我的焦虑和失眠问题却没有消失，那段时间的孤独感似乎深深地刻在了我的心里。",
+        "metadata": {
+            "node_id": "node_118",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "即使丈夫回来了，我的焦虑和失眠依然无法缓解，我是不是应该做更多的事情来放松自己？",
+            "emotion": "焦虑和无助",
+            "behavior": "尝试进行更多的放松活动，如冥想或听音乐，但仍难以入睡。",
+            "physiological_response": "心跳加快，肌肉紧张，持续的失眠。",
+            "created_at": "2011-12-05 20:00:00"
+        }
+    },
+    "node_117": {
+        "page_content": "2011年6月20日晚上10:45，在南京的家中，我躺在卧室的床上，辗转反侧，怎么也睡不着。丈夫已经出差几个月了，每晚我都会担心他的安全，心里感到无比的孤独。看着空荡荡的床，我的心情越来越沉重，失眠的问题也变得愈发严重。",
+        "metadata": {
+            "node_id": "node_117",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "如果我无法保持家庭的和谐和联系，家庭关系会变得紧张。",
+            "emotion": "焦虑、孤独、无助",
+            "behavior": "辗转反侧，无法入睡，可能会频繁查看手机是否有丈夫的消息。",
+            "physiological_response": "心跳加快，肌肉紧张，胃部不适。",
+            "created_at": "2011-06-20 22:45:00"
+        }
+    },
+    "node_116": {
+        "page_content": "2011年1月15日早上8:30，在南京的家中，丈夫接到了公司工作调动的通知。他需要到外地长期出差。当他把这个消息告诉我时，我在客厅的沙发上坐着，心里一阵紧张，但还是微笑着对他说，我会支持他的工作。然而，内心的担忧却挥之不去。我担心他在外地的生活是否顺利，也担心自己面对突如其来的孤独感。",
+        "metadata": {
+            "node_id": "node_116",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "如果我丈夫长期出差，我可能无法维护家庭的和谐，我会感到孤独和不安。",
+            "emotion": "焦虑和担忧",
+            "behavior": "尽量表现得支持和理解，但内心会不断思考如何应对这种变化。",
+            "physiological_response": "心跳加快，胸口发紧，胃部不适。",
+            "created_at": "2011-01-15 08:30:00"
+        }
+    },
+    "node_115": {
+        "page_content": "2008年1月15日下午，我在学校办公室批改作业，工作量似乎比以往更多。我试图通过忙碌的工作来分散对儿子的思念，但内心的空虚感却越来越强烈。在课堂上，我对学生的耐心也开始减少，情绪波动明显。下班后，同事们约我一起去喝茶，我勉强答应了，但心里却想着儿子不在身边的日子。回到家后，面对空荡荡的房子，我深感疲惫和无力，意识到需要找到更平衡的生活方式来应对即将到来的更年期症状。",
+        "metadata": {
+            "node_id": "node_115",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "如果我不能保持家庭的和谐，我的家庭关系会变得紧张。",
+            "emotion": "焦虑和无力感",
+            "behavior": "对学生的耐心减少，情绪波动明显；勉强答应同事的邀约但心不在焉；回到家后感到疲惫和无力。",
+            "physiological_response": "精神疲惫，情绪波动，可能出现心跳加速、呼吸急促。",
+            "created_at": "2008-01-15 16:45:00"
+        }
+    },
+    "node_114": {
+        "page_content": "2007年10月10日傍晚，我和丈夫决定一起去社区公园散步。公园里景色宜人，空气清新。我们手牵手走在小道上，偶尔遇到社区的朋友打招呼，聊聊家常。周末，我们还参加了社区的志愿活动，和大家一起整理社区花园。然而，当夜深人静，我独自一人时，孤独感依然会涌上心头。这些活动虽然带来暂时的安慰，但并没有完全消除我内心的孤独。",
+        "metadata": {
+            "node_id": "node_114",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "尽管我积极参与社区活动和志愿服务，但我内心的孤独感依然没有完全消失。",
+            "emotion": "孤独和焦躁",
+            "behavior": "继续参与社区活动，希望通过帮助他人来减轻孤独感。",
+            "physiological_response": "心情低落，偶尔失眠。",
+            "created_at": "2007-10-10 18:00:00"
+        }
+    },
+    "node_113": {
+        "page_content": "2007年9月15日晚上，我和丈夫刚从大学送完儿子小鹏回来。家里少了小鹏的声音，显得异常安静。我们在客厅里坐了很久，电视机的声音似乎也无法填补内心的空虚。看着小鹏的照片，我忍不住流下了眼泪，丈夫握住了我的手，但我们都没有说话。那一刻，我深刻感受到空巢期的来临，心中充满了对未来的不确定感和焦虑。",
+        "metadata": {
+            "node_id": "node_113",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "孩子离开了，家庭和谐会受到影响。",
+            "emotion": "焦虑和不安",
+            "behavior": "沉默不语，流泪，看着孩子的照片。",
+            "physiological_response": "心跳加速，胃部不适，浑身无力。",
+            "created_at": "2007-09-15 20:30:00"
+        }
+    },
+    "node_112": {
+        "page_content": "2007年8月20日上午，我在南京某社区开始组织定期的志愿者活动。这次活动吸引了很多朋友和同事的参与。我们不仅清理了社区的环境，还安排了与老人的互动环节，了解他们的生活状态和心理健康。通过这些活动，我发现自己不仅能够帮助他人，还能从中获得满足感和成就感。这种积极的情感体验进一步增强了我的自信心和社会适应能力。我意识到，关心他人不仅对他们有益，也对自己的心理健康和幸福感产生了积极影响。",
+        "metadata": {
+            "node_id": "node_112",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "通过帮助社区和老人，我不仅能做出贡献，还能获得满足感和成就感。",
+            "emotion": "满足和成就感",
+            "behavior": "更加积极地参与和组织社区活动，投入更多的精力和时间。",
+            "physiological_response": "感到轻松愉快，微笑，呼吸平稳，心情舒畅。",
+            "created_at": "2007-08-20 09:30:00"
+        }
+    },
+    "node_111": {
+        "page_content": "2007年8月5日上午志愿活动结束后，我决定和那位独自坐在长椅上的老人聊聊。他看上去有些惊讶，但很快就接受了我的关心。我们聊了几句，他告诉我，他的子女因为工作繁忙很少来看他，他感到非常孤独和失落。我听后心中感到一阵酸楚，更加深刻地体会到关心他人的重要性。这次交谈让我感到一种强烈的责任感和使命感，决定在未来的生活中更加关注周围的人的情感需求。",
+        "metadata": {
+            "node_id": "node_111",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "关心他人真的很重要，我有责任去帮助这些孤独的人。",
+            "emotion": "一种强烈的责任感和使命感",
+            "behavior": "决定在未来的生活中更加关注周围的人的情感需求，可能会更多参与志愿服务和社区活动。",
+            "physiological_response": "心中感到一阵酸楚，可能伴有轻微的心跳加速和呼吸变化。",
+            "created_at": "2007-08-05 11:05:00"
+        }
+    },
+    "node_110": {
+        "page_content": "2007年8月5日上午，我和几个大学同学在南京某社区参加志愿活动，负责清洁社区环境。天气炎热，我们在小花园里捡拾垃圾时，我看见一位老人独自坐在长椅上，神情落寞。他的目光无神，仿佛在思考着什么。看到这一幕，我突然感到一种内疚和焦虑，开始思考老人的孤独感，联想到自己有责任去关心和帮助他人。",
+        "metadata": {
+            "node_id": "node_110",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "这位老人看起来很孤独，我应该去关心和帮助他。",
+            "emotion": "内疚和焦虑",
+            "behavior": "我可能会主动与老人交谈，询问他的情况，并尽力提供帮助。",
+            "physiological_response": "心跳加快，感到有些紧张和焦虑。",
+            "created_at": "2007-08-05 10:15:00"
+        }
+    },
+    "node_109": {
+        "page_content": "2007年2月18日深夜，家庭聚会结束后，我和丈夫在卧室里进行了长谈。夜深人静，我们坐在床边，探讨着孩子的成长问题和家庭的沟通方式。‘我觉得我们需要更多的家庭活动，这样才能增强彼此的理解和沟通。’我轻声说道。丈夫点点头，表示认同。通过这次深夜谈话，我们达成了共识，决定在以后的生活中更注重家庭的沟通和理解。这不仅缓解了我的焦虑情绪，还让我对家庭的未来充满了信心。",
+        "metadata": {
+            "node_id": "node_109",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "我们需要更多的家庭活动来增强彼此的理解和沟通。",
+            "emotion": "安心和希望",
+            "behavior": "主动规划更多家庭活动，并与家人进行更频繁的沟通。",
+            "physiological_response": "身体放松，呼吸平稳。",
+            "created_at": "2007-02-18 22:00:00"
+        }
+    },
+    "node_108": {
+        "page_content": "2007年2月18日晚上，在家庭聚会进行到一半的时候，孩子因为学习上的问题表现出烦躁情绪，与丈夫发生了争执。客厅里的气氛瞬间变得紧张起来。我看到这一幕，立即停下手中的活，走到他们中间，轻声细语地试图调解矛盾。‘先冷静一下，有什么话我们慢慢说。’我用温和的语气说道。通过我的努力，家庭的氛围重新变得和谐，大家继续享受晚餐和彼此的陪伴。",
+        "metadata": {
+            "node_id": "node_108",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "我有责任保持家庭和谐，必须解决这次争执。",
+            "emotion": "焦虑，但也有一定的决心",
+            "behavior": "立即停下手中的活，走到他们中间，轻声细语地试图调解矛盾。",
+            "physiological_response": "心跳加快，手心出汗，但迅速调整呼吸以保持冷静。",
+            "created_at": "2007-02-18 19:30:00"
+        }
+    },
+    "node_107": {
+        "page_content": "2007年2月18日傍晚，我注意到丈夫最近工作上的挫折令他情绪低落，显得特别疲惫。为了缓解他的压力，我精心准备了一桌丰盛的晚餐，并邀请了家人一同过来聚会。厨房里弥漫着菜肴的香味，我一边忙碌一边期待家庭的温暖能让他放松。家人们陆续到来，热闹的氛围让丈夫的脸上渐渐露出了笑容，这让我的心情也放松了一些。",
+        "metadata": {
+            "node_id": "node_107",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "我有责任通过家庭活动来维护家庭和谐。",
+            "emotion": "欣慰和轻松",
+            "behavior": "继续积极地参与家庭活动并照顾家人。",
+            "physiological_response": "心跳平稳，呼吸放松，感到身心愉悦。",
+            "created_at": "2007-02-18 18:00:00"
+        }
+    },
+    "node_106": {
+        "page_content": "2005年4月5日早上6:30，我在南京市某公园开始了早晨散步和简易的瑜伽。清晨的公园空气清新，鸟儿在树上鸣叫，社区居民们也在晨练。通过坚持早晨散步和瑜伽，我逐渐找回了身体的活力，心情也变得更加愉快和放松。这段时间的自我调整让我更加坚定了保持健康生活方式的信念，并且我开始意识到，只有自己身心健康，才能更好地完成工作和关心他人。",
+        "metadata": {
+            "node_id": "node_106",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "坚持早晨散步和瑜伽让我找回了身体的活力，并且我意识到保持健康生活方式是非常重要的。",
+            "emotion": "愉快和放松",
+            "behavior": "继续坚持早晨散步和瑜伽，并在日常生活中更加注意健康饮食和作息。",
+            "physiological_response": "身体感到轻松，呼吸平稳，心情愉悦。",
+            "created_at": "2005-04-05 06:30:00"
+        }
+    },
+    "node_105": {
+        "page_content": "2005年3月10日下午14:45，我去南京市某医院探望一位亲密同事，她因长期工作压力导致的身体健康问题住院。病房里，她脸色苍白，医生在一旁解释她的病情。看到她这样，我感到极大的震撼和担忧。其他探望的朋友也在议论工作压力对健康的危害。我意识到如果自己继续忽视身体健康，可能会面临同样的后果。这个事件深深触动了我的内心，警醒了我对健康生活方式的重视。",
+        "metadata": {
+            "node_id": "node_105",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不重视健康，可能也会像她一样住院。",
+            "emotion": "焦虑和恐惧",
+            "behavior": "决定要更加注意健康，开始制定健康生活计划。",
+            "physiological_response": "心跳加快，感到胃部不适。",
+            "created_at": "2005-03-10 14:45:00"
+        }
+    },
+    "node_104": {
+        "page_content": "2005年1月15日早上8:30，我在南京市某中学的办公室里，桌上堆满了学生的作业和备课资料。由于长期熬夜备课和批改作业，我感到身体疲劳，频繁感冒和头疼。同事们也常常在休息时间聊起工作压力，我心里既焦虑又内疚，担心如果自己不努力工作，会辜负学生和家长的期望。",
+        "metadata": {
+            "node_id": "node_104",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不努力工作，我会辜负学生和家长的期望。",
+            "emotion": "焦虑和内疚",
+            "behavior": "继续熬夜备课和批改作业，即使感到身体疲劳。",
+            "physiological_response": "头疼加剧，身体更加疲劳，免疫力下降导致频繁感冒。",
+            "created_at": "2005-01-15 08:30:00"
+        }
+    },
+    "node_103": {
+        "page_content": "2003年4月10日下午14:00，南京某社区活动中心的讲座厅内座无虚席，台上摆放着投影设备和讲义。我站在台上，面对众多社区居民，心中充满了激动和一丝紧张。我详细介绍了健康生活方式的各个方面，并分享了自己的一些健康小窍门。讲座期间，我与居民们进行了互动和问答，现场气氛非常热烈。讲座结束后，很多居民表示感谢，我感到无比的满足和自豪。这次成功的讲座不仅增强了我的自信，也让我更加坚定了继续帮助他人的信念。",
+        "metadata": {
+            "node_id": "node_103",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我的教育经验真的能够帮助到别人。",
+            "emotion": "满足和自豪",
+            "behavior": "积极回答问题，微笑和居民互动，继续分享更多的健康知识。",
+            "physiological_response": "心跳加速，脸上泛起红晕，呼吸变得深沉且有节奏。",
+            "created_at": "2003-04-10 14:00:00"
+        }
+    },
+    "node_102": {
+        "page_content": "2003年3月20日晚上18:45，我正坐在家中的书桌前，桌上堆满了整理好的资料，电脑屏幕上显示着相关的研究文献。为了筹备这次健康生活讲座，我不仅花费了大量时间整理资料，还联系了几位医疗专家和营养师，邀请他们作为讲座的特邀嘉宾。时间紧迫，压力也随之而来，但我凭借着一贯的耐心和责任感，逐步克服了这些困扰。忙碌的准备工作虽然辛苦，但想到能为社区居民提供帮助，我感到很有成就感。",
+        "metadata": {
+            "node_id": "node_102",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须保持良好的身体和心理状态才能顺利完成这个讲座，否则我的健康生活方式就会出现问题。",
+            "emotion": "焦虑和压力感",
+            "behavior": "加班加点地继续整理资料，甚至忽略了休息和饮食。",
+            "physiological_response": "心跳加速，肩颈部紧张，头痛。",
+            "created_at": "2003-03-20 18:45:00"
+        }
+    },
+    "node_101": {
+        "page_content": "2003年3月15日上午10:30，在南京某社区活动中心的会议室，我正参加一次例行的社区会议。会议室内摆放着几排简朴的椅子，墙上挂着社区活动的宣传海报。轮到我发言时，我感到有些紧张，但还是鼓起勇气提出了组织健康生活讲座的建议。我详细解释了自己在与社区居民交流中的发现，指出大家对健康生活方式的了解和实践都存在不足。我的建议得到了居民们的积极响应，这使我感到信心大增，心里的紧张也逐渐消散了。",
+        "metadata": {
+            "node_id": "node_101",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我能够组织健康生活讲座，我将帮助社区居民提升他们的健康生活方式。",
+            "emotion": "自信和满足",
+            "behavior": "继续积极参与社区活动，详细解释健康生活方式的重要性。",
+            "physiological_response": "紧张感逐渐消散，心跳恢复正常，呼吸更加平稳。",
+            "created_at": "2003-03-15 10:30:00"
+        }
+    },
+    "node_100": {
+        "page_content": "2001年5月15日上午，在南京某中学的教室里，我站在讲台上，看着学生们一张张年轻的脸庞。我微笑着说：“同学们，我想特别表扬一位同学，他最近在情绪上有了很大的改善，学习成绩也提高了。希望大家能像他一样，勇敢面对困难。”学生们纷纷鼓掌，那个被表扬的学生脸上露出了笑容，眼中闪烁着自信的光芒。我感到非常欣慰，看到自己努力的成果，也希望这些孩子们能在互助友爱的氛围中健康成长。",
+        "metadata": {
+            "node_id": "node_100",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我的努力有效果，我确实对学生产生了积极的影响。",
+            "emotion": "欣慰和自豪",
+            "behavior": "继续微笑，赞扬学生，并鼓励其他学生。",
+            "physiological_response": "心情舒畅，脸上露出笑容，全身放松。",
+            "created_at": "2001-05-15 09:30:00"
+        }
+    },
+    "node_99": {
+        "page_content": "2001年5月3日下午，在南京某中学的一间小会议室里，学生坐在我对面，开始讲述他的家庭问题。他说，父母的争吵让他感到无比的压力和困惑，甚至影响到他的学习。我认真倾听，时不时点头表示理解。当他说到伤心处时，眼泪又一次流了下来。我递给他纸巾，轻声说道：“我理解你的感受。家庭问题确实很难，但你要知道，这不是你的错。”我分享了一些自己关于家庭问题的看法，并给他一些建议。学生点点头，似乎感受到了些许安慰。",
+        "metadata": {
+            "node_id": "node_99",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我能够通过关心和帮助学生，缓解他的困惑和痛苦。",
+            "emotion": "同情和责任感",
+            "behavior": "认真倾听学生的问题，给予适当的安慰和建议。",
+            "physiological_response": "轻微的心跳加速，感觉到一些紧张和专注。",
+            "created_at": "2001-05-03 16:00:00"
+        }
+    },
+    "node_98": {
+        "page_content": "2001年4月25日下午，在南京某中学的教室里，我注意到一个学生坐在角落里，低着头，眼眶红红的。我走过去，轻声问道：“你还好吗？”他抬起头，眼泪在眼眶里打转，告诉我他父母正在闹离婚。他说话时声音颤抖，我的心一下子揪紧了。课后，我决定和他进行一次深入的谈话，了解他的情况并给予支持。",
+        "metadata": {
+            "node_id": "node_98",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "这个孩子需要我的帮助和关心，否则他会感到孤立无助。",
+            "emotion": "同情和焦虑",
+            "behavior": "决定与学生进行深入谈话，了解情况并给予支持。",
+            "physiological_response": "心跳加快，感觉紧张，手心出汗。",
+            "created_at": "2001-04-25 15:20:00"
+        }
+    },
+    "node_97": {
+        "page_content": "1999年1月15日凌晨3点，在南京的家中，我坐在摇椅上，怀里抱着哭闹的婴儿，疲惫不堪。我和丈夫轮流照顾孩子，但夜晚喂奶和哄睡的辛苦让我感到身心俱疲。每当孩子终于安静下来，我却已经完全没有了休息的时间。尽管如此，每当看到孩子甜美的笑容，我的内心还是充满了满足感。我意识到，只有保持健康的生活方式，才能更好地照顾孩子和家庭。这段经历让我更加坚定地相信‘我有责任保持家庭和谐’，并且更加注重健康管理。",
+        "metadata": {
+            "node_id": "node_97",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我不保持健康的生活方式，我将无法有效地照顾孩子和家庭。",
+            "emotion": "焦虑和疲惫，但也有些满足感",
+            "behavior": "尽管疲惫，仍尽力哄孩子入睡，并在稍有空闲时考虑健康管理的措施。",
+            "physiological_response": "疲劳感增强，肩颈酸痛，头疼加剧。",
+            "created_at": "1999-01-15 03:00:00"
+        }
+    },
+    "node_96": {
+        "page_content": "1998年12月8日下午，在南京市妇幼保健院的产房里，我感受到了前所未有的阵痛和焦虑。生产的过程似乎无比漫长，每一秒都像在考验我的耐心和毅力。终于，在一声婴儿的啼哭中，我和丈夫迎来了我们的孩子。看到孩子健康地出生，我们激动得流下了眼泪。医护人员也纷纷向我们表示祝贺，助产士轻轻地把孩子放在我怀里，那一刻我感受到了无与伦比的幸福和满足。",
+        "metadata": {
+            "node_id": "node_96",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我有责任为这个新生命提供一个和谐幸福的家庭。",
+            "emotion": "幸福和满足，夹杂着一丝责任感",
+            "behavior": "流下激动的泪水，轻轻地抱着孩子，感受到作为母亲的责任",
+            "physiological_response": "心跳平稳，呼吸放松，身体感到温暖和舒适",
+            "created_at": "1998-12-08 14:45:00"
+        }
+    },
+    "node_95": {
+        "page_content": "1998年9月15日上午，在南京的家中，我和丈夫满怀期待地布置婴儿房。我们挑选了一些柔软的婴儿床上用品，还在墙上贴了很多可爱的卡通贴纸。我的母亲也时常来帮忙，她总是带着一些小礼物和实用的建议。一天早上，母亲给我们带来了一个精美的音乐盒，轻柔的旋律让我们对未来的生活充满了憧憬。然而，我也感到了一丝紧张和不安，担心自己能否胜任即将到来的母亲角色。",
+        "metadata": {
+            "node_id": "node_95",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我不能胜任母亲的角色，家庭和谐可能会受到影响。",
+            "emotion": "紧张和不安",
+            "behavior": "更加细致地布置婴儿房，频繁咨询母亲的建议。",
+            "physiological_response": "心跳加快，轻微出汗。",
+            "created_at": "1998-09-15 10:30:00"
+        }
+    },
+    "node_94": {
+        "page_content": "1998年10月5日下午5:00，我和丈夫在家中的厨房里忙碌着，准备晚饭。厨房里弥漫着新鲜蔬菜和水果的香气，丈夫一边切菜一边和我聊天，我们谈论着即将到来的新生命。晚饭后，我们一起去附近的公园散步，秋天的夕阳洒在我们身上，温暖而柔和。丈夫牵着我的手，陪我慢慢走着，他的支持让我感到家庭的温暖和支持。这一刻，我感到无比幸福和满足，也更加意识到家庭和谐的重要性。我决心更加注重家庭成员的健康和幸福。",
+        "metadata": {
+            "node_id": "node_94",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "家庭的和谐和幸福非常重要，我必须更加努力维护这种状态。",
+            "emotion": "幸福感和满足感",
+            "behavior": "更加关注家庭成员的健康和幸福，积极参与家庭活动。",
+            "physiological_response": "身心放松，感到温暖和舒适。",
+            "created_at": "1998-10-05 17:00:00"
+        }
+    },
+    "node_93": {
+        "page_content": "1998年6月10日上午10:00，我和朋友一同来到南京妇幼保健院参加孕妇健康讲座。讲座厅内坐满了准妈妈们，大家脸上都带着期待的神情。医生和讲师详细讲解了孕期健康饮食和适当运动的重要性，并回答了大家的疑问。我认真听讲，不时做笔记，朋友在一旁也频频点头。讲座结束后，我们一起讨论了学到的知识，我感到更加安心和自信。这次经历让我对健康生活方式有了更系统的理解，也更加坚定了我要保持健康的决心。",
+        "metadata": {
+            "node_id": "node_93",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须保持健康的生活方式，这样才能确保我和宝宝的健康。",
+            "emotion": "安心和自信",
+            "behavior": "认真听讲并做笔记，积极讨论学到的知识。",
+            "physiological_response": "感觉放松，心情愉快，呼吸平稳。",
+            "created_at": "1998-06-10 10:00:00"
+        }
+    },
+    "node_92": {
+        "page_content": "1998年3月15日早上8:30，我和丈夫在家中的卧室里，医生建议我做些适当的运动以缓解怀孕初期的焦虑。看着镜子中的自己，我感到既期待又紧张，怀孕带来的身体变化让我感到不安。为了确保胎儿的健康发育，我决定每天早上去附近的公园散步，并在家中做些简单的孕妇瑜伽。公园里清新的空气和鸟鸣声让我感到身心放松，慢慢地，我的焦虑情绪得到了缓解，感受到健康生活方式带来的积极变化。丈夫的陪伴和支持也让我感到不再孤单。",
+        "metadata": {
+            "node_id": "node_92",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须保持健康的生活方式，这样才能确保胎儿的健康发育。",
+            "emotion": "既期待又紧张",
+            "behavior": "每天早上去附近的公园散步，并在家中做些简单的孕妇瑜伽。",
+            "physiological_response": "心跳加快，呼吸变得平稳，放松感逐渐增强。",
+            "created_at": "1998-03-15 08:30:00"
+        }
+    },
+    "node_91": {
+        "page_content": "1996年5月20日下午，我和丈夫在云南丽江度蜜月。我们住在一个古色古香的小客栈，周围是宁静的小巷和美丽的风景。那天傍晚，我们坐在客栈的庭院里，一边喝茶一边聊天。我们谈到了未来的生活计划，包括如何平衡工作与家庭。我感受到丈夫的支持和理解，心里充满了对未来共同生活的信心和安全感。",
+        "metadata": {
+            "node_id": "node_91",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我有责任维护家庭的和谐，这样我们的生活会更加幸福。",
+            "emotion": "充满信心和安全感",
+            "behavior": "积极参与讨论，认真倾听丈夫的意见，并分享自己的看法和计划。",
+            "physiological_response": "呼吸平稳，心情舒畅，身体感觉放松。",
+            "created_at": "1996-05-20 16:45:00"
+        }
+    },
+    "node_90": {
+        "page_content": "1996年5月10日上午，在南京某酒店的婚礼大厅，我和丈夫在家人和朋友的见证下互相交换誓言。大厅四周布满了鲜花和灯饰，气氛温馨浪漫。那一刻，当我看着丈夫的眼睛，听他讲出承诺的誓言，我心里充满了对未来家庭和谐生活的期待。我告诉自己，要尽一切努力维护这个家庭的幸福与和谐。",
+        "metadata": {
+            "node_id": "node_90",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我必须尽一切努力维护这个家庭的幸福与和谐。",
+            "emotion": "强烈的责任感和期待",
+            "behavior": "微笑着握紧丈夫的手，并在心里默默许下维护家庭幸福的承诺。",
+            "physiological_response": "心跳加速，温暖的感觉流遍全身。",
+            "created_at": "1996-05-10 10:00:00"
+        }
+    },
+    "node_89": {
+        "page_content": "1996年2月15日下午，我和丈夫开车去了南京市内几家婚礼场地。我们先去了市中心的一家豪华酒店，那里有一个漂亮的大花园。接着，我们又去了郊区的一处婚礼庄园，那里环境优美，空气清新。一路上，我们讨论了很多关于未来家庭生活的规划和期待，比如孩子的教育、家庭的经济安排等等。讨论这些话题时，我感到既兴奋又有些紧张，但更多的是对未来家庭生活的期待和责任感。",
+        "metadata": {
+            "node_id": "node_89",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我有责任确保家庭生活的和谐和幸福。",
+            "emotion": "既兴奋又紧张",
+            "behavior": "积极参与讨论，提出具体的家庭计划和建议。",
+            "physiological_response": "心跳加快，呼吸略微急促。",
+            "created_at": "1996-02-15 14:30:00"
+        }
+    },
+    "node_88": {
+        "page_content": "1994年9月8日上午，我正在学校办公室整理教学资料，突然收到了一封学生家长的信。打开信封，里面是家长对我教学方法的认可和对孩子进步的期望。看到这些暖心的话语，我的自信心大大增强。我感到自己的努力得到了家长的肯定，这进一步坚定了我不断提升教育技能的决心。这封感谢信不仅让我感到欣慰，也让我更加坚定了要为学生和家长付出的信念。",
+        "metadata": {
+            "node_id": "node_88",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我的教育方法得到了家长的认可，我的努力没有白费。",
+            "emotion": "自信心大增，感到欣慰和满足",
+            "behavior": "更加投入地准备教学资料，积极参与教育培训以提升教育技能",
+            "physiological_response": "心情愉快，感到轻松和精神焕发",
+            "created_at": "1994-09-08 10:15:00"
+        }
+    },
+    "node_87": {
+        "page_content": "1994年9月1日下午，在学校的会议室里，我与几位同事坐在一起讨论上午的教学情况。校长也加入了我们的讨论，分享了他的教学经验和一些实用的建议。会议室里的气氛轻松而热烈，每个人都在积极发言。我感受到了团队合作的重要性，也从校长的建议中学到了很多。这次讨论不仅减轻了我的紧张情绪，还增强了我继续学习和提升教育技能的决心。",
+        "metadata": {
+            "node_id": "node_87",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我需要不断学习和提升自己的教育技能，才能不辜负学生和家长的期望。",
+            "emotion": "充满动力和决心",
+            "behavior": "积极参与讨论，记录校长的建议并计划如何在教学中应用。",
+            "physiological_response": "心跳略微加快，感觉充满能量。",
+            "created_at": "1994-09-01 16:00:00"
+        }
+    },
+    "node_86": {
+        "page_content": "1994年9月1日上午，在南京某中学的教室里，我站在讲台上，面对着一群新生。他们的眼睛里充满了好奇和期待，这让我既感到紧张又兴奋。校长和几位同事站在教室后面，观察着我的表现。我深吸一口气，开始了我的第一堂课。讲课过程中，我尽量保持镇定，但内心的激动和压力交织在一起，直到下课铃声响起，我才松了一口气。那一刻，我深刻感受到作为教师的责任与荣光。",
+        "metadata": {
+            "node_id": "node_86",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不努力表现好，我会辜负学生和校长的期望。",
+            "emotion": "焦虑和压力",
+            "behavior": "更加努力地准备课程，试图在讲课时保持镇定和自信。",
+            "physiological_response": "心跳加速，手心出汗，呼吸急促。",
+            "created_at": "1994-09-01 08:30:00"
+        }
+    },
+    "node_85": {
+        "page_content": "1990年1月20日早上7:00，在学校操场上，我重新制定了学习计划，调整了作息时间，并开始每天进行适量的运动以缓解压力。操场上有许多学生在跑步，我也加入了他们的行列。随后，我参加了学校组织的学习小组，与同学们一起讨论问题，共同进步。在教室里，大家热烈地讨论着各自的见解，我感到一股新的力量在心中涌动。通过这些改变，我逐渐找回了自信，学会了更加积极地面对挑战。",
+        "metadata": {
+            "node_id": "node_85",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我坚持健康的生活习惯，我的学业和生活会变得更好。",
+            "emotion": "自信和希望",
+            "behavior": "积极参与运动和学习小组讨论，调整作息时间",
+            "physiological_response": "心情愉快，精力充沛",
+            "created_at": "1990-01-20 07:00:00"
+        }
+    },
+    "node_84": {
+        "page_content": "1990年1月15日下午16:00，在学校办公室，数学老师李老师注意到我情绪低落，主动找我谈话。我们坐在李老师的办公桌旁，桌上堆满了书籍和试卷。李老师温和地告诉我，成绩的一次波动并不代表什么，重要的是从中吸取教训。他鼓励我重拾信心，逐步改进学习方法。听到这些话，我感到一阵温暖和支持，心情逐渐放松下来。",
+        "metadata": {
+            "node_id": "node_84",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "老师真的关心我，并且相信我能从这次波动中恢复。",
+            "emotion": "感到温暖和被支持",
+            "behavior": "认真聆听老师的建议，并计划改善自己的学习方法。",
+            "physiological_response": "心情逐渐放松，呼吸变得平稳。",
+            "created_at": "1990-01-15 16:00:00"
+        }
+    },
+    "node_83": {
+        "page_content": "1990年1月15日上午10:30，在学校教室里，我刚刚结束高三第一次模拟考试，发现自己的成绩有所下滑，尤其是数学成绩不理想。我感到非常焦虑和失望，因为一直以来我在班级中名列前茅，对自己有很高的期望。教室里空无一人，只有我独自坐在座位上反思，阳光透过窗帘洒进来，给寂静的教室增添了一丝温暖，但我内心却感到无比沉重。",
+        "metadata": {
+            "node_id": "node_83",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "如果我继续这样下去，我可能无法成为一名优秀的教师。",
+            "emotion": "焦虑和失望，非常强烈",
+            "behavior": "长时间坐在教室里反思，可能会开始复盘考试过程，找出问题所在。",
+            "physiological_response": "心跳加快，胃部不适，感觉头重脚轻。",
+            "created_at": "1990-01-15 10:30:00"
+        }
+    },
+    "node_82": {
+        "page_content": "1988年12月16日早上8点钟，在学校的课堂上和课外活动场所，我与这位同学的关系变得更加紧密。我们在课堂上经常一起讨论问题，课外活动时也一起参加社团活动，互相帮助和支持。这段时间内，我的幸福感显著提升，感受到来自同学的支持和友谊。",
+        "metadata": {
+            "node_id": "node_82",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我帮助同学建立了更紧密的友谊，并且感到了温暖。",
+            "emotion": "幸福和满足",
+            "behavior": "更加积极地参与课堂讨论和课外活动，继续帮助同学。",
+            "physiological_response": "心情愉悦，微笑，放松的身体状态。",
+            "created_at": "1988-12-16 08:00:00"
+        }
+    },
+    "node_81": {
+        "page_content": "1988年12月15日下午4点钟，课后，我在学校操场上约见了那位误解我的同学。操场上有几组同学在打篮球，周围的树叶在微风中轻轻摇曳。我深吸一口气，鼓起勇气向他解释了我的初衷和观点。他听完后点了点头，表示理解和接纳。我感受到一股暖流涌上心头，焦虑的情绪逐渐缓解。",
+        "metadata": {
+            "node_id": "node_81",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我的解释让他理解了我的初衷，我的帮助能够化解误会。",
+            "emotion": "宽慰，欣慰",
+            "behavior": "微笑着感谢对方的理解，并与他友好地交谈。",
+            "physiological_response": "心跳逐渐平稳，原本紧张的肌肉也放松下来。",
+            "created_at": "1988-12-15 16:00:00"
+        }
+    },
+    "node_80": {
+        "page_content": "1988年12月15日下午2点半，在学校的教室里，我们正在进行小组讨论。我鼓起勇气提出了自己的看法，但由于措辞不当，一位同学误解了我的意思，认为我在批评他。教室里的气氛顿时变得紧张，我感觉脸上发烫，心跳加速，同学的眼神让我感到非常委屈和不安。",
+        "metadata": {
+            "node_id": "node_80",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我不应该让同学感到被批评，这会破坏我们之间的关系。",
+            "emotion": "委屈和不安",
+            "behavior": "试图向同学解释自己的意思以缓解误解。",
+            "physiological_response": "脸上发烫，心跳加速。",
+            "created_at": "1988-12-15 14:30:00"
+        }
+    },
+    "node_79": {
+        "page_content": "1990年4月15日中午12点，活动结束后，我与几位长期参与社区服务的志愿者交流。他们分享了自己在帮助他人过程中所获得的成长和感受，这些故事让我非常感动，也让我更加坚定了要积极参与社会公益活动的决心。我深感自己找到了新的方向和动力，决定今后要更多地参与社区服务，以实际行动去关心和帮助他人。",
+        "metadata": {
+            "node_id": "node_79",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "积极参与社区服务能帮助他人，也能让我感到满足。",
+            "emotion": "感动和激励",
+            "behavior": "决定更多地参与社区服务活动，寻找更多的公益项目。",
+            "physiological_response": "心情愉悦，略感兴奋，呼吸变得轻快。",
+            "created_at": "1990-04-15 12:00:00"
+        }
+    },
+    "node_78": {
+        "page_content": "1990年4月15日上午10点，我来到社区中心，看到志愿者们忙碌而有序地帮助居民。有一位老奶奶遇到了生活上的困难，一位志愿者耐心地帮助她解决问题，老奶奶脸上露出了感激的笑容。这一幕深深地打动了我，让我感受到了志愿服务的温暖和意义。我也参与其中，帮助居民们解决了一些小问题，内心感到非常开心和满足。",
+        "metadata": {
+            "node_id": "node_78",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我应该更多地参与志愿服务，帮助他人让我感到满足。",
+            "emotion": "开心和满足",
+            "behavior": "积极参与志愿活动，帮助更多居民解决问题。",
+            "physiological_response": "心情愉悦，面带微笑，感觉精力充沛。",
+            "created_at": "1990-04-15 10:00:00"
+        }
+    },
+    "node_77": {
+        "page_content": "1990年4月14日晚上，班主任在班会上语重心长地谈到了社会责任感的重要性。他特别提到，作为学生，我们不仅要关注自己的学习，还要积极参与社会公益活动。我听得非常专注，内心深受触动。当晚，我决定第二天就去社区中心做志愿者，心里充满了期待和热情。",
+        "metadata": {
+            "node_id": "node_77",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "我应该积极参与社会公益活动，这样可以更好地帮助他人，建立良好的人际关系。",
+            "emotion": "充满期待和热情",
+            "behavior": "决定第二天就去社区中心做志愿者。",
+            "physiological_response": "心跳加快，感到兴奋和愉悦。",
+            "created_at": "1990-04-14 19:30:00"
+        }
+    },
+    "node_76": {
+        "page_content": "1989年02月06日晚上，春节聚会结束后，我和母亲在厨房里一起收拾。水槽里堆满了餐具，我在帮忙收拾，母亲在一旁擦干碗盘。她对我表示骄傲，说家族对我的期望很高。听到母亲的话，我意识到家庭和谐的重要性。这让我更加感受到维护家庭幸福的重要责任。",
+        "metadata": {
+            "node_id": "node_76",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "我有责任维护家庭的和谐。",
+            "emotion": "感到压力和责任感",
+            "behavior": "更加认真地帮助母亲收拾餐具，并在以后更加注重家庭和谐",
+            "physiological_response": "心跳加快，手有些颤抖",
+            "created_at": "1989-02-06 20:00:00"
+        }
+    },
+    "node_75": {
+        "page_content": "1989年02月06日中午，在家中的餐厅，亲戚们围坐在餐桌旁，桌上摆满了丰盛的年夜饭。大家热烈地讨论着我的学业和未来职业选择。堂兄不断鼓励我追求成为教师的梦想，其他亲戚们也纷纷表示支持。听着他们的鼓励和赞美，我感到自信心大增，更加坚定了成为教师的职业目标。",
+        "metadata": {
+            "node_id": "node_75",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的教育经验对社会有价值，我有能力成为一名优秀的教师。",
+            "emotion": "自信心大增，感到被认可和支持",
+            "behavior": "更加坚定了成为教师的职业目标，积极回应亲戚们的鼓励",
+            "physiological_response": "心情愉悦，脸上带着微笑，感觉全身充满了力量",
+            "created_at": "1989-02-06 12:00:00"
+        }
+    },
+    "node_74": {
+        "page_content": "1989年02月05日傍晚，在家中的客厅，我正在忙着布置春节聚会的场地。亲戚们陆续到达，客厅里充满了欢声笑语。大家围坐在一起，开始讨论我的学业和未来。听到他们对我的期望和祝福，我心中既感到温暖，又感到肩上的责任更重了。他们的肯定让我感到欣慰，也激发了我更强烈的动力去实现学业目标和未来职业规划。",
+        "metadata": {
+            "node_id": "node_74",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "亲戚们对我的期望很高，我必须更加努力，才能不辜负他们的期望。",
+            "emotion": "感到压力，同时也有些激动和动力。",
+            "behavior": "更加专注于学业，制定更详细的学习计划，努力表现出色。",
+            "physiological_response": "心跳加快，感觉到肩膀和背部的紧张感。",
+            "created_at": "1989-02-05 18:30:00"
+        }
+    },
+    "node_73": {
+        "page_content": "1987年10月13日下午4点，校运会结束的第二天，我在班级总结会上发言。教室里坐满了全班同学和班主任，大家都认真地听着我的发言。我站在讲台上，表达了对昨天比赛中同学们互助精神的感动，并赞扬了大家的团结精神。我还分享了自己对集体协作的认识，强调了团队合作的重要性。通过这次发言，我不仅增强了自信心，还感觉到自己在班级中的影响力和被认同感。这次经历进一步强化了我关心和支持他人的信念，同时也增强了我对自己未来成为教师的信心。",
+        "metadata": {
+            "node_id": "node_73",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我的发言会让同学们感受到我的关心和支持，并增强我们的友谊。",
+            "emotion": "自信、感动和满足",
+            "behavior": "更加投入地准备发言，表达对同学们的赞赏和对团队合作的重视。",
+            "physiological_response": "心跳稍微加快，呼吸变得深而平稳，感到内心的温暖和充实。",
+            "created_at": "1987-10-13 16:00:00"
+        }
+    },
+    "node_72": {
+        "page_content": "1987年10月12日上午10点半，我站在学校操场的观众席上观看田径比赛。比赛进行得如火如荼，观众席上挤满了观看比赛的师生，气氛紧张而热烈。突然，一位同学在奔跑中摔倒受伤，现场一片哗然。其他同学立刻冲了过去，有人扶起他，有人安慰他，还有人迅速跑去叫校医。看到这一幕，我深受感动，这种团结和互助的精神让我感到无比温暖。我看到了同学们之间的真诚关心和支持，这进一步坚定了我要关心和支持他人的信念。",
+        "metadata": {
+            "node_id": "node_72",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我也应该像他们一样关心和帮助他人。",
+            "emotion": "感动和激励",
+            "behavior": "更加积极地参与帮助和关心同学的活动。",
+            "physiological_response": "心跳加快，感到一阵温暖。",
+            "created_at": "1987-10-12 10:30:00"
+        }
+    },
+    "node_71": {
+        "page_content": "1987年10月11日下午3点，我和班主任、数学老师以及几位同学在学校操场上忙碌地布置校运会赛场。操场上摆满了各种运动器材和标志物，周围充满了同学们的欢笑声和谈话声。班主任一边指挥我们布置，一边鼓励大家积极参与，并强调团队合作的重要性。看到大家齐心协力，我感受到了集体的力量和老师们的关爱。那一刻，我的心里充满了感激和对团队协作的信心。",
+        "metadata": {
+            "node_id": "node_71",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "参与集体活动是帮助他人的好方式，而且能让我感受到集体的力量。",
+            "emotion": "感激和自豪",
+            "behavior": "更加积极地参与活动，并鼓励其他同学一起努力。",
+            "physiological_response": "心情愉悦，精神振奋，脸上洋溢着微笑。",
+            "created_at": "1987-10-11 15:00:00"
+        }
+    },
+    "node_70": {
+        "page_content": "1987年8月20日下午，在学校办公室，我与班主任进行了谈话。我向她倾诉了对家庭经济问题的担忧，班主任耐心地听着我的话，并建议我参加学校的心理辅导活动来缓解压力。她的建议让我感到被理解和支持，我决定尝试参加心理辅导活动，希望能找到缓解压力的方法。",
+        "metadata": {
+            "node_id": "node_70",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "家庭的经济问题会影响家庭的和谐，我有责任解决这些问题。",
+            "emotion": "焦虑和压力",
+            "behavior": "决定尝试参加心理辅导活动，希望能找到缓解压力的方法。",
+            "physiological_response": "心跳加快，胃部不适，头疼。",
+            "created_at": "1987-08-20 14:30:00"
+        }
+    },
+    "node_69": {
+        "page_content": "1987年8月15日晚上，争吵过后，我鼓起勇气与父母谈话，想要分担他们的烦恼。我告诉他们我可以通过兼职来减轻家庭的经济负担，但他们却拒绝了，认为我应该专注于学业。父母的拒绝让我感到失望，但也让我明白了他们对我学业的重视。我决定更加努力学习，以便将来能够更好地帮助家庭。",
+        "metadata": {
+            "node_id": "node_69",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "我必须更加努力学习，才能更好地帮助家庭。",
+            "emotion": "失望、决心",
+            "behavior": "更加专注于学业，减少娱乐时间。",
+            "physiological_response": "心情沉重，肩膀紧张。",
+            "created_at": "1987-08-15 19:10:00"
+        }
+    },
+    "node_68": {
+        "page_content": "1987年8月15日傍晚，我放学回家，一进门就听到客厅传来父母的争吵声。父亲因为公司经营不善而情绪激动，声音中充满了愤怒。母亲则一边哭泣一边担心家庭的经济状况，希望父亲能冷静下来解决问题。看到这一幕，我感到非常不安和无助，心中对家庭和谐的渴望愈发强烈。",
+        "metadata": {
+            "node_id": "node_68",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "如果我不采取行动，家庭关系会变得更紧张。",
+            "emotion": "焦虑和不安",
+            "behavior": "试图安抚父母，调解他们的争吵。",
+            "physiological_response": "心跳加速，胃部紧张感。",
+            "created_at": "1987-08-15 18:45:00"
+        }
+    },
+    "node_67": {
+        "page_content": "1990年7月1日上午，在学校礼堂举行的高中毕业典礼上，我作为学生代表上台发言。礼堂里坐满了老师和同学，大家都穿着整齐的校服，脸上洋溢着毕业的喜悦。我站在讲台前，手心微微出汗，但心里却非常激动。我回顾了自己在高中三年的成长和收获，感谢了老师们的教导和同学们的支持，并表达了对未来的期望。当我的发言结束时，台下响起了热烈的掌声，我感到无比自豪和满足。",
+        "metadata": {
+            "node_id": "node_67",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我真的能够成为一名优秀的教师，教育是改变世界的重要力量。",
+            "emotion": "自豪和满足，伴随着一丝紧张和激动。",
+            "behavior": "发言时声音坚定，目光与台下观众交流，微笑着表达感谢和期望。",
+            "physiological_response": "手心微微出汗，心跳加速，但总体感觉良好。",
+            "created_at": "1990-07-01 09:15:00"
+        }
+    },
+    "node_66": {
+        "page_content": "1989年3月10日上午，在学校考场进行的一次模拟考试中，我取得了全校第一名。当成绩公布时，数学老师在班级里表扬了我，全班同学都向我投来赞赏的目光。我感到心里暖洋洋的，也更加坚定了自己的学习方法是正确的。那一天，我在回家的路上，仿佛觉得天空都格外蓝，树叶也在为我鼓掌。",
+        "metadata": {
+            "node_id": "node_66",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的努力学习得到了认可，我确实有成为优秀教师的潜力。",
+            "emotion": "自豪和满足",
+            "behavior": "继续投入学习，积极参与学校活动",
+            "physiological_response": "心情愉悦，身体感觉轻松",
+            "created_at": "1989-03-10 10:45:00"
+        }
+    },
+    "node_65": {
+        "page_content": "1988年9月15日下午，在学校的教室里，班主任宣布我被选为班长。当时教室里充满了同学们的掌声和欢呼声。我的脸颊微微发热，心里既激动又有点紧张，感受到肩上的责任。我知道这不仅是老师对我的信任，也是同学们对我的期望。从那天起，我更加积极地参与班级事务，组织了几次班级活动，比如班级辩论赛和运动会。每次活动结束后，我都感到无比充实和自豪。",
+        "metadata": {
+            "node_id": "node_65",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "我有责任让班级保持和谐和积极的氛围。",
+            "emotion": "激动和紧张",
+            "behavior": "更加积极地参与班级事务，组织班级活动。",
+            "physiological_response": "脸颊发热，心跳加速。",
+            "created_at": "1988-09-15 14:30:00"
+        }
+    },
+    "node_64": {
+        "page_content": "1989年9月10日上午，我带领同学们到达郊外的一个公园。那天阳光明媚，公园里的草地上点缀着野花，我们在树荫下铺开了毯子。同学们在草地上玩耍、聊天，气氛非常欢快。活动进行得非常顺利，大家都玩得很开心，很多同学还感谢我组织了这次活动。看到同学们的笑脸，我感到无比的满足和成就感，增强了对组织活动的热情和自信。",
+        "metadata": {
+            "node_id": "node_64",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "我参与和组织集体活动是很有价值的，我的同学们都非常感激我。",
+            "emotion": "满足感和成就感",
+            "behavior": "更加积极地参与和组织学校的集体活动。",
+            "physiological_response": "心情愉快，身体感觉轻松，笑容洋溢。",
+            "created_at": "1989-09-10 09:00:00"
+        }
+    },
+    "node_63": {
+        "page_content": "1989年8月20日下午，我在教室里与几位班委会成员坐在一起，开始策划班级郊游活动。我们讨论了许多细节，包括交通安排、餐饮准备和活动计划。大家分工明确，每个人都有自己的任务。后来，我们在操场上一起勾画郊游的路线，晚上回到宿舍继续讨论，制定详细的计划。通过这次策划活动，我深刻体会到团队合作的重要性，并感受到集体的力量和支持。",
+        "metadata": {
+            "node_id": "node_63",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "通过参与这次策划活动，我能为同学们带来好的体验，也能加强我们的友谊。",
+            "emotion": "兴奋和满足",
+            "behavior": "更加投入到活动策划中，积极提出建议和意见。",
+            "physiological_response": "心跳加快，感到精力充沛。",
+            "created_at": "1989-08-20 16:00:00"
+        }
+    },
+    "node_62": {
+        "page_content": "1989年8月15日下午，在高中的教室里，班主任在班会中提到我时，脸上露出了满意的笑容。他说我在之前的班级活动中表现出色，认为我在组织活动方面有很大的潜力，并鼓励我负责组织一次班级郊游活动。同学们纷纷表示支持，我感到被认可和信任，内心充满了自信和责任感。",
+        "metadata": {
+            "node_id": "node_62",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我在组织活动方面有很大的潜力，老师和同学们都支持我，我必须做好这次班级郊游。",
+            "emotion": "自信和责任感",
+            "behavior": "积极计划和组织郊游活动，确保每个细节都妥当。",
+            "physiological_response": "心跳加速，感到兴奋和有动力。",
+            "created_at": "1989-08-15 14:30:00"
+        }
+    },
+    "node_61": {
+        "page_content": "1989年5月20日上午，在学校的教室里，我们班的同学们聚集在一起，回顾了上次活动的成功经验。大家讨论得非常热烈，我也主动提出了很多建设性的建议，比如如何更好地分工合作，如何在下次活动中做得更好。我的建议得到了大家的一致认同，我感到自己在集体中的重要性，也意识到通过积极参与和贡献，能够帮助集体取得更大的成功。这种满足感和成就感让我在学术和社交方面更加自信。",
+        "metadata": {
+            "node_id": "node_61",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "通过积极参与和贡献，我能够帮助集体取得更大的成功。",
+            "emotion": "满足和成就感",
+            "behavior": "更加自信地参与讨论，并提出更多建设性的建议。",
+            "physiological_response": "心情愉悦，感觉轻松，面带微笑。",
+            "created_at": "1989-05-20 09:00:00"
+        }
+    },
+    "node_60": {
+        "page_content": "1989年5月15日下午，学校操场上的表演终于开始了。我们班的节目进行得非常顺利，台下的观众热烈鼓掌。当主持人宣布我们班获得全校第一时，所有人都欢呼起来。活动结束后，班主任走到我面前，微笑着拍了拍我的肩膀，说我表现得非常出色，并鼓励我继续在学习和活动中发挥领导作用。这一刻，我感到无比的开心和自豪，自信心也得到了极大的增强。",
+        "metadata": {
+            "node_id": "node_60",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我的努力得到了认可，参与活动确实能提升我的教育经验。",
+            "emotion": "开心和自豪",
+            "behavior": "更加积极参与未来的活动，并继续努力学习。",
+            "physiological_response": "心跳加快，脸上露出笑容，全身感到轻盈。",
+            "created_at": "1989-05-15 16:30:00"
+        }
+    },
+    "node_59": {
+        "page_content": "1989年5月10日下午，学校操场上，我们班的同学们都在为了即将到来的班级演出做最后的准备。大家都很紧张，尤其是在班主任走过来观看我们排练的时候。他不断地给予我们指导和鼓励，告诉我们要放松心情，相信自己。我感受到班主任对我们的信任，也意识到自己身上的责任。每次排练结束后，我都会感到一种前所未有的团结和共同奋斗的力量。",
+        "metadata": {
+            "node_id": "node_59",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我需要帮助同学们放松心情，并确保演出顺利进行。",
+            "emotion": "焦虑但也充满责任感和动力",
+            "behavior": "主动帮助同学们排练，给予他们鼓励和支持。",
+            "physiological_response": "心跳加快，手心出汗，但同时感到一股力量推动自己行动。",
+            "created_at": "1989-05-10 14:00:00"
+        }
+    },
+    "node_58": {
+        "page_content": "1988年11月20日下午4点钟，我再次留在教室里，和那位同学一起复习功课。这已经成为我们每天的惯例。老师和其他同学注意到了我的行为，大家都对我表示赞赏和支持。老师在课后对我说，‘欣莉，你做得很好，继续加油！’其他同学也纷纷向我表示钦佩。这些赞誉让我感到自信和满足，同时也更加坚定了我要帮助他人的信念。",
+        "metadata": {
+            "node_id": "node_58",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "大家都在赞赏我帮助同学，这让我感觉自己在做正确的事情。",
+            "emotion": "自信和满足",
+            "behavior": "继续每天留在教室里帮助同学复习功课，并更加积极地参与其他集体活动。",
+            "physiological_response": "心情愉快，精力充沛，面带微笑。",
+            "created_at": "1988-11-20 16:00:00"
+        }
+    },
+    "node_57": {
+        "page_content": "1988年11月10日下午3点10分，下课后，我留在教室里，主动走到那位被批评的同学旁边。他正在收拾书包，显得很沮丧。我轻声问他作业的情况和学习上的困难。他抬起头，眼中充满了无奈和迷茫。我耐心地听他说完，决定利用自己的课余时间帮助他补习功课。他看着我，眼里闪过一丝希望，这让我感到一种从未有过的满足感。",
+        "metadata": {
+            "node_id": "node_57",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我有能力关心和帮助同学，这样可以建立更紧密的友谊。",
+            "emotion": "满足感和责任感",
+            "behavior": "主动帮助同学补习功课",
+            "physiological_response": "心情愉悦，精神振奋",
+            "created_at": "1988-11-10 15:10:00"
+        }
+    },
+    "node_56": {
+        "page_content": "1988年11月10日下午2点半，我在教室里做作业，教室里安静而有序。突然，老师的声音打破了这种宁静，他正在批评一位同学，因为他没有完成作业。这位同学平时成绩不太好，家庭情况也比较复杂，我对他的处境一直很同情。他低着头，显得很无助，而其他同学则小声议论。我感到心里一阵难过，觉得自己应该做些什么。",
+        "metadata": {
+            "node_id": "node_56",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我应该帮助他，他现在一定很需要帮助。",
+            "emotion": "难过、同情",
+            "behavior": "我可能会在课后主动找这位同学聊天，询问他的情况并提供帮助。",
+            "physiological_response": "心情沉重，胸口有点压抑感。",
+            "created_at": "1988-11-10 14:30:00"
+        }
+    },
+    "node_55": {
+        "page_content": "1990年6月21日清晨，我决定按照母亲的建议，开始每天早晨进行20分钟的慢跑。公园里的空气清新，鸟儿在树上欢快地歌唱，这让我感到身心愉悦。回到家后，我调整了饮食，更多地关注营养均衡。通过这些改变，我发现自己的注意力和精神状态明显改善，学业表现也有所提升。",
+        "metadata": {
+            "node_id": "node_55",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "坚持健康的生活习惯真的能让我在学业和生活中表现更好。",
+            "emotion": "愉悦和自信",
+            "behavior": "继续保持每天早晨慢跑和健康饮食习惯。",
+            "physiological_response": "感到精力充沛，注意力集中。",
+            "created_at": "1990-06-21 06:30:00"
+        }
+    },
+    "node_54": {
+        "page_content": "1990年6月20日的晚上，我们在家附近的公园散步。空气中弥漫着夏夜的花香，我们在一张长椅上坐下。母亲开始分享她年轻时面对考试压力的经历，讲述她如何通过散步和深呼吸来缓解紧张。她的故事让我感受到家庭的温暖和支持，心中也开始涌现出一股新的力量和信心。",
+        "metadata": {
+            "node_id": "node_54",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我可以通过健康的方式应对当前的压力，比如散步和深呼吸。",
+            "emotion": "安心和自信",
+            "behavior": "决定每天散步并进行深呼吸练习。",
+            "physiological_response": "呼吸变得平稳，身体感觉放松。",
+            "created_at": "1990-06-20 19:00:00"
+        }
+    },
+    "node_53": {
+        "page_content": "1990年6月20日的傍晚，我坐在家里的客厅里，面对堆积如山的课本和笔记，感到无比的焦虑和不安。母亲看到了我困惑的表情，走过来轻声问我发生了什么。我几乎无法抑制住自己的情绪，眼泪不禁流了出来。母亲没有多说什么，只是温柔地拍拍我的肩膀，提议我们一起去散步。她的关心和理解让我感到一丝温暖和放松。",
+        "metadata": {
+            "node_id": "node_53",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "如果我不能完成这些学习任务，我就无法成为一名优秀的教师。",
+            "emotion": "焦虑和无助",
+            "behavior": "情绪失控，开始哭泣",
+            "physiological_response": "心跳加快，感到疲惫和紧绷",
+            "created_at": "1990-06-20 18:30:00"
+        }
+    },
+    "node_52": {
+        "page_content": "1988年3月15日下午，班主任在课间把我叫到办公室，询问了我父亲的情况。她温柔地拍了拍我的肩膀，告诉我不要太过担心学业，老师们会尽力帮助我。随后，数学老师也走了进来，他拿出一些复习资料，耐心地为我讲解难题。阳光透过窗户洒在书桌上，温暖的光线让我感到一丝安慰。老师们的关心和支持让我感到温暖，仿佛有了一股新的力量支撑着我继续努力。尽管责任感依旧沉重，但我感到被理解和支持，心里的压力也减轻了不少。",
+        "metadata": {
+            "node_id": "node_52",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "老师们这么关心我，我不能辜负他们的期望，应该更加努力。",
+            "emotion": "感动且感到责任重大",
+            "behavior": "更加专注于学习，努力完成老师布置的任务",
+            "physiological_response": "心情温暖，压力有所减轻",
+            "created_at": "1988-03-15 15:45:00"
+        }
+    },
+    "node_51": {
+        "page_content": "1988年3月10日放学后，我和往常一样径直去了医院。病房的空气中弥漫着消毒水的味道，我在父亲的病床旁边的一张椅子上坐下，打开课本开始复习。父亲虚弱的声音问我今天在学校的情况，我微笑着简短回答，尽量让他安心。母亲在一旁默默擦拭眼泪。护士进来给父亲换药，我趁机背诵了一段数学公式。尽管我努力在学习和照顾之间找到平衡，但疲惫感还是无时无刻不在提醒我，肩上的责任有多重。",
+        "metadata": {
+            "node_id": "node_51",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "我必须努力维持家庭和谐，但我也需要在学业上保持优异，否则我会辜负父母的期望。",
+            "emotion": "焦虑和疲惫",
+            "behavior": "继续复习功课，但注意力不集中，时常看向父母。",
+            "physiological_response": "头痛，肩膀僵硬，呼吸急促。",
+            "created_at": "1988-03-10 17:00:00"
+        }
+    },
+    "node_50": {
+        "page_content": "1988年3月5日下午，我接到母亲的电话，得知父亲因病住院了。我们赶到南京市医院，医生面色凝重地告诉我们情况非常严重。母亲的脸色瞬间变得苍白，眼泪止不住地流。我感到一阵巨大的压力，知道自己必须承担起照顾父亲的责任。病房里安静得让人窒息，只有仪器的滴答声在耳边回响。我握着父亲的手，感到无比的焦虑和沉重的责任感。",
+        "metadata": {
+            "node_id": "node_50",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "我必须承担起照顾父亲的责任，否则家庭关系会变得紧张。",
+            "emotion": "焦虑和沉重的责任感",
+            "behavior": "立即开始考虑如何照顾父亲，并与医生详细了解病情。",
+            "physiological_response": "心跳加快，胃部不适，肩膀和颈部肌肉紧张。",
+            "created_at": "1988-03-05 16:30:00"
+        }
+    },
+    "node_49": {
+        "page_content": "1987年10月10日下午，在学校礼堂，我站在舞台上，面对着台下的同学和评委，心跳得很快。我深吸一口气，开始了我的演讲。随着演讲的进行，我逐渐放松下来，声音也变得更加坚定。演讲结束时，台下响起了热烈的掌声。我看到班主任和同学们都在为我鼓掌，脸上露出欣慰和骄傲的表情。最终，我获得了二等奖，心里充满了自豪和喜悦。这次经历让我对自己的公众表现能力有了新的认识，也让我更加自信。",
+        "metadata": {
+            "node_id": "node_49",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的努力得到了认可，我真的有能力成为一名优秀的教师。",
+            "emotion": "自豪和喜悦",
+            "behavior": "微笑着接受掌声，并感到更加自信。",
+            "physiological_response": "心跳加速，但逐渐平稳，脸上泛起微笑。",
+            "created_at": "1987-10-10 14:00:00"
+        }
+    },
+    "node_48": {
+        "page_content": "1987年09月20日下午，我在学校图书馆里认真准备演讲稿。图书馆里只有几盏灯亮着，显得格外宁静。我翻阅着各种书籍，笔记本上已经写满了草稿。班主任几次过来看我，给我提供了很多有用的建议。同学们也很热心，每天放学后，他们会陪我一起排练演讲，耐心地给我提出反馈。随着时间的推进，我感受到了一种前所未有的支持和自信。",
+        "metadata": {
+            "node_id": "node_48",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我正在为成为一名优秀的教师积累宝贵的经验，老师和同学们的支持让我更加自信。",
+            "emotion": "感到被支持和自信",
+            "behavior": "更加专注和投入地准备演讲，积极接受反馈",
+            "physiological_response": "心情愉快，精神振奋",
+            "created_at": "1987-09-20 17:00:00"
+        }
+    },
+    "node_47": {
+        "page_content": "1987年09月15日下午，在学校教室里，我从班主任那里得知即将举办的演讲比赛。他看着我，微笑着说：“欣莉，我觉得你应该参加，这对你是个很好的锻炼机会。”同学们也纷纷表示支持。我感到既兴奋又紧张，心里想着：‘我从来没有在这么多人面前演讲过，这次真的能行吗？’最终，我决定接受这个挑战，心里涌起一股莫名的勇气。",
+        "metadata": {
+            "node_id": "node_47",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我不参加活动，我会错失很多教育机会。",
+            "emotion": "兴奋与紧张交织",
+            "behavior": "决定接受挑战，参加演讲比赛。",
+            "physiological_response": "心跳加速，手心出汗。",
+            "created_at": "1987-09-15 16:30:00"
+        }
+    },
+    "node_46": {
+        "page_content": "1986年5月20日上午，在学校的教室里，数学老师站在讲台上，手里拿着我的奖状，满脸欣喜地宣布：“同学们，欣莉在全市数学竞赛中拿到了第一名，大家要向她学习！”教室里响起了热烈的掌声，我的脸颊微微发热，内心充满了骄傲和喜悦。这次表扬让我更加坚定了努力学习的信心和热爱数学的决心。",
+        "metadata": {
+            "node_id": "node_46",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的努力得到了认可，我真的有能力成为一名优秀的教师。",
+            "emotion": "骄傲和喜悦",
+            "behavior": "继续努力学习，积极参与学校的活动。",
+            "physiological_response": "脸颊微微发热，心跳加速。",
+            "created_at": "1986-05-20 09:00:00"
+        }
+    },
+    "node_45": {
+        "page_content": "1986年4月12日上午，在学校的培训教室里，我与几位来自不同班级的优秀学生坐在一起，培训老师正在讲解一道复杂的数学题。我们一边听讲一边在笔记本上写写画画，课间休息时，我们聚在一起讨论刚才的题目，分享各自的解题思路。通过这种交流，我不仅学到了很多新的知识，还结识了几位志同道合的朋友，感受到了集体学习的力量。",
+        "metadata": {
+            "node_id": "node_45",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "参与讨论和交流能够帮助我积累更多的教育经验，我将来一定会成为一名优秀的教师。",
+            "emotion": "兴奋和满足",
+            "behavior": "更积极地参与讨论和交流，记录更多笔记。",
+            "physiological_response": "心跳加快，脸上带着微笑。",
+            "created_at": "1986-04-12 10:00:00"
+        }
+    },
+    "node_44": {
+        "page_content": "1986年3月5日下午，在学校的教室里，我的数学成绩公布后，数学老师脸上露出了满意的笑容。下课后，他特别把我叫到讲台前，说道：“欣莉，你这次考得很好，继续努力，争取在全市数学竞赛中也能有好成绩。”老师的鼓励让我感到非常自豪和被重视，我内心充满了动力，决定更加努力地学习数学。",
+        "metadata": {
+            "node_id": "node_44",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "老师认可了我的努力，我真的有能力成为一名优秀的教师。",
+            "emotion": "自豪和被重视，内心充满动力",
+            "behavior": "决定更加努力地学习数学，积极准备全市数学竞赛",
+            "physiological_response": "心跳加快，脸上露出微笑，感到全身充满了力量",
+            "created_at": "1986-03-05 15:30:00"
+        }
+    },
+    "node_43": {
+        "page_content": "1985年1月25日上午10点15分，在课间休息时，我的好友小美找到了我。她看起来很焦虑，向我倾诉她对考试的压力。我耐心地听着她的话，并告诉她我也曾感到过压力，但通过坚持健康的生活方式和努力学习，这些压力是可以克服的。我看到小美眼中的焦虑渐渐消退，取而代之的是一丝安心。",
+        "metadata": {
+            "node_id": "node_43",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我有责任帮助小美减轻她的考试压力。",
+            "emotion": "关心和同情",
+            "behavior": "耐心倾听小美的烦恼，并分享自己的应对策略。",
+            "physiological_response": "感觉到一阵温暖和责任感，心跳稍微加快。",
+            "created_at": "1985-01-25 10:15:00"
+        }
+    },
+    "node_42": {
+        "page_content": "1985年1月25日早晨8点，在班会时间，班主任李老师走进教室，手里拿着成绩单。她微笑着宣布我在期末考试中取得了年级第一名，全班同学都为我热烈鼓掌。李老师称赞了我的努力和坚持，并鼓励我继续保持这种状态。我感到无比开心和自豪，心中充满了被认可的喜悦。",
+        "metadata": {
+            "node_id": "node_42",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的努力和学习得到了回报，我可以成为一名优秀的教师。",
+            "emotion": "无比开心和自豪",
+            "behavior": "微笑着接受老师和同学们的掌声，并在心中默默决定继续努力。",
+            "physiological_response": "心跳加快，面带微笑，感到全身充满活力。",
+            "created_at": "1985-01-25 08:00:00"
+        }
+    },
+    "node_41": {
+        "page_content": "1985年1月10日早晨，天还未亮，我便起床准备开始一天的晨跑。南京的冬天寒冷刺骨，但我依旧坚持每天跑步半小时。回到家后，我帮母亲准备早餐并做一些家务活。每天在学校，我都认真听课，课后积极参加学习小组讨论并复习功课。班主任李老师注意到了我的努力，常常在课后给予我指导，这让我感到非常温暖和鼓舞。",
+        "metadata": {
+            "node_id": "node_41",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须保持健康的生活习惯，以便在学业和生活中表现更好。",
+            "emotion": "自豪和成就感",
+            "behavior": "继续坚持晨跑，并在学习和课外活动中保持高效。",
+            "physiological_response": "心跳平稳，呼吸顺畅，感觉精神焕发。",
+            "created_at": "1985-01-10 06:00:00"
+        }
+    },
+    "node_40": {
+        "page_content": "1983年11月22日晚饭后，我和父母坐在餐桌旁聊起了朋友的事情。我告诉他们朋友因为没有得到家长的支持而放弃了绘画，父母听后都皱起了眉头。妈妈温柔地对我说：'你要继续支持你的朋友，这对她很重要。'爸爸点了点头，补充道：'我们也会一直支持你的健康选择和兴趣爱好。'他们的话让我感到一阵温暖，这次谈话进一步强化了我对家庭支持的认同感。",
+        "metadata": {
+            "node_id": "node_40",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我应该继续支持我的朋友，这样她会感到被关心。",
+            "emotion": "温暖和安心",
+            "behavior": "更加积极地去支持朋友，鼓励她继续绘画。",
+            "physiological_response": "心情放松，微笑，呼吸平稳。",
+            "created_at": "1983-11-22 19:00:00"
+        }
+    },
+    "node_39": {
+        "page_content": "1983年11月18日下午，在学校的操场上，我见到了朋友。她的脸色看起来比上次见面时还要憔悴。我们坐在操场的边缘，看着其他同学在操场上玩耍。我鼓起勇气对她说：'你真的不打算继续画画了吗？'她低着头，轻轻地摇了摇头。我继续说：'你画得那么好，我相信你可以的。'她没有回应，但我能感觉到她的内心在挣扎。这次尝试让我体会到了帮助他人带来的成就感。",
+        "metadata": {
+            "node_id": "node_39",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我应该继续鼓励和帮助她。",
+            "emotion": "关心和担忧",
+            "behavior": "持续尝试与她沟通，提供鼓励和支持。",
+            "physiological_response": "心跳略微加快，感到紧张但坚定。",
+            "created_at": "1983-11-18 16:00:00"
+        }
+    },
+    "node_38": {
+        "page_content": "1983年10月15日下午，我和朋友在她家玩耍。她的家有一种温馨的感觉，墙上挂满了她以前的画作。朋友坐在沙发上，神情沮丧地告诉我，她的父母不支持她继续学绘画，她决定放弃了。我听到这话，心里一阵心酸，看到她失落的表情，我感到非常难过。我们在一起沉默了很久，我试图安慰她，但不知道该说些什么。",
+        "metadata": {
+            "node_id": "node_38",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我应该帮助朋友走出困境，如果我不关心她，她会很孤单。",
+            "emotion": "难过、焦虑",
+            "behavior": "试图安慰朋友，但感到无助。",
+            "physiological_response": "心情沉重，胃部不适，头皮发紧。",
+            "created_at": "1983-10-15 14:30:00"
+        }
+    },
+    "node_37": {
+        "page_content": "活动结束后，我们一家人围坐在花园的长椅上，欣赏着刚种下的花朵。母亲提到希望家人能一直这么和谐、幸福。我感受到被爱和被支持，这种家庭间的深入交流让我感到温暖和安心。这次谈话让我产生了'我应该积极与家人沟通'和'我有责任照顾家人'的信念，认为通过沟通和关爱可以维持家庭的幸福。",
+        "metadata": {
+            "node_id": "node_37",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我应该积极与家人沟通，这样家庭才能一直和谐、幸福。",
+            "emotion": "温暖、安心",
+            "behavior": "主动和家人分享自己的想法和感受，并关注他们的需求。",
+            "physiological_response": "心情平静，身体放松，面带微笑。",
+            "created_at": "1983-05-15 16:00:00"
+        }
+    },
+    "node_36": {
+        "page_content": "在花园里，父亲手把手教我挖坑、种植和浇水，他的耐心和细致让我感到安心。母亲在一旁准备茶点，偶尔会过来帮忙，给我们递水和毛巾。这种分工合作的模式让我感受到家庭成员间的互相支持和理解。这进一步强化了我对家庭和谐的认知，并让我明白沟通和合作是解决问题的关键。",
+        "metadata": {
+            "node_id": "node_36",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "家庭的和谐离不开每个人的付出和合作。",
+            "emotion": "感到温暖和安心",
+            "behavior": "积极参与家庭活动，努力做好自己的部分",
+            "physiological_response": "心情平静，感觉舒适",
+            "created_at": "1983-05-15 15:00:00"
+        }
+    },
+    "node_35": {
+        "page_content": "1983年5月15日下午，天气晴朗，阳光洒在家里的小花园里。我和父母决定一起在花园里种花。父亲拿着铲子，母亲则在一旁准备茶点。那种共同努力的感觉让我的心里充满了温暖和满足。我感受到家庭的温暖和亲密感，这次经历让我更加坚定了'我有责任帮助家庭和谐'的信念。",
+        "metadata": {
+            "node_id": "node_35",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "我有责任帮助家庭和谐，所以我要尽力照顾家人。",
+            "emotion": "温暖和满足",
+            "behavior": "积极参与种花，主动分担家务",
+            "physiological_response": "心情愉快，身体感觉轻松",
+            "created_at": "1983-05-15 14:30:00"
+        }
+    },
+    "node_34": {
+        "page_content": "1982年1月2日傍晚，妈妈的身体逐渐康复，家里的气氛也恢复了以往的温馨。妈妈坐在沙发上微笑着，对我说：“欣莉，这段时间辛苦你了，家庭成员之间的互相关心和支持是家庭幸福的基础。”她的感激之情让我感到深深的感动和满足，心中充满了成就感和幸福感。这一刻让我意识到自己的付出是有意义的，并且这种付出能够带来家庭的和谐和幸福。",
+        "metadata": {
+            "node_id": "node_34",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "我的付出是值得的，家庭和谐是幸福的基础。",
+            "emotion": "感动和满足，成就感强烈",
+            "behavior": "更加积极地照顾和关心家人",
+            "physiological_response": "心情愉悦，面带微笑，身体感到轻松",
+            "created_at": "1982-01-02 18:30:00"
+        }
+    },
+    "node_33": {
+        "page_content": "1981年12月18日傍晚，妈妈仍在病床上休息，我决定主动承担更多的家务。每天放学后，我都会第一时间回家，做饭、打扫卫生、照顾弟弟妹妹。朋友们也注意到我的变化，开始主动帮助我完成作业。尽管承担了更多责任让我感到成熟和自豪，但同时也增加了我的压力和疲劳感。这个阶段的我，心里充满了责任感和焦虑，也更加珍惜朋友之间的互助。",
+        "metadata": {
+            "node_id": "node_33",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "如果我不承担这些家务，家庭关系会受影响。",
+            "emotion": "焦虑和责任感",
+            "behavior": "继续承担家务，同时接受朋友的帮助完成作业。",
+            "physiological_response": "感到疲劳、头痛和肌肉紧张。",
+            "created_at": "1981-12-18 17:00:00"
+        }
+    },
+    "node_32": {
+        "page_content": "1981年12月15日下午放学后，我一进家门就感觉到气氛有些不对。走进妈妈的房间，她正躺在床上，脸色苍白，显得非常疲惫。平时坚强的妈妈这次身体显然撑不住了，我感到非常焦虑和无助。家里只有我和妈妈，爸爸还在忙于工作。我第一次意识到家庭成员之间需要互相帮助，这让我感到非常心痛和无奈。",
+        "metadata": {
+            "node_id": "node_32",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "如果我不照顾妈妈，家庭关系会受到影响。",
+            "emotion": "焦虑和无助",
+            "behavior": "立即开始照顾妈妈，担心她的健康，并试图联系爸爸。",
+            "physiological_response": "心跳加快，手心出汗，胃部不适。",
+            "created_at": "1981-12-15 16:45:00"
+        }
+    },
+    "node_31": {
+        "page_content": "1983年8月20日晚上，晚餐时，父亲坐在饭桌旁，笑着对我说：“欣莉，这段时间谢谢你帮忙做家务，我觉得好多了。”母亲也在旁边微笑着点头。我听到父亲的话，心里涌起一阵暖流，感到非常开心和满足。我意识到自己的努力和付出是有意义的，并且得到了家人的认可。",
+        "metadata": {
+            "node_id": "node_31",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "我的努力和付出是有意义的，家人对我的帮助感到感激。",
+            "emotion": "开心和满足",
+            "behavior": "继续努力帮助家人，主动分担更多家务。",
+            "physiological_response": "心里涌起一阵暖流，脸上露出微笑。",
+            "created_at": "1983-08-20 20:00:00"
+        }
+    },
+    "node_30": {
+        "page_content": "1983年8月16日下午放学后，我回到家里，看到父亲疲惫地坐在沙发上，于是主动开始清洗碗筷，扫地，整理家务。每当看到父亲时，我会微笑着和他说：“爸爸，今天学校里发生了一件有趣的事……”父亲听着我的讲述，脸上渐渐露出笑容，我感到很欣慰。",
+        "metadata": {
+            "node_id": "node_30",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "我要通过帮助父亲来减轻他的负担，这样家庭会更和谐。",
+            "emotion": "欣慰和满足",
+            "behavior": "主动分担家务并与父亲分享趣事。",
+            "physiological_response": "微笑，感觉轻松，呼吸平稳。",
+            "created_at": "1983-08-16 17:30:00"
+        }
+    },
+    "node_29": {
+        "page_content": "1983年8月15日晚上，家里的厨房，水龙头坏了不断滴水，父亲因为工作压力，情绪变得非常易怒。当他看到水龙头坏了，他大发雷霆，脸色铁青，声音震耳欲聋。我看到父亲如此疲惫和愤怒，心里很难过，决定主动走到他身边，轻声说：“爸爸，我来帮你修水龙头好吗？”父亲愣了一下，情绪稍微缓和下来，看着我点了点头。",
+        "metadata": {
+            "node_id": "node_29",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我应该主动帮助父亲修理水龙头，这样可以缓和他的情绪。",
+            "emotion": "心疼和担忧",
+            "behavior": "主动走到父亲身边，轻声说要帮忙修水龙头。",
+            "physiological_response": "心跳加快，手心微微出汗。",
+            "created_at": "1983-08-15 19:45:00"
+        }
+    },
+    "node_28": {
+        "page_content": "1982年3月18日晚上，晚饭时，父母聊起了邻居家的小孩因学习问题被责骂的事情。他们语重心长地对我说，学习是我的责任，不要让他们为我担心。我默默地点头，感受到了父母对我的期望和家庭和谐的重要性。那一刻，我决定要更加努力学习，不能辜负父母的期望，也不想让他们担心。",
+        "metadata": {
+            "node_id": "node_28",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我必须更加努力学习，不能辜负父母的期望，不然他们会很失望。",
+            "emotion": "焦虑和压力",
+            "behavior": "更加专注于学习，减少休闲时间，晚上加班学习。",
+            "physiological_response": "胃部紧张感，肩颈肌肉僵硬，头痛。",
+            "created_at": "1982-03-18 19:00:00"
+        }
+    },
+    "node_27": {
+        "page_content": "1982年3月16日上午的课间休息时间，我在教室里看见邻居家的小孩情绪低落，坐在教室后排默默地流泪。我走过去轻轻拍了拍他的肩膀，问他发生了什么。他抬起头，眼睛红红的，带着哭腔告诉我昨天因为没有完成作业被父母责骂。我听后心生怜悯，便安慰他说下次可以一起做作业，有什么问题可以互相帮助。他点点头，露出了一丝勉强的微笑。",
+        "metadata": {
+            "node_id": "node_27",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "朋友需要我的帮助，我应该关心和支持他。",
+            "emotion": "同情和关心",
+            "behavior": "主动安慰并提出帮助对方完成作业。",
+            "physiological_response": "心中感到温暖，呼吸变得平稳。",
+            "created_at": "1982-03-16 10:30:00"
+        }
+    },
+    "node_26": {
+        "page_content": "1982年3月15日下午放学后，我走在回家的路上，经过邻居家时，突然听到屋里传来孩子的哭声。我停下脚步，透过打开的窗户看进去，只见邻居家的小孩正被他的父母责骂。他的作业没有完成，父母显得非常生气，孩子哭得很伤心，眼泪一滴滴地流下来。我站在窗外，心中充满了同情和焦虑，不禁想到自己也不希望遭受这样的责骂。",
+        "metadata": {
+            "node_id": "node_26",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "这个孩子需要帮助，我应该做点什么。",
+            "emotion": "同情和焦虑",
+            "behavior": "停下来观察情况，思考如何帮助孩子。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "1982-03-15 16:45:00"
+        }
+    },
+    "node_25": {
+        "page_content": "1984年7月15日上午，我从学校回到家，兴奋地告诉父母我被重点中学录取的好消息。客厅里充满了喜悦的气氛，桌上摆着父母特地为我准备的庆祝蛋糕。父母为我感到骄傲，眼中闪烁着欣慰的光芒。他们奖励了我一辆崭新的自行车，这是我梦寐以求的礼物。当我骑上自行车时，心中充满了成就感和自信心，感受到父母对我的支持和认可。",
+        "metadata": {
+            "node_id": "node_25",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "父母和老师会认可我的努力，努力学习可以为我带来更好的未来。",
+            "emotion": "高兴和满足",
+            "behavior": "热情地感谢父母并和他们分享喜悦。",
+            "physiological_response": "心跳加速，脸上露出笑容，身体感觉轻松愉快。",
+            "created_at": "1984-07-15 10:00:00"
+        }
+    },
+    "node_24": {
+        "page_content": "1984年6月30日下午，学校的操场上，我们三五成群地坐在树荫下，手里拿着试卷，紧张地讨论答案。等待成绩的过程让我们每个人都感到焦虑和不确定。我和童年的玩伴、邻居家的孩子们互相安慰，分享担忧和期望。这种共同的经历让我们的友谊更加深厚，也让我学会了如何在压力下与朋友们分享和支持。",
+        "metadata": {
+            "node_id": "node_24",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我这次考试考不好，就会辜负父母的期望。",
+            "emotion": "焦虑和担忧",
+            "behavior": "继续紧张地与朋友讨论试卷答案，希望找到正确答案。",
+            "physiological_response": "胃部紧张感，手心出汗，心跳加速。",
+            "created_at": "1984-06-30 14:00:00"
+        }
+    },
+    "node_23": {
+        "page_content": "1984年6月1日晚上，我坐在家里的书桌前，书桌上堆满了复习资料和笔记，台灯下是我认真伏案的身影。父母在旁边默默支持，有时递上一杯热牛奶，叮嘱我注意休息。看着他们期盼的眼神，我感受到巨大的压力和责任感，每晚复习到深夜，只为了不辜负他们的期望。",
+        "metadata": {
+            "node_id": "node_23",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不努力复习，就会辜负父母的期望。",
+            "emotion": "焦虑和压力",
+            "behavior": "继续努力复习，甚至熬夜不休息。",
+            "physiological_response": "头痛，肩颈僵硬，睡眠不足。",
+            "created_at": "1984-06-01 19:30:00"
+        }
+    },
+    "node_22": {
+        "page_content": "1982年11月20日上午课间，我鼓起勇气走到那位被责骂的同学面前，轻声问他是否需要帮助。看到他点头后，我和他一起坐在教室的角落里复习功课。我耐心地为他讲解不懂的题目，看到他渐渐露出笑容，我心里也感到无比的满足和快乐。这次互动不仅加深了我们的友谊，也让我感受到帮助他人带来的满足感。",
+        "metadata": {
+            "node_id": "node_22",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我应该帮助他，这样他会感觉好一些，我们的友谊也会加深。",
+            "emotion": "满足和快乐",
+            "behavior": "耐心地为他讲解不懂的题目",
+            "physiological_response": "心情愉悦，微笑",
+            "created_at": "1982-11-20 10:15:00"
+        }
+    },
+    "node_21": {
+        "page_content": "1982年11月16日晚上，我们一家人在餐桌前吃晚饭。我忍不住把昨天看到的事情告诉了父母，描述了那个同学被责骂时的样子。我说出了我的感受和担忧，害怕自己有一天也会面对同样的情景。父母耐心地听着，妈妈握着我的手，爸爸轻声安慰我说，只要尽力就好，不需要过于担心成绩。他们还鼓励我继续努力学习，但不要让自己太过焦虑。父母的安慰和支持让我感到温暖和安心。",
+        "metadata": {
+            "node_id": "node_21",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不努力学习，我也会被责骂。",
+            "emotion": "害怕和焦虑",
+            "behavior": "更加努力地学习，避免被责骂。",
+            "physiological_response": "胃部不适，紧张感增加。",
+            "created_at": "1982-11-16 19:00:00"
+        }
+    },
+    "node_20": {
+        "page_content": "1982年11月15日下午，我在学校结束了一天的课程，正准备离开教室时，看到班上的一个同学在教室外被父母责骂。他们的声音很大，引起了周围同学的注意。同学低着头，眼中充满了沮丧和无助。我感到心里一阵难受，既为同学感到难过，也为自己敲响了警钟。",
+        "metadata": {
+            "node_id": "node_20",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我应该去安慰和帮助这个同学。",
+            "emotion": "同情和焦虑",
+            "behavior": "走过去与同学交谈，试图安慰他。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "1982-11-15 15:30:00"
+        }
+    },
+    "node_19": {
+        "page_content": "1983年4月15日下午2点半，春游结束后，我们回到了教室。教室里阳光明媚，黑板上还写着春游的活动安排。老师站在讲台上，开始总结这次春游的情况。突然，老师提到了我的名字，公开表扬了我在春游中的表现。全班同学都给予了我热烈的掌声。听到这些赞美的话语，我的脸红了，心里却感到无比自豪。老师称赞我的责任感和关心他人的品质，这让我感到自己的努力得到了认可。我意识到自己的行动能够带来积极的影响，这种认可进一步增强了我的自信心。",
+        "metadata": {
+            "node_id": "node_19",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的关心和责任感得到了认可，大家都很高兴。",
+            "emotion": "自豪和开心",
+            "behavior": "脸红，内心感到非常自豪，微笑着向同学们点头致意。",
+            "physiological_response": "脸颊发热，心跳加快，呼吸稍微急促。",
+            "created_at": "1983-04-15 14:30:00"
+        }
+    },
+    "node_18": {
+        "page_content": "1983年4月15日上午10点，我们到达了春游的目的地公园。公园里草木茂盛，空气中弥漫着花香。我被分配到照顾几位年幼的同学，确保他们的安全。我带着他们在草地上玩耍，陪他们一起捉蝴蝶，玩各种游戏。当他们累了，我会提醒他们喝水和休息。在这个过程中，我时刻保持警惕，确保他们不会走丢或受伤。看到他们开心的笑脸，我感到非常满足。老师在一旁观察着我们的活动，时不时地对我竖起大拇指。",
+        "metadata": {
+            "node_id": "node_18",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我有责任确保这些同学的安全和快乐。",
+            "emotion": "满足和责任感",
+            "behavior": "持续关注同学们的活动，提醒他们喝水和休息。",
+            "physiological_response": "保持高度警觉，心跳略快但感到充实。",
+            "created_at": "1983-04-15 10:00:00"
+        }
+    },
+    "node_17": {
+        "page_content": "1983年4月15日上午，我们在学校操场集合准备去春游。老师站在操场中央，四周是兴奋的同学们，大家带着各自的背包和野餐垫。我被老师叫到一边，分配给我负责分发午餐和水的任务。我感到心跳加速，但也充满了责任感。看到老师和同学们信任的目光，我决定一定要做好这件事。当我开始分发午餐和水时，老师站在一旁微笑着看着我，几个同学过来帮忙，我们配合得很默契。这个过程中，我感到自己确实能够胜任照顾他人的角色，内心充满了自信。",
+        "metadata": {
+            "node_id": "node_17",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "我必须做好分发午餐和水的任务，以确保大家的满意和活动的顺利进行。",
+            "emotion": "紧张但充满责任感",
+            "behavior": "认真分发午餐和水，与同学们配合默契。",
+            "physiological_response": "心跳加速，手微微出汗。",
+            "created_at": "1983-04-15 08:30:00"
+        }
+    },
+    "node_16": {
+        "page_content": "1982年2月15日晚上，家里的厨房里还散发着未完全散去的煤气味，父亲怒气冲冲地质问母亲为什么忘记关煤气炉，母亲低着头，眼里闪着泪光。父亲的声音越来越大，母亲则越来越沉默。我站在门口，心里既害怕又不安。这是我第一次意识到，原来家里的生活并不总是那么和谐。这个事件让我开始重视家庭的和谐，并牢记父母通过沟通解决问题的过程。",
+        "metadata": {
+            "node_id": "node_16",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "家庭不和谐会造成更大的问题，我必须帮助保持家庭的和谐。",
+            "emotion": "害怕和不安",
+            "behavior": "尝试安慰母亲并劝说父亲冷静下来。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "1982-02-15 20:45:00"
+        }
+    },
+    "node_15": {
+        "page_content": "1981年5月12日下午放学后，我照常走在回家的路上。走到邻居家门前时，听到屋内传来激烈的争吵声。出于好奇，我悄悄靠近窗户，透过半掩的窗帘看到邻居夫妻在激烈争吵。丈夫情绪激动地摔门而去，妻子则在屋内失声痛哭。看着这一幕，我感到震惊和无助，心中暗暗下定决心要维护自己家庭的和谐。",
+        "metadata": {
+            "node_id": "node_15",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "我必须尽力维护家庭和谐，不能让这种事情发生在我的家里。",
+            "emotion": "焦虑和紧张",
+            "behavior": "更加积极地帮助家人，尽量避免冲突。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "1981-05-12 16:30:00"
+        }
+    },
+    "node_14": {
+        "page_content": "1980年9月21日晚上，在一次家庭聚会上，我提到了帮助朋友解题的故事。父母听后非常高兴，对我的行为表示赞赏，并告诉我帮助他人是非常重要的品质。听到父母的肯定，我感到非常自豪和被认可。这次事件让我意识到，自己的行为不仅得到了朋友的认可，也得到了家人的肯定。这种来自家庭的正强化让我更加愿意在未来继续关心和帮助他人。",
+        "metadata": {
+            "node_id": "node_14",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "帮助他人是值得的，我应该继续这样做。",
+            "emotion": "自豪和被认可",
+            "behavior": "更加愿意在未来继续关心和帮助他人。",
+            "physiological_response": "心情愉快，面带微笑，身体放松。",
+            "created_at": "1980-09-21 19:00:00"
+        }
+    },
+    "node_13": {
+        "page_content": "1980年9月18日上午的课间休息时间，我在学校操场上再次遇到了那位朋友。她带来了自己做的点心，特意分给我，以表达对我上次帮助她解题的感谢。看到她开心的笑脸，我感到非常开心和被认可。这次积极的互动进一步增强了我的社交信心，让我感受到与朋友之间的关系更加紧密，同时也坚定了我关心他人能让世界变得更温暖的信念。",
+        "metadata": {
+            "node_id": "node_13",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我是一个关心他人的好朋友。",
+            "emotion": "开心和被认可",
+            "behavior": "微笑着接受点心，并感谢朋友。",
+            "physiological_response": "心跳加快，脸上泛起红晕。",
+            "created_at": "1980-09-18 10:15:00"
+        }
+    },
+    "node_12": {
+        "page_content": "1980年9月15日下午，我和朋友在她家一起做作业。阳光透过窗户洒在书桌上，我们正在解答一道难度较大的数学题。朋友显得有些焦虑，我耐心地一步步解释题目的解答方法。看到她逐渐冷静下来并理解了题目，我感到心里一阵温暖和满足。朋友对我表示感谢，这让我意识到，帮助他人不仅能带来愉悦感，还能让我们的友谊更加深厚。",
+        "metadata": {
+            "node_id": "node_12",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "帮助他人能让我们的友谊更加深厚。",
+            "emotion": "温暖和满足",
+            "behavior": "继续耐心解释题目，帮助朋友理解。",
+            "physiological_response": "心情愉悦，面带微笑，身体放松。",
+            "created_at": "1980-09-15 16:35:00"
+        }
+    },
+    "node_11": {
+        "page_content": "1981年10月20日晚上，妈妈因为工作上的压力在客厅大发脾气。我默默地在一旁收拾家务，不想让她的情绪影响到家里的氛围。我走到她身边，轻轻地对她说：“妈妈，别太生气了，我可以帮你分担一些家务。”妈妈看着我，眼中的愤怒渐渐消退，取而代之的是一丝感动。我感受到家庭成员间的支持和理解的重要性，这次安慰妈妈的经历让我更加珍惜和家人在一起的每一刻。",
+        "metadata": {
+            "node_id": "node_11",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "我需要帮助妈妈，让她不那么生气，这样家庭才能和谐。",
+            "emotion": "担忧但带有责任感",
+            "behavior": "主动承担更多家务，试图安慰妈妈。",
+            "physiological_response": "心跳加快，但感到肩上的责任变重。",
+            "created_at": "1981-10-20 19:45:00"
+        }
+    },
+    "node_10": {
+        "page_content": "1981年10月17日中午，阳光透过窗户洒进了厨房。我对妈妈说：“妈妈，今天我来帮你做饭吧。”妈妈笑着点头，同意了。我们一起在厨房忙碌，我学着妈妈的样子，切菜、炒菜。虽然有些手忙脚乱，但妈妈耐心地指导我。当我们终于完成了一顿丰盛的晚餐时，妈妈满意地夸奖了我。我感受到了一种被认可的喜悦，这让我更加明白了家庭和谐的重要性。",
+        "metadata": {
+            "node_id": "node_10",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "妈妈因为我的帮助而感到开心，家庭和谐是我的责任。",
+            "emotion": "喜悦和满足",
+            "behavior": "更加积极地参与家务，继续帮助妈妈做饭。",
+            "physiological_response": "心情愉悦，感觉精神振奋。",
+            "created_at": "1981-10-17 12:00:00"
+        }
+    },
+    "node_9": {
+        "page_content": "1981年10月15日晚上，妈妈拖着疲惫的身躯回到家中，脸色阴沉。我看到她疲惫不堪的样子，心里很难过。于是我走过去，轻轻地对她说：“妈妈，我来帮你做家务吧。”妈妈听到我的话，微微一愣，随后脸上露出了一丝感激的微笑。我赶紧开始收拾厨房，帮她打扫房间。那一刻，我感受到了一种满足感和温暖，觉得自己也能为家庭出一份力。",
+        "metadata": {
+            "node_id": "node_9",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "我必须帮助妈妈做家务，这样家庭才会和谐。",
+            "emotion": "满足感和温暖",
+            "behavior": "赶紧开始收拾厨房，帮她打扫房间。",
+            "physiological_response": "心情愉快，身体放松。",
+            "created_at": "1981-10-15 18:30:00"
+        }
+    },
+    "node_8": {
+        "page_content": "1980年6月15日傍晚，我们从医院回到家。邻居小朋友的家人特意过来致谢，带了一些水果和糖果作为礼物。看到他们满脸的感激和笑容，我心里感到非常温暖和满足。邻居小朋友的妈妈紧紧握着我的手，不停地说着感谢的话。我也笑着回应，心里觉得帮助别人真的很值得。这次经历让我和邻居家的关系更加紧密，也让我更加坚定了关心和支持他人的信念。",
+        "metadata": {
+            "node_id": "node_8",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "帮助别人真的很值得。",
+            "emotion": "温暖和满足",
+            "behavior": "笑着回应邻居小朋友的妈妈，并与她们亲切交谈。",
+            "physiological_response": "心情愉快，脸上带着微笑。",
+            "created_at": "1980-06-15 17:30:00"
+        }
+    },
+    "node_7": {
+        "page_content": "1980年6月15日下午，我把小朋友带回家，拿出医药箱，仔细地帮他清理伤口。看到他膝盖上的伤口比较深，我意识到需要去医院处理，于是我赶紧通知了他的家人。小朋友的妈妈脸色苍白，显然很担心。我安慰她说我会陪他去医院，然后我们一起赶往医院。在急诊室里，医生为小朋友处理了伤口，我一直在旁边握着他的手，安抚他不安的情绪。",
+        "metadata": {
+            "node_id": "node_7",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我需要关心和帮助这个受伤的小朋友，才能让他和他的家人安心。",
+            "emotion": "关切和责任感",
+            "behavior": "主动为小朋友清理伤口，陪同他去医院，并安抚他的情绪。",
+            "physiological_response": "心跳加速，但保持冷静，手心有些出汗。",
+            "created_at": "1980-06-15 15:00:00"
+        }
+    },
+    "node_6": {
+        "page_content": "1980年6月15日下午，我正在家里的书桌旁认真地做着作业，窗外灿烂的阳光透过窗帘洒进来，屋里一片宁静。突然，邻居家传来一阵急促的哭声。我放下手中的笔，心里一紧，赶紧跑到邻居家的院子里。看到邻居小朋友摔倒在地，膝盖流着血，眼泪汪汪地看着我。当时我感觉心里非常着急，立刻蹲下来安慰他，并查看他的伤口。",
+        "metadata": {
+            "node_id": "node_6",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我必须尽快帮助邻居小朋友，他需要我。",
+            "emotion": "焦虑和担忧",
+            "behavior": "立刻蹲下来安慰并查看伤口",
+            "physiological_response": "心跳加快，手心出汗",
+            "created_at": "1980-06-15 14:30:00"
+        }
+    },
+    "node_5": {
+        "page_content": "1982年5月11日晚，在家中的餐厅，母亲做了一桌丰盛的晚餐，整个房间弥漫着饭菜的香气。父亲微笑着对我说，‘欣莉，你真是我们的骄傲！’我坐在餐桌旁，心里充满了喜悦和自豪。父母的眼中满是欣慰和骄傲的神情，我们一起举杯庆祝我的成绩。我感受到前所未有的幸福和满足，这不仅增强了我的自信心，也让我更加坚定了努力学习会有好结果的信念。家庭的支持和关爱让我明白了家庭和谐的重要性。",
+        "metadata": {
+            "node_id": "node_5",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我努力学习是值得的，我的成绩让父母感到骄傲。",
+            "emotion": "喜悦和自豪",
+            "behavior": "微笑并开心地与父母互动",
+            "physiological_response": "心跳加快，身体感觉轻松愉快",
+            "created_at": "1982-05-11 19:00:00"
+        }
+    },
+    "node_4": {
+        "page_content": "1982年5月10日上午，在学校的教室里，阳光透过窗户洒在课桌上，我坐在考场里，手心微微出汗，心里有些紧张。但当我闭上眼睛，想起了父母和老师的鼓励，心情慢慢平静下来。我深吸一口气，开始认真答题。比赛中，我尽全力解答每一道题目，终于在规定时间内顺利完成。考场外，老师和同学们都在焦急地等待，我感受到了一种无形的压力，但更多的是对自己努力的肯定。",
+        "metadata": {
+            "node_id": "node_4",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不努力答题，我会辜负父母和老师的期望。",
+            "emotion": "紧张和焦虑",
+            "behavior": "认真答题，尽全力完成每一道题目。",
+            "physiological_response": "手心出汗，心跳加快。",
+            "created_at": "1982-05-10 09:00:00"
+        }
+    },
+    "node_3": {
+        "page_content": "1982年4月15日的傍晚，在家中的客厅，夕阳的余晖透过窗户洒进来，照亮了我和父母的身影。每天放学后，我都会在餐桌旁做数学题，父母坐在我旁边，不时地为我加油打气。我感受到父母的支持和期望，这让我产生了努力学习的动力。母亲不时端来热茶，父亲则帮我解答题目中的难点。我内心充满了温暖和动力，感受到家庭的关爱和支持。",
+        "metadata": {
+            "node_id": "node_3",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我必须努力学习，取得好成绩，不辜负父母的期望。",
+            "emotion": "充满动力和温暖",
+            "behavior": "更加专注地做数学题，投入更多时间和精力。",
+            "physiological_response": "感到心情愉快，精力充沛。",
+            "created_at": "1982-04-15 17:30:00"
+        }
+    },
+    "node_2": {
+        "page_content": "1978年3月10日下午，在家中，妈妈正在厨房里为我准备营养丰富的午餐。她一边做饭，一边叮嘱我要按时作息和注意饮食。周末，妈妈和爸爸带我去南京市的公园散步，阳光洒在我们身上，微风吹拂着树叶，妈妈牵着我的手，温柔地笑着说，健康的生活方式是最重要的。这种持续的关心和监督让我更加坚定了保持健康生活方式的信念。",
+        "metadata": {
+            "node_id": "node_2",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "妈妈说得对，我一定要保持健康的生活方式，这样我就会更有活力。",
+            "emotion": "安心和感激",
+            "behavior": "更加认真地按照妈妈的叮嘱去做，保持健康的饮食和作息习惯。",
+            "physiological_response": "心情愉快，身体感觉轻松愉悦。",
+            "created_at": "1978-03-10 15:00:00"
+        }
+    },
+    "node_1": {
+        "page_content": "1978年3月3日上午，在南京市儿童医院的病房里，妈妈为我准备了一碗热腾腾的鸡汤，汤里有她精心挑选的蔬菜和鸡肉。她一边喂我喝汤，一边鼓励我在房间里走动活动筋骨。她陪我在病房里慢慢地来回走动，轻声细语地和我聊天，这让我感觉好多了。妈妈的关心和照顾让我意识到健康的重要性。",
+        "metadata": {
+            "node_id": "node_1",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "健康真的很重要，我需要保持健康的生活方式。",
+            "emotion": "感激和安心",
+            "behavior": "决定以后要更加注重健康，听从妈妈的建议多锻炼。",
+            "physiological_response": "感到身体放松，心情愉悦。",
+            "created_at": "1978-03-03 10:00:00"
+        }
+    },
+    "node_0": {
+        "page_content": "1978年3月1日早上，我在南京市儿童医院的病房里，感到非常虚弱和无助。妈妈坐在床边，用温暖的手握着我的手，安慰我说一切都会好起来的。爸爸在一旁和医生沟通治疗方案，脸上写满了担忧。医生建议我需要住院观察和治疗，这让我感到有些害怕，但父母的陪伴让我内心稍微平静了些。",
+        "metadata": {
+            "node_id": "node_0",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不保持健康的生活习惯，我会经常生病。",
+            "emotion": "害怕和焦虑",
+            "behavior": "依赖父母的安慰和支持，不愿意独自面对。",
+            "physiological_response": "心跳加快，手心出汗，感到非常虚弱。",
+            "created_at": "1978-03-01 08:30:00"
+        }
+    }
+}

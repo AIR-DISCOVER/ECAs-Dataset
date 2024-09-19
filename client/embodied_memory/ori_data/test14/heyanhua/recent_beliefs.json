@@ -1,0 +1,99 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须满足别人的期望。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我可以通过努力改善自己。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我失败，那是因为我能力不足。",
+                "others": "别人会看到我的不足并批评我。",
+                "world": "这个世界对失败者没有容忍。"
+            },
+            "rules": "我必须避免失败以免暴露我的不足。",
+            "positive_assumption": "如果我避免失败，我就不会被批评。",
+            "negative_assumption": "如果我失败，我就会被看作是无能的。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得被赞美和认可。",
+                "others": "别人不会真正欣赏我。",
+                "world": "在这个世界上，只有完美才会得到认可。"
+            },
+            "rules": "我应该尽量隐藏我的不足。",
+            "positive_assumption": "如果我隐藏我的不足，我就不会被批评。",
+            "negative_assumption": "如果我展示我的不足，我就会被拒绝。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须努力满足别人的期望。",
+                "others": "别人会因为我的表现来评判我。",
+                "world": "这个世界要求每个人都要达到高标准。"
+            },
+            "rules": "我必须努力达到他人的期望。",
+            "positive_assumption": "如果我满足别人的期望，我就会被认可。",
+            "negative_assumption": "如果我不能满足别人的期望，我就会被否定。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不能让别人失望。",
+                "others": "别人会因为我的表现而满意或失望。",
+                "world": "世界对那些不能达到期望的人不友好。"
+            },
+            "rules": "我必须尽全力让别人满意。",
+            "positive_assumption": "如果我让别人满意，我就会被认可和接受。",
+            "negative_assumption": "如果我让别人失望，我就会被拒绝和批评。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力通过努力来提高自己。",
+                "others": "别人会看到我的进步并认可我。",
+                "world": "世界充满了机会，只要我努力就能取得成功。"
+            },
+            "rules": "我应该不断努力提升自己。",
+            "positive_assumption": "如果我努力，我就会不断进步并获得认可。",
+            "negative_assumption": "如果我不努力，我就会停滞不前，失去机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有潜力变得更好。",
+                "others": "别人会看到我的潜力并支持我。",
+                "world": "这个世界会给那些努力的人机会。"
+            },
+            "rules": "我应该相信自己的潜力，并不断努力。",
+            "positive_assumption": "如果我相信自己并努力，我就会实现我的目标。",
+            "negative_assumption": "如果我不相信自己，我就会失去发展的机会。"
+        }
+    ]
+}

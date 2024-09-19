@@ -1,0 +1,196 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "责任心强",
+            "有些焦虑",
+            "善良",
+            "有耐心"
+        ],
+        "appearance": [
+            "中等身材",
+            "略显疲惫",
+            "普通",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "打篮球",
+                "看电影",
+                "听音乐"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "完成当前的工作项目，改善与妻子的关系",
+            "long_term_goals": "在职业上取得更大的成就，拥有一个和睦的家庭"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到公司上班，晚上6点下班回家，偶尔加班。回家后和家人一起吃晚饭，之后会看电视或处理一些工作上的事情。",
+            "weekends": "周末通常会和家人一起度过，有时会去公园散步或购物，但最近因为工作忙碌，周末也常常在家处理工作。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他要求严格，从小就被教育要努力学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多。高中时开始对计算机产生兴趣。",
+            "youth": "大学期间主修计算机科学，毕业后进入一家IT公司工作，逐渐在职业上取得了一些成就。",
+            "recent_events": "最近因为工作压力大和家庭琐事，与妻子发生了一些争吵，情绪上感到烦躁和不安。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书，毕业后回到南京工作和生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "顾绍富的父母对他要求严格，从小就被教育要努力学习。父亲是一个严肃的人，母亲则比较温柔，但同样对他的学业非常关注。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "顾绍富在小学和初中时有两个比较要好的朋友，他们经常一起玩耍和学习，但由于顾绍富性格内向，朋友关系并不算特别亲密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "中学时期，顾绍富的父母依然对他的学业非常关注，但由于他成绩优异，父母对他的压力有所减轻。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "高中时，顾绍富因为性格内向，朋友不多，但有一个志同道合的朋友，他们一起对计算机产生了浓厚的兴趣。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "顾绍富的几位老师对他非常器重，尤其是计算机老师，给予了他很多指导和帮助。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "大学期间，顾绍富结识了几位同学，他们一起学习和讨论计算机相关的知识，但由于顾绍富性格内向，关系并不算特别亲密。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "顾绍富的大学导师对他非常器重，给予了他很多学术上的指导和帮助。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "毕业后进入IT公司工作，顾绍富结识了几位同事，他们一起合作完成了多个项目，但由于工作繁忙，关系并不算特别亲密。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "妻子",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "最近因为工作压力大和家庭琐事，顾绍富与妻子发生了一些争吵，但他们依然相互关心和支持。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "顾绍富有一个孩子，他非常爱护和关心孩子，尽管工作繁忙，他依然尽量抽出时间陪伴孩子。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "最近因为工作压力大，顾绍富与同事的交流减少，但他们依然保持着基本的工作合作关系。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "顾绍富在不同阶段的社会关系有一定的变化。童年时期，他的主要社会关系是父母和少数朋友。进入青春期后，他的朋友数量减少，但与老师的关系变得更加重要。成年后，他的社会关系主要集中在同事和家庭成员上。最近因为工作压力和家庭琐事，他的社会关系变得更加紧张，但他依然努力维持这些关系。"
+    }
+}

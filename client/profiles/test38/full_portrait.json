@@ -1,0 +1,190 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "内向",
+            "有责任心",
+            "敏感",
+            "有些完美主义"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "皮肤较白",
+            "头发略长"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "编程",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "和朋友一起讨论学术问题",
+                "周末去图书馆"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "完成当前的课题研究，顺利毕业",
+            "long_term_goals": "成为一名优秀的科研人员，做出有影响力的研究成果"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到实验室，晚上10点回宿舍。中午在学校食堂吃饭，晚上有时会和朋友一起吃饭。",
+            "weekends": "周末通常会在图书馆度过，偶尔会和朋友出去放松一下，比如看电影或者去咖啡馆聊天。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，从小就被要求好好学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多。高中时曾因为一次考试失利而感到极度沮丧，但在父母和老师的鼓励下重新振作。",
+            "recent_events": "最近因为课题组实验进展不顺利，感到很大的压力，情绪低落，对以前的爱好失去了兴趣。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学。大学在北京读书，目前在北京的一所知名大学攻读研究生。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "昌善国的父亲是一名工厂工人，工作繁忙，但对昌善国的教育非常重视。父亲虽然不善言辞，但会通过行动表达对昌善国的关心，比如每次考试前都会为他准备好早餐。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "昌善国的母亲是一名小学教师，性格温和，对昌善国的学习和生活给予了很多指导和支持。母亲经常在昌善国遇到困难时给予鼓励和安慰，是他最亲近的人之一。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "昌善国在小学时有两个好朋友，他们经常一起玩耍和学习。虽然性格不同，但他们之间的友谊非常深厚。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "在中学时期，昌善国的父亲依然对他的学习非常关注，但由于工作压力大，父子之间的交流有所减少。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲在昌善国的中学时期依然是他最重要的支持者，经常在他遇到学业压力时给予鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "在中学时期，昌善国结识了一位志同道合的朋友，他们经常一起讨论学术问题，互相鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "昌善国在中学时期有两位对他影响深远的老师，一位是班主任，另一位是数学老师。他们不仅在学业上给予了昌善国很多帮助，也在他情绪低落时给予了支持。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "昌善国的研究生导师对他的学术要求很高，虽然给予了很多指导，但也带来了很大的压力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "在研究生阶段，昌善国有三位亲密的朋友，他们经常一起讨论学术问题，互相支持。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "昌善国在研究生阶段有五位同学，他们在实验室一起工作，虽然关系不如朋友亲密，但也会互相帮助。"
+                    ]
+                },
+                {
+                    "relationship": "家人",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        5
+                    ],
+                    "description": [
+                        "昌善国的父母依然是他重要的支持者，虽然他们不在身边，但经常通过电话和视频通话给予他鼓励。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "昌善国在不同阶段的社会关系有明显变化。童年时期，他的主要社会关系集中在家庭和少数朋友之间。进入中学后，随着学业压力增加，他的社会关系逐渐扩展到老师和新的朋友。最近，由于研究生阶段的学术压力，他的社会关系更多集中在导师、同学和少数亲密朋友之间。尽管他性格内向，但在不同阶段都能找到支持他的社会关系，这对他的心理健康起到了重要作用。"
+    }
+}

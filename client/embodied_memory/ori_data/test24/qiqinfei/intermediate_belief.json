@@ -1,0 +1,110 @@
+{
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够在考试中取得好成绩。",
+                "others": "他人会认可我的能力和成就。",
+                "world": "世界为那些努力的人提供机会。"
+            },
+            "rules": "我应该努力学习，并在考试中取得好成绩。",
+            "positive_assumption": "如果我在考试中取得好成绩，我会证明自己的能力。",
+            "negative_assumption": "如果我考试成绩不好，我会被视为无能。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力应对学习和生活中的挑战。",
+                "others": "他人会在我需要时给予帮助，但我主要依靠自己。",
+                "world": "世界充满机会和挑战，我能够应对。"
+            },
+            "rules": "当遇到困难时，我应该主动面对并解决。",
+            "positive_assumption": "如果我主动面对困难，我会变得更强大并获得新的经验。",
+            "negative_assumption": "如果我回避困难，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须满足父母和老师的期望。",
+                "others": "他人对我的期望很高，我不能让他们失望。",
+                "world": "世界对每个人都有期待和要求。"
+            },
+            "rules": "我必须尽力满足他人的期望。",
+            "positive_assumption": "如果我满足他人的期望，我会被认可和支持。",
+            "negative_assumption": "如果我无法满足他人的期望，我会被批评和失望。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须表现得完美才能被认可。",
+                "others": "他人只会认可和接受完美的人。",
+                "world": "世界只接受完美。"
+            },
+            "rules": "我不能犯错。",
+            "positive_assumption": "如果我表现得完美，我会被认可和接受。",
+            "negative_assumption": "如果我犯错，我会被他人拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须努力才能证明自己有价值。",
+                "others": "他人只会关注并评价我的成就。",
+                "world": "成功是唯一被认可的标准。"
+            },
+            "rules": "我必须不断努力并取得好成绩。",
+            "positive_assumption": "如果我努力并取得好成绩，我会被认可。",
+            "negative_assumption": "如果我不努力并失败，我会被忽视和批评。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我失败了，那就证明我不够好。",
+                "others": "他人会察觉到我的不完美并批评我。",
+                "world": "世界对失败者是残酷的。"
+            },
+            "rules": "我必须避免失败。",
+            "positive_assumption": "如果我避免失败，我会感到更安全。",
+            "negative_assumption": "如果我失败了，我会被他人鄙视。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    }
+}

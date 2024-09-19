@@ -1,0 +1,173 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "自卑",
+            "勤奋",
+            "责任感强",
+            "焦虑"
+        ],
+        "appearance": [
+            "中等身材",
+            "略显疲惫",
+            "黑发",
+            "戴眼镜",
+            "穿着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "编程",
+                "阅读科技书籍",
+                "看电影"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "尽快恢复情绪稳定，能够更好地处理工作和家庭的压力。",
+            "long_term_goals": "成为一名技术专家，能够在编程领域有所建树，同时希望能够拥有一个幸福的家庭生活。"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到公司上班，工作到晚上6点，回家后和家人共进晚餐，晚上会花时间阅读或编程，11点左右睡觉。",
+            "weekends": "周末会和家人一起做饭，有时会去公园散步，偶尔会看电影或参加一些编程相关的线上活动。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，从小就表现出对计算机的兴趣。",
+            "adolescence": "中学时期成绩优异，但由于性格内向，朋友不多，常常感到孤独。",
+            "recent_events": "去年确诊为双相情感障碍，开始服药治疗，但因副作用较大自行停药。最近工作压力较大，导致情绪波动较大，记忆力和决断力下降。"
+        },
+        "environment": "出生在一个小城市，大学毕业后在大城市找到了一份程序员的工作，结婚后与妻子一起生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲是一名工厂工人，工作繁忙，但对花发全的教育非常重视。父亲常常在工作之余教他一些生活技能和做人道理。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲是一名家庭主妇，温柔体贴，对花发全的照顾无微不至。母亲常常鼓励他追求自己的兴趣，尤其是对计算机的热爱。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        3
+                    ],
+                    "description": [
+                        "花发全在小学时有两个好朋友，他们常常一起玩耍，但由于花发全性格内向，朋友关系并不算特别亲密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "随着花发全进入中学，父亲的工作压力更大，陪伴他的时间减少了，但父亲依然对他的学业非常关注。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是花发全生活中的重要支柱，帮助他应对学业压力和青春期的困惑。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "中学时期，花发全的朋友更少了，他常常感到孤独，只有一个朋友能理解他对计算机的热爱。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "花发全的计算机老师对他影响很大，老师发现了他的天赋，并给予了很多指导和鼓励。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "妻子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "妻子是花发全生活中的重要支持者，她理解他的工作压力和情感障碍，尽力给予他关爱和支持。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "花发全的同事们对他工作上的能力非常认可，但由于他性格内向，社交关系并不深厚。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "心理咨询师是花发全最近开始接触的，他希望通过咨询能够更好地管理自己的情感障碍。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "花发全的社交关系在不同阶段有明显变化。童年时期，他与父母关系亲密，但朋友不多。进入青春期后，朋友更少，孤独感增加，但老师的支持让他在学业上有所成就。成年后，妻子成为他最重要的支持者，但工作压力和情感障碍让他难以建立深厚的同事关系。最近，他开始寻求心理咨询，希望通过专业帮助改善自己的情感状态和社交能力。"
+    }
+}

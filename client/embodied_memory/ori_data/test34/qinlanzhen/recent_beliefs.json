@@ -1,0 +1,78 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不值得被重视。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我是有责任感的。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我可以变得更自信和独立。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我对家庭的贡献很重要。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不能满足家人的期望，那我就没有价值。",
+                "others": "他人不会真正重视我的感受和贡献。",
+                "world": "在这个世界上，每个人都必须证明自己的价值。"
+            },
+            "rules": "我必须不断努力满足他人的期望。",
+            "positive_assumption": "如果我满足了他人的期望，我就会被重视和认可。",
+            "negative_assumption": "如果我不能满足他人的期望，我就会被忽视和贬低。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有责任照顾好家庭成员的每一个需求。",
+                "others": "家人依赖我的支持和照顾。",
+                "world": "世界需要更多有责任感的人来照顾和支持他人。"
+            },
+            "rules": "我应该时刻关注和满足家庭成员的需求。",
+            "positive_assumption": "如果我能照顾好家人，我会感到满足和成就感。",
+            "negative_assumption": "如果我无法照顾好家人，我会感到内疚和失落。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力改变自己，变得更自信和独立。",
+                "others": "他人可能不理解我的变化，但我不需要依赖他们的看法。",
+                "world": "世界充满了机会，我可以找到自己的道路。"
+            },
+            "rules": "我应该不断努力提升自己，追求自我成长。",
+            "positive_assumption": "如果我变得更自信和独立，我会拥有更好的生活质量。",
+            "negative_assumption": "如果我停滞不前，我会错失很多机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的付出对家庭是有意义和重要的。",
+                "others": "家人应该认识到并感激我的付出。",
+                "world": "家庭是生活的重要组成部分，我在其中扮演重要角色。"
+            },
+            "rules": "我应该继续为家庭付出和贡献。",
+            "positive_assumption": "如果我继续为家庭付出，我会感到家庭的温暖和支持。",
+            "negative_assumption": "如果我停止付出，家庭可能会变得不和谐。"
+        }
+    ]
+}

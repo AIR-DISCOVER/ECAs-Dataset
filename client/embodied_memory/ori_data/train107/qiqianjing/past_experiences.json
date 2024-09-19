@@ -1,0 +1,601 @@
+{
+    "childhood": {
+        "name": "齐倩菁",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在小学一年级时，我的成绩一直很优秀。有一次，期中考试我拿了全班第一，爸爸妈妈特别高兴，买了我最喜欢的冰淇淋作为奖励。",
+                "location": "小学教室和家里",
+                "happen_time": "1990年10月",
+                "participants": "父母、老师、同学",
+                "impact": "这次经历强化了我的核心信念'我必须表现得完美才能被认可'，让我更加追求完美，渴望通过成绩得到认可。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在二年级的家长会上，老师表扬了我在班级的表现，妈妈笑得特别开心，但也在会后告诉我以后一定要继续努力，不能松懈。",
+                "location": "学校教室",
+                "happen_time": "1991年5月",
+                "participants": "妈妈、老师",
+                "impact": "妈妈的要求让我感到压力，形成了中间信念'如果我不完美，我就会让父母失望'，加深了对失败的恐惧。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "在四年级的一次数学竞赛中，我因为紧张失误没有拿到名次，回家后我哭了，爸爸安慰我说：'没关系，下次再努力。'但我依然感到非常失望。",
+                "location": "学校和家里",
+                "happen_time": "1993年3月",
+                "participants": "父亲、同学",
+                "impact": "这次失误让我觉得如果不完美，就会失去认可，强化了中间信念'我必须避免犯错'。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "有一天，我看到邻居家的小朋友因为考试没考好被父母责骂，那时我心里很害怕，担心自己也会有类似的遭遇。",
+                "location": "邻居家门口",
+                "happen_time": "1992年11月",
+                "participants": "邻居小朋友及其父母",
+                "impact": "这次观察让我更加确信世界对错误和失败是苛刻的，强化了中间信念'父母和老师会严厉批评我的错误'。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我参加了学校组织的演讲比赛并获得了第一名，老师当着全班同学的面表扬了我。",
+                "location": "学校礼堂",
+                "happen_time": "1994年4月",
+                "participants": "老师、同学",
+                "impact": "这次成功让我更加相信'如果我做到完美，我会被认可和表扬'，进一步加深了对完美表现的追求。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班里的一个同学因为犯了错误被老师严厉批评，那天他哭了很久。",
+                "location": "学校教室",
+                "happen_time": "1993年6月",
+                "participants": "老师、同学",
+                "impact": "这次观察让我更加害怕犯错，形成了中间信念'我不能犯错，必须小心翼翼地处理每一件事'。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在九岁时，我尝试自己解决了一次数学难题，当时非常自豪，父母也表扬了我。",
+                "location": "家里",
+                "happen_time": "1992年9月",
+                "participants": "父母",
+                "impact": "这次经历让我形成了核心信念'我有能力应对挑战'，增强了自信心。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在小学三年级的一次班级活动中，我主动组织了同学们，整个活动非常成功，老师和同学们都夸我有领导能力。",
+                "location": "学校操场",
+                "happen_time": "1992年5月",
+                "participants": "同学、老师",
+                "impact": "这次成功经历增强了我的自信心，支持了中间信念'我能解决我的问题'。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看见妈妈在厨房忙碌着，做了一桌子菜给爸爸庆祝生日，他们脸上洋溢着幸福的笑容。",
+                "location": "家里",
+                "happen_time": "1990年3月",
+                "participants": "父母",
+                "impact": "这次观察让我感受到了家庭的温暖和关心，形成了核心信念'我值得被尊重和关心'。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在小学六年级时，我的作文被老师选中在班级里朗读，得到了同学们的掌声和老师的表扬。",
+                "location": "学校教室",
+                "happen_time": "1995年5月",
+                "participants": "老师、同学",
+                "impact": "这次经历让我感到被尊重和认可，支持了中间信念'如果我被尊重和关心，我会感到幸福和满足'。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个同学在班级里因为回答问题错误被其他同学取笑，他很难过，我心里感到不安。",
+                "location": "学校教室",
+                "happen_time": "1991年10月",
+                "participants": "同学",
+                "impact": "这次观察让我更加害怕在公共场合犯错，强化了中间信念'世界对错误和失败是苛刻的'。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在一次与朋友的争吵中，我发现自己能够冷静处理问题，最终和朋友和解了。",
+                "location": "学校操场",
+                "happen_time": "1994年8月",
+                "participants": "朋友",
+                "impact": "这次经历增强了我的自信心，支持了中间信念'我有能力克服困难'。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到老师在课堂上表扬了一个同学的进步，这个同学脸上露出了自信的笑容。",
+                "location": "学校教室",
+                "happen_time": "1993年9月",
+                "participants": "老师、同学",
+                "impact": "这次观察让我意识到努力和进步可以带来认可，支持了中间信念'如果我面对挑战，我会变得更强大'。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在学校的一次运动会上，我参加了跑步比赛并取得了第三名，父母在场为我加油并在赛后鼓励我。",
+                "location": "学校操场",
+                "happen_time": "1993年10月",
+                "participants": "父母、同学",
+                "impact": "这次经历让我感到被尊重和关心，进一步强化了核心信念'我值得被尊重和关心'。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在放学回家的路上看到一个小孩跌倒了，路人纷纷上前帮助他。",
+                "location": "放学路上",
+                "happen_time": "1994年11月",
+                "participants": "路人、小孩",
+                "impact": "这次观察让我感受到世界对值得被关心的人是友好的，支持了中间信念'世界对值得被尊重和关心的人是友好的'。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "齐倩菁",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在中学入学的第一天，我感到非常紧张。班主任王老师要求每个新生自我介绍。我心里想着：‘我必须表现得完美，不能出错。’于是，我精心准备了一段话，但上台时还是有些紧张，声音有些颤抖。尽管如此，我还是完成了介绍。",
+                "location": "中学校园的教室",
+                "happen_time": "1996年9月",
+                "participants": "班主任王老师，新同学们",
+                "impact": "虽然有些紧张，但完成自我介绍后，我感到了一些成就感。这次经历强化了我对完美表现的追求，同时也让我认识到自己有能力应对挑战。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次数学考试中，我得了全班第一名。王老师在班会上表扬了我，还让我分享学习经验。我心里想着：‘如果我做到完美，我会被认可和尊重。’",
+                "location": "中学校园的教室",
+                "happen_time": "1997年3月",
+                "participants": "班主任王老师，同学们",
+                "impact": "这次表扬让我更加坚定了追求完美的信念，同时也增加了我的自信心，觉得自己有能力应对挑战。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "一次班会上，王老师严厉批评了一位同学，因为他在考试中作弊。我看到那位同学低着头，眼中含泪。我心里想：‘世界对错误和失败是苛刻的。’",
+                "location": "中学校园的教室",
+                "happen_time": "1997年6月",
+                "participants": "班主任王老师，同学们",
+                "impact": "这个事件让我更加害怕犯错，觉得自己必须避免一切错误，否则会遭到严厉的批评和排斥。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在一次校际辩论赛中，我作为班级代表，和队友们一起备战。最终我们获得了冠军。我心里暗自庆幸：‘如果我面对挑战，我会变得更强大。’",
+                "location": "校际辩论赛场馆",
+                "happen_time": "1998年5月",
+                "participants": "学校辩论队成员，观众",
+                "impact": "这次胜利让我感到非常自豪，增强了我的信心，觉得自己有能力克服困难，并获得成就感。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在一次学科竞赛中，我因答错了一道题目，未能获得第一名，感到非常失落。王老师安慰我说：‘每个人都会犯错，重要的是从中吸取教训。’",
+                "location": "学科竞赛现场",
+                "happen_time": "1999年3月",
+                "participants": "班主任王老师，竞赛评委，同学们",
+                "impact": "尽管这次失败让我感到挫败，但王老师的安慰让我认识到，犯错并非世界末日，重要的是从中学习和成长。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "在一次家长会中，我看到一位同学的家长对他非常严厉，指责他考试成绩不理想。我心里想：‘他人只会看重我的缺点。’",
+                "location": "学校家长会会场",
+                "happen_time": "1999年6月",
+                "participants": "同学及其家长，班主任王老师",
+                "impact": "这个场景让我更加担心别人会只看到我的缺点，进一步加重了我对完美表现的追求。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在一次学校运动会上，我参加了100米短跑比赛，并获得了第三名。当时我心里想：‘虽然没有第一，但我也有能力应对挑战。’",
+                "location": "学校运动场",
+                "happen_time": "2000年4月",
+                "participants": "运动会参赛选手，观众",
+                "impact": "这次比赛让我认识到，尽管没有达到最顶尖的成绩，但只要努力，我也能取得不错的成绩，增强了我的自信心。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在高三毕业考试前，我感到非常焦虑，生怕自己考不好。妈妈安慰我说：‘尽力就好，不一定要追求完美。’",
+                "location": "家中",
+                "happen_time": "2001年6月",
+                "participants": "妈妈",
+                "impact": "妈妈的安慰让我稍微放松了一些，意识到追求完美并不是唯一的目标，也可以接受不完美的结果。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "在一次志愿者活动中，我看到一位同学耐心地帮助一位老人。我心里想：‘我也值得被尊重和关心。’",
+                "location": "社区服务中心",
+                "happen_time": "2001年4月",
+                "participants": "同学们，社区居民",
+                "impact": "这个场景让我感受到人与人之间的温暖和关爱，增强了我对他人尊重和关心的信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在高考成绩出来后，我考上了北京的一所大学，感到非常高兴。王老师在电话里祝贺我，还说：‘你一直都很优秀，我为你感到骄傲。’",
+                "location": "家中",
+                "happen_time": "2001年7月",
+                "participants": "班主任王老师，父母",
+                "impact": "这次成功让我感到非常幸福和满足，同时也进一步强化了我对自己能力的信心。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "在一次班级聚会中，我看到一位同学因为成绩不理想而感到非常失落，其他同学纷纷安慰他。我心里想：‘即使不完美，也会有朋友在身边支持。’",
+                "location": "学校教室",
+                "happen_time": "2000年12月",
+                "participants": "同学们",
+                "impact": "这个场景让我意识到，即使自己不完美，也会有理解和支持我的人，减轻了我对完美的过度追求。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在一次演讲比赛中，我因为紧张而忘词，感到非常尴尬。但老师和同学们鼓励我继续，我最终完成了演讲。尽管表现不完美，大家还是为我鼓掌。",
+                "location": "学校礼堂",
+                "happen_time": "2001年3月",
+                "participants": "老师，同学们",
+                "impact": "这次经历让我认识到，尽管有失误，依旧可以得到他人的理解和支持，减轻了我对完美表现的焦虑。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "在一次班级活动中，我看到一位同学主动帮助老师整理教室，老师对他表示感谢并表扬他。我心里想：‘帮助他人也是一种值得尊重的行为。’",
+                "location": "学校教室",
+                "happen_time": "1999年12月",
+                "participants": "老师，同学们",
+                "impact": "这个场景让我认识到，关心和帮助他人也可以获得尊重和认可，增强了我对自己行为的正面评价。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在一次班级活动中，我担任了主持人，虽然有些紧张，但最终顺利完成了任务，得到了同学们的认可和鼓励。",
+                "location": "学校礼堂",
+                "happen_time": "2000年5月",
+                "participants": "同学们，老师",
+                "impact": "这次经历让我感到非常自豪，增强了我对自己社交能力的信心，同时也认识到他人的认可可以带来极大的满足感。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "一次在家中，我听到父母讨论工作中的压力和挑战，他们相互扶持和鼓励。我心里想：‘面对挑战时，支持和理解非常重要。’",
+                "location": "家中",
+                "happen_time": "2000年8月",
+                "participants": "父母",
+                "impact": "这个场景让我认识到，在面对生活和工作的挑战时，支持和理解是非常重要的，增强了我对人际关系中相互支持的重视。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "齐倩菁",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "大一刚入学时，我参加了新生欢迎会，站在一群陌生人中间，感到非常紧张。导师走过来，微笑着和我打招呼并鼓励我。这让我感到被认可和支持。",
+                "location": "北京大学校园",
+                "happen_time": "2002年9月",
+                "participants": "大学导师",
+                "impact": "这次经历强化了我对自我价值的认知，增强了我面对新环境的信心。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次重要的学术报告中，我因为紧张而忘记了一部分内容，结果受到教授的批评，感到非常羞愧。",
+                "location": "北京大学教室",
+                "happen_time": "2003年5月",
+                "participants": "教授，同学",
+                "impact": "这次失误强化了我对完美主义的追求，让我更加害怕犯错，并深信不完美会带来批评。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "大三的时候，我参加了学校的辩论队，并在比赛中表现出色，获得了最佳辩手奖。这让我对自己的能力有了更多的信心。",
+                "location": "北京大学辩论赛场",
+                "happen_time": "2004年11月",
+                "participants": "辩论队成员，评委",
+                "impact": "这次成功增强了我的自信心，让我相信自己有能力应对各种挑战。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "有一次，室友因为考试失利而哭泣，我看到其他室友纷纷安慰她，大家的关心让我感到温暖。",
+                "location": "宿舍",
+                "happen_time": "2005年6月",
+                "participants": "室友",
+                "impact": "这次观察让我意识到朋友之间的关心和支持是非常重要的，强化了我对人际关系的重视。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "大学毕业后，我回到南京，顺利成为一名中学老师。第一次站在讲台上，我感到既兴奋又紧张，但学生们的积极回应让我感到非常满足。",
+                "location": "南京某中学",
+                "happen_time": "2006年9月",
+                "participants": "学生",
+                "impact": "这次经历让我感到自己的职业选择是正确的，并增强了我对教育事业的热情。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在一次家长会上，一位家长对我的教学方法提出了质疑，我感到非常沮丧和自我怀疑。",
+                "location": "学校教室",
+                "happen_time": "2007年12月",
+                "participants": "家长，学生",
+                "impact": "这次质疑让我对自己的教学能力产生了怀疑，强化了我对完美主义的追求。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "一次，我看到一位同事在办公室里默默加班，她的敬业精神让我非常敬佩。",
+                "location": "学校办公室",
+                "happen_time": "2008年3月",
+                "participants": "同事",
+                "impact": "这次观察让我更加坚定了对工作的责任感，并进一步激发了我对完美工作的追求。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在一次教育研讨会上，我第一次发表了自己的论文，并得到了与会专家的认可。这让我感到非常自豪和自信。",
+                "location": "南京某教育研讨会场",
+                "happen_time": "2009年5月",
+                "participants": "教育专家，同事",
+                "impact": "这次成功增强了我对自己学术能力的信心，并激发了我对教育研究的兴趣。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "在学校的一次集体活动中，我看到学生们积极参与，互相帮助，让我感到非常欣慰。",
+                "location": "学校操场",
+                "happen_time": "2010年10月",
+                "participants": "学生，同事",
+                "impact": "这次观察让我感到自己的工作是有意义的，强化了我对教育事业的热爱。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在一次重要的升职会议上，我由于过度紧张而表现失常，最终失去了升职机会。这让我感到非常失落和自责。",
+                "location": "学校会议室",
+                "happen_time": "2012年6月",
+                "participants": "校领导，同事",
+                "impact": "这次失败让我更加害怕犯错，并进一步强化了我对完美主义的追求。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我与丈夫发生了争执，但最终通过沟通解决了问题，这让我感到家庭关系的重要性。",
+                "location": "家中",
+                "happen_time": "2013年11月",
+                "participants": "丈夫，家人",
+                "impact": "这次经历让我认识到沟通的重要性，并增强了我处理家庭关系的信心。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "一次，我看到一位学生因为家庭问题而情绪低落，我主动与他交流并提供帮助，看到他的情绪有所好转，我感到非常欣慰。",
+                "location": "学校教室",
+                "happen_time": "2014年5月",
+                "participants": "学生",
+                "impact": "这次观察让我感到自己的工作不仅仅是教学，还可以在情感上支持学生，进一步增强了我的责任感。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在一次国际教育交流活动中，我代表学校做了演讲，得到了国际同行的认可和赞赏。这让我感到非常自豪和自信。",
+                "location": "国际教育交流会议场所",
+                "happen_time": "2015年8月",
+                "participants": "国际教育专家，同事",
+                "impact": "这次成功增强了我对自己国际视野和学术能力的信心，并激发了我对教育事业更高的追求。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "一次，我看到一位同事因为过度劳累而健康出现问题，这让我开始反思自己的工作方式。",
+                "location": "学校办公室",
+                "happen_time": "2016年3月",
+                "participants": "同事",
+                "impact": "这次观察让我意识到过度追求完美可能带来的健康问题，开始思考如何平衡工作和生活。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "2018年，我完成了第一本教育书籍的初稿，并得到了出版社的认可，这让我感到非常满足和成就感。",
+                "location": "家中书房",
+                "happen_time": "2018年10月",
+                "participants": "出版社编辑，家人",
+                "impact": "这次成功让我感到自己的长期努力有所回报，增强了我继续追求教育事业的动力。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "齐倩菁",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2018年学校年度总结会上，我被评为年度优秀教师，校长在台上表扬了我，但我感到非常疲惫，无法真正享受这个荣誉。",
+                "location": "学校会议室",
+                "happen_time": "2018年12月",
+                "participants": "校长、同事、学生",
+                "impact": "正面影响：提升了自信心；负面影响：加剧了对完美表现的压力，无法放松自己。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2019年，我的班上有一个学生家庭出现变故，我花了大量时间和精力帮助他应对，导致自己的工作量激增，感到身心疲惫。",
+                "location": "学校教室及家庭访谈",
+                "happen_time": "2019年3月-2019年6月",
+                "participants": "学生及其家人",
+                "impact": "正面影响：增强了教师责任感和成就感；负面影响：增加了工作压力和疲劳感。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "同事小王因为工作压力大病倒了，我看到她非常痛苦，心里感到担忧，开始思考自己是否也会面临同样的情况。",
+                "location": "学校办公室",
+                "happen_time": "2019年9月",
+                "participants": "同事小王",
+                "impact": "负面影响：增强了对自身健康的担忧，压力感增加。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2020年疫情期间，线上教学让我感到非常疲惫，既要适应新技术，还要保证教学质量。",
+                "location": "家中及线上平台",
+                "happen_time": "2020年2月-2020年6月",
+                "participants": "学生、家人",
+                "impact": "负面影响：增加了工作压力和心理负担，感到身体和心理双重疲惫。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2020年，我的母亲生病住院，我每天工作完还要去照顾她，感到非常疲倦和无助。",
+                "location": "医院",
+                "happen_time": "2020年10月-2020年12月",
+                "participants": "母亲、家人",
+                "impact": "负面影响：身体和心理双重疲惫，感到无助和压力巨大。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我发现同事小李在受到严厉批评后辞职了，我感到害怕，担心自己也会在高压下崩溃。",
+                "location": "学校办公室",
+                "happen_time": "2021年3月",
+                "participants": "同事小李",
+                "impact": "负面影响：对自我能力产生怀疑，增加了工作上的压力和焦虑感。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2021年，我的教学成果再次获得表彰，但我却感到越来越难以集中精力，决断困难。",
+                "location": "学校会议室",
+                "happen_time": "2021年12月",
+                "participants": "校长、同事",
+                "impact": "负面影响：虽然获得表彰，但决断困难和压力感增加，感到疲惫。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2022年，我的儿子在学校遇到了一些学习上的困难，我花了大量时间辅导他，感到压力倍增。",
+                "location": "家中",
+                "happen_time": "2022年3月-2022年5月",
+                "participants": "儿子、家人",
+                "impact": "负面影响：增加了家庭责任感和压力，感到身心疲惫。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2022年，我的朋友因为身体原因住院，我经常去探望她，感到对健康的担忧。",
+                "location": "医院",
+                "happen_time": "2022年10月",
+                "participants": "朋友",
+                "impact": "负面影响：增加了对健康的担忧，感到压力和焦虑。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我见到一个学生因为成绩不好被家长责骂，学生情绪低落，我感到心疼，也担心自己的教学效果。",
+                "location": "学校教室",
+                "happen_time": "2023年4月",
+                "participants": "学生、家长",
+                "impact": "负面影响：增强了对教学效果的担忧，增加了工作压力。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年，我的丈夫因为工作调动经常出差，家庭事务几乎都由我一个人承担，感到非常辛苦。",
+                "location": "家中",
+                "happen_time": "2023年7月-2023年12月",
+                "participants": "丈夫、家人",
+                "impact": "负面影响：增加了家庭责任感和压力，感到身心俱疲。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位同事因为长期工作压力大，最终选择辞职，我感到非常震惊和担忧。",
+                "location": "学校办公室",
+                "happen_time": "2023年11月",
+                "participants": "同事",
+                "impact": "负面影响：对自身工作压力感到担忧，增强了焦虑感。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年1月，我在上课时突然感到头晕目眩，不得不请假回家休息，这让我非常担心自己的健康状况。",
+                "location": "学校教室",
+                "happen_time": "2024年1月",
+                "participants": "学生、同事",
+                "impact": "负面影响：增加了对健康的担忧，感到身体和心理双重疲惫。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年3月，我的母亲再次生病住院，我感到非常无助和焦虑。",
+                "location": "医院",
+                "happen_time": "2024年3月",
+                "participants": "母亲、家人",
+                "impact": "负面影响：增加了家庭责任感和压力，感到身心俱疲。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我看到一位学生因为家庭问题而情绪低落，感到非常心疼，也开始反思自己的工作压力和家庭责任。",
+                "location": "学校教室",
+                "happen_time": "2024年4月",
+                "participants": "学生",
+                "impact": "负面影响：增强了对家庭和工作的担忧，增加了心理负担。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年6月，我的丈夫因为工作繁忙，无法陪伴我和孩子，我感到非常失落和孤独。",
+                "location": "家中",
+                "happen_time": "2024年6月",
+                "participants": "丈夫、家人",
+                "impact": "负面影响：增加了孤独感和压力，感到心理负担加重。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年8月，我在准备暑期教学计划时感到非常疲惫和焦虑，无法集中精力，最终不得不停下来休息。",
+                "location": "家中",
+                "happen_time": "2024年8月",
+                "participants": "家人",
+                "impact": "负面影响：增加了对工作的焦虑和压力，感到决断困难和身体疲惫。"
+            }
+        ]
+    }
+}

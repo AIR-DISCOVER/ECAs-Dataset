@@ -1,0 +1,78 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须表现得完美才能被认可。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有能力应对挑战。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我需要他人的认可。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不能达到期望，我就是失败的。",
+                "others": "他人会认为我很差劲。",
+                "world": "世界对我的要求很高，我很难满足。"
+            },
+            "rules": "我必须不断努力，否则我就是不够好的。",
+            "positive_assumption": "如果我努力工作，我就能证明自己。",
+            "negative_assumption": "如果我失败，人们会看不起我。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须在所有事情上表现优秀。",
+                "others": "他人只会认可完美的人。",
+                "world": "世界只接受最优秀的人。"
+            },
+            "rules": "我不允许自己犯错。",
+            "positive_assumption": "如果我表现完美，我会被他人认可。",
+            "negative_assumption": "如果我犯错，人们会对我失望。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我能够克服困难。",
+                "others": "他人可以帮助我，但我有能力解决问题。",
+                "world": "世界充满挑战，但我可以应对。"
+            },
+            "rules": "我应该主动面对并解决问题。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我逃避挑战，我会失去成长的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要他人的认可才能感到自信。",
+                "others": "他人的看法对我非常重要。",
+                "world": "世界上的人都通过他人的认可来定义自己。"
+            },
+            "rules": "我必须努力获得他人的认可。",
+            "positive_assumption": "如果我获得他人的认可，我会感到自信。",
+            "negative_assumption": "如果我没有获得认可，我会感到自卑。"
+        }
+    ]
+}

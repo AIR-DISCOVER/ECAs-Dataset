@@ -1,0 +1,233 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "果断",
+            "自信",
+            "耐心"
+        ],
+        "appearance": [
+            "苗条",
+            "曲线优美",
+            "运动型",
+            "美丽"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "瑜伽",
+                "阅读",
+                "旅行",
+                "烹饪"
+            ],
+            "activity": [
+                "和朋友一起做瑜伽",
+                "周末去公园散步",
+                "尝试新食谱"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "找到一个合适的伴侣，建立稳定的关系",
+            "long_term_goals": "开设自己的瑜伽工作室，帮助更多人通过瑜伽找到内心的平静"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，进行一小时的瑜伽练习。然后准备早餐，8点开始给学生上课。下午时间用于自我提升和准备课程内容。晚上会进行一些轻松的活动，如阅读或看电影。",
+            "weekends": "周末通常会安排一些户外活动，如徒步旅行或去公园散步。有时会和朋友一起尝试新的餐厅或参加社交活动。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母对她的期望很高，从小就被教育要自立自强。",
+            "adolescence": "在学校成绩优异，但因为性格内向，朋友不多。高中时期开始接触瑜伽，发现了自己的兴趣所在。",
+            "youth": "大学期间主修体育教育，毕业后成为一名瑜伽老师。通过不断学习和实践，逐渐在行业内建立了自己的声誉。",
+            "recent_events": "最近因为父母的催婚压力，感到有些烦躁和焦虑，但她依然保持着积极的生活态度和工作状态。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学。大学在上海就读，毕业后留在上海工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "傅丹影的父亲是一位严肃但关心家庭的男人，他对傅丹影的期望很高，希望她能自立自强。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "傅丹影的母亲温柔而细心，但同样对她有很高的期望。母亲在傅丹影的成长过程中给予了很多支持和鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "傅丹影在童年时期有两个好朋友，一个是邻居家的小女孩，另一个是小学同学。她们经常一起玩耍，分享彼此的秘密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "在傅丹影的青春期，父亲对她的学业要求更加严格，虽然关系有些紧张，但父亲的关心从未减少。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲在傅丹影的青春期依然是她的支持者，帮助她度过了许多困惑和挑战。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "傅丹影在高中时期结识了一位志同道合的朋友，两人一起学习，一起参加课外活动，关系非常亲密。"
+                    ]
+                },
+                {
+                    "relationship": "瑜伽老师",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "傅丹影在高中时期开始接触瑜伽，她的瑜伽老师成为了她的导师和朋友，帮助她发现了自己的兴趣所在。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "大学期间，傅丹影与父亲的关系有所缓和，父亲对她的独立和成就感到自豪。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲依然是傅丹影的支持者，时常关心她的生活和学业。"
+                    ]
+                },
+                {
+                    "relationship": "大学同学",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "傅丹影在大学期间结识了几位好朋友，他们一起学习，一起参加各种活动，建立了深厚的友谊。"
+                    ]
+                },
+                {
+                    "relationship": "瑜伽同事",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "傅丹影在成为瑜伽老师后，与几位同事建立了良好的关系，他们互相支持，共同进步。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "最近，傅丹影的父亲开始频繁催婚，这让她感到有些烦躁和压力。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲虽然也在催婚，但她更关心傅丹影的感受，试图在父亲和女儿之间找到平衡。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "傅丹影的两位好朋友一直在她身边支持她，帮助她缓解压力，提供情感上的支持。"
+                    ]
+                },
+                {
+                    "relationship": "学生",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "傅丹影的学生们非常喜欢她，他们的积极反馈和进步让她感到非常满足。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "傅丹影在各个阶段的社会关系中，逐渐从家庭的核心转向了朋友和职业关系。童年时期，她主要依赖父母和少数朋友；青春期，她开始建立更深的友谊，并发现了瑜伽的兴趣；成年后，她的社会关系更加多样化，包括大学同学、瑜伽同事和学生。最近，由于父母的催婚压力，她的家庭关系变得有些紧张，但她依然保持着积极的生活态度，并从朋友和职业中获得支持。"
+    }
+}

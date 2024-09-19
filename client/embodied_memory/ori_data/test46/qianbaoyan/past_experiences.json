@@ -1,0 +1,562 @@
+{
+    "childhood": {
+        "name": "钱保言",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "记得在我四岁的时候，有一次爸爸因为我写的字不够好，把我的作业本撕了。我感到非常难过和羞愧，从那以后，我一直认为自己不够好。",
+                "location": "家里的书桌旁",
+                "happen_time": "1973年3月",
+                "participants": "爸爸",
+                "impact": "这件事强化了我“不够好”的核心信念，并让我感到自己必须掩盖不足，以免被他人鄙视。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在小学一年级的一次作文比赛中，我获得了第三名。虽然妈妈为我感到骄傲，但爸爸认为我应该拿第一名。我感到自己的努力不被认可，开始怀疑自己的价值。",
+                "location": "小学教室",
+                "happen_time": "1975年5月",
+                "participants": "妈妈、爸爸、老师",
+                "impact": "这件事加深了我“不值得被爱”的核心信念，并让我觉得他人的认可决定了我的价值。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里看见妈妈因为家务活累得直不起腰来，而爸爸却在客厅里看电视。妈妈没有抱怨，但我能感觉到她的疲惫。",
+                "location": "家里的客厅",
+                "happen_time": "1976年7月",
+                "participants": "妈妈、爸爸",
+                "impact": "这件事让我觉得世界是冷漠的，对我和我的家人都不关心，强化了“世界是冷漠的，对我不关心”的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "有一次，我用积攒的零花钱给妈妈买了一束花。妈妈非常高兴，抱着我说我是她的好孩子。我感到自己被爱和认可，但这种感觉很短暂，因为后来爸爸又批评了我。",
+                "location": "家里的客厅",
+                "happen_time": "1977年3月",
+                "participants": "妈妈、爸爸",
+                "impact": "这件事让我觉得爱是短暂的，随时可能失去，我必须不断证明自己值得被爱。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的孩子因为考试成绩不好被父母责骂。我感到害怕，担心自己也会因为成绩不好而被父母责骂。",
+                "location": "邻居家门口",
+                "happen_time": "1978年5月",
+                "participants": "邻居家的孩子及其父母",
+                "impact": "这件事让我更加坚定了“我必须永远追求完美”的信念，因为我害怕因为不够好而被责骂和鄙视。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在小学三年级的一次体育课上，我因为跑步速度慢被同学嘲笑。我感到非常羞愧，从那以后我更加努力学习，以弥补自己在运动上的不足。",
+                "location": "小学操场",
+                "happen_time": "1978年9月",
+                "participants": "同学、体育老师",
+                "impact": "这件事强化了“如果我不够好，我就不会被认可”的中间信念，让我更加努力掩盖自己的不足。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校看到一个同学因为帮助老师收拾教室而得到表扬。我开始觉得，如果我也能多做一些，或许也能获得认可。",
+                "location": "学校教室",
+                "happen_time": "1979年4月",
+                "participants": "同学、老师",
+                "impact": "这件事让我更加相信“如果我努力学习和工作，我会被认可”的中间信念，并开始在学业上更加用功。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在小学四年级的一次期末考试中，我因为紧张而发挥失常，成绩不理想。爸爸严厉地批评了我，我感到非常失落和无助。",
+                "location": "家里的餐桌旁",
+                "happen_time": "1980年1月",
+                "participants": "爸爸、妈妈",
+                "impact": "这件事加深了我“我永远达不到父母的期望”的信念，并让我认为别人总是期待我完美无缺。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到妈妈在厨房里偷偷抹眼泪。她平时总是温柔体贴，但那一刻我感到她也有脆弱的一面。",
+                "location": "家里的厨房",
+                "happen_time": "1980年6月",
+                "participants": "妈妈",
+                "impact": "这件事让我意识到即使是最亲近的人也会有脆弱的时候，强化了“我不值得他人的关心和支持”的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在小学五年级的一次班级活动中，我因为表现出色被老师表扬。那一刻，我感到自己有能力面对挑战，并获得了些许自信。",
+                "location": "学校礼堂",
+                "happen_time": "1981年3月",
+                "participants": "老师、同学",
+                "impact": "这件事让我感到自己有能力解决问题，强化了“我有能力面对挑战”的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到爸爸因为工作不顺在家里发火，妈妈默默地承受着。我开始觉得成人世界充满了压力和痛苦。",
+                "location": "家里的客厅",
+                "happen_time": "1981年7月",
+                "participants": "爸爸、妈妈",
+                "impact": "这件事让我更加坚信“世界是动态变化的，但我有足够的能力适应”的中间信念，并感到生活中充满了不确定性。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "钱保言",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在初中第一次班级会议上，班主任在全班同学面前批评我的数学成绩不理想，说我如果再不努力，就会拖全班的后腿。那一刻，我感觉自己像被剥光了衣服一样，羞愧难当。",
+                "location": "初中教室",
+                "happen_time": "1982年9月",
+                "participants": "班主任、全班同学",
+                "impact": "这次事件强化了我对自己不够好、不值得被爱的核心信念，进一步加深了自卑感。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "有一天，我在操场上看见几个同学在讨论最新的漫画书，我想加入他们的对话，但最终没有勇气开口，只能站在一旁默默听着。",
+                "location": "学校操场",
+                "happen_time": "1983年4月",
+                "participants": "几位同学",
+                "impact": "这个事件加强了我认为同学不会长久喜欢我的中间信念，导致我更加退缩，不敢主动与人交往。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "一次在学校的运动会上，我看到班上的一位同学因为在比赛中失误，被老师当众批评，那位同学当场哭了出来。",
+                "location": "学校运动场",
+                "happen_time": "1983年10月",
+                "participants": "同班同学、老师",
+                "impact": "这个事件让我觉得世界对不够好的人非常严苛，进一步巩固了我需要掩盖自己不足的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在一次家长会上，父亲和老师谈话后对我说，老师对我很失望，希望我能更努力。父亲的语气中满是失望和责备。",
+                "location": "学校教室",
+                "happen_time": "1984年3月",
+                "participants": "父亲、班主任",
+                "impact": "这个事件加深了我认为自己永远达不到老师和父亲期望的核心信念，增强了我对追求完美的执念。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在教室里看到一位同学因为成绩优异被老师表扬，全班同学都为他鼓掌。",
+                "location": "学校教室",
+                "happen_time": "1984年11月",
+                "participants": "同班同学、老师",
+                "impact": "这个事件让我觉得只有在被认可时才有价值，进一步强化了我必须追求同学和老师认可的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在一次语文考试中，我因为紧张而忘记了几个重要的知识点，最终考试成绩很差。回家后，我非常沮丧，觉得自己对任何事情都没有价值。",
+                "location": "学校考场",
+                "happen_time": "1985年5月",
+                "participants": "自己",
+                "impact": "这个事件强化了我对自己没有价值的核心信念，导致我更加自卑和缺乏自信。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "一次在晚自习时，我看到一位同学为了追求完美的成绩，努力到深夜，最终在考试中取得了优异的成绩，受到了全班同学和老师的赞扬。",
+                "location": "学校教室",
+                "happen_time": "1985年10月",
+                "participants": "同班同学、老师",
+                "impact": "这个事件让我觉得追求完美是获得认可的唯一途径，进一步加深了我的完美主义倾向。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "高考失利后，我进入了一所普通的职业学校。在校的第一次班会上，老师问我们未来的职业规划，我感到非常迷茫，不知道自己能做什么。",
+                "location": "职业学校教室",
+                "happen_time": "1986年9月",
+                "participants": "职业学校老师、同学",
+                "impact": "这个事件让我觉得自己的存在没有意义，进一步加深了我对未来的迷茫和不自信。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "一次在食堂里，我看到一位同学因为没钱买饭而被嘲笑，他低着头默默离开了食堂。",
+                "location": "职业学校食堂",
+                "happen_time": "1986年11月",
+                "participants": "同班同学",
+                "impact": "这个事件让我觉得世界对没有价值的人非常冷漠，进一步加深了我的自卑感。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在一次职业技能比赛中，我因为紧张而失误，未能取得好成绩。赛后，我感到非常失望，觉得自己永远无法达到别人的期望。",
+                "location": "职业学校技能比赛场地",
+                "happen_time": "1987年3月",
+                "participants": "职业学校老师、同学",
+                "impact": "这个事件强化了我需要别人的认可才能感到有价值的核心信念，进一步加深了我的自卑和焦虑。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "一次在家里，我向母亲倾诉自己在学校的困惑和压力，母亲安慰我说，只要尽力就好，不要太在意别人的评价。",
+                "location": "家中客厅",
+                "happen_time": "1987年5月",
+                "participants": "母亲",
+                "impact": "这个事件让我感受到了家人的支持和温暖，稍微缓解了我的焦虑和自卑感。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在宿舍里听到室友们在讨论他们的未来计划和梦想，我默默地听着，觉得自己与他们格格不入。",
+                "location": "职业学校宿舍",
+                "happen_time": "1987年7月",
+                "participants": "室友",
+                "impact": "这个事件让我觉得自己没有未来和梦想，进一步加深了我对自己存在没有意义的核心信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在毕业前夕，班主任对我说，希望我能找到适合自己的路，不要放弃自己。这番话让我感到一丝温暖和希望。",
+                "location": "职业学校教室",
+                "happen_time": "1987年8月",
+                "participants": "班主任",
+                "impact": "这个事件让我感受到了一些认可和支持，稍微缓解了我的自卑感，但并未完全改变我的核心信念。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "钱保言",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在小公司工作的第一天，我被安排做一些简单的文书工作。领导给了我一大堆文件，让我整理归档。我感到非常紧张，担心自己做不好。领导走过来检查我的工作时，我的手都在发抖。",
+                "location": "南京市某小公司办公楼",
+                "happen_time": "1988年7月",
+                "participants": "钱保言, 领导",
+                "impact": "我觉得自己不够好，总是害怕犯错，担心领导会对我失望。这种紧张感进一步加深了我的自卑心理。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "有一次，我和几个同事一起去吃午饭，他们在讨论周末的计划。我想加入他们的对话，但一直找不到合适的时机。最终，我选择了沉默，默默地吃着自己的饭。",
+                "location": "公司附近的一家餐馆",
+                "happen_time": "1989年10月",
+                "participants": "钱保言, 同事们",
+                "impact": "我的内向和自卑使我难以融入同事们的圈子，进一步强化了我不值得被爱的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "我曾在一次公司会议上，看见一个同事因为做错事被领导严厉批评。那位同事低着头，一言不发，眼神中透露出无助和羞愧。",
+                "location": "公司会议室",
+                "happen_time": "1990年3月",
+                "participants": "钱保言, 领导, 同事",
+                "impact": "看到同事被批评的情景，我更加害怕自己会犯错，觉得世界对不够好的人非常苛刻。这加深了我对失败的恐惧和对他人认可的渴望。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "我和妻子结婚的那天，她看上去非常美丽，充满了幸福和期待。我却感到自己压力很大，担心自己无法成为一个好丈夫，无法达到她的期望。",
+                "location": "南京市某婚礼礼堂",
+                "happen_time": "1992年5月",
+                "participants": "钱保言, 妻子, 家人和朋友",
+                "impact": "结婚本应是人生中的幸福时刻，但我却因为自卑和不自信而感到压力巨大。这进一步强化了我不值得被爱的核心信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "婚后不久，我和妻子发生了一次争吵。她抱怨我总是工作得很晚，忽略了她的感受。我试图解释自己只是想努力工作，获得认可，但她并不理解。",
+                "location": "家中客厅",
+                "happen_time": "1992年10月",
+                "participants": "钱保言, 妻子",
+                "impact": "这次争吵让我感到自己不被理解和不值得被爱，进一步加深了我的自卑感和对完美的追求。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的孩子考上了重点大学，父母非常高兴，整个家都充满了欢笑。我感到非常羡慕，觉得自己从未能给家人带来这样的荣耀。",
+                "location": "邻居家中",
+                "happen_time": "1993年7月",
+                "participants": "钱保言, 邻居, 邻居孩子",
+                "impact": "看到别人的成功和家庭的幸福，我感到自己没有价值，进一步强化了我对自我价值的怀疑。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "一次在公司年度总结会上，我的业绩被认为是中等，没有特别出彩的地方。领导在会上公开表扬了其他业绩突出的同事，而我则默默地坐在角落里。",
+                "location": "公司会议室",
+                "happen_time": "1994年12月",
+                "participants": "钱保言, 领导, 同事们",
+                "impact": "这种被忽视的感觉让我觉得自己不够好，不值得被认可和爱。这进一步强化了我追求完美和认可的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "一次我和妻子去公园散步，她突然提到希望我们能有一个孩子。我感到非常紧张，担心自己无法成为一个好父亲，无法给孩子提供足够的爱和支持。",
+                "location": "南京市某公园",
+                "happen_time": "1996年5月",
+                "participants": "钱保言, 妻子",
+                "impact": "对未来的不确定和自我怀疑让我感到非常焦虑，进一步强化了我不值得被爱的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在公司里听到同事们在背后议论我，说我的工作能力一般，没什么特别的亮点。我假装没听见，但心里非常难过。",
+                "location": "公司茶水间",
+                "happen_time": "1997年3月",
+                "participants": "钱保言, 同事们",
+                "impact": "这次背后的议论让我更加觉得自己不够好，总是担心他人看不起我，进一步加深了我的自卑感。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在一次公司外出培训期间，我认识了一个新同事。她非常热情主动，我们聊得很愉快，但我始终觉得自己配不上她，不敢进一步发展关系。",
+                "location": "南京市某培训中心",
+                "happen_time": "1998年10月",
+                "participants": "钱保言, 新同事",
+                "impact": "这种对自我价值的怀疑让我错过了建立亲密关系的机会，进一步强化了我不值得被爱的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个同事因为工作失误被领导解雇。他在离开公司时，脸上充满了无奈和失落。",
+                "location": "公司大门口",
+                "happen_time": "1999年5月",
+                "participants": "钱保言, 领导, 同事",
+                "impact": "看到同事因为失误被解雇，我感到非常害怕，觉得如果自己不追求完美，也会遭遇同样的命运。这加深了我对完美和认可的追求。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "一次在家中，我和妻子讨论未来的计划。她希望我能换一份更有前途的工作，但我觉得自己没有能力去应对新的挑战，最终我们不欢而散。",
+                "location": "家中客厅",
+                "happen_time": "2000年2月",
+                "participants": "钱保言, 妻子",
+                "impact": "这种对未来的恐惧和不自信让我感到非常沮丧，进一步加深了我对自我价值的怀疑。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的孩子在院子里玩耍，父母在一旁微笑着看着他。我感到非常羡慕，觉得自己没有能力给妻子和未来的孩子带来这样的幸福和快乐。",
+                "location": "邻居家院子",
+                "happen_time": "2001年7月",
+                "participants": "钱保言, 邻居, 邻居孩子",
+                "impact": "这种对幸福家庭的渴望和自我怀疑让我感到非常无助，进一步强化了我对自我价值的怀疑。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "妻子在一次争吵后提出了离婚，我感到非常震惊和无助。她说我一直没有达到她的期望，我们的婚姻已经无法继续下去了。",
+                "location": "家中，卧室",
+                "happen_time": "2002年11月",
+                "participants": "钱保言, 妻子",
+                "impact": "离婚的打击让我感到自己彻底失败了，不值得被爱，进一步强化了我不值得被爱的核心信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "离婚后，我独自搬到了一个小公寓，生活变得非常孤独。周末我会去公园散步，看着其他家庭幸福地在一起，我感到非常孤单和失落。",
+                "location": "南京市某公寓、公园",
+                "happen_time": "2003年-2004年",
+                "participants": "钱保言",
+                "impact": "独自生活的孤独感让我更加感到自己不值得被爱，不值得被认可，进一步加深了我的自卑感和对自我价值的怀疑。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "钱保言",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2004年初，我的老板在办公室里对我大发雷霆，责骂我工作不力，甚至威胁要解雇我。",
+                "location": "办公室",
+                "happen_time": "2004年1月",
+                "participants": "老板",
+                "impact": "这次经历让我感到非常无助和自卑，加剧了我对自己能力的怀疑，强化了'我不够好'的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2005年，我的妻子在家里和我发生争吵，指责我对家庭的责任心不够，最终提出了离婚。",
+                "location": "家中",
+                "happen_time": "2005年3月",
+                "participants": "妻子",
+                "impact": "这次争吵和离婚的决定让我感到非常痛苦和失落，进一步强化了'我不值得被爱'的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2006年，我在钓鱼时与一位朋友聊起了我的工作压力和家庭问题，他告诉我他也曾经历过类似的困难，并鼓励我面对挑战。",
+                "location": "公园",
+                "happen_time": "2006年4月",
+                "participants": "朋友",
+                "impact": "这次谈话让我感到一点安慰，但也让我意识到自己缺乏应对这些挑战的能力，强化了'我没有价值'的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2007年，我在公司里看到一位同事因为工作表现优秀而被老板表扬和奖励。",
+                "happen_time": "2007年6月",
+                "participants": "同事, 老板",
+                "impact": "这让我感到更加自卑和沮丧，认为自己永远无法达成这样的成就，强化了'我不够好'和'我没有价值'的核心信念。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2010年，我的父亲因病去世，这对我来说是一个巨大的打击。",
+                "location": "医院",
+                "happen_time": "2010年8月",
+                "participants": "家人",
+                "impact": "父亲的去世让我感到深深的失落和孤独，进一步强化了'我不值得被爱'和'我没有价值'的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2012年，我在工作中遭遇了一次重大失误，导致公司损失惨重，老板再次责骂我。",
+                "location": "办公室",
+                "happen_time": "2012年5月",
+                "participants": "老板",
+                "impact": "这次失误让我感到羞愧和无助，进一步强化了'我不够好'和'我没有价值'的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2014年，我在公园散步时看到一对夫妻亲密地交谈，这让我想起了自己失败的婚姻。",
+                "happen_time": "2014年9月",
+                "participants": "陌生人",
+                "impact": "这次观察让我感到深深的孤独和失落，强化了'我不值得被爱'的核心信念。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2016年，我在工作中获得了一次小小的认可，但我依然感到这只是暂时的。",
+                "location": "办公室",
+                "happen_time": "2016年11月",
+                "participants": "同事, 老板",
+                "impact": "虽然这次认可让我感到些许满足，但内心深处我依然觉得自己不值得被认可，强化了'我需要别人的认可'的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2018年，我尝试了新的兴趣爱好——书法，但很快因为缺乏信心而放弃。",
+                "location": "家中",
+                "happen_time": "2018年2月",
+                "participants": "自己",
+                "impact": "这次失败让我更加怀疑自己的能力，强化了'我没有价值'的核心信念。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2019年，我在电视新闻中看到一位同龄人的成功故事，这让我感到自己一无是处。",
+                "happen_time": "2019年7月",
+                "participants": "电视新闻",
+                "impact": "这次观察让我感到深深的挫败和嫉妒，进一步强化了'我不够好'和'我没有价值'的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2020年初，我的母亲生病住院，我感到非常担忧和无助。",
+                "location": "医院",
+                "happen_time": "2020年1月",
+                "participants": "母亲, 医生",
+                "impact": "母亲生病让我感到深深的无力感和责任感，强化了'我不值得被爱'的核心信念。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2021年，我的母亲病情加重，我不得不请假照顾她，工作压力和家庭压力让我几乎崩溃。",
+                "location": "家中, 医院",
+                "happen_time": "2021年6月",
+                "participants": "母亲, 医生",
+                "impact": "这段时间的压力让我感到极度的疲惫和无助，进一步强化了'我不值得被爱'和'我没有价值'的核心信念。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2022年，我在公园散步时看到一位老人在和孙子一起玩耍，这让我想起了自己孤独的生活。",
+                "happen_time": "2022年4月",
+                "participants": "陌生人",
+                "impact": "这次观察让我感到深深的孤独和失落，强化了'我不值得被爱'的核心信念。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2023年，我的老板再次因为工作问题责骂我，甚至威胁要解雇我。",
+                "location": "办公室",
+                "happen_time": "2023年8月",
+                "participants": "老板",
+                "impact": "这次责骂让我感到极度的无助和自卑，进一步强化了'我不够好'和'我没有价值'的核心信念。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年1月，我的妻子正式提出离婚，并搬出了我们的家，这让我感到极度的失落和无助。",
+                "location": "家中",
+                "happen_time": "2024年1月",
+                "participants": "妻子",
+                "impact": "妻子的离开让我感到深深的孤独和痛苦，进一步强化了'我不值得被爱'和'我没有价值'的核心信念。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年3月，我在公园散步时遇到了一位老朋友，他鼓励我重新振作，但我依然感到无力。",
+                "location": "公园",
+                "happen_time": "2024年3月",
+                "participants": "朋友",
+                "impact": "虽然朋友的鼓励让我感到一丝温暖，但我依然对自己的未来感到迷茫，进一步强化了'我没有价值'的核心信念。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "2024年5月，我在公司看到一位新同事因为表现出色而被老板表扬和奖励。",
+                "happen_time": "2024年5月",
+                "participants": "同事, 老板",
+                "impact": "这次观察让我感到深深的自卑和挫败，进一步强化了'我不够好'和'我没有价值'的核心信念。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年7月，我的母亲去世，这对我来说是一个巨大的打击。",
+                "location": "医院",
+                "happen_time": "2024年7月",
+                "participants": "家人",
+                "impact": "母亲的去世让我感到深深的失落和孤独，进一步强化了'我不值得被爱'和'我没有价值'的核心信念。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "2024年8月，我在公司里因为一次小失误再次被老板责骂，这让我几乎崩溃。",
+                "location": "办公室",
+                "happen_time": "2024年8月",
+                "participants": "老板",
+                "impact": "这次责骂让我感到极度的无助和自卑，进一步强化了'我不够好'和'我没有价值'的核心信念。"
+            }
+        ]
+    }
+}

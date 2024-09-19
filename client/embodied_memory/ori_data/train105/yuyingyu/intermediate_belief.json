@@ -1,0 +1,362 @@
+{
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须得到认可才能感到自我价值。",
+                "others": "他们的认可对我非常重要。",
+                "world": "世界上的人们都需要被认可和接受。"
+            },
+            "rules": "我必须努力争取他人的认可。",
+            "positive_assumption": "如果我得到认可，我会感到满足和有价值。",
+            "negative_assumption": "如果我得不到认可，我会感到失落和没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须确保家庭和谐。",
+                "others": "他们期望我能处理好家庭事务。",
+                "world": "世界需要有责任感的人来维持家庭的和谐。"
+            },
+            "rules": "我必须始终关注家庭的需求和问题。",
+            "positive_assumption": "如果我关注家庭，我会感到满足和有价值。",
+            "negative_assumption": "如果我忽视家庭，家庭可能会出现问题。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我可能无法做出正确的决策。",
+                "others": "他们可能会质疑我的决策能力。",
+                "world": "这个世界对不自信的人不太友好。"
+            },
+            "rules": "我应该尽量避免做出重要决策。",
+            "positive_assumption": "如果我避免做决策，我就不会犯错。",
+            "negative_assumption": "如果我做出错误的决策，我会受到批评和指责。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断表现出色才能被认可。",
+                "others": "他们只会在我表现出色时才会认可我。",
+                "world": "这个世界上的人们都需要认可和接受。"
+            },
+            "rules": "我必须努力表现，尽可能避免犯错。",
+            "positive_assumption": "如果我表现出色，我会被认可。",
+            "negative_assumption": "如果我表现不佳，我会被忽视或批评。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须承担起家庭的责任。",
+                "others": "他们依赖我来维持家庭的和谐。",
+                "world": "世界需要有责任心的人来维持秩序。"
+            },
+            "rules": "我必须始终对家庭负责。",
+            "positive_assumption": "如果我承担起责任，我会感到有价值。",
+            "negative_assumption": "如果我不承担责任，家庭可能会陷入混乱。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该避免在社交场合表现出不自信。",
+                "others": "他们可能会因为我的不自信而看轻我。",
+                "world": "这个世界对自信的人更友好。"
+            },
+            "rules": "我应尽量在社交场合表现自信。",
+            "positive_assumption": "如果我表现自信，我会被更多人接受。",
+            "negative_assumption": "如果我表现不自信，我会被忽视或看轻。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我可能无法在学业上取得好成绩。",
+                "others": "他们可能会质疑我的学业能力。",
+                "world": "这个世界对学业不佳的人不太友好。"
+            },
+            "rules": "我应该尽量避免在学业上犯错。",
+            "positive_assumption": "如果我避免犯错，我就不会被批评。",
+            "negative_assumption": "如果我在学业上犯错，我会受到批评和指责。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该表现得友善和有礼貌。",
+                "others": "他们会因为我的友善而接受我。",
+                "world": "友善的人更容易被接受和认可。"
+            },
+            "rules": "我必须始终友善待人。",
+            "positive_assumption": "如果我友善待人，我会被大家喜欢。",
+            "negative_assumption": "如果我不友善，别人可能会不喜欢我。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要在学业上表现出色。",
+                "others": "他们只会在我表现出色时才会认可我。",
+                "world": "这个世界上的人们都需要认可和接受。"
+            },
+            "rules": "我必须努力学习，取得好成绩。",
+            "positive_assumption": "如果我成绩优秀，我会被认可。",
+            "negative_assumption": "如果我成绩不好，我会被忽视或批评。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该承担起家庭的部分责任。",
+                "others": "他们期望我在家中有所担当。",
+                "world": "家庭需要责任感强的人来维持和谐。"
+            },
+            "rules": "我必须帮助家人解决问题。",
+            "positive_assumption": "如果我承担责任，家庭会更和谐。",
+            "negative_assumption": "如果我不承担责任，家庭可能会出现矛盾。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该尽力帮助我的朋友。",
+                "others": "他们依赖我来获得支持和帮助。",
+                "world": "世界需要有责任感的人来帮助他人。"
+            },
+            "rules": "我必须在朋友需要时提供帮助。",
+            "positive_assumption": "如果我帮助朋友，我会感到有价值。",
+            "negative_assumption": "如果我不帮助朋友，他们可能会疏远我。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我可能无法达到父母和老师的期望。",
+                "others": "他们可能会质疑我的能力。",
+                "world": "这个世界对不自信的人不太友好。"
+            },
+            "rules": "我应该尽量避免让父母和老师失望。",
+            "positive_assumption": "如果我努力满足期望，我就不会被批评。",
+            "negative_assumption": "如果我无法达到期望，我会被批评和指责。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要通过努力获得认可。",
+                "others": "他们只会在我表现出色时才会认可我。",
+                "world": "这个世界上的人们都需要认可和接受。"
+            },
+            "rules": "我必须努力表现，尽可能避免犯错。",
+            "positive_assumption": "如果我表现出色，我会被认可。",
+            "negative_assumption": "如果我表现不佳，我会被忽视或批评。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在朋友中表现出色。",
+                "others": "他们会因为我的成绩和表现来评价我。",
+                "world": "朋友之间需要通过表现来维持关系。"
+            },
+            "rules": "我应该在朋友中表现得积极和有责任感。",
+            "positive_assumption": "如果我在朋友中表现出色，我会被尊重和认可。",
+            "negative_assumption": "如果我表现不佳，我会被朋友们忽视或批评。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须尽力满足父母和老师的期望。",
+                "others": "他们期待我能有更好的成绩。",
+                "world": "世界需要有责任心的人来实现期望。"
+            },
+            "rules": "我应该努力学习，尽可能提高成绩。",
+            "positive_assumption": "如果我努力学习，我会得到肯定。",
+            "negative_assumption": "如果我不努力，我会让父母和老师失望。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须得到认可才能感到自我价值。",
+                "others": "父母和老师的认可对我非常重要。",
+                "world": "世界上的人们都需要被认可和接受。"
+            },
+            "rules": "我必须努力争取父母和老师的认可。",
+            "positive_assumption": "如果我得到认可，我会感到满足和有价值。",
+            "negative_assumption": "如果我得不到认可，我会感到失落和没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须确保家庭和谐。",
+                "others": "父母期望我能处理好自己的事情，不给他们添麻烦。",
+                "world": "世界需要有责任感的人来维持家庭的和谐。"
+            },
+            "rules": "我必须始终关注家庭的需求和问题。",
+            "positive_assumption": "如果我关注家庭，我会感到满足和有价值。",
+            "negative_assumption": "如果我忽视家庭，家庭可能会出现问题。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我可能无法在学业上取得成功。",
+                "others": "他们可能会质疑我的能力。",
+                "world": "这个世界对不自信的人不太友好。"
+            },
+            "rules": "我应该尽量避免做出需要承担责任的决定。",
+            "positive_assumption": "如果我避免做出决定，我就不会犯错。",
+            "negative_assumption": "如果我做出错误的决定，我会受到批评和指责。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要努力以赢得父母和老师的认可。",
+                "others": "他们只会在我取得好成绩时才认可我。",
+                "world": "这个世界上的人们都需要通过努力获得认可和接受。"
+            },
+            "rules": "我必须努力取得好成绩，避免犯错。",
+            "positive_assumption": "如果我取得好成绩，我会被父母和老师认可。",
+            "negative_assumption": "如果我成绩不好，我会被忽视或批评。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在学业上表现出色以履行对父母的责任。",
+                "others": "父母期望我在学业上取得好成绩。",
+                "world": "世界期待每个人都尽其所能，尤其是在学业上。"
+            },
+            "rules": "我必须全力以赴，不能辜负父母的期望。",
+            "positive_assumption": "如果我在学业上表现出色，我会感到自豪和被认可。",
+            "negative_assumption": "如果我在学业上表现不佳，我会让父母失望。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

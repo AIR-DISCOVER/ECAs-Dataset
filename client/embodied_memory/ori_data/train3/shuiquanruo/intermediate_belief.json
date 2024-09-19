@@ -1,0 +1,272 @@
+{
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "尽管有困难，我有能力解决问题。",
+                "others": "他人可以提供帮助，但最终需要我自己解决问题。",
+                "world": "世界充满挑战，但我有能力应对这些挑战。"
+            },
+            "rules": "我应该主动面对困难，寻找解决办法。",
+            "positive_assumption": "如果我面对困难，我将变得更强大和有经验。",
+            "negative_assumption": "如果我逃避困难，我将失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "通过努力，我能取得成功。",
+                "others": "他人也通过努力取得成功，我可以向他们学习。",
+                "world": "世界提供了机会，只要努力就能抓住。"
+            },
+            "rules": "我应该全力以赴，抓住每一个学习和成长的机会。",
+            "positive_assumption": "如果我努力，我就会取得成功和进步。",
+            "negative_assumption": "如果我不努力，我将错失机会和成就。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法应对压力，压力会让我崩溃。",
+                "others": "他人可能不知道我有多么难以应对压力。",
+                "world": "世界充满了无法应对的压力和挑战。"
+            },
+            "rules": "我应该避免面对压力，保护自己不被压垮。",
+            "positive_assumption": "如果我避免压力，我就能保持稳定。",
+            "negative_assumption": "如果我面对压力，我将崩溃和失败。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我要完美才能被他人认可。",
+                "others": "他人只会认可那些完美的人。",
+                "world": "世界对不完美的人不宽容。"
+            },
+            "rules": "我必须做到完美，不能有任何失误。",
+            "positive_assumption": "如果我做到完美，我就能得到认可和尊重。",
+            "negative_assumption": "如果我不完美，我将被批评和拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不够好，我就不会被认可。",
+                "others": "他人只有在我足够优秀时才会接受我。",
+                "world": "这个世界对不够好的人是苛刻的。"
+            },
+            "rules": "我应该不断提高自己，避免显露不足。",
+            "positive_assumption": "如果我不断提高自己，我就能被认可。",
+            "negative_assumption": "如果我不够好，我就会被忽视和排斥。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "尽管有困难，我有能力解决问题。",
+                "others": "他人可以提供帮助，但最终需要我自己解决问题。",
+                "world": "世界充满挑战，但我有能力应对这些挑战。"
+            },
+            "rules": "我应该主动面对困难，寻找解决办法。",
+            "positive_assumption": "如果我面对困难，我将变得更强大和有经验。",
+            "negative_assumption": "如果我逃避困难，我将失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "通过努力，我能取得成功。",
+                "others": "他人也通过努力取得成功，我可以向他们学习。",
+                "world": "世界提供了机会，只要努力就能抓住。"
+            },
+            "rules": "我应该全力以赴，抓住每一个学习和成长的机会。",
+            "positive_assumption": "如果我努力，我就会取得成功和进步。",
+            "negative_assumption": "如果我不努力，我将错失机会和成就。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法应对压力，压力会让我崩溃。",
+                "others": "他人可能不知道我有多么难以应对压力。",
+                "world": "世界充满了无法应对的压力和挑战。"
+            },
+            "rules": "我应该避免面对压力，保护自己不被压垮。",
+            "positive_assumption": "如果我避免压力，我就能保持稳定。",
+            "negative_assumption": "如果我面对压力，我将崩溃和失败。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我要完美才能被他人认可。",
+                "others": "他人只会认可那些完美的人。",
+                "world": "世界对不完美的人不宽容。"
+            },
+            "rules": "我必须做到完美，不能有任何失误。",
+            "positive_assumption": "如果我做到完美，我就能得到认可和尊重。",
+            "negative_assumption": "如果我不完美，我将被批评和拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不够好，我就不会被认可。",
+                "others": "他人只有在我足够优秀时才会接受我。",
+                "world": "这个世界对不够好的人是苛刻的。"
+            },
+            "rules": "我应该不断提高自己，避免显露不足。",
+            "positive_assumption": "如果我不断提高自己，我就能被认可。",
+            "negative_assumption": "如果我不够好，我就会被忽视和排斥。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "尽管有困难，我有能力解决问题。",
+                "others": "他人可以提供帮助，但最终需要我自己解决问题。",
+                "world": "世界充满挑战，但我有能力应对这些挑战。"
+            },
+            "rules": "我应该主动面对困难，寻找解决办法。",
+            "positive_assumption": "如果我面对困难，我将变得更强大和有经验。",
+            "negative_assumption": "如果我逃避困难，我将失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "通过努力，我能取得成功。",
+                "others": "他人也通过努力取得成功，我可以向他们学习。",
+                "world": "世界提供了机会，只要努力就能抓住。"
+            },
+            "rules": "我应该全力以赴，抓住每一个学习和成长的机会。",
+            "positive_assumption": "如果我努力，我就会取得成功和进步。",
+            "negative_assumption": "如果我不努力，我将错失机会和成就。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法应对压力，压力会让我崩溃。",
+                "others": "他人可能不知道我有多么难以应对压力。",
+                "world": "世界充满了无法应对的压力和挑战。"
+            },
+            "rules": "我应该避免面对压力，保护自己不被压垮。",
+            "positive_assumption": "如果我避免压力，我就能保持稳定。",
+            "negative_assumption": "如果我面对压力，我将崩溃和失败。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我要完美才能被他人认可。",
+                "others": "他人只会认可那些完美的人。",
+                "world": "世界对不完美的人不宽容。"
+            },
+            "rules": "我必须做到完美，不能有任何失误。",
+            "positive_assumption": "如果我做到完美，我就能得到认可和尊重。",
+            "negative_assumption": "如果我不完美，我将被批评和拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不够好，我就不会被认可。",
+                "others": "他人只有在我足够优秀时才会接受我。",
+                "world": "这个世界对不够好的人是苛刻的。"
+            },
+            "rules": "我应该不断提高自己，避免显露不足。",
+            "positive_assumption": "如果我不断提高自己，我就能被认可。",
+            "negative_assumption": "如果我不够好，我就会被忽视和排斥。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

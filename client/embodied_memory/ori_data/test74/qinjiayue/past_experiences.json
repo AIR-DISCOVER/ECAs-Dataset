@@ -1,0 +1,482 @@
+{
+    "childhood": {
+        "name": "秦嘉悦",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我上小学一年级的时候，有一次数学考试没有考好，回家后父亲很严肃地对我说：'嘉悦，你这样成绩怎么行？你必须更加努力才行。'当时我感到很难过和压力很大。",
+                "location": "家里",
+                "happen_time": "2004年10月",
+                "participants": "父亲",
+                "impact": "这次事件强化了我的核心信念‘我不够好’和中间信念‘我总是无法达到父母的期望’。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，我参加了学校的朗诵比赛，获得了第三名。母亲温柔地对我说：'嘉悦，你很棒，妈妈为你感到骄傲。'我当时感到很开心和受到鼓励。",
+                "location": "学校礼堂",
+                "happen_time": "2006年5月",
+                "participants": "母亲",
+                "impact": "这次事件强化了我的核心信念‘我值得被关心和支持’和中间信念‘父母和朋友愿意帮助和支持我’。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "小学四年级期末考试前，我每天都复习到很晚，生怕考不好。母亲看见我这样，心疼地对我说：'嘉悦，不要给自己太大压力，尽力就好。'但我仍然觉得必须考好。",
+                "location": "家里",
+                "happen_time": "2007年6月",
+                "participants": "母亲",
+                "impact": "这次事件强化了我的核心信念‘我必须完美’和中间信念‘我应该始终追求完美，不能犯错’。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，有一次在家里做数学作业时遇到难题，父亲过来帮我讲解了很久。我当时觉得很感动，觉得父亲是关心我的。",
+                "location": "家里",
+                "happen_time": "2008年11月",
+                "participants": "父亲",
+                "impact": "这次事件强化了我的核心信念‘我值得被关心和支持’和中间信念‘父母和朋友愿意帮助和支持我’。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我参加了学校的合唱队，但在一次比赛中因为紧张唱错了歌词。回家后父亲对我说：'嘉悦，你怎么能犯这种错误呢？'我当时感到非常沮丧和自责。",
+                "location": "家里",
+                "happen_time": "2009年3月",
+                "participants": "父亲",
+                "impact": "这次事件强化了我的核心信念‘我必须完美’和中间信念‘我不能犯错’。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "小学六年级毕业典礼上，我作为班级代表发言，获得了老师和同学们的赞赏。父母也在台下为我鼓掌。我感到非常自豪和被认可。",
+                "location": "学校礼堂",
+                "happen_time": "2010年6月",
+                "participants": "父母、老师和同学",
+                "impact": "这次事件强化了我的核心信念‘我有能力克服困难’和中间信念‘如果我积极面对困难，我会变得更强大’。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里看到父亲因为工作上的事情跟母亲争吵，母亲哭了。我当时很害怕，觉得如果不努力，自己也会像父亲一样遇到很多问题。",
+                "location": "家里",
+                "happen_time": "2003年11月",
+                "participants": "父亲、母亲",
+                "impact": "这次事件强化了我的核心信念‘我不够好’和中间信念‘这个世界对不完美的小孩很苛刻’。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次在学校，我看到一个同学在上课时被老师当众批评，当时那个同学很难过。我觉得如果我不努力，也会遭遇同样的境遇。",
+                "location": "学校教室",
+                "happen_time": "2005年3月",
+                "participants": "老师、同学",
+                "impact": "这次事件强化了我的核心信念‘我必须完美’和中间信念‘他人只会关注我的缺点’。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的孩子因为成绩不好被父母责骂，当时那个孩子哭得很伤心。我感到很害怕，担心自己也会遭遇同样的事情。",
+                "location": "邻居家",
+                "happen_time": "2006年8月",
+                "participants": "邻居家孩子、邻居父母",
+                "impact": "这次事件强化了我的核心信念‘我不够好’和中间信念‘如果我不够好，我会被父母责备和忽视’。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到母亲在电话里和她的朋友聊天，说到我取得的好成绩时，语气里充满了自豪。我当时感到很高兴，觉得自己是值得被认可的。",
+                "location": "家里",
+                "happen_time": "2007年5月",
+                "participants": "母亲、母亲的朋友",
+                "impact": "这次事件强化了我的核心信念‘我值得被关心和支持’和中间信念‘如果我表现好，我会被尊敬和爱戴’。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校看到一个同学因为在比赛中表现出色，获得了老师和同学们的表扬。我觉得如果我也能表现完美，就会得到大家的喜欢。",
+                "location": "学校操场",
+                "happen_time": "2008年4月",
+                "participants": "老师、同学",
+                "impact": "这次事件强化了我的核心信念‘我必须完美’和中间信念‘如果我表现完美，我会被尊敬和爱戴’。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里看到母亲因为我取得好成绩而开心地笑，我觉得我的努力是值得的。",
+                "location": "家里",
+                "happen_time": "2008年7月",
+                "participants": "母亲",
+                "impact": "这次事件强化了我的核心信念‘我值得被关心和支持’和中间信念‘如果我努力变得更好，我会被父母认可’。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父亲因为工作上的成就被领导表扬，回家后心情很好。我觉得如果我也能表现出色，就会得到别人的认可。",
+                "location": "家里",
+                "happen_time": "2009年1月",
+                "participants": "父亲",
+                "impact": "这次事件强化了我的核心信念‘我有能力克服困难’和中间信念‘如果我积极面对困难，我会变得更强大’。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校被同学欺负，回家后告诉了母亲，母亲安慰我，并告诉我应该勇敢面对。我当时感到很温暖和被支持。",
+                "location": "家里",
+                "happen_time": "2009年12月",
+                "participants": "母亲",
+                "impact": "这次事件强化了我的核心信念‘我值得被关心和支持’和中间信念‘我可以寻求父母和朋友的帮助和支持’。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "有一次，我在家里做作业时，遇到了一道很难的题目，父亲过来帮我解答，并告诉我不要放弃，要相信自己。我当时感到很受鼓舞。",
+                "location": "家里",
+                "happen_time": "2010年5月",
+                "participants": "父亲",
+                "impact": "这次事件强化了我的核心信念‘我有能力克服困难’和中间信念‘当面对困难时，我应该主动应对，不逃避’。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "秦嘉悦",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中升高中考试前夕，我感到极度紧张和不安。那晚我在家里复习，妈妈走进房间给我送了一杯热牛奶。她轻声对我说：'嘉悦，不管结果如何，妈妈都为你感到骄傲。'我眼泪忍不住流下来，紧张情绪稍微缓解了一些。",
+                "location": "家中的书房",
+                "happen_time": "2011年6月",
+                "participants": "妈妈",
+                "impact": "这次经历让我感受到家庭的支持，但也强化了内心对完美表现的追求和对失败的恐惧。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在高中期中考试成绩公布后，我拿到全班第二名。虽然成绩不错，但我仍感到不满足。老师在班会上表扬了我，但我总觉得同学们在背后议论我，觉得我不够好。",
+                "location": "学校教室",
+                "happen_time": "2012年11月",
+                "participants": "老师、同学",
+                "impact": "这次经历加深了我对自己成绩不够好的信念，进一步强化了我必须完美的中间信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "高二那年，我在一次模拟考试中失利，心情非常低落。放学后，我坐在操场的长椅上，导师走过来坐在我旁边，拍拍我的肩说：'嘉悦，失败是成功之母，不要被一次挫折打败。'当时我忍不住哭了出来，但他的鼓励给了我重新振作的力量。",
+                "location": "学校操场",
+                "happen_time": "2014年4月",
+                "participants": "导师",
+                "impact": "这次经历让我意识到自己有能力克服困难，增强了对未来的信心。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "有一次在学校图书馆，我看到一位同学因为成绩不佳而被父母责骂。那位同学哭得很厉害，周围的同学们纷纷安慰她。这一幕让我想起自己的经历，内心感到共鸣和安慰。",
+                "location": "学校图书馆",
+                "happen_time": "2013年5月",
+                "participants": "同学、同学的父母",
+                "impact": "这次观察让我意识到自己并不是孤单的，增强了我对他人关心和支持的认同感。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在高三的毕业典礼上，我作为优秀学生代表上台发言。看到台下的老师和同学们，我感到无比激动和自豪。这一刻，我觉得自己的努力得到了认可。",
+                "location": "学校礼堂",
+                "happen_time": "2016年6月",
+                "participants": "老师、同学",
+                "impact": "这个事件增强了我对自己价值的认同感，但也进一步强化了我对完美表现的追求。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在参加医学院的入学考试前，我感到极度的紧张和焦虑。考试当天，爸爸送我去考场，他对我说：'嘉悦，不管结果如何，爸爸都相信你是最棒的。'这句话让我感到了一丝安心。",
+                "location": "考试考场外",
+                "happen_time": "2016年8月",
+                "participants": "爸爸",
+                "impact": "这次经历让我感受到家人的支持，同时也让我更坚定了追求完美和不辜负期望的信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "一次在家中，听到父母因为我学习的事情争吵。妈妈觉得我已经很努力了，不需要再给我更多压力，而爸爸则认为我可以做得更好。那天我在房间里默默流泪，不知道该怎么面对这种局面。",
+                "location": "家中的客厅",
+                "happen_time": "2012年12月",
+                "participants": "爸爸、妈妈",
+                "impact": "这次观察让我感到内心的矛盾和压力，既想要满足父母的期望，又希望得到更多的理解和宽容。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在医学院第一次实习时，我因为操作不熟练被指导老师批评，感到非常沮丧和自责。回到宿舍，我忍不住哭了，觉得自己不够好，不配成为一名护士。",
+                "location": "医学院的实习科室",
+                "happen_time": "2016年11月",
+                "participants": "指导老师",
+                "impact": "这次经历强化了我对自己不够好的核心信念，但同时也激励我更加努力学习和提升自己。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "高二时，我参加了一次志愿者活动，为孤儿院的孩子们讲故事。看到孩子们开心的笑脸，我感到无比满足和幸福，觉得自己的付出是有意义的。",
+                "location": "孤儿院",
+                "happen_time": "2014年10月",
+                "participants": "孤儿院的孩子们",
+                "impact": "这次经历增强了我对自己价值的认同感，也让我更加坚定了未来要成为一名护士，帮助更多人的信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一位同学因为考试成绩不理想而被老师批评。那位同学情绪低落，甚至考虑退学。我心里很不是滋味，觉得他应该得到更多的鼓励和支持。",
+                "location": "学校教室",
+                "happen_time": "2013年3月",
+                "participants": "同学、老师",
+                "impact": "这次观察让我更加重视关心和支持他人的重要性，同时也加深了我对自己核心信念的反思。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在医学院的一次模拟考试中，我被评为最佳表现学生。导师在课堂上公开表扬了我，我感到无比自豪和满足。",
+                "location": "医学院教室",
+                "happen_time": "2015年12月",
+                "participants": "导师、同学",
+                "impact": "这次经历增强了我对自己能力的信心，但也进一步强化了我追求完美的信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "在一次校园活动中，我目睹一位同学因为帮助他人而被大家称赞。这让我意识到，帮助他人不仅能带来满足感，还能赢得他人的尊重和认可。",
+                "location": "学校操场",
+                "happen_time": "2014年5月",
+                "participants": "同学",
+                "impact": "这次观察让我更加坚定了帮助他人和寻求他人帮助的重要性，增强了我对世界充满关爱的信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "高三时，我的好朋友因为家庭变故情绪低落，我每天陪伴她、开导她。她后来告诉我，我是她的精神支柱，这让我感到自己的存在很有意义。",
+                "location": "朋友家中",
+                "happen_time": "2015年8月",
+                "participants": "好朋友",
+                "impact": "这次经历让我意识到自己在他人生活中的重要性，增强了我对自己价值的认同感。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "高三毕业前夕，我和几位好友一起去旅行。在旅途中，我们分享了许多心事和未来的梦想，这段美好的时光让我感到无比幸福和充实。",
+                "location": "旅行目的地",
+                "happen_time": "2016年5月",
+                "participants": "好友",
+                "impact": "这次经历让我更加珍惜友谊和人与人之间的情感联系，同时也让我对未来充满了希望和期待。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "在一次班会上，班主任分享了一位往届学长的故事。他曾经成绩平平，但通过不懈努力最终考上了名校。这个故事深深触动了我，让我明白了努力和坚持的重要性。",
+                "location": "学校教室",
+                "happen_time": "2015年3月",
+                "participants": "班主任、同学",
+                "impact": "这次观察让我更加坚信通过努力可以克服困难，激励我在学业上不断追求进步。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "秦嘉悦",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在医院值夜班时，因一个紧急手术需要，她被叫去帮忙。手术过程中，因她的一个小失误导致手术延误。手术结束后，她被上级医生严厉批评，感到非常内疚和自责。",
+                "location": "南京医院",
+                "happen_time": "2024年1月",
+                "participants": "上级医生, 手术团队",
+                "impact": "这次事件加剧了秦嘉悦的自我怀疑和对完美的追求，让她更加感到自己不够好，增加了工作压力和情绪低落。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "秦嘉悦在家里与丈夫争吵，因为她一直在工作上花费大量时间，忽略了家庭生活。丈夫埋怨她不关心家庭，令她感到孤立和不被理解。",
+                "location": "家中",
+                "happen_time": "2024年2月",
+                "participants": "丈夫",
+                "impact": "这次争吵让秦嘉悦感到孤立无助，增加了她对人际关系的逃避倾向，并加重了她的情绪低落。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "她的同事因工作表现优秀被医院表扬，并获得晋升机会。秦嘉悦看到同事的成功，感到自己与他人的差距，内心充满了嫉妒和自卑。",
+                "happen_time": "2024年3月",
+                "participants": "同事",
+                "impact": "这次观察让秦嘉悦更加觉得自己不够好，加重了她对自己能力的怀疑和对完美的追求。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "秦嘉悦在周末时与家人一起散步，虽然表面上看起来很享受，但内心却不断想着工作上的问题，无法真正放松。",
+                "location": "公园",
+                "happen_time": "2024年4月",
+                "participants": "家人",
+                "impact": "这次经历让秦嘉悦意识到自己已经不能从平常的活动中获得快乐，进一步加重了她的情绪低落和焦虑感。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "她的丈夫因工作表现优异被公司嘉奖，回家后与她分享这个好消息。秦嘉悦表面上为丈夫感到高兴，但心里却感到更加自卑和无力。",
+                "happen_time": "2024年5月",
+                "participants": "丈夫",
+                "impact": "这次事件让秦嘉悦感到自己在家庭和工作中的角色都显得无足轻重，进一步加深了她的自我怀疑和情绪低落。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会中，亲戚们提到她还没有孩子的事情，让她感到压力很大，觉得自己无法满足家庭的期望。",
+                "location": "家庭聚会",
+                "happen_time": "2024年6月",
+                "participants": "亲戚",
+                "impact": "这次经历让秦嘉悦感到自己在家庭中的角色不够完美，加重了她的自我怀疑和情绪低落。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "她的一位同事因过度疲劳而在工作中晕倒，这让秦嘉悦感到自己的工作环境非常压力大，并对自己的健康感到担忧。",
+                "happen_time": "2024年7月",
+                "participants": "同事",
+                "impact": "这次观察让秦嘉悦更加意识到自己的工作压力和健康问题，进一步加重了她的焦虑和抑郁感。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "因为工作上的失误，她的上级医生再次对她进行了严厉批评，这次她感到非常绝望，甚至有了离职的念头。",
+                "location": "南京医院",
+                "happen_time": "2024年8月",
+                "participants": "上级医生",
+                "impact": "这次事件让秦嘉悦感到自己在工作中完全无法胜任，加重了她的自我怀疑和情绪低落，甚至产生了离职的念头。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在2023年年底，因为医院的年度总结，秦嘉悦发现自己在这一年的表现并不突出，感到非常失落和焦虑。",
+                "location": "南京医院",
+                "happen_time": "2023年12月",
+                "participants": "医院同事",
+                "impact": "这次事件让她感到自己在工作中并没有达到预期，加重了她的自我怀疑和情绪低落。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次工作中，她帮助了一位重病患者，患者家属对她表示了深深的感谢，这让她感到了一些安慰和成就感。",
+                "location": "南京医院",
+                "happen_time": "2024年3月",
+                "participants": "患者及其家属",
+                "impact": "尽管工作压力大，这次事件让她感到自己还是可以通过努力获得认可，稍微缓解了一些自我怀疑的情绪。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "她的朋友因婚姻问题而情绪低落，向她倾诉，秦嘉悦在倾听时感受到朋友的痛苦，也反思了自己的婚姻。",
+                "happen_time": "2024年4月",
+                "participants": "朋友",
+                "impact": "这次事件让秦嘉悦思考自己的婚姻状况，感到某种程度的共鸣和压力，进一步加重了她的情绪低落。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会中，她的父母关心她的工作和生活状况，并提出一些建议，但这些建议让她感到压力倍增。",
+                "location": "家庭聚会",
+                "happen_time": "2023年11月",
+                "participants": "父母",
+                "impact": "父母的关心和建议让她感到自己有很多需要改进的地方，增加了她的压力和情绪低落。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "她的同事因工作压力过大而辞职，这让秦嘉悦感到医院的工作环境问题严重，开始怀疑自己是否能够长期坚持。",
+                "happen_time": "2024年5月",
+                "participants": "同事",
+                "impact": "这次事件让秦嘉悦对自己的职业前景产生了怀疑，增加了她的焦虑和不安。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次追剧的过程中，她发现剧中角色的生活问题与自己的处境相似，感到一种深深的共鸣和悲伤。",
+                "location": "家中",
+                "happen_time": "2024年6月",
+                "participants": "无",
+                "impact": "这次经历让她感到自己的生活问题被放大，加重了她的情绪低落和自我怀疑。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "她在医院看到一位老年患者因得不到家人的关心而情绪低落，这让她反思自己对家庭的忽略。",
+                "happen_time": "2024年7月",
+                "participants": "老年患者",
+                "impact": "这次观察让她感到自己在家庭中的角色需要改进，增加了她的内疚感和情绪低落。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次医院的紧急演练中，秦嘉悦表现出色，获得了上级的肯定，但她却感到这是自己应尽的责任，并没有太多自豪感。",
+                "location": "南京医院",
+                "happen_time": "2024年6月",
+                "participants": "上级医生, 同事",
+                "impact": "这次事件让她感到自己对工作的高标准进一步加重了对自我的压力，虽然获得肯定，但并未感到轻松。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "她的一位同事因家庭矛盾而精神崩溃，这让她感到工作之外的家庭生活同样重要。",
+                "happen_time": "2024年5月",
+                "participants": "同事",
+                "impact": "这次事件让她意识到家庭生活的重要性，但也让她感到无所适从，增加了她的焦虑感。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次阅读过程中，她读到一篇关于工作压力和心理健康的文章，文章中的内容让她感到非常有共鸣，开始反思自己的生活方式。",
+                "location": "家中",
+                "happen_time": "2024年4月",
+                "participants": "无",
+                "impact": "这次阅读经历让她意识到自己需要在生活和工作之间找到平衡，但也感到无从下手，增加了她的焦虑感。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "她看到一位同事被上级表扬，感到自己与他人的差距，内心充满了嫉妒和自卑。",
+                "happen_time": "2024年3月",
+                "participants": "同事, 上级医生",
+                "impact": "这次观察让她更加觉得自己不够好，加重了她对自己能力的怀疑和对完美的追求。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次烹饪过程中，她发现自己无法集中注意力，做出的菜品也不如以往美味，这让她感到非常沮丧。",
+                "location": "家中",
+                "happen_time": "2024年8月",
+                "participants": "无",
+                "impact": "这次经历让她意识到自己的情绪已经影响到了日常生活，进一步加重了她的情绪低落和自我怀疑。"
+            }
+        ]
+    }
+}

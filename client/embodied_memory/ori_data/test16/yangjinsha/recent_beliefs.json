@@ -1,0 +1,78 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我在工作上不再有价值。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我的记忆力正在逐渐衰退。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我对生活的乐趣正在流失。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我值得被家人和朋友爱戴。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不能有效工作，我就是失败的。",
+                "others": "同事们可能会认为我已经不再胜任这份工作。",
+                "world": "在现代社会中，不胜任工作的人会被淘汰。"
+            },
+            "rules": "我必须尽全力保持高水平的工作能力。",
+            "positive_assumption": "如果我继续努力工作，我将证明我的价值。",
+            "negative_assumption": "如果我表现不佳，我会失去同事和学生的尊重。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的记忆力下降意味着我正在变得无能。",
+                "others": "家人和同事会注意到我的记忆力问题，并对我失去信心。",
+                "world": "记忆力衰退是不可避免的老化过程。"
+            },
+            "rules": "我必须找到方法来保持我的记忆力。",
+            "positive_assumption": "如果我能采取措施改善记忆力，我就能继续有效工作。",
+            "negative_assumption": "如果我不能改善记忆力，我会变得越来越无能。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "失去对摄影的兴趣是我生活质量下降的标志。",
+                "others": "他们可能会觉得我变得无趣和消极。",
+                "world": "一个没有兴趣和爱好的人会失去生活的活力。"
+            },
+            "rules": "我应该努力寻找新的兴趣点，重新点燃对摄影的热情。",
+            "positive_assumption": "如果我能恢复对摄影的兴趣，我的生活将再次充满乐趣。",
+            "negative_assumption": "如果我不能恢复兴趣，我的生活将变得单调乏味。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力提供爱和支持，这让我值得被爱。",
+                "others": "家人和朋友会因为我的关心和付出而爱我。",
+                "world": "关爱他人是获得爱和尊重的基础。"
+            },
+            "rules": "我应该继续关心和爱护我的家人和朋友。",
+            "positive_assumption": "如果我继续关心他人，我的关系会更加紧密。",
+            "negative_assumption": "如果我不关心他人，我可能会失去他们的爱和尊重。"
+        }
+    ]
+}

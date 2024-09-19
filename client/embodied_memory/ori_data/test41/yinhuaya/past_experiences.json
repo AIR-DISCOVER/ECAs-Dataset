@@ -1,0 +1,425 @@
+{
+    "childhood": {
+        "name": "殷华亚",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我上幼儿园的第一天，妈妈带我去学校。她握着我的小手，一直和我说不要害怕，老师和小朋友都很友善。可是当她离开时，我看着她的背影，感到非常不安和孤独。我哭了很久，老师和其他小朋友试图安慰我，但我还是无法停止哭泣。",
+                "location": "幼儿园",
+                "happen_time": "2007年9月",
+                "participants": "妈妈、幼儿园老师、小朋友",
+                "impact": "这件事强化了我对母亲的依赖，也增加了我对新环境的恐惧，形成了‘我需要别人的支持才能成功’的中间信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学一年级的期末考试，我的成绩不如预期。回到家后，爸爸虽然没有责骂我，但他神情严肃地告诉我，‘考试成绩很重要，要努力学习才能有好前途。’我感到很失望和愧疚，认为自己不够好。",
+                "location": "家里",
+                "happen_time": "2010年1月",
+                "participants": "爸爸",
+                "impact": "这次经历强化了‘我不够好’的核心信念，并形成了‘如果我表现得不好，我就是失败者’的中间信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一天，我看到同班同学小丽因为成绩好被老师表扬，所有人都围着她转。我站在一旁，心里既羡慕又感到自卑，觉得如果自己也能这样就好了。",
+                "location": "小学教室",
+                "happen_time": "2010年3月",
+                "participants": "小丽、老师、同学们",
+                "impact": "这件事让我更加渴望得到别人的认可，强化了‘我需要别人的认可’的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在小学三年级的时候，我参加了一次绘画比赛。尽管我非常努力，但最终并未获奖。妈妈安慰我说，‘没关系，重要的是你尽力了。’但我仍然感到非常失落，觉得自己的努力没有得到回报。",
+                "location": "家里",
+                "happen_time": "2012年5月",
+                "participants": "妈妈",
+                "impact": "这次失利让我觉得自己永远不够好，强化了‘我总是需要改进自己’的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，有一次我和朋友们一起玩耍，不小心摔倒了。朋友们都来扶我，询问我有没有事。这让我感到很温暖，觉得自己被关心和重视。",
+                "location": "学校操场",
+                "happen_time": "2014年9月",
+                "participants": "朋友们",
+                "impact": "这次经历让我意识到朋友的支持对我很重要，强化了‘我应该寻求他人的支持和认可’的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的孩子因为成绩不好被父母责骂，甚至被打了一巴掌。我感到非常震惊和害怕，暗自庆幸自己的父母对我温柔体贴。",
+                "location": "邻居家门口",
+                "happen_time": "2014年10月",
+                "participants": "邻居家孩子、邻居父母",
+                "impact": "这件事让我更加珍惜自己家庭的温暖，同时也增加了对犯错的恐惧，强化了‘我必须努力避免犯错’的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我的好朋友小芳转学了。她是我在学校里最依赖的人，在她走后，我感到非常孤独和无助，一度不知所措。",
+                "location": "学校",
+                "happen_time": "2015年3月",
+                "participants": "小芳",
+                "impact": "这次经历加深了我对人际关系的依赖，形成了‘如果我得不到他人的支持，我会感到孤立和无助’的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "初中一年级时，我参加了一次班级演讲比赛。尽管很紧张，但我最终战胜了恐惧，顺利完成了演讲，并得到了老师和同学的称赞。这让我感到非常自豪和有成就感。",
+                "location": "学校礼堂",
+                "happen_time": "2016年4月",
+                "participants": "老师、同学们",
+                "impact": "这次成功让我意识到自己也有能力适应新的环境，形成了‘我有能力适应新的环境’的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一天放学后，我看到一个同学被几个高年级学生欺负。他们把他的书包扔在地上，还嘲笑他。我感到非常愤怒和无助，不知道该如何帮助他。",
+                "location": "学校操场",
+                "happen_time": "2016年5月",
+                "participants": "同学、高年级学生",
+                "impact": "这件事让我觉得世界是竞争激烈而无情的，强化了‘世界是竞争激烈而无情的’的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "初中二年级时，我和父母第一次去外地旅游。虽然有些紧张，但我逐渐适应了新的环境，享受了这次旅行。回家后，妈妈夸我很勇敢，我感到非常开心和自豪。",
+                "location": "旅游景点",
+                "happen_time": "2016年8月",
+                "participants": "父母",
+                "impact": "这次旅行让我更加自信，认为自己可以适应新的环境，强化了‘我有能力适应新的环境’的核心信念。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "殷华亚",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我在初中第一次考试成绩不理想，当成绩公布时，我感到非常沮丧和不安。老师在班级宣布成绩时，我觉得每个同学的目光都在盯着我。",
+                "location": "初中教室",
+                "happen_time": "2017年9月",
+                "participants": "殷华亚、班主任、同学",
+                "impact": "这次事件强化了她的核心信念‘我不够好’和中间信念‘如果我在学习上表现得不好，我就是失败者’，导致她对学习成绩有更强的焦虑感。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次集体活动中，我表现得很内向，不敢与同学交流。活动结束后，我听到有同学在背后议论我，觉得我很奇怪。",
+                "location": "学校操场",
+                "happen_time": "2018年5月",
+                "participants": "殷华亚、同学",
+                "impact": "这种体验加深了她的核心信念‘我不够好’，并强化了她的中间信念‘我需要别人的认可’。她变得更加回避社交活动，内向和自卑感增强。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "初三升学考试前，我感到巨大的压力，每晚都在担心考试失利。那段时间我经常失眠，甚至有时在课堂上也无法集中注意力。",
+                "location": "家中卧室",
+                "happen_time": "2019年6月",
+                "participants": "殷华亚、父母",
+                "impact": "这次经历加剧了她对失败的恐惧，强化了她的中间信念‘如果我在学习上表现得不好，我就是失败者’，压力导致她的心理状态进一步恶化。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到好朋友在班会上得了优秀学生奖，老师和同学们都很赞赏她。我当时感到非常羡慕和自卑，觉得自己永远无法达到她的高度。",
+                "location": "学校礼堂",
+                "happen_time": "2020年1月",
+                "participants": "殷华亚、好朋友、老师、同学",
+                "impact": "这次观察让她更加坚定了自己的核心信念‘我不够好’，并强化了她的中间信念‘我必须得到老师和同学的认可才能感到自信’。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "高一时，我参加了学校的绘画比赛并获得了三等奖，但我并不觉得快乐，因为我认为只有一等奖才是优秀的表现。",
+                "location": "学校美术教室",
+                "happen_time": "2020年6月",
+                "participants": "殷华亚、老师、同学",
+                "impact": "这次经历强化了她的核心信念‘我不够好’，并导致她对自己的成就感到不满和怀疑，进一步影响她的自尊心。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高二时，我在一次模拟考试中成绩优异，老师在全班表扬了我。这让我感到一阵短暂的自信，但很快又担心下一次考试会不会达不到同样的成绩。",
+                "location": "高中教室",
+                "happen_time": "2021年3月",
+                "participants": "殷华亚、班主任、同学",
+                "impact": "这次事件暂时提升了她的自信心，但也加剧了她的焦虑，强化了她的中间信念‘我总是需要改进我的学习成绩’。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "我看到班上的一位同学因为成绩不理想而被家长责备，甚至被要求退学。这让我感到非常震惊，也更加害怕自己会遭遇同样的情况。",
+                "location": "学校走廊",
+                "happen_time": "2021年5月",
+                "participants": "殷华亚、同学、家长",
+                "impact": "这次观察强化了她的核心信念‘我不够好’，并加剧了她对失败的恐惧，影响了她的心理健康。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "我在高三时因为学习压力大，身体出现了一些不适，如头痛和失眠。我去医院检查，医生说是因为压力太大导致的。",
+                "location": "医院",
+                "happen_time": "2021年11月",
+                "participants": "殷华亚、医生、父母",
+                "impact": "这次事件让她意识到自己的身体健康受到了心理压力的影响，但她依然无法摆脱对学习成绩的焦虑，强化了她的中间信念‘我必须努力避免在学习上犯错’。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "高考前夕，我感到极度紧张，每晚都在做噩梦，担心考试失败。",
+                "location": "家中卧室",
+                "happen_time": "2022年6月",
+                "participants": "殷华亚、父母",
+                "impact": "这次经历强化了她的核心信念‘我不够好’，并加剧了她的中间信念‘如果我没有进步，我会被老师和同学看不起’。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我听到一位老师在办公室里对另一位老师说，‘这个学生成绩不好，以后很难有出息’。这让我感到非常害怕，担心自己也会被贴上这个标签。",
+                "location": "学校办公室外",
+                "happen_time": "2022年4月",
+                "participants": "殷华亚、老师",
+                "impact": "这次观察强化了她的中间信念‘老师很容易发现我的学习缺点’和‘我需要老师和同学的认可才能感到自信’，加剧了她的焦虑和自我怀疑。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "我在高考后收到了外地大学的录取通知书，这让我感到既兴奋又不安，担心自己无法适应新环境。",
+                "location": "家中",
+                "happen_time": "2022年7月",
+                "participants": "殷华亚、父母",
+                "impact": "这次事件激发了她的核心信念‘我可以适应新的环境’，但同时也带来了对未知的担忧和不安。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "进入大学后，我发现自己很难融入新的集体，常常感到孤独和不适应。",
+                "location": "大学校园",
+                "happen_time": "2022年9月",
+                "participants": "殷华亚、新同学",
+                "impact": "这次经历让她感到孤立和无助，强化了她的中间信念‘如果我得不到老师和同学的支持，我会感到孤立和无助’，影响了她的适应能力和自信心。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在大学首次期中考试成绩不理想，我感到非常失落，怀疑自己是否能在新环境中取得好成绩。",
+                "location": "大学教室",
+                "happen_time": "2022年11月",
+                "participants": "殷华亚、大学老师、同学",
+                "impact": "这次事件加深了她的核心信念‘我不够好’，并强化了她的中间信念‘如果我在学习上犯了错，我会被视为失败者’，导致她对大学生活的适应更加困难。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一位同学在宿舍里哭泣，后来得知她因为思乡情绪而感到非常痛苦。",
+                "location": "大学宿舍",
+                "happen_time": "2022年12月",
+                "participants": "殷华亚、同学",
+                "impact": "这次观察让她感到自己并不孤单，其他同学也在经历相似的情感波动，稍微缓解了她的孤独感，但并未能完全消除她的焦虑。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "在一次宿舍聚会上，我终于鼓起勇气与室友们交流，发现她们都很友好，这让我感到一丝温暖和归属感。",
+                "location": "大学宿舍",
+                "happen_time": "2023年1月",
+                "participants": "殷华亚、室友",
+                "impact": "这次经历让她感到稍微适应了新的环境，强化了她的核心信念‘我可以适应新的环境’，但她依然需要更多的积极体验来增强自信心和安全感。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "殷华亚",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "进入大学的第一天，我感到非常紧张和不安。在新生报到现场，我看到很多同学都有家人陪同，而我只有自己一个人，孤独感瞬间涌上心头。我不断安慰自己，但内心的焦虑却无法消散。",
+                "location": "大学校园",
+                "happen_time": "2022年9月",
+                "participants": "无",
+                "impact": "加剧了内心的孤独感和不适应，强化了“我不够好”的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "第一次参加班级聚会时，我发现自己很难融入大家的谈话。大家都在欢笑和分享，而我只能在一旁默默地听，心里感到非常尴尬和无助。",
+                "location": "班级聚会地点",
+                "happen_time": "2022年10月",
+                "participants": "班级同学",
+                "impact": "进一步加深了自卑感，认为自己不被大家接受，强化了“我需要别人的认可”的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次生理期期间，我特别想家，给妈妈打电话时忍不住哭了出来。妈妈安慰我，让我不要太过担心，但那种孤独和无助的感觉无法消散。",
+                "location": "宿舍",
+                "happen_time": "2022年12月",
+                "participants": "妈妈",
+                "impact": "加重了思乡情绪，强化了“我需要他人的支持才能成功”的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次课上被老师点名回答问题，我由于紧张答错了，老师严厉地批评了我。我的脸瞬间涨红，感到非常羞愧和无地自容。",
+                "location": "课堂",
+                "happen_time": "2023年1月",
+                "participants": "老师，同学",
+                "impact": "强化了自我否定的情绪，认为自己不够好，害怕再次犯错。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到室友每天都很开心地和其他朋友出去玩，而我却总是一个人待在宿舍，我感到很孤单和羡慕。",
+                "location": "宿舍",
+                "happen_time": "2023年3月",
+                "participants": "室友",
+                "impact": "强化了自己孤立无援的感受，认为自己不被他人接受。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次社团活动中，由于我的表现不佳，社团的负责人对我提出了批评，我感到非常失望和自责，认为自己做什么都不够好。",
+                "location": "社团活动地点",
+                "happen_time": "2023年5月",
+                "participants": "社团负责人，社团成员",
+                "impact": "加重了自卑情绪，认为自己无论怎么努力都无法达到别人的期望。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在期末考试中，我的成绩不理想，这让我感到非常沮丧和失望，认为自己没有能力适应大学生活。",
+                "location": "学校",
+                "happen_time": "2023年7月",
+                "participants": "无",
+                "impact": "进一步加重了自我怀疑和对未来的担忧。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "暑假期间，我回到了家，但妈妈却告诉我，她和爸爸在考虑离婚。我感到震惊和不安，觉得自己的世界崩塌了。",
+                "location": "家中",
+                "happen_time": "2023年8月",
+                "participants": "妈妈",
+                "impact": "加剧了内心的不安和对未来的不确定感。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到同学们在社交媒体上分享他们丰富多彩的大学生活，而我却只能默默地看着，我感到非常孤独和失落。",
+                "location": "宿舍",
+                "happen_time": "2023年10月",
+                "participants": "同学",
+                "impact": "进一步加深了自己不被接纳和孤立的感受。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次生理期中，我的情绪非常低落，几乎无法集中精力学习和参加活动，只能一个人待在宿舍，感到非常孤独和无助。",
+                "location": "宿舍",
+                "happen_time": "2023年12月",
+                "participants": "无",
+                "impact": "加重了抑郁情绪，进一步强化了思乡情绪。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次绘画比赛中，我的作品没有得到任何奖项，这让我感到非常失望和自卑，觉得自己的努力都是徒劳的。",
+                "location": "学校",
+                "happen_time": "2024年1月",
+                "participants": "参赛同学，评委",
+                "impact": "加重了自我怀疑和对自己的否定，认为自己没有任何才能。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "春节回家后，发现父母的关系变得更加紧张，常常争吵不休，我感到非常担心和无助。",
+                "location": "家中",
+                "happen_time": "2024年2月",
+                "participants": "父母",
+                "impact": "加深了内心的不安和对家庭关系的担忧。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "看到一个同学因为成绩优异获得了奖学金，而我却没有任何收获，我感到非常沮丧和嫉妒，认为自己永远无法达到别人的水平。",
+                "location": "学校",
+                "happen_time": "2024年3月",
+                "participants": "同学",
+                "impact": "强化了自我否定和对未来的担忧，认为自己无法成功。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次与室友的争执后，我感到非常孤独和无助，觉得自己没有任何朋友可以依靠。",
+                "location": "宿舍",
+                "happen_time": "2024年4月",
+                "participants": "室友",
+                "impact": "加重了孤立无援的感受，认为自己无法与他人建立良好的关系。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与妈妈的电话中，我谈到了自己在大学里感到的孤独和无助，妈妈安慰我，但我依然感到非常无力和绝望。",
+                "location": "宿舍",
+                "happen_time": "2024年5月",
+                "participants": "妈妈",
+                "impact": "加重了抑郁情绪，进一步强化了对生活的无力感。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次考试前，我感到非常紧张和焦虑，几乎无法集中精力复习，结果考试成绩不理想，这让我感到非常失望和自责。",
+                "location": "学校",
+                "happen_time": "2024年6月",
+                "participants": "无",
+                "impact": "加重了考试焦虑和自我怀疑，认为自己没有能力应对学业。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次绘画课上，老师对我的作品给予了批评，我感到非常失望和自卑，认为自己没有任何艺术天赋。",
+                "location": "学校",
+                "happen_time": "2024年7月",
+                "participants": "绘画老师，同学",
+                "impact": "加重了自我否定和对未来的担忧，认为自己无法实现梦想。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "暑假期间，我决定参加一个教师培训项目，但在培训过程中，我发现自己的表现远不如其他学员，这让我感到非常自卑和失落。",
+                "location": "培训地点",
+                "happen_time": "2024年8月",
+                "participants": "培训学员，培训老师",
+                "impact": "加重了自我怀疑和对未来的担忧，认为自己无法成为一名优秀的教师。"
+            }
+        ]
+    }
+}

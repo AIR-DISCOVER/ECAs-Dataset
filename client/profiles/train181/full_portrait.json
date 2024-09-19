@@ -1,0 +1,186 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "勤奋",
+            "内向",
+            "敏感",
+            "责任感强"
+        ],
+        "appearance": [
+            "中等身高",
+            "纤细",
+            "黑色长发",
+            "清秀",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "写作",
+                "摄影",
+                "旅行",
+                "电影"
+            ],
+            "activity": [
+                "周末去公园散步",
+                "和朋友一起喝咖啡",
+                "独自看电影"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "在工作中找到平衡，减轻压力，提升自信心",
+            "long_term_goals": "成为一名有影响力的记者，撰写有深度的报道，帮助更多人了解真相"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单早餐后开始一天的工作。工作时间较长，通常到晚上8点结束。晚上会花时间阅读或写作，偶尔会和朋友视频聊天。",
+            "weekends": "周末通常会去公园散步，或者和朋友一起喝咖啡，放松心情。偶尔会独自去看电影，享受片刻的宁静。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母工作忙碌，童年时常感到孤独，但也因此养成了独立的性格。",
+            "adolescence": "中学时期成绩优异，但由于性格内向，朋友不多。高中时开始对新闻和写作产生浓厚兴趣，立志成为一名记者。",
+            "recent_events": "最近工作压力大，频繁加班，导致记忆力下降和疲倦感增加。虽然和朋友有交流，但仍感到孤独和焦虑。"
+        },
+        "environment": "出生在一个小城市，大学毕业后搬到大城市工作。虽然工作环境充满挑战，但也带来了巨大的压力。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲工作忙碌，但在有限的时间里尽量陪伴戚滢纨，教她独立和坚强。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲同样工作繁忙，但在家时会尽量照顾戚滢纨的生活起居，教她做家务和学习。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "童年时的朋友不多，但有两个关系较好的小伙伴，常常一起玩耍和学习。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "随着学业压力增加，与父亲的交流减少，但父亲依然在关键时刻给予支持。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲在戚滢纨的青春期给予了更多的情感支持，帮助她度过了许多困惑和难关。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期结交了几位朋友，但由于性格内向，关系并不十分亲密。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "两位老师对戚滢纨的学业和兴趣发展给予了很大的帮助，尤其是新闻和写作方面。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "朋友",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "工作后结交了几位朋友，虽然关系不错，但由于工作繁忙，交流时间有限。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "与同事的关系较为正式，但有几位同事在工作上给予了不少帮助。"
+                    ]
+                },
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "虽然不常见面，但父母依然关心她的生活和工作，偶尔会通过电话交流。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "戚滢纨的社会关系在不同阶段有明显变化。童年时由于父母工作忙碌，她学会了独立，但也感到孤独。青春期时，她的学业压力增加，与父母的交流减少，但母亲给予了更多情感支持。中学时期，她结交了一些朋友和老师，帮助她发展兴趣。工作后，她搬到大城市，结交了新朋友和同事，但由于工作繁忙，交流时间有限。总体来说，她的社会关系随着时间推移逐渐扩展，但内向的性格使她在建立深厚关系方面仍有困难。"
+    }
+}

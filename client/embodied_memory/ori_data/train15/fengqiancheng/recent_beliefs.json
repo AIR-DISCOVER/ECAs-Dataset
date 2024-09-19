@@ -1,0 +1,130 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我无法满足别人的期望。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我是一个有潜力的人。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我值得被尊重。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我表现不好，那就证明我不够好。",
+                "others": "别人会发现我的不足，并因此看不起我。",
+                "world": "在这个世界上，只有优秀的人才能得到认可。"
+            },
+            "rules": "我应该尽量避免暴露自己的不足。",
+            "positive_assumption": "如果我隐藏自己的不足，我就不会被别人看不起。",
+            "negative_assumption": "如果我暴露了自己的不足，我会失去别人的尊重。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不够优秀，所以不值得被重视。",
+                "others": "他人只会关注我的缺点。",
+                "world": "这个世界上，只有顶尖的人才有价值。"
+            },
+            "rules": "我必须不断努力去掩盖我的不足。",
+            "positive_assumption": "如果我努力掩盖不足，我就能避免被忽视。",
+            "negative_assumption": "如果我不够努力，我将永远被忽视和轻视。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法满足别人的期望，因此我很失败。",
+                "others": "别人期望我能做到的，我总是达不到。",
+                "world": "这个世界对我有过高的期望，我无法应对。"
+            },
+            "rules": "我应该尽量避免让别人有期待。",
+            "positive_assumption": "如果我避免他人的期望，我就不会让他们失望。",
+            "negative_assumption": "如果我让别人有期望，我就会让他们失望。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法达到期望，所以我不值得被赞赏。",
+                "others": "别人总是希望我能做到更多，而我总是让他们失望。",
+                "world": "世界对我有不切实际的期望。"
+            },
+            "rules": "我应该降低他人对我的期望。",
+            "positive_assumption": "如果我降低他人的期望，我就不会让他们失望。",
+            "negative_assumption": "如果我不降低他人的期望，我会让他们失望并失去他们的认可。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有潜力，所以我能面对挑战。",
+                "others": "他人会看到我的潜力，并给予我支持。",
+                "world": "世界充满机会，我需要抓住它们。"
+            },
+            "rules": "我应该积极面对挑战，并展示我的潜力。",
+            "positive_assumption": "如果我面对挑战，我会获得成长和认可。",
+            "negative_assumption": "如果我回避挑战，我会错失机会，并被认为没有潜力。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力，所以我能实现我的目标。",
+                "others": "他人会认可我的努力和成就。",
+                "world": "世界上有很多机会，只要我去争取。"
+            },
+            "rules": "我应该努力实现我的目标，并证明我的能力。",
+            "positive_assumption": "如果我努力，我会实现我的目标，并获得认可。",
+            "negative_assumption": "如果我不努力，我会失去实现目标的机会，并被认为没有能力。"
+        },
+        {
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我值得被尊重，所以我应该自信地表达自己。",
+                "others": "他人会尊重我的观点和感受。",
+                "world": "世界上每个人都值得被尊重，包括我自己。"
+            },
+            "rules": "我应该勇于表达自己的观点和感受。",
+            "positive_assumption": "如果我自信地表达自己，我会得到他人的尊重。",
+            "negative_assumption": "如果我不表达自己，我会失去被尊重的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有价值，所以我配得上别人的尊重。",
+                "others": "他人会尊重我的价值和贡献。",
+                "world": "世界上每个人都有其独特的价值。"
+            },
+            "rules": "我应该展现自己的价值，赢得别人的尊重。",
+            "positive_assumption": "如果我展现自己的价值，我会赢得别人的尊重。",
+            "negative_assumption": "如果我不展现自己的价值，我会被忽视和轻视。"
+        }
+    ]
+}

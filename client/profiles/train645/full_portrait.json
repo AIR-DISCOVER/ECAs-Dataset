@@ -1,0 +1,217 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "缺乏自信",
+            "容易焦虑",
+            "善良"
+        ],
+        "appearance": [
+            "中等身材",
+            "略显疲惫",
+            "头发有些稀疏",
+            "眼神黯淡",
+            "皮肤较为苍白"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "园艺",
+                "烹饪"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能够恢复健康，重新找回生活的节奏",
+            "long_term_goals": "希望能够在工作上重新获得认可，建立更稳定的人际关系"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后感到情绪低落，难以集中精力。白天尝试做一些家务，但常常感到力不从心。晚上情绪再次低落，难以入睡。",
+            "weekends": "周末通常会和家人一起做饭，偶尔会去公园散步，但大部分时间都在家中休息。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母关系和睦，但自己从小就比较内向，不太喜欢与人交往。",
+            "adolescence": "中学时期成绩一般，朋友不多，常常感到孤独。高考失利后进入了一所普通的大学。",
+            "youth": "大学毕业后进入了一家小公司工作，工作表现平平，几次升职机会都错过了。结婚后生活平淡，但家庭关系还算和睦。",
+            "recent_events": "最近检查出甲状腺问题和脑部肿瘤，导致情绪低落，工作和生活都受到了很大影响。"
+        },
+        "environment": "出生在一个小城市，成长环境较为平静。大学毕业后在省会城市工作和生活，结婚后与丈夫和孩子一起生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "魏荔滢的父母关系和睦，对她关爱有加。虽然她从小内向，但父母一直给予她支持和鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "魏荔滢在童年时期有一个好朋友，虽然不多，但这个朋友对她来说非常重要。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "青春期的魏荔滢与父母的关系稍有疏远，但依然保持着亲密的联系。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "中学时期的魏荔滢有两个朋友，但她常常感到孤独，朋友关系并不深厚。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "大学时期的魏荔滢与父母的联系依然紧密，父母对她的支持和关爱未曾减少。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "大学期间，魏荔滢结识了几位朋友，但由于性格内向，她与朋友的关系并不十分亲密。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "工作初期，魏荔滢与同事的关系较为平淡，缺乏深层次的交流。"
+                    ]
+                },
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "结婚后，魏荔滢与丈夫的关系和睦，丈夫是她生活中的重要支柱。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "随着年龄的增长，魏荔滢与父母的联系有所减少，但依然保持着关心和问候。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "最近，魏荔滢与朋友的联系变得更加稀疏，主要是因为她的情绪低落和健康问题。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "工作上的压力和健康问题使得魏荔滢与同事的关系变得更加疏远。"
+                    ]
+                },
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "尽管面临健康问题，魏荔滢与丈夫的关系依然稳固，丈夫一直在她身边给予支持。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "魏荔滢与孩子的关系亲密，孩子是她生活中的重要支柱。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "魏荔滢的社交关系在不同阶段有明显变化。童年时期，她主要依赖父母和少数朋友。青春期，她的朋友数量增加，但关系并不深厚。成年后，她的社交圈扩大，包括同事和丈夫，但由于性格内向，她的社交关系依然较为表面。最近，由于健康问题和情绪低落，她的社交关系进一步疏远，主要依赖家庭成员的支持。"
+    }
+}

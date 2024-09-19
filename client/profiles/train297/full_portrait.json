@@ -1,0 +1,153 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "缺乏自信",
+            "善良",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身高",
+            "纤细",
+            "皮肤白皙",
+            "长发",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐",
+                "写作"
+            ],
+            "activity": [
+                "独自散步",
+                "在咖啡馆里看书",
+                "和朋友聊天"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复自信，找到一份稳定的工作",
+            "long_term_goals": "成为一名成功的自由职业者，能够独立生活并实现自我价值"
+        },
+        "daily_life": {
+            "routine": "早上通常起得较晚，花时间在家里阅读和绘画，偶尔会出去散步或和朋友见面。",
+            "weekends": "周末喜欢去咖啡馆看书，或者参加一些艺术展览，偶尔会和朋友一起出去吃饭。"
+        },
+        "past_experiences": {
+            "childhood": "在一个普通的家庭中长大，父母对她的期望较高，小时候成绩优异，但性格较为内向。",
+            "adolescence": "中学时期因为学业压力大，逐渐变得更加内向和敏感，开始对自己的能力产生怀疑。",
+            "recent_events": "最近两周因为找工作不顺利，感到自我价值感低，开始出现睡眠障碍和焦躁情绪。"
+        },
+        "environment": "出生在一个中等城市，家庭环境较为普通，父母对她的期望较高。大学毕业后选择了自由职业，但一直没有找到稳定的工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "韩菁瑾的父母对她的期望很高，从小就对她的学业和行为有严格要求。虽然他们的出发点是为了她好，但这种高期望也让她感到压力和焦虑。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "韩菁瑾在小学时有几个好朋友，她们经常一起玩耍和学习。虽然她性格内向，但这些朋友让她感到温暖和支持。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "进入中学后，韩菁瑾的父母对她的期望更高，尤其是在学业上。这让她感到更加压力，逐渐变得内向和敏感。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        3
+                    ],
+                    "description": [
+                        "中学时期，韩菁瑾的同学关系较为普通，她并没有特别亲密的朋友。学业压力让她难以投入到社交活动中。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "韩菁瑾的老师对她的学业表现有很高的期望，这既是动力也是压力。她希望通过努力学习来获得老师的认可。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "最近两周，韩菁瑾与两个朋友保持联系，她们是她的情感支柱。虽然她感到自我价值感低，但朋友们的支持让她稍感安慰。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "韩菁瑾最近开始与心理咨询师交流，希望通过专业帮助来缓解自己的焦虑和自我价值感低的问题。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "韩菁瑾的社交关系在不同阶段有明显变化。童年时期，她有几个亲密的朋友，但随着学业压力的增加，她逐渐变得内向和敏感，社交圈子也变得狭窄。中学时期，她的社交关系主要集中在家庭和学业上，朋友关系较为普通。最近，她的社交关系主要依赖于少数几个朋友和心理咨询师的支持。她希望通过调整和专业帮助，逐渐恢复自信，扩大自己的社交圈子。"
+    }
+}

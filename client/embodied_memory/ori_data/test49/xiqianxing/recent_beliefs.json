@@ -1,0 +1,114 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不值得被爱。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我是无能的。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "世界是充满压力和挑战的。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我必须独自应对问题。"
+        },
+        {
+            "belief_id": "core_belief_5",
+            "stage_key": "recent_events",
+            "belief": "我有能力面对困难和挑战。"
+        },
+        {
+            "belief_id": "core_belief_6",
+            "stage_key": "recent_events",
+            "belief": "我能够找到生活的意义。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "只有我变得完美，才值得被爱。",
+                "others": "他人不会无条件地爱我。",
+                "world": "这个世界对我充满了苛求。"
+            },
+            "rules": "我必须变得完美和无可挑剔。",
+            "positive_assumption": "如果我变得完美，我就会被爱。",
+            "negative_assumption": "如果我不完美，我就不会被爱。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法胜任我的工作。",
+                "others": "他人比我更有能力。",
+                "world": "在这个竞争激烈的世界里，我没有立足之地。"
+            },
+            "rules": "我应该避免承担更多责任。",
+            "positive_assumption": "如果我避免承担更多责任，我就不会失败。",
+            "negative_assumption": "如果我承担更多责任，我一定会失败。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法应对如此多的压力。",
+                "others": "他人不会理解我的压力。",
+                "world": "世界充满了无法应对的挑战。"
+            },
+            "rules": "我应该尽量避免面对压力。",
+            "positive_assumption": "如果我避免压力，我就不会崩溃。",
+            "negative_assumption": "如果我面对压力，我会崩溃。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不应该依赖他人。",
+                "others": "他人可能会拒绝帮助我。",
+                "world": "在这个世界上，每个人都应独立解决自己的问题。"
+            },
+            "rules": "我必须独立应对所有问题。",
+            "positive_assumption": "如果我独自应对问题，我会变得更强大。",
+            "negative_assumption": "如果我寻求帮助，我会显得软弱。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我可以解决问题，面对挑战。",
+                "others": "他人可以帮助我，但我也能独立处理事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "我应该积极面对挑战并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会失去成长机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我能够找到生活的意义。",
+                "others": "他人也在寻找他们的意义。",
+                "world": "世界充满了可能性和希望。"
+            },
+            "rules": "我应该积极探索和追求我的目标。",
+            "positive_assumption": "如果我追求我的目标，我会找到生活的意义。",
+            "negative_assumption": "如果我放弃追求目标，我将失去生活的意义。"
+        }
+    ]
+}

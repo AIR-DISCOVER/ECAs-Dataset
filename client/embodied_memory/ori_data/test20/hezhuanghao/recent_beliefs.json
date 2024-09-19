@@ -1,0 +1,78 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不值得被爱。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我是有价值的。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我应该对家人负责任。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我能克服困难。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我不值得被关心或理解。",
+                "others": "他人不会真正理解或关心我的感受。",
+                "world": "在这个世界上，每个人都应该自己处理自己的问题。"
+            },
+            "rules": "我应该避免暴露自己的脆弱以免被拒绝或忽视。",
+            "positive_assumption": "如果我避免暴露脆弱，我就不会受到伤害。",
+            "negative_assumption": "如果我暴露脆弱，我就会被拒绝和忽视。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我的存在是有意义的。",
+                "others": "他人能够看到我的价值。",
+                "world": "世界上有很多值得我去体验和追求的事情。"
+            },
+            "rules": "我应该积极寻求机会来展示自己的价值。",
+            "positive_assumption": "如果我展示自己的价值，我将会受到认可和尊重。",
+            "negative_assumption": "如果我不展示自己的价值，我将会被忽视和遗忘。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有责任照顾我的家人。",
+                "others": "家人需要我的支持和关爱。",
+                "world": "家庭是我生命中最重要的部分。"
+            },
+            "rules": "我应该始终优先考虑家人的需求。",
+            "positive_assumption": "如果我优先考虑家人，我将能够维持家庭的和谐与幸福。",
+            "negative_assumption": "如果我忽视家人的需求，我将失去他们的信任和爱。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我能够面对并克服生活中的挑战。",
+                "others": "他人可以在必要时给予帮助，但我主要依靠自己。",
+                "world": "世界充满了挑战，但我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该勇敢面对并积极解决。",
+            "positive_assumption": "如果我面对挑战，我将会变得更强大并获得成长。",
+            "negative_assumption": "如果我回避挑战，我将失去成长和发展的机会。"
+        }
+    ]
+}

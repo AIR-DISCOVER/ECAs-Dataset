@@ -1,0 +1,480 @@
+{
+    "childhood": {
+        "name": "华妍蕊",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "记得我第一次拿到全年级第一名，妈妈笑着摸着我的头说：'你真是我们的骄傲！' 那一刻，我感到无比自豪，但也开始担心不能再让他们失望。",
+                "location": "家里的客厅",
+                "happen_time": "2010年6月",
+                "participants": "妈妈",
+                "impact": "这个事件强化了我对父母期望的重视，形成了核心信念'我必须满足别人的期望'和中间信念'我的价值取决于父母和老师的评价'。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次数学测验中，我只得了70分，回到家里，我低着头不敢看爸爸的眼睛。他叹了口气说：'你得更努力了，不然怎么考上好大学？' 我感到深深的失落和自责。",
+                "location": "家里的书房",
+                "happen_time": "2012年11月",
+                "participants": "爸爸",
+                "impact": "这个事件强化了我的核心信念'我不够好'，并形成了中间信念'如果我在学业上出错，别人会看不起我'。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "小学三年级的家长会结束后，老师告诉妈妈我在班上表现很好。妈妈笑着对老师说：'我们的孩子一直很努力，我们对她期望很高。' 我听到后，感到一种无形的压力。",
+                "location": "学校的教室",
+                "happen_time": "2011年4月",
+                "participants": "妈妈，老师",
+                "impact": "这个事件强化了我对父母期望的重视，形成了核心信念'我必须满足别人的期望'。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "有一次我在画画比赛中获得了二等奖，妈妈笑着说：'不错，不过你要更加努力争取一等奖。' 我心里感到既高兴又失落。",
+                "location": "家里的客厅",
+                "happen_time": "2013年5月",
+                "participants": "妈妈",
+                "impact": "这个事件强化了我对完美主义的追求，形成了中间信念'我必须在所有方面表现得完美才能被认可'。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我坐在房间里，听见客厅里爸爸和妈妈在讨论我的学习情况。爸爸说：'她需要更加努力，不然将来很难有出息。' 妈妈则回应：'她已经很努力了，我们需要给她一点时间。' ",
+                "location": "家里的房间",
+                "happen_time": "2012年9月",
+                "participants": "爸爸，妈妈",
+                "impact": "这个事件让我意识到父母对我的期望和压力，进一步强化了我的核心信念'我必须满足别人的期望'。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "有一次，我在班级里回答问题时答错了，老师当着全班同学的面批评了我。我感到非常羞愧，回到家后一直躲在房间里不想见人。",
+                "location": "学校的教室",
+                "happen_time": "2011年12月",
+                "participants": "老师，同学",
+                "impact": "这个事件加深了我的自卑感，形成了中间信念'如果我在学校成绩不好，那就证明我不够好'。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "有一次我和朋友在图书馆复习功课，她们聊起了各自的家庭，有一个朋友说她的父母从不对她施加压力。我心里感到一阵羡慕和失落。",
+                "location": "图书馆",
+                "happen_time": "2014年10月",
+                "participants": "朋友",
+                "impact": "这个事件让我意识到自己的家庭环境对我的压力，形成了中间信念'父母的期望是我生活中的一部分'。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在一次学校的演讲比赛中，我因为紧张而忘词，感到非常尴尬。回到家后，妈妈安慰我说：'不要紧，下一次会更好。' 但我心里依然感到深深的自责。",
+                "location": "学校的礼堂",
+                "happen_time": "2013年3月",
+                "participants": "妈妈",
+                "impact": "这个事件加深了我的自责感，形成了中间信念'如果我在学业上出错，别人会看不起我'。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到爸爸和妈妈为了我的学习成绩而争吵，爸爸认为我不够努力，妈妈则认为应该给我更多的理解和支持。",
+                "location": "家里的客厅",
+                "happen_time": "2012年8月",
+                "participants": "爸爸，妈妈",
+                "impact": "这个事件让我意识到父母对我的期望和分歧，形成了中间信念'我的价值取决于父母和老师的评价'。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "小学毕业那年，我获得了学校的优秀学生奖，爸爸妈妈都很高兴，爸爸还特意带我去吃了一顿大餐。我感到无比的满足和自豪。",
+                "location": "学校的礼堂，餐厅",
+                "happen_time": "2015年6月",
+                "participants": "爸爸，妈妈",
+                "impact": "这个事件让我感到父母的认可和支持，形成了核心信念'我有能力克服困难'。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到班上一个成绩不好的同学被老师当众批评，感到非常难过和紧张。我担心如果自己表现不好，也会遭受同样的待遇。",
+                "location": "学校的教室",
+                "happen_time": "2011年5月",
+                "participants": "老师，同学",
+                "impact": "这个事件加深了我的焦虑感，形成了中间信念'世界是一个需要不断证明自己价值的地方'。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "有一次，我在家里独自完成了一幅画，妈妈看到后高兴地说：'你真有天赋！' 我感到非常高兴和自豪。",
+                "location": "家里的客厅",
+                "happen_time": "2013年7月",
+                "participants": "妈妈",
+                "impact": "这个事件增强了我的自信心，形成了核心信念'我有能力克服困难'。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在一次学校运动会上，我参加了跑步比赛，但只得了第三名。爸爸在旁边叹气说：'你需要更努力一些。' 我感到非常失落。",
+                "location": "学校的操场",
+                "happen_time": "2012年10月",
+                "participants": "爸爸",
+                "impact": "这个事件加深了我的自卑感，形成了中间信念'我必须在所有方面表现得完美才能被认可'。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到妈妈在熬夜为我缝补衣服，心里感到非常心疼和愧疚。我暗自发誓要更加努力，不辜负父母的期望。",
+                "location": "家里的客厅",
+                "happen_time": "2011年11月",
+                "participants": "妈妈",
+                "impact": "这个事件让我意识到父母为我付出的辛劳，形成了中间信念'我应该尽一切努力满足父母和老师的期望'。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，亲戚们都在夸奖我成绩好，妈妈满脸笑容地说：'她一直很用功，我们对她期望很高。' 我感到既高兴又有压力。",
+                "location": "家里的客厅",
+                "happen_time": "2014年2月",
+                "participants": "妈妈，亲戚",
+                "impact": "这个事件强化了我对父母期望的重视，形成了核心信念'我必须满足别人的期望'。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "华妍蕊",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中升学考试成绩公布，我取得了全校第一名。父母非常高兴，特别是爸爸，他罕见地露出了微笑，并称赞了我。这是我第一次感到努力被认可，但同时也感到压力，因为我知道父母对我的期望越来越高。",
+                "location": "家中",
+                "happen_time": "2016年6月",
+                "participants": "父母",
+                "impact": "正面影响：增强了自信心，感受到努力的回报；负面影响：压力增加，开始担心无法满足父母的期望。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "高一时，我因为一次考试失误，成绩下降到班级中游。回家后，父亲非常生气，责骂我没有尽力，甚至质疑我的能力。这让我感到非常沮丧，自我怀疑开始加剧。",
+                "location": "家中",
+                "happen_time": "2017年11月",
+                "participants": "父亲",
+                "impact": "负面影响：自信心受到严重打击，开始形成“我不够好”的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在房间里听到父母在客厅里讨论我的成绩和未来。父亲责怪母亲对我太过宽容，母亲则为我辩护，认为我已经很努力了。父母的争吵让我感到内疚和无力。",
+                "location": "家中",
+                "happen_time": "2018年3月",
+                "participants": "父母",
+                "impact": "负面影响：加深了“我必须满足别人的期望”的核心信念，感受到家庭压力。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "高二时，我参加了学校的绘画比赛并获得了二等奖。虽然父母对我的成绩并不满意，但这是我自己喜欢的事情，我感到了一丝满足和自信。",
+                "location": "学校",
+                "happen_time": "2018年11月",
+                "participants": "同学、老师",
+                "impact": "正面影响：短暂的自信提升，感受到兴趣爱好带来的满足感。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "在图书馆里，我看到一位同学因为成绩不佳而被父母批评，那位同学哭得很伤心。我感同身受，觉得自己的处境和她非常相似。",
+                "location": "图书馆",
+                "happen_time": "2019年2月",
+                "participants": "同学",
+                "impact": "负面影响：强化了对学业成绩的恐惧和对父母期望的压力，增强了“我必须满足别人的期望”的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高三冲刺阶段，我因压力过大，出现了失眠和焦虑的症状。母亲担心我的健康，带我去看了心理医生。医生建议我放松，但我心中仍然觉得自己必须拼尽全力。",
+                "location": "医院",
+                "happen_time": "2020年5月",
+                "participants": "母亲、心理医生",
+                "impact": "负面影响：心理健康问题开始显现，加深了自责和无望感。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "在家中，我看到母亲为了我的学业而放弃了自己的兴趣爱好。这让我感到内疚和无奈，觉得自己是家庭的负担。",
+                "location": "家中",
+                "happen_time": "2020年8月",
+                "participants": "母亲",
+                "impact": "负面影响：增强了自罪感，认为自己不值得快乐和满足。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "高考成绩出来后，我考上了省城的一所大学。虽然父母对成绩不算满意，但我自己感到一种解脱，认为这是一个新的开始。",
+                "location": "家中",
+                "happen_time": "2021年6月",
+                "participants": "父母",
+                "impact": "正面影响：暂时的心态放松，感到自己有能力克服学业上的困难。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "大学里，我看到同学们都很独立和自信，这让我感到自己与他们的差距。虽然我也很努力，但总觉得自己不如他们。",
+                "location": "大学校园",
+                "happen_time": "2021年9月",
+                "participants": "同学",
+                "impact": "负面影响：自卑感加剧，觉得自己不够好。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在一次期末考试中，我取得了系里的第一名。虽然父母对成绩表示满意，但我却感到非常疲惫和空虚，觉得这种成功并没有带给我真正的快乐。",
+                "location": "大学校园",
+                "happen_time": "2021年12月",
+                "participants": "父母、同学、老师",
+                "impact": "负面影响：感到内在的空虚和无望感，开始怀疑学业成绩是否能带来真正的满足。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "在图书馆里，我看到一位同学因为家庭压力过大，而选择自残。我感到非常震惊和害怕，同时也担心自己可能会走上同样的道路。",
+                "location": "图书馆",
+                "happen_time": "2022年3月",
+                "participants": "同学",
+                "impact": "负面影响：增强了对未来的恐惧和无望感，觉得自己可能会陷入同样的困境。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在一次心理辅导课上，我勇敢地分享了自己的困惑和压力。老师和同学们给予了我鼓励和支持，这让我感到一丝温暖和希望。",
+                "location": "大学校园",
+                "happen_time": "2022年5月",
+                "participants": "老师、同学",
+                "impact": "正面影响：感受到他人的理解和支持，短暂地缓解了压力和焦虑。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "在学校举办的讲座上，一位成功的学者分享了她的奋斗经历。她讲述了自己如何克服困难，最终实现了梦想。这让我感到鼓舞，觉得自己也有能力应对未来的挑战。",
+                "location": "大学校园",
+                "happen_time": "2022年10月",
+                "participants": "学者、同学",
+                "impact": "正面影响：增强了对未来的信心，觉得自己有能力克服困难。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "考研备考期间，我感到身心俱疲，甚至产生了放弃的念头。母亲发现了我的情绪低落，鼓励我坚持下去，并陪伴我度过了最艰难的时刻。",
+                "location": "家中",
+                "happen_time": "2023年3月",
+                "participants": "母亲",
+                "impact": "正面影响：感受到家庭的支持，增加了继续努力的动力。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "在一次同学聚会上，我听到一位朋友分享她放弃考研的决定，她说她想追求自己真正喜欢的事情。这让我开始思考自己的选择和未来的方向。",
+                "location": "咖啡馆",
+                "happen_time": "2023年6月",
+                "participants": "朋友",
+                "impact": "混合影响：开始质疑自己是否真正喜欢学术道路，同时也感到未来的不确定性。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "华妍蕊",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在大学的期中考试成绩出来后，我发现自己有两门课不及格。我感到非常失望和自责，认为这是自己不够努力的结果。妈妈打电话来问我的成绩，我含糊其辞，最后还是透露了实情。她的语气里充满了担忧和失望，这让我更加自责，觉得自己让父母失望了。",
+                "location": "大学宿舍",
+                "happen_time": "2022年11月",
+                "participants": "母亲",
+                "impact": "加剧了自我价值感低和无望感，强化了“我不够好”和“我必须满足别人的期望”的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在准备考研的过程中，连续几晚失眠，感到非常疲倦和焦虑。一次在图书馆复习时，我突然感到头晕目眩，心跳加速，不得不离开回宿舍休息。这种身体上的不适让我更加怀疑自己的能力，觉得自己可能无法承受考研的压力。",
+                "location": "学校图书馆",
+                "happen_time": "2023年4月",
+                "participants": "无",
+                "impact": "加剧了焦虑和无望感，强化了“我不够好”和“我必须在每件事情上都做到最好”的中间信念。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次班级聚会上，我的两位朋友在讨论他们的学习进展和未来计划时，我感到自己明显落后于她们。她们鼓励我一起讨论，但我感到非常尴尬和自卑，只好找借口提前离开。回到宿舍后，我感到更加孤独和无助。",
+                "location": "大学校园",
+                "happen_time": "2023年6月",
+                "participants": "两位大学朋友",
+                "impact": "加剧了自卑和孤独感，强化了“我不值得快乐和满足”的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在回家的火车上，我看到一个年纪相仿的女孩和她的母亲在谈论她的考研计划。她母亲不断鼓励她，而女孩显得自信满满。这让我想到自己的母亲，虽然她也是为了我好，但她的焦虑和担忧却让我感到更加压力和不安。",
+                "location": "火车上",
+                "happen_time": "2023年8月",
+                "participants": "陌生女孩和她的母亲",
+                "impact": "加剧了压力和紧张感，强化了“我必须满足别人的期望”的核心信念。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在与父亲的一次电话中，他告诉我如果考不上研也没关系，可以考虑其他出路。但他的语气中透露出一种失望和无奈，这让我感到更加自责和无望。挂断电话后，我忍不住哭了出来，觉得自己辜负了父母的期望。",
+                "location": "宿舍",
+                "happen_time": "2023年10月",
+                "participants": "父亲",
+                "impact": "加剧了自我价值感低和无望感，强化了“我的价值取决于他人的评价”的中间信念。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次模拟考中，我的成绩比预期要差很多。老师在课后单独找我谈话，建议我调整心态，不要给自己太大压力。但我却感到更加焦虑，觉得自己可能真的不够好，无法达到期望。",
+                "location": "大学教室",
+                "happen_time": "2024年1月",
+                "participants": "老师",
+                "impact": "加剧了焦虑和自责感，强化了“我不够好”和“我必须在每件事情上都做到最好”的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次学校的心理讲座上，讲师分享了一些关于考研压力的案例，其中一个女孩因为压力过大而选择了自杀。这让我感到非常震惊和不安，也开始担心自己会不会走向同样的极端。",
+                "location": "大学讲堂",
+                "happen_time": "2024年2月",
+                "participants": "心理讲师和其他学生",
+                "impact": "加剧了焦虑和无望感，强化了“如果我放弃，我会失去成功的机会”的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与朋友的聚会中，我突然感到自己与她们格格不入，似乎所有人都在谈论未来的计划，而我却感觉自己没有任何方向和希望。我借口身体不适，提前离开了聚会。",
+                "location": "大学宿舍",
+                "happen_time": "2024年3月",
+                "participants": "两位大学朋友",
+                "impact": "加剧了孤独和无望感，强化了“我不值得快乐和满足”的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与母亲的视频通话中，她不断提醒我考研的重要性，并给我传递了很多成功经验的案例。但这些话语却让我感到更加压力和无助，觉得自己无法达到她的期望。",
+                "location": "宿舍",
+                "happen_time": "2024年4月",
+                "participants": "母亲",
+                "impact": "加剧了焦虑和自责感，强化了“我必须满足别人的期望”的核心信念。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次父母来学校探望时，他们带来了很多补品和复习资料，希望我能好好准备考研。但我却感到更加压力和无望，觉得自己可能真的无法达到他们的期望。",
+                "location": "大学校园",
+                "happen_time": "2024年5月",
+                "participants": "父母",
+                "impact": "加剧了焦虑和无望感，强化了“我必须满足别人的期望”的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在学校的图书馆里，我看到一个学长因为考研失败而情绪失控，痛哭流涕。这让我感到非常震惊和不安，也开始怀疑自己是否能承受这样的失败。",
+                "location": "大学图书馆",
+                "happen_time": "2024年6月",
+                "participants": "学长和其他学生",
+                "impact": "加剧了焦虑和无望感，强化了“世界是一个需要不断证明自己价值的地方”的中间信念。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次模拟考中，我的成绩依然不理想，感到非常绝望和无助。回到宿舍后，我忍不住哭了出来，觉得自己可能真的无法通过考研。",
+                "location": "大学宿舍",
+                "happen_time": "2024年7月",
+                "participants": "无",
+                "impact": "加剧了无望感和自我价值感低，强化了“如果我失败了，那就证明我真的不够好”的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与父亲的电话中，他告诉我如果考不上研也没关系，可以考虑其他出路。但他的语气中透露出一种失望和无奈，这让我感到更加自责和无望。",
+                "location": "宿舍",
+                "happen_time": "2024年8月",
+                "participants": "父亲",
+                "impact": "加剧了无望感和自我价值感低，强化了“我的价值取决于他人的评价”的中间信念。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在准备考研的最后冲刺阶段，我感到非常疲惫和焦虑，几乎每晚都失眠。一次在课堂上，我因为过度疲劳而昏倒，被送到校医务室。这让我感到非常无助，觉得自己可能真的无法承受这样的压力。",
+                "location": "大学教室",
+                "happen_time": "2024年9月",
+                "participants": "同学和医务人员",
+                "impact": "加剧了无望感和自我价值感低，强化了“我不够好”和“我必须在每件事情上都做到最好”的中间信念。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次学校的心理讲座上，讲师分享了一些成功克服考研压力的案例，但我却感到这些案例离我很遥远，无法带给我实际的帮助。这让我更加怀疑自己的能力。",
+                "location": "大学讲堂",
+                "happen_time": "2024年10月",
+                "participants": "心理讲师和其他学生",
+                "impact": "加剧了焦虑和无望感，强化了“如果我回避挑战，我会失去成长和发展的机会”的中间信念。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在与朋友的聊天中，她们谈论自己的未来计划和职业目标，而我却感到自己毫无方向和希望。这让我感到非常孤独和无助，觉得自己无法融入她们的世界。",
+                "location": "大学宿舍",
+                "happen_time": "2024年11月",
+                "participants": "两位大学朋友",
+                "impact": "加剧了孤独和无望感，强化了“我不值得快乐和满足”的中间信念。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在考研前夕，我感到非常紧张和不安，几乎无法集中注意力复习。父母打电话来鼓励我，但我却感到更加压力和无助，觉得自己可能真的无法通过考研。",
+                "location": "宿舍",
+                "happen_time": "2024年12月",
+                "participants": "父母",
+                "impact": "加剧了焦虑和无望感，强化了“我必须满足别人的期望”的核心信念。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在考研结束后，我感到非常疲倦和无望，觉得自己可能没有考好。父母打电话来询问情况，我只能含糊其辞，避免让他们失望。",
+                "location": "宿舍",
+                "happen_time": "2025年1月",
+                "participants": "父母",
+                "impact": "加剧了无望感和自我价值感低，强化了“我不够好”和“我必须满足别人的期望”的核心信念。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次与朋友的聊天中，她们谈论自己的未来计划，而我却感到自己毫无方向和希望。这让我感到非常孤独和无助，觉得自己无法融入她们的世界。",
+                "location": "大学宿舍",
+                "happen_time": "2025年2月",
+                "participants": "两位大学朋友",
+                "impact": "加剧了孤独和无望感，强化了“我不值得快乐和满足”的中间信念。"
+            }
+        ]
+    }
+}

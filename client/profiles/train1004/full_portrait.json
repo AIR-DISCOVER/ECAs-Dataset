@@ -1,0 +1,195 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "敏感",
+            "责任感强"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "黑发",
+            "眼神疲惫",
+            "皮肤苍白"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "园艺",
+                "烹饪"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复正常的睡眠和情绪状态，重新找到对工作的热情",
+            "long_term_goals": "能够在工作和生活中找到平衡，提升自我价值感，过上幸福的生活"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，准备早餐，送孩子上学，然后去医院上班。下班后回家做晚饭，晚上通常会看书或做一些园艺工作，但最近因为情绪低落，这些活动变得越来越少。",
+            "weekends": "周末通常会和家人一起度过，去公园散步或在家里做一些轻松的活动，但最近因为情绪问题，更多时间是独自待在房间里。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被教育要努力学习和工作。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多，常常感到孤独。",
+            "youth": "大学选择了护理专业，毕业后顺利进入医院工作，结婚生子，生活看似平稳，但工作压力逐渐增大。",
+            "recent_events": "近一年来，医院工作压力巨大，频繁的夜班让她身心俱疲，逐渐失去了对生活的兴趣和热情。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在本地的一所医学院就读，毕业后留在南京的一家医院工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工人，母亲是一名教师。父母对她的期望很高，从小就被教育要努力学习和工作。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "有两个比较要好的朋友，但因为性格内向，朋友不多，常常感到孤独。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "中学时期成绩优异，但父母的期望和压力让她感到有些压抑。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "有一个非常要好的朋友，常常一起学习和交流，但因为性格内向，社交圈依然很小。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "几位老师对她的学习成绩非常关注，给予了很多帮助和鼓励。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "大学选择了护理专业，父母对她的选择表示支持，但依然对她有很高的期望。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "在大学期间结识了几位同学，关系较好，但因为性格内向，社交活动不多。"
+                    ]
+                },
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "大学期间认识了现在的丈夫，两人感情深厚，毕业后结婚生子。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "丈夫对她的工作和生活给予了很多支持，但因为工作压力大，两人之间的交流变少了。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "孩子是她生活中的重要部分，但因为情绪低落，最近和孩子的互动变少了。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "在医院工作期间结识了几位同事，关系一般，工作压力让她很难和同事建立深厚的关系。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "薛昭眉在不同阶段的社交关系有明显变化。童年时期，她的社交圈主要是家庭和少数朋友，随着年龄的增长，社交圈逐渐扩大，但因为性格内向，始终没有太多朋友。进入职场后，工作压力和频繁的夜班让她的社交活动减少，最近因为抑郁症的影响，她更加倾向于回避社交，和家人、朋友的互动也变得越来越少。"
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "敏感",
+            "责任心强"
+        ],
+        "appearance": [
+            "中等身高",
+            "稍显疲惫",
+            "黑发有些花白",
+            "眼神有些黯淡",
+            "身材中等"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "请假休息一段时间，恢复精力和情绪",
+            "long_term_goals": "找到生活的意义和乐趣，重新投入教学工作"
+        },
+        "daily_life": {
+            "routine": "每天早上五点左右醒来，准备早餐，七点出门上班。白天在学校教学，下午四点回家。晚上备课，九点左右上床休息，但常常难以入睡。",
+            "weekends": "周末通常在家休息，偶尔和家人一起去公园散步，或者在家做饭。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工人家庭，父母对她的期望很高。",
+            "adolescence": "中学时期成绩优异，但因为家庭经济原因，常常感到压力。",
+            "youth": "大学期间选择了师范专业，毕业后成为一名教师。",
+            "recent_events": "最近几年工作压力增大，家庭责任也让她感到疲惫。"
+        },
+        "environment": "出生在一个小城市，大学毕业后在同一城市的中学任教。结婚后和丈夫及孩子一起生活，家庭关系和睦，但工作和家庭的双重压力让她感到疲惫。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "唐艳勤的父母是普通的工人，对她寄予厚望。父亲严厉，母亲温柔，但都希望她能通过学习改变家庭的命运。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "童年时有几个玩伴，但由于家庭经济原因，唐艳勤常常感到自卑，不太愿意与朋友分享自己的困扰。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "中学时期，父母对她的期望更高，尤其是父亲，常常督促她学习。母亲则在她感到压力时给予安慰。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "中学老师对她的成绩非常满意，常常鼓励她继续努力。她与几位老师关系较好，尤其是班主任。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学时期的朋友不多，主要是因为她把大部分时间都用在了学习上。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "大学期间，她选择了师范专业，结识了一些志同道合的朋友。她与室友关系较好，常常一起讨论学习和未来的规划。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "她的导师对她的学术能力非常认可，常常给予指导和建议。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "唐艳勤与丈夫关系和睦，丈夫在她感到压力时给予支持和理解。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "她与孩子关系亲密，常常一起做饭和散步。孩子是她生活中的一大慰藉。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "她与几位同事关系较好，常常在工作中互相帮助。但由于工作压力大，她与同事的交流逐渐减少。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "最近几年，她与朋友的联系减少，主要是因为工作和家庭的双重压力让她没有太多时间社交。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "唐艳勤的社交关系在不同阶段有明显变化。童年和青少年时期，她的社交圈主要集中在家庭和学校，朋友不多。大学期间，她结识了一些志同道合的朋友，社交圈有所扩大。工作后，她的社交关系主要集中在家庭和同事之间。最近几年，由于工作和家庭的双重压力，她的社交活动减少，与朋友的联系也逐渐减少。"
+    }
+}

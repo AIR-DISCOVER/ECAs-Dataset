@@ -1,0 +1,185 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "细腻",
+            "有责任心",
+            "有些完美主义"
+        ],
+        "appearance": [
+            "中等身高",
+            "纤细",
+            "长发",
+            "清秀",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "和朋友一起去咖啡馆",
+                "周末去图书馆"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "完成实验项目，顺利毕业",
+            "long_term_goals": "成为一名优秀的科研人员，做出有意义的研究"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到实验室，下午5点回宿舍，晚上复习和做作业，11点左右睡觉。",
+            "weekends": "周末通常会去图书馆或者咖啡馆，偶尔和朋友出去吃饭或看电影。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多，常常感到孤独。",
+            "recent_events": "最近实验进展不顺利，导致情绪低落，感到麻木和无趣。"
+        },
+        "environment": "出生在一个小城市，大学在大城市读书，适应了城市的快节奏生活，但也感到压力很大。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "郎冰冬的父亲是一名工厂工人，工作繁忙，但对她的学习非常关心。虽然父女之间的交流不多，但父亲总是默默支持她的学业。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "郎冰冬的母亲是一名小学教师，对她的教育非常严格。母亲常常在她的学习上给予指导和帮助，母女关系亲密但也有些紧张。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "郎冰冬在小学时有两个好朋友，虽然她性格内向，但这两个朋友总是陪伴她，分享彼此的秘密和快乐。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "进入中学后，父亲的工作更加繁忙，但他依然关心郎冰冬的学习和生活。父女之间的交流依然不多，但父亲的支持始终如一。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "中学时期，母亲对郎冰冬的期望更高，母女之间的关系变得更加紧张。母亲希望她能考上好大学，因此对她的学习要求更加严格。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "中学时期，郎冰冬因为性格内向，朋友不多。她有一个关系较好的朋友，两人常常一起学习和讨论问题。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "郎冰冬在中学时期有两位非常欣赏她的老师，他们不仅在学业上给予她帮助，还在生活上给予她关心和支持。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "进入大学后，父亲依然关心郎冰冬的学习和生活。虽然两人见面的机会不多，但父亲总是通过电话和她保持联系。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲对郎冰冬的期望依然很高，希望她能在大学里取得好成绩。母女之间的关系依然紧张，但母亲的关心和支持始终如一。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "在大学里，郎冰冬结识了几位朋友，他们常常一起去咖啡馆和图书馆。虽然她性格内向，但这些朋友让她感到温暖和支持。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "郎冰冬的导师是一位严谨的科研人员，对她的实验项目给予了很多指导和帮助。虽然导师要求严格，但她非常尊敬和感激他。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "郎冰冬在不同阶段的社会关系经历了显著的变化。童年时期，她的社会关系主要集中在家庭和少数朋友之间。进入中学后，虽然朋友不多，但她与老师建立了较为亲密的关系。进入大学后，她的社会关系逐渐扩展，结识了更多的朋友，并与导师建立了专业上的联系。尽管她性格内向，但这些社会关系在不同阶段给予了她不同的支持和帮助。"
+    }
+}

@@ -1,0 +1,326 @@
+{
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须保持高效和准确。",
+                "others": "他人依赖我的专业能力。",
+                "world": "医院是一个需要高效和准确的地方。"
+            },
+            "rules": "我应该在工作中保持高效和准确。",
+            "positive_assumption": "如果我高效和准确，我会成为一名优秀的医生。",
+            "negative_assumption": "如果我不高效和准确，我会失去患者的信任。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对并解决生活中的问题。",
+                "others": "他人可以提供帮助，但我有信心自己处理大部分问题。",
+                "world": "世界充满挑战，但我有能力应对。"
+            },
+            "rules": "当遇到问题时，我应该主动解决。",
+            "positive_assumption": "如果我面对挑战并解决问题，我会变得更强大。",
+            "negative_assumption": "如果我逃避问题，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须时刻照顾好家人和完成工作任务。",
+                "others": "家人和同事依赖我的支持和责任心。",
+                "world": "世界需要我履行我的责任，不能懈怠。"
+            },
+            "rules": "我应该时刻为家人和工作负责。",
+            "positive_assumption": "如果我对家人和工作负责，我会赢得他们的尊重和信任。",
+            "negative_assumption": "如果我未能履行责任，我会失去他人的信任和尊重。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能完美地完成任务，我就是失败的。",
+                "others": "他人会因为我的不完美而失望。",
+                "world": "世界是竞争激烈的，只有完美的人才能成功。"
+            },
+            "rules": "我必须在所有事情上达到最高标准。",
+            "positive_assumption": "如果我做到完美，我会得到认可和尊重。",
+            "negative_assumption": "如果我不完美，我会被视为无能和失败。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在学术研究中保持高效和准确。",
+                "others": "导师和同学依赖我的学术能力。",
+                "world": "学术界是一个需要高效和准确的地方。"
+            },
+            "rules": "我应该在学术研究中保持高效和准确。",
+            "positive_assumption": "如果我高效和准确，我会成为一名优秀的学者。",
+            "negative_assumption": "如果我不高效和准确，我会失去导师和同学的信任。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对并解决学术和生活中的问题。",
+                "others": "导师和同学可以提供帮助，但我有信心自己处理大部分问题。",
+                "world": "世界充满挑战，但我有能力应对。"
+            },
+            "rules": "当遇到学术和生活问题时，我应该主动解决。",
+            "positive_assumption": "如果我面对挑战并解决问题，我会变得更强大。",
+            "negative_assumption": "如果我逃避问题，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须时刻照顾好家人并完成学业任务。",
+                "others": "家人和导师依赖我的支持和责任心。",
+                "world": "世界需要我履行我的家庭和学术责任，不能懈怠。"
+            },
+            "rules": "我应该时刻为家人和学业负责。",
+            "positive_assumption": "如果我对家人和学业负责，我会赢得他们的尊重和信任。",
+            "negative_assumption": "如果我未能履行责任，我会失去他人的信任和尊重。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能完美地完成学业，我就是失败的。",
+                "others": "导师和同学会因为我的不完美而失望。",
+                "world": "学术界是竞争激烈的，只有完美的人才能成功。"
+            },
+            "rules": "我必须在所有学术任务上达到最高标准。",
+            "positive_assumption": "如果我做到完美，我会得到导师和同学的认可和尊重。",
+            "negative_assumption": "如果我不完美，我会被视为无能和失败。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须保持高效和准确。",
+                "others": "老师和同学依赖我的学术能力。",
+                "world": "学校是一个需要高效和准确的地方。"
+            },
+            "rules": "我应该在学业中保持高效和准确。",
+            "positive_assumption": "如果我高效和准确，我会成为一名优秀的学生。",
+            "negative_assumption": "如果我不高效和准确，我会失去老师和同学的信任。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力面对并解决学业中的问题。",
+                "others": "老师和同学可以提供帮助，但我有信心自己处理大部分问题。",
+                "world": "学业充满挑战，但我有能力应对。"
+            },
+            "rules": "当遇到学业上的问题时，我应该主动解决。",
+            "positive_assumption": "如果我面对挑战并解决学业问题，我会变得更强大。",
+            "negative_assumption": "如果我逃避学业问题，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须时刻照顾好家人和完成学业任务。",
+                "others": "家人和老师依赖我的支持和责任心。",
+                "world": "世界需要我履行我的责任，不能懈怠。"
+            },
+            "rules": "我应该时刻为家人和学业负责。",
+            "positive_assumption": "如果我对家人和学业负责，我会赢得他们的尊重和信任。",
+            "negative_assumption": "如果我未能履行责任，我会失去他人的信任和尊重。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能完美地完成学业，我就是失败的。",
+                "others": "老师和同学会因为我的不完美而失望。",
+                "world": "学校是竞争激烈的，只有完美的人才能成功。"
+            },
+            "rules": "我必须在所有学业上达到最高标准。",
+            "positive_assumption": "如果我做到完美，我会得到老师和同学的认可和尊重。",
+            "negative_assumption": "如果我不完美，我会被视为无能和失败。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过努力学习和实践提高自己的能力。",
+                "others": "父母和老师会认可我的努力和进步。",
+                "world": "通过不断努力，我可以克服生活中的挑战。"
+            },
+            "rules": "我应该不断学习和实践，以提高自己的能力。",
+            "positive_assumption": "如果我不断努力，我会变得更加有能力和自信。",
+            "negative_assumption": "如果我不努力学习和实践，我会停滞不前，失去进步的机会。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决学习和生活中的问题。",
+                "others": "父母和老师可以提供帮助，但我有信心自己处理大部分问题。",
+                "world": "世界充满挑战，但我有能力应对。"
+            },
+            "rules": "当遇到问题时，我应该主动解决。",
+            "positive_assumption": "如果我面对挑战并解决问题，我会变得更强大。",
+            "negative_assumption": "如果我逃避问题，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要为家人分担责任，帮助他们。",
+                "others": "家人依赖我的帮助和支持。",
+                "world": "家庭和谐需要每个成员的责任感。"
+            },
+            "rules": "我应该在家里尽力帮助父母和家人。",
+            "positive_assumption": "如果我帮助家人，我会增强家庭的和谐和幸福。",
+            "negative_assumption": "如果我不帮助家人，我会被认为是不负责任和自私的。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须时刻努力，不辜负父母的期望。",
+                "others": "父母和老师依赖我的努力和成绩。",
+                "world": "世界需要我履行我的责任，不能懈怠。"
+            },
+            "rules": "我应该时刻努力学习，达到父母和老师的期望。",
+            "positive_assumption": "如果我努力学习，我会赢得父母和老师的尊重和信任。",
+            "negative_assumption": "如果我未能努力学习，我会失去父母和老师的信任和尊重。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须在学业和兴趣爱好上表现出色。",
+                "others": "父母和朋友会期待我在各方面都表现得很好。",
+                "world": "成功和认可只属于那些表现卓越的人。"
+            },
+            "rules": "我应该在学业和兴趣爱好上努力做到最好。",
+            "positive_assumption": "如果我在学业和兴趣上表现出色，我会获得更多的机会和支持。",
+            "negative_assumption": "如果我在这些方面表现不佳，我会失去父母和朋友的支持和认可。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能完美地完成任务，我就是失败的。",
+                "others": "父母和老师会因为我的不完美而失望。",
+                "world": "世界是竞争激烈的，只有完美的人才能成功。"
+            },
+            "rules": "我必须在所有事情上达到最高标准。",
+            "positive_assumption": "如果我做到完美，我会得到父母和老师的认可和尊重。",
+            "negative_assumption": "如果我不完美，我会被视为无能和失败。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

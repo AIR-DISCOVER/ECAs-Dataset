@@ -1,0 +1,326 @@
+{
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力，但需要更多的自信。",
+                "others": "他人可以指导和支持我。",
+                "world": "世界是一个可以学习和成长的地方。"
+            },
+            "rules": "我应该不断学习和提高自己。",
+            "positive_assumption": "如果我不断学习，我会变得更有能力。",
+            "negative_assumption": "如果我停止学习，我会停滞不前。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以在挑战中成长。",
+                "others": "他人可以提供帮助，但我也能依靠自己。",
+                "world": "世界充满了机会和挑战。"
+            },
+            "rules": "我应该积极面对挑战。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会错失成长机会。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须得到他人的认可才能感到满意。",
+                "others": "他人的认可是我存在的意义。",
+                "world": "世界是以他人的看法为标准的。"
+            },
+            "rules": "我应该尽量取悦他人。",
+            "positive_assumption": "如果我取悦他人，我会被喜欢和接受。",
+            "negative_assumption": "如果我不能取悦他人，我会被拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我永远达不到别人的期望。",
+                "others": "他人总是对我失望。",
+                "world": "世界对我的要求太高。"
+            },
+            "rules": "我应该不断努力，争取达到别人的期望。",
+            "positive_assumption": "如果我努力，我可能会满足别人的期望。",
+            "negative_assumption": "如果我无法满足别人的期望，我会让他们失望。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值取决于我的表现。",
+                "others": "他人只会看重我的成绩。",
+                "world": "世界是一个竞争激烈的地方。"
+            },
+            "rules": "我必须在学业上取得优异成绩。",
+            "positive_assumption": "如果我成绩优异，我会被认可和尊重。",
+            "negative_assumption": "如果我成绩不佳，我会被忽视或批评。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能完美地完成任务，我就是失败者。",
+                "others": "他人会批评我的不足。",
+                "world": "世界对错误和失败是无情的。"
+            },
+            "rules": "我必须尽全力避免错误。",
+            "positive_assumption": "如果我避免错误，我会被认为是优秀的。",
+            "negative_assumption": "如果我犯错，我会被看不起。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力，但需要更多的自信。",
+                "others": "他人可以指导和支持我。",
+                "world": "世界是一个可以学习和成长的地方。"
+            },
+            "rules": "我应该不断学习和提高自己。",
+            "positive_assumption": "如果我不断学习，我会变得更有能力。",
+            "negative_assumption": "如果我停止学习，我会停滞不前。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以在挑战中成长。",
+                "others": "他人可以提供帮助，但我也能依靠自己。",
+                "world": "世界充满了机会和挑战。"
+            },
+            "rules": "我应该积极面对挑战。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会错失成长机会。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须得到他人的认可才能感到满意。",
+                "others": "他人的认可是我存在的意义。",
+                "world": "世界是以他人的看法为标准的。"
+            },
+            "rules": "我应该尽量取悦他人。",
+            "positive_assumption": "如果我取悦他人，我会被喜欢和接受。",
+            "negative_assumption": "如果我不能取悦他人，我会被拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我永远达不到别人的期望。",
+                "others": "他人总是对我失望。",
+                "world": "世界对我的要求太高。"
+            },
+            "rules": "我应该不断努力，争取达到别人的期望。",
+            "positive_assumption": "如果我努力，我可能会满足别人的期望。",
+            "negative_assumption": "如果我无法满足别人的期望，我会让他们失望。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值取决于我的表现。",
+                "others": "他人只会看重我的成绩。",
+                "world": "世界是一个竞争激烈的地方。"
+            },
+            "rules": "我必须在学业上取得优异成绩。",
+            "positive_assumption": "如果我成绩优异，我会被认可和尊重。",
+            "negative_assumption": "如果我成绩不佳，我会被忽视或批评。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能完美地完成任务，我就是失败者。",
+                "others": "他人会批评我的不足。",
+                "world": "世界对错误和失败是无情的。"
+            },
+            "rules": "我必须尽全力避免错误。",
+            "positive_assumption": "如果我避免错误，我会被认为是优秀的。",
+            "negative_assumption": "如果我犯错，我会被看不起。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力，但需要更多的自信。",
+                "others": "他人可以指导和支持我。",
+                "world": "世界是一个可以学习和成长的地方。"
+            },
+            "rules": "我应该不断学习和提高自己。",
+            "positive_assumption": "如果我不断学习，我会变得更有能力。",
+            "negative_assumption": "如果我停止学习，我会停滞不前。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以在挑战中成长。",
+                "others": "他人可以提供帮助，但我也能依靠自己。",
+                "world": "世界充满了机会和挑战。"
+            },
+            "rules": "我应该积极面对挑战。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避挑战，我会错失成长机会。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须得到他人的认可才能感到满意。",
+                "others": "他人的认可是我存在的意义。",
+                "world": "世界是以他人的看法为标准的。"
+            },
+            "rules": "我应该尽量取悦他人。",
+            "positive_assumption": "如果我取悦他人，我会被喜欢和接受。",
+            "negative_assumption": "如果我不能取悦他人，我会被拒绝。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我永远达不到别人的期望。",
+                "others": "他人总是对我失望。",
+                "world": "世界对我的要求太高。"
+            },
+            "rules": "我应该不断努力，争取达到别人的期望。",
+            "positive_assumption": "如果我努力，我可能会满足别人的期望。",
+            "negative_assumption": "如果我无法满足别人的期望，我会让他们失望。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值取决于我的表现。",
+                "others": "他人只会看重我的成绩。",
+                "world": "世界是一个竞争激烈的地方。"
+            },
+            "rules": "我必须在学业上取得优异成绩。",
+            "positive_assumption": "如果我成绩优异，我会被认可和尊重。",
+            "negative_assumption": "如果我成绩不佳，我会被忽视或批评。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不能完美地完成任务，我就是失败者。",
+                "others": "他人会批评我的不足。",
+                "world": "世界对错误和失败是无情的。"
+            },
+            "rules": "我必须尽全力避免错误。",
+            "positive_assumption": "如果我避免错误，我会被认为是优秀的。",
+            "negative_assumption": "如果我犯错，我会被看不起。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

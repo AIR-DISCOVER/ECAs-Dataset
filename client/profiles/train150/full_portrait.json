@@ -1,0 +1,173 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "耐心",
+            "内向",
+            "敏感"
+        ],
+        "appearance": [
+            "中等身材",
+            "稍显疲惫",
+            "头发微卷",
+            "眼神温柔",
+            "穿着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "烹饪",
+                "园艺",
+                "阅读",
+                "手工艺"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步",
+                "在家里种花种草"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "改善与丈夫的关系，找到更多的自信心",
+            "long_term_goals": "经营好家庭，培养更多的兴趣爱好，找到内心的平静"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，准备早餐，打扫家务，午饭后休息一会儿，下午做一些手工艺或园艺，晚上准备晚餐，和丈夫一起看电视或聊天。",
+            "weekends": "周末会去公园散步，偶尔和朋友聚会，更多时间在家里休息和做自己喜欢的事情。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母都是工人，生活虽然不富裕但很温馨。",
+            "adolescence": "中学时期成绩一般，但有几个好朋友，喜欢阅读和写作。",
+            "youth": "结婚后成为家庭主妇，专注于照顾家庭和孩子，生活平淡但充实。",
+            "recent_events": "最近孩子们都离家上学或工作，家里只剩下她和丈夫，感到有些空虚和不安。"
+        },
+        "environment": "出生在一个小城市，结婚后搬到丈夫工作的城市，生活环境相对安静，社区邻里关系和睦。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "吕寒凡的父母都是工人，虽然生活不富裕，但他们对吕寒凡的关爱无微不至。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "吕寒凡在小学和中学时期有几个好朋友，他们经常一起玩耍和学习，关系非常亲密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "中学时期，吕寒凡的朋友圈子缩小了，但她依然有两个非常要好的朋友。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "吕寒凡的语文老师对她的阅读和写作兴趣给予了很大的支持和鼓励。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "吕寒凡与丈夫结婚后，成为了家庭主妇，专注于照顾家庭和孩子。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "吕寒凡有两个孩子，她对他们的照顾无微不至，孩子们也非常依赖她。"
+                    ]
+                },
+                {
+                    "relationship": "邻居",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "吕寒凡与邻居们关系和睦，偶尔会一起聊天和分享家常。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "最近，吕寒凡与丈夫的关系有些紧张，尤其是在孩子们离家后，她感到有些空虚和不安。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "吕寒凡偶尔会与朋友聚会，但她发现自己越来越难以融入社交场合。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "吕寒凡的社交能力和意愿在不同阶段有明显变化。童年和青少年时期，她有较多的朋友和亲密关系，但随着结婚和成为家庭主妇，她的社交圈子逐渐缩小。最近，孩子们离家后，她感到空虚和不安，社交退缩，难以融入社交场合。她希望通过改善与丈夫的关系和培养更多的兴趣爱好，找到内心的平静。"
+    }
+}

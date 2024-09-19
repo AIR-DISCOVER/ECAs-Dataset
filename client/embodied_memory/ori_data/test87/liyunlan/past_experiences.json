@@ -1,0 +1,441 @@
+{
+    "childhood": {
+        "name": "李筠岚",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "记得有一次，我刚上小学一年级，放学后兴冲冲地跑回家，想告诉妈妈我在班上得了个小红花。可是回到家，发现家里空荡荡的，妈妈又出门忙去了，只有一张纸条告诉我晚饭在冰箱里。我感到一种深深的失落和孤独。",
+                "location": "家里",
+                "happen_time": "2011年9月",
+                "participants": "李筠岚，母亲",
+                "impact": "这个事件强化了李筠岚'我不值得被爱'的核心信念和'父母不会真正关心我'的中间信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "有一天，我在学校里因为没有完成作业被老师批评，同学们在一旁窃笑。我感到无地自容，回家后躲在房间里哭泣，父母并没有察觉到我的情绪变化，也没有安慰我。",
+                "location": "学校和家里",
+                "happen_time": "2012年3月",
+                "participants": "李筠岚，老师，同学",
+                "impact": "这次经历让李筠岚更加坚信'我没有能力达到目标'，并且'他人都比我更有能力'。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我坐在房间里，听见客厅里爸爸和妈妈又开始吵架了。他们吵得很厉害，爸爸摔了杯子，玻璃碎了一地，妈妈哭了。我感到很害怕，也觉得自己无能为力。",
+                "location": "家里",
+                "happen_time": "2013年5月",
+                "participants": "李筠岚，父亲，母亲",
+                "impact": "这个事件让李筠岚感到生活是没有意义的，强化了'我的存在没有意义'的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "记得有一次，父亲难得有空，带我去了公园。可是他一直在看手机，几乎没怎么和我说话。我本来很开心，但后来感到非常失落。",
+                "location": "公园",
+                "happen_time": "2014年8月",
+                "participants": "李筠岚，父亲",
+                "impact": "这次经历加深了李筠岚'我不值得被爱'的核心信念以及'父母不会真正关心我'的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到妈妈给弟弟买了一件新玩具，而我想要的书却一直没有得到。我感到非常失落和不公平。",
+                "location": "家里",
+                "happen_time": "2015年11月",
+                "participants": "李筠岚，母亲，弟弟",
+                "impact": "这个事件让李筠岚感到自己不配拥有好的生活，强化了'我不值得被爱'和'世界对我是不公平的'的信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "小学三年级的时候，我参加了一次绘画比赛，结果没有获奖。我心里很难过，但父母只是说了句'下次努力'，没有更多的安慰。",
+                "location": "学校",
+                "happen_time": "2013年4月",
+                "participants": "李筠岚，父母，老师，同学",
+                "impact": "这次经历强化了李筠岚'我没有能力达到目标'的核心信念以及'我的努力永远不会有回报'的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到同学们在操场上开心地玩耍，但因为害怕被拒绝，我没有上前参与，只是远远地看着。",
+                "location": "学校操场",
+                "happen_time": "2014年6月",
+                "participants": "李筠岚，同学们",
+                "impact": "这个事件让李筠岚感到自己不值得被人关心和爱护，强化了'我不配拥有亲密的朋友'的核心信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "有一天，我想和妈妈聊聊学校里的烦恼，但她只是敷衍地听了几句，然后说她很忙。我感到非常失望。",
+                "location": "家里",
+                "happen_time": "2015年3月",
+                "participants": "李筠岚，母亲",
+                "impact": "这次经历让李筠岚更加坚信'父母不会真正关心我'，并且'世界上的好事都不属于我'。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父亲因为工作压力大发脾气，摔了家里的一个花瓶，妈妈默默地收拾碎片。我感到很害怕，也觉得家里没有安全感。",
+                "location": "家里",
+                "happen_time": "2016年7月",
+                "participants": "李筠岚，父亲，母亲",
+                "impact": "这个事件让李筠岚感到生活没有意义，强化了'我的存在没有意义'的核心信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "有一次，我的生日到了，但父母都因为工作忙碌而没有给我庆祝，只是买了个蛋糕让我自己吃。我感到非常失落和孤独。",
+                "location": "家里",
+                "happen_time": "2017年1月",
+                "participants": "李筠岚，父母",
+                "impact": "这次经历让李筠岚更加坚信'我不值得被爱'，并且'世界上的好事都不属于我'。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我听到同学们在讨论周末去游乐园玩，但没有人邀请我。我感到非常失落和被忽视。",
+                "location": "学校",
+                "happen_time": "2016年5月",
+                "participants": "李筠岚，同学们",
+                "impact": "这个事件让李筠岚感到自己不值得被人关心和爱护，强化了'我不配拥有亲密的朋友'的核心信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "有一次，我在课后活动中尝试去和同学们互动，但他们对我冷淡回应。我感到非常尴尬和自卑。",
+                "location": "学校",
+                "happen_time": "2016年10月",
+                "participants": "李筠岚，同学们",
+                "impact": "这次经历让李筠岚感到自己无法成功，强化了'我不应该主动接近他人'的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父母因为钱的事情吵架，妈妈哭了。我感到很无助，也觉得自己无法改变任何事情。",
+                "location": "家里",
+                "happen_time": "2017年3月",
+                "participants": "李筠岚，父母",
+                "impact": "这个事件让李筠岚感到生活没有意义，强化了'我的存在没有意义'的核心信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "有一天，我在学校里因为考试成绩差被老师当众批评，同学们在一旁窃笑。我感到无地自容，回家后躲在房间里哭泣，父母并没有察觉到我的情绪变化，也没有安慰我。",
+                "location": "学校和家里",
+                "happen_time": "2017年6月",
+                "participants": "李筠岚，老师，同学",
+                "impact": "这次经历让李筠岚更加坚信'我没有能力达到目标'，并且'他人都比我更有能力'。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "李筠岚",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我记得在初二的一次班会上，班主任让每个人上台讲述自己的梦想。我站在台上，望着下面的同学们，突然觉得自己说什么都没有意义，因为他们根本不在乎。于是我草草了事，回到座位上，心里充满了自卑和失落。",
+                "location": "学校教室",
+                "happen_time": "2018年10月",
+                "participants": "班主任、同学们",
+                "impact": "这个事件加深了我‘我没有价值’的核心信念，让我更加不敢在公众场合表达自己，认为自己不值得被关注。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "高一时，我的数学成绩一直不好。有一次考试后，老师在班里公开批评我，说我不努力，导致成绩差。同学们都在笑，我感到非常羞愧。回到家后，我哭了一整晚，觉得自己真的很无能。",
+                "location": "学校教室",
+                "happen_time": "2020年3月",
+                "participants": "数学老师、同学们",
+                "impact": "这个事件强化了‘我无法成功’的核心信念，导致我对学业失去信心，认为自己再怎么努力也达不到目标。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家写作业，听见客厅里爸爸和妈妈又开始吵架了。那天他们吵得特别凶，妈妈声音都哑了。我透过门缝偷偷看见，爸爸摔了杯子，玻璃碎了一地。",
+                "location": "家中客厅",
+                "happen_time": "2020年7月",
+                "participants": "父母",
+                "impact": "这次吵架让我更加觉得家庭是冷漠无爱的，加深了‘我不值得被爱’和‘生活没有意义’的核心信念，认为即使是亲人之间也缺乏真正的情感支持。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "高二那年，我尝试加入学校的合唱团，希望能通过唱歌找到一些自信。可是几次排练后，我发现自己总是跟不上节奏，老师也没有特别关注我，最后我决定退出。",
+                "location": "学校音乐教室",
+                "happen_time": "2021年1月",
+                "participants": "合唱团老师、同学们",
+                "impact": "这个事件强化了‘我没有价值’的核心信念，同时也加深了‘我不值得被关注’的中间信念，让我更加害怕尝试新的挑战。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在图书馆学习，看到其他同学在讨论他们的未来计划，谈笑风生。我默默地看着他们，感觉自己与他们完全格格不入，仿佛是生活在不同的世界里。",
+                "location": "学校图书馆",
+                "happen_time": "2021年5月",
+                "participants": "同学们",
+                "impact": "这个观察让我更加确认‘我不值得被爱’和‘我不配拥有好的生活’的核心信念，认为自己永远无法融入他人的生活圈。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高考那天，我走出考场时，感觉整个人都空了。考得不好，心里很清楚。回到家后，妈妈只是淡淡地说了一句‘尽力了就好’，然后继续忙她的事情。我感到无比的失落和孤独。",
+                "location": "高考考场",
+                "happen_time": "2023年6月",
+                "participants": "母亲",
+                "impact": "这个事件深深影响了‘我无法成功’和‘我不值得被爱’的核心信念，让我更加确信自己无法达到期望，也无法得到真正的情感支持。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "有一次，我在家里听音乐，突然想起了小时候父母带我去公园玩的情景，那是为数不多的美好回忆之一。想着想着，我竟然泪流满面，感到无比的失落和怀念。",
+                "location": "家中房间",
+                "happen_time": "2023年8月",
+                "participants": "无",
+                "impact": "这个事件让我进一步确认‘我不值得被爱’和‘生活没有意义’的核心信念，认为自己过去的美好时光已经远去，再也无法找回。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的孩子在院子里玩耍，父母在旁边看着，时不时地逗弄孩子，笑声不断。我站在窗口，心里充满了羡慕和酸楚。",
+                "location": "邻居家院子",
+                "happen_time": "2022年4月",
+                "participants": "邻居一家",
+                "impact": "这个场景让我感受到自己家庭的冷漠和缺乏关爱，强化了‘我不值得被爱’和‘我不配拥有亲密的朋友’的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "有一次，我鼓起勇气给一个同学发消息，想约她一起出去玩。可是等了很久都没有回复，我心里非常失落，觉得自己被忽视了。",
+                "location": "家中房间",
+                "happen_time": "2021年11月",
+                "participants": "同学",
+                "impact": "这个事件强化了‘我不值得被爱’和‘他人不会真正关心我’的核心信念，让我更加害怕与人建立联系。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一位同学因为成绩优异被老师当众表扬，全班都在为她鼓掌。我坐在角落里，心里充满了羡慕和自卑，觉得自己永远无法得到这样的认可。",
+                "location": "学校教室",
+                "happen_time": "2021年3月",
+                "participants": "同学、老师",
+                "impact": "这个事件加深了‘我没有价值’和‘我无法成功’的核心信念，让我更加确信自己无法得到认可和成功。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "有一次，我在家里尝试做一道菜，结果做得一塌糊涂，父母只是淡淡地说了一句‘还不如不做’。我感到非常失落，觉得自己什么都做不好。",
+                "location": "家中厨房",
+                "happen_time": "2022年5月",
+                "participants": "父母",
+                "impact": "这个事件强化了‘我无法成功’和‘我的努力永远不会有回报’的核心信念，让我对自己的能力更加怀疑。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在公园散步，看到一对老夫妻手牵手走着，脸上洋溢着幸福的笑容。我站在远处，看着他们，心里想，这样的幸福恐怕永远也不会属于我。",
+                "location": "公园",
+                "happen_time": "2022年10月",
+                "participants": "公园里的陌生人",
+                "impact": "这个场景加深了‘我不值得被爱’和‘我注定要孤独一生’的核心信念，让我更加确信自己无法找到真正的幸福和爱。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "有一次，我在家看了一部励志电影，电影中的主角克服了重重困难，最终实现了自己的梦想。我感动得流下了眼泪，但心里却觉得自己永远无法做到这样。",
+                "location": "家中客厅",
+                "happen_time": "2023年3月",
+                "participants": "无",
+                "impact": "这个事件让我反思自己的生活，强化了‘我无法成功’和‘我的存在没有意义’的核心信念，让我对未来更加迷茫和失望。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到同学在校门口被父母接走，父母对她嘘寒问暖。回家的路上，我心里非常羡慕，觉得自己从来没有得到过这样的关爱。",
+                "location": "学校门口",
+                "happen_time": "2021年9月",
+                "participants": "同学及其父母",
+                "impact": "这个场景加深了‘我不值得被爱’和‘我不配拥有亲密的朋友’的核心信念，让我更加感到孤独和被忽视。"
+            },
+            {
+                "event_id": "15",
+                "category": "First-Person Experience",
+                "event": "有一次，我在家里尝试写一篇文章，希望能投稿到学校的文学刊物上。可是写了几天都没有灵感，最后放弃了。我感到非常失落，觉得自己真的没有才能。",
+                "location": "家中房间",
+                "happen_time": "2023年1月",
+                "participants": "无",
+                "impact": "这个事件强化了‘我无法成功’和‘我没有能力达到目标’的核心信念，让我对自己的写作能力更加怀疑，失去了继续尝试的勇气。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "李筠岚",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "高考成绩出来的那天，我一个人坐在房间里，对着电脑屏幕发呆。屏幕上显示的分数低于我所期望的。我感到一阵无助和绝望，眼泪不自觉地流下来。",
+                "location": "家中的房间",
+                "happen_time": "2023年6月",
+                "participants": "无",
+                "impact": "高考失利直接打击了李筠岚的自信心，加剧了她对未来的无望感，强化了她“我无法成功”的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "母亲在餐桌上对我说：‘你怎么能考这么差？你让我们怎么面对亲戚朋友？’我低头不语，心里感到深深的羞愧和自责。",
+                "location": "家中的餐桌",
+                "happen_time": "2023年6月",
+                "participants": "母亲",
+                "impact": "母亲的失望和责备让李筠岚更加感到自己不值得被爱和关注，强化了她的自卑感和“我不值得被爱”的核心信念。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "父亲在高考成绩出来后对我态度冷淡，几乎不再跟我说话。有一次我试图跟他交流，他只是淡淡地说：‘考不上大学就找工作吧，别指望我们养你一辈子。’",
+                "location": "家中的客厅",
+                "happen_time": "2023年7月",
+                "participants": "父亲",
+                "impact": "父亲的冷淡和不理解让李筠岚感到自己在家庭中的价值被否定，进一步加剧了她的低自尊和“生活没有意义”的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我尝试联系两个朋友，但她们都忙于大学生活，没时间陪我。我感到自己被世界遗弃，越来越孤独。",
+                "location": "手机聊天软件",
+                "happen_time": "2023年8月",
+                "participants": "两位朋友",
+                "impact": "朋友的疏远让李筠岚更加感到自己不值得被爱和关注，强化了她的孤独感和“我不值得被爱”的核心信念。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "因为失眠，我常常在半夜醒来，躺在床上想着自己的人生。一次，我甚至产生了自杀的念头，觉得活着真的没有意义。",
+                "location": "家中的卧室",
+                "happen_time": "2023年9月",
+                "participants": "无",
+                "impact": "失眠和自杀念头让李筠岚的心理状态进一步恶化，强化了她对生活无望的感觉和“生活没有意义”的核心信念。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "父母因为我的高考失利而产生矛盾，经常在我面前争吵。我感到自己是家庭矛盾的根源，心里充满了自责和无助。",
+                "location": "家中的客厅",
+                "happen_time": "2023年10月",
+                "participants": "父母",
+                "impact": "父母的争吵让李筠岚感到自己是家庭的负担，进一步加剧了她的自罪感和自我价值感低的感觉。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "母亲在一次争吵后对我说：‘你这样的人怎么能找到好工作？’这句话深深刺痛了我，我感到自己的未来一片黑暗。",
+                "location": "家中的客厅",
+                "happen_time": "2023年11月",
+                "participants": "母亲",
+                "impact": "母亲的言语攻击让李筠岚更加怀疑自己的能力，强化了她“我无法成功”的核心信念。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我开始对所有事情失去兴趣，整天躺在床上，不愿意出门。即使有朋友约我出去，我也总是找借口拒绝。",
+                "location": "家中的卧室",
+                "happen_time": "2023年12月",
+                "participants": "无",
+                "impact": "生活的无趣和对社交的排斥让李筠岚的抑郁症状加重，进一步强化了她“生活没有意义”的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我在新闻上看到一则关于青少年自杀的报道，心里感到深深的共鸣和悲伤。觉得自己也可能走上这条路。",
+                "location": "家中的客厅",
+                "happen_time": "2024年1月",
+                "participants": "电视新闻",
+                "impact": "新闻报道让李筠岚对自杀的念头更加坚定，强化了她对生活无望的感觉和“生活没有意义”的核心信念。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "因为无聊，我开始在网上浏览一些负面的内容，看到很多和我一样失意的人。我感到一阵共鸣，但也越来越消沉。",
+                "location": "家中的卧室",
+                "happen_time": "2024年2月",
+                "participants": "无",
+                "impact": "负面的网络内容加剧了李筠岚的抑郁情绪，让她更加认同“生活没有意义”的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我试图向父母表达我的无助和抑郁，但他们只认为我是懒惰，不理解我的内心痛苦。母亲甚至说：‘你就是不努力，才会这么消极。’",
+                "location": "家中的客厅",
+                "happen_time": "2024年3月",
+                "participants": "父母",
+                "impact": "父母的不理解和指责让李筠岚感到更加孤独和无助，强化了她“我不值得被爱”和“我没有价值”的核心信念。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次，我看到父母在我面前露出失望和无奈的表情，我心里感到深深的自责，觉得自己是家庭的拖累。",
+                "location": "家中的客厅",
+                "happen_time": "2024年4月",
+                "participants": "父母",
+                "impact": "父母的失望表情让李筠岚更加感到自己没有价值和不值得被爱，进一步加剧了她的抑郁情绪。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我在街上看到一个和我年纪相仿的女孩，穿着时尚，看起来很自信快乐。我心里感到一阵嫉妒和自卑，觉得自己永远无法像她那样。",
+                "location": "街道",
+                "happen_time": "2024年5月",
+                "participants": "陌生女孩",
+                "impact": "看到陌生女孩的自信和快乐让李筠岚更加感到自卑和无价值，强化了她“我无法成功”的核心信念。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次，我试图向朋友倾诉我的痛苦，但对方却显得很不耐烦，让我更感到自己不值得被关心。",
+                "location": "手机聊天软件",
+                "happen_time": "2024年6月",
+                "participants": "朋友",
+                "impact": "朋友的冷淡反应让李筠岚感到更加孤独和无助，强化了她“我不值得被爱”和“我没有价值”的核心信念。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次睡眠不足的情况下，精神恍惚，差点被车撞到。虽然没有受伤，但我心里感到一阵恐惧和无助。",
+                "location": "街道",
+                "happen_time": "2024年7月",
+                "participants": "无",
+                "impact": "这次近乎车祸的经历让李筠岚感到对生活的控制力进一步下降，强化了她对自己无能和生活无意义的感觉。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我在新闻上看到一个年轻人因为抑郁而自杀的报道，心里感到深深的共鸣和无助，觉得自己也可能走到这一步。",
+                "location": "家中的客厅",
+                "happen_time": "2024年8月",
+                "participants": "电视新闻",
+                "impact": "新闻报道让李筠岚对自杀的念头更加坚定，强化了她对生活无望的感觉和“生活没有意义”的核心信念。"
+            }
+        ]
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "recent_events": {
+        "name": "郎国思",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在学校的体育课上，由于体重增加跑步很慢，几个同学在旁边嘲笑我，说我是'胖子'。这让我非常难过和羞愧，觉得自己不够好。",
+                "location": "学校操场",
+                "happen_time": "2024年1月",
+                "participants": "同学们",
+                "impact": "此事件进一步加深了我对自己外貌的自卑感，强化了核心信念'我不够好'和中间信念'我必须改变自己的外貌，才能被同学接受。'"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "放学回家的路上，我因为嘲笑的事情控制不住情绪，哭着告诉了爸爸。爸爸安慰我，说我可以通过健康饮食和运动变得更好，但我仍然觉得自己没有价值。",
+                "location": "回家的路上",
+                "happen_time": "2024年2月",
+                "participants": "爸爸",
+                "impact": "虽然爸爸的安慰让我感到一些温暖，但核心信念'我没有价值'仍然占据上风，影响了我的自信心。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在学校的班会上，看到班主任李老师表扬了班里的一个同学，因为他在体育比赛中取得了好成绩。当时我感到自己与那些成绩优秀的同学差距很大，内心更加自卑。",
+                "location": "教室",
+                "happen_time": "2024年3月",
+                "participants": "李老师，同学们",
+                "impact": "这个事件强化了我对自己能力的怀疑，增加了'我不值得被关注和关心'的信念。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，亲戚们关心我的学习和生活情况，但有的亲戚开玩笑说我胖了。我表面上笑了笑，但心里感到非常难过和自卑。",
+                "location": "家庭聚会",
+                "happen_time": "2024年4月",
+                "participants": "亲戚们",
+                "impact": "这次聚会加深了我对外貌的焦虑，认为'这个世界对外表有很多偏见'，并且增强了'如果我不减肥，我会继续被嘲笑和排斥'的负面假设。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "母亲在家里对我说，她会每天早上帮我准备健康的早餐，并鼓励我多运动。她希望我能变得更健康和自信。",
+                "location": "家里",
+                "happen_time": "2024年5月",
+                "participants": "母亲",
+                "impact": "母亲的关心让我感到一些支持，但我内心仍然怀疑自己的能力，觉得即使努力也不会有太大改变。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次体育课上，我努力跑步并试图跟上其他同学的速度，但还是很慢。同学们再一次嘲笑我，我感到非常绝望。",
+                "location": "学校操场",
+                "happen_time": "2024年6月",
+                "participants": "同学们",
+                "impact": "这次经历进一步加深了我对自己能力和外貌的怀疑，强化了'我没有价值'的核心信念。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "放学后，好友小强安慰我，说他相信我可以通过努力变得更好，并愿意陪我一起锻炼。",
+                "location": "放学路上",
+                "happen_time": "2024年7月",
+                "participants": "小强",
+                "impact": "小强的支持让我感到一些希望，增强了'我有能力通过努力改善自己的状况'的信念。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在班级讨论中，我看到其他同学热烈讨论他们的兴趣和爱好，而我却因为自卑感不敢参与。",
+                "location": "教室",
+                "happen_time": "2024年8月",
+                "participants": "同学们",
+                "impact": "这个事件让我感到自己与其他同学格格不入，强化了'我不值得被关注和关心'的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在家里的时候，我向母亲倾诉了自己在学校被嘲笑的事情，母亲鼓励我说，真正的朋友会看重我的内在品质，而不是外貌。",
+                "location": "家里",
+                "happen_time": "2024年9月",
+                "participants": "母亲",
+                "impact": "母亲的鼓励让我感到一些安慰，但我心中仍然怀疑，认为'他人不会真正关心我的感受'。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会中，我观察到一个表哥因为成绩好受到大家的表扬，而我因为体重增加被取笑。",
+                "location": "家庭聚会",
+                "happen_time": "2024年10月",
+                "participants": "亲戚们",
+                "impact": "这次观察让我感到更加自卑，觉得自己没有价值，强化了'我不值得被关注和关心'的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家人散步中，父亲鼓励我坚持锻炼，并向我展示了他年轻时如何通过毅力实现目标的故事。",
+                "location": "公园",
+                "happen_time": "2024年11月",
+                "participants": "父亲",
+                "impact": "父亲的故事给了我一些激励，增强了'我有能力通过努力改善自己的状况'的信念。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在学校的美术课上，我的动漫设计得到了老师的表扬，这让我感到了一些自信。",
+                "location": "学校美术教室",
+                "happen_time": "2024年12月",
+                "participants": "美术老师",
+                "impact": "这次表扬让我感到了一些自信，但总体上，我仍然因为其他同学的嘲笑而感到自卑。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在学校的运动会上，我看到其他同学在运动项目中表现出色，而我只能在旁边观看。",
+                "location": "学校操场",
+                "happen_time": "2024年12月",
+                "participants": "同学们",
+                "impact": "这个事件让我感到自己无法与其他同学竞争，进一步加深了'我不值得被关注和关心'的核心信念。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家长会上，父母听到老师对我在美术课上的表现表示赞赏，他们感到非常高兴并鼓励我继续努力。",
+                "location": "学校教室",
+                "happen_time": "2024年12月",
+                "participants": "父母，老师",
+                "impact": "父母的鼓励让我感到一些支持，但我仍然怀疑自己的能力，尤其是在面对同学的嘲笑时。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在电视新闻中看到一个因为坚持锻炼成功减肥的小男孩的故事，母亲用这个例子鼓励我。",
+                "location": "家里",
+                "happen_time": "2024年12月",
+                "participants": "母亲",
+                "impact": "这个故事让我感到一些激励，增强了'我可以改变自己'的信念，但我仍然担心自己无法成功。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次动漫展上，我看到很多优秀的动漫作品，这让我更加坚定了成为动漫设计师的梦想，同时也感到了一些压力。",
+                "location": "动漫展",
+                "happen_time": "2024年12月",
+                "participants": "动漫爱好者",
+                "impact": "这次经历让我感到了一些希望，但也增加了压力，强化了'世界是充满挑战的'的核心信念。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在学校的文艺演出上，我看到一个同学因为表演出色受到全场的掌声，而我因为害怕嘲笑没有参与。",
+                "location": "学校礼堂",
+                "happen_time": "2024年12月",
+                "participants": "同学们，老师",
+                "impact": "这个事件让我感到自己错失了表现自己的机会，进一步加深了'我不值得被关注和关心'的核心信念。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭晚餐中，父母讨论了我未来的减肥计划，并表示会全力支持我。",
+                "location": "家里",
+                "happen_time": "2024年12月",
+                "participants": "父母",
+                "impact": "父母的支持让我感到一些希望，但我仍然担心自己无法成功，怀疑'我没有价值'。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在公园散步时，我看到一个同龄男孩在父母的鼓励下坚持锻炼，最终成功减肥。",
+                "location": "公园",
+                "happen_time": "2024年12月",
+                "participants": "父母，同龄男孩",
+                "impact": "这个事件让我感到一些激励，希望自己也能通过努力改变，但同时也感到一些压力。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次班级活动中，班主任李老师特别表扬了我在美术课上的进步，这让我感到了一些自信。",
+                "location": "教室",
+                "happen_time": "2024年12月",
+                "participants": "李老师，同学们",
+                "impact": "李老师的表扬让我感到了一些自信，增强了'我有能力通过努力改善自己的状况'的信念。"
+            }
+        ]
+    }
+}

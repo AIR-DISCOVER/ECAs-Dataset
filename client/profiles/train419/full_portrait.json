@@ -1,0 +1,173 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "皮肤白皙",
+            "黑色长发",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "绘画"
+            ],
+            "activity": [
+                "独自散步",
+                "在图书馆学习",
+                "偶尔和朋友一起看电影"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "提高学习成绩，恢复正常的睡眠和饮食",
+            "long_term_goals": "找到一份稳定的工作，实现自我价值"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到学校上课，下午4点放学后在图书馆自习，晚上10点回到宿舍，尝试入睡。",
+            "weekends": "周末通常在宿舍休息，偶尔会去图书馆或咖啡馆学习，晚上会听音乐或看书放松自己。"
+        },
+        "past_experiences": {
+            "childhood": "小时候在一个小城市长大，父母工作忙碌，常常独自一人在家。",
+            "adolescence": "中学时期成绩优异，但由于父母的高期望和学业压力，逐渐感到焦虑和自卑。",
+            "recent_events": "最近半年由于学业压力和对未来的迷茫，开始出现抑郁症状，影响了日常生活和学习。"
+        },
+        "environment": "出生在一个小城市，家庭经济状况一般，父母对她期望很高。高中毕业后考入省城的一所大学，目前住在学校宿舍。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "父亲：工作繁忙，但在有限的时间里尽量陪伴女儿，偶尔会带她去公园玩。",
+                        "母亲：同样工作繁忙，但会在家里做饭，关心女儿的学习和生活。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "一个邻居家的小女孩，两人经常一起玩耍，但随着年龄增长，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "父亲：依旧工作繁忙，和女儿的交流减少，更多的是对她学业的期望。",
+                        "母亲：对女儿的学习成绩非常关注，常常督促她学习，偶尔会有争执。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "班主任：对她的学习成绩非常关注，给予了很多鼓励和支持。",
+                        "数学老师：严格要求，但也会在她遇到困难时提供帮助。",
+                        "英语老师：比较和蔼，常常鼓励她多读书。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "一个成绩优异的同学，两人常常一起讨论学习问题。",
+                        "另一个同学性格开朗，偶尔会带她出去玩，缓解压力。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "父亲：依旧工作繁忙，和女儿的交流更少了。",
+                        "母亲：对女儿的学业和未来非常担忧，但不知道如何帮助她。"
+                    ]
+                },
+                {
+                    "relationship": "室友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "一个性格开朗的室友，常常鼓励她，但她不愿意过多倾诉自己的烦恼。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "一个大学里的朋友，两人偶尔一起看电影，但她不愿意过多谈论自己的情绪问题。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "心理咨询师：她开始定期看心理医生，尝试通过专业帮助来改善自己的状态。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "殷宜贞在不同阶段的社会关系发生了显著变化。童年时期，她与父母和邻居小朋友的关系较为亲密，但随着父母工作越来越忙，她与父母的交流逐渐减少。进入青春期后，她的社交圈主要集中在学校，与老师和同学的关系较为密切，但由于学业压力，她的社交活动减少。最近半年，由于抑郁症状的出现，她的社交活动进一步减少，主要依赖室友和少数朋友的支持，同时开始寻求心理咨询师的帮助。"
+    }
+}

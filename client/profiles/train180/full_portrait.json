@@ -1,0 +1,186 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "善良",
+            "有责任心",
+            "有些犹豫不决"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "皮肤较白",
+            "头发略长"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "和朋友一起去图书馆",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "适应大学生活，提升学习成绩",
+            "long_term_goals": "成为一名优秀的工程师，能够在科技领域有所建树"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点上课，下午在图书馆自习，晚上10点左右睡觉",
+            "weekends": "周末通常会和朋友一起去图书馆学习，偶尔会去公园散步放松"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，从小成绩优异",
+            "adolescence": "高中时期成绩依然优秀，但由于学习压力大，性格变得更加内向",
+            "recent_events": "刚进入大学，面对新的环境和学习压力，感到有些不适应"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "孟河生的父亲是一名工程师，对儿子的期望很高。父亲在孟河生的成长过程中扮演了重要的角色，经常辅导他的学习，鼓励他追求卓越。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "孟河生的母亲是一名小学教师，性格温和，对儿子非常关爱。母亲在孟河生的童年时期给予了他很多情感上的支持，帮助他建立了良好的学习习惯。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "孟河生在小学时有几个要好的朋友，他们经常一起玩耍和学习。这些朋友在孟河生的童年时期给了他很多快乐和支持。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "随着学习压力的增加，孟河生与父亲的关系变得有些紧张。父亲对他的期望越来越高，这让孟河生感到压力山大。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲依然是孟河生情感上的支柱，她理解儿子的压力，并尽力给予他支持和安慰。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "高中时期，孟河生的朋友圈子有所缩小，但他依然有几个要好的朋友。他们一起面对学习的压力，互相鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "孟河生的几位老师对他的学习和成长起到了重要的指导作用，特别是在他感到迷茫时，老师们的建议和鼓励让他受益匪浅。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "进入大学后，孟河生与父亲的联系减少了，但父亲依然关心他的学习和生活。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲经常打电话关心孟河生的生活和学习情况，给予他情感上的支持。"
+                    ]
+                },
+                {
+                    "relationship": "大学同学",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "孟河生在大学里结识了几位新同学，他们一起上课、学习，但由于性格内向，孟河生与他们的关系还不算特别亲密。"
+                    ]
+                },
+                {
+                    "relationship": "辅导员",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "大学辅导员对孟河生的适应情况表示关心，提供了一些建议和帮助。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "孟河生在不同阶段的社会关系发生了显著变化。童年时期，他的社会关系主要集中在家庭和朋友之间，关系较为亲密。进入青春期后，学习压力增加，他的朋友圈子有所缩小，但与父母和老师的关系依然重要。进入大学后，孟河生面临新的环境和挑战，社会关系发生了较大变化。他需要重新建立新的朋友关系，同时适应与家人联系减少的情况。尽管如此，他依然保持着与父母的紧密联系，并在大学里逐渐结识新朋友。"
+    }
+}

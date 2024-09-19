@@ -1,0 +1,161 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "缺乏自信",
+            "情感淡漠",
+            "容易疲倦"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "皮肤白皙",
+            "黑色长发",
+            "眼神略显疲惫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "独自散步",
+                "在家看书"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "调整好自己的情绪，恢复正常的生活和工作状态。",
+            "long_term_goals": "找到自己真正喜欢和擅长的工作，建立稳定的人际关系，提升自我价值感。"
+        },
+        "daily_life": {
+            "routine": "每天早上起床后感到情绪低落，勉强去上班。工作中常常感到疲倦和无力，思维迟钝。下班后回家，简单吃点东西后，通常会独自待在房间里，听音乐或看书。晚上入睡困难，需要两个小时才能入睡。",
+            "weekends": "周末大部分时间在家，偶尔会出去散步，但不愿意与人接触。通常会花时间阅读或看电影，但很难从中获得快乐。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的家庭，父母关系和睦，但对她的期望较高。小时候成绩优异，但性格内向，不太喜欢与人交往。",
+            "adolescence": "中学时期成绩依然优秀，但由于性格内向，朋友不多。高考后考入北师大，学习经济学专业。",
+            "recent_events": "刚刚大学毕业，进入公务员系统工作。由于缺乏工作经验和自信心，感到工作压力巨大，逐渐出现情绪低落和疲倦感。"
+        },
+        "environment": "出生在一个普通的城市家庭，父母对她的期望较高。大学期间在北京师范大学就读，毕业后回到家乡成为一名公务员。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父亲是一名工程师，性格严谨，对曹笑育的学业要求很高。母亲是一名小学教师，温柔体贴，但也希望女儿能出人头地。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "小学时的同学，关系一般，偶尔一起玩耍，但没有深交。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "随着学业压力增加，父母对她的期望也越来越高，导致她与父母的关系变得紧张。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学时期的朋友，关系较好，但由于性格内向，朋友不多。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "班主任老师，对她的学业和生活给予了很多帮助和指导。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "刚进入公务员系统的同事，关系一般，工作压力大，缺乏深入交流。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "大学时期的好友，偶尔联系，但由于工作忙碌，联系逐渐减少。"
+                    ]
+                },
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "毕业后回到家乡，与父母同住，但由于工作压力和情绪低落，关系变得疏远。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "曹笑育在不同阶段的社会关系发生了显著变化。童年时期，她与父母关系亲密，但随着学业压力增加，关系变得紧张。中学时期，她的朋友不多，主要依赖老师的支持。大学期间，她结交了一些朋友，但毕业后由于工作压力和情绪问题，联系逐渐减少。进入公务员系统后，她的同事关系一般，缺乏深入交流，导致她感到孤独和无助。"
+    }
+}

@@ -1,0 +1,214 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "内向",
+            "敏感",
+            "自卑"
+        ],
+        "appearance": [
+            "普通",
+            "略显疲惫",
+            "头发花白",
+            "身材瘦削"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "编织",
+                "园艺"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "希望能改善自己的睡眠和食欲，恢复一些日常的兴趣爱好。",
+            "long_term_goals": "希望能与丈夫和解，重建家庭和谐，找到生活的意义和价值感。"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，简单洗漱后准备早餐。上午通常会做一些家务，午饭后会小憩一会儿。下午有时会去附近的公园散步，或者在家里阅读和编织。晚饭后会看一会儿电视，然后在10点左右上床睡觉。",
+            "weekends": "周末会和丈夫一起去市场买菜，偶尔会和家人一起外出用餐。喜欢在周末的下午去公园散步，享受一些户外活动。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工人家庭，父母工作忙碌，童年时常感到孤独。",
+            "adolescence": "中学时期成绩一般，但有几个要好的朋友。青春期时曾经历过一次严重的家庭变故，影响了她的心理健康。",
+            "youth": "结婚后成为家庭主妇，专注于照顾家庭和孩子。曾有一段时间尝试过兼职工作，但因为家庭责任重而放弃。",
+            "middle_aged": "孩子们长大成人后，生活重心逐渐转向自己和丈夫。近年来，随着年龄增长，身体健康状况有所下降，心理压力也逐渐增大。",
+            "recent_events": "最近与丈夫发生了一些矛盾，导致情绪低落，兴趣下降，出现了抑郁症的症状。"
+        },
+        "environment": "出生在一个小城市，成年后一直生活在同一个城市。家庭环境较为传统，丈夫是工人，孩子们已经成家立业。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "父母工作忙碌，虽然关心她，但陪伴时间少。",
+                        "父母对她的期望很高，导致她从小就感到压力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "有一个要好的朋友，常常一起玩耍，但因为父母的忙碌，她的社交圈子较小。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "青春期时与父母的关系有所疏远，家庭变故加剧了这种疏远感。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "中学时期有几个要好的朋友，彼此分享心事，但家庭变故后，她变得更加内向。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "结婚后与丈夫关系亲密，但随着时间推移，家庭责任和压力使得两人关系逐渐紧张。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "专注于照顾孩子，与孩子关系亲密，但也因此牺牲了自己的社交生活。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "有一些朋友，但因为家庭责任重，社交活动减少。"
+                    ]
+                }
+            ],
+            "middle_aged": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "孩子们长大成人后，夫妻关系变得更加复杂，矛盾增多。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "孩子们成家立业后，关系有所疏远，但仍保持联系。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "有一个老朋友，偶尔联系，但因为生活重心的变化，联系不多。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "最近与丈夫发生矛盾，导致情绪低落，关系紧张。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "孩子们忙于自己的生活，虽然关心她，但无法提供足够的支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "最近回避社交，朋友关系变得更加疏远。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "傅晶蕊的社交关系在不同阶段经历了显著变化。童年时，她的社交圈子较小，主要依赖父母和一个要好的朋友。青春期时，家庭变故使她变得更加内向，虽然有几个朋友，但关系并不深厚。结婚后，她的生活重心转向家庭，与丈夫和孩子关系亲密，但也因此牺牲了自己的社交生活。中年后，孩子们长大成人，夫妻关系变得复杂，矛盾增多。最近，她与丈夫的矛盾加剧，情绪低落，回避社交，朋友关系变得更加疏远。"
+    }
+}

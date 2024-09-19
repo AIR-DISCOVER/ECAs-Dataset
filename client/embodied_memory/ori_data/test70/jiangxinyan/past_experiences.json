@@ -1,0 +1,595 @@
+{
+    "childhood": {
+        "name": "蒋欣妍",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "记得在小学一年级时，我第一次考试成绩不理想，妈妈看到成绩单后非常生气。她说，'你怎么能考这么差？这么简单的题目都做不对！'。我当时感到非常难过和愧疚，流着泪答应一定会努力学习。",
+                "location": "家中客厅",
+                "happen_time": "1985年9月",
+                "participants": "妈妈",
+                "impact": "这件事强化了我核心信念中的'我不够好'，并形成了中间信念'如果我成绩不好，那就证明我不够好'。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "小学二年级时，学校举办了一次家庭作业展示会。我的作品得到了老师的表扬，妈妈在旁边也露出了少有的笑容，她说，'这才是我的女儿，继续保持！'。",
+                "location": "学校教室",
+                "happen_time": "1986年5月",
+                "participants": "妈妈、老师、同学",
+                "impact": "这次正面的经历让我感受到自己有能力，也强化了中间信念'如果我利用我的能力，我会取得好成绩'。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里看到爸爸妈妈因为生活琐事吵架。妈妈哭着说，'你根本不管家里，我一个人撑不住了！'。爸爸却冷冷地回答，'我每天工作那么辛苦，你怎么就不理解呢？'。",
+                "location": "家中客厅",
+                "happen_time": "1987年3月",
+                "participants": "爸爸、妈妈",
+                "impact": "这次吵架让我感受到家庭责任的重要性，形成了中间信念'我必须承担更多家庭责任'。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "小学三年级时，期中考试我取得了班上第一名。爸爸回来后特地带我去吃了冰激凌，他说，'你真棒，继续努力，爸爸妈妈都为你骄傲。'。",
+                "location": "家附近的冰激凌店",
+                "happen_time": "1987年11月",
+                "participants": "爸爸",
+                "impact": "这次正面的经历让我感受到被认可的幸福，强化了中间信念'如果我一直努力学习，我会被尊重'。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的小孩因为成绩不好被父母责骂。那孩子哭得很伤心，我听到他父母说，'你再这样下去，将来什么都做不了！'。",
+                "location": "邻居家门口",
+                "happen_time": "1988年4月",
+                "participants": "邻居家的小孩及其父母",
+                "impact": "这次观察让我更加坚定了'世界只认可优秀的人'的信念，进一步强化了我必须表现优异的规则。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "小学四年级时，我开始帮助妈妈做家务。每当我完成任务后，妈妈都会表扬我，'你真是个懂事的孩子。'。",
+                "location": "家中厨房",
+                "happen_time": "1988年9月",
+                "participants": "妈妈",
+                "impact": "这次正面的经历让我感受到自己在家庭中的价值，强化了中间信念'如果我承担更多家务，父母会满意'。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校看到一个同学因为没有完成作业而被老师责骂。老师严厉地说，'你这样怎么对得起父母？'。",
+                "location": "学校教室",
+                "happen_time": "1989年3月",
+                "participants": "老师、同学",
+                "impact": "这次观察让我意识到努力学习的重要性，进一步强化了中间信念'只有努力学习的人才会被尊重'。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "小学五年级时，我在一次数学竞赛中取得了二等奖。爸爸妈妈都很高兴，他们说，'这才是我们的女儿，我们为你感到自豪。'。",
+                "location": "家中客厅",
+                "happen_time": "1989年10月",
+                "participants": "爸爸、妈妈",
+                "impact": "这次正面的经历让我更加坚定了自己有能力，并进一步强化了中间信念'我的能力可以帮助我在学校表现优异'。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里听到妈妈和邻居聊天。邻居夸奖我说，'你女儿真懂事，又聪明。'妈妈笑着回答说，'是啊，她一直很努力。'。",
+                "location": "家中客厅",
+                "happen_time": "1990年5月",
+                "participants": "妈妈、邻居",
+                "impact": "这次对话让我感受到父母的认可，进一步强化了中间信念'如果我一直努力学习，父母会满意'。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "小学六年级时，我因为一次生病而没有完成作业，老师在课堂上点名批评了我。我当时非常难过，觉得自己辜负了老师和父母的期望。",
+                "location": "学校教室",
+                "happen_time": "1991年3月",
+                "participants": "老师、同学",
+                "impact": "这次负面的经历强化了中间信念'如果我懈怠，父母和老师会看不起我'，让我感到压力更大。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在小学毕业典礼上，我被评为优秀学生代表，校长在台上表扬了我。回到家后，爸爸妈妈为我举办了一个小小的庆祝会。",
+                "location": "学校礼堂、家中客厅",
+                "happen_time": "1991年7月",
+                "participants": "校长、爸爸、妈妈",
+                "impact": "这次正面的经历进一步强化了核心信念'我有能力'，并让我感受到父母的爱和关心。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里看到爸爸因为工作上的不顺心而发脾气。他说，'我每天这么努力，为什么还会这样？'妈妈在旁边安慰他说，'没关系，我们会一起度过难关的。'。",
+                "location": "家中客厅",
+                "happen_time": "1991年6月",
+                "participants": "爸爸、妈妈",
+                "impact": "这次观察让我意识到即使努力也会遇到挫折，但家庭的支持是重要的，进一步强化了核心信念'我值得被爱和关心'。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "蒋欣妍",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中三年级的一次期末考试，我因为压力太大，考试时感到非常紧张，结果数学只得了80分。我记得回家后，我的父母在晚饭时严肃地对我说：'蒋欣妍，你怎么能考这么低？我们对你期望很高，你不能让我们失望。'我感到非常沮丧和失望，觉得自己不够好。",
+                "location": "家中餐厅",
+                "happen_time": "1993年1月",
+                "participants": "蒋欣妍、父母",
+                "impact": "这次事件加深了蒋欣妍对自己'我不够好'的核心信念，并使她更加害怕考试失败，导致她更加努力学习，避免再次失望。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在初中二年级时，我的物理老师王老师在一次课堂上当众表扬了我的实验报告。王老师说：'蒋欣妍的报告写得非常详细且有逻辑，大家可以向她学习。'我感到自豪和被认可。",
+                "location": "学校物理教室",
+                "happen_time": "1993年5月",
+                "participants": "蒋欣妍、王老师、同学",
+                "impact": "这次事件增强了蒋欣妍的自信心，支持了她'我有能力'的核心信念，并使她在学业上更加积极主动。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家中听见父母在客厅里激烈争论。母亲责怪父亲没有好好关心家里，父亲则反驳说他已经尽力了。那天我从房间里偷偷看见母亲流泪，父亲无奈地摇头离开家。我感到很无助和伤心。",
+                "location": "家中客厅",
+                "happen_time": "1994年3月",
+                "participants": "父母、蒋欣妍",
+                "impact": "这次事件让蒋欣妍深刻感受到家庭关系的紧张，支持了她'我必须为他人负责'的核心信念，她更加努力去承担责任，试图缓解家中的紧张气氛。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "高一的时候，我的好朋友李美琪因为家庭问题情绪低落，我每天放学后都会陪她走回家，听她诉说她的烦恼。尽管我也有很多功课，但我觉得这是我应该做的。",
+                "location": "放学路上",
+                "happen_time": "1995年5月",
+                "participants": "蒋欣妍、李美琪",
+                "impact": "这次事件强化了蒋欣妍'我必须为他人负责'的核心信念，使她在友谊中更加注重对他人的关心和支持。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "在一次班级会议上，班主任老师表扬了几个成绩优秀的同学，并说：'这些同学是你们的榜样，大家都应该向他们学习。'我看到同学们都在注视着那些被表扬的同学，心里感到一种无形的压力。",
+                "location": "学校教室",
+                "happen_time": "1995年10月",
+                "participants": "班主任老师、蒋欣妍、同学们",
+                "impact": "这次事件加深了蒋欣妍'我必须不断努力，才能证明自己'的中间信念，使她更加努力学习，以获得老师和同学的认可。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高二时，我参加了一次全市的英语演讲比赛，获得了第三名。当我站在领奖台上时，我感受到了无比的自豪和成就感。",
+                "location": "市文化中心",
+                "happen_time": "1996年4月",
+                "participants": "蒋欣妍、父母、老师、同学",
+                "impact": "这次事件增强了蒋欣妍'我有能力'的核心信念，使她在学业和生活中更加自信。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "一次在学校的走廊上，我看见一位同学因为成绩差被班主任严厉批评，那个同学低着头，很沮丧地离开了。我心里替他感到难过，同时也感受到压力。",
+                "location": "学校走廊",
+                "happen_time": "1996年10月",
+                "participants": "班主任老师、同学、蒋欣妍",
+                "impact": "这次事件加深了蒋欣妍'我必须避免考试失败'的中间信念，使她更加害怕失败，压力更大。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "高三的时候，母亲生病住院，我在照顾母亲的同时，还要兼顾学业。我每天放学后都会去医院陪伴母亲，直到晚上才回家复习功课。",
+                "location": "医院",
+                "happen_time": "1997年3月",
+                "participants": "蒋欣妍、母亲、父亲",
+                "impact": "这次事件强化了蒋欣妍'我应该承担更多责任'的中间信念，使她更加体会到责任的重要性。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "在高考前的模拟考试中，我的成绩达到了全校前三名。父母非常高兴，特意为我准备了一顿丰盛的晚餐庆祝。我感到被认可和关爱。",
+                "location": "家中餐厅",
+                "happen_time": "1997年5月",
+                "participants": "蒋欣妍、父母",
+                "impact": "这次事件增强了蒋欣妍'我值得被爱和关心'的核心信念，使她感到幸福和满足。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在街上看到一位乞讨的老人，我注意到路人都匆匆走过，没有人停下来帮助他。我感到一种深深的无力感和对社会冷漠的悲哀。",
+                "location": "南京市街头",
+                "happen_time": "1997年7月",
+                "participants": "蒋欣妍、陌生人、乞讨老人",
+                "impact": "这次事件使蒋欣妍更加坚定了'这个世界需要互相帮助'的中间信念，促使她在以后的生活中更加愿意帮助他人。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在高三的一次班会上，班主任问我们未来的梦想是什么。我站起来说：'我想成为一名教师，帮助更多的学生。'班主任微笑着点头，同学们也给我鼓掌。",
+                "location": "学校教室",
+                "happen_time": "1997年4月",
+                "participants": "蒋欣妍、班主任、同学们",
+                "impact": "这次事件使蒋欣妍更加坚定了成为教师的决心，并支持了她'我有能力'的核心信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里看到一档电视节目，讲述了一位农村教师无私奉献的故事。这位教师每天要走很远的路去上课，但他依然坚持教书育人。我被深深感动。",
+                "location": "家中客厅",
+                "happen_time": "1997年8月",
+                "participants": "蒋欣妍、电视节目",
+                "impact": "这次事件使蒋欣妍更加坚定了她的职业理想，并激发了她'我必须承担更多责任'的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在高考结束后，我和同学们一起去郊游，大家在草地上聊天、游戏。我感受到久违的放松和快乐。",
+                "location": "南京市郊外",
+                "happen_time": "1997年6月",
+                "participants": "蒋欣妍、同学们",
+                "impact": "这次事件使蒋欣妍意识到她也有权利享受生活的乐趣，并支持了她'我有权利被爱和关心'的中间信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "Third-Person Observation",
+                "event": "在一次学校的讲座上，我听到一位心理学教授讲述了如何应对压力和焦虑。他说：'每个人都有压力，但重要的是我们如何应对它。'我感到受到了启发。",
+                "location": "学校礼堂",
+                "happen_time": "1997年5月",
+                "participants": "蒋欣妍、心理学教授、学生们",
+                "impact": "这次事件使蒋欣妍认识到面对压力的重要性，并开始思考如何更好地管理自己的情绪。"
+            }
+        ]
+    },
+    "youth": {
+        "name": "蒋欣妍",
+        "stage": "青年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "大一刚入学时，我在校图书馆遇到了我的大学导师。我们聊了很多关于教育学的前景和未来规划，他的鼓励让我感到特别受用和有方向感。",
+                "location": "北京大学图书馆",
+                "happen_time": "1998年9月",
+                "participants": "蒋欣妍, 大学导师",
+                "impact": "正面影响：让我感受到了导师的关心和支持，增强了我的自信心，强化了'我值得被爱和关心'的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次期中考试中，我的成绩不理想，导师和同学们对此表示失望。我感到非常压力大，认为自己不够好。",
+                "location": "北京大学教室",
+                "happen_time": "1998年12月",
+                "participants": "蒋欣妍, 大学导师, 同学",
+                "impact": "负面影响：强化了'我不够好'的核心信念，导致我对自己的能力产生怀疑。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "一天，我看到一位同学因为学术问题受到导师的批评，那位同学非常沮丧，离开教室后久久不能平复。",
+                "location": "北京大学教室",
+                "happen_time": "1999年3月",
+                "participants": "蒋欣妍, 同学, 大学导师",
+                "impact": "负面影响：观察到学术失败带来的情感冲击，加深了'学术世界对失败者是无情的'的中间信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "我参加了一次学校组织的学术研讨会，并在会上发表了自己的研究成果，得到了导师和同学们的赞赏。",
+                "location": "北京大学学术研讨会",
+                "happen_time": "2000年5月",
+                "participants": "蒋欣妍, 大学导师, 同学",
+                "impact": "正面影响：增强了'我有能力'的核心信念，提高了我的自信心和积极性。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "一次，我看到导师在办公室里耐心地辅导一位同学，那位同学后来成绩显著提升。",
+                "location": "北京大学导师办公室",
+                "happen_time": "2001年10月",
+                "participants": "蒋欣妍, 大学导师, 同学",
+                "impact": "正面影响：强化了'我值得被爱和关心'的核心信念，增强了对导师的信任和依赖。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在大三的一次社会实践活动中，我负责组织整个团队的工作，最终活动顺利进行，得到了大家的肯定。",
+                "location": "北京大学, 社会实践活动场所",
+                "happen_time": "2002年7月",
+                "participants": "蒋欣妍, 同学",
+                "impact": "正面影响：增强了'我有能力'和'我值得被尊重和关心'的核心信念，提高了领导能力和自信心。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "我看到一位同学因为学术问题和导师发生争执，最终那位同学选择退学。",
+                "location": "北京大学教室",
+                "happen_time": "2003年3月",
+                "participants": "蒋欣妍, 同学, 大学导师",
+                "impact": "负面影响：加深了'学术世界对失败者是无情的'和'我不够好'的信念，增加了对学术失败的恐惧。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "毕业后，我顺利成为了一名中学教师，初次站上讲台时，我感到非常紧张，但看到学生们专注的眼神，我逐渐放松下来。",
+                "location": "南京市某中学",
+                "happen_time": "2004年9月",
+                "participants": "蒋欣妍, 学生",
+                "impact": "正面影响：增强了'我有能力'的核心信念，建立了作为教师的自信心。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一天，我看到一位同事因为学生的成绩不佳而受到校长的批评，那位同事非常沮丧，甚至考虑辞职。",
+                "location": "南京市某中学",
+                "happen_time": "2005年5月",
+                "participants": "蒋欣妍, 同事, 校长",
+                "impact": "负面影响：加深了'我必须避免学术上的失败'和'我必须一直努力，不允许自己懈怠'的信念，增加了对工作失败的恐惧。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在一次期末考试后，我的一位学生成绩显著提升，他的家长专程来学校向我表示感谢，我感到非常欣慰。",
+                "location": "南京市某中学",
+                "happen_time": "2006年1月",
+                "participants": "蒋欣妍, 学生, 学生家长",
+                "impact": "正面影响：强化了'我值得被爱和关心'和'我有能力'的核心信念，增加了对工作的热情和满足感。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "随着工作经验的积累，我开始负责学校的多个项目和活动，虽然忙碌，但看到学生们的成长和进步，我感到非常满足。",
+                "location": "南京市某中学",
+                "happen_time": "2007年9月",
+                "participants": "蒋欣妍, 学生, 同事",
+                "impact": "正面影响：强化了'我有能力'和'我必须承担更多责任'的核心信念，增加了对工作的热情和责任感。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "一次，我看到一位同事因为工作压力大而出现健康问题，最终不得不请假休养。",
+                "location": "南京市某中学",
+                "happen_time": "2008年3月",
+                "participants": "蒋欣妍, 同事",
+                "impact": "负面影响：引发了对自身健康的关注，同时也加深了'我必须一直努力，不允许自己懈怠'的信念，增加了对工作的焦虑感。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在一次教师培训中，我结识了一位志同道合的同行，我们交流了很多教学心得和经验，彼此都感到受益匪浅。",
+                "location": "南京市教师培训中心",
+                "happen_time": "2009年7月",
+                "participants": "蒋欣妍, 同行",
+                "impact": "正面影响：增强了'我值得被尊重和关心'的核心信念，增加了对教学工作的热爱和信心。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在一次班级活动中，我的学生们准备了一场小型庆祝会，感谢我这一年来的辛勤付出，我感动得流下了眼泪。",
+                "location": "南京市某中学",
+                "happen_time": "2010年12月",
+                "participants": "蒋欣妍, 学生",
+                "impact": "正面影响：强化了'我值得被爱和关心'和'我有能力'的核心信念，增加了对工作的满足感和幸福感。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "一次，我看到一位学生因为父母离异而情绪低落，影响了学习成绩，我主动与他交流，给予关心和帮助。",
+                "location": "南京市某中学",
+                "happen_time": "2011年5月",
+                "participants": "蒋欣妍, 学生",
+                "impact": "正面影响：增强了'我值得被爱和关心'和'我可以帮助他人'的信念，增加了对学生的关爱和责任感。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "蒋欣妍",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次教学评估中，校长对我的教学方式提出了严厉的批评，指出我没有创新和进步。我感到非常失落和自责，觉得自己不够好。",
+                "location": "学校的会议室",
+                "happen_time": "2024年1月",
+                "participants": "校长, 同事",
+                "impact": "负面影响，加重了自我价值感低和抑郁情绪，强化了核心信念'我不够好'和中间信念'如果我失败了，那就证明我不够好。'"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我发现自己对以前热爱的跳舞和健身失去了兴趣，几次尝试去健身房都半途而废，甚至感到疲惫不堪。",
+                "location": "健身房",
+                "happen_time": "2024年2月",
+                "participants": "无",
+                "impact": "负面影响，进一步削弱了自信心和自我价值感，强化了核心信念'我不够好'和中间信念'我必须避免失败。'"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "与学生的互动减少，越来越多的学生开始表现出对我的不满和困惑，这让我感到内疚和自责。",
+                "location": "学校教室",
+                "happen_time": "2024年3月",
+                "participants": "学生",
+                "impact": "负面影响，增加了自责感和自罪感，强化了核心信念'我不够好'和中间信念'如果我失败了，那就证明我不够好。'"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我与家人的关系变得紧张，几次与丈夫和孩子的争吵让我感到孤独和无助。",
+                "location": "家中",
+                "happen_time": "2024年4月",
+                "participants": "丈夫, 孩子",
+                "impact": "负面影响，增加了孤独感和无助感，强化了核心信念'我值得被爱和关心'的负面假设'如果我拒绝爱和关心，我会感到孤独和痛苦。'"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我试图与一位同事分享我的感受，但她显得很忙碌，没有给予我足够的关注，这让我更加感到被忽视和不重要。",
+                "location": "学校办公室",
+                "happen_time": "2024年5月",
+                "participants": "同事",
+                "impact": "负面影响，增加了被忽视感和自我价值感低，强化了核心信念'我不够好'和中间信念'如果我失败了，那就证明我不够好。'"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次家长会中被一位家长质疑教学能力，感到非常难堪和压力巨大。",
+                "location": "学校会议室",
+                "happen_time": "2024年6月",
+                "participants": "家长, 校长, 同事",
+                "impact": "负面影响，增加了压力和自责感，强化了核心信念'我不够好'和中间信念'我必须避免失败。'"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次家庭聚会中被亲戚质问为何看起来那么疲惫，感到自尊心受挫。",
+                "location": "亲戚家",
+                "happen_time": "2024年7月",
+                "participants": "亲戚",
+                "impact": "负面影响，增加了自尊心受挫感和自我价值感低，强化了核心信念'我不够好'和中间信念'他人会批评我，证明我不够好。'"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次园艺活动中感到无聊和疲倦，几乎没有完成任何工作。",
+                "location": "家中花园",
+                "happen_time": "2024年8月",
+                "participants": "无",
+                "impact": "负面影响，进一步削弱了兴趣和动力，强化了核心信念'我不够好'和中间信念'如果我失败了，那就证明我不够好。'"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我在一次学校会议中观察到一位同事因表现卓越而受到表扬，感到自己相形见绌。",
+                "location": "学校会议室",
+                "happen_time": "2024年1月",
+                "participants": "校长, 同事",
+                "impact": "负面影响，增加了自卑感和自我价值感低，强化了核心信念'我不够好'和中间信念'他人只会尊重那些表现卓越的人。'"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我在社交媒体上看到一位老朋友的成功故事，感到自己在生活中毫无成就。",
+                "location": "家中",
+                "happen_time": "2024年2月",
+                "participants": "老朋友（线上）",
+                "impact": "负面影响，增加了自卑感和自我价值感低，强化了核心信念'我不够好'和中间信念'如果我失败了，那就证明我不够好。'"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我观察到一位学生因我的教学失误而考试成绩不理想，感到非常自责。",
+                "location": "学校教室",
+                "happen_time": "2024年3月",
+                "participants": "学生",
+                "impact": "负面影响，增加了自责感和内疚感，强化了核心信念'我不够好'和中间信念'如果我失败了，那就证明我不够好。'"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次阅读活动中发现自己无法集中精神，阅读的乐趣完全消失了。",
+                "location": "家中",
+                "happen_time": "2024年4月",
+                "participants": "无",
+                "impact": "负面影响，进一步削弱了兴趣和动力，强化了核心信念'我不够好'和中间信念'如果我失败了，那就证明我不够好。'"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次家庭聚会中观察到亲戚们对我表现出的关心，但我却无法感受到任何安慰，反而更加感到失落。",
+                "location": "亲戚家",
+                "happen_time": "2024年5月",
+                "participants": "亲戚",
+                "impact": "负面影响，增加了失落感和孤独感，强化了核心信念'我值得被爱和关心'的负面假设'如果我拒绝爱和关心，我会感到孤独和痛苦。'"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我在一次学校活动中观察到一位学生因家庭问题而情绪低落，感到自己没有能力帮助他，内心非常自责。",
+                "location": "学校操场",
+                "happen_time": "2024年6月",
+                "participants": "学生",
+                "impact": "负面影响，增加了内疚感和自责感，强化了核心信念'我不够好'和中间信念'如果我不为他人负责，我会让他们失望。'"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我在一次学校会议中看到校长对一位同事的肯定和赞扬，感到自己被忽视和不重要。",
+                "location": "学校会议室",
+                "happen_time": "2024年7月",
+                "participants": "校长, 同事",
+                "impact": "负面影响，增加了被忽视感和自我价值感低，强化了核心信念'我不够好'和中间信念'他人只会尊重那些表现卓越的人。'"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次园艺活动中感到无聊和疲倦，几乎没有完成任何工作。",
+                "location": "家中花园",
+                "happen_time": "2024年8月",
+                "participants": "无",
+                "impact": "负面影响，进一步削弱了兴趣和动力，强化了核心信念'我不够好'和中间信念'如果我失败了，那就证明我不够好。'"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我尝试与家人讨论我的情感问题，但他们显得很忙，无法给予我足够的支持，这让我感到被忽视和孤独。",
+                "location": "家中",
+                "happen_time": "2024年1月",
+                "participants": "家人",
+                "impact": "负面影响，增加了孤独感和无助感，强化了核心信念'我值得被爱和关心'的负面假设'如果我拒绝爱和关心，我会感到孤独和痛苦。'"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我在一次学校活动中看到其他老师与学生关系融洽，感到自己与学生的关系越来越疏远，内心非常难过。",
+                "location": "学校操场",
+                "happen_time": "2024年2月",
+                "participants": "同事, 学生",
+                "impact": "负面影响，增加了孤独感和无助感，强化了核心信念'我值得被爱和关心'的负面假设'如果我拒绝爱和关心，我会感到孤独和痛苦。'"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "我在一次家长会中看到其他老师被家长夸奖，感到自己被忽视和不重要。",
+                "location": "学校会议室",
+                "happen_time": "2024年3月",
+                "participants": "家长, 同事",
+                "impact": "负面影响，增加了被忽视感和自我价值感低，强化了核心信念'我不够好'和中间信念'他人只会尊重那些表现卓越的人。'"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我尝试与朋友分享我的感受，但他们显得很忙，这让我更加感到被忽视和不重要。",
+                "location": "咖啡馆",
+                "happen_time": "2024年4月",
+                "participants": "朋友",
+                "impact": "负面影响，增加了被忽视感和自我价值感低，强化了核心信念'我不够好'和中间信念'如果我失败了，那就证明我不够好。'"
+            }
+        ]
+    }
+}

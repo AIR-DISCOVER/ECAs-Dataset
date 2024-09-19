@@ -1,0 +1,104 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我需要满足别人的期望。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我有能力应对生活的挑战。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有责任为家庭做出贡献。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我值得拥有幸福的生活。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不能满足别人的期望，我就是失败的。",
+                "others": "他人对我的看法非常重要。",
+                "world": "人们会根据我的表现来评价我。"
+            },
+            "rules": "我必须尽力满足他人的期望。",
+            "positive_assumption": "如果我满足了别人的期望，我会得到认可和爱。",
+            "negative_assumption": "如果我不能满足别人的期望，我会被忽视和批评。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我应该时刻考虑别人的感受。",
+                "others": "他人的需求比我的更重要。",
+                "world": "世界是一个需要不断付出和满足别人需求的地方。"
+            },
+            "rules": "我应该优先考虑别人的需求。",
+            "positive_assumption": "如果我优先考虑别人的需求，我会被看作是一个善良的人。",
+            "negative_assumption": "如果我不优先考虑别人的需求，我会被视为自私。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力解决问题，并面对生活中的挑战。",
+                "others": "他人可以给予我帮助，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有责任为家人提供帮助。",
+                "others": "家人依赖我的支持。",
+                "world": "世界是一个需要互相支持和帮助的地方。"
+            },
+            "rules": "我应该尽力为家人提供帮助和支持。",
+            "positive_assumption": "如果我为家人提供帮助，我会感到满足和被需要。",
+            "negative_assumption": "如果我不能为家人提供帮助，我会感到内疚和不安。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我值得拥有幸福和满足。",
+                "others": "他人也希望我能幸福。",
+                "world": "世界可以是一个充满幸福和满足的地方。"
+            },
+            "rules": "我应该追求自己的幸福和满足。",
+            "positive_assumption": "如果我追求幸福，我会感到充实和快乐。",
+            "negative_assumption": "如果我忽视自己的幸福，我会感到空虚和失落。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有权追求自己的梦想。",
+                "others": "他人会支持我的梦想。",
+                "world": "世界充满了实现梦想的机会。"
+            },
+            "rules": "我应该努力实现自己的梦想。",
+            "positive_assumption": "如果我追求自己的梦想，我会感到成功和满足。",
+            "negative_assumption": "如果我放弃自己的梦想，我会感到遗憾和后悔。"
+        }
+    ]
+}

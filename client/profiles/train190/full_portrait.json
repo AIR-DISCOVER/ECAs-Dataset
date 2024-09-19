@@ -1,0 +1,233 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "认真",
+            "内向",
+            "有责任心",
+            "细心",
+            "有些焦虑"
+        ],
+        "appearance": [
+            "中等身材",
+            "短发",
+            "戴眼镜",
+            "穿着朴素",
+            "面容憔悴"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "园艺",
+                "烹饪"
+            ],
+            "activity": [
+                "周末去公园散步",
+                "和家人一起做饭"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复工作中的自信心，提升注意力和记忆力",
+            "long_term_goals": "在研究领域取得更大的成就，培养更多的学生"
+        },
+        "daily_life": {
+            "routine": "早上7点起床，简单早餐后去研究所工作，下午5点回家，晚饭后阅读或做园艺，晚上10点左右睡觉",
+            "weekends": "周末通常会和家人一起去公园散步，或者在家里做一些园艺和烹饪"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对她的期望很高，从小就表现出对学习的热爱",
+            "adolescence": "中学时期成绩优异，但因为性格内向，朋友不多",
+            "youth": "大学期间选择了自己喜欢的研究方向，毕业后顺利进入研究所工作",
+            "recent_events": "最近工作压力增大，感觉力不从心，注意力难以集中，记忆力变差"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书，毕业后回到南京工作"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "潘雪艳的父亲是一名工厂工人，工作繁忙，但对女儿的教育非常重视。父亲常常在工作之余陪伴她做作业，教她如何解决问题。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "潘雪艳的母亲是一名小学教师，性格温和，对女儿的期望很高。母亲常常在家里辅导她的功课，鼓励她追求自己的梦想。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "潘雪艳在小学时有两个好朋友，一个是邻居家的小女孩，另一个是班上的同学。她们常常一起玩耍，分享彼此的秘密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "进入中学后，潘雪艳的父亲依然关心她的学习，但由于工作压力增大，陪伴她的时间减少了。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲在潘雪艳的中学时期依然是她的主要支持者，常常鼓励她参加各种学术竞赛。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "由于性格内向，潘雪艳在中学时期的朋友不多，但她与一位同学建立了深厚的友谊。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "潘雪艳在中学时期有两位特别欣赏她的老师，一位是数学老师，另一位是物理老师。她们不仅在学术上给予她指导，还在生活中给予她关怀。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "大学期间，潘雪艳与父亲的联系减少，但每次回家时，父亲依然会关心她的学习和生活。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲在潘雪艳的大学期间依然是她的主要支持者，常常通过电话和她交流，给予她精神上的支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "在大学期间，潘雪艳结识了几位志同道合的朋友，她们一起学习，一起探讨学术问题，成为了她的重要支持网络。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "潘雪艳在大学期间的导师对她影响深远，不仅在学术上给予她指导，还在职业规划上给予她宝贵的建议。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "潘雪艳的丈夫是一名工程师，两人感情深厚，丈夫在她的职业生涯中给予了很多支持和理解。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "潘雪艳有两个孩子，一个在高中，一个在初中。虽然孩子们的学业繁忙，但他们与母亲关系亲密，常常一起分享生活中的点滴。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "潘雪艳在研究所的同事们大多是她的学术伙伴，虽然关系不算特别亲密，但在工作中互相支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "潘雪艳有两位特别要好的朋友，一位是大学时期的同学，另一位是研究所的同事。她们常常在工作之余一起聚会，分享彼此的生活。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "潘雪艳的社会关系在不同阶段有明显的变化。童年时期，她的主要社会关系集中在家庭和少数朋友上。进入中学后，虽然朋友不多，但与老师的关系变得更加重要。大学期间，她的社交圈扩大，结识了更多志同道合的朋友和导师。进入职场后，家庭成为她的主要支持网络，同时与同事和朋友的关系也在不断发展。最近由于工作压力增大，她感到力不从心，社交活动减少，但家庭依然是她的重要支持来源。"
+    }
+}

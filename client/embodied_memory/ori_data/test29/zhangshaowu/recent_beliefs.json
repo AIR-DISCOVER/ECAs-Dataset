@@ -1,0 +1,99 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不够好。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我必须表现得完美才能被认可。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我有潜力成为优秀的学者。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不够好，我就不会成功。",
+                "others": "他人会认为我不值得尊重和认可。",
+                "world": "世界是一个竞争激烈的地方，我必须证明自己。"
+            },
+            "rules": "我应该不断努力，避免犯错。",
+            "positive_assumption": "如果我努力工作，我就能逐渐变得更好。",
+            "negative_assumption": "如果我犯错了，我会被认为毫无价值。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我需要在每件事上都表现出色，否则我就是失败者。",
+                "others": "他人会评判我的每一个错误。",
+                "world": "世界对失败者没有宽容。"
+            },
+            "rules": "我必须尽量避免暴露自己的弱点和错误。",
+            "positive_assumption": "如果我表现出色，我会受到认可和尊重。",
+            "negative_assumption": "如果我表现不佳，我会被忽视和贬低。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须达到完美的标准才能获得认可。",
+                "others": "他人只会认可那些没有缺陷的人。",
+                "world": "世界对不完美的人是不宽容的。"
+            },
+            "rules": "我应该追求完美，不允许自己有任何失误。",
+            "positive_assumption": "如果我完美无缺，我会被广泛认可和尊重。",
+            "negative_assumption": "如果我不完美，我会被忽视和批评。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须不断地超越自己才能证明自己的价值。",
+                "others": "他人会根据我的成就来评判我。",
+                "world": "世界是一个竞争激烈的地方，只有最优秀的人才能生存。"
+            },
+            "rules": "我应该不断设定更高的目标，并努力实现。",
+            "positive_assumption": "如果我不断进步，我会受到尊重和认可。",
+            "negative_assumption": "如果我停滞不前，我会被视为没有价值。"
+        },
+        {
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力实现自己的目标。",
+                "others": "他人会支持和认可我的努力。",
+                "world": "世界充满了机遇，只要努力就能成功。"
+            },
+            "rules": "我应该坚持不懈，追求我的梦想。",
+            "positive_assumption": "如果我努力工作并坚持下去，我会成为优秀的学者。",
+            "negative_assumption": "如果我放弃或不努力，我会失去实现梦想的机会。"
+        },
+        {
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有潜力不断提高和进步。",
+                "others": "他人会认可和支持我的进步。",
+                "world": "世界上有很多机会，只要我努力就能抓住。"
+            },
+            "rules": "我应该持续学习和提升自己。",
+            "positive_assumption": "如果我不断提升自己，我会在学术界取得成功。",
+            "negative_assumption": "如果我停止学习和进步，我会被竞争对手超越。"
+        }
+    ]
+}

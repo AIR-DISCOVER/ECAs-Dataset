@@ -1,0 +1,136 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "勤奋",
+            "有责任心",
+            "敏感",
+            "内向",
+            "有毅力"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦弱",
+            "黑发",
+            "戴眼镜",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "绘画",
+                "写作"
+            ],
+            "activity": [
+                "和朋友一起学习",
+                "周末去图书馆",
+                "在家里画画"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "在下一次模考中取得好成绩",
+            "long_term_goals": "考上理想的大学，成为一名作家或艺术家"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到校上课，下午放学后在图书馆自习，晚上回家完成作业和复习，11点左右睡觉。",
+            "weekends": "周末通常在家里复习功课，有时会和朋友一起去图书馆，偶尔会画画或写作放松自己。"
+        },
+        "past_experiences": {
+            "childhood": "小时候在父母的严格教育下成长，成绩一直很好，但也因此感到压力很大。",
+            "recent_events": "最近的一模考试成绩不理想，导致她感到焦虑和烦躁，影响了她的自信心和思考能力。"
+        },
+        "environment": "出生在一个中等城市的普通家庭，父母对她的期望很高，从小到大都在同一个城市生活和学习。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲是一个严厉但关心她的人，从小对她的学业要求很高，常常督促她学习。虽然父亲的严格让她感到压力，但她也知道父亲是为了她好。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲相对温和，总是给予她情感上的支持。母亲会在她感到压力时安慰她，鼓励她追求自己的梦想。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "她有两个从小一起长大的朋友，一个是邻居，另一个是小学同学。她们常常一起玩耍，分享彼此的秘密。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        3,
+                        3,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "她在学校有几个关系不错的同学，大家会一起学习和讨论问题。虽然她比较内向，但这些同学让她感到温暖和支持。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "她的班主任和两位科任老师对她的学业非常关心，常常给予她指导和鼓励。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "最近她开始定期见心理咨询师，咨询师帮助她处理考试带来的焦虑情绪。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "金琴媛在成长过程中，社交圈子逐渐扩大。从小时候主要依赖父母和几个朋友，到现在在学校有更多的同学和老师作为支持系统。虽然她依然内向，但她学会了在需要时寻求帮助。最近的考试成绩不理想让她感到焦虑，但她也在努力通过与心理咨询师的交流来调整自己的心态。她的社交能力和意愿在逐渐增强，尤其是在面对压力时，她开始学会依靠身边的支持系统。"
+    }
+}

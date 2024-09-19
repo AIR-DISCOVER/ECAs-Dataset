@@ -1,0 +1,206 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "耐心",
+            "有责任感",
+            "有些内向"
+        ],
+        "appearance": [
+            "中等身高",
+            "微胖",
+            "短发",
+            "朴素",
+            "温和的面容"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "烹饪",
+                "园艺"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步",
+                "参加社区活动"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "找到一些新的兴趣爱好，丰富自己的生活",
+            "long_term_goals": "在家庭和个人生活中找到平衡，保持心理健康"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，准备早餐，送孩子上学。然后做家务，午餐后休息一会儿，下午继续做家务和准备晚餐。晚上辅导孩子作业，和家人一起看电视或聊天。",
+            "weekends": "周末会去公园散步，参加社区活动，有时会和家人一起外出游玩。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母工作忙碌，自己从小就学会了独立。",
+            "adolescence": "中学时期成绩优异，但因为家庭经济原因，高中毕业后没有继续上大学。",
+            "youth": "年轻时在工厂工作，后来结婚生子，成为全职家庭主妇。",
+            "recent_events": "最近一周感到生活枯燥乏味，觉得没有什么奔头。"
+        },
+        "environment": "出生在一个小城市，结婚后搬到现在的社区，生活环境安静，邻里关系和睦。",
+        "persona_summary": "卜毓雪，50岁，已婚，有孩子，全职家庭主妇。她善良、关心他人、耐心、有责任感，但有些内向。外貌中等身高、微胖、短发、朴素、温和。她喜欢阅读、听音乐、烹饪和园艺，常与家人一起做饭、散步和参加社区活动。生活单调，近期感到乏味无趣，心理健康需关注。她希望通过新的兴趣爱好丰富生活，兼顾家庭和个人生活，保持心理健康。生活环境安静，邻里关系和睦。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "父亲是一名工人，工作繁忙，但对家庭有责任感。",
+                        "母亲是一名护士，工作时间不固定，但尽量抽时间陪伴孩子。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "邻居家的小伙伴，经常一起玩耍。",
+                        "小学同学，关系较好。",
+                        "表姐，假期时常来家里玩。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "父亲依旧工作繁忙，但对她的学习非常关心。",
+                        "母亲在她青春期时给予了很多情感支持。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "中学时期的好朋友，常常一起学习和讨论未来。",
+                        "邻居家的女孩，关系亲密。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "班主任，对她的学习和生活给予了很多帮助。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "丈夫是一名工厂工人，性格温和，对家庭有责任感。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "大儿子，性格活泼，学习成绩优异。",
+                        "小女儿，乖巧懂事。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "工厂的同事，关系较好。",
+                        "社区的邻居，常常一起聊天。",
+                        "孩子学校的家长，偶尔一起交流育儿经验。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "丈夫依旧在工厂工作，支持她的家庭主妇生活。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "大儿子已经上大学，偶尔回家。",
+                        "小女儿在读高中，需要她的辅导。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "社区的邻居，偶尔一起参加社区活动。",
+                        "孩子学校的家长，偶尔交流育儿经验。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "卜毓雪的社会关系在不同阶段有明显变化。童年时期，她的主要社会关系是父母和邻居小伙伴。青春期时，朋友和老师的角色变得重要。成年后，丈夫和孩子成为她生活的中心，朋友的角色相对减少。最近，她的社会关系主要集中在家庭和少数社区朋友上，社交圈子较小，生活单调乏味。"
+    }
+}

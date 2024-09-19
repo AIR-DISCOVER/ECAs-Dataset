@@ -1,0 +1,161 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "诚实",
+            "有责任心",
+            "有耐心"
+        ],
+        "appearance": [
+            "中等身高",
+            "苗条",
+            "黑发",
+            "清秀",
+            "普通"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "烹饪",
+                "园艺",
+                "瑜伽"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步",
+                "和朋友喝茶聊天"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "解决婆媳矛盾，恢复家庭和谐",
+            "long_term_goals": "在职业上取得更高的成就，拥有一个幸福的家庭"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，做早餐，送孩子上学，然后去上班。工作时间是9点到5点，晚上回家做晚饭，和家人共进晚餐，之后会看书或做一些家务。",
+            "weekends": "周末通常会和家人一起外出，去公园散步或购物，有时会邀请朋友来家里聚会。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母都是工人，从小生活比较稳定。",
+            "adolescence": "中学时期成绩优异，性格内向，喜欢阅读和写作。",
+            "recent_events": "最近婆婆来家里住，导致家庭矛盾增加，情绪有些烦躁。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在上海读的，毕业后回到南京工作。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "毕桂毓的父亲是一名工人，性格温和，对女儿非常关爱。毕桂毓小时候经常和父亲一起去公园玩耍，父亲教她骑自行车，给她讲故事。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "毕桂毓的母亲也是一名工人，性格坚强，勤劳能干。母亲在家庭中扮演着重要的角色，教会了毕桂毓很多生活技能。母女关系非常亲密，母亲是她的榜样。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "毕桂毓在小学时有两个非常要好的朋友，她们经常一起玩耍、学习。虽然后来因为升学分开了，但她们的友谊一直保持到现在。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "毕桂毓在中学时期成绩优异，得到了几位老师的特别关注和指导。她的语文老师尤其欣赏她的写作才华，经常鼓励她参加作文比赛。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "毕桂毓在中学时期性格内向，但有几个关系不错的同学。她们经常一起讨论学习问题，偶尔也会一起出去玩。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "毕桂毓的丈夫是一名工程师，工作繁忙。虽然他在家庭矛盾中没有给予毕桂毓足够的支持，但两人感情依然深厚。"
+                    ]
+                },
+                {
+                    "relationship": "婆婆",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "毕桂毓的婆婆最近来家里住，导致家庭矛盾增加。婆婆性格强势，经常对毕桂毓挑剔，给她带来了很大的压力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "毕桂毓有几个非常要好的朋友，她们经常一起喝茶聊天，分享生活中的喜怒哀乐。朋友们是她的重要支持系统。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "毕桂毓的社交能力和意愿在不同阶段有所变化。童年时期，她与父母和朋友的关系非常亲密，社交圈子较小但稳定。进入中学后，她的社交圈子扩大了，但由于性格内向，她的社交活动主要集中在学习和少数几位朋友之间。最近，由于家庭矛盾，她的社交压力增加，但她依然保持着与朋友的联系，寻求情感支持。"
+    }
+}

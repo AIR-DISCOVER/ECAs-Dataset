@@ -1,0 +1,255 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "坚强",
+            "耐心",
+            "乐观"
+        ],
+        "appearance": [
+            "矮小",
+            "瘦弱",
+            "银发",
+            "皱纹明显",
+            "精神矍铄"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "广场舞",
+                "散步",
+                "看孙子",
+                "听戏曲"
+            ],
+            "activity": [
+                "和朋友一起跳广场舞",
+                "晚上散步",
+                "和孙子玩耍"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "保持身体健康，继续参与广场舞和散步",
+            "long_term_goals": "看到孙子长大成人，过上幸福的生活"
+        },
+        "daily_life": {
+            "routine": "早上6点起床，做早操，吃早餐；上午在家做家务或看电视；中午吃午饭后小憩；下午和朋友一起跳广场舞或散步；晚上吃晚饭后散步，9点左右上床睡觉。",
+            "weekends": "周末通常会有家人来探望，特别是孙子来时，会一起玩耍，聊家常，偶尔会去附近的公园散步。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的农村家庭，家境贫寒，但父母勤劳，家庭和睦。",
+            "adolescence": "中学时期成绩优异，但因家境原因未能继续深造，早早进入社会工作。",
+            "youth": "结婚后与丈夫一起努力工作，抚养孩子，生活虽不富裕但充实。",
+            "middle_aged": "丈夫去世后，独自一人抚养孩子，经历了许多艰辛，但孩子们都很争气，生活逐渐好转。",
+            "recent_events": "退休后生活平静，主要以照顾孙子和参与社区活动为主。"
+        },
+        "environment": "出生在湖南省的一个小县城，年轻时在县城工作和生活，退休后一直住在县城的老房子里，社区环境熟悉，邻里关系和睦。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "父母勤劳，家庭和睦，虽然家境贫寒，但父母对伍莉纯的关爱无微不至。"
+                    ]
+                },
+                {
+                    "relationship": "兄弟姐妹",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "与兄弟姐妹关系亲密，大家一起分担家务，共同面对生活的艰辛。"
+                    ]
+                },
+                {
+                    "relationship": "邻居",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "邻里关系和睦，大家互相帮助，共同度过艰难的日子。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 10,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "中学时期成绩优异，与同学关系融洽，大家一起学习，一起玩耍。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "老师们对伍莉纯的学习态度和成绩非常满意，给予了很多鼓励和支持。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "与丈夫一起努力工作，抚养孩子，虽然生活不富裕，但两人相互扶持，感情深厚。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "孩子们是她生活的重心，尽心尽力抚养他们长大成人。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 8,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "与同事们关系良好，工作中互相支持，生活中也常有往来。"
+                    ]
+                }
+            ],
+            "middle_aged": [
+                {
+                    "relationship": "孩子",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "丈夫去世后，独自一人抚养孩子，孩子们也非常争气，生活逐渐好转。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 6,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "与朋友们保持密切联系，互相支持，共同面对生活的挑战。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "孙子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "孙子是她生活的快乐源泉，每次孙子来看她，她都非常高兴。"
+                    ]
+                },
+                {
+                    "relationship": "广场舞朋友",
+                    "count": 10,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "与广场舞的朋友们关系密切，大家一起跳舞，互相鼓励，生活充实。"
+                    ]
+                },
+                {
+                    "relationship": "邻居",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "退休后与邻居们的关系更加紧密，大家互相关心，互相帮助。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "伍莉纯的社会关系在不同阶段有明显变化。童年时期主要依赖家庭和邻里，青春期则以同学和老师为主。结婚后，丈夫和孩子成为她生活的重心。中年时期，丈夫去世后，她独自抚养孩子，朋友成为重要的支持力量。退休后，孙子和广场舞朋友成为她生活的重要部分，邻里关系也更加紧密。总体来看，伍莉纯在不同阶段都能建立并维持良好的社会关系，尽管生活中经历了许多艰辛，但她始终保持乐观和坚强。"
+    }
+}

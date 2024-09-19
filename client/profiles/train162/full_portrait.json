@@ -1,0 +1,171 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "责任感强"
+        ],
+        "appearance": [
+            "中等身材",
+            "略显疲惫",
+            "普通",
+            "穿着朴素"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "散步"
+            ],
+            "activity": [
+                "独自看书",
+                "偶尔去公园散步"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "找到合适的伴侣，提升自信心",
+            "long_term_goals": "建立一个幸福的家庭，拥有稳定的生活"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，简单洗漱后去上班。工作时间较长，晚上回家后通常会看书或发呆，10点左右上床睡觉。",
+            "weekends": "周末大部分时间在家休息，偶尔会去公园散步或参加相亲活动。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，但他一直觉得自己不够优秀。",
+            "adolescence": "中学时期成绩中等，性格内向，不太擅长与人交往。",
+            "youth": "大学毕业后进入管理岗位，工作努力，但在感情方面一直不太顺利。",
+            "recent_events": "最近半年多次相亲失败，导致自信心严重受挫，产生了抑郁状态。"
+        },
+        "environment": "出生在一个小城市，大学毕业后在大城市工作和生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "周俊保的父母对他期望很高，虽然他们的关系亲密，但他一直觉得自己不够优秀，无法满足父母的期望。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "周俊保在童年时期有几个玩伴，但由于性格内向，他与他们的关系并不深厚。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "中学时期，周俊保成绩中等，性格内向，不太擅长与人交往，因此与同学的关系较为疏远。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "周俊保的老师对他的勤奋和责任感有较高评价，但他自己却觉得无法达到老师的期望。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "大学时期，周俊保与几位同学关系较好，但由于性格内向，他并没有深入的朋友。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 6,
+                    "familiarity": [
+                        3,
+                        3,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "进入管理岗位后，周俊保与同事们保持着良好的工作关系，但在感情方面一直不太顺利。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "相亲对象",
+                    "count": 5,
+                    "familiarity": [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "description": [
+                        "最近半年，周俊保多次相亲失败，这些相亲对象对他的年龄和经济状况有所顾虑，导致他自信心严重受挫。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "周俊保开始寻求心理咨询，希望通过专业帮助来缓解自己的抑郁状态。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "周俊保在不同阶段的社会关系变化较大。童年时期，他与父母关系亲密，但由于父母的高期望，他一直觉得自己不够优秀。中学时期，他与同学和老师的关系较为疏远，性格内向使他难以建立深厚的友谊。大学时期，他与几位同学关系较好，但依然没有深入的朋友。进入职场后，他与同事保持良好的工作关系，但在感情方面一直不太顺利。最近半年，由于多次相亲失败，他的自信心严重受挫，开始寻求心理咨询的帮助。"
+    }
+}

@@ -1,0 +1,482 @@
+{
+    "childhood": {
+        "name": "邬瑞霭",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "一次在学校的绘画比赛中，我的作品没有获奖，我感到非常失落。回到家后，妈妈看出了我的情绪低落，安慰我说：'不要灰心，你已经画得很好了，下次会更好。'但是，我心里却觉得自己不够优秀。",
+                "location": "家里",
+                "happen_time": "2012年6月",
+                "participants": "母亲",
+                "impact": "这次事件强化了我的核心信念'我不够优秀'，并使我更加努力隐藏自己的缺点，避免失败。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次考试中，我的成绩没有达到预期，班主任在班上公开批评了我。我感到非常羞愧，觉得自己让大家失望了。回家后，我躲在房间里哭泣，不愿和任何人交流。",
+                "location": "学校和家里",
+                "happen_time": "2013年12月",
+                "participants": "班主任、母亲",
+                "impact": "这次经历加深了我对失败的恐惧以及对他人期望的敏感，进一步强化了'如果我失败了，我会让人失望'的中间信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里听到父母在客厅里争论关于工作的事情。爸爸疲惫地说：'我真的很累了。'而妈妈则责备道：'你总是不在家，孩子也需要你。'我在房间里默默听着，感到家庭氛围的紧张。",
+                "location": "家里",
+                "happen_time": "2011年2月",
+                "participants": "父亲、母亲",
+                "impact": "这个事件让我意识到父母也有自己的压力和问题，感到自己不应该增加他们的负担，进一步强化了'我不值得被关注'的核心信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "有一次，我和邻居小伙伴一起玩耍时，他突然抢走了我的玩具，还嘲笑我反应慢。我当时很生气，但又不敢反抗，只是默默地离开了。",
+                "location": "邻居家",
+                "happen_time": "2010年8月",
+                "participants": "邻居小伙伴",
+                "impact": "这次事件让我感到自己的脆弱和无助，强化了'世界对弱者不友好'的中间信念。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，我画了一幅画给爷爷奶奶看，他们非常喜欢，还夸奖我有潜力。那一刻，我感到特别开心和自豪。",
+                "location": "爷爷奶奶家",
+                "happen_time": "2011年11月",
+                "participants": "爷爷、奶奶、父母",
+                "impact": "这次事件让我感到自己的潜力被认可，强化了'我有能力实现我的目标'的核心信念，暂时提升了自信心。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个同学在班上因为成绩不好被其他同学嘲笑。我感到非常同情，但又不敢出声，因为害怕自己也会成为被嘲笑的对象。",
+                "location": "学校",
+                "happen_time": "2013年3月",
+                "participants": "同学们",
+                "impact": "这个事件让我意识到暴露缺点会带来嘲笑和批评，进一步强化了'我应该避免暴露我的缺点'的中间信念。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "一次在课堂上，老师问了一个问题，我明明知道答案，但却不敢举手回答，担心如果答错会被笑话。课后，我感到自己很懦弱。",
+                "location": "学校",
+                "happen_time": "2012年4月",
+                "participants": "老师、同学们",
+                "impact": "这次事件让我更加害怕在公众场合表现自己，进一步强化了'如果我的缺点暴露，我会被嘲笑和批评'的中间信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "一次在家里，父母因为我没有完成作业而责备我，我感到非常愧疚和压力，觉得自己总是让他们失望。",
+                "location": "家里",
+                "happen_time": "2011年9月",
+                "participants": "父母",
+                "impact": "这次事件加深了我对失败的恐惧，强化了'如果我失败了，我会让人失望'的中间信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到妈妈在厨房里偷偷抹眼泪，我问她怎么了，她说只是工作压力太大了。我感到非常心疼，但又不知道怎么安慰她。",
+                "location": "家里",
+                "happen_time": "2010年5月",
+                "participants": "母亲",
+                "impact": "这个事件让我意识到大人也会有脆弱的时候，但他们总是隐藏起来，这让我更加确信'我需要隐藏我的脆弱'的中间信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "有一次，我独自在图书馆看书，突然听到一群同学在讨论我，说我总是一个人，很奇怪。我感到非常难过，不知道为什么他们会这么想。",
+                "location": "图书馆",
+                "happen_time": "2014年5月",
+                "participants": "同学们",
+                "impact": "这次事件让我更加回避社交，认为他人不会真正关心我的感受，强化了'我不值得被关心'的核心信念。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到学校里一个成绩很好的同学被老师和同学们夸奖，我心里既羡慕又觉得自己永远达不到那样的水平。",
+                "location": "学校",
+                "happen_time": "2012年11月",
+                "participants": "老师、同学们",
+                "impact": "这个事件让我觉得他人会期待我表现出色，而我自己却总是达不到期望，强化了'他人会期待我表现出色'的中间信念。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校参加了一次绘画比赛，并获得了二等奖。虽然不是第一，但我感到非常开心，因为这是我第一次在公众场合被认可。",
+                "location": "学校",
+                "happen_time": "2015年4月",
+                "participants": "老师、同学们",
+                "impact": "这次事件让我感到自己的努力得到了认可，暂时提升了自信心，强化了'如果我努力，我会被认可'的中间信念。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个同学因为成绩不好被父母责骂，感到非常同情，但又觉得自己也有可能会遇到同样的情况。",
+                "location": "学校",
+                "happen_time": "2013年6月",
+                "participants": "同学、同学的父母",
+                "impact": "这个事件让我更加害怕失败，认为世界对平庸的人不宽容，强化了'世界对平庸的人不宽容'的中间信念。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "有一次，我在家里画画，父亲走过来看了一眼，轻描淡写地说：'不错。'虽然他的语气很平淡，但我依然感到很开心，觉得自己得到了认可。",
+                "location": "家里",
+                "happen_time": "2012年8月",
+                "participants": "父亲",
+                "impact": "这次事件让我感到自己的潜力被认可，强化了'我有能力实现我的目标'的核心信念。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个同学因为在体育课上表现出色而得到了大家的赞扬，我意识到自己在其他方面也有机会被认可，只要努力表现。",
+                "location": "学校",
+                "happen_time": "2014年10月",
+                "participants": "同学们",
+                "impact": "这个事件让我意识到努力表现自己是获得认可的途径，强化了'如果我努力，我会被认可'的中间信念。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "邬瑞霭",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中开学第一天，我发现自己在新班级里没有一个认识的人。为了不显得孤单，我选择坐在教室的角落里，默默观察其他同学的互动。尽管心里很想加入他们，但我害怕被拒绝或嘲笑。",
+                "location": "学校教室",
+                "happen_time": "2018年9月",
+                "participants": "同班同学",
+                "impact": "这种孤独的感觉加深了我‘我不值得被关注’的核心信念，让我更加回避社交。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次数学考试中，我取得了全班第一的好成绩。老师在全班面前表扬了我，这让我感到开心，但也有些压力。回到家后，父母也对我表示了赞赏，并鼓励我继续努力。",
+                "location": "学校教室，家里",
+                "happen_time": "2019年3月",
+                "participants": "老师、同学、父母",
+                "impact": "尽管成绩优异带来了短暂的自信，但也强化了‘我必须不断努力才能达到父母和老师的期望’的中间信念。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，听到班上一个活泼的女生在背后议论我的穿着和性格，说我太安静、太奇怪了。当时我装作没听见，但心里非常难受，觉得自己被孤立了。",
+                "location": "学校教室外的走廊",
+                "happen_time": "2019年5月",
+                "participants": "同班女生",
+                "impact": "这次事件加重了‘我需要隐藏我的缺点’的中间信念，让我更加害怕被他人注意到自己的不足。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在一次美术课上，我的画得到了老师的高度评价，老师当着全班同学的面展示了我的作品，并鼓励大家向我学习。这让我感到一种久违的成就感。",
+                "location": "学校美术教室",
+                "happen_time": "2019年11月",
+                "participants": "美术老师、同学",
+                "impact": "这次事件增强了‘我有潜力’的核心信念，让我对自己的绘画能力有了更多的信心。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次在图书馆，我看到一位同学因为成绩不好被父母责骂，同学当场哭了出来。我默默地看着，心里感到难过，同时也担心自己会有同样的遭遇。",
+                "location": "学校图书馆",
+                "happen_time": "2020年2月",
+                "participants": "同班同学及其父母",
+                "impact": "这次观察让我更加坚信‘世界对平庸的人没有宽容’的中间信念，担心自己如果失败会失去他人的尊重。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在一次全校的绘画比赛中，我获得了二等奖。这次比赛让我认识了一些志同道合的朋友，虽然我们只是偶尔交流，但我感到了一种归属感。",
+                "location": "学校礼堂",
+                "happen_time": "2020年10月",
+                "participants": "参赛同学、老师",
+                "impact": "这次经历增强了‘我有能力实现我的目标’的中间信念，同时也让我认识到社交并非完全无法克服的挑战。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "我注意到一位平时成绩一般的同学在一次演讲比赛中表现出色，获得了大家的掌声和老师的赞赏。这让我深思，或许我也可以在其他领域尝试表现自己。",
+                "location": "学校礼堂",
+                "happen_time": "2021年3月",
+                "participants": "同班同学、老师",
+                "impact": "这次观察让我开始质疑‘我不值得被关注’的核心信念，并促使我在其他方面尝试突破自己。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "有一次在课堂上，因为回答问题时紧张而说错了话，导致全班同学哄堂大笑。我感到非常尴尬和羞愧，从此更加不敢在公共场合发言。",
+                "location": "学校教室",
+                "happen_time": "2021年5月",
+                "participants": "同班同学、老师",
+                "impact": "这次事件强化了‘我需要隐藏我的缺点’的中间信念，让我更加避免在公众场合表现自己。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在放学后看到一位同学因为家庭原因不得不辍学去打工。我意识到，生活中有很多比我更困难的人，这让我对自己的处境有了一些新的理解。",
+                "location": "学校门口",
+                "happen_time": "2021年9月",
+                "participants": "同班同学",
+                "impact": "这次观察让我对‘世界是充满挑战的’的核心信念有了更深刻的理解，同时也让我更加珍惜自己的学习机会。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "高考前夕，父母对我抱有很高的期望，他们每天都在提醒我要好好复习，甚至取消了我的休息时间。这让我感到巨大的压力和焦虑。",
+                "location": "家里",
+                "happen_time": "2022年5月",
+                "participants": "父母",
+                "impact": "这种高压环境强化了‘我必须不断努力才能达到父母和老师的期望’的中间信念，让我感到疲惫和紧张。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "高考成绩公布后，我如愿考上了省会城市的一所大学。父母对我感到非常自豪，但我却感到一种空虚和不安，不知道未来会怎样。",
+                "location": "家里",
+                "happen_time": "2022年7月",
+                "participants": "父母",
+                "impact": "虽然达到了目标，但我开始质疑自己是否真正满足了内心的需求，‘我有潜力’的核心信念得到了确认，但同时也带来了新的焦虑。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "大学开学后，我发现自己很难适应新的环境和人际关系。尽管我努力尝试与室友和同学建立联系，但总觉得自己被孤立。",
+                "location": "大学校园",
+                "happen_time": "2022年9月",
+                "participants": "室友、同学",
+                "impact": "这种孤独感强化了‘我不值得被关注’的核心信念，让我更加回避社交，情绪低落。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次在大学食堂，我注意到一位同学因为语言不通而被其他同学嘲笑。我感到非常同情，也意识到自己并不是唯一感到孤独和不适应的人。",
+                "location": "大学食堂",
+                "happen_time": "2022年11月",
+                "participants": "大学同学",
+                "impact": "这次观察让我对‘世界对弱者不友好’的中间信念有了更深刻的理解，同时也让我产生了一些共情的情感。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在一次插画课上，我的作品被教授选中作为优秀作品展示。这让我感到非常骄傲，并且激励我继续追求插画师的梦想。",
+                "location": "大学教室",
+                "happen_time": "2023年3月",
+                "participants": "教授、同学",
+                "impact": "这次经历强化了‘我有能力实现我的目标’的中间信念，让我对未来充满希望。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "在一次校园活动中，我看到一些同学因为组织活动而获得了广泛的认可和赞赏。这让我意识到，或许我也可以通过积极参与活动来提升自己的存在感。",
+                "location": "大学校园",
+                "happen_time": "2023年5月",
+                "participants": "大学同学",
+                "impact": "这次观察让我对‘世界充满了机会’的中间信念有了更多的信心，并激励我积极参与校园活动。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "邬瑞霭",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "第一次参加大学社团活动，我感到非常紧张，不知道如何与别人交流。活动中我尝试主动与几位同学搭话，但他们似乎对我的话题不感兴趣，这让我更为自卑。",
+                "location": "大学校园",
+                "happen_time": "2023年9月",
+                "participants": "大学社团成员",
+                "impact": "增加了她对社交的焦虑感和自我怀疑，使她更加避免社交活动。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次绘画课程上，我的作品被老师批评不够有创意，这让我对自己的能力产生了怀疑。",
+                "location": "大学教室",
+                "happen_time": "2023年10月",
+                "participants": "绘画老师和同学",
+                "impact": "强化了她的核心信念‘我不够优秀’，让她对自己的插画梦想产生了动摇。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次与室友的争吵中，我因为小事而情绪失控，室友指责我太敏感，这让我感到更加孤独和不被理解。",
+                "location": "宿舍",
+                "happen_time": "2023年11月",
+                "participants": "室友",
+                "impact": "加深了她‘我不值得被关注’的核心信念，使她更加回避与室友的交流。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "期中考试成绩公布，我的成绩并不理想，这让我觉得自己在学术上也不够优秀。",
+                "location": "校园",
+                "happen_time": "2023年12月",
+                "participants": "自己",
+                "impact": "增强了她‘我必须不断努力才能达到别人的期望’的中间信念，增加了她的焦虑感。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "寒假回到家中，父母因为忙碌很少有时间陪伴我，这让我感到更加孤独和无助。",
+                "location": "家中",
+                "happen_time": "2024年1月",
+                "participants": "父母",
+                "impact": "强化了她‘我不值得被关心’的核心信念，使她对家庭的依赖感进一步降低。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "寒假期间，我花了很多时间在家中独自绘画，但总是感觉作品不够好，这让我对自己越来越不自信。",
+                "location": "家中",
+                "happen_time": "2024年2月",
+                "participants": "自己",
+                "impact": "进一步加深了她‘我不够优秀’的核心信念，导致她的自我怀疑增加。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "回到学校后，我尝试参加了一个绘画比赛，但最终没有获奖，这让我非常失望和沮丧。",
+                "location": "校园",
+                "happen_time": "2024年3月",
+                "participants": "自己和其他参赛者",
+                "impact": "强化了她‘我不值得被关注’的核心信念，使她对自己的插画事业产生了更多的怀疑。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次图书馆的自习中，我无意中听到两位同学在讨论他们的社交生活和朋友，这让我深感孤独和失落。",
+                "location": "图书馆",
+                "happen_time": "2024年4月",
+                "participants": "自己和两位同学（无直接交流）",
+                "impact": "加深了她‘我不值得被关心’的核心信念，使她的孤独感进一步加强。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "我在一次与父母的电话中，尝试诉说自己的困惑和压力，但父母只是简单安慰了一下便挂断了电话，这让我感到更加无助。",
+                "location": "宿舍",
+                "happen_time": "2024年5月",
+                "participants": "父母",
+                "impact": "进一步加深了她‘我不值得被关心’的核心信念，使她对父母的依赖感减弱。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次绘画课程上，我因为过度紧张而无法完成老师布置的作业，这让我感到非常挫败。",
+                "location": "大学教室",
+                "happen_time": "2024年6月",
+                "participants": "绘画老师和同学",
+                "impact": "进一步强化了她‘我必须不断努力才能达到别人的期望’的中间信念，使她的焦虑感进一步加剧。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "一次独自散步时，我遇到了一位热情的陌生人，他主动与我交谈并鼓励我，这让我感到了一丝温暖。",
+                "location": "校园周边",
+                "happen_time": "2024年7月",
+                "participants": "陌生人",
+                "impact": "短暂地减轻了她的孤独感，但也让她意识到自己对社交的恐惧。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "暑假期间，我决定去图书馆自习，但每次去都感到难以集中注意力，无法完成学习任务，这让我感到挫败。",
+                "location": "图书馆",
+                "happen_time": "2024年8月",
+                "participants": "自己",
+                "impact": "加剧了她的抑郁症状，使她对自己的学习能力产生了更多怀疑。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "一次在校园散步时，我看到一群同学在一起聊天和笑闹，这让我感到自己被社交圈排斥。",
+                "happen_time": "2023年10月",
+                "participants": "一群同学",
+                "impact": "强化了她‘他人不会真正关心我的感受’的中间信念，使她的孤独感更深。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次课堂讨论中，我发现其他同学都能积极发言，而我却因为害怕出错而保持沉默，这让我感到自己不如他们。",
+                "happen_time": "2023年11月",
+                "participants": "同学和老师",
+                "impact": "增加了她对自己社交能力的怀疑，增强了她‘世界对平庸的人没有宽容’的中间信念。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "一次在食堂用餐时，我看到其他同学都与朋友一起吃饭，而我只能独自一人，这让我感到非常孤独。",
+                "happen_time": "2024年1月",
+                "participants": "其他同学",
+                "impact": "进一步加深了她的孤独感和社交回避行为。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次图书馆的自习中，我看到一位同学被另一位同学帮助，这让我感到自己没有这样的社交支持。",
+                "happen_time": "2024年3月",
+                "participants": "两位同学",
+                "impact": "加深了她‘我不值得被关心’的核心信念，使她的孤独感和无助感增加。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在校园的宣传栏上，我看到许多同学的获奖作品展示，而自己的作品却从未被展示过，这让我感到自己不够优秀。",
+                "happen_time": "2024年5月",
+                "participants": "宣传栏上的同学",
+                "impact": "强化了她‘我不够优秀’的核心信念，使她对自己的绘画能力更加怀疑。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "一次在宿舍楼下，我看到一对情侣在争吵，但最终男生安慰了女生，这让我感到自己没有这样的情感支持。",
+                "happen_time": "2024年6月",
+                "participants": "情侣",
+                "impact": "增加了她对自己情感支持缺乏的感受，强化了她‘他人不会真正关心我的感受’的中间信念。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次绘画展览中，我看到许多同学的作品都很出色，而自己的作品却显得平庸，这让我感到自己在艺术上的不足。",
+                "happen_time": "2024年7月",
+                "participants": "其他参展同学",
+                "impact": "进一步强化了她‘我不够优秀’的核心信念，使她对自己的艺术追求感到更多的怀疑。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次校园活动中，我看到许多同学都在积极参与，而我却因为害怕社交而保持距离，这让我感到自己被社交圈排斥。",
+                "happen_time": "2024年8月",
+                "participants": "其他活动参与同学",
+                "impact": "加深了她对社交的恐惧，增强了她‘世界对平庸的人没有宽容’的中间信念。"
+            }
+        ]
+    }
+}

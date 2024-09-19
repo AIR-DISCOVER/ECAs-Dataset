@@ -1,0 +1,144 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "细腻"
+        ],
+        "appearance": [
+            "瘦弱",
+            "清秀",
+            "长发",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐"
+            ],
+            "activity": [
+                "独自一人画画",
+                "在房间里听音乐"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "适应高中的学习节奏，提升学习成绩",
+            "long_term_goals": "考上理想的大学，成为一名艺术家"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，7点到校上课，下午放学后回家做作业，晚上10点左右睡觉。",
+            "weekends": "周末大部分时间在家，偶尔会去图书馆或美术馆。"
+        },
+        "past_experiences": {
+            "childhood": "小时候性格活泼，但在小学高年级时因成绩下滑受到老师和家长的批评，逐渐变得内向。",
+            "recent_events": "刚上高一，面对新的学习环境和压力，感到非常不适应，情绪低落。"
+        },
+        "environment": "出生在一个小城市，家庭经济状况一般，父母对她的期望很高。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "秦馥晓的父亲是一名普通的工人，工作繁忙，但对女儿的学习非常关心。小时候，父亲经常带她去公园玩耍，教她骑自行车。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "秦馥晓的母亲是一名家庭主妇，性格温和，对女儿的照顾无微不至。母亲经常陪她做作业，给她讲故事。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "秦馥晓在小学时有几个好朋友，她们经常一起玩耍、学习，但随着时间的推移，关系逐渐疏远。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "随着秦馥晓进入高中，父亲对她的期望更高，但由于工作繁忙，陪伴她的时间减少了。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然关心她的生活和学习，但秦馥晓不愿意与母亲分享自己的情感，导致母女关系有些紧张。"
+                    ]
+                },
+                {
+                    "relationship": "同学",
+                    "count": 5,
+                    "familiarity": [
+                        2,
+                        2,
+                        1,
+                        1,
+                        1
+                    ],
+                    "description": [
+                        "刚进入高中，秦馥晓与新同学的关系还不太熟悉，缺乏深度交流。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        1
+                    ],
+                    "description": [
+                        "秦馥晓的老师们对她的学习情况关注，但她不愿意主动与老师交流，导致老师对她的了解有限。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "秦馥晓在小学时性格活泼，朋友较多，但随着成绩下滑和老师、家长的批评，她逐渐变得内向。进入高中后，面对新的学习环境和压力，她的社交能力和意愿进一步下降，导致她与周围人的关系变得疏远。她不愿意与家人、老师和同学交流，感到孤独和无助。"
+    }
+}

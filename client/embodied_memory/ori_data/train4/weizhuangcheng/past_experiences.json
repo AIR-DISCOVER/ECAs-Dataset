@@ -1,0 +1,422 @@
+{
+    "childhood": {
+        "name": "韦壮承",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "在小学一年级期末考试中，我得到了全班最高分。老师在全班同学面前表扬了我，并给我颁发了一张奖状。回到家后，父母高兴地夸奖我，还带我去吃了我最喜欢的披萨。这让我觉得只要我努力学习，就能获得大家的认可和奖励。",
+                "location": "小学教室和家中",
+                "happen_time": "2010年6月",
+                "participants": "老师、同学、父母",
+                "impact": "这次经历强化了“我的价值取决于我的学业成就”和“我必须满足他人的期望”的核心信念。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在小学三年级的一次数学竞赛中，我因为粗心大意错过了一道题目，最终只得了第二名。回家后，父亲语重心长地对我说：“你应该更加认真仔细，才能不辜负我们的期望。”",
+                "location": "竞赛场地和家中",
+                "happen_time": "2012年4月",
+                "participants": "父亲、竞赛工作人员",
+                "impact": "这次经历让我的中间信念“如果我在学业上失败，我就是一个无价值的人”变得更加根深蒂固。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到邻居家的孩子因为考试成绩不好，被父母批评得很厉害。孩子哭着说他已经尽力了，但父母还是责备他没有达到他们的期望。",
+                "location": "邻居家门口",
+                "happen_time": "2012年9月",
+                "participants": "邻居家的孩子和他的父母",
+                "impact": "这个事件加深了我对“世界对失败者没有宽容”和“我不能容忍任何学业上的错误”的信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在小学四年级的一次班级活动中，我主动提出了一个游戏方案，并成功组织了同学们一起玩。活动结束后，老师和同学们都对我表示了赞赏。",
+                "location": "小学教室",
+                "happen_time": "2013年5月",
+                "participants": "老师、同学们",
+                "impact": "这次经历增强了我的核心信念“我有能力面对挑战”和“我值得被关心和支持”。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到学校里一位成绩优秀的学长被老师和同学们敬仰，大家都愿意向他请教问题，甚至在课余时间也围绕在他身边。",
+                "location": "学校图书馆",
+                "happen_time": "2013年10月",
+                "participants": "学长、老师、同学们",
+                "impact": "这个事件强化了我对“他人只会尊重那些学业上成功的人”的信念。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "在小学五年级的一次大考中，我因为身体不适，成绩不理想。回到家后，母亲安慰我说：“没关系，妈妈知道你已经尽力了，休息好，下次一定会更好。”",
+                "location": "学校考场和家中",
+                "happen_time": "2014年3月",
+                "participants": "母亲",
+                "impact": "这次经历让我感受到“我值得被关心和支持”，并让我对母亲的温柔和支持更加依赖。"
+            },
+            {
+                "event_id": "7",
+                "category": "Third-Person Observation",
+                "event": "在一次家族聚会上，我听到父母和其他亲戚讨论孩子们的学业成就。大家对那些成绩优秀的孩子称赞有加，而对成绩一般的孩子则关注较少。",
+                "location": "家族聚会现场",
+                "happen_time": "2014年10月",
+                "participants": "父母、亲戚、其他孩子",
+                "impact": "这个事件强化了我对“我必须满足他人的期望”和“他人对我有很高的期望”的信念。"
+            },
+            {
+                "event_id": "8",
+                "category": "First-Person Experience",
+                "event": "在小学六年级的毕业典礼上，我因为成绩优秀被评为“优秀毕业生”，并在全校师生面前上台领奖。那一刻，我感到无比自豪。",
+                "location": "学校礼堂",
+                "happen_time": "2016年6月",
+                "participants": "老师、同学、父母",
+                "impact": "这次经历进一步巩固了“我的价值取决于我的学业成就”的核心信念。"
+            },
+            {
+                "event_id": "9",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校看到一位同学因为没有完成作业，被老师罚站在教室门口。那位同学低着头，显得非常沮丧和无助。",
+                "location": "学校教室门口",
+                "happen_time": "2015年11月",
+                "participants": "同学、老师",
+                "impact": "这个事件加深了我对“如果我在学业上失败，我会被视为无价值”的信念。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "在小学六年级的一次篮球比赛中，我带领球队取得了胜利。队友们纷纷向我表示感谢，教练也夸奖了我的领导能力。",
+                "location": "学校篮球场",
+                "happen_time": "2016年5月",
+                "participants": "队友、教练",
+                "impact": "这次经历增强了我的核心信念“我有能力面对挑战”和“我值得被关心和支持”，让我更加自信。"
+            },
+            {
+                "event_id": "11",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到父亲在工作中遇到困难，但他并没有退缩，而是积极寻找解决方案，最终成功解决了问题。母亲在旁边对他说：“你真棒，我就知道你能行。”",
+                "location": "家中",
+                "happen_time": "2015年8月",
+                "participants": "父亲、母亲",
+                "impact": "这个事件影响了我对“我有能力应对学业和生活中的挑战”的信念，让我更加相信自己可以面对各种挑战。"
+            },
+            {
+                "event_id": "12",
+                "category": "First-Person Experience",
+                "event": "在小学五年级的一次班级演讲比赛中，我因为紧张而说错了几句话，没有拿到预期的名次。回家后，母亲温柔地安慰我：“别灰心，这只是一次小小的挫折，下次一定会更好。”",
+                "location": "学校礼堂和家中",
+                "happen_time": "2014年12月",
+                "participants": "母亲、老师、同学",
+                "impact": "这次经历让我感受到“我值得被关心和支持”，同时也让我对自己在公众场合的表现更加谨慎。"
+            },
+            {
+                "event_id": "13",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在学校里看到一个同学因为成绩差而被其他同学嘲笑。那个同学低着头，一副无助的样子，让我感到很同情。",
+                "location": "学校操场",
+                "happen_time": "2014年5月",
+                "participants": "同学们",
+                "impact": "这个事件加深了我对“他人只会尊重那些学业上成功的人”的信念，并让我对失败有了更多的恐惧。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "韦壮承",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中毕业考试前的一个晚上，我躺在床上怎么也睡不着，心里满是对考试的焦虑。妈妈走进房间，轻声问我是不是因为考试压力大。我点了点头，她坐在我床边，轻声说：'别怕，不管结果如何，我们都支持你。' 她的安慰让我暂时舒缓了焦虑。",
+                "location": "南京的家中",
+                "happen_time": "2017年6月",
+                "participants": "韦壮承、母亲",
+                "impact": "母亲的支持让他感到被关心和支持，短暂地缓解了他的焦虑，但核心信念仍然是学业成就决定价值。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "初中毕业考试成绩出来那天，我忐忑地打开成绩单，发现自己考得很不错。父亲看了我的成绩，拍了拍我的肩膀，说了一句：'不错，继续努力。' 虽然父亲的表扬很简短，但我感受到了他的认可。",
+                "location": "南京家中",
+                "happen_time": "2017年7月",
+                "participants": "韦壮承、父亲",
+                "impact": "父亲的认可让他感到自己被尊重和认可，但同时也加深了他对学业成就的依赖，认为只有通过学业才能获得父亲的认可。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里做作业，听见客厅里父母的对话。父亲对母亲说：'我们得让壮承考上好的高中，这样将来才有好前途。' 母亲回应道：'是的，但也不能给他太大压力。' 我在房间里听到这些话，感到压力倍增。",
+                "location": "南京家中",
+                "happen_time": "2018年3月",
+                "participants": "韦壮承、父亲、母亲",
+                "impact": "父母的对话让他感到自己肩负着巨大的期望，进一步强化了他必须满足他人期望的信念。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在高一的一次数学考试中，我没有考好，只得了70分。我感到非常自责，认为自己辜负了父母的期望。回到家后，母亲安慰我说：'没关系，这只是一次考试，下次努力就好。' 但我依然感到深深的失落。",
+                "location": "南京某中学",
+                "happen_time": "2018年11月",
+                "participants": "韦壮承、母亲",
+                "impact": "考试失利让他感到自己无价值，加深了他对完美表现的追求和对失败的恐惧。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在高二的一次班会上，班主任表扬了我最近的进步，并鼓励我继续努力。当时我感到非常自豪，觉得自己的努力得到了回报。",
+                "location": "南京某中学",
+                "happen_time": "2019年5月",
+                "participants": "韦壮承、班主任、同学",
+                "impact": "班主任的表扬让他感到被认可，增强了他的自信心，但也强化了他对学业成就的依赖。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一个同学因为在考试中作弊被老师抓住。同学被叫到办公室，出来时脸色苍白，显得非常沮丧。我心里暗自警戒，告诉自己绝不能犯类似的错误。",
+                "location": "南京某中学",
+                "happen_time": "2019年10月",
+                "participants": "韦壮承、同学、老师",
+                "impact": "同学的经历让他对学业上的错误更加敏感，进一步强化了他对完美表现的追求。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "高考前夕，我因为压力大而出现了失眠和焦虑症状。母亲发现后带我去看了心理医生，医生教我一些放松的方法，并告诉我适度的压力是正常的。这次经历让我开始正视自己的焦虑问题。",
+                "location": "南京某心理诊所",
+                "happen_time": "2021年5月",
+                "participants": "韦壮承、母亲、心理医生",
+                "impact": "这次看心理医生的经历让他意识到自己需要面对和管理焦虑，但核心信念和中间信念并未根本改变。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在图书馆自习，看到一个同学因为长时间学习而疲惫不堪，最后不得不放弃复习，提前回家休息。看到这一幕，我感到自己也需要注意劳逸结合。",
+                "location": "南京某图书馆",
+                "happen_time": "2021年1月",
+                "participants": "韦壮承、同学",
+                "impact": "他开始意识到过度学习的负面影响，但内心仍然认为必须不断努力才能获得认可。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "高考成绩出来那天，我紧张地登录网站查看成绩，发现自己考得非常好，顺利考上了理想的大学。父母都非常高兴，父亲甚至罕见地给了我一个拥抱。这一刻我感到无比满足。",
+                "location": "南京家中",
+                "happen_time": "2021年6月",
+                "participants": "韦壮承、父亲、母亲",
+                "impact": "高考成功让他感到自己被认可和尊重，但也进一步强化了对学业成就的依赖。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "大学开学第一天，我在寝室里遇到了新室友。我们互相介绍，聊了许多关于家乡和兴趣爱好的话题。我感到与新朋友相处的愉快，内心有了些许放松。",
+                "location": "南京某大学寝室",
+                "happen_time": "2021年9月",
+                "participants": "韦壮承、新室友",
+                "impact": "与新朋友的相处让他感到被接受和支持，内心的焦虑有所缓解。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "在大学第一次期中考试前，我因为担心成绩而再次感到焦虑。这次我尝试使用心理医生教我的放松方法，虽然效果有限，但让我意识到应对焦虑是个长期过程。",
+                "location": "南京某大学",
+                "happen_time": "2021年11月",
+                "participants": "韦壮承",
+                "impact": "他开始尝试面对和管理自己的焦虑，但核心信念仍然让他感到压力。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一位学长因为学业压力大而情绪崩溃，最后不得不休学。我感到震惊，这让我更加意识到学业压力对心理健康的影响。",
+                "location": "南京某大学",
+                "happen_time": "2022年3月",
+                "participants": "韦壮承、学长",
+                "impact": "学长的经历让他更加关注自己和他人的心理健康，但他仍然认为学业成就是最重要的。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在一次篮球比赛中，我和队友们紧密合作，最终赢得了比赛。那一刻我感到团队合作的力量，也意识到自己不仅仅是学业上的成功者。",
+                "location": "南京某篮球场",
+                "happen_time": "2022年5月",
+                "participants": "韦壮承、队友",
+                "impact": "篮球比赛的胜利让他感到自信和快乐，开始意识到学业之外的价值。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "在一次与朋友的闲聊中，我向他们倾诉了最近的学业压力，朋友们都表示理解和支持，让我感到内心轻松了许多。",
+                "location": "南京某咖啡馆",
+                "happen_time": "2022年6月",
+                "participants": "韦壮承、朋友",
+                "impact": "朋友的支持让他感到被关心和理解，缓解了部分压力。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在校园里看到一位同学因成绩不理想而哭泣，他的朋友们围在他身边安慰他。我感到这份友情的温暖，意识到学业之外还有许多值得珍视的东西。",
+                "location": "南京某大学校园",
+                "happen_time": "2022年7月",
+                "participants": "韦壮承、同学、同学的朋友",
+                "impact": "这一幕让他意识到友情和支持的重要性，开始重新审视自己的核心信念。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "韦壮承",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "高考前夕，韦壮承因为压力大而出现了严重的焦虑症状，导致他在考试前几天彻夜难眠。",
+                "location": "南京市家中",
+                "happen_time": "2022年6月",
+                "participants": "母亲",
+                "impact": "加剧了他的焦虑，并且形成了对高压环境的恐惧。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "进入大学后，韦壮承第一次面临期中考试，他感到极大的压力，并且不断担心自己会失败。",
+                "location": "南京市大学宿舍",
+                "happen_time": "2022年11月",
+                "participants": "室友",
+                "impact": "考试前的焦虑症状再次出现，难以集中注意力学习。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "韦壮承看到一位同学因考试成绩不佳而情绪崩溃，被送往心理咨询中心。",
+                "location": "南京市大学教室",
+                "happen_time": "2023年1月",
+                "participants": "同学",
+                "impact": "让他更加担心自己的学业表现，害怕自己也会出现类似情况。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "与父亲通话时，父亲对他的成绩提出了更高的期望，表示希望他能进入更好的研究生院校。",
+                "location": "电话中",
+                "happen_time": "2023年3月",
+                "participants": "父亲",
+                "impact": "增加了他对学业的压力，进一步加剧了焦虑。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次篮球比赛中，韦壮承看到队友因为失误而被其他人责备，这让他深刻感受到错误带来的负面评价。",
+                "location": "大学篮球场",
+                "happen_time": "2023年5月",
+                "participants": "队友",
+                "impact": "强化了他对学业失败的恐惧感，不敢轻易尝试新的挑战。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "母亲在一次通话中告诉他，她相信他有能力应对任何挑战，并且无论结果如何都会支持他。",
+                "location": "电话中",
+                "happen_time": "2023年7月",
+                "participants": "母亲",
+                "impact": "暂时缓解了他的焦虑，使他感受到关心和支持的力量。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在准备期末考试期间，韦壮承因过度疲劳而晕倒，被送往校医院。",
+                "location": "大学图书馆",
+                "happen_time": "2023年12月",
+                "participants": "同学、医护人员",
+                "impact": "身体的极限提醒了他需要更好地管理压力，但依然未能完全缓解焦虑。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "韦壮承看到一位学长因学业压力过大而选择休学，这让他对自己的未来更加担忧。",
+                "location": "大学校园",
+                "happen_time": "2024年1月",
+                "participants": "学长",
+                "impact": "对学业压力的焦虑进一步加剧，开始质疑自己的能力和未来。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次心理咨询中，咨询师帮助他识别了自己对学业的过高期望，并建议他尝试改变这种思维模式。",
+                "location": "心理咨询室",
+                "happen_time": "2024年2月",
+                "participants": "心理咨询师",
+                "impact": "开始意识到自己的核心信念可能是不合理的，但仍需时间来改变。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "韦壮承在一次聚会上，看到一个朋友因为学业压力过大而哭泣，这再次触动了他的情绪。",
+                "location": "朋友家中",
+                "happen_time": "2024年4月",
+                "participants": "朋友",
+                "impact": "情绪波动加剧，进一步感受到学业压力的沉重。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次母亲的鼓励下，韦壮承决定参加一个放松训练课程，学习如何更好地管理压力。",
+                "location": "大学活动中心",
+                "happen_time": "2024年5月",
+                "participants": "母亲、放松训练教练",
+                "impact": "开始尝试新的应对策略，缓解了一部分焦虑。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在期末考试的前一天晚上，韦壮承由于过度紧张而无法入睡，第二天考试时表现失常。",
+                "location": "大学宿舍",
+                "happen_time": "2024年6月",
+                "participants": "无",
+                "impact": "考试结果不理想，进一步增强了他对学业失败的恐惧和自我怀疑。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "韦壮承在图书馆看到一个学生因为考试成绩不佳而与父母争吵，这让他回想起自己与父亲的关系。",
+                "location": "大学图书馆",
+                "happen_time": "2024年7月",
+                "participants": "其他学生",
+                "impact": "对家庭期望的压力感再次涌上心头，加剧了他的焦虑。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "韦壮承在一次篮球比赛中获得了胜利，短暂地感受到成功带来的满足感。",
+                "location": "大学篮球场",
+                "happen_time": "2024年8月",
+                "participants": "队友",
+                "impact": "感受到成功的喜悦，但意识到这种满足感是短暂的，未能有效缓解长期的学业焦虑。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "与心理咨询师的一次深入谈话中，韦壮承开始理解自己的核心信念和中间信念如何影响他的行为和情绪，并决定尝试改变这些信念。",
+                "location": "心理咨询室",
+                "happen_time": "2024年8月",
+                "participants": "心理咨询师",
+                "impact": "逐渐开始建立新的认知模式，减少对学业的过度担忧，但仍需时间和努力。"
+            }
+        ]
+    }
+}

@@ -1,0 +1,326 @@
+{
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以从工作中的错误中学习和成长。",
+                "others": "他人也会犯错，并从中学习。",
+                "world": "世界是一个允许人们从错误中成长的地方。"
+            },
+            "rules": "我应该接受自己的错误，并努力从中学习和改进。",
+            "positive_assumption": "如果我从错误中学习，我会变得更强大和有能力。",
+            "negative_assumption": "如果我忽略错误，我将失去成长和改进的机会。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力通过自己的工作来帮助病人。",
+                "others": "病人会因为我的帮助而感到更好。",
+                "world": "世界上有很多人需要我的帮助。"
+            },
+            "rules": "我应该尽力发挥我的专业能力，帮助更多的病人。",
+            "positive_assumption": "如果我帮助了病人，我会感到满足和成就感。",
+            "negative_assumption": "如果我不能帮助病人，我会感到沮丧和内疚。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须表现得完美，才能获得认可和尊重。",
+                "others": "他人只会认可和尊重完美的人。",
+                "world": "这个世界只会奖励那些表现完美的人。"
+            },
+            "rules": "我必须在工作和生活中追求完美，避免任何失误。",
+            "positive_assumption": "如果我表现完美，我就会获得认可和尊重。",
+            "negative_assumption": "如果我不完美，我就会被忽视和贬低。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有足够的能力应对工作中的挑战。",
+                "others": "他人可能比我更有能力、更能胜任工作。",
+                "world": "工作中的挑战往往是难以克服的。"
+            },
+            "rules": "我应该尽量避免面对太多的挑战，以免暴露自己的无能。",
+            "positive_assumption": "如果我避免挑战，我就不会暴露自己的不足。",
+            "negative_assumption": "如果我面对挑战，我会暴露自己的无能，并失败。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得他人关心和爱护。",
+                "others": "他人不会真正关心我的感受。",
+                "world": "在这个世界上，我很难找到真正关心和爱护我的人。"
+            },
+            "rules": "我应该尽量避免依赖他人，避免期望他人的关心和爱护。",
+            "positive_assumption": "如果我不依赖他人，我就不会失望。",
+            "negative_assumption": "如果我依赖他人，我会感到更加失望和受伤。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我犯错，那就证明我真的不够好。",
+                "others": "他人会发现我的不足，并因此看不起我。",
+                "world": "世界是一个对弱点毫不留情的地方。"
+            },
+            "rules": "我必须避免犯错，尽量避免暴露自己的不足。",
+            "positive_assumption": "如果我避免犯错，我就不会被别人看不起。",
+            "negative_assumption": "如果我犯错，我就会被别人看不起，我的不够好会被暴露。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以从学习中的错误中学习和成长。",
+                "others": "同学们也会犯错，并从中学习。",
+                "world": "世界是一个允许人们从错误中成长的地方。"
+            },
+            "rules": "我应该接受自己的错误，并努力从中学习和改进。",
+            "positive_assumption": "如果我从错误中学习，我会变得更强大和有能力。",
+            "negative_assumption": "如果我忽略错误，我将失去成长和改进的机会。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力通过自己的努力来帮助家人和朋友。",
+                "others": "家人和朋友会因为我的帮助而感到更好。",
+                "world": "世界上有很多人需要我的帮助。"
+            },
+            "rules": "我应该尽力发挥我的能力，帮助更多的家人和朋友。",
+            "positive_assumption": "如果我帮助了家人和朋友，我会感到满足和成就感。",
+            "negative_assumption": "如果我不能帮助家人和朋友，我会感到沮丧和内疚。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须表现得完美，才能获得认可和尊重。",
+                "others": "同学和老师只会认可和尊重完美的人。",
+                "world": "这个世界只会奖励那些表现完美的人。"
+            },
+            "rules": "我必须在学习和生活中追求完美，避免任何失误。",
+            "positive_assumption": "如果我表现完美，我就会获得认可和尊重。",
+            "negative_assumption": "如果我不完美，我就会被忽视和贬低。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有足够的能力应对学习中的挑战。",
+                "others": "同学们可能比我更有能力、更能胜任学业。",
+                "world": "学业中的挑战往往是难以克服的。"
+            },
+            "rules": "我应该尽量避免面对太多的学业挑战，以免暴露自己的无能。",
+            "positive_assumption": "如果我避免学业挑战，我就不会暴露自己的不足。",
+            "negative_assumption": "如果我面对学业挑战，我会暴露自己的无能，并失败。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得他人关心和爱护。",
+                "others": "同学们不会真正关心我的感受。",
+                "world": "在这个世界上，我很难找到真正关心和爱护我的人。"
+            },
+            "rules": "我应该尽量避免与同学过多的情感交流，避免期望他们的关心和爱护。",
+            "positive_assumption": "如果我不依赖同学，我就不会失望。",
+            "negative_assumption": "如果我依赖同学，我会感到更加失望和受伤。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我考试成绩不好，那就证明我真的不够好。",
+                "others": "他人会发现我的不足，并因此看不起我。",
+                "world": "世界是一个对弱点毫不留情的地方。"
+            },
+            "rules": "我必须在考试中避免失误，尽量避免暴露自己的不足。",
+            "positive_assumption": "如果我考试成绩优秀，我就不会被别人看不起。",
+            "negative_assumption": "如果我考试成绩不好，我就会被别人看不起，我的不够好会被暴露。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以从错误中学习和成长。",
+                "others": "他人也会犯错，并从中学习。",
+                "world": "世界是一个允许人们从错误中成长的地方。"
+            },
+            "rules": "我应该接受自己的错误，并努力从中学习和改进。",
+            "positive_assumption": "如果我从错误中学习，我会变得更强大和有能力。",
+            "negative_assumption": "如果我忽略错误，我将失去成长和改进的机会。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力通过自己的努力来帮助别人。",
+                "others": "他人会因为我的帮助而感到更好。",
+                "world": "世界上有很多人需要我的帮助。"
+            },
+            "rules": "我应该尽力发挥我的能力，帮助身边的人。",
+            "positive_assumption": "如果我帮助了别人，我会感到满足和成就感。",
+            "negative_assumption": "如果我不能帮助别人，我会感到沮丧和内疚。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须表现得完美，才能获得认可和尊重。",
+                "others": "他人只会认可和尊重完美的人。",
+                "world": "这个世界只会奖励那些表现完美的人。"
+            },
+            "rules": "我必须努力在各方面表现完美，避免任何失误。",
+            "positive_assumption": "如果我表现完美，我就会获得认可和尊重。",
+            "negative_assumption": "如果我不完美，我就会被忽视和贬低。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有足够的能力解决问题。",
+                "others": "他人可能比我更有能力。",
+                "world": "解决问题往往是难以克服的。"
+            },
+            "rules": "我应该尽量避免面对太多的困难，以免暴露自己的无能。",
+            "positive_assumption": "如果我避免困难，我就不会暴露自己的不足。",
+            "negative_assumption": "如果我面对困难，我会暴露自己的无能，并失败。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得他人关心和爱护。",
+                "others": "他人不会真正关心我的感受。",
+                "world": "在这个世界上，我很难找到真正关心和爱护我的人。"
+            },
+            "rules": "我应该尽量避免依赖他人，避免期望他人的关心和爱护。",
+            "positive_assumption": "如果我不依赖他人，我就不会失望。",
+            "negative_assumption": "如果我依赖他人，我会感到更加失望和受伤。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不优秀，那就证明我真的不够好。",
+                "others": "他人会发现我的不足，并因此看不起我。",
+                "world": "世界是一个对弱点毫不留情的地方。"
+            },
+            "rules": "我必须尽量隐藏自己的不足，努力表现得更好。",
+            "positive_assumption": "如果我表现得好，我就不会被别人看不起。",
+            "negative_assumption": "如果我暴露不足，我会被别人看不起，我的不够好会被揭穿。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

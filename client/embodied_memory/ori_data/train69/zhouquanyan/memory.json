@@ -1,0 +1,2654 @@
+{
+    "node_155": {
+        "page_content": "2024年8月10日下午3点45分，在家庭医生的诊所里。医生看着我的检查报告，语气严肃地对我说，我的健康问题比预期严重，需要立即进行生活方式的重大调整，否则会面临严重的后果。我心中一紧，感到巨大的压力和焦虑，意识到必须做出改变。这一刻，我开始认真思考如何调整自己的生活方式，改善健康状况。",
+        "metadata": {
+            "node_id": "node_155",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我怎么能让自己的健康状况变得这么差？我简直太失败了。",
+            "emotion": "深深的自责和焦虑",
+            "behavior": "开始急切地查找健康信息和制定详细的健康计划",
+            "physiological_response": "心跳加速，胃部不适",
+            "created_at": "2024-08-10 15:45:00"
+        }
+    },
+    "node_154": {
+        "page_content": "2024年8月3日晚上7点半，在家中的餐厅，晚餐时间。我鼓起勇气对家人说出了我的健康问题。妻子停下了筷子，紧张地看着我，孩子们也安静下来。妻子表示她会全力支持我去看医生，但我能看出她眼中的担忧。这让我感到一阵内疚和焦虑，担心自己可能会让家人失望。",
+        "metadata": {
+            "node_id": "node_154",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我让家人担心，可能会让他们失望。",
+            "emotion": "内疚和焦虑",
+            "behavior": "低头不语，避免与家人目光接触。",
+            "physiological_response": "胃部不适，心跳加速。",
+            "created_at": "2024-08-03 19:30:00"
+        }
+    },
+    "node_153": {
+        "page_content": "2024年8月1日早上10点15分，在医院的会议室里，大家正在进行紧张的病例讨论。我感觉头昏脑涨，记忆力似乎变得模糊不清。当我忘记了一个重要的病例细节时，会议室突然安静了下来。我的同事们面面相觑，然后纷纷向我投来关切的目光。有人轻声建议我去看医生。我当时感到非常羞愧和自责，觉得自己辜负了大家的期望。",
+        "metadata": {
+            "node_id": "node_153",
+            "node_type": "long_term",
+            "event_id": "15",
+            "extended_event_id": "15_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我忘记重要细节，我就是一个失败的医生，我辜负了大家的期望。",
+            "emotion": "羞愧和自责",
+            "behavior": "回避与同事的眼神接触，可能会减少主动参与讨论。",
+            "physiological_response": "心跳加快，脸红，感觉头昏脑涨。",
+            "created_at": "2024-08-01 10:15:00"
+        }
+    },
+    "node_152": {
+        "page_content": "2024年7月12日晚上，我和家人在餐厅吃晚饭。妻子看着我，关切地说：'最近你看起来有些疲惫，要不要去做个全面体检？'我停下了筷子，心中一阵暖流涌过，同时也更加警觉自己的健康问题。我意识到，健康状况已经开始影响到我的家庭生活。",
+        "metadata": {
+            "node_id": "node_152",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不照顾好自己的健康，我会辜负家人和同事的期望。",
+            "emotion": "焦虑和内疚",
+            "behavior": "同意去做体检，并开始制定健康计划。",
+            "physiological_response": "心跳加速，胃部紧张感。",
+            "created_at": "2024-07-12 19:00:00"
+        }
+    },
+    "node_151": {
+        "page_content": "2024年7月11日上午，在医院的办公室里，我和同事们讨论一个复杂的病例。正当我准备阐述一个关键点时，脑海中却一片空白，我怎么也想不起那个重要的医学术语。我感到脸上发热，异常尴尬，心中充满了焦虑。这次经历让我更加关注自己的健康问题，特别是记忆力的下降。",
+        "metadata": {
+            "node_id": "node_151",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我不高效和准确，我会失去患者的信任和同事的尊重。",
+            "emotion": "焦虑和尴尬",
+            "behavior": "变得更加谨慎，避免在公开场合发言。",
+            "physiological_response": "脸上发热，心跳加速，出汗。",
+            "created_at": "2024-07-11 10:30:00"
+        }
+    },
+    "node_150": {
+        "page_content": "2024年7月10日晚上，我在书房里浏览社交媒体，忽然看到一位老同学的分享。他展示了自己成功减肥的经历，详细描述了减肥过程和取得的成果，还附上了前后对比的照片。我感到内心一阵紧张和自责，意识到自己在健康管理方面的失败。这种情感加剧了我对自己健康的焦虑。",
+        "metadata": {
+            "node_id": "node_150",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我在健康管理方面失败了，这样的状态会让别人对我失望。",
+            "emotion": "紧张和自责",
+            "behavior": "开始回忆自己最近的生活习惯，并感到更加焦虑和内向，不想与人交谈。",
+            "physiological_response": "心跳加快，胃部不适，感到一阵紧张的头晕。",
+            "created_at": "2024-07-10 21:45:00"
+        }
+    },
+    "node_149": {
+        "page_content": "第二天早晨，我决定早早起床去散步，试图通过这种方式来释放压力。我沿着熟悉的街道慢慢走着，街道两旁的树叶在阳光下闪闪发光，空气清新。然而，我的脑海中却不断回想着昨晚亲戚们的调侃，感觉自己无法摆脱这种困扰。虽然走在熟悉的街道上，但内心的焦虑感却越来越强烈。我意识到自己的健康问题不仅仅是体重增加，还有睡眠时间过长和记忆力变差等多重困扰。这些问题的积累让我更加关注自己的健康状况，并感到无力应对，从而影响了我的信心和情绪稳定。",
+        "metadata": {
+            "node_id": "node_149",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能尽快恢复健康，我会被视为无能和失败。",
+            "emotion": "焦虑和无力感",
+            "behavior": "步伐变得缓慢甚至停下来，反复思考健康问题",
+            "physiological_response": "心跳加快，浑身乏力",
+            "created_at": "2024-06-16 06:30:00"
+        }
+    },
+    "node_148": {
+        "page_content": "家庭聚会结束后，我回到了自己的房间，心情沉重。我躺在床上，脑海中不断回放着亲戚们的调侃，感觉很难堪。为了分散注意力，我拿起一本医学书籍开始阅读，但发现自己无法集中精力，记忆力似乎变得更差了。每当我试图记住某段内容时，脑海中总是浮现出那些嘲笑我的话语。我感到非常焦虑和压力，因为记忆力问题让我质疑自己的专业能力。",
+        "metadata": {
+            "node_id": "node_148",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成任务，我就是失败的。",
+            "emotion": "焦虑和压力",
+            "behavior": "无法集中精力阅读，反复回想亲戚的调侃",
+            "physiological_response": "心跳加快，头脑混乱",
+            "created_at": "2024-06-15 21:30:00"
+        }
+    },
+    "node_147": {
+        "page_content": "在2024年6月15日的晚上，我和家人正在客厅准备晚饭。亲戚们陆续到达，客厅里充满了欢声笑语。突然，一个亲戚指着我，笑着说：‘周全岩，你最近是不是吃得太好了，看起来发福了不少啊！’其他亲戚也跟着笑了起来，调侃我的体重。这让我感到非常尴尬和自卑。我微笑回应，但内心却充满了不安和羞愧。这些调侃触及到了我对自己外貌和健康的担忧，进一步加剧了我的自卑感和对自己身体状况的不满。我感到自己在亲戚面前失去了颜面。",
+        "metadata": {
+            "node_id": "node_147",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不能让自己变得这么不完美，否则我会让家人失望，他们会认为我不再是那个高效和尽责的人。",
+            "emotion": "尴尬、自卑、不安和羞愧",
+            "behavior": "表面上微笑回应，但内心陷入自责和焦虑，可能会避免与亲戚互动，减少社交活动。",
+            "physiological_response": "心跳加快、面部潮红，胃部不适，可能出现手心出汗的情况。",
+            "created_at": "2024-06-15 18:45:00"
+        }
+    },
+    "node_146": {
+        "page_content": "2024年5月15日下午，我在附近的公园散步，享受着阳光和新鲜空气。突然，我感到一阵头晕和疲乏，不得不停下来休息。我坐在公园的长椅上，望着眼前的风景，心中却充满了无力感和焦虑。我意识到自己的身体状况确实出现了问题，开始怀疑自己是否真的能够应对当前的困境。",
+        "metadata": {
+            "node_id": "node_146",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能尽快恢复健康，我就无法完美地完成工作和照顾家人。",
+            "emotion": "焦虑和无力感",
+            "behavior": "变得更加谨慎，减少与他人的互动，避免承担新的任务。",
+            "physiological_response": "心跳加速，头晕加剧，肌肉紧张。",
+            "created_at": "2024-05-15 16:00:00"
+        }
+    },
+    "node_145": {
+        "page_content": "2024年5月10日晚，我在家中厨房无意间听到妻子和朋友低声讨论我的健康问题。她们的语气充满担忧，这让我心里一紧，感到非常不安和焦虑。我知道她们是在关心我，但听到这些话却让我的心理压力骤增。我开始更加关注自己的健康问题，生怕自己不能履行对家人和工作的责任。",
+        "metadata": {
+            "node_id": "node_145",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不能保持健康，我将无法履行对家人和工作的责任，家人和同事会对我失望。",
+            "emotion": "焦虑和不安",
+            "behavior": "开始更加关注自己的健康问题，可能会频繁检查身体状况，增加体检次数。",
+            "physiological_response": "心跳加快，胃部不适，出汗增加。",
+            "created_at": "2024-05-10 18:30:00"
+        }
+    },
+    "node_144": {
+        "page_content": "2024年4月20日下午，我在医院的办公室里，正准备处理一个重要的病例。突然，我发现自己忘记了一个关键的病例细节，这让我感到非常沮丧和自责。我试图努力回忆，但脑中一片空白。为了弥补这个错误，我决定加班处理工作，但心中的焦虑感和自我压力却越来越大。",
+        "metadata": {
+            "node_id": "node_144",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成任务，我就是失败的。",
+            "emotion": "沮丧、自责和焦虑，情感强度高",
+            "behavior": "决定加班处理工作，试图弥补错误，表现出高度谨慎和自我压力",
+            "physiological_response": "心跳加快，头脑一片空白，持续的紧张感",
+            "created_at": "2024-04-20 14:45:00"
+        }
+    },
+    "node_143": {
+        "page_content": "2024年4月12日晚上，我和妻子回到家后，我们坐在餐桌旁，讨论如何帮助孩子改善成绩和心理状态。桌上摆满了我们还未收拾的晚餐，空气中弥漫着菜香。妻子说：“我们需要调整家庭作息时间，多陪陪孩子。”我点了点头，说：“是的，我们需要更多地关注他的需求。”这个决定让我感到一丝缓解，但同时也增加了我的日常压力。我开始感到时间不够用，进一步加剧了我的焦虑和睡眠问题。",
+        "metadata": {
+            "node_id": "node_143",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我需要更多时间来照顾家人和完成工作任务，否则他们会失望。",
+            "emotion": "焦虑和压力",
+            "behavior": "努力安排更多时间陪伴家人，但感到疲惫和压力增加。",
+            "physiological_response": "头痛、疲惫感加重，睡眠质量下降。",
+            "created_at": "2024-04-12 19:00:00"
+        }
+    },
+    "node_142": {
+        "page_content": "2024年4月12日下午，我和妻子来到学校，与老师讨论孩子的成绩问题。办公室里，老师翻阅着孩子的作业本，表情严肃。她抬起头，对我们说：“周医生，您的孩子最近在课堂上注意力不集中，还经常表现出疲惫和焦虑。”听到这些，我心里一沉，感到非常自责，觉得自己在家庭和工作之间未能找到平衡。妻子握住我的手，试图给我一些安慰，但我能感受到她同样的担忧。",
+        "metadata": {
+            "node_id": "node_142",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我没有尽到对家庭的责任，我让孩子受到了影响。",
+            "emotion": "自责和焦虑",
+            "behavior": "沉默不语，无法集中注意力在讨论中。",
+            "physiological_response": "心跳加速，胃部不适。",
+            "created_at": "2024-04-12 14:45:00"
+        }
+    },
+    "node_141": {
+        "page_content": "2024年4月10日晚上，在家中的客厅，我正准备和家人一起吃晚饭时，突然看到了孩子的成绩单。成绩单上的分数让我眉头紧皱，心中一阵酸楚。妻子坐在我身旁，察觉到我的情绪变化，轻声问道：“怎么了？”我拿着成绩单，深吸了一口气，说：“孩子的成绩下降了很多，我们是不是忽视了他的学习？”孩子在一旁低着头，似乎也感到很内疚。这个发现让我感到非常自责和焦虑，觉得自己未能尽到照顾家庭的责任。",
+        "metadata": {
+            "node_id": "node_141",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我未能好好照顾孩子的学习，我是一个不称职的父亲。",
+            "emotion": "自责和焦虑",
+            "behavior": "责备自己，并可能立即开始思考如何补救孩子的学习问题。",
+            "physiological_response": "心跳加快，胃部不适，感到一阵阵头晕。",
+            "created_at": "2024-04-10 20:30:00"
+        }
+    },
+    "node_140": {
+        "page_content": "2024年8月1日下午2点45分，我在医院的走廊上感到一阵眩晕，接着便失去了意识。当我醒来时，已经在急诊室，同事和急诊医生围在身边，脸上满是关切的表情。他们建议我立即休息并进行全身检查。我感到极度的羞愧和自责，认为自己未能保持高效和准确，辜负了患者和同事的期望。这一事件让我意识到，自己需要更加关注健康问题，但内心的压力和焦虑却更加沉重。",
+        "metadata": {
+            "node_id": "node_140",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我未能保持高效和准确，辜负了患者和同事的期望。",
+            "emotion": "极度的羞愧和自责",
+            "behavior": "内心的压力和焦虑增加，变得更加谨慎和内向。",
+            "physiological_response": "心跳加快，浑身无力，头晕目眩。",
+            "created_at": "2024-08-01 14:45:00"
+        }
+    },
+    "node_139": {
+        "page_content": "2023年5月20日晚上，我和家人在一家度假别墅内，外面是美丽的海滩。本应该是放松的时刻，但我却无法摆脱对医院工作的担忧。夜晚，我辗转反侧，难以入睡，脑海中不断浮现未完成的任务和责任。白天，我的精神不振，无法与家人享受愉快的时光。这让我感到更加焦虑和内疚，无法在工作和家庭之间找到平衡。",
+        "metadata": {
+            "node_id": "node_139",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我不能放松，因为我有太多的责任要完成。",
+            "emotion": "焦虑和内疚",
+            "behavior": "夜晚辗转反侧，白天精神不振，无法与家人享受愉快的时光。",
+            "physiological_response": "心跳加快，胃部不适，头痛。",
+            "created_at": "2023-05-20 22:30:00"
+        }
+    },
+    "node_138": {
+        "page_content": "2022年12月15日凌晨2点，我在医院的值班室内，感到极度疲惫和头晕。桌上堆满了未处理的病历，昏暗的灯光让人更加困倦。我勉强坚持工作，但注意力明显下降，几次在病历上出错。当同事提醒我时，我感到深深的自责和焦虑，内心充满了未能达到高标准的挫败感。",
+        "metadata": {
+            "node_id": "node_138",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不能完美地完成任务，我真是个失败者。",
+            "emotion": "深深的自责和焦虑",
+            "behavior": "继续勉强坚持工作，但效率低下，频繁出错。",
+            "physiological_response": "心跳加快，头晕加剧，感到极度疲惫。",
+            "created_at": "2022-12-15 02:00:00"
+        }
+    },
+    "node_137": {
+        "page_content": "2024年6月17日中午，我和几位同事在医院的休息室里休息。我们坐在沙发上，喝着咖啡，讨论最近的工作压力和健康问题。一个同事提到他最近总是疲惫不堪，我点头表示理解，其他同事也纷纷附和。虽然大家都在吐槽，但我心里却感到一股寒意，意识到健康问题不仅仅是我的担忧。虽然大家有同样的困扰让我觉得不那么孤单，但内心的焦虑感并没有减轻，反而更加担心自己的身体状态。",
+        "metadata": {
+            "node_id": "node_137",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能保持完美的健康状态，我会被视为无能和失败。",
+            "emotion": "焦虑和恐慌",
+            "behavior": "更加关注自己的健康状况，开始查阅大量医学资料，试图找到解决方法。",
+            "physiological_response": "心跳加快，手心出汗，呼吸变浅。",
+            "created_at": "2024-06-17 13:15:00"
+        }
+    },
+    "node_136": {
+        "page_content": "2024年6月16日晚上，我和妻子坐在客厅的沙发上，电视开着但我们都没在看。我把同事的情况告诉她，并坦言自己最近也感到身体状况不佳。妻子皱着眉头，显得很担心，她握住我的手，柔声安慰我，但我还是感到沉重的压力。我说出了自己的担忧，害怕健康问题会影响我对家庭和工作的责任。她默默点头，眼中充满了担忧。那一刻，我的焦虑感进一步加剧，心中充满了对未来的不确定感。",
+        "metadata": {
+            "node_id": "node_136",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我的健康状况继续恶化，我将无法履行对家庭和工作的责任。",
+            "emotion": "焦虑和压力",
+            "behavior": "变得更加谨慎，减少与他人接触，试图找到解决健康问题的方法。",
+            "physiological_response": "心跳加速，胃部不适，肌肉紧张。",
+            "created_at": "2024-06-16 20:00:00"
+        }
+    },
+    "node_135": {
+        "page_content": "2024年6月15日早上，我在医院办公室忙碌地整理病例时，听到同事因为健康问题不得不请长期休假。医院领导在办公室内向我们解释情况，并对同事的健康表示关切。同事脸色苍白，显得非常疲惫。我心里突然一紧，意识到自己的健康问题也不能忽视。办公室内的气氛变得沉重，我的手不自觉地停下来，心中的焦虑感不断加剧。",
+        "metadata": {
+            "node_id": "node_135",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我健康出了问题，我将无法对家人和工作负责。",
+            "emotion": "焦虑、担忧",
+            "behavior": "停止了手头的工作，开始反思自己的健康状况。",
+            "physiological_response": "心跳加快，胃部不适，出汗增加。",
+            "created_at": "2024-06-15 10:30:00"
+        }
+    },
+    "node_134": {
+        "page_content": "2024年5月5日晚上9点钟，我们全家在客厅里聚会。客厅布置温馨，充满家庭气息，墙上挂着全家福。我本想和家人好好度过这段时光，但由于过度疲劳，我竟然在聚会中失态了。我的举动让家人很吃惊，也让我感到非常尴尬和自责。这次事件成为了我的心态转折点，我意识到自己的健康问题已经严重影响到日常生活和与家人的关系。",
+        "metadata": {
+            "node_id": "node_134",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我如果不能保持好的状态，我会辜负家人和工作上的责任，失去他们的信任和尊重。",
+            "emotion": "强烈的自责和内疚",
+            "behavior": "变得更加谨慎，试图掩饰自己的疲劳，避免在家人面前再次失态。",
+            "physiological_response": "头痛，胃部不适，心跳加快。",
+            "created_at": "2024-05-05 21:00:00"
+        }
+    },
+    "node_133": {
+        "page_content": "2024年4月28日晚上7点45分，我们一家人在一家温馨的餐厅用餐。餐厅的灯光柔和，背景音乐轻缓。我本打算放松一下，但不知不觉中竟然在饭桌上打瞌睡了。家人看到后非常担心，他们的担忧和我自己的尴尬情绪进一步加剧了我的心理压力。我开始频繁思考自己的健康状况和未来是否能够继续胜任医生的工作。",
+        "metadata": {
+            "node_id": "node_133",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我连在家人面前都不能保持清醒和完美，我在工作中也会失败，大家都会对我失望。",
+            "emotion": "焦虑和沮丧",
+            "behavior": "避免讨论健康问题，努力掩饰自己的疲惫，尝试更加努力地工作和照顾家人。",
+            "physiological_response": "心跳加快，胃部不适，头痛。",
+            "created_at": "2024-04-28 19:45:00"
+        }
+    },
+    "node_132": {
+        "page_content": "2024年4月10日下午3点半，我在医院的会议室参加术后会议。会议室里冷清但灯光明亮，墙上挂着手术流程图。我感到极度疲劳，但还是努力集中精神发言。突然，我发现自己记不清病人的关键数据和术中细节，脑子一片空白。同事和上级医生的目光让我感到无比尴尬和无助。这次事件让我进一步加深了对自己健康状况的担忧，并且开始质疑自己的工作能力。",
+        "metadata": {
+            "node_id": "node_132",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能记住这些关键数据和术中细节，我就是失败的，大家都会对我失望。",
+            "emotion": "尴尬和无助",
+            "behavior": "避免目光接触，尽量简短和模糊地回答问题，事后回避与同事的交流。",
+            "physiological_response": "心跳加速，头晕，手心出汗。",
+            "created_at": "2024-04-10 15:30:00"
+        }
+    },
+    "node_131": {
+        "page_content": "2024年3月4日上午10:15，在医院的会议室里，我和同事们正在讨论一个复杂的病例。当轮到我发言时，我突然发现自己记不清一些重要的细节。我努力回忆，但脑子里一片空白。同事们的目光都集中在我身上，我感到无比尴尬和无助。事后，我一直在反思自己的记忆力问题，担心这会影响我的专业能力。",
+        "metadata": {
+            "node_id": "node_131",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我连这些细节都记不住，我会让同事们失望，大家会觉得我不再是一个可靠的医生。",
+            "emotion": "尴尬和无助，伴随着深深的焦虑",
+            "behavior": "在会议中变得更加安静，事后不断反思自己的记忆力问题，可能更频繁地复习和检查工作细节。",
+            "physiological_response": "心跳加速，出汗，甚至可能有轻微的手抖",
+            "created_at": "2024-03-04 10:15:00"
+        }
+    },
+    "node_130": {
+        "page_content": "2024年3月2日晚上7:00，我和妻子在厨房吃晚饭。我犹豫了一下，还是决定告诉她我最近体重增加的问题。妻子听后，立即表示支持，建议我们一起调整饮食和作息。我感到一丝安慰，但内心的压力依然巨大。看着她满怀希望的眼神，我暗暗下决心一定要解决这个问题，不辜负她的期待。",
+        "metadata": {
+            "node_id": "node_130",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能迅速解决体重问题，我就是个失败者，我会让妻子失望。",
+            "emotion": "焦虑和压力",
+            "behavior": "更加严格地制定和执行饮食和作息计划，可能会表现出过度的自我责备。",
+            "physiological_response": "心跳加速，胃部不适，可能出现紧张性头痛。",
+            "created_at": "2024-03-02 19:00:00"
+        }
+    },
+    "node_129": {
+        "page_content": "2024年3月1日早上7:30，我在卧室镜子前整理衣服时，突然发现裤腰变得紧绷。我试图拉拉链却发现异常困难，低头一看，腰部的赘肉明显增多。我愣在那里，心里一阵惊讶和不安。妻子走过来，看到我的表情，关切地问我发生了什么。我只是摇了摇头，内心充满了自责和焦虑，因为我意识到自己的健康状况出现了问题。",
+        "metadata": {
+            "node_id": "node_129",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我怎么会变成这样？我这样下去会让家人失望的。",
+            "emotion": "自责和焦虑",
+            "behavior": "试图掩饰自己的情绪，没有把真实感受告诉妻子。",
+            "physiological_response": "心跳加快，胃部有紧张感。",
+            "created_at": "2024-03-01 07:30:00"
+        }
+    },
+    "node_128": {
+        "page_content": "2024年1月15日19:00，我和家人在餐厅共进晚餐。妻子突然提到我最近变得健忘和情绪低落，让我愣了一下。她的话仿佛一面镜子，让我看到了自己忽视已久的问题。我放下筷子，沉默了片刻，感到一阵内疚和压力。孩子们在旁边玩耍，妻子关切的眼神让我更加焦虑。我意识到，自己必须正视这些问题，不能再逃避了。",
+        "metadata": {
+            "node_id": "node_128",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我最近变得健忘和情绪低落是因为我没有做到完美，这让我感到自己失败了。",
+            "emotion": "内疚和焦虑",
+            "behavior": "沉默，放下筷子，思考自己的问题。",
+            "physiological_response": "心跳加快，胃部不适，头脑一片混乱。",
+            "created_at": "2024-01-15 19:00:00"
+        }
+    },
+    "node_127": {
+        "page_content": "2024年1月10日14:30，我在医院的会议室参加例会，轮到我汇报工作时，突然发现自己忘记了一些重要的数据。同事们都在认真听着，我的心跳加速，脸颊发烫，感到无比的尴尬和焦虑。我试图从笔记中找到那些数据，但越是着急，越是找不到。我看着同事们的目光，觉得自己仿佛被困在一个无形的漩涡中，无法自拔。",
+        "metadata": {
+            "node_id": "node_127",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成任务，我就是失败的。同事们会因为我的不完美而失望。",
+            "emotion": "尴尬和焦虑",
+            "behavior": "试图从笔记中找到数据，但越是着急，越是找不到。",
+            "physiological_response": "心跳加速，脸颊发烫",
+            "created_at": "2024-01-10 14:30:00"
+        }
+    },
+    "node_126": {
+        "page_content": "2023年12月25日18:45，我正在医院的诊室加班，面对一位病人时，竟然几次忘记了他的名字和病史。同事们在一旁忙碌，患者用疑惑的眼神看着我，我的心一下子沉到了谷底。我感到非常不安，手心开始冒汗，脑海中不断浮现出自己的失误。我深吸一口气，试图冷静下来，但内心的焦虑感却愈发强烈。",
+        "metadata": {
+            "node_id": "node_126",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我现在的状态非常糟糕，如果继续这样下去，我会失去患者和同事的信任。",
+            "emotion": "强烈的焦虑和不安",
+            "behavior": "尝试深呼吸冷静下来，但表现出紧张和不安的情绪，减少与同事和患者的目光接触",
+            "physiological_response": "手心冒汗，心跳加快，呼吸急促",
+            "created_at": "2023-12-25 18:45:00"
+        }
+    },
+    "node_125": {
+        "page_content": "2023年11月25日上午09:00，我在医院的体检中心进行了一次全面的健康体检。体检中心设备齐全，墙上贴着各种健康宣传画。体检医生认真地查看了我的检查结果，告诉我体重确实超标，血糖和血脂也有些异常。这让我非常担忧，心跳加速，脑海中反复浮现出患者痛苦的脸庞。这次体检结果进一步证实了我对自己健康的担忧，导致我开始感到严重的焦虑和压力。我感到必须尽快采取行动来改善自己的健康状况，以避免失去家人和同事的信任和尊重。",
+        "metadata": {
+            "node_id": "node_125",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不能改善健康状况，我会失去家人和同事的信任和尊重。",
+            "emotion": "焦虑和压力增加",
+            "behavior": "立即制定健康改善计划，减少饮食中的糖分和脂肪，增加运动量。",
+            "physiological_response": "心跳加快，胃部不适，出汗增多。",
+            "created_at": "2023-11-25 09:00:00"
+        }
+    },
+    "node_124": {
+        "page_content": "2023年11月15日晚上19:30，在家中的餐厅，我和家人一起共进晚餐。桌上摆满了丰盛的晚餐，墙上挂着家人的合照。妻子突然提到我最近的体重增加，并温和地建议我去做一个全面的健康检查。我感到有些尴尬，脸上微微发红，但也意识到自己确实需要更关注健康。妻子的关心让我意识到家人对我的期望和担忧，这进一步加剧了我的焦虑感。我感到自己有责任保持健康，以便更好地履行对家人和工作的责任。",
+        "metadata": {
+            "node_id": "node_124",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不能保持健康，我会让家人失望，无法履行对他们的责任。",
+            "emotion": "焦虑和内疚",
+            "behavior": "开始计划健康检查并思考如何改善健康状况，可能减少与家人共进晚餐的次数以避免尴尬。",
+            "physiological_response": "心跳加快，胃部不适，紧张感增加。",
+            "created_at": "2023-11-15 19:30:00"
+        }
+    },
+    "node_123": {
+        "page_content": "2023年11月03日上午10:15，我在医院的诊室接诊了一位因肥胖而导致多种健康问题的患者。诊室里光线明亮，墙上挂着各种医学海报，桌上摆放着患者的病例。患者在描述自己的病情时显得非常痛苦，她的眼神中充满了无助和绝望。这让我深受触动，不禁开始反思自己的健康状况，特别是最近的体重增加问题。我作为一个细心和责任感强的医生，突然感到一阵焦虑，担心自己是否也会面临同样的健康风险。",
+        "metadata": {
+            "node_id": "node_123",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我也变得健康状况不佳，可能就无法照顾好家人和完成工作任务。",
+            "emotion": "焦虑和担忧",
+            "behavior": "开始更加关注自己的健康问题，可能会查阅相关资料甚至预约体检。",
+            "physiological_response": "心跳加快，感到轻微的紧张和不适。",
+            "created_at": "2023-11-03 10:15:00"
+        }
+    },
+    "node_122": {
+        "page_content": "2023年10月10日晚上，我站在家中的厨房，冰箱门半开，里面堆满了各种食物。我意识到自己的体重剧烈增加，主要是因为压力大导致的暴饮暴食。体重增加让我感到身体不适和自卑，进一步影响了我的自信心和情绪稳定性。我开始更加关注自己的健康问题，但内心的压力和焦虑却仍然挥之不去。",
+        "metadata": {
+            "node_id": "node_122",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_5",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不能控制自己的饮食习惯，这让我显得很失败。",
+            "emotion": "自卑和焦虑",
+            "behavior": "对自己的饮食习惯感到失望，可能会更加避开社交场合。",
+            "physiological_response": "心跳加快，胃部不适。",
+            "created_at": "2023-10-10 18:00:00"
+        }
+    },
+    "node_121": {
+        "page_content": "2023年9月1日凌晨，我在家中的卧室辗转反侧，无法入眠。夜深人静，床头灯昏暗，我的脑海中不断回放着家庭和工作的各种压力和矛盾。失眠让我感到身心俱疲，记忆力也开始变差，甚至在工作中犯了一些小错误。这进一步增加了我对自己是否能够高效和准确完成工作的怀疑。",
+        "metadata": {
+            "node_id": "node_121",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_4",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我不能高效和准确地完成工作，我就是失败的。",
+            "emotion": "焦虑和自我怀疑",
+            "behavior": "在工作中更加谨慎和紧张，以避免错误，但也因此效率降低。",
+            "physiological_response": "心跳加快，胃部不适，持续的紧张感。",
+            "created_at": "2023-09-01 02:30:00"
+        }
+    },
+    "node_120": {
+        "page_content": "2023年8月15日晚上，我和妻子在家中的客厅发生了激烈的争吵。她指责我因为工作忙碌而忽视了家庭，而我则感到无比内疚和自责。争吵中，我意识到自己在家庭责任和工作压力之间摇摆不定，感到极度的压力和负担，开始怀疑自己是否真的有能力解决所有问题。",
+        "metadata": {
+            "node_id": "node_120",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我未能很好地平衡工作和家庭，失去了家人的信任。",
+            "emotion": "极度内疚和自责",
+            "behavior": "试图向妻子解释，但不断重复道歉，并感到更加内向和自我怀疑。",
+            "physiological_response": "心跳加快，胃部不适，头痛加剧。",
+            "created_at": "2023-08-15 19:15:00"
+        }
+    },
+    "node_119": {
+        "page_content": "2023年6月10日晚上，我刚回到家，妻子已经坐在客厅的沙发上等我回来。她温柔地对我说，希望我能多花时间陪伴家人。我感到内疚和矛盾，但同时也觉得工作是我不可推卸的责任。这个请求让我感到压力倍增，担心自己无法同时照顾好家人和完成工作任务。",
+        "metadata": {
+            "node_id": "node_119",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不能同时照顾好家人和完成工作任务，我会失去他们的信任和尊重。",
+            "emotion": "内疚和焦虑",
+            "behavior": "尝试安抚妻子，但内心焦虑并可能减少休息时间以平衡工作和家庭。",
+            "physiological_response": "心跳加速，感觉身体紧绷，可能导致睡眠质量进一步下降。",
+            "created_at": "2023-06-10 20:30:00"
+        }
+    },
+    "node_118": {
+        "page_content": "2022年7月15日晚上，我在医院的休息室里，桌上堆满了未完成的病例和文献。我感到眼皮沉重，但心里却无法放松，想着明天还有一大堆工作要做。为了不打扰家人的休息，我决定留在医院过夜。然而，这种长期的高压工作让我感到疲惫和压力，但我仍坚持自己必须高效和准确地完成每一项任务。",
+        "metadata": {
+            "node_id": "node_118",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我不高效和准确地完成这些任务，我会失去患者的信任和同事的尊重。",
+            "emotion": "焦虑和压力",
+            "behavior": "继续工作，尽管自己非常疲惫",
+            "physiological_response": "心跳加快，头痛，眼皮沉重",
+            "created_at": "2022-07-15 23:45:00"
+        }
+    },
+    "node_117": {
+        "page_content": "2023年6月25日凌晨3:00，我在家中卧室辗转反侧，怎么也睡不着。即使勉强入睡，也会在深夜醒来，脑海中充满了工作和生活的担忧。白天精神不振，工作时常感到无助和沮丧。我开始担心自己是否能继续履行对家人和工作的责任，这种担心像一只无形的手，紧紧抓住我的心，让我感到无比的压力。",
+        "metadata": {
+            "node_id": "node_117",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我如果不能履行对家人和工作的责任，我会让他们失望并失去他们的信任。",
+            "emotion": "焦虑，压力巨大",
+            "behavior": "辗转反侧，无法入睡，白天精神不振，工作时感到无助和沮丧",
+            "physiological_response": "心跳加快，难以入睡，白天精神萎靡",
+            "created_at": "2023-06-25 03:00:00"
+        }
+    },
+    "node_116": {
+        "page_content": "2023年6月20日上午11:15，我在医院办公室整理病例报告时，突然发现自己忘记了一个重要的医学细节。同事提醒我时，我感到一阵脸红心跳，内心充满了沮丧和焦虑。记忆力下降让我开始质疑自己的能力，担心自己再也无法保持高效和准确的工作。这种感觉就像一根针，一直刺痛着我的心。",
+        "metadata": {
+            "node_id": "node_116",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成任务，我就是失败的。",
+            "emotion": "沮丧和焦虑",
+            "behavior": "变得更加谨慎和内向，可能会反复检查工作以确保没有错误。",
+            "physiological_response": "脸红心跳，感到一阵刺痛感。",
+            "created_at": "2023-06-20 11:15:00"
+        }
+    },
+    "node_115": {
+        "page_content": "2023年6月15日上午9:30，我正在医院办公室整理病例文件，突然听到隔壁办公室传来同事们的议论声。走过去一看，才知道我的合作伙伴因为工作压力过大辞职了。办公室里气氛沉重，大家都在低声讨论这件事。我感到一阵心寒，仿佛一块巨石压在胸口，开始担心自己是否也会因为工作压力影响健康。",
+        "metadata": {
+            "node_id": "node_115",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能保持完美和高效，我也会因为工作压力影响健康，甚至会被视为失败的医生。",
+            "emotion": "焦虑和恐惧",
+            "behavior": "更加谨慎和内向，试图在工作中更加完美和高效，减少与同事的互动。",
+            "physiological_response": "胸口发紧，胃部不适，头痛加重，心跳加快。",
+            "created_at": "2023-06-15 09:30:00"
+        }
+    },
+    "node_114": {
+        "page_content": "2023年3月15日上午，在医院诊室里，我正在诊断一个复杂的病例。突然，我意识到自己犯了一个错误，这个失误让我心头一紧，手心冒汗。我感到非常沮丧和自责，心里不断责备自己辜负了患者和同事的期望。患者静静地坐在我对面，眼神中充满了信任，而我的同事们则在旁边紧张地等待着我的诊断结果。那一刻，我觉得自己真的是太失败了。",
+        "metadata": {
+            "node_id": "node_114",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不能犯错，否则我就是一个失败者。",
+            "emotion": "极度沮丧和自责",
+            "behavior": "过度检查自己的诊断结果，反复向同事和患者道歉",
+            "physiological_response": "心跳加快，手心出汗，胃部不适",
+            "created_at": "2023-03-15 10:20:00"
+        }
+    },
+    "node_113": {
+        "page_content": "2023年2月28日深夜，我还在医院诊室里加班，诊室里只有昏暗的灯光照着我疲惫的脸。我已经连着几个星期每天工作到深夜，回到家后，妻子总是劝我早点休息，但我总是忍不住继续在书房里查阅资料。长期的加班和压力让我觉得记忆力和注意力都开始下降，身体也越来越疲惫不堪。",
+        "metadata": {
+            "node_id": "node_113",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我继续这样下去，我会失去对工作的掌控，变得无能和失败。",
+            "emotion": "焦虑和自责",
+            "behavior": "继续加班，不愿意休息，担心被视为无能。",
+            "physiological_response": "心跳加快，头痛，疲惫感加剧。",
+            "created_at": "2023-02-28 23:45:00"
+        }
+    },
+    "node_112": {
+        "page_content": "2023年2月10日下午，医院办公室里，管理层通知我需要负责一个复杂的病例。当时，我坐在桌前，面对着堆积如山的病例资料，听到这个消息时，心情复杂。我一方面为被信任感到自豪，但另一方面也感到巨大的压力。我开始加班加点地研究每一个细节，生怕出任何差错。",
+        "metadata": {
+            "node_id": "node_112",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地处理这个复杂的病例，我就是失败的，可能会让同事和家人失望。",
+            "emotion": "焦虑和压力",
+            "behavior": "加班加点地研究每一个细节，避免任何差错。",
+            "physiological_response": "心跳加快，头痛，食欲增加，导致体重增加。",
+            "created_at": "2023-02-10 15:30:00"
+        }
+    },
+    "node_111": {
+        "page_content": "2022年12月20日晚22点，我在家中的书房里，面对着堆积如山的医学书籍和病例文件。家人已经入睡，只有书房的灯还亮着，灯光照在桌上，显得格外昏暗。我感到眼皮越来越沉重，但我知道还有很多工作等着我去完成。为了保持优秀员工的标准，我不得不牺牲与家人相处的时间，睡眠也变得越来越少。这种长期缺乏休息和家庭互动让我感到无比疲惫，心中的焦虑和内疚感也不断加剧。",
+        "metadata": {
+            "node_id": "node_111",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成这些任务，我就是失败的。",
+            "emotion": "焦虑和内疚",
+            "behavior": "继续工作，尽管感到极度疲惫",
+            "physiological_response": "头痛，心跳加快，注意力不集中",
+            "created_at": "2022-12-20 22:00:00"
+        }
+    },
+    "node_110": {
+        "page_content": "评审结束后，我走回自己的办公室，心情沉重。桌上的病例文件堆成小山，电脑屏幕上显示着未完成的工作。我坐在椅子上，深深叹了一口气，脑海中回放着这一年来的点滴。为了达到优秀标准，我几乎放弃了所有的休息时间，甚至在深夜还在研究病例。现在，我不禁开始怀疑自己是否能继续保持这种高标准。这种担忧和焦虑让我感到无比沉重。",
+        "metadata": {
+            "node_id": "node_110",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不能继续保持这种高标准，我会被视为无能和失败。",
+            "emotion": "焦虑和担忧",
+            "behavior": "长时间坐在椅子上，停滞不前，无法集中注意力完成工作。",
+            "physiological_response": "心跳加快，胃部不适，感到身体沉重。",
+            "created_at": "2022-12-15 11:00:00"
+        }
+    },
+    "node_109": {
+        "page_content": "2022年12月15日上午10点，医院会议室里，空气中弥漫着一股紧张而庄重的氛围。医院领导站在会议桌前，逐一宣布年度评审结果。当念到我的名字时，我感到一阵欣喜与自豪，周围同事纷纷鼓掌祝贺。我被称赞为年度优秀员工，这一刻让我感到自己之前的努力都得到了认可。",
+        "metadata": {
+            "node_id": "node_109",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须一直保持这种完美的状态，否则我就会失去他们的认可。",
+            "emotion": "紧张和压力感",
+            "behavior": "更加努力地工作，试图保持高效和准确。",
+            "physiological_response": "心跳加速，肩颈部肌肉紧绷。",
+            "created_at": "2022-12-15 10:00:00"
+        }
+    },
+    "node_108": {
+        "page_content": "2022年7月15日上午9点半，我参加了医院的一次重要会议。会议室里，医院领导和同事们都坐在圆桌旁，气氛庄重。一位同事在会上提出了一个创新的治疗方案，得到了广泛的认可和赞赏。我在一旁静静地看着，心中感慨万千。这让我重新审视自己的职业目标，深刻认识到创新在医疗行业中的重要性。这一事件增强了我追求创新的动力，也进一步深化了我对‘我必须是完美的’和‘我需要对家人和工作负责’这两个核心信念的理解。",
+        "metadata": {
+            "node_id": "node_108",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能提出一个完美的创新方案，我会被认为不够优秀。",
+            "emotion": "焦虑和紧张",
+            "behavior": "花更多时间在研究和工作中，试图找到完美的创新方案。",
+            "physiological_response": "心跳加速，手心出汗，胃部不适。",
+            "created_at": "2022-07-15 09:30:00"
+        }
+    },
+    "node_107": {
+        "page_content": "2010年3月20日上午10点45分，我和实验小组的同学们在大学实验室里进行了一项创新的医学实验。实验开始时，大家都充满了信心和期待，但随着实验的进展，我们遇到了许多意想不到的问题。最终，实验结果不尽如人意，我感到有些失落。然而，实验课导师鼓励我们，指出失败也是学习的一部分。从这次实验中，我学到了很多宝贵的经验，也意识到创新不仅仅是成功的结果，更是不断尝试和学习的过程。这次经历让我更加相信‘如果我面对挑战并解决问题，我会变得更强大’这一信念。",
+        "metadata": {
+            "node_id": "node_107",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果实验不完美，我就是失败的，导师和同学会对我失望。",
+            "emotion": "失落、焦虑",
+            "behavior": "不愿意与同学和导师交流，避免讨论实验结果",
+            "physiological_response": "胃部不适，头痛",
+            "created_at": "2010-03-20 10:45:00"
+        }
+    },
+    "node_106": {
+        "page_content": "2009年10月15日下午2点半，我和同学们坐在大学礼堂中，聆听一位知名医学教授的讲座。教授站在讲台上，分享了他在医学研究中的创新成果，台下的学生们都被他的故事深深吸引。我感到心潮澎湃，教授的每一句话都在激励着我，让我认识到创新在医学研究中的重要性。结束后，我和同学们讨论着讲座内容，大家都深受启发。这次讲座不仅激发了我追求卓越的动力，也让我更加认同自己‘我必须是完美的’这一信念。",
+        "metadata": {
+            "node_id": "node_106",
+            "node_type": "long_term",
+            "event_id": "14",
+            "extended_event_id": "14_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须在学术研究中达到教授那样的完美标准，否则我就是失败的。",
+            "emotion": "紧张和焦虑",
+            "behavior": "更加努力地学习和研究，尽量避免任何错误。",
+            "physiological_response": "心跳加速，手心出汗。",
+            "created_at": "2009-10-15 14:30:00"
+        }
+    },
+    "node_105": {
+        "page_content": "2022年3月5日下午4点，讲座结束后，我在教室外的走廊上与导师进行了短暂的个人交流。导师面带微笑，语气温和，建议我尝试一些放松技巧，如冥想和深呼吸，并推荐了一些相关的书籍和资源。我感受到导师的关怀和支持，内心充满了温暖和希望，决定开始尝试这些新的应对策略，以改善自己的心理状态。",
+        "metadata": {
+            "node_id": "node_105",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我尝试放松技巧并没有效果，我会辜负导师的期望。",
+            "emotion": "担忧和焦虑",
+            "behavior": "可能会花大量时间和精力去研究和尝试各种放松技巧，甚至可能有些过度。",
+            "physiological_response": "心率加快，手心出汗，可能感到胃部不适。",
+            "created_at": "2022-03-05 16:00:00"
+        }
+    },
+    "node_104": {
+        "page_content": "2022年3月5日下午3点，在心理健康讲座的教室里，讲座导师开始讲解压力管理和心理健康的重要性。教室里座无虚席，大家都认真听讲。我积极参与讨论，并与其他参与者交流，互相分享各自的压力和应对方法。通过这些交流，我发现自己并不孤单，很多人也面临相似的压力和困扰，这让我感到一种归属感和支持感。",
+        "metadata": {
+            "node_id": "node_104",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能展示出完美的应对策略，其他人会认为我不专业。",
+            "emotion": "焦虑和自我怀疑",
+            "behavior": "更加谨慎地发言，避免展示自己的不足。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "2022-03-05 15:00:00"
+        }
+    },
+    "node_103": {
+        "page_content": "2022年3月5日下午，在医院手术室完成了一次紧急手术后，我感到身心俱疲。手术室的灯光刺眼，空气中充斥着消毒水的味道。我拖着疲惫的身体走出手术室，感受到记忆力变差和睡眠时间过长的问题日益严重。为了缓解这些症状，我决定参加一个心理健康讲座，希望找到一些有效的应对策略。",
+        "metadata": {
+            "node_id": "node_103",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成手术任务，我就是失败的。",
+            "emotion": "焦虑和自责",
+            "behavior": "参加心理健康讲座，希望找到应对策略。",
+            "physiological_response": "心跳加快，头痛加剧，感觉乏力。",
+            "created_at": "2022-03-05 14:30:00"
+        }
+    },
+    "node_102": {
+        "page_content": "2021年12月25日晚上，我们在家里举行了一次家庭聚会。餐厅里充满了欢声笑语，桌上摆满了丰盛的菜肴。然而，我却感到自己像个局外人，与家人的交流变得少了，甚至在几次对话中感到尴尬。我意识到自己在工作和家庭之间的平衡失去了，内心感到无比焦虑和无助。我开始反思自己的生活方式和优先级，觉得自己未能完美地平衡工作与家庭，这让我内疚和自责。",
+        "metadata": {
+            "node_id": "node_102",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我未能完美地平衡工作与家庭，作为丈夫和医生，我是失败的。",
+            "emotion": "焦虑和自责，感到内疚。",
+            "behavior": "在聚会中变得沉默寡言，避免与家人交流，反复思考自己的不足。",
+            "physiological_response": "胃部不适，心跳加快，感到头痛和疲惫。",
+            "created_at": "2021-12-25 18:00:00"
+        }
+    },
+    "node_101": {
+        "page_content": "2021年11月20日晚上，我回到家时，发现家里的客厅显得格外安静。沙发上只有我的妻子和孩子，他们正在看电视，但显然注意力不在节目上。我感到一阵内疚，意识到自己最近因为工作繁忙，几乎没有时间陪伴他们。我心里不断自责，觉得自己未尽到家庭责任，尤其是看到孩子渴望的眼神时，这种感觉更加深刻。",
+        "metadata": {
+            "node_id": "node_101",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我最近工作太忙，忽略了家人，我没有尽到家庭责任。",
+            "emotion": "内疚、自责",
+            "behavior": "试图与家人互动，解释自己的忙碌，甚至可能过度补偿，增加陪伴时间。",
+            "physiological_response": "心情沉重，头痛，胃部不适。",
+            "created_at": "2021-11-20 19:00:00"
+        }
+    },
+    "node_100": {
+        "page_content": "2021年10月15日下午，我在医院的会议室里，导师宣布我将负责一个紧急的医疗项目。会议室里弥漫着严肃的气氛，墙上挂满了各种医疗奖状和项目计划图。我感到心跳加速，压力骤增。导师和同事们的目光齐刷刷地投向我，我深知这不仅仅是一个项目，更是一种责任。我必须完美地完成这项任务，以证明自己的能力。",
+        "metadata": {
+            "node_id": "node_100",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须完美地完成这项任务，否则我会被视为无能和失败。",
+            "emotion": "极度焦虑和担忧",
+            "behavior": "立即开始规划和研究项目，避免任何可能的错误，甚至牺牲休息时间来确保任务的完美完成。",
+            "physiological_response": "心跳加速，手心出汗，胃部不适。",
+            "created_at": "2021-10-15 14:30:00"
+        }
+    },
+    "node_99": {
+        "page_content": "2021年4月29日上午的例行会议上，我因过度疲劳，情绪激动地与同事发生了争执。会议室里，会议桌上放满了文件和笔记本，大家的脸上都写满了疲惫。我忍不住大声抱怨工作压力太大，感觉团队的支持根本不够。同事们一时愣住了，领导的眉头紧锁。我意识到自己失态了，但心中却有一种解脱的感觉。这次争执让我感到内疚和自责，但也让我意识到自己需要寻求帮助。",
+        "metadata": {
+            "node_id": "node_99",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我没有尽到责任，辜负了同事和领导的期望。",
+            "emotion": "内疚和自责",
+            "behavior": "情绪激动地抱怨工作压力，之后感到需要寻求帮助。",
+            "physiological_response": "心跳加快，胃部不适，头疼加剧。",
+            "created_at": "2021-04-29 10:30:00"
+        }
+    },
+    "node_98": {
+        "page_content": "2021年4月22日傍晚，我在办公室里整理病历，头痛得几乎睁不开眼睛。连续一周的高强度工作让我感到身体越来越疲惫，睡眠不足和食欲不振让我更加虚弱。办公室里堆满了文件，桌上的咖啡杯已经冷却。我知道自己需要休息，但担心如果我倒下，团队将无法应对这么多病人。我只能咬牙坚持，心中充满了焦虑和无奈。",
+        "metadata": {
+            "node_id": "node_98",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我休息，团队将无法应对这么多病人，我会辜负大家的期望。",
+            "emotion": "焦虑和无奈",
+            "behavior": "继续工作，尽量不让自己停下来。",
+            "physiological_response": "头痛、疲劳、食欲不振、睡眠不足",
+            "created_at": "2021-04-22 18:45:00"
+        }
+    },
+    "node_97": {
+        "page_content": "2021年4月15日早上，我走进医院时，看到走廊上挤满了等待治疗的病人，诊室里灯火通明。疫情的爆发让我们所有人都措手不及。每个医生、护士都在不停地忙碌，病人的呼喊声、机器的滴滴声充斥着整个环境。我感觉肩上的责任重如泰山，不得不连续数天加班。每当我看到同事们疲惫的脸庞和病人期盼的眼神，心中既有责任感，也有无尽的疲惫。",
+        "metadata": {
+            "node_id": "node_97",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不能够履行我的职责，我会让家人和病人失望。",
+            "emotion": "焦虑和内疚",
+            "behavior": "加班加点工作，尽量满足病人的需求，同时忽略了自身的休息和健康。",
+            "physiological_response": "头痛，疲劳，失眠，体重增加。",
+            "created_at": "2021-04-15 09:00:00"
+        }
+    },
+    "node_96": {
+        "page_content": "2020年11月20日下午，在实验室里，我按照导师的建议，与同事们一起讨论研究难题。同事们围在一起，桌上摆满了实验器材和笔记本，大家认真地提出了许多建设性的意见。然而，我心中却始终无法摆脱那种无力感，觉得自己无法独立解决问题。这种感觉让我的自尊心受挫，内心的焦虑感进一步加剧。晚上回到家，我发现自己开始失眠，体重也开始下降，身体和心理上的变化让我倍感压力。",
+        "metadata": {
+            "node_id": "node_96",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "如果我不能独立解决问题，我就是无能的，导师和同事会失望。",
+            "emotion": "焦虑、失望、自尊心受挫",
+            "behavior": "在讨论中变得沉默，不敢提出自己的意见，回家后失眠",
+            "physiological_response": "心跳加速，胃部不适，体重下降",
+            "created_at": "2020-11-20 16:45:00"
+        }
+    },
+    "node_95": {
+        "page_content": "2020年11月15日上午，我走进导师的办公室，墙上挂满了荣誉证书和奖状，书桌上摆满了书籍和文件。导师关切地看着我，问我最近的情况。我向他倾诉了研究中的困难和内心的焦虑。导师耐心地给了我一些建议，但我却感到更加沉重的压力。我心里想着，自己辜负了导师的期望，内心的焦虑和沮丧感进一步加深。",
+        "metadata": {
+            "node_id": "node_95",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "自己辜负了导师的期望。",
+            "emotion": "焦虑和沮丧感加深",
+            "behavior": "可能会表现出更加紧张和不安，可能会更加努力地工作以试图达到导师的期望。",
+            "physiological_response": "心跳加快，胃部不适，头痛。",
+            "created_at": "2020-11-15 10:00:00"
+        }
+    },
+    "node_94": {
+        "page_content": "2020年11月12日下午，我在实验室里努力工作，试图突破研究的瓶颈。桌上堆满了实验记录和文献，实验设备的嘈杂声让我更加烦躁。尽管同事们在旁边忙碌，我却感到孤立无援，心中的压力越来越大。我反复尝试不同的方法，但每次都以失败告终。那一刻，我深深怀疑自己的能力，焦虑和挫败感如潮水般涌来。",
+        "metadata": {
+            "node_id": "node_94",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我无法突破这个瓶颈，我就是无能的，导师和同事会对我失望。",
+            "emotion": "焦虑和挫败感",
+            "behavior": "可能会暂时停止尝试，陷入自我怀疑，甚至避免与同事交流求助。",
+            "physiological_response": "心跳加快，头痛，胃部不适。",
+            "created_at": "2020-11-12 14:30:00"
+        }
+    },
+    "node_93": {
+        "page_content": "2019年4月18日下午3点20分，我和妻子在医院的产房迎来了我们的第一个孩子。房间内充满了婴儿的哭声和医护人员的忙碌身影。看着新生儿，我感到无比的喜悦和幸福，但同时也感到紧张和压力。我全程陪伴在妻子身边，学习如何换尿布、喂奶等新手父母的基本技能。孩子的出生让我感受到作为父亲的责任感，同时也增添了生活中的幸福和成就感。",
+        "metadata": {
+            "node_id": "node_93",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我必须成为一个完美的父亲，才能对得起我的家人和孩子。",
+            "emotion": "紧张和压力",
+            "behavior": "全身心投入到学习新手父母的基本技能，极力确保自己不出任何差错。",
+            "physiological_response": "肩颈部紧张，手心出汗，心跳加快。",
+            "created_at": "2019-04-18 15:20:00"
+        }
+    },
+    "node_92": {
+        "page_content": "2018年9月2日上午10点30分，我和妻子一起来到医院的产科进行她的第一次产检。诊室内摆放着各种医学仪器，墙上贴满了孕期注意事项的宣传海报。医生详细地解释了怀孕期间需要注意的事项，并进行了检查。我全程陪同，仔细听取医生的建议，并在笔记本上记录下重要的提示。看到妻子和未出生的孩子，我感受到作为即将成为父亲的责任和压力，我更加努力地关注她的健康状况。",
+        "metadata": {
+            "node_id": "node_92",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我必须确保妻子和未出生的孩子健康，否则我就是失职的。",
+            "emotion": "焦虑和压力",
+            "behavior": "更加细致地记录医生的建议，并且频繁检查妻子的健康状况。",
+            "physiological_response": "心跳加速，肌肉紧绷。",
+            "created_at": "2018-09-02 10:30:00"
+        }
+    },
+    "node_91": {
+        "page_content": "2018年8月15日下午1点45分，我正在医院的休息室整理一个重要的病例会议材料，桌上堆满了各种资料和笔记本。突然，我的手机响了，是妻子的电话。她的声音听起来有些激动，告诉我她怀孕了。我瞬间感到既惊喜又紧张，心跳加速，手中的笔差点掉了。我知道这意味着我的生活即将迎来巨大的改变，责任感油然而生。",
+        "metadata": {
+            "node_id": "node_91",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我必须更加努力地工作以照顾家庭和迎接新的责任。",
+            "emotion": "紧张和压力",
+            "behavior": "立刻开始计划如何在工作和家庭之间找到平衡，可能会花更多时间加班以确保工作完成。",
+            "physiological_response": "心跳加快，手心出汗，呼吸急促。",
+            "created_at": "2018-08-15 13:45:00"
+        }
+    },
+    "node_90": {
+        "page_content": "2018年7月28日上午，我在李教授的办公室内与他进行了一次深入的谈话。办公室里墙上挂满了医学奖状和书法作品，书架上摆满了各式各样的医学书籍。我向李教授倾诉了自己对高强度工作的担忧以及目睹小张崩溃后的感受。李教授耐心地听着，并分享了他年轻时的类似经历。他建议我合理安排工作和休息，学会在工作和生活之间找到平衡。这次谈话让我感到一阵轻松，缓解了一部分的焦虑。",
+        "metadata": {
+            "node_id": "node_90",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我必须在学术研究和工作中保持高效和准确，否则会让导师失望。",
+            "emotion": "焦虑和压力感",
+            "behavior": "投入更多时间和精力在工作上，尝试提高效率和准确性。",
+            "physiological_response": "心跳加快，肩颈部位感觉紧张，睡眠质量下降。",
+            "created_at": "2018-07-28 10:00:00"
+        }
+    },
+    "node_89": {
+        "page_content": "2018年7月15日下午，在明亮的手术室里，空气中弥漫着消毒水的气味。小张因极度疲劳在手术过程中失误，导致病人的状况急剧恶化。手术结束后，小张情绪崩溃，泪流满面地坐在手术室的角落里。我站在一旁，心里感到极大的震动和压力，害怕自己未来也会面对同样的情况。",
+        "metadata": {
+            "node_id": "node_89",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我在手术中也犯了错误，我会被认为是失败的医生。",
+            "emotion": "恐惧和焦虑",
+            "behavior": "过度检查自己的工作，避免任何可能的错误。",
+            "physiological_response": "心跳加快，胃部不适，出汗。",
+            "created_at": "2018-07-15 14:30:00"
+        }
+    },
+    "node_88": {
+        "page_content": "2018年6月5日深夜，我在医院的休息室偶然看到了小张。窗外的城市夜景显得格外寂静，而休息室里只有几盏昏暗的灯光照亮了小张疲惫的脸庞。他正埋头在一堆病例中，眼神中透出无尽的疲惫。我不禁感到一阵焦虑，担心自己有一天也会像小张一样在高强度的工作中崩溃。",
+        "metadata": {
+            "node_id": "node_88",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我继续这样高强度工作，我也会像小张一样崩溃，而这意味着我会失去导师和同事的信任。",
+            "emotion": "焦虑和恐惧",
+            "behavior": "试图加快手头的工作进度，甚至考虑减少休息时间来提高效率。",
+            "physiological_response": "心跳加快，胃部不适，头部感觉紧绷。",
+            "created_at": "2018-06-05 23:45:00"
+        }
+    },
+    "node_87": {
+        "page_content": "2017年2月15日下午，我来到导师的办公室，内心忐忑不安。导师正在看书，见我进来，他微笑着示意我坐下。我深吸一口气，把最近的压力和困扰向他倾诉。导师耐心地听着，时不时点头表示理解。他给了我一些建议和支持，这让我感到了一些缓解，但内心对自己能力和完美主义的怀疑依然存在。我开始意识到，也许需要改变自己的思维模式，才能更好地应对这些挑战。",
+        "metadata": {
+            "node_id": "node_87",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我不能完美地解决这些问题，我会让导师失望。",
+            "emotion": "焦虑和自我怀疑",
+            "behavior": "不断回顾导师的建议，尝试制定更详细的计划，但总是感到不满意。",
+            "physiological_response": "心跳加快，胃部不适，头痛。",
+            "created_at": "2017-02-15 14:00:00"
+        }
+    },
+    "node_86": {
+        "page_content": "2017年2月15日凌晨，我终于回到了家中，疲惫地躺在床上，试图让自己放松下来。然而，脑海中不断闪现工作的画面和未解决的问题，焦虑像潮水般涌来。我翻来覆去，怎么也睡不着。看着床头的闹钟，时间已经过了午夜。我开始思考，或许我真的需要寻求一些心理帮助来应对这些压力和焦虑。",
+        "metadata": {
+            "node_id": "node_86",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我在工作中不能完美地解决所有问题，我就是失败的。",
+            "emotion": "焦虑、内疚",
+            "behavior": "翻来覆去，无法入睡，思考寻求心理帮助",
+            "physiological_response": "心跳加快，头痛，胃部不适",
+            "created_at": "2017-02-15 00:30:00"
+        }
+    },
+    "node_85": {
+        "page_content": "2017年2月14日晚上，我在医院急诊室忙碌了一整天，处理了几个复杂的医学案例。时间已经接近午夜，急诊室依然灯火通明，同事们也都显得疲惫不堪。我感到脑袋发胀，手脚有些僵硬。导师过来询问我的进展，我勉强挤出一丝笑容，但内心的焦虑和对自己能力的怀疑却挥之不去。连续几天的高强度工作让我怀疑自己是否能胜任这份工作，是否真的有能力解决这些问题。",
+        "metadata": {
+            "node_id": "node_85",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我没有完美地完成任务，导师会对我失望的。",
+            "emotion": "焦虑和自我怀疑",
+            "behavior": "继续努力工作，试图掩盖疲惫并表现出自信。",
+            "physiological_response": "心跳加快，头痛，肌肉紧张。",
+            "created_at": "2017-02-14 22:30:00"
+        }
+    },
+    "node_84": {
+        "page_content": "2015年6月21日上午，我和妻子前往旅行社参加蜜月旅行的策划会。我们在一个装饰简洁的会议室里，与旅行社工作人员讨论行程安排，桌上摆满了旅游宣传册。选择目的地和活动项目的过程中，我感受到了放松和期待，但也意识到自己需要暂时离开工作岗位。这让我感到一些焦虑，因为担心无法及时处理工作上的问题。尽管如此，我依然期待着与妻子的这段美好旅程。",
+        "metadata": {
+            "node_id": "node_84",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不在工作岗位，可能会有人需要我，而我无法及时帮助他们。",
+            "emotion": "焦虑和内疚",
+            "behavior": "频繁查看手机和邮件，难以完全投入讨论。",
+            "physiological_response": "心跳加快，肩膀和颈部感到紧张。",
+            "created_at": "2015-06-21 10:00:00"
+        }
+    },
+    "node_83": {
+        "page_content": "2015年6月20日晚上，在婚礼结束后，我和妻子回到我们的新房。新房布置得简单温馨，客厅的桌子上堆满了婚礼的礼物。我们一边整理礼物，一边讨论未来的生活计划。我们谈到了如何平衡工作和家庭的关系，制定了一些初步的规划。这个过程让我既感受到对未来生活的期待，也有些对未知的担忧。责任感让我坚定了要在学术和家庭之间找到平衡的决心。",
+        "metadata": {
+            "node_id": "node_83",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我要确保能够同时照顾好家庭和工作，不然我会让家人失望。",
+            "emotion": "焦虑和责任感",
+            "behavior": "制定详细的计划，尝试控制和安排每一个细节。",
+            "physiological_response": "心跳加快，感觉胃部不适。",
+            "created_at": "2015-06-20 21:00:00"
+        }
+    },
+    "node_82": {
+        "page_content": "2015年6月20日下午，在布置得温馨浪漫的婚礼现场，我和妻子在家人的陪同下前来。婚礼仪式还未开始，我们与亲朋好友逐一合影，现场充满了欢声笑语。每一声祝福都让我感受到家人和朋友的关爱，心中涌起一股暖流。同时，我也开始意识到即将承担的责任，心情既兴奋又有些紧张。",
+        "metadata": {
+            "node_id": "node_82",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我必须承担起对新家庭的责任，否则我会失去他们的信任和尊重。",
+            "emotion": "兴奋中夹杂着紧张和焦虑",
+            "behavior": "在合影时不断调整姿势，试图表现出最佳状态，同时与亲友们微笑交流，掩饰内心的紧张。",
+            "physiological_response": "心跳加速，手心出汗，呼吸变浅。",
+            "created_at": "2015-06-20 14:30:00"
+        }
+    },
+    "node_81": {
+        "page_content": "2014年10月12日晚，在学术会议后的一个小型聚会上，导师带着我走进了一个温馨的房间。房间里有轻柔的背景音乐，几位在学术界有影响力的人士围坐在一起聊天。导师向大家介绍了我，并对我的发言表示了高度评价。我感到被认可和受欢迎，这种社会支持让我内心感到温暖，同时也增强了我的自信心，看到了自己在学术界未来发展的更多可能性。",
+        "metadata": {
+            "node_id": "node_81",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我的导师和这些有影响力的人士对我的认可，意味着我在学术上的努力被肯定了，我不能辜负他们的期望，我必须保持完美。",
+            "emotion": "感到自豪和压力并存",
+            "behavior": "更加努力地保持高标准，并在学术研究中更加谨慎和认真",
+            "physiological_response": "呼吸变得深沉，心跳加快，感觉到一种紧张的兴奋",
+            "created_at": "2014-10-12 19:00:00"
+        }
+    },
+    "node_80": {
+        "page_content": "2014年10月12日上午，我站在学术会议的讲台上，面对着台下坐满的学者们，心跳加速。当我完成发言后，现场爆发出热烈的掌声，我感到无比满足。我的导师站起来，微笑着向我点头表示赞许。我感受到一股强烈的自信和满足，这一刻让我相信自己追求完美的努力得到了回报。",
+        "metadata": {
+            "node_id": "node_80",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我的努力和追求完美得到了回报。",
+            "emotion": "自信和满足",
+            "behavior": "微笑并向观众点头致意，与导师交流，继续参与会议。",
+            "physiological_response": "心跳加速，脸上露出微笑，身体感到轻松和愉悦。",
+            "created_at": "2014-10-12 10:45:00"
+        }
+    },
+    "node_79": {
+        "page_content": "2014年9月15日下午，我在大学的研究室里，桌上堆满了各种医学书籍和论文资料。我正盯着电脑屏幕，反复修改我的论文。导师走进来，我们开始了又一次关于论文的讨论。每次讨论完，我都感到压力倍增，因为我知道需要不断修改才能达到完美。我感觉到巨大的焦虑和紧张，但也有一种成就感，知道每一次修改都是在向完美靠近。",
+        "metadata": {
+            "node_id": "node_79",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我的论文不能达到导师的期望，我就会被视为失败。",
+            "emotion": "极度焦虑和紧张，但也有一丝成就感。",
+            "behavior": "不断修改论文，花费大量时间和精力在细节上，推迟其他任务。",
+            "physiological_response": "心跳加快，胃部不适，头痛。",
+            "created_at": "2014-09-15 14:30:00"
+        }
+    },
+    "node_78": {
+        "page_content": "2013年6月15日晚上11点45分，我依然在实验室忙碌。实验桌上放着一杯已经凉了的咖啡，周围是一片寂静，只有键盘的敲击声和仪器的滴答声。我感到身心俱疲，但不敢停下来休息，害怕自己达不到导师的高标准。失眠和焦虑开始困扰我，每晚躺在床上，脑海中都是实验数据和报告的细节。我担心自己无法达到完美的标准，从而被视为失败者。",
+        "metadata": {
+            "node_id": "node_78",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成实验任务，导师和同学会对我失望，我会被视为失败者。",
+            "emotion": "焦虑和恐惧",
+            "behavior": "继续工作，不敢休息，强迫自己保持高效率。",
+            "physiological_response": "心跳加快，胃部不适，失眠。",
+            "created_at": "2013-06-15 23:45:00"
+        }
+    },
+    "node_77": {
+        "page_content": "2013年5月15日下午4点，我鼓起勇气走进导师办公室，心里忐忑不安。导师见到我，示意我坐下。我小心翼翼地询问自己的研究报告是否有问题。导师放下手中的笔，耐心地给我指导了一些细节上的改进，同时强调了必须保持高标准。他的语气虽然温和，但我依然感受到压力。我知道，只有达到他的高要求，才能得到他的认可。",
+        "metadata": {
+            "node_id": "node_77",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我不能达到导师的高标准，我就会被认为不够优秀。",
+            "emotion": "焦虑和压力",
+            "behavior": "反复检查和修改研究报告，努力提高报告质量。",
+            "physiological_response": "心跳加快，手心出汗，胃部不适。",
+            "created_at": "2013-05-15 16:00:00"
+        }
+    },
+    "node_76": {
+        "page_content": "2013年5月15日下午2点半，在大学实验室的实验报告评审会上，导师看完一位同学的报告后，脸色骤变，眉头紧锁。接着，他开始大声批评那位同学，声音在实验室里回荡。同学们都被这突如其来的愤怒吓了一跳，空气中一时变得紧张而沉默。我站在一旁，心跳加速，感觉自己也在被审判。我担心自己也会因为不完美而受到这样的批评，心里感到焦虑和恐惧。",
+        "metadata": {
+            "node_id": "node_76",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我的报告不完美，导师也会像这样批评我。",
+            "emotion": "焦虑和恐惧",
+            "behavior": "更加严谨地检查自己的报告，避免出错，可能会在之后的报告中更加努力地表现完美。",
+            "physiological_response": "心跳加速，手心出汗，呼吸变得急促。",
+            "created_at": "2013-05-15 14:30:00"
+        }
+    },
+    "node_75": {
+        "page_content": "2012年6月15日上午10点，阳光明媚，我穿着学士服站在大学的毕业典礼上，心中充满了成就感。当我站在舞台上领取毕业证书时，看到台下的父亲和家人，他们脸上露出自豪的笑容。几天后，父亲在医院顺利出院，我推着轮椅上的他，走出医院的大门，感到一阵轻松和释然。几个月来的努力和辛苦终于有了回报，我感到无比的满足和自豪，也更加坚定了对家人和工作的责任心。",
+        "metadata": {
+            "node_id": "node_75",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_4",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我必须继续努力，不能让家人和工作失望。",
+            "emotion": "满足感、自豪感、轻松感和责任感",
+            "behavior": "更加努力地工作和照顾家人，确保不辜负他们的期望。",
+            "physiological_response": "心情愉悦，身体感到轻松，微笑，呼吸平稳。",
+            "created_at": "2012-06-15 10:00:00"
+        }
+    },
+    "node_74": {
+        "page_content": "2012年3月10日傍晚6点，我敲开导师办公室的门，导师温和地听我讲述了目前的困境。他建议我向同学寻求帮助，并为我调整了一些课程安排。回到宿舍后，我鼓起勇气找了几位关系较好的同学，他们非常乐意帮助我，分担了一些学术任务。这样，我可以有更多时间照顾父亲。医院的病房里，我握着父亲的手，心里感到一丝安慰。虽然压力依然存在，但我不再感到孤立无援，心中的焦虑减轻了不少。",
+        "metadata": {
+            "node_id": "node_74",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我必须时刻照顾好家人并完成学业任务，否则我会失去他们的信任和尊重。",
+            "emotion": "焦虑和压力有所缓解，感到一丝安慰。",
+            "behavior": "积极寻求同学帮助，合理分配时间，更多时间照顾父亲。",
+            "physiological_response": "心跳减缓，呼吸变得平稳。",
+            "created_at": "2012-03-10 18:00:00"
+        }
+    },
+    "node_73": {
+        "page_content": "2012年3月5日早上7点，我早早来到医院，病房里弥漫着消毒水的味道，父亲躺在病床上，我握着他的手，感到他的手冰凉。我在病房里陪伴父亲一段时间后，赶回大学上课。教室里，讲师在黑板上写着公式，我却感到眼前的字母和数字都在跳动。我尽力保持专注，但心里总是牵挂着父亲。我制定了一个详细的时间表，希望能兼顾学业和照顾父亲，但压力像一座大山压在我的肩上，晚上躺在床上时，我常常难以入睡，脑海里充满了未完成的任务和对父亲的担忧。",
+        "metadata": {
+            "node_id": "node_73",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不能同时照顾好父亲和完成学业，我会失去父亲和导师的信任。",
+            "emotion": "焦虑和内疚",
+            "behavior": "试图分配更多时间给父亲和学业，导致自己更加疲惫，效率降低。",
+            "physiological_response": "失眠、心跳加快、头痛。",
+            "created_at": "2012-03-05 07:00:00"
+        }
+    },
+    "node_72": {
+        "page_content": "2012年3月1日下午2点30分，我正坐在大学宿舍的书桌前，桌上堆满了新学期的课本和笔记。突然，电话铃声响起，母亲在电话那头声音急促地告诉我，父亲突发心脏病，正在医院抢救。我感到一阵晕眩，手里的笔掉在地上。母亲的声音充满了焦虑，我的心也随之紧绷，仿佛被一只无形的手紧紧攥住。我知道，从这一刻起，我的生活将面临巨大的挑战。",
+        "metadata": {
+            "node_id": "node_72",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我必须马上去医院照顾父亲，否则我会失去家人的信任。",
+            "emotion": "焦虑和恐惧",
+            "behavior": "立刻停止手头的学习任务，迅速收拾东西准备去医院。",
+            "physiological_response": "心跳加快，手心出汗，头晕目眩。",
+            "created_at": "2012-03-01 14:30:00"
+        }
+    },
+    "node_71": {
+        "page_content": "2010年8月20日上午10:15，我参加了医院的一个小型科室会议。会议室内有一张长桌和几排椅子，墙上挂着医院的荣誉证书。导师在会上公开表扬了我，称赞我在复杂病例诊断和治疗方案上的出色表现。听到这些表扬后，我感到非常满足和自豪。病人的康复情况良好，让我更加坚信自己有能力解决复杂的问题。我所付出的努力和责任心得到了回报，这不仅提升了我的专业自信，还强化了我对未来职业发展的决心。",
+        "metadata": {
+            "node_id": "node_71",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我有能力解决复杂的问题，我的努力得到了认可。",
+            "emotion": "满足和自豪",
+            "behavior": "更加专注和投入地工作，继续保持高标准。",
+            "physiological_response": "心情愉悦，放松，呼吸平稳。",
+            "created_at": "2010-08-20 10:15:00"
+        }
+    },
+    "node_70": {
+        "page_content": "2010年8月10日晚上22:45，我依然在医院的诊断室内研究病例资料。诊断室内灯光明亮，各类医学设备发出微弱的嗡嗡声。我一边查阅相关医学文献，一边在笔记本上记录下关键点。期间，我多次与导师和同事进行讨论，探讨病情的可能性。虽然过程非常辛苦，但我逐渐找到了病情的关键点。看到自己努力逐渐有了成果，我感到一丝满足和成就感，焦虑感也逐渐减轻。",
+        "metadata": {
+            "node_id": "node_70",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我必须保持高效和准确，否则导师和同事会对我失望。",
+            "emotion": "焦虑和压力",
+            "behavior": "持续查阅文献和记录笔记，不敢放松。",
+            "physiological_response": "头痛、肩颈僵硬，呼吸变浅。",
+            "created_at": "2010-08-10 22:45:00"
+        }
+    },
+    "node_69": {
+        "page_content": "2010年8月5日早上8:30，我走进导师的办公室，心情有些忐忑。导师坐在电脑桌后面，脸上带着严肃的表情。他递给我一份复杂病例的资料，告诉我这将是我的初步诊断任务。我感到压力巨大，心跳加速，因为这是我第一次独立处理这么复杂的任务。导师的办公室内静悄悄的，只有墙上挂着几幅医学相关的画。我担心自己无法达到导师和同事的期望，脑海中不断闪现着‘如果我不能完美地完成任务，我就是失败的’的念头。",
+        "metadata": {
+            "node_id": "node_69",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成任务，我就是失败的。",
+            "emotion": "焦虑和害怕",
+            "behavior": "立即开始仔细阅读病例资料，尝试记住每一个细节，不敢出错。",
+            "physiological_response": "心跳加速，手心出汗，呼吸急促。",
+            "created_at": "2010-08-05 08:30:00"
+        }
+    },
+    "node_68": {
+        "page_content": "2008年5月15日傍晚，在大学校园的礼堂里，颁奖仪式结束后，我和导师及同学们一起庆祝胜利。礼堂外，夕阳的余晖洒在绿树成荫的小径上，空气中弥漫着一股清新的气息。导师拍了拍我的肩膀，微笑着对我说：'你真是个有潜力的学生，我为你感到骄傲。' 这句话深深印在了我的心里，极大地增强了我的自信心。",
+        "metadata": {
+            "node_id": "node_68",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我必须继续保持高效和准确，否则会辜负导师的期望。",
+            "emotion": "压力和自豪感并存",
+            "behavior": "更加努力地投入学术研究，减少休息时间",
+            "physiological_response": "心跳加快，肩膀紧绷，呼吸变浅",
+            "created_at": "2008-05-15 18:45:00"
+        }
+    },
+    "node_67": {
+        "page_content": "2008年5月15日上午，我早早地来到全国性医学竞赛的现场，礼堂内人头攒动，气氛紧张。站在舞台上，我的手心微微出汗，但我努力调整自己的呼吸，让自己冷静下来。比赛过程中，我逐渐进入状态，题目一个个顺利完成。当我抬头看向台下时，看到导师和几位同学在默默为我加油打气，这让我感到一种强烈的支持感，内心也因此更加坚定。",
+        "metadata": {
+            "node_id": "node_67",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "如果我不高效和准确地完成比赛，我会失去导师和同学的信任。",
+            "emotion": "焦虑和压力",
+            "behavior": "更加集中注意力，努力保持高效和准确，甚至加快比赛节奏。",
+            "physiological_response": "心跳加快，手心出汗，呼吸变得急促。",
+            "created_at": "2008-05-15 10:30:00"
+        }
+    },
+    "node_66": {
+        "page_content": "2008年4月10日深夜，我在大学图书馆埋头苦读，四周安静得只剩下翻书的声音。为了准备即将到来的全国性医学竞赛，我已经连续几周每天都学到深夜。那天晚上，我的导师在课后特地留我下来，他看着我略显疲惫的脸，语重心长地说：'你已经很努力了，不用太有压力。' 虽然这番话让我感到一丝安慰，但我心里仍然充满了对不完美表现的担忧。",
+        "metadata": {
+            "node_id": "node_66",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我在这个竞赛中表现不完美，我会让导师和同学失望，他们会认为我是无能和失败的。",
+            "emotion": "焦虑和担忧",
+            "behavior": "继续熬夜学习，尽量避免任何失误",
+            "physiological_response": "心跳加快，头痛和疲劳感加剧",
+            "created_at": "2008-04-10 23:45:00"
+        }
+    },
+    "node_65": {
+        "page_content": "2005年9月15日上午11点20分，我在医院的诊室里迎来了我第一次独立处理的病患。病人是一位中年男子，他看起来很痛苦。我感到非常紧张，但还是按照培训时学到的知识一步步进行检查和治疗。最终，病人的情况得到了改善，他对我表示了衷心的感谢。那一刻，我感受到作为医生的责任和成就感，这次经历让我更加坚定了自己的职业信念。",
+        "metadata": {
+            "node_id": "node_65",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_4",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成这次诊疗，我就是失败的。",
+            "emotion": "紧张且焦虑",
+            "behavior": "尽量按照培训时的知识进行检查和治疗，确保每一步都准确无误。",
+            "physiological_response": "心跳加速，手心出汗。",
+            "created_at": "2005-09-15 11:20:00"
+        }
+    },
+    "node_64": {
+        "page_content": "2005年6月2日晚上6点，我在医院的病房里看望刚刚住院的母亲。母亲躺在病床上，脸色苍白，我感到心如刀绞。班主任也赶来看望母亲，并安慰我说学校会尽量帮助我度过这段困难时期。我必须在学业和家庭责任之间找到平衡，这让我感到极大的压力和焦虑。每天放学后，我都会赶去医院照顾母亲，同时还要抽时间复习功课。这段时间让我感到责任重大，但也坚定了我对家人和学业负责的决心。",
+        "metadata": {
+            "node_id": "node_64",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我不能照顾好母亲和完成学业，我会失去家人和老师的信任。",
+            "emotion": "极度焦虑和压力",
+            "behavior": "努力压缩自己的休息时间，尽量在医院和学校之间找到平衡，甚至放弃一些娱乐活动。",
+            "physiological_response": "睡眠质量下降，疲劳感增加，头痛和胃痛时有发生。",
+            "created_at": "2005-06-02 18:00:00"
+        }
+    },
+    "node_63": {
+        "page_content": "2004年10月10日下午2点45分，在学校礼堂，我和我的团队站在领奖台上，手中捧着我们刚刚赢得的化学竞赛第一名奖杯。化学老师在台上热情洋溢地表扬了我们，同学们也纷纷鼓掌祝贺。那一刻，我感到无比的自豪和满足。之前所有的努力和付出都得到了回报。这次成功让我重新找回了自信，感受到了成就感和满足感。",
+        "metadata": {
+            "node_id": "node_63",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须继续保持这样的完美表现，否则老师和同学们会对我失望。",
+            "emotion": "自豪和焦虑并存",
+            "behavior": "继续努力学习，投入更多时间和精力保持学业上的完美表现。",
+            "physiological_response": "心跳加快，手心出汗，肌肉紧张。",
+            "created_at": "2004-10-10 14:45:00"
+        }
+    },
+    "node_62": {
+        "page_content": "2004年5月15日上午10点30分，在学校的考场里，我参加了一次高三的模拟考试。考试开始后，我感到手心冒汗，心跳加速。尽管我努力集中注意力，但脑子里一片空白。周围的同学们都在认真答题，我却越发紧张，甚至开始怀疑自己。时间一分一秒地过去，最终我没能按时完成所有题目。成绩出来后，我的分数远低于预期，这让我感到非常失落和自责。班主任虽然没有责备我，但那一刻，我感到自己辜负了她的期望。这次失误让我开始怀疑自己是否真的有能力在学业上做到完美。",
+        "metadata": {
+            "node_id": "node_62",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我没能完美地完成考试，我是个失败者。",
+            "emotion": "极度失落和自责",
+            "behavior": "回到家后避免与家人和同学讨论考试，沉默寡言。",
+            "physiological_response": "胃部不适，头痛，持续的紧张感。",
+            "created_at": "2004-05-15 10:30:00"
+        }
+    },
+    "node_61": {
+        "page_content": "2005年8月15日下午3:30，在医院的急诊室，我正参与实习。突然，一位危重病人被送了进来，场面顿时变得紧张起来。我看着资深医生从容不迫地指挥护士们进行抢救，他的专业和镇定令我深感钦佩。医生的一举一动都充满了信心和经验，而我则在一旁认真观察，心中燃起了对未来职业的强烈向往。我意识到，要成为这样优秀的医生，需要付出极大的努力和不断提升自己的专业水平。",
+        "metadata": {
+            "node_id": "node_61",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_4",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能像这位资深医生一样完美地应对危机，我就是失败的。",
+            "emotion": "焦虑和紧张",
+            "behavior": "更加认真地观察资深医生的每一个动作，试图记住每一个细节。",
+            "physiological_response": "心跳加速，手心出汗，呼吸变得急促。",
+            "created_at": "2005-08-15 15:30:00"
+        }
+    },
+    "node_60": {
+        "page_content": "2004年3月25日上午10:45，在学校的化学实验室，老师布置了一道复杂的实验题目。同学们纷纷投入到实验中，而我则遇到了一些困难。经过一番思考和尝试，我终于找到了解决问题的方法。当我将实验结果展示给化学老师时，他脸上露出了欣慰的笑容，并在全班面前表扬了我。我的同学们也投来了钦佩的目光。这一刻，我感到非常自豪和满足，内心充满了成就感，同时也意识到，保持高效和准确是赢得老师和同学信任的关键。",
+        "metadata": {
+            "node_id": "node_60",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "保持高效和准确是赢得老师和同学信任的关键。",
+            "emotion": "自豪和满足",
+            "behavior": "展示实验结果，并享受老师和同学的赞扬。",
+            "physiological_response": "心情愉悦，呼吸平稳，面带微笑。",
+            "created_at": "2004-03-25 10:45:00"
+        }
+    },
+    "node_59": {
+        "page_content": "2003年8月10日晚上7点，在家中的客厅，我们一家人围坐在餐桌旁，享用着丰盛的晚餐。父母开始关心我的学业进展和未来规划，他们的目光中充满了期待。父亲说，他希望我能继续努力，考上顶尖的医学院。母亲则表示无论我做什么决定，他们都会支持我。我心里既感到温暖又有些沉重，父母的期望让我感到肩上的责任更加重大。我暗自下定决心，一定要努力不让他们失望，同时也感到一丝压力，担心自己可能无法达到他们的期望。",
+        "metadata": {
+            "node_id": "node_59",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地考上顶尖的医学院，我会让父母失望。",
+            "emotion": "焦虑和压力",
+            "behavior": "更加努力地学习，减少休息时间",
+            "physiological_response": "心跳加快，肩膀和背部感到紧张",
+            "created_at": "2003-08-10 19:00:00"
+        }
+    },
+    "node_58": {
+        "page_content": "2002年5月15日下午2:30，在中学校园的礼堂，我参加了一次重要的学术竞赛。礼堂里挤满了学生和老师，气氛紧张而激动。比赛过程中，我全神贯注地解答每一道题目，心跳加速。经过几个小时的激烈竞争，最终我获得了第一名。当主持人宣布结果时，我感觉一阵轻松和骄傲。老师和同学们纷纷向我表示祝贺，他们的认可让我感到无比自豪，但也意识到未来需要更加努力，不能辜负大家的期望。",
+        "metadata": {
+            "node_id": "node_58",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能继续完美地表现，大家会对我失望，我会被视为无能和失败。",
+            "emotion": "骄傲中夹杂着焦虑和压力",
+            "behavior": "一方面接受祝贺，另一方面开始思考如何保持完美表现。",
+            "physiological_response": "心跳加速，肌肉紧张。",
+            "created_at": "2002-05-15 14:30:00"
+        }
+    },
+    "node_57": {
+        "page_content": "2005年7月20日上午，高考成绩公布的那一刻，我和父母一起坐在客厅的沙发上。当我查到自己被理想的医学院录取时，激动得几乎无法呼吸。父母立刻抱住了我，母亲激动得流下了眼泪，父亲则用力拍拍我的背，脸上满是骄傲。那一刻，我感到多年的努力终于得到回报，家人对我的支持和期望也深深感动了我。",
+        "metadata": {
+            "node_id": "node_57",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_4",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我终于完美地完成了我的学业，达到了家人的期望。",
+            "emotion": "极度兴奋和欣慰",
+            "behavior": "与父母拥抱，庆祝这一成就",
+            "physiological_response": "呼吸急促，心跳加速，脸上洋溢着笑容",
+            "created_at": "2005-07-20 09:00:00"
+        }
+    },
+    "node_56": {
+        "page_content": "2004年11月20日下午，在市级比赛的现场，我们团队站在领奖台上，举起了象征胜利的奖杯。我的同学们欢呼雀跃，化学老师也在台下露出了满意的笑容。我感受到无比的自豪和成就感，同学们的笑脸和老师的表扬让我倍感欣慰。这次胜利不仅增强了我的自信心，也让我体会到团队合作的力量。",
+        "metadata": {
+            "node_id": "node_56",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须时刻保持完美，才能继续得到大家的认可和尊重。",
+            "emotion": "自豪和压力",
+            "behavior": "更加努力地保持高标准，时刻准备应对下一次挑战。",
+            "physiological_response": "心跳加速，肩膀紧绷。",
+            "created_at": "2004-11-20 14:00:00"
+        }
+    },
+    "node_55": {
+        "page_content": "2004年4月15日下午，在学校的教室里，期中考试结束后，我坐在座位上，心情沉重。成绩下滑让我感到巨大的失望和压力，担心老师和同学对我的看法。班主任在课后找我谈话，她虽然语气温和，但我能感觉到她的担忧，我心中充满了自责和焦虑。同学们在回家路上讨论成绩时，我默默跟在后面，心情沉重。",
+        "metadata": {
+            "node_id": "node_55",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我的成绩下滑了，我真的很失败。老师和同学会对我失望。",
+            "emotion": "自责和焦虑，非常强烈",
+            "behavior": "避免与同学讨论成绩，回避老师，独自默默承受压力。",
+            "physiological_response": "胃部不适，头痛，容易出汗。",
+            "created_at": "2004-04-15 15:30:00"
+        }
+    },
+    "node_54": {
+        "page_content": "2003年7月1日上午，我在家里的客厅里打开了那封寄来的录取通知书。当看到自己被重点高中录取的消息时，我的心跳加速，激动得几乎说不出话来。父母在一旁看到我的表情，立刻明白了发生了什么，他们脸上洋溢着骄傲的笑容。母亲甚至忍不住流下了几滴眼泪，父亲拍拍我的肩膀，告诉我他们为我感到自豪。",
+        "metadata": {
+            "node_id": "node_54",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须在重点高中保持完美的成绩，否则我会让父母失望。",
+            "emotion": "兴奋中夹杂着一丝焦虑",
+            "behavior": "立刻开始计划高中学习任务，制定目标",
+            "physiological_response": "心跳加速，手心出汗",
+            "created_at": "2003-07-01 10:00:00"
+        }
+    },
+    "node_53": {
+        "page_content": "2005年3月15日上午的课间，教室里弥漫着轻松的气氛。陈老师站在讲台上，微笑着看着我们。他特别表扬了一位在数学考试中取得显著进步的同学，并鼓励我们向他学习。陈老师的声音温和却坚定，他说：‘努力和进步同样值得认可，不一定要追求完美。’我坐在座位上，心里突然觉得轻松了一些，明白了自己并不需要一直完美无缺。",
+        "metadata": {
+            "node_id": "node_53",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "也许我不需要一直完美无缺，努力和进步也值得认可。",
+            "emotion": "轻松，减轻了压力",
+            "behavior": "认真听讲并在心里默默反思自己对完美的追求。",
+            "physiological_response": "身体放松，心跳平稳，呼吸变得更深更缓。",
+            "created_at": "2005-03-15 10:30:00"
+        }
+    },
+    "node_52": {
+        "page_content": "2005年5月10日晚，我在家里告诉父母高考前最后一次模拟考试成绩不理想。客厅里灯光柔和，父母坐在沙发上，茶几上放着几本杂志。他们虽然安慰我说没关系，但我能感受到他们内心的失望。我感到巨大的压力和自责，情绪低落，失眠和焦虑症状加重。那一刻，我觉得自己真的很无能。",
+        "metadata": {
+            "node_id": "node_52",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我真的很无能，我让父母失望了，老师和同学也会认为我不够好。",
+            "emotion": "巨大的压力和自责，情绪低落",
+            "behavior": "可能会回到房间，避免与父母和他人交流，减少社交活动",
+            "physiological_response": "失眠，焦虑，心跳加快，胃部不适",
+            "created_at": "2005-05-10 20:15:00"
+        }
+    },
+    "node_51": {
+        "page_content": "2005年4月20日下午，我被化学老师叫到办公室。办公室的墙上挂满了学生的优秀作品，桌上堆满了试卷和教具。老师注意到我最近状态不佳，特意询问我的情况并给予了鼓励。他告诉我，每个人都会有压力，重要的是如何去面对和克服它。虽然老师的话让我感到一些安慰，但我仍然无法摆脱对完美的追求和对失败的恐惧。",
+        "metadata": {
+            "node_id": "node_51",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成学业，我就是失败的。",
+            "emotion": "焦虑和恐惧",
+            "behavior": "试图掩饰自己的疲惫，向老师保证会努力改进。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "2005-04-20 16:30:00"
+        }
+    },
+    "node_50": {
+        "page_content": "2005年4月15日晚上，我在学校的教室里参加晚自习。教室里灯光昏黄，空气中弥漫着一股紧张的气氛。同学们都在埋头苦读，只有我感觉到巨大的压力和焦虑。我担心自己无法达到预期的高标准，心跳加速，手心冒汗。那种深深的无力感和自我怀疑让我几乎无法集中注意力。",
+        "metadata": {
+            "node_id": "node_50",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成学业，我就是失败的。",
+            "emotion": "深深的无力感和自我怀疑",
+            "behavior": "几乎无法集中注意力，开始走神",
+            "physiological_response": "心跳加速，手心冒汗",
+            "created_at": "2005-04-15 19:45:00"
+        }
+    },
+    "node_49": {
+        "page_content": "2004年3月5日下午，我站在学校礼堂的舞台上，面对台下的评委和观众。因为紧张，我答错了一个关键问题，最终没能取得第一名。当结果宣布时，我感到无比沮丧，心里充满了自责。走下舞台，我避开了同学和老师的目光，害怕他们会对我失望。回到家，我默默地把奖牌放在书桌上，心中的挫败感久久不能平息。",
+        "metadata": {
+            "node_id": "node_49",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不完美，所以我就是失败的。",
+            "emotion": "极度沮丧和自责",
+            "behavior": "避开同学和老师的目光，不愿与他们交流，回到家默默放下奖牌",
+            "physiological_response": "心跳加快，胃部不适，头痛",
+            "created_at": "2004-03-05 16:45:00"
+        }
+    },
+    "node_48": {
+        "page_content": "2004年2月22日清晨五点，我的闹钟响起，我迅速起床开始一天的学习。白天在学校，我参加各种学术竞赛和课外活动，晚上回到家继续自习，直到十点才结束。这种高强度的学习安排让我感到压力巨大，但我也感受到自己在不断进步。每当感到疲倦时，我都会想起父母的期待和自己的目标，继续坚持下去。",
+        "metadata": {
+            "node_id": "node_48",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成今天的学习任务，我就会被视为无能和失败。",
+            "emotion": "焦虑和紧张",
+            "behavior": "更加努力地学习，确保不出任何差错。",
+            "physiological_response": "心跳加快，胃部不适，头痛。",
+            "created_at": "2004-02-22 05:00:00"
+        }
+    },
+    "node_47": {
+        "page_content": "2004年2月15日下午，我和父母坐在家里的沙发上，讨论未来的职业规划。父母语重心长地告诉我，他们希望我能成为医生，继承家族的传统。他们的期待让我有些不安，但也激励了我。当时的我坚定地告诉他们，我会努力实现这个目标。父母听后露出了满意的笑容，这一刻让我感到责任重大。",
+        "metadata": {
+            "node_id": "node_47",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我必须成为医生，否则会辜负父母的期望。",
+            "emotion": "不安和压力，感到责任重大",
+            "behavior": "更加努力学习，尽量满足父母的期望",
+            "physiological_response": "胃部不适，心跳加快",
+            "created_at": "2004-02-15 14:30:00"
+        }
+    },
+    "node_46": {
+        "page_content": "当晚回到家中，晚餐时，我试图和父母谈起学校的事情。我隐晦地提到今天看到小李被老师批评的经历，希望能得到一些安慰和支持。可是，父母只是冷淡地说，成绩不好是因为自己不努力，言下之意就是小李活该。我感到失落和孤独，意识到在学业上我不能指望别人，只能靠自己。",
+        "metadata": {
+            "node_id": "node_46",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成学业，我也会被视为无能和失败，没有人会支持我。",
+            "emotion": "失落和孤独",
+            "behavior": "减少与父母谈话的次数，更多时间独自学习和努力。",
+            "physiological_response": "感觉胸口压抑，胃部不适，可能伴随轻微头痛。",
+            "created_at": "2003-05-15 19:00:00"
+        }
+    },
+    "node_45": {
+        "page_content": "张老师的谈话结束后，小李回到了座位。他低着头，眼泪不停地往下掉。我看着他，心里既同情又害怕。我不敢想象如果自己成绩不好，会不会也会被老师这样批评。我感到一种巨大的压力压得我喘不过气来。",
+        "metadata": {
+            "node_id": "node_45",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我成绩不好，也会被老师这样批评，我会被视为无能和失败。",
+            "emotion": "恐惧和焦虑",
+            "behavior": "更加努力学习，避免被老师批评。",
+            "physiological_response": "感到巨大的压力，心跳加快，呼吸急促。",
+            "created_at": "2003-05-15 15:45:00"
+        }
+    },
+    "node_44": {
+        "page_content": "2003年5月15日下午，在学校的教室里，张老师刚刚公布了期中考试的成绩。大家都紧张地等待着自己的成绩单。当张老师叫到小李的名字时，他的脸色变得苍白。张老师将小李叫到教室的后面，我正好离得近，能隐约听到张老师严厉的批评声。我的心跳也加快了，生怕自己有一天也会面临这样的情境。",
+        "metadata": {
+            "node_id": "node_44",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我也考不好，我将会被批评，大家会认为我很无能。",
+            "emotion": "焦虑和恐惧",
+            "behavior": "开始紧张地回忆考试中的每一个细节，担心自己哪里做错了。",
+            "physiological_response": "心跳加快，手心出汗，胃部有紧张感。",
+            "created_at": "2003-05-15 15:30:00"
+        }
+    },
+    "node_43": {
+        "page_content": "2003年4月8日上午，在学校的教室里，我们的团队在学术竞赛中取得了第一名。当班主任在全班面前表扬我们时，我的心中充满了自豪和喜悦。他特别提到我的领导能力，这让我感到非常开心，同时也意识到团队合作的重要性。教室里响起了热烈的掌声，我和同学们互相击掌庆祝，这一刻，我觉得所有的努力都是值得的。",
+        "metadata": {
+            "node_id": "node_43",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我的努力和能力得到了认可，我有能力面对并解决问题。",
+            "emotion": "自豪和喜悦",
+            "behavior": "与同学们积极互动，互相击掌庆祝，表现出兴奋和满足",
+            "physiological_response": "心跳加速，脸上露出笑容，身体感觉轻松愉快",
+            "created_at": "2003-04-08 11:30:00"
+        }
+    },
+    "node_42": {
+        "page_content": "2003年4月7日晚上，在我家中的客厅，我们团队进行了一次最后的模拟演练。客厅的灯光有些昏黄，但每个人都专心致志。我注意到一位同学在关键问题上的理解有误，便停下演练，耐心地为他讲解。随着问题一个个被解决，我的焦虑也逐渐减轻，取而代之的是一种充实感和满足感。大家脸上都露出了自信的笑容，我感到自己确实有能力面对和解决问题。",
+        "metadata": {
+            "node_id": "node_42",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我确实有能力面对和解决问题。",
+            "emotion": "充实感和满足感",
+            "behavior": "继续耐心地帮助同学解决问题",
+            "physiological_response": "心情放松，呼吸平稳",
+            "created_at": "2003-04-07 20:45:00"
+        }
+    },
+    "node_41": {
+        "page_content": "2003年3月25日下午，在学校的教室里，班主任宣布了学术竞赛前的特别复习会。他看着我们，语气坚定地说：“大家要集中精力，全力以赴。”然后，他指着我说道：“周全岩，你负责协调大家的复习进程和任务分配。”我当时心跳加速，感到肩上的责任重大。教室里静得只听见翻书的声音，我的内心却波涛汹涌，既担心无法达成完美标准，又因为被信任而感到一丝欣慰。",
+        "metadata": {
+            "node_id": "node_41",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地协调复习和任务分配，我就会被视为无能和失败。",
+            "emotion": "焦虑和压力",
+            "behavior": "开始计划和安排每个人的复习任务，力求做到完美。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "2003-03-25 15:30:00"
+        }
+    },
+    "node_40": {
+        "page_content": "2002年5月21日晚上，晚饭后，我坐在餐桌旁情绪低落。母亲走过来，轻声问我是否遇到了什么困难。我终于忍不住，把自己在实验课上的失误和对家庭经济压力的担忧全都说了出来。母亲安慰我，说每个人都会有失误，但她也强调了家庭对我学业的期望。我感到一些缓解，但责任感和压力依然没有消散。",
+        "metadata": {
+            "node_id": "node_40",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我在实验课上的失误让老师和同学失望了，我没有达到完美的标准。",
+            "emotion": "自责和焦虑",
+            "behavior": "反复回想实验课上的失误，难以集中注意力学习。",
+            "physiological_response": "胃部不适，头痛，睡眠质量下降。",
+            "created_at": "2002-05-21 18:15:00"
+        }
+    },
+    "node_39": {
+        "page_content": "2002年5月20日下午，我在化学实验课上，因心情沉重，导致实验失败。实验助手刘明注意到我的状况，走过来关切地问我是否需要帮助。我感到一阵沮丧和焦虑，心想如果我不能在学业上表现完美，父母会失望。",
+        "metadata": {
+            "node_id": "node_39",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能在学业上表现完美，父母会失望。",
+            "emotion": "沮丧和焦虑",
+            "behavior": "表现出回避和自责的行为，不愿与他人交流。",
+            "physiological_response": "感到胃部不适，心跳加快，手心冒汗。",
+            "created_at": "2002-05-20 14:45:00"
+        }
+    },
+    "node_38": {
+        "page_content": "2002年5月15日晚上，我在房间里做作业，耳边传来父母在客厅里的低声谈话。父亲说家里的经济压力很大，尤其是为了我将来上大学需要省钱。我的心一下子沉了下来，感到无形的压力和责任。父母为了我的未来如此操心，我必须更加努力，不能让他们失望。",
+        "metadata": {
+            "node_id": "node_38",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "父母为了我承担了如此大的经济压力，我不能让他们失望，必须更加努力。",
+            "emotion": "压力和担忧",
+            "behavior": "加快完成作业的速度并努力做到完美，甚至熬夜学习。",
+            "physiological_response": "肩颈僵硬，头痛，胃部不适。",
+            "created_at": "2002-05-15 19:30:00"
+        }
+    },
+    "node_37": {
+        "page_content": "为了弥补白天的失误，我决定当晚独自留在实验室进行补救工作。夜晚的实验室空无一人，只有我一个人和实验器材。我一遍遍地重复实验步骤，手心因为紧张而出汗，但我不敢有任何松懈。经过几个小时的努力，我终于成功完成了实验。当看到最终的实验结果时，我心中松了一口气，感到一丝欣慰。但同时，我也意识到自己必须更加勤奋和努力，不能再犯类似的错误。这次经历让我更加坚定了追求完美的信念，内心的压力也随之增加。",
+        "metadata": {
+            "node_id": "node_37",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不更加勤奋和努力，我会再次犯错，证明我不完美。",
+            "emotion": "焦虑和压力增加",
+            "behavior": "更加勤奋地工作，避免任何松懈",
+            "physiological_response": "手心出汗，心跳加速，紧张感增强",
+            "created_at": "2002-03-15 19:00:00"
+        }
+    },
+    "node_36": {
+        "page_content": "实验失败后，我的化学老师把我叫到实验室的角落。他看着我，眼神中充满了严肃和期望。他语重心长地对我说：‘周全岩，实验室里需要精确和细心，不能有任何差错。’我低着头，感觉脸颊发烫，内心充满了羞愧和自责。老师的批评让我更加意识到自己的失误，心中暗自发誓要更加努力，不再犯类似的错误。",
+        "metadata": {
+            "node_id": "node_36",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我怎么能犯这样的错误？老师会认为我无能和失败。",
+            "emotion": "羞愧和自责",
+            "behavior": "更加努力地投入到实验和学习中，避免再次犯错。",
+            "physiological_response": "脸颊发烫，心跳加快，胃部有紧张感。",
+            "created_at": "2002-03-15 16:45:00"
+        }
+    },
+    "node_35": {
+        "page_content": "2002年3月15日下午，在学校的化学实验室里，我和团队正在进行最后一次实验。实验室里充满了紧张的气氛，大家都在忙碌地准备。由于过度紧张和疲惫，我手一抖，不小心把一个试剂瓶打翻了，液体迅速蔓延开来，整个实验失败了。我站在那里，心跳加速，感觉无比自责和焦虑。队友们的失望表情让我感到更加沉重。",
+        "metadata": {
+            "node_id": "node_35",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我怎么能这么不小心？我完全失败了，同学们肯定对我很失望。",
+            "emotion": "强烈的自责和焦虑",
+            "behavior": "站在原地不知所措，无法继续实验，甚至可能避免与队友眼神接触。",
+            "physiological_response": "心跳加速，双手颤抖，额头冒汗。",
+            "created_at": "2002-03-15 16:30:00"
+        }
+    },
+    "node_34": {
+        "page_content": "2001年12月5日下午，化学老师在学校的化学实验室单独找我谈话。老师鼓励我参加即将到来的市级化学竞赛，并表示会全力支持我。这让我感到被认可和支持，同时也感受到更大的压力，因为我不想辜负老师的期望，必须在竞赛中表现出色。",
+        "metadata": {
+            "node_id": "node_34",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_5",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我在竞赛中表现不完美，老师会失望，我会被视为无能和失败。",
+            "emotion": "焦虑和压力",
+            "behavior": "投入更多时间和精力准备竞赛，减少其他活动时间，甚至减少睡眠时间。",
+            "physiological_response": "头痛，胃部不适，心跳加快，出汗增加。",
+            "created_at": "2001-12-05 16:00:00"
+        }
+    },
+    "node_33": {
+        "page_content": "2001年11月22日上午，班主任在班会上表扬了我的成绩，并用我作为榜样激励其他同学。教室里所有同学都在注视着我，我感到自豪和开心，但这也让我感受到更多的责任感和压力。我知道，如果不能继续保持这种状态，我会失去老师和同学的信任。",
+        "metadata": {
+            "node_id": "node_33",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_4",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能继续保持这种状态，我会失去老师和同学的信任。",
+            "emotion": "焦虑和压力",
+            "behavior": "更加努力学习，尽量保持完美的成绩。",
+            "physiological_response": "肩颈部紧张，胃部不适，可能出现头痛。",
+            "created_at": "2001-11-22 08:30:00"
+        }
+    },
+    "node_32": {
+        "page_content": "2001年11月20日晚上，我回到家告诉父母自己考了全班第一的好消息。父亲拍了拍我的肩膀，说‘全岩，干得好！继续保持！’母亲也露出了骄傲的笑容。这一刻，我感受到父母对我成绩的认可和期望，但也感到未来必须继续保持优秀成绩的压力在增大。",
+        "metadata": {
+            "node_id": "node_32",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须继续保持第一，否则他们会失望。",
+            "emotion": "压力和焦虑",
+            "behavior": "更加努力学习，减少休息时间。",
+            "physiological_response": "心跳加快，胃部不适，头痛。",
+            "created_at": "2001-11-20 18:45:00"
+        }
+    },
+    "node_31": {
+        "page_content": "2001年11月10日下午，我在学校教室里等待期中考试成绩公布。教室里一片安静，但我内心却波涛汹涌。我怀疑自己的表现是否足够好，是否能够达到父母和老师的期望。每一秒钟的等待都让我感到无比焦虑和不安。",
+        "metadata": {
+            "node_id": "node_31",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我的成绩不够好，我就是失败的，我会让父母和老师失望。",
+            "emotion": "极度焦虑和不安",
+            "behavior": "不停地盯着老师的动作，无法集中注意力做其他事情。",
+            "physiological_response": "心跳加速，手心出汗，胃部不适。",
+            "created_at": "2001-11-10 15:30:00"
+        }
+    },
+    "node_30": {
+        "page_content": "2001年9月15日清晨，我在家里书房里开始了一天的学习。母亲为我准备了营养丰富的早餐，父亲晚上会陪我复习。尽管父母的支持让我感到温暖，但高强度的学习和巨大的期望让我感受到无比的压力。我知道自己必须完美，否则会辜负他们的期望。",
+        "metadata": {
+            "node_id": "node_30",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成学业，我会辜负父母的期望，他们会失望。",
+            "emotion": "焦虑和压力",
+            "behavior": "更加努力学习，避免任何分心",
+            "physiological_response": "肩颈肌肉紧张，头痛",
+            "created_at": "2001-09-15 06:00:00"
+        }
+    },
+    "node_29": {
+        "page_content": "1999年10月20日下午，我回到家里，心里还想着同学被批评的情景。我决定不能让自己陷入那样的境地，于是迅速进入书房，打开课本开始复习。在书桌前，我一遍又一遍地看着笔记，心里不断自我鞭策：“我要更加努力，不能让父母和老师失望。”这种过度的自我要求和压力逐渐积累，对我的心理健康产生了负面影响。",
+        "metadata": {
+            "node_id": "node_29",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我要更加努力，不能让父母和老师失望。",
+            "emotion": "焦虑和压力",
+            "behavior": "长时间不间断地复习，不允许自己休息。",
+            "physiological_response": "心跳加速，头痛和疲劳感增加。",
+            "created_at": "1999-10-20 17:00:00"
+        }
+    },
+    "node_28": {
+        "page_content": "1999年10月20日上午，班级的气氛有些紧张，大家都在等待成绩公布。老师走进教室，将成绩单贴在黑板上。我松了一口气，因为我的成绩不错。但就在这时，老师指着一位成绩不理想的同学，当众批评他：“你怎么考得这么差？！”看到同学低头不语的样子，我感到非常难过和同情，同时也更加害怕自己会遭遇同样的情况。我的焦虑感进一步加剧。",
+        "metadata": {
+            "node_id": "node_28",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成任务，我也会被当众批评，父母和老师会对我失望。",
+            "emotion": "焦虑和害怕",
+            "behavior": "更加努力学习，避免任何可能导致失败的行为。",
+            "physiological_response": "心跳加速，手心出汗，胃部不适。",
+            "created_at": "1999-10-20 09:15:00"
+        }
+    },
+    "node_27": {
+        "page_content": "1999年10月10日晚上，家里的客厅里弥漫着紧张的气氛。父母坐在沙发上，严肃地看着我。父亲语气坚定地说道：“周全岩，这次期中考试对你很重要，我们希望你能考出好成绩。”母亲补充道：“如果你表现不佳，我们会非常失望。”我坐在对面的椅子上，心里感到巨大的压力和焦虑，担心自己无法达到他们的期望。",
+        "metadata": {
+            "node_id": "node_27",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成期中考试成绩，父母会对我失望，我就是失败的。",
+            "emotion": "巨大的压力和焦虑",
+            "behavior": "加倍努力学习，减少娱乐和休息时间。",
+            "physiological_response": "心跳加快，呼吸急促，胃部不适。",
+            "created_at": "1999-10-10 19:30:00"
+        }
+    },
+    "node_26": {
+        "page_content": "1999年5月25日下午2点，学校礼堂里挤满了观众，舞台上挂满了彩带和奖杯。我站在台上，听到主持人宣布我获得全国一等奖。灯光照在我身上，我看到台下父母激动的表情，老师欣慰的微笑，以及同学们的欢呼声。我的心中充满了骄傲和幸福，这一刻我感受到自己的努力得到了认可，也更坚定了自己要在学业上表现优秀的信念。",
+        "metadata": {
+            "node_id": "node_26",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须继续保持完美，不能让大家失望。",
+            "emotion": "骄傲和焦虑并存",
+            "behavior": "更加努力地学习和参与课外活动以保持优秀的成绩。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "1999-05-25 14:00:00"
+        }
+    },
+    "node_25": {
+        "page_content": "1999年5月20日早上9点，我在竞赛场地准备参赛。父母为我准备了一顿丰盛的早餐，鼓励我放松心情。竞赛场地布置得很专业，台上摆放着各类实验设备和评委席。我感到非常紧张，但在父母的鼓励下，我开始了自己的实验。比赛过程中，我成功完成了所有实验步骤，并准确回答了评委的问题。虽然紧张，但我感到自己很有成就感。",
+        "metadata": {
+            "node_id": "node_25",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我在比赛中表现不够完美，父母会失望。",
+            "emotion": "紧张和焦虑",
+            "behavior": "更加专注于每一个实验步骤，尽量做到完美无缺。",
+            "physiological_response": "手心出汗，心跳加速。",
+            "created_at": "1999-05-20 09:00:00"
+        }
+    },
+    "node_24": {
+        "page_content": "1999年1月15日下午4点半，我在学校实验室里忙碌地进行科学实验。实验室里充满了化学药剂和仪器的气味，桌上堆满了各种实验材料。每天放学后，我都在这里待到很晚，父母知道我在为竞赛做准备，总是为我准备好晚餐，支持我完成实验。我感到压力很大，但朋友们时不时的鼓励让我坚持了下来。",
+        "metadata": {
+            "node_id": "node_24",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成这个实验，我就是失败的。",
+            "emotion": "紧张和压力大",
+            "behavior": "更加专注和小心地进行实验，避免任何错误。",
+            "physiological_response": "心跳加快，手心出汗。",
+            "created_at": "1999-01-15 16:30:00"
+        }
+    },
+    "node_23": {
+        "page_content": "1998年8月15日晚上，父亲休息了一会儿后，坐在客厅的沙发上开始和我谈心。他告诉我他年轻时的梦想和现状，并鼓励我坚持自己的梦想。父亲的鼓励让我感到温暖，仿佛注入了一股力量，但也让我意识到实现梦想需要付出极大的努力。这次谈话让我认识到，尽管实现梦想很困难，但只要努力就有可能成功。这也让我更坚定了要在学业上取得成功的决心。",
+        "metadata": {
+            "node_id": "node_23",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地实现梦想，我会让父亲失望。",
+            "emotion": "焦虑和压力",
+            "behavior": "更加努力学习，专注于学业",
+            "physiological_response": "心跳加速，感觉紧张",
+            "created_at": "1998-08-15 20:00:00"
+        }
+    },
+    "node_22": {
+        "page_content": "1998年8月15日晚上，母亲把一碗热腾腾的汤端到餐桌上，父亲感激地笑了笑，捧起汤碗开始喝。我站在一旁，静静地看着。父亲一边喝汤，一边向母亲述说工厂里的辛苦工作。母亲安慰着父亲，同时转过头对我说：‘你要好好学习，不要辜负我们的期望。’母亲的话让我感到责任重大，同时也感到了深深的压力。我意识到要通过自己的努力来回报父母的辛苦。",
+        "metadata": {
+            "node_id": "node_22",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我必须好好学习，否则会辜负父母的期望。",
+            "emotion": "压力和责任感",
+            "behavior": "更加努力地学习，减少娱乐时间。",
+            "physiological_response": "肩膀紧绷，心跳加速。",
+            "created_at": "1998-08-15 19:35:00"
+        }
+    },
+    "node_21": {
+        "page_content": "1998年8月15日晚上，炎热的夏天让人喘不过气。我在客厅的桌子上做功课，母亲在厨房忙碌着准备晚餐。突然，门铃响了，我放下笔跑去开门。父亲站在门口，满脸的疲惫和汗水，他拖着沉重的步伐走进屋里。看着父亲疲惫的样子，我感到心疼和无力。这个场景让我更加坚定要努力学习，以后为家庭分担压力。",
+        "metadata": {
+            "node_id": "node_21",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我需要更加努力学习，将来才能为家庭分担压力。",
+            "emotion": "心疼和无力",
+            "behavior": "继续认真做功课，并且下定决心更加努力。",
+            "physiological_response": "心跳加速，感觉到肩膀的紧张感。",
+            "created_at": "1998-08-15 19:30:00"
+        }
+    },
+    "node_20": {
+        "page_content": "1998年5月10日中午，比赛结束后，我拖着沉重的步伐走向学校门口。阳光洒在地面上，父母站在树荫下等待我。我低着头，不敢看他们的眼睛。走到他们面前时，父亲轻轻拍了拍我的肩膀，母亲微笑着对我说：‘没关系，重要的是你已经尽力了。’这句话让我感到一丝宽慰，但内心仍有些难以释怀。我点了点头，心情稍微好了一些，但还是觉得自己让他们失望了。",
+        "metadata": {
+            "node_id": "node_20",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我没有完美地完成比赛，父母可能会因为我的表现而失望。",
+            "emotion": "内疚和失望",
+            "behavior": "低着头，不敢看父母的眼睛，表现出沉重的步伐。",
+            "physiological_response": "心情沉重，胸口有压迫感，呼吸变得浅而急促。",
+            "created_at": "1998-05-10 12:00:00"
+        }
+    },
+    "node_19": {
+        "page_content": "1998年5月10日上午11点，比赛开始了。我冲出起跑线，尽力奔跑，但不知怎么的，我突然感觉脚下一滑，整个人向前扑倒在地。红色跑道上尘土飞扬，我的膝盖和手肘都擦伤了。我未能完成比赛，感到非常沮丧和羞愧。爬起来时，我看到父母和老师在观众席上的表情，他们的失望几乎让我无法直视。我低着头，感觉脸颊发烫，心里充满了自责和懊恼。",
+        "metadata": {
+            "node_id": "node_19",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我没有完美地完成比赛，我是个失败者。父母和老师一定对我很失望。",
+            "emotion": "沮丧和羞愧",
+            "behavior": "低着头，避免与父母和老师的目光接触。",
+            "physiological_response": "脸颊发烫，心跳加速。",
+            "created_at": "1998-05-10 11:00:00"
+        }
+    },
+    "node_18": {
+        "page_content": "1998年5月10日上午，学校的运动会即将开始。我站在运动场的跑道旁，四周是嘈杂的人群和加油声，但我的心跳得飞快，仿佛要跳出胸膛。我感到非常紧张，因为我知道父母和老师都在期待我在跑步项目中有出色的表现。操场上铺着红色的跑道，两旁站满了其他同学和老师，我的父母也站在观众席上，目光紧紧盯着我。我深吸了一口气，尽力让自己冷静下来，但内心的压力和不安却怎么也无法驱散。",
+        "metadata": {
+            "node_id": "node_18",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能完美地完成比赛，父母和老师会对我失望。",
+            "emotion": "极度紧张和焦虑",
+            "behavior": "反复调整姿势，尝试深呼吸以缓解紧张。",
+            "physiological_response": "心跳加快，手心出汗，胃部不适。",
+            "created_at": "1998-05-10 10:30:00"
+        }
+    },
+    "node_17": {
+        "page_content": "1997年3月20日上午，我已经康复回到家中。母亲每天都细心照顾我，确保我按时吃药和休息。客厅里阳光洒在沙发和茶几上，我坐在沙发上，母亲端来一碗热汤，一边叮嘱我小心烫，一边看着我喝下。那段时间，我开始思考医生对患者的重要性，并坚定了将来从医的决心。",
+        "metadata": {
+            "node_id": "node_17",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "医生对患者的帮助和照顾是非常重要的，我也可以成为一个优秀的医生，帮助他人。",
+            "emotion": "坚定和充满希望",
+            "behavior": "更加努力学习医学知识，关注健康和护理方面的细节。",
+            "physiological_response": "心跳平稳，呼吸深长，感觉身体充满力量和动力。",
+            "created_at": "1997-03-20 09:00:00"
+        }
+    },
+    "node_16": {
+        "page_content": "1997年3月11日凌晨，医生检查完后对我们说：“我建议他住院观察一段时间。”我被安排在一间病房里，母亲一直陪在我身边。她握着我的手，轻声说：“别担心，一切都会好起来的。”我看着她疲惫的脸庞，心里感到无比的温暖和安全。",
+        "metadata": {
+            "node_id": "node_16",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我需要照顾好自己，不让母亲担心。",
+            "emotion": "心疼和责任感",
+            "behavior": "尽量表现得坚强，不让母亲看到自己的脆弱。",
+            "physiological_response": "紧张感减缓，心跳变得平稳。",
+            "created_at": "1997-03-11 00:30:00"
+        }
+    },
+    "node_15": {
+        "page_content": "1997年3月10日晚上，我在家里的卧室里感到非常疲惫，头痛发热。书桌上堆满了我正在复习的教科书和练习册。母亲走进来，看见我脸色不好，立刻叫了父亲过来。父亲摸了摸我的额头，眉头紧锁，然后说：“我们得马上带他去医院。”母亲一边安慰我，一边帮我穿好外套。那一刻，我心里既感到温暖，又感受到巨大的压力。",
+        "metadata": {
+            "node_id": "node_15",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我现在生病了，不能好好复习，考试肯定会考不好，父母会很失望。",
+            "emotion": "焦虑和内疚",
+            "behavior": "试图继续复习，即使身体不适。",
+            "physiological_response": "头痛加剧，身体更加疲惫，心跳加快。",
+            "created_at": "1997-03-10 19:45:00"
+        }
+    },
+    "node_14": {
+        "page_content": "1996年7月20日下午，在学校的教室里，老师在家长会上表扬了我的优秀表现，并提到我在班级中的进步。窗外阳光明媚，教室里挂满了学生的作品。回到家后，父母笑容满面地迎接我，母亲对我说：‘你是我们的骄傲，继续加油。’父亲也拍了拍我的肩膀，我感到无比自豪和被认可。",
+        "metadata": {
+            "node_id": "node_14",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我必须继续保持完美，不能让他们失望。",
+            "emotion": "自豪和压力并存",
+            "behavior": "更加努力地学习，时刻保持高标准。",
+            "physiological_response": "心跳加快，肩膀感觉有些紧张。",
+            "created_at": "1996-07-20 16:00:00"
+        }
+    },
+    "node_13": {
+        "page_content": "1996年7月13日傍晚，我在家里的餐桌旁吃晚饭。父母坐在对面，语气平静地讨论如何合理分配家庭预算。母亲提议减少一些日常开支，比如少买些零食和衣物，父亲则表示自己可以加班多赚些钱。我默默地吃着饭，心里感受到父母为了家庭的努力和责任感。",
+        "metadata": {
+            "node_id": "node_13",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "父母为了家庭做出很多牺牲，我需要更加努力分担家庭责任。",
+            "emotion": "愧疚和责任感",
+            "behavior": "吃完饭后主动帮父母做家务，制定学习计划以减轻他们的负担。",
+            "physiological_response": "胃部紧张，呼吸稍显急促。",
+            "created_at": "1996-07-13 18:30:00"
+        }
+    },
+    "node_12": {
+        "page_content": "1996年7月10日晚上，我正坐在书房里写作业，窗外的蝉鸣声和风扇的嗡嗡声交织在一起。忽然，客厅里传来了父母的争吵声，我不由得停下了笔。父亲的声音显得很疲惫，他抱怨工资太低，母亲则略带焦虑地说家里的开销越来越大。我听到他们讨论是否要让我放弃一些课外活动，心里顿时紧张起来，担心自己会成为家庭的负担。",
+        "metadata": {
+            "node_id": "node_12",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我是不是给家里带来了负担？如果我不能减轻家里的经济压力，我会被认为是不负责任的。",
+            "emotion": "焦虑和内疚",
+            "behavior": "停止了写作业，开始思考如何减轻家里的负担。",
+            "physiological_response": "心跳加快，胃部感到不适。",
+            "created_at": "1996-07-10 19:45:00"
+        }
+    },
+    "node_11": {
+        "page_content": "1995年10月30日上午10点45分，老师在教室里发回考试卷子。我看着卷子上那个刺眼的分数，心里顿时一沉。虽然教室里很安静，但我的心跳声却异常响亮。我偷偷瞄了瞄周围的同学，他们有的开心，有的失望。我害怕自己会像邻居家的孩子一样被责骂，心里充满了焦虑和紧张，手心也开始冒汗。",
+        "metadata": {
+            "node_id": "node_11",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "这次考试考得不好，我一定是个不够优秀的人，老师和父母会对我失望。",
+            "emotion": "焦虑、紧张、害怕",
+            "behavior": "偷偷瞄了瞄周围的同学，担心被责骂，感到不安。",
+            "physiological_response": "心跳加快，手心出汗，感觉心里一沉。",
+            "created_at": "1995-10-30 10:45:00"
+        }
+    },
+    "node_10": {
+        "page_content": "1995年10月25日下午4点，我回到家中，母亲正在厨房准备晚餐。见我进门，她放下手中的活儿，走到客厅问我今天在学校的表现。我脑海里立即浮现出邻居家孩子被责骂的场景，心里一紧，赶紧回答说一切都很好，成绩也不错。母亲听后露出了满意的微笑，但我内心却充满了紧张和不安。",
+        "metadata": {
+            "node_id": "node_10",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能表现得优秀，我就会让母亲失望。",
+            "emotion": "紧张和不安",
+            "behavior": "赶紧回答说一切都很好，成绩也不错。",
+            "physiological_response": "心跳加速，胃部紧张感。",
+            "created_at": "1995-10-25 16:00:00"
+        }
+    },
+    "node_9": {
+        "page_content": "1995年10月25日下午3点半，我和同学放学后一起走在回家的路上。路过邻居家时，忽然听到里面传来猛烈的责骂声。出于好奇，我们停下来，我悄悄探头看了一眼。只见邻居家的父亲正在怒气冲冲地责骂他的孩子，因为那个孩子成绩不佳。孩子低着头，眼里满是泪水，母亲站在一旁，神情严肃但无奈。看着这一幕，我心里既感到害怕又有种说不出的压抑感，那一刻我真正感受到了成绩不佳带来的严重后果。",
+        "metadata": {
+            "node_id": "node_9",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我成绩不好，我的父母也会像邻居一样对我失望和生气。",
+            "emotion": "害怕，压抑",
+            "behavior": "更加努力学习，避免成绩不佳。",
+            "physiological_response": "心跳加速，手心出汗。",
+            "created_at": "1995-10-25 15:30:00"
+        }
+    },
+    "node_8": {
+        "page_content": "1995年6月15日下午，我回到家中，父亲看到我的成绩单后，脸色立即变得铁青，站在客厅中央，声音低沉地责备我：“你这次为什么考得这么差？你根本没有尽到努力！”母亲坐在沙发上，试图安慰我，却也难掩失望的神情：“没关系，下次努力，但这次真的让我们很失望。”我感到非常内疚和失望，似乎让父母蒙羞。我心里暗下决心，必须更加努力，不能再让他们失望。",
+        "metadata": {
+            "node_id": "node_8",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我这次考试失利，父母很失望，我让他们蒙羞了。",
+            "emotion": "内疚和失望",
+            "behavior": "暗下决心，必须更加努力，不能再让他们失望。",
+            "physiological_response": "心情沉重，胃部不适，头脑发热。",
+            "created_at": "1995-06-15 17:45:00"
+        }
+    },
+    "node_7": {
+        "page_content": "1995年6月15日上午，我站在教室里，老师拿着我的成绩单，严厉地批评我：“你平时的学习态度太不端正了，这就是你这次考试失败的原因！”同学们的目光都集中在我身上，我感到脸颊发烫，羞愧得无地自容。心里想着，我辜负了老师和父母的期望，内心充满了自责和失望。",
+        "metadata": {
+            "node_id": "node_7",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我这次考试失败，辜负了老师和父母的期望，他们肯定对我很失望。",
+            "emotion": "内心充满了自责和失望",
+            "behavior": "低下头，不敢与老师和同学对视，心里想着如何在下次考试中表现得更好。",
+            "physiological_response": "脸颊发烫，心跳加快，胃部不适。",
+            "created_at": "1995-06-15 10:30:00"
+        }
+    },
+    "node_6": {
+        "page_content": "1995年6月12日晚上，我在家里的书桌前，桌上堆满了复习资料，父亲走进来，语重心长地对我说：“这次考试一定要考好。”我点点头，但心里却感到一阵无形的压力。考试当天，我走进学校的考场，安静的环境让我更加紧张。试卷发下来后，我发现很多题目都变得模糊不清，脑海中一片空白。最终，我的成绩不理想，内心充满了自责和失望。",
+        "metadata": {
+            "node_id": "node_6",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果这次考试考不好，我就是不够好的。",
+            "emotion": "极度焦虑和自责，感到失望",
+            "behavior": "在考试中由于紧张而无法集中注意力，导致答题效率低下。",
+            "physiological_response": "手心出汗，心跳加快，胃部不适。",
+            "created_at": "1995-06-12 19:00:00"
+        }
+    },
+    "node_5": {
+        "page_content": "1994年3月15日晚上6点半，家里的餐桌上摆满了我最喜欢的菜，香气扑鼻。父亲笑着对我说，‘今天特别为你做了这些菜，你是爸爸的骄傲。’母亲在一旁微笑着点头。我感到无比自豪和幸福，心里想着，只要我继续努力，一定能让父母一直为我感到骄傲。",
+        "metadata": {
+            "node_id": "node_5",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "只要我继续努力，一定能让父母一直为我感到骄傲。",
+            "emotion": "自豪和幸福",
+            "behavior": "更加努力学习和表现，以维持父母的骄傲和期望。",
+            "physiological_response": "心情愉悦，微笑，轻松的身体感觉。",
+            "created_at": "1994-03-15 18:30:00"
+        }
+    },
+    "node_4": {
+        "page_content": "1994年3月15日下午2点，教室里弥漫着紧张的气氛。比赛结束后，老师站在讲台上宣布了获奖名单。当我的名字被念到时，教室里响起了热烈的掌声。我走上讲台，接过奖状，老师对我说，‘周全岩，你做得非常好，继续保持！’那一刻，我感到无比自豪，幸福感充盈在心头。",
+        "metadata": {
+            "node_id": "node_4",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我的努力得到了认可，我是优秀的。",
+            "emotion": "自豪、幸福",
+            "behavior": "微笑并对老师和同学们表示感谢，决心继续努力保持优秀。",
+            "physiological_response": "心跳加快，脸上泛起微笑，身体感觉轻盈。",
+            "created_at": "1994-03-15 14:00:00"
+        }
+    },
+    "node_3": {
+        "page_content": "1994年3月10日下午5点半，我坐在家里的书桌前，书桌上堆满了数学练习题和参考书。父母一边忙着家务，一边不时地提醒我，‘一定要认真准备比赛，争取拿个好名次。’他们的期待让我感到压力，但我知道这是为了让我变得更好。于是，我更加努力地练习，每天晚饭后，甚至在课间休息时，我也不放过任何一个练习的机会。",
+        "metadata": {
+            "node_id": "node_3",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我不能在比赛中取得好成绩，我就是不够优秀的。",
+            "emotion": "焦虑和压力",
+            "behavior": "更加努力练习，甚至在课间休息时也不放过任何练习的机会。",
+            "physiological_response": "心跳加快，肩膀和背部紧张，胃部不适。",
+            "created_at": "1994-03-10 17:30:00"
+        }
+    },
+    "node_2": {
+        "page_content": "1992年5月20日晚上6点，表演结束后，我和妈妈一起回家。一路上，妈妈不断地夸奖我，说我表演得非常好。回到家里，妈妈为我做了我最喜欢的晚餐，厨房里飘着她做饭的香气。坐在餐桌前，我看着满满一桌的菜肴，感到无比幸福。妈妈的夸奖和她为我做的晚餐让我觉得自己是家里的骄傲，这一刻我感到非常满足和幸福。",
+        "metadata": {
+            "node_id": "node_2",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我表现得很优秀，妈妈对我很满意。",
+            "emotion": "满足和幸福",
+            "behavior": "与妈妈愉快交谈，并享受晚餐。",
+            "physiological_response": "心情愉快，微笑，感觉全身放松。",
+            "created_at": "1992-05-20 18:00:00"
+        }
+    },
+    "node_1": {
+        "page_content": "1992年5月20日下午2点30分，我和其他小朋友一起登上幼儿园的舞台。灯光照在我们身上，我感到手心冒汗，紧张地看了一眼台下的妈妈。她微笑着向我挥手，我顿时感到一丝安心。表演开始后，我尽全力去完成每一个动作，尽管心里有些紧张，但耳边传来的掌声和欢呼声让我感到无比的满足和喜悦。表演结束时，我看到妈妈站起来为我鼓掌，那一刻，我觉得自己真的很棒。",
+        "metadata": {
+            "node_id": "node_1",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "如果我表演不好，妈妈会失望的。",
+            "emotion": "紧张但同时感到被鼓励",
+            "behavior": "尽全力去完成动作",
+            "physiological_response": "手心冒汗，心跳加速",
+            "created_at": "1992-05-20 14:30:00"
+        }
+    },
+    "node_0": {
+        "page_content": "1992年5月15日上午10点，我和妈妈在家里挑选表演的服装。妈妈耐心地教我如何穿上那件华丽的服装，并一遍遍地告诉我表演时要表现得自信。在幼儿园的练习场地上，妈妈一直在旁边微笑着，看着我和其他小朋友一起排练。她的微笑和鼓励让我感到安心和温暖。我觉得妈妈对我的期望很高，这让我更加努力地练习，想要在表演时不辜负她的期望。",
+        "metadata": {
+            "node_id": "node_0",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "如果我在表演时不够自信，妈妈会失望的。",
+            "emotion": "紧张和焦虑",
+            "behavior": "更加努力地练习，尽力表现得自信。",
+            "physiological_response": "心跳加速，手心出汗。",
+            "created_at": "1992-05-15 10:00:00"
+        }
+    }
+}

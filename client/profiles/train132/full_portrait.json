@@ -1,0 +1,218 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "关心",
+            "勤奋",
+            "有责任心",
+            "有条理"
+        ],
+        "appearance": [
+            "中等身材",
+            "黑色长发",
+            "温和的面容",
+            "穿着得体",
+            "眼神坚定"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "烹饪",
+                "园艺",
+                "瑜伽"
+            ],
+            "activity": [
+                "和家人一起做饭",
+                "周末去公园散步",
+                "参加烹饪班",
+                "在家里种植花草"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "在工作中获得晋升，改善家庭生活质量",
+            "long_term_goals": "建立一个温馨和谐的家庭，拥有自己的小花园"
+        },
+        "daily_life": {
+            "routine": "每天早上6点起床，做早餐，送孩子上学，然后去上班。下班后回家做晚饭，和家人共度晚餐，晚上会花时间阅读或做瑜伽。",
+            "weekends": "周末通常会和家人一起去公园散步，或者在家里做一些园艺活动，有时也会参加烹饪班，学习新的菜谱。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母都很关心她的成长，童年时光大多在家乡的小镇度过。",
+            "adolescence": "中学时期成绩优异，积极参加学校的各种活动，尤其喜欢阅读和写作。",
+            "youth": "大学期间选择了自己喜欢的专业，结识了一群志同道合的朋友，毕业后顺利找到了一份稳定的工作。",
+            "recent_events": "最近因为工作和生活中的琐事感到压力较大，但依然保持积极的心态，努力平衡工作和家庭生活。"
+        },
+        "environment": "出生在江苏省南京市，在这里上了小学和中学，大学在北京读书，毕业后回到南京工作和生活。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "尤冰娜的父母非常关心她的成长，给予了她很多支持和爱。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "尤冰娜在童年时有几个亲密的朋友，他们经常一起玩耍和学习。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "尤冰娜的父母在她中学时期依然给予了她很多支持，尤其是在学业上。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "尤冰娜在中学时期结识了一些新朋友，他们一起参加学校的各种活动。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        4
+                    ],
+                    "description": [
+                        "尤冰娜的老师对她的学业和个人发展给予了很多指导和帮助。"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "尤冰娜在大学期间依然与父母保持紧密联系，父母对她的支持从未减少。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 7,
+                    "familiarity": [
+                        4,
+                        4,
+                        4,
+                        3,
+                        3,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "尤冰娜在大学期间结识了一群志同道合的朋友，他们一起学习、讨论和分享生活。"
+                    ]
+                },
+                {
+                    "relationship": "导师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "尤冰娜的大学导师对她的学术研究和职业规划给予了很多帮助。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "尤冰娜的丈夫是她生活中的重要支柱，他们一起面对生活中的各种挑战。"
+                    ]
+                },
+                {
+                    "relationship": "孩子",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "尤冰娜的孩子是她生活的重心，她非常关心孩子的成长和教育。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "尤冰娜在工作中与同事们保持良好的关系，他们一起合作完成各种任务。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "尤冰娜依然与一些大学时期的朋友保持联系，他们偶尔会聚会和交流。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "尤冰娜在不同阶段的社会关系中，逐渐从依赖父母的支持转向建立自己的社交网络。她在童年和青少年时期主要依赖父母和朋友的支持，而在大学和工作后，她逐渐建立了自己的职业和家庭生活。尽管最近因为工作和生活的压力感到有些吃力，但她依然保持积极的心态，并努力平衡各方面的关系。她的社交能力和意愿在不同阶段都有所变化，但总体上她是一个善于维持和发展社会关系的人。"
+    }
+}

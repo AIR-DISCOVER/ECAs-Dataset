@@ -1,0 +1,166 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "自卑",
+            "勤奋",
+            "有责任感"
+        ],
+        "appearance": [
+            "中等身高",
+            "稍微有些胖",
+            "皮肤白皙",
+            "长发",
+            "戴眼镜"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "绘画",
+                "听音乐",
+                "看电影"
+            ],
+            "activity": [
+                "周末去图书馆",
+                "和朋友一起看电影",
+                "在家里画画"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "通过即将到来的考试",
+            "long_term_goals": "成为一名优秀的设计师"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到学校上课，下午4点放学后在图书馆自习，晚上10点回到宿舍。",
+            "weekends": "周末通常在家里休息，偶尔会和朋友出去看电影或逛街。"
+        },
+        "past_experiences": {
+            "childhood": "小时候在一个小城市长大，父母对她的期望很高，从小就被要求成绩优秀。",
+            "adolescence": "中学时期成绩一直很好，但因为一次考试失利，开始对自己产生怀疑。",
+            "recent_events": "最近因为学习压力大，导致情绪低落，记忆力下降，暴饮暴食。"
+        },
+        "environment": "出生在一个小城市，家庭环境较为严格，父母对她的期望很高。现在在一所大学就读，住在学校宿舍。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "父亲是一个严厉但关心她的人，总是希望她能取得好成绩。虽然父亲的期望给她带来了压力，但她也知道父亲是为了她好。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲相对温和，总是试图在父亲和她之间调和。母亲是她情感上的支柱，虽然有时也会对她的成绩有高要求，但更多的是关心她的心理健康。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "小时候有两个好朋友，一个是邻居家的小孩，另一个是小学同学。她们经常一起玩耍，但随着时间的推移，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "中学时期，父亲的期望变得更加严格，导致她与父亲的关系有些紧张。她开始对自己产生怀疑，觉得自己无法达到父亲的期望。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "母亲依然是她的情感支柱，但由于学习压力大，她们之间的交流也变得少了。母亲总是试图安慰她，但有时也显得无力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "中学时期，她结交了几个新朋友，但因为学习压力大，她们之间的互动也有限。她有一个特别好的朋友，总是鼓励她，但她自己却觉得无法回报这种友谊。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "最近，她与父亲的关系更加疏远了。父亲依然对她的成绩有很高的期望，但她觉得自己无法达到这些期望，导致她对父亲有些抵触。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "母亲依然关心她，但由于她在大学，母亲的关心更多是通过电话和信息。她觉得母亲的关心有时显得无力，因为她无法真正理解她的压力。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        4
+                    ],
+                    "description": [
+                        "在大学里，她有两个比较好的朋友。一个是室友，另一个是同班同学。她们经常一起学习和看电影，但她觉得自己越来越难以融入她们的生活。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "花琳馨在不同阶段的社交关系发生了显著变化。童年时期，她与父母和朋友的关系较为亲密，但随着时间的推移，尤其是进入中学和大学后，学习压力和自我怀疑使她的社交能力和意愿逐渐减弱。她与父亲的关系变得紧张，与母亲的交流减少，朋友之间的互动也变得有限。最近，她在大学里结交了一些新朋友，但她觉得自己越来越难以融入她们的生活，导致她的社交圈子变得更加狭窄。"
+    }
+}

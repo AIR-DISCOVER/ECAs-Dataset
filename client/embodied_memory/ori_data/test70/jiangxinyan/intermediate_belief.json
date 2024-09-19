@@ -1,0 +1,578 @@
+{
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被尊重和关心。",
+                "others": "他人会尊重和关心我。",
+                "world": "这个世界是尊重和关心他人的。"
+            },
+            "rules": "我应该尊重和关心自己，也应该接受他人的尊重和关心。",
+            "positive_assumption": "如果我尊重和关心自己，我会感到更自信和满足。",
+            "negative_assumption": "如果我不尊重和关心自己，我会感到自卑和不满。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我有权利被爱和关心。",
+                "others": "他人是可以给予我爱和关心的。",
+                "world": "世界是有爱的地方，我值得被爱。"
+            },
+            "rules": "我应该允许自己接受他人的爱和关心。",
+            "positive_assumption": "如果我接受爱和关心，我会感到更幸福和满足。",
+            "negative_assumption": "如果我拒绝爱和关心，我会感到孤独和痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我的能力可以帮助我实现目标。",
+                "others": "他人可能会怀疑我的能力，但我会证明他们是错的。",
+                "world": "这个世界充满了实现自我价值的机会。"
+            },
+            "rules": "我必须利用我的能力去实现我的目标。",
+            "positive_assumption": "如果我利用我的能力，我会成功。",
+            "negative_assumption": "如果我不利用我的能力，我会浪费机会。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决问题，并面对生活中的挑战。",
+                "others": "他人可以给予我帮助，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该承担更多责任，这样才能证明自己的价值。",
+                "others": "他人对我有很高的期望。",
+                "world": "在这个世界上，责任是衡量一个人价值的标准。"
+            },
+            "rules": "我必须承担更多责任。",
+            "positive_assumption": "如果我承担更多责任，我就能证明自己的价值。",
+            "negative_assumption": "如果我不承担责任，我就会被认为没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不为他人负责，我就会让他们失望。",
+                "others": "他人需要我的帮助和支持。",
+                "world": "这个世界需要互相帮助。"
+            },
+            "rules": "我应该优先考虑他人的需求。",
+            "positive_assumption": "如果我为他人负责，我会得到他们的认可。",
+            "negative_assumption": "如果我不为他人负责，我会让他们失望，甚至失去他们的信任。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断努力，才能证明自己。",
+                "others": "他人只会尊重那些表现卓越的人。",
+                "world": "这个世界只有强者才能生存。"
+            },
+            "rules": "我必须一直努力，不允许自己懈怠。",
+            "positive_assumption": "如果我一直努力，我就会被尊重。",
+            "negative_assumption": "如果我懈怠，我就会被看不起。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我失败了，那就证明我不够好。",
+                "others": "他人会批评我，证明我不够好。",
+                "world": "世界对失败者是无情的。"
+            },
+            "rules": "我必须避免失败。",
+            "positive_assumption": "如果我避免失败，我就能避免被批评。",
+            "negative_assumption": "如果我失败了，我就会被批评，证明我不够好。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被尊重和关心。",
+                "others": "同学和导师会尊重和关心我。",
+                "world": "这个学术圈是尊重和关心他人的。"
+            },
+            "rules": "我应该尊重和关心自己，也应该接受同学和导师的尊重和关心。",
+            "positive_assumption": "如果我尊重和关心自己，我会感到更自信和满足。",
+            "negative_assumption": "如果我不尊重和关心自己，我会感到自卑和不满。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我有权利被爱和关心。",
+                "others": "同学和导师是可以给予我爱和关心的。",
+                "world": "学术界是有爱的地方，我值得被爱。"
+            },
+            "rules": "我应该允许自己接受同学和导师的爱和关心。",
+            "positive_assumption": "如果我接受爱和关心，我会感到更幸福和满足。",
+            "negative_assumption": "如果我拒绝爱和关心，我会感到孤独和痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我的学术能力可以帮助我实现目标。",
+                "others": "同学和导师可能会怀疑我的学术能力，但我会证明他们是错的。",
+                "world": "这个学术界充满了实现自我价值的机会。"
+            },
+            "rules": "我必须利用我的学术能力去实现我的目标。",
+            "positive_assumption": "如果我利用我的学术能力，我会成功。",
+            "negative_assumption": "如果我不利用我的学术能力，我会浪费机会。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决学术问题，并面对学术挑战。",
+                "others": "导师和同学可以给予我帮助，但我有信心自己处理大部分学术问题。",
+                "world": "学术界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到学术挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对学术挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避学术挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该承担更多的课外活动责任，这样才能证明自己的价值。",
+                "others": "同学和导师对我有很高的期望。",
+                "world": "在学术圈里，责任是衡量一个人价值的标准。"
+            },
+            "rules": "我必须承担更多课外活动的责任。",
+            "positive_assumption": "如果我承担更多责任，我就能证明自己的价值。",
+            "negative_assumption": "如果我不承担责任，我就会被认为没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不帮助同学，我就会让他们失望。",
+                "others": "同学需要我的帮助和支持。",
+                "world": "这个学术圈需要互相帮助。"
+            },
+            "rules": "我应该优先考虑同学的需求。",
+            "positive_assumption": "如果我帮助同学，我会得到他们的认可。",
+            "negative_assumption": "如果我不帮助同学，我会让他们失望，甚至失去他们的信任。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断努力在学术上取得好成绩，才能证明自己。",
+                "others": "导师和同学只会尊重那些学术卓越的人。",
+                "world": "这个学术界只有强者才能生存。"
+            },
+            "rules": "我必须一直努力学习，不允许自己懈怠。",
+            "positive_assumption": "如果我一直努力学习，我就会被尊重。",
+            "negative_assumption": "如果我懈怠，我就会被看不起。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我在学术上失败，那就证明我不够好。",
+                "others": "同学和导师会批评我，证明我不够好。",
+                "world": "学术界对失败者是无情的。"
+            },
+            "rules": "我必须在学术上避免失败。",
+            "positive_assumption": "如果我在学术上避免失败，我就能避免被批评。",
+            "negative_assumption": "如果我在学术上失败，我就会被批评，证明我不够好。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被尊重和关心。",
+                "others": "父母和老师会尊重和关心我。",
+                "world": "这个世界是尊重和关心他人的。"
+            },
+            "rules": "我应该尊重和关心自己，也应该接受父母和老师的尊重和关心。",
+            "positive_assumption": "如果我尊重和关心自己，我会感到更自信和满足。",
+            "negative_assumption": "如果我不尊重和关心自己，我会感到自卑和不满。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我有权利被爱和关心。",
+                "others": "父母和老师是可以给予我爱和关心的。",
+                "world": "世界是有爱的地方，我值得被爱。"
+            },
+            "rules": "我应该允许自己接受父母和老师的爱和关心。",
+            "positive_assumption": "如果我接受爱和关心，我会感到更幸福和满足。",
+            "negative_assumption": "如果我拒绝爱和关心，我会感到孤独和痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我的能力可以让我在学业和生活中取得成功。",
+                "others": "同学和老师可能会怀疑我的能力，但我会证明他们是错的。",
+                "world": "这个世界充满了实现自我价值的机会。"
+            },
+            "rules": "我必须利用我的能力去实现我的目标。",
+            "positive_assumption": "如果我利用我的能力，我会在学业上获得成功。",
+            "negative_assumption": "如果我不利用我的能力，我会浪费机会。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决学业上的问题，并面对生活中的挑战。",
+                "others": "老师和父母可以给予我帮助，但我有信心自己处理大部分事情。",
+                "world": "世界充满机会和挑战，而我有能力应对。"
+            },
+            "rules": "当遇到挑战时，我应该主动应对并采取行动。",
+            "positive_assumption": "如果我面对挑战，我会变得更强大，并获得新的经验。",
+            "negative_assumption": "如果我回避挑战，我会失去成长和发展的机会。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该承担更多责任，这样才能证明自己的价值。",
+                "others": "父母和老师对我有很高的期望。",
+                "world": "在这个世界上，责任是衡量一个人价值的标准。"
+            },
+            "rules": "我必须承担更多责任。",
+            "positive_assumption": "如果我承担更多责任，我就能证明自己的价值。",
+            "negative_assumption": "如果我不承担责任，我就会被认为没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不帮助同学，我就会让他们失望。",
+                "others": "同学们需要我的帮助和支持。",
+                "world": "这个世界需要互相帮助。"
+            },
+            "rules": "我应该优先考虑同学们的需求。",
+            "positive_assumption": "如果我帮助同学，我会得到他们的认可。",
+            "negative_assumption": "如果我不帮助同学，我会让他们失望，甚至失去他们的友谊。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断努力，才能证明自己。",
+                "others": "同学和老师只会尊重那些成绩优秀的人。",
+                "world": "这个世界只有强者才能生存。"
+            },
+            "rules": "我必须一直努力，不允许自己懈怠。",
+            "positive_assumption": "如果我一直努力，我就会被尊重。",
+            "negative_assumption": "如果我懈怠，我就会被看不起。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我考试不及格，那就证明我不够好。",
+                "others": "同学们会嘲笑我，证明我不够好。",
+                "world": "世界对成绩差的人是无情的。"
+            },
+            "rules": "我必须避免考试失败。",
+            "positive_assumption": "如果我避免考试失败，我就能避免被嘲笑。",
+            "negative_assumption": "如果我考试失败，我就会被嘲笑，证明我不够好。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被尊重和关心。",
+                "others": "父母会尊重和关心我。",
+                "world": "这个世界是尊重和关心人的。"
+            },
+            "rules": "我应该尊重和关心自己，也应该接受父母的尊重和关心。",
+            "positive_assumption": "如果我尊重和关心自己，我会感到更自信。",
+            "negative_assumption": "如果我不尊重和关心自己，我会感到自卑。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我有权利被父母爱和关心。",
+                "others": "父母是关心我的。",
+                "world": "世界是有爱的地方，我值得被爱。"
+            },
+            "rules": "我应该允许自己接受父母的爱和关心。",
+            "positive_assumption": "如果我接受父母的爱和关心，我会感到更幸福。",
+            "negative_assumption": "如果我拒绝父母的爱和关心，我会感到孤独。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我的能力可以帮助我在学校表现优异。",
+                "others": "同学可能会怀疑我的能力，但我会证明他们是错的。",
+                "world": "这个世界充满了实现自我价值的机会。"
+            },
+            "rules": "我必须利用我的能力去在学校表现优异。",
+            "positive_assumption": "如果我利用我的能力，我会取得好成绩。",
+            "negative_assumption": "如果我不利用我的能力，我会浪费机会。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决学习中的问题。",
+                "others": "父母和老师可以给予我帮助，但我有信心自己解决。",
+                "world": "世界充满挑战，而我有能力应对。"
+            },
+            "rules": "当遇到学习挑战时，我应该主动应对。",
+            "positive_assumption": "如果我面对学习挑战，我会变得更强大。",
+            "negative_assumption": "如果我回避学习挑战，我会失去成长的机会。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该多承担家务，这样才能证明自己的价值。",
+                "others": "父母对我有很高的期望。",
+                "world": "在这个世界上，责任是衡量一个人价值的标准。"
+            },
+            "rules": "我必须承担更多家庭责任。",
+            "positive_assumption": "如果我承担更多家务，父母会满意。",
+            "negative_assumption": "如果我不承担家务，父母会认为我懒惰。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我不听父母的话，我就会让他们失望。",
+                "others": "父母需要我听话和努力。",
+                "world": "这个世界需要遵循长辈的期望。"
+            },
+            "rules": "我应该优先考虑父母的期望。",
+            "positive_assumption": "如果我听从父母的期望，他们会认可我。",
+            "negative_assumption": "如果我不听从父母的期望，他们会失望，甚至责备我。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须努力学习，才能证明自己。",
+                "others": "只有努力学习的人才会被尊重。",
+                "world": "这个世界只有努力的人才能成功。"
+            },
+            "rules": "我必须一直努力学习。",
+            "positive_assumption": "如果我一直努力学习，我会被尊重。",
+            "negative_assumption": "如果我懈怠，父母和老师会看不起我。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我成绩不好，那就证明我不够好。",
+                "others": "父母会失望，证明我不够好。",
+                "world": "世界只认可优秀的人。"
+            },
+            "rules": "我必须表现优异。",
+            "positive_assumption": "如果我成绩优异，父母会满意。",
+            "negative_assumption": "如果我成绩不好，父母会失望，证明我不够好。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

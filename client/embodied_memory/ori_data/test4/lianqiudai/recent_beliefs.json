@@ -1,0 +1,78 @@
+{
+    "core_beliefs": [
+        {
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "belief": "我不值得被爱。"
+        },
+        {
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "belief": "我是无能的。"
+        },
+        {
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "belief": "我必须完美才能被认可。"
+        },
+        {
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "belief": "我有能力帮助别人。"
+        }
+    ],
+    "intermediate_beliefs": [
+        {
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "如果我不值得被爱，我也不值得幸福。",
+                "others": "他人不会真正爱我或关心我。",
+                "world": "这个世界上，爱是稀缺的，我不配拥有。"
+            },
+            "rules": "我应该尽量不依赖他人的关爱。",
+            "positive_assumption": "如果我不依赖他人的关爱，我就不会受伤。",
+            "negative_assumption": "如果我依赖他人的关爱，我会被再次伤害。"
+        },
+        {
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我无法成功完成任务。",
+                "others": "他人对我没有信任和期望。",
+                "world": "世界对我的要求超出了我的能力范围。"
+            },
+            "rules": "我不应该尝试新的挑战。",
+            "positive_assumption": "如果我避免挑战，我就不会失败。",
+            "negative_assumption": "如果我尝试挑战，我会证明自己无能。"
+        },
+        {
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我必须在各方面都表现得完美。",
+                "others": "他人只会认可完美的人。",
+                "world": "世界对不完美的人没有容忍。"
+            },
+            "rules": "我必须在每一件事情上都做到完美。",
+            "positive_assumption": "如果我表现得完美，我会被他人认可。",
+            "negative_assumption": "如果我不完美，我会被他人拒绝。"
+        },
+        {
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events",
+            "attitude": {
+                "self": "我有能力帮助和支持别人。",
+                "others": "他人会因为我的帮助而变得更好。",
+                "world": "世界充满了需要帮助的人，我可以做出贡献。"
+            },
+            "rules": "我应该尽力帮助他人。",
+            "positive_assumption": "如果我帮助别人，我会感到满足和有价值。",
+            "negative_assumption": "如果我不帮助别人，我会感到内疚和无用。"
+        }
+    ]
+}

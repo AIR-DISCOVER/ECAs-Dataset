@@ -1,0 +1,434 @@
+{
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要接受现实的磨练。",
+                "others": "他人也在面对他们的挑战。",
+                "world": "世界是严酷的，但充满机会。"
+            },
+            "rules": "我应该坚强面对每一个挑战。",
+            "positive_assumption": "如果我坚强面对挑战，我会成长。",
+            "negative_assumption": "如果我逃避挑战，我会变得更脆弱。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要准备好面对挑战。",
+                "others": "他人可能会成为我的竞争对手。",
+                "world": "世界是竞争激烈的。"
+            },
+            "rules": "我应该时刻保持警惕。",
+            "positive_assumption": "如果我做好准备，我能应对任何挑战。",
+            "negative_assumption": "如果我不准备好，我会失败。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断学习和进步。",
+                "others": "他人愿意分享他们的经验。",
+                "world": "世界是一个学习和成长的地方。"
+            },
+            "rules": "我应该抓住一切学习的机会。",
+            "positive_assumption": "如果我不断学习，我会变得更强。",
+            "negative_assumption": "如果我停止学习，我会停滞不前。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力实现我的目标。",
+                "others": "他人会支持我。",
+                "world": "世界充满了机会。"
+            },
+            "rules": "我应该积极追求我的兴趣和目标。",
+            "positive_assumption": "如果我追求我的目标，我会取得成功。",
+            "negative_assumption": "如果我放弃追求，我会浪费我的潜力。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要表现得很坚强。",
+                "others": "他人不会理解我的脆弱。",
+                "world": "世界对弱者不友好。"
+            },
+            "rules": "我应该隐藏我的脆弱。",
+            "positive_assumption": "如果我表现得坚强，我会得到更多的尊重。",
+            "negative_assumption": "如果我表现得脆弱，我会被轻视。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得被关心。",
+                "others": "他人不会真正关心我的感受。",
+                "world": "世界是冷漠的。"
+            },
+            "rules": "我应该尽量减少对他人的依赖。",
+            "positive_assumption": "如果我不依赖他人，我会变得更独立。",
+            "negative_assumption": "如果我依赖他人，我会被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要隐藏我的缺点。",
+                "others": "他人会注意到我的不足。",
+                "world": "世界不会轻易接受不完美的人。"
+            },
+            "rules": "我应该避免暴露我的缺点。",
+            "positive_assumption": "如果我隐藏好自己的缺点，我会更自信。",
+            "negative_assumption": "如果我的缺点暴露，我会被嘲笑和批评。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断努力才能达到别人的期望。",
+                "others": "他人总是期待我表现出色。",
+                "world": "世界对平庸的人没有宽容。"
+            },
+            "rules": "我应该避免失败并尽量表现出色。",
+            "positive_assumption": "如果我不断努力，我会被认可。",
+            "negative_assumption": "如果我失败了，我会失去他人的尊重。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要接受现实的磨练。",
+                "others": "父母也在面对他们的挑战。",
+                "world": "世界是严酷的，但充满机会。"
+            },
+            "rules": "我应该坚强面对每一个挑战。",
+            "positive_assumption": "如果我坚强面对挑战，我会成长。",
+            "negative_assumption": "如果我逃避挑战，我会变得更脆弱。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要准备好面对挑战。",
+                "others": "同学可能会成为我的竞争对手。",
+                "world": "世界是竞争激烈的。"
+            },
+            "rules": "我应该时刻保持警惕。",
+            "positive_assumption": "如果我做好准备，我能应对任何挑战。",
+            "negative_assumption": "如果我不准备好，我会失败。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断学习和进步。",
+                "others": "老师愿意分享他们的经验。",
+                "world": "世界是一个学习和成长的地方。"
+            },
+            "rules": "我应该抓住一切学习的机会。",
+            "positive_assumption": "如果我不断学习，我会变得更强。",
+            "negative_assumption": "如果我停止学习，我会停滞不前。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力实现我的目标。",
+                "others": "父母和老师会支持我。",
+                "world": "世界充满了机会。"
+            },
+            "rules": "我应该积极追求我的兴趣和目标。",
+            "positive_assumption": "如果我追求我的目标，我会取得成功。",
+            "negative_assumption": "如果我放弃追求，我会浪费我的潜力。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要表现得很坚强。",
+                "others": "同学不会理解我的脆弱。",
+                "world": "世界对弱者不友好。"
+            },
+            "rules": "我应该隐藏我的脆弱。",
+            "positive_assumption": "如果我表现得坚强，我会得到更多的尊重。",
+            "negative_assumption": "如果我表现得脆弱，我会被轻视。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得被关心。",
+                "others": "同学不会真正关心我的感受。",
+                "world": "世界是冷漠的。"
+            },
+            "rules": "我应该尽量减少对他人的依赖。",
+            "positive_assumption": "如果我不依赖他人，我会变得更独立。",
+            "negative_assumption": "如果我依赖他人，我会被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要隐藏我的缺点。",
+                "others": "他人会注意到我的不足。",
+                "world": "世界不会轻易接受不完美的人。"
+            },
+            "rules": "我应该避免暴露我的缺点。",
+            "positive_assumption": "如果我隐藏好自己的缺点，我会更自信。",
+            "negative_assumption": "如果我的缺点暴露，我会被嘲笑和批评。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须不断努力才能达到父母和老师的期望。",
+                "others": "父母和老师总是期待我表现出色。",
+                "world": "世界对平庸的人没有宽容。"
+            },
+            "rules": "我应该避免失败并尽量表现出色。",
+            "positive_assumption": "如果我不断努力，我会被认可。",
+            "negative_assumption": "如果我失败了，我会失去他人的尊重。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要接受现实的磨练。",
+                "others": "他人也在面对他们的挑战。",
+                "world": "世界是严酷的，但充满机会。"
+            },
+            "rules": "我应该坚强面对每一个挑战。",
+            "positive_assumption": "如果我坚强面对挑战，我会成长。",
+            "negative_assumption": "如果我逃避挑战，我会变得更脆弱。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要准备好面对挑战。",
+                "others": "他人可能会成为我的竞争对手。",
+                "world": "世界是竞争激烈的。"
+            },
+            "rules": "我应该时刻保持警惕。",
+            "positive_assumption": "如果我做好准备，我能应对任何挑战。",
+            "negative_assumption": "如果我不准备好，我会失败。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断学习和进步。",
+                "others": "他人愿意分享他们的经验。",
+                "world": "世界是一个学习和成长的地方。"
+            },
+            "rules": "我应该抓住一切学习的机会。",
+            "positive_assumption": "如果我不断学习，我会变得更强。",
+            "negative_assumption": "如果我停止学习，我会停滞不前。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力实现我的目标。",
+                "others": "他人会支持我。",
+                "world": "世界充满了机会。"
+            },
+            "rules": "我应该积极追求我的兴趣和目标。",
+            "positive_assumption": "如果我追求我的目标，我会取得成功。",
+            "negative_assumption": "如果我放弃追求，我会浪费我的潜力。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要表现得很坚强。",
+                "others": "他人不会理解我的脆弱。",
+                "world": "世界对弱者不友好。"
+            },
+            "rules": "我应该隐藏我的脆弱。",
+            "positive_assumption": "如果我表现得坚强，我会得到更多的尊重。",
+            "negative_assumption": "如果我表现得脆弱，我会被轻视。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我不值得被关心。",
+                "others": "他人不会真正关心我的感受。",
+                "world": "世界是冷漠的。"
+            },
+            "rules": "我应该尽量减少对他人的依赖。",
+            "positive_assumption": "如果我不依赖他人，我会变得更独立。",
+            "negative_assumption": "如果我依赖他人，我会被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要隐藏我的缺点。",
+                "others": "他人会注意到我的不足。",
+                "world": "世界不会轻易接受不完美的人。"
+            },
+            "rules": "我应该避免暴露我的缺点。",
+            "positive_assumption": "如果我隐藏好自己的缺点，我会更自信。",
+            "negative_assumption": "如果我的缺点暴露，我会被嘲笑和批评。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须努力表现得更好。",
+                "others": "他人会期待我表现出色。",
+                "world": "世界对平庸的人不宽容。"
+            },
+            "rules": "我应该避免失败并尽量表现得更好。",
+            "positive_assumption": "如果我努力，我会被认可。",
+            "negative_assumption": "如果我失败了，我会让人失望。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

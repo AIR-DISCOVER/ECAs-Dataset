@@ -1,0 +1,174 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "善良",
+            "敏感",
+            "内向",
+            "自卑",
+            "情感丰富"
+        ],
+        "appearance": [
+            "中等身高",
+            "纤细",
+            "皮肤白皙",
+            "长发",
+            "清秀"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "打羽毛球",
+                "阅读",
+                "写作",
+                "听音乐"
+            ],
+            "activity": [
+                "和朋友一起打羽毛球",
+                "周末去公园散步",
+                "在家里听音乐放松"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "恢复情绪稳定，重新找到生活的乐趣",
+            "long_term_goals": "找到一个真正理解和爱护自己的人，建立一个幸福的家庭"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点上班，工作时间较长，晚上7点下班后回家。偶尔会和朋友约打羽毛球。",
+            "weekends": "周末通常会和朋友一起打羽毛球，或者在家里阅读和写作，有时会去公园散步放松心情。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个小城市，家庭和睦，父母对她期望较高。",
+            "adolescence": "中学时期成绩优异，但性格内向，不太擅长与人交往。",
+            "recent_events": "与男友分手，对她打击很大，导致情绪低落，出现抑郁状态。"
+        },
+        "environment": "出生在一个小城市，家庭和睦，父母对她期望较高。大学毕业后在大城市工作，生活节奏较快，压力较大。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "唐莉茜的父母对她期望很高，但也给予了她很多关爱和支持。她与父母的关系非常亲密，尤其是母亲，总是能够理解她的情感波动。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "唐莉茜在小学时有几个好朋友，虽然性格内向，但她们总是愿意陪伴她，分享彼此的秘密。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        4
+                    ],
+                    "description": [
+                        "中学时期，唐莉茜的父母对她的学业要求更高，但也给予了她更多的自由。她与父母的关系依然亲密，但有时会因为学业压力产生一些小摩擦。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "中学时期，唐莉茜的朋友圈子变小了，但她依然有两个非常要好的朋友。她们一起学习，一起讨论未来的梦想。"
+                    ]
+                },
+                {
+                    "relationship": "老师",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "唐莉茜的班主任对她非常关心，经常鼓励她，帮助她克服学习上的困难。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "父母",
+                    "count": 2,
+                    "familiarity": [
+                        5,
+                        4
+                    ],
+                    "description": [
+                        "唐莉茜与男友分手后，父母给予了她很多支持和安慰。虽然他们有时会因为她的情绪波动而担心，但依然尽力帮助她走出困境。"
+                    ]
+                },
+                {
+                    "relationship": "朋友",
+                    "count": 3,
+                    "familiarity": [
+                        4,
+                        3,
+                        3
+                    ],
+                    "description": [
+                        "唐莉茜的朋友们也知道她的情况，经常约她出去打羽毛球或者散步，帮助她缓解压力。"
+                    ]
+                },
+                {
+                    "relationship": "同事",
+                    "count": 5,
+                    "familiarity": [
+                        3,
+                        3,
+                        2,
+                        2,
+                        2
+                    ],
+                    "description": [
+                        "唐莉茜的同事们对她的工作能力很认可，但她最近的情绪波动让他们有些担心。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "唐莉茜的心理咨询师是她最近的重要支持者，帮助她理解自己的情绪，并提供了很多有用的建议。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "唐莉茜的社交关系在不同阶段有明显的变化。童年时期，她的朋友较多，关系也较为亲密。进入中学后，由于学业压力和性格内向，她的朋友圈子变小，但关系更加深厚。最近，由于与男友分手，她的情绪波动较大，但她的家人和朋友依然给予了她很多支持。她的社交能力和意愿在不同阶段有所变化，但总体上，她依然能够依靠身边的亲人和朋友。"
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": "",
+            "name": "",
+            "en_name": "",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "occupation": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": "",
+            "srisk": "",
+            "reason": ""
+        },
+        "character": [
+            "内向",
+            "敏感",
+            "勤奋",
+            "有责任心",
+            "容易焦虑"
+        ],
+        "appearance": [
+            "中等身高",
+            "瘦削",
+            "戴眼镜",
+            "皮肤较白",
+            "头发略长"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "阅读",
+                "听音乐",
+                "看电影",
+                "打篮球"
+            ],
+            "activity": [
+                "和朋友一起打篮球",
+                "周末去图书馆看书",
+                "听音乐放松"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "顺利通过即将到来的考试，提升自信心",
+            "long_term_goals": "成为一名优秀的工程师，找到一份稳定的工作"
+        },
+        "daily_life": {
+            "routine": "每天早上7点起床，8点到教室上课，下午在图书馆自习，晚上10点左右回宿舍休息。",
+            "weekends": "周末通常会去图书馆看书，有时和朋友一起打篮球，偶尔会去看电影或听音乐放松。"
+        },
+        "past_experiences": {
+            "childhood": "出生在一个普通的工薪家庭，父母对他期望很高，从小就被要求努力学习。",
+            "adolescence": "中学时期成绩优异，但由于学习压力大，开始出现焦虑情绪。",
+            "recent_events": "最近一个月由于即将到来的考试压力，感到特别疲倦和缺乏自信。"
+        },
+        "environment": "出生在一个小城市，家庭环境较为普通，父母都是工薪阶层。高中毕业后考入省城的一所大学，目前住在学校宿舍。"
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "父亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "父亲是家里的顶梁柱，工作繁忙，但对何林诚的学习非常关心，经常在晚饭后辅导他的功课。"
+                    ]
+                },
+                {
+                    "relationship": "母亲",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "母亲温柔体贴，负责家里的日常事务，对何林诚的生活起居照顾得无微不至。"
+                    ]
+                },
+                {
+                    "relationship": "小学同学",
+                    "count": 3,
+                    "familiarity": [
+                        3,
+                        4,
+                        2
+                    ],
+                    "description": [
+                        "小学时期的几个好朋友，经常一起玩耍和学习，但随着时间的推移，联系逐渐减少。"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "中学同学",
+                    "count": 5,
+                    "familiarity": [
+                        4,
+                        3,
+                        4,
+                        2,
+                        3
+                    ],
+                    "description": [
+                        "中学时期的同学们，何林诚在班级里成绩优异，但由于学习压力大，社交活动较少。"
+                    ]
+                },
+                {
+                    "relationship": "班主任",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "班主任对何林诚的学习非常关注，经常鼓励他，但也给他带来了不小的压力。"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "大学同学",
+                    "count": 4,
+                    "familiarity": [
+                        3,
+                        3,
+                        4,
+                        2
+                    ],
+                    "description": [
+                        "大学里的室友和同班同学，平时一起上课和自习，有时会一起打篮球或看电影。"
+                    ]
+                },
+                {
+                    "relationship": "辅导员",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "辅导员对何林诚的学习和生活给予了一定的指导，但接触不多。"
+                    ]
+                },
+                {
+                    "relationship": "心理咨询师",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "最近一个月由于考试压力，何林诚开始寻求心理咨询师的帮助，试图缓解自己的焦虑情绪。"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "何林诚在不同阶段的社交关系有明显变化。童年时期，他与父母和小学同学关系密切，但随着时间推移，这些关系逐渐淡化。中学时期，由于学习压力大，他的社交活动减少，主要集中在同学和班主任之间。进入大学后，他的社交圈有所扩大，但由于即将到来的考试压力，他的社交活动再次受到影响，开始寻求心理咨询师的帮助。总体来看，何林诚的社交能力和意愿在不同阶段有所波动，主要受学习压力和自信心影响。"
+    }
+}

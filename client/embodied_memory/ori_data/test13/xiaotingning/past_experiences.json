@@ -1,0 +1,450 @@
+{
+    "childhood": {
+        "name": "萧婷宁",
+        "stage": "童年时期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "我在五岁时，第一次参加幼儿园的绘画比赛。虽然我非常认真地完成了作品，但最终没有获奖。回到家后，我告诉父母，他们安慰我说没关系，但我能看出他们有些失望。",
+                "location": "幼儿园和家中",
+                "happen_time": "2008年03月",
+                "participants": "萧婷宁、父母、幼儿园老师和同学",
+                "impact": "这次经历强化了她的核心信念'我没有能力完成任务'和中间信念'如果我不能按父母的期望做得好，我就是失败者'。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在七岁时，父母开始给我安排额外的补习班，希望我能够在学业上出类拔萃。尽管我已经非常努力，但成绩并没有显著提升。",
+                "location": "补习班和家中",
+                "happen_time": "2010年09月",
+                "participants": "萧婷宁、父母、补习班老师",
+                "impact": "这次经历强化了她的核心信念'我不值得被认可'，并形成了中间信念'我必须不断努力以获得他人的认可'。"
+            },
+            {
+                "event_id": "3",
+                "category": "First-Person Experience",
+                "event": "八岁时，我的绘画作品在学校的展览中受到老师和同学们的称赞，这让我感到非常自豪和开心。",
+                "location": "学校",
+                "happen_time": "2011年05月",
+                "participants": "萧婷宁、老师、同学",
+                "impact": "这次正面的体验强化了她的核心信念'我是有创造力的'和中间信念'如果我努力创作，我会获得成就感和他人的赞赏'。"
+            },
+            {
+                "event_id": "4",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里看到父母因为我的成绩问题而争吵，母亲说我需要更加努力，而父亲则认为我已经很努力了。",
+                "location": "家中",
+                "happen_time": "2012年03月",
+                "participants": "萧婷宁、父母",
+                "impact": "这个事件让她感到压力增大，并强化了她的中间信念'他人只会关注我的成绩'和'如果我表现不好，我就会被忽视和轻视'。"
+            },
+            {
+                "event_id": "5",
+                "category": "First-Person Experience",
+                "event": "在十岁时，我的一位好朋友因为成绩不理想而被父母责骂，我感到非常难过和无助。",
+                "location": "朋友家和学校",
+                "happen_time": "2013年10月",
+                "participants": "萧婷宁、朋友、朋友的父母",
+                "impact": "这个事件强化了她的中间信念'世界对我的认可是基于我的表现'和'如果我不能完成任务，我将被视为无能'。"
+            },
+            {
+                "event_id": "6",
+                "category": "Third-Person Observation",
+                "event": "一次学校活动中，我看到一位同学因表现不佳而被老师当众批评，感到非常羞愧。",
+                "location": "学校",
+                "happen_time": "2014年04月",
+                "participants": "萧婷宁、老师、同学",
+                "impact": "这个事件让她更加害怕失败，强化了她的中间信念'我必须完美地完成任务，才能证明自己的能力'。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "在十一岁时，我参加了一次全市的绘画比赛，并获得了二等奖。回到家后，父母很高兴，他们对我的表现给予了高度评价。",
+                "location": "比赛场地和家中",
+                "happen_time": "2014年12月",
+                "participants": "萧婷宁、父母、比赛评委和参与者",
+                "impact": "这次正面的体验强化了她的核心信念'我是有创造力的'和中间信念'如果我努力创作，我会获得成就感和他人的赞赏'。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "在学校的一次班会上，我看到一位同学因为帮助他人而得到老师的表扬，感受到友情和支持的重要性。",
+                "location": "学校",
+                "happen_time": "2015年03月",
+                "participants": "萧婷宁、老师、同学",
+                "impact": "这个事件强化了她的核心信念'我能依靠朋友的支持'和中间信念'我应该主动寻求朋友的支持和帮助'。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "一次，我在家里尝试自己做手工，但失败了，父母鼓励我继续尝试，并给予了帮助。",
+                "location": "家中",
+                "happen_time": "2011年08月",
+                "participants": "萧婷宁、父母",
+                "impact": "这次经历帮助她建立了自信，强化了她的核心信念'我是有创造力的'。"
+            },
+            {
+                "event_id": "10",
+                "category": "Third-Person Observation",
+                "event": "在一次家庭聚会上，我观察到表姐因为考上重点高中而受到全家人的赞扬，感到自己也需要更加努力。",
+                "location": "家庭聚会的场所",
+                "happen_time": "2012年12月",
+                "participants": "萧婷宁、表姐及家人",
+                "impact": "这个事件让她感到压力，强化了她的中间信念'我必须不断努力以获得他人的认可'。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校被选为班级的美术课代表，这让我感到非常自豪和开心。",
+                "location": "学校",
+                "happen_time": "2013年09月",
+                "participants": "萧婷宁、老师、同学",
+                "impact": "这次正面的体验帮助她建立了自信，强化了她的核心信念'我是有创造力的'。"
+            },
+            {
+                "event_id": "12",
+                "category": "Third-Person Observation",
+                "event": "一次在公园散步时，我看到一对父母对孩子进行严格的教育，感到家庭教育的重要性。",
+                "location": "公园",
+                "happen_time": "2015年04月",
+                "participants": "萧婷宁、陌生人",
+                "impact": "这个事件让她认识到父母严格教育的用意，强化了她的中间信念'我必须完美地完成任务，才能证明自己的能力'。"
+            },
+            {
+                "event_id": "13",
+                "category": "First-Person Experience",
+                "event": "在一次家庭聚会上，父母在众人面前表扬了我的画技，让我感到非常骄傲和被认可。",
+                "location": "家庭聚会的场所",
+                "happen_time": "2014年11月",
+                "participants": "萧婷宁、父母、亲戚",
+                "impact": "这次正面的体验强化了她的核心信念'我是有创造力的'和中间信念'如果我努力创作，我会获得成就感和他人的赞赏'。"
+            },
+            {
+                "event_id": "14",
+                "category": "First-Person Experience",
+                "event": "有一次，我在学校考试中失利，父母虽然安慰我，但我能感觉到他们的失望。",
+                "location": "学校和家中",
+                "happen_time": "2015年06月",
+                "participants": "萧婷宁、父母、老师",
+                "impact": "这次经历强化了她的核心信念'我没有能力完成任务'和中间信念'如果我不能按父母的期望做得好，我就是失败者'。"
+            },
+            {
+                "event_id": "15",
+                "category": "Third-Person Observation",
+                "event": "一次在学校的升旗仪式上，我看到一位同学因为表现优秀而被校长表扬，感到自己需要更加努力。",
+                "location": "学校",
+                "happen_time": "2015年09月",
+                "participants": "萧婷宁、校长、同学",
+                "impact": "这个事件让她感到压力，强化了她的中间信念'我必须不断努力以获得他人的认可'。"
+            }
+        ]
+    },
+    "adolescence": {
+        "name": "萧婷宁",
+        "stage": "青春期",
+        "key_events": [
+            {
+                "event_id": "1",
+                "category": "First-Person Experience",
+                "event": "初中一年级的期末考试成绩公布，我的成绩在班级排名中处于中游。父母虽然没有责备我，但我能感受到他们的失望。他们只是默默地看着成绩单，然后彼此对视了一眼。我当时感到非常内疚和焦虑，觉得自己不够优秀。",
+                "location": "家中",
+                "happen_time": "2016年6月",
+                "participants": "父母",
+                "impact": "这次事件强化了萧婷宁的核心信念'我没有能力完成任务'和中间信念'父母和老师会对我失望'，增加了她对成绩的焦虑感。"
+            },
+            {
+                "event_id": "2",
+                "category": "First-Person Experience",
+                "event": "在一次美术课上，我的作品被美术老师选中展示在校内展览中。老师在众人面前表扬了我的创作能力，我感到非常自豪和开心。这是我第一次在学术以外的领域受到认可。",
+                "location": "学校美术教室",
+                "happen_time": "2017年3月",
+                "participants": "美术老师、同学",
+                "impact": "这次事件强化了萧婷宁的核心信念'我是有创造力的'和中间信念'朋友和老师会支持我的创作'，提升了她在艺术方面的自信。"
+            },
+            {
+                "event_id": "3",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在教室里看到班里成绩优异的同学被班主任单独叫出去谈话，回来后他显得非常沮丧。后来听说他因为一次考试失误被批评了。我开始意识到，连成绩好的同学也会因为一次失误而受到责备。",
+                "location": "学校教室",
+                "happen_time": "2017年5月",
+                "participants": "班主任、同学",
+                "impact": "这次观察让萧婷宁更加坚定了中间信念'世界对我的认可是基于我的表现'，并增加了她对失败的恐惧。"
+            },
+            {
+                "event_id": "4",
+                "category": "First-Person Experience",
+                "event": "在初二的一次英语演讲比赛中，由于过度紧张，我在台上忘词了。台下有同学窃笑，我感到非常羞耻，觉得自己非常无能。赛后，班主任安慰我说，紧张是可以理解的，让我不要太在意。",
+                "location": "学校礼堂",
+                "happen_time": "2017年11月",
+                "participants": "同学、班主任",
+                "impact": "这次事件强化了萧婷宁的核心信念'我不值得被认可'和中间信念'如果我表现不好，我就会被忽视和轻视'，使她对公开演讲产生了更大的焦虑。"
+            },
+            {
+                "event_id": "5",
+                "category": "Third-Person Observation",
+                "event": "有一次，我在家里听到父母讨论经济问题，父亲说因为我的学费压力很大。虽然他们没有直接对我说什么，但我感到自己是一个负担。",
+                "location": "家中",
+                "happen_time": "2018年1月",
+                "participants": "父母",
+                "impact": "这次事件让萧婷宁感到自己对家庭的负担，强化了她的中间信念'我必须完美地完成学业，才能证明自己的能力'，增加了她对成绩和表现的焦虑。"
+            },
+            {
+                "event_id": "6",
+                "category": "First-Person Experience",
+                "event": "高中入学考试，我以优异的成绩考入了一所知名高中。父母非常高兴，带我去吃了一顿大餐庆祝。这是我第一次感到自己被认可和重视。",
+                "location": "餐厅",
+                "happen_time": "2018年9月",
+                "participants": "父母",
+                "impact": "这次成功的经历暂时缓解了萧婷宁的核心信念'我没有能力完成任务'，并让她感受到父母的认可，提升了她的自信心。"
+            },
+            {
+                "event_id": "7",
+                "category": "First-Person Experience",
+                "event": "高二的一次模拟考试中，因为身体不适，我的成绩大幅下降。父母虽然没有责备我，但我感到非常内疚，觉得自己对不起他们的期望。",
+                "location": "家中",
+                "happen_time": "2019年3月",
+                "participants": "父母",
+                "impact": "这次事件再次强化了萧婷宁的核心信念'我没有能力完成任务'和中间信念'如果我不能取得好成绩，我将被视为无能'，增加了她对未来考试的焦虑。"
+            },
+            {
+                "event_id": "8",
+                "category": "Third-Person Observation",
+                "event": "有一次，我看到一位同学因为家庭变故，成绩大幅下滑，班主任对他进行了严厉的批评。这让我感到，成绩不好的后果是非常严重的。",
+                "location": "学校教室",
+                "happen_time": "2019年5月",
+                "participants": "班主任、同学",
+                "impact": "这次事件让萧婷宁更加坚定了中间信念'如果我不能取得好成绩，我将被视为无能'，增加了她对失败的恐惧。"
+            },
+            {
+                "event_id": "9",
+                "category": "First-Person Experience",
+                "event": "高三的一次班级活动中，我主动提出组织一场艺术展览，得到了同学和老师的支持。展览非常成功，我感到非常有成就感，认为自己的创造力得到了认可。",
+                "location": "学校",
+                "happen_time": "2020年5月",
+                "participants": "同学、美术老师",
+                "impact": "这次事件强化了萧婷宁的核心信念'我是有创造力的'和中间信念'如果我努力创作，我会获得成就感和他人的赞赏'，提升了她在艺术方面的自信。"
+            },
+            {
+                "event_id": "10",
+                "category": "First-Person Experience",
+                "event": "高考前夕，我感到极度焦虑，甚至出现了失眠和食欲不振的症状。这时，几位好友主动找到我，陪我散步、聊天，给我打气。我感到非常温暖，觉得自己并不孤单。",
+                "location": "公园",
+                "happen_time": "2021年6月",
+                "participants": "朋友",
+                "impact": "这次事件强化了萧婷宁的核心信念'我能依靠朋友的支持'和中间信念'如果我依靠朋友的支持，我会更有信心面对挑战'，帮助她缓解了部分焦虑。"
+            },
+            {
+                "event_id": "11",
+                "category": "First-Person Experience",
+                "event": "高考成绩出来后，我考上了一所知名大学。虽然父母表示满意，但我自己仍然感到不安，担心在更高的学术环境中无法表现得同样优秀。",
+                "location": "家中",
+                "happen_time": "2021年8月",
+                "participants": "父母",
+                "impact": "虽然成功考入大学，但萧婷宁的核心信念'我没有能力完成任务'依然存在，对未来的学业感到焦虑。"
+            }
+        ]
+    },
+    "recent_events": {
+        "name": "萧婷宁",
+        "stage": "近期情况",
+        "key_events": [
+            {
+                "event_id": "1",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在大学的一个晚上，我正在宿舍里努力赶论文，但总觉得没有灵感，开始怀疑自己的能力。我给妈妈打电话，表达了自己的焦虑。她安慰我，但我依然感到无助。",
+                "location": "大学宿舍",
+                "happen_time": "2023年11月",
+                "participants": "妈妈",
+                "impact": "这次通话加重了我的焦虑，因为我感觉自己无法满足妈妈和导师对我的期望。"
+            },
+            {
+                "event_id": "2",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次论文指导会上，导师指出了我论文中的许多问题，并提出了很多修改意见。我感到非常挫败和压力。",
+                "location": "大学导师办公室",
+                "happen_time": "2023年12月",
+                "participants": "导师",
+                "impact": "这次指导会让我更加怀疑自己的能力，感到自己可能无法完成任务。"
+            },
+            {
+                "event_id": "3",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次朋友的聚会上，我试图表现得轻松，但内心的焦虑让我无法真正享受这次聚会。朋友们注意到我的情绪低落，试图安慰我。",
+                "location": "朋友的公寓",
+                "happen_time": "2024年1月",
+                "participants": "三位密友",
+                "impact": "虽然朋友的安慰让我感到一些温暖，但我依然无法摆脱对论文的担忧，感觉自己不值得被认可。"
+            },
+            {
+                "event_id": "4",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一个周末，我决定去公园散步，希望能放松一下。但整个过程中，我的脑海里一直想着论文的事情，无法真正放松。",
+                "location": "城市公园",
+                "happen_time": "2024年2月",
+                "participants": "无",
+                "impact": "这次散步让我意识到，自己已经被论文压力完全占据，无法享受平时喜欢的活动。"
+            },
+            {
+                "event_id": "5",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与导师的会谈中，导师表扬了我近期的进步，但我依然感到不安，总觉得自己做得不够好。",
+                "location": "大学导师办公室",
+                "happen_time": "2024年3月",
+                "participants": "导师",
+                "impact": "虽然获得了一些认可，但我依然无法摆脱内心的自我怀疑。"
+            },
+            {
+                "event_id": "6",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在学校图书馆，我看到一位同学因为论文得了高分而受到大家的赞赏。我感到非常羡慕，并开始质疑自己的能力。",
+                "happen_time": "2024年4月",
+                "participants": "同学",
+                "impact": "这次观察让我更加坚定地认为，世界对我的认可是基于我的表现。如果我不能表现好，我就会被忽视。"
+            },
+            {
+                "event_id": "7",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次家庭视频通话中，父母询问了我的论文进展，并表达了对我的期望。我感到压力倍增，尽管父母的出发点是好的。",
+                "location": "宿舍",
+                "happen_time": "2024年5月",
+                "participants": "父母",
+                "impact": "这次通话让我更加感到，如果我不能顺利完成论文，我将让父母失望。"
+            },
+            {
+                "event_id": "8",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次绘画活动中，我发现自己很难集中注意力，总是想着论文的事情，导致作品质量不佳。",
+                "location": "大学画室",
+                "happen_time": "2024年6月",
+                "participants": "绘画朋友",
+                "impact": "这次经历让我感到自己正在失去创作的能力，进一步加深了自我怀疑。"
+            },
+            {
+                "event_id": "9",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次导师的办公室，我告诉导师我对论文的担忧。导师鼓励我继续努力，但我依然感到焦虑。",
+                "location": "大学导师办公室",
+                "happen_time": "2024年7月",
+                "participants": "导师",
+                "impact": "尽管得到了导师的鼓励，但我依然感到自己可能无法完成任务。"
+            },
+            {
+                "event_id": "10",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次学校的公开讲座上，我听到一位成功的插画师分享她的经历。她谈到如何克服困难，这让我感到既鼓舞又压力倍增。",
+                "happen_time": "2024年8月",
+                "participants": "成功插画师",
+                "impact": "这次讲座让我意识到，成功需要克服很多困难，但也让我感到自己可能无法达到那样的成就。"
+            },
+            {
+                "event_id": "11",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与朋友的聚餐中，我尝试向朋友们倾诉自己的压力，朋友们给予了我很多支持和鼓励。",
+                "location": "餐厅",
+                "happen_time": "2024年3月",
+                "participants": "三位密友",
+                "impact": "朋友的支持让我感到温暖，但我依然无法完全摆脱内心的焦虑。"
+            },
+            {
+                "event_id": "12",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次夜晚的失眠中，我不断思考论文的进展，感到无比焦虑和无助。",
+                "location": "宿舍",
+                "happen_time": "2024年4月",
+                "participants": "无",
+                "impact": "这次失眠让我意识到，自己的焦虑已经严重影响了生活质量。"
+            },
+            {
+                "event_id": "13",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次与朋友的聊天中，朋友谈到她面对压力时的积极心态。这让我开始反思自己应对压力的方式。",
+                "happen_time": "2024年5月",
+                "participants": "朋友",
+                "impact": "这次聊天让我意识到，或许我需要改变自己应对压力的方式，尝试更加积极的心态。"
+            },
+            {
+                "event_id": "14",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与导师的会谈中，我提出了自己的一些新想法，导师表示赞赏，但我依然感到不安。",
+                "location": "大学导师办公室",
+                "happen_time": "2024年6月",
+                "participants": "导师",
+                "impact": "虽然得到了导师的认可，但我依然无法完全信任自己的能力。"
+            },
+            {
+                "event_id": "15",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次自习室的学习中，我感到非常疲惫，甚至连吃饭的欲望都没有。",
+                "location": "大学自习室",
+                "happen_time": "2024年7月",
+                "participants": "无",
+                "impact": "这次经历让我认识到，自己的食欲和生活质量正在受到严重影响。"
+            },
+            {
+                "event_id": "16",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次去公园散步的过程中，我遇到了一个老朋友，我们聊了很多关于过去的事情。",
+                "location": "公园",
+                "happen_time": "2024年8月",
+                "participants": "老朋友",
+                "impact": "这次聊天让我感到一些放松，但回到现实后依然感到压力重重。"
+            },
+            {
+                "event_id": "17",
+                "stage_key": "近期情况",
+                "category": "Third-Person Observation",
+                "event": "在一次学校的心理健康讲座上，我了解到很多同学也有类似的压力和焦虑。",
+                "happen_time": "2024年4月",
+                "participants": "同学",
+                "impact": "这次讲座让我意识到，自己并不是孤单一个人面对这些问题，但也加深了对自己现状的担忧。"
+            },
+            {
+                "event_id": "18",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与父母的电话中，我告诉他们自己最近的压力，父母表示理解和支持，但我依然感到焦虑。",
+                "location": "宿舍",
+                "happen_time": "2024年8月",
+                "participants": "父母",
+                "impact": "父母的支持让我感到一些安慰，但我依然无法完全摆脱对论文的担忧。"
+            },
+            {
+                "event_id": "19",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次绘画创作中，我发现自己重新找回了一些灵感，感到一些成就感。",
+                "location": "大学画室",
+                "happen_time": "2024年8月",
+                "participants": "无",
+                "impact": "这次创作让我感到一些成就感，暂时缓解了对论文的焦虑。"
+            },
+            {
+                "event_id": "20",
+                "stage_key": "近期情况",
+                "category": "First-Person Experience",
+                "event": "在一次与朋友的聊天中，我意识到自己一直在向他们寻求支持，但我也需要学会自我调节。",
+                "location": "宿舍",
+                "happen_time": "2024年8月",
+                "participants": "三位密友",
+                "impact": "这次聊天让我意识到，朋友的支持固然重要，但我也需要学会自我调节和应对压力。"
+            }
+        ]
+    }
+}

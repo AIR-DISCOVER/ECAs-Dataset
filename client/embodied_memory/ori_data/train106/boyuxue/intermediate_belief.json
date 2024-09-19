@@ -1,0 +1,434 @@
+{
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力找到生活的平衡点。",
+                "others": "家人会理解并支持我的努力。",
+                "world": "平衡的生活是可以实现的。"
+            },
+            "rules": "我应该积极调整生活方式，寻找新的兴趣。",
+            "positive_assumption": "如果我调整生活方式，我会发现更多的乐趣和意义。",
+            "negative_assumption": "如果我不调整，我会继续感到生活乏味。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要找到生活和家庭之间的平衡。",
+                "others": "家人和我都需要一个平衡的生活。",
+                "world": "平衡的生活是健康和幸福的关键。"
+            },
+            "rules": "我应该为自己和家庭找到一个合适的平衡点。",
+            "positive_assumption": "如果我找到平衡，我会感到更满足和幸福。",
+            "negative_assumption": "如果我找不到平衡，我会感到压力和不满。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我感到有责任为家庭尽心尽力。",
+                "others": "家人依赖我的付出。",
+                "world": "世界需要我为家庭尽责。"
+            },
+            "rules": "我需要确保家庭的每一个人都得到照顾。",
+            "positive_assumption": "如果我照顾好家庭，每个人都会幸福。",
+            "negative_assumption": "如果我无法照顾好家庭，我会感到内疚和失败。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值在于为家庭付出。",
+                "others": "家人需要我不断的付出。",
+                "world": "家庭是我生活的全部。"
+            },
+            "rules": "我应该把家庭放在第一位，尽可能地为他们付出。",
+            "positive_assumption": "如果我为家庭付出一切，我会被家人所爱和尊重。",
+            "negative_assumption": "如果我不全心全意为家庭付出，我会失去家人的爱。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我认为自己不能仅仅依靠家庭生活来满足自己。",
+                "others": "他人可能会觉得我的生活很单调。",
+                "world": "生活不应当只是重复的家务和责任。"
+            },
+            "rules": "我需要主动寻找新的生活方式。",
+            "positive_assumption": "如果我找到新的生活方式，我会感到更充实。",
+            "negative_assumption": "如果我不改变，我会一直觉得生活枯燥。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我感到自己的生活缺乏刺激和新意。",
+                "others": "他人似乎过得比我更有趣。",
+                "world": "世界对我来说变得单调乏味。"
+            },
+            "rules": "我应该尝试寻找新的兴趣和活动来丰富生活。",
+            "positive_assumption": "如果我找到新的兴趣，我会感到生活更有意义。",
+            "negative_assumption": "如果我继续这样下去，我会一直觉得生活乏味。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力平衡家庭和个人生活。",
+                "others": "家人会理解并支持我的努力。",
+                "world": "平衡的生活是可以实现的。"
+            },
+            "rules": "我应该积极调整生活方式，寻找新的兴趣。",
+            "positive_assumption": "如果我调整生活方式，我会发现更多的乐趣和意义。",
+            "negative_assumption": "如果我不调整，我会继续感到生活乏味。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "找到平衡对我来说很重要。",
+                "others": "家人和我都需要一个平衡的生活。",
+                "world": "生活的平衡是幸福的关键。"
+            },
+            "rules": "我应该在家庭和个人追求之间找到一个合适的平衡点。",
+            "positive_assumption": "如果我找到平衡，我会感到更幸福和满足。",
+            "negative_assumption": "如果我找不到平衡，我会感到压力和不满。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任为家人提供支持。",
+                "others": "家人需要我的帮助和关心。",
+                "world": "家庭的幸福取决于我的付出。"
+            },
+            "rules": "我应该尽可能多地陪伴和支持家人。",
+            "positive_assumption": "如果我支持家人，他们会感到安全和幸福。",
+            "negative_assumption": "如果我没有提供足够的支持，家庭会出现问题。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我的责任是确保家庭幸福。",
+                "others": "家人依赖我的付出。",
+                "world": "家庭是我生活的核心。"
+            },
+            "rules": "我应该尽一切努力照顾好家庭。",
+            "positive_assumption": "如果我全心全意为家庭付出，家人会感到幸福。",
+            "negative_assumption": "如果我没有尽力，家人会感到失望。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要不断学习和成长。",
+                "others": "他人会尊重一个不断提升自己的人。",
+                "world": "知识和技能是获取更好生活的关键。"
+            },
+            "rules": "我应该利用空闲时间学习新的知识和技能。",
+            "positive_assumption": "如果我不断学习，我会变得更有价值。",
+            "negative_assumption": "如果我不学习，我会被人看轻。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要找到自己的兴趣和追求。",
+                "others": "朋友们似乎都有丰富多彩的生活。",
+                "world": "世界充满了探索的机会。"
+            },
+            "rules": "我应该积极参与各种活动来充实自己。",
+            "positive_assumption": "如果我找到自己的兴趣，我会感到生活充实和有意义。",
+            "negative_assumption": "如果我没有找到自己的兴趣，我会感到生活空虚。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力找到生活的平衡点。",
+                "others": "家人会理解并支持我的努力。",
+                "world": "平衡的生活是可以实现的。"
+            },
+            "rules": "我应该积极调整学习和家庭生活。",
+            "positive_assumption": "如果我调整生活方式，我会发现更多的乐趣和意义。",
+            "negative_assumption": "如果我不调整，我会继续感到生活乏味。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要找到学业和家庭之间的平衡。",
+                "others": "家人和我都需要一个平衡的生活。",
+                "world": "平衡的生活是健康和幸福的关键。"
+            },
+            "rules": "我应该为自己和家庭找到一个合适的平衡点。",
+            "positive_assumption": "如果我找到平衡，我会感到更满足和幸福。",
+            "negative_assumption": "如果我找不到平衡，我会感到压力和不满。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我感到有责任帮助家庭。",
+                "others": "家人依赖我的支持。",
+                "world": "世界需要我为家庭尽责。"
+            },
+            "rules": "我需要确保家庭的每一个人都得到支持。",
+            "positive_assumption": "如果我帮助家庭，每个人都会更幸福。",
+            "negative_assumption": "如果我无法帮助家庭，我会感到内疚和失败。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值在于为家庭付出。",
+                "others": "家人需要我的帮忙和支持。",
+                "world": "家庭是我生活的重心。"
+            },
+            "rules": "我应该尽可能帮助家庭。",
+            "positive_assumption": "如果我为家庭付出，我会被家人所爱和尊重。",
+            "negative_assumption": "如果我不为家庭付出，我会失去家人的爱。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我认为自己无法仅靠学业来满足。",
+                "others": "他人可能觉得我需要更多的选择。",
+                "world": "生活不应只有学习和考试。"
+            },
+            "rules": "我需要寻找除了学业以外的生活目标。",
+            "positive_assumption": "如果我找到其他目标，我会感到更充实。",
+            "negative_assumption": "如果我只专注学业，我会觉得生活单调。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我感到无法实现自己的全部潜力。",
+                "others": "他人可能认为我没有达到应有的高度。",
+                "world": "世界对我来说充满了未完成的目标。"
+            },
+            "rules": "我应该努力学习以证明自己。",
+            "positive_assumption": "如果我努力学习并取得好成绩，我会找到生活的意义。",
+            "negative_assumption": "如果我不努力学习，我会觉得生活毫无意义。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力找到生活的平衡点。",
+                "others": "家人会理解并支持我的努力。",
+                "world": "平衡的生活是可以实现的。"
+            },
+            "rules": "我应该积极调整生活方式，寻找新的兴趣。",
+            "positive_assumption": "如果我调整生活方式，我会发现更多的乐趣和意义。",
+            "negative_assumption": "如果我不调整，我会继续感到生活乏味。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要找到生活和家庭之间的平衡。",
+                "others": "家人和我都需要一个平衡的生活。",
+                "world": "平衡的生活是健康和幸福的关键。"
+            },
+            "rules": "我应该为自己和家庭找到一个合适的平衡点。",
+            "positive_assumption": "如果我找到平衡，我会感到更满足和幸福。",
+            "negative_assumption": "如果我找不到平衡，我会感到压力和不满。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我感到有责任为家庭尽心尽力。",
+                "others": "家人依赖我的付出。",
+                "world": "世界需要我为家庭尽责。"
+            },
+            "rules": "我需要确保家庭的每一个人都得到照顾。",
+            "positive_assumption": "如果我照顾好家庭，每个人都会幸福。",
+            "negative_assumption": "如果我无法照顾好家庭，我会感到内疚和失败。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值在于为家庭付出。",
+                "others": "家人需要我不断的付出。",
+                "world": "家庭是我生活的全部。"
+            },
+            "rules": "我应该把家庭放在第一位，尽可能地为他们付出。",
+            "positive_assumption": "如果我为家庭付出一切，我会被家人所爱和尊重。",
+            "negative_assumption": "如果我不全心全意为家庭付出，我会失去家人的爱。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我认为自己不能仅仅依靠家庭生活来满足自己。",
+                "others": "他人可能会觉得我的生活很单调。",
+                "world": "生活不应当只是重复的家务和责任。"
+            },
+            "rules": "我需要主动寻找新的生活方式。",
+            "positive_assumption": "如果我找到新的生活方式，我会感到更充实。",
+            "negative_assumption": "如果我不改变，我会一直觉得生活枯燥。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我感到自己的生活缺乏刺激和新意。",
+                "others": "同龄的小伙伴似乎比我更快乐。",
+                "world": "世界对我来说有些孤独和无聊。"
+            },
+            "rules": "我应该尝试寻找新的兴趣和活动来丰富生活。",
+            "positive_assumption": "如果我找到新的兴趣，我会感到生活更有意义。",
+            "negative_assumption": "如果我继续这样下去，我会一直觉得生活乏味。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}
