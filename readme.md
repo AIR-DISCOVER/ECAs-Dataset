@@ -16,11 +16,11 @@
 ## Data Structure
 ```
 ECAS-DATASET
-├─client                                                 # All generated data of Client Agents
-│  ├─embodied_memory                                     # Generated embodied memory of 100 Client Agnets
-│  │  ├─ori_data                                         # All the raw data that reflects the memory generation process
-│  │  └─database.db                                      # Memory stored in database
-│  └─profiles                                            # Generated profiles of 451 Client Agnets
+├─client                                # All generated data of Client Agents
+│  ├─embodied_memory                    # Generated embodied memory of 100 Client Agnets
+│  │  ├─ori_data                        # All the raw data that reflects the memory generation process
+│  │  └─database.db                     # Memory stored in database
+│  └─profiles                           # Generated profiles of 451 Client Agnets
 ```
 
 
